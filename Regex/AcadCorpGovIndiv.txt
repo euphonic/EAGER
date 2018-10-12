@@ -1,0 +1,60 @@
+**Academic
+100 1 \bAcad\b
+100 1 \bAcademic
+100 1 \bColl\b
+100 1 \bColleg
+100 1 \bEcole
+100 1 \bEscola
+100 1 \bInst of Tech[a-z]+
+100 1 \bMIT\b
+100 1 \bSch\b
+100 1 \bSchool
+100 1 \bUniv
+**Corporate
+100 1 \bAB$
+100 1 \bAG\b
+100 1 \bBoeing\b
+100 1 \bCompany\b
+100 1 \bCorporation\b
+100 1 \bConsultant\b
+100 1 \bCorp\b
+100 1 \bGmbh\b
+100 1 \bIBM\b
+100 1 \bInc\b
+100 1 \bKGAA\b
+100 1 \bKK$
+100 1 \bLLC\b
+100 1 \bLimited\b
+100 1 \bLtd\b
+100 1 \bNTT\b
+100 1 \bNV$
+100 1 \bPLC\b
+100 1 \bSA$
+100 1 \bSPA$
+100 1 \bCorporation$
+100 1 \bLLC$
+**Government
+100 1 Academ(y|ies)
+100 1 Res Inst
+100 1 Res Org
+100 1 \bAir Force\b
+100 1 \bArmy\b
+100 1 \bCSIRO\b
+100 1 \bMin\b
+100 1 \bNASA\b
+100 1 \bNSF\b
+100 1 \bNatl?\b
+100 1 \bNav(y|al)\b
+100 1 \bUSAF\b
+100 1 \bministry\b
+100 1 \bnational\b
+**Hospital
+100 1 \bClinic\b
+100 1 \bHopital\b
+100 1 \bHosp(ital)?
+100 1 \binfirmary\b
+**People
+100 1 [A-Z]{2,} [A-Z] [A-Z]$
+100 1 [A-Z]{2,} [A-Z]$
+100 1 [A-Z]{3,} [A-Z] [A-Z] [A-Z] [A-Z]$
+100 1 [A-Z]{3,} [A-Z] [A-Z] [A-Z]$
