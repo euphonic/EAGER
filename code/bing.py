@@ -11,7 +11,7 @@ import requests
 
 mdbc = pymongo.MongoClient("mongodb://localhost:27017/")
 db = mdbc["EAGER"]
-col = db["firm_url_search"]
+col = db["bingResults"]
 
 pp = pprint.PrettyPrinter(indent=4)
 
@@ -23,9 +23,6 @@ csv_out = csv.writer(f_out)
 
 e_out = open('/Users/sarora/dev/EAGER/data/error_out.csv', 'w')
 ecsv_out = csv.writer(e_out)
-
-public_pat = re.compile("public*|trade*|trading|stock|NYSE|NASDAQ")
-acquired_merged_pat = re.compile("merge*|acquisition|acquire|formerly|(last earnings release)|(spun off)")
 
 csv_out.writerow(["firm name", "link", "acquired_merged", "public"])
 
@@ -53,8 +50,7 @@ for row in csv_in:
         # pp.pprint(hits)
 
         link = None
-        acquired_merged = 0
-        public = 0
+
         for i in range(HITNUM):
             hit = hits[i]
             link = hit['url']
@@ -62,28 +58,24 @@ for row in csv_in:
             snippet = hit['snippet']
             if "facebook.com" not in link and "usnews.com" not in link and "google.com" not in link and ".gov/" not in link \
                     and "mapquest.com" not in link and "wikipedia.org" not in link and "niche.com" not in link and "trulia.com" not in link and "zillow.com" not in link \
-                    and "redfin.com" not in link and "linked.com" not in link and "justia" not in link and "twitter.com" not in link:
+                    and "redfin.com" not in link and "linkedin.com" not in link and "justia" not in link and "twitter.com" not in link:
                 break
 
-            if public_pat.search(name) or public_pat.search(snippet):
-                public = public + 1
-            if acquired_merged_pat.search(name) or acquired_merged_pat.search(snippet):
-                acquired_merged = acquired_merged + 1
+        csv_out.writerow([search_term, link])
 
-        csv_out.writerow([search_term, link, acquired_merged, public])
-        results['public'] = public
-        results['acquired'] = acquired_merged
+        # insert into mongo
         try:
-            db.collection.insert(results)
+            db.insert(results)
         except Exception as e:
             print('\tCannot add search result into mongodb!')
             print(e)
             traceback.print_exc()
+
     except Exception as e:
         print('\tCannot search url!')
         print(e)
         traceback.print_exc()
-        csv_out.writerow([search_term, '', '', ''])
+        csv_out.writerow([search_term, ''])
         ecsv_out.writerow(row)
 
     sleep(.5)  # Time in seconds.
