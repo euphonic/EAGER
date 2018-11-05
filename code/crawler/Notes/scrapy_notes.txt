@@ -1,0 +1,188 @@
+Notes:
+
+----------
+Command Line:
+
+run using:
+    scrapy crawl Spidername
+
+Change settings using:
+    scrapy crawl Spidername --set="ROBOTSTXT_OBEY=False"
+
+----------
+How Spiders work:
+
+First requests are obtained by calling start_requests() method,
+which generates Request for URLs specified in start_urls.
+
+For example:
+
+    def start_requests(self):
+        urls = [
+            'https://jsennett.github.io/',
+            'https://www.aadusd.k12.ca.us/Domain/10',
+            'https://www.aadusd.k12.ca.us/domain/127',
+            'https://www.amsacs.org/',
+        ]
+        for url in urls:
+            yield scrapy.Request(url=url, callback=self.parse)
+
+
+Other parameters:
+
+    allowed_domains = ['example.com', example2.com']
+    start_urls = ['example.com/domain127', 'example2.com/index']
+    custom_settings = { 'ROBOTSTXT_OBEY': False}
+
+    parse(Response)
+        this is responsible for processing the response and returning scraped data and more URLs to follow
+        This must return an interable of Request and/or dicts or Item objects
+
+example parse() method:
+
+    def parse(self, response):
+        for href in response.xpath('//href').extract():
+            yield {"title": h3}
+
+        for url in response.xpath("//a/@href").extract():
+            yield scrapy.Request(url, callback=self.parse)
+
+
+----------
+
+    Ideas for finding names:
+
+more likely if url contains "directory" or href contains "director", or "contact", or "teachers", "staff", etc.
+name detecting
+ner - named entity recognition
+    Is this a page that has names?
+    identify html tags or classes where names are found
+    pull all information from these fields
+
+    instead of using scraper to identify the fields, we pull in the HTML and then use NER to recognize emails, first/last, and phone numbers
+    Unsure how
+
+    identify emails that match names -- characters
+    Jigsaw -- you give it a source file
+        GA tech
+        when you put in lots of documents, the software identifies person, location, org, date, name.
+        can give you a map
+
+    investigate Jigsaw
+
+    python nltk
+
+    search for emailids; identify tags/div-ids to search for other information (first and last names, phone numbers)
+
+    emails
+    phone number
+    other keywords
+
+    matching emails with teacher names?
+
+    First, hold on to an email, and then search for emails around them
+    Then, search for phone numbers around emails, then look around them
+    Once you already have emails and phone numbers, then look for email_ids that end with the common ending
+
+
+    Javascript;
+
+-----------
+
+    Call Nov 8, 2017
+
+
+can we set depth?
+
+current task: develop a list of features of the scraper
+
+differentiate between student/faculty/administration names?
+
+strategy to identify what type of page we're looking for
+    jobs/directory
+
+can we identify directory from home page?
+    link to "directory/staff/etc"
+        scrape that page
+
+start on domain page:
+    look for staff directory pages
+    for staff directory pages:
+        look for teacher information
+
+
+test out frontera + distributed crawling
+
+--------------
+
+1) Identify relevant page from main page + 2 levels down
+        levels down should be a parameter when you run the crawl
+
+        Inspect pages by hand to see what is in common
+            href contains "directory", "staff", "teachers", etc. -- look for other synonyms
+
+2) Strategy to identify which school the page belongs to
+
+    exclude pages that don't have school name in school pag
+    use h1 tag to identify school
+
+    h1 or h2 should have school name; use parser to get school name from h1/h2 body
+
+Next steps:
+    turn number of levels to a parameter
+    identifying school name from headers / footers / *title*
+    identifying staff directory pages using synonyms for staff/directories
+        depending on how many results, scrape only the most relevant page(s)
+
+    scrapy :
+        multiple rules -- one to determine which pages to follow, second to crawl those pages
+
+        parse_for_directories()
+        parse_items()
+
+
+    matching emails with names:
+
+    look within containers
+    look for closeless between emails and names
+    see if html tags have information
+    email munging?
+
+    get teacher information too
+
+    export to json rather than csv because different teachers have different information
+        class of tag becomes the json key
+        class information may be in column header though
+
+        // typically li/tr
+
+    scrape all information on the same level as the staff member
+
+
+try for a few websites, and see what would work
+
+**********
+
+
+
+    Look at more schools
+    look at sites with the most email addresses
+
+
+    Josh : get a list of 20 schools that are scrapable
+
+        functions to test:
+
+        identify school name
+        identify staff directory page
+
+**********
+
+Identify staff directory pages
+Think about what methods we can use for directory pages
+
+Return the top one or several pages that are the staff directory pages.
+
+Start with those with clear directories
+
+

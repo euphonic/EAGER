@@ -1,0 +1,1196 @@
+1541345697721	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.3jf9xeGHdtlk"
+1541345703404	Marionette	INFO	Listening on port 51354
+1541345721776	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.5zTE3KOgjWmu"
+1541345723767	Marionette	INFO	Listening on port 51389
+1541345723831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541345879876	Marionette	INFO	Stopped listening on port 51389
+1541346254303	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.tJZKQCgPEFqJ"
+1541346258881	Marionette	INFO	Listening on port 51567
+1541346258931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541346269511	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.llEKB2nA5j6k"
+1541346277459	Marionette	INFO	Listening on port 51659
+1541346277552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541346286906	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.QOGWHKRPb05s"
+1541346288841	Marionette	INFO	Listening on port 51780
+1541346288885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541346294649	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.dMIdQAgd7sg5"
+1541346302611	Marionette	INFO	Listening on port 51841
+1541346302666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541346311346	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.EILJG4CY0s0D"
+1541346313520	Marionette	INFO	Listening on port 51965
+1541346313591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541346414019	Marionette	INFO	Stopped listening on port 51841
+1541346415712	Marionette	INFO	Stopped listening on port 51965
+1541346417361	Marionette	INFO	Stopped listening on port 51780
+1541346419486	Marionette	INFO	Stopped listening on port 51659
+1541346421107	Marionette	INFO	Stopped listening on port 51567
+1541347207918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.ocDpmQVBrFpW"
+1541347209758	Marionette	INFO	Listening on port 52117
+1541347209779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541347213341	Marionette	INFO	Stopped listening on port 52117
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1541347216711	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.3mFYXC3KGgR1"
+1541347218510	Marionette	INFO	Listening on port 52181
+1541347218560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541347222734	Marionette	INFO	Stopped listening on port 52181
+1541347225842	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.tnfZ2StOrzQJ"
+1541347227673	Marionette	INFO	Listening on port 52241
+1541347227698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541347232936	Marionette	INFO	Stopped listening on port 52241
+1541347236229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.YACmFlioT7Jo"
+1541347241578	Marionette	INFO	Listening on port 52307
+1541347241671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541347244595	Marionette	INFO	Stopped listening on port 52307
+1541347247772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.HIy84vSUBNTc"
+1541347249774	Marionette	INFO	Listening on port 52405
+1541347249838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541347252301	Marionette	INFO	Stopped listening on port 52405
+1541347349977	Marionette	INFO	Stopped listening on port 51354
+1541349241341	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.jyQhQSod1O8i"
+1541349249294	Marionette	INFO	Listening on port 52805
+1541349249382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541349257453	Marionette	INFO	Stopped listening on port 52805
+1541349261856	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.O8yaf1qGjlJt"
+1541349263674	Marionette	INFO	Listening on port 52924
+1541349263714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541349273595	Marionette	INFO	Stopped listening on port 52924
+1541349278186	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.LdVHnKvdfKFR"
+1541349279986	Marionette	INFO	Listening on port 52977
+1541349280047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541349287839	Marionette	INFO	Stopped listening on port 52977
+1541349291904	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.obolOwFxIcg6"
+1541349293852	Marionette	INFO	Listening on port 53031
+1541349293873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541349301897	Marionette	INFO	Stopped listening on port 53031
+1541349307370	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.PvvmiQmvATNw"
+1541349309166	Marionette	INFO	Listening on port 53096
+1541349309229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541349316488	Marionette	INFO	Stopped listening on port 53096
+1541349318180	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.Ty1TcdJzoSHw"
+1541349320229	Marionette	INFO	Listening on port 53162
+1541349320334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541349327212	Marionette	INFO	Stopped listening on port 53162
+1541349328823	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.5YgHVMTGxLzj"
+1541349331721	Marionette	INFO	Listening on port 53220
+1541349331786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541349340624	Marionette	INFO	Stopped listening on port 53220
+1541349342365	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.CKr9tY7Nxxfk"
+1541349350304	Marionette	INFO	Listening on port 53288
+1541349350406	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541349353574	Marionette	INFO	Stopped listening on port 53288
+1541349355186	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.mM6MfeEPyne2"
+1541349360384	Marionette	INFO	Listening on port 53414
+1541349360438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541349366791	Marionette	INFO	Stopped listening on port 53414
+1541349368222	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.CnRJQWT001GZ"
+1541349373161	Marionette	INFO	Listening on port 53502
+1541349373192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541349374680	Marionette	INFO	Stopped listening on port 53502
+1541349376307	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.NAxUgUKbE20Z"
+1541349378777	Marionette	INFO	Listening on port 53599
+1541349378875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541349381687	Marionette	INFO	Stopped listening on port 53599
+1541349383236	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.F0gRld5WymYp"
+1541349386937	Marionette	INFO	Listening on port 53675
+1541349387043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541349393222	Marionette	INFO	Stopped listening on port 53675
+1541349394871	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.a6sAm5ZXI8Xm"
+1541349399146	Marionette	INFO	Listening on port 53749
+1541349399199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541349400745	Marionette	INFO	Stopped listening on port 53749
+1541349402275	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.T5HeJd7NN29l"
+1541349410536	Marionette	INFO	Listening on port 53838
+1541349410590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541349412258	Marionette	INFO	Stopped listening on port 53838
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1541349413826	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.2pn9DEX6jMri"
+1541349421130	Marionette	INFO	Listening on port 53971
+1541349421192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541349429899	Marionette	INFO	Stopped listening on port 53971
+1541349431486	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.DflRc3SU0kB4"
+1541349433598	Marionette	INFO	Listening on port 54082
+1541349433637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541349435097	Marionette	INFO	Stopped listening on port 54082
+1541349436663	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.Kug6PAJLQybf"
+1541349438701	Marionette	INFO	Listening on port 54149
+1541349438750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541349440535	Marionette	INFO	Stopped listening on port 54149
+1541349441927	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.O8Y0CirQagVK"
+1541350760908	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.ETAk1jMziqKk"
+1541350762694	Marionette	INFO	Listening on port 54339
+1541350762754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541350769702	Marionette	INFO	Stopped listening on port 54339
+1541350774367	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.BgBLpre21TRV"
+1541350782078	Marionette	INFO	Listening on port 54397
+1541350782160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541350791792	Marionette	INFO	Stopped listening on port 54397
+1541350795664	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.SHRVfy1AnUlT"
+1541350803538	Marionette	INFO	Listening on port 54509
+1541350803553	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541350810953	Marionette	INFO	Stopped listening on port 54509
+1541350815323	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.LGODCOfAo1yA"
+1541350823117	Marionette	INFO	Listening on port 54623
+1541350823219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541350829709	Marionette	INFO	Stopped listening on port 54623
+1541350831381	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.mN4LRgeMqRD7"
+1541350839155	Marionette	INFO	Listening on port 54739
+1541350839258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541350845861	Marionette	INFO	Stopped listening on port 54739
+1541350847519	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.gqt23Z5qvRIf"
+1541350855283	Marionette	INFO	Listening on port 54856
+1541350855341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541350862911	Marionette	INFO	Stopped listening on port 54856
+1541350866729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.thNh7Dg1XG2v"
+1541350874445	Marionette	INFO	Listening on port 54969
+1541350874462	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541350881241	Marionette	INFO	Stopped listening on port 54969
+1541350882955	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.0TL6bBLGvWfH"
+1541350890733	Marionette	INFO	Listening on port 55081
+1541350890755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541350892565	Marionette	INFO	Stopped listening on port 55081
+1541350894119	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.GE7Z0haQYvyJ"
+1541350901979	Marionette	INFO	Listening on port 55204
+1541350902039	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541350908396	Marionette	INFO	Stopped listening on port 55204
+1541350909984	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.AJgBhHGNB9KS"
+1541350917860	Marionette	INFO	Listening on port 55318
+1541350917901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541350919209	Marionette	INFO	Stopped listening on port 55318
+1541350920794	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.QsmNpTHscDOq"
+1541350928728	Marionette	INFO	Listening on port 55442
+1541350928788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541350936754	Marionette	INFO	Stopped listening on port 55442
+1541350938361	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.nhUEQZA1B689"
+1541350946152	Marionette	INFO	Listening on port 55556
+1541350946236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541350952876	Marionette	INFO	Stopped listening on port 55556
+1541350954429	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.vm3QSUUu6xwR"
+1541350962276	Marionette	INFO	Listening on port 55671
+1541350962324	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541350963978	Marionette	INFO	Stopped listening on port 55671
+1541350965676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.g9edhnvtTnHe"
+1541350973473	Marionette	INFO	Listening on port 55799
+1541350973572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541350980912	Marionette	INFO	Stopped listening on port 55799
+1541350982483	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.CxyeZXQxbzDv"
+1541350990324	Marionette	INFO	Listening on port 55914
+1541350990379	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541350991717	Marionette	INFO	Stopped listening on port 55914
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1541350993444	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.DAz5gnUynlF8"
+1541351001338	Marionette	INFO	Listening on port 56046
+1541351001373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351003611	Marionette	INFO	Stopped listening on port 56046
+1541351005265	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.pIuluxJ2TJfh"
+1541351013075	Marionette	INFO	Listening on port 56176
+1541351013176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541351020855	Marionette	INFO	Stopped listening on port 56176
+1541351030366	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.aWDLGHq9juZ9"
+1541351038169	Marionette	INFO	Listening on port 56290
+1541351038206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541351044936	Marionette	INFO	Stopped listening on port 56290
+1541351046658	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.HUtrVwwSnMzS"
+1541351054470	Marionette	INFO	Listening on port 56402
+1541351054502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351060782	Marionette	INFO	Stopped listening on port 56402
+1541351062494	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.RlBtZarNxsSY"
+1541351070269	Marionette	INFO	Listening on port 56525
+1541351070319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351072004	Marionette	INFO	Stopped listening on port 56525
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1541351073567	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.Yp4OTSMi5WKq"
+1541351081406	Marionette	INFO	Listening on port 56651
+1541351081445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541351087712	Marionette	INFO	Stopped listening on port 56651
+1541351089281	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.QZtZkzXk4TE5"
+1541351097197	Marionette	INFO	Listening on port 56763
+1541351097240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351102353	Marionette	INFO	Stopped listening on port 56763
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1541351103981	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.vzuJLp7Eb3WS"
+1541351112006	Marionette	INFO	Listening on port 56887
+1541351112049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541351112349	Marionette	INFO	Stopped listening on port 56887
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.jsm, line 86: TypeError: setting getter-only property "_currentSearchHostname"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 841: Error: Connection is not open.
+1541351137265	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.c5bJpW5UvWWL"
+1541351145029	Marionette	INFO	Listening on port 56990
+1541351145050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541351153175	Marionette	INFO	Stopped listening on port 56990
+1541351156922	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.PkBuSzapFswC"
+1541351164701	Marionette	INFO	Listening on port 57099
+1541351164721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541351170497	Marionette	INFO	Stopped listening on port 57099
+1541351175172	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.G10DTcvh6qar"
+1541351182981	Marionette	INFO	Listening on port 57210
+1541351183040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351184524	Marionette	INFO	Stopped listening on port 57210
+1541351207718	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.ZtEuxpQkFu8Z"
+1541351215489	Marionette	INFO	Listening on port 57336
+1541351215562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351218902	Marionette	INFO	Stopped listening on port 57336
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1541351225335	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.LAsT6qA0zccS"
+1541351233104	Marionette	INFO	Listening on port 57461
+1541351233158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351234466	Marionette	INFO	Stopped listening on port 57461
+1541351277320	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.f25cubm1DZzM"
+1541351285088	Marionette	INFO	Listening on port 57587
+1541351285130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351286583	Marionette	INFO	Stopped listening on port 57587
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1541351288257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.d4TrD9gPbFSW"
+1541351296130	Marionette	INFO	Listening on port 57710
+1541351296188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351297675	Marionette	INFO	Stopped listening on port 57710
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1541351303098	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.28arndkeoD4z"
+1541351310864	Marionette	INFO	Listening on port 57835
+1541351310968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351312432	Marionette	INFO	Stopped listening on port 57835
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsUrlClassifierListManager.js, line 597: TypeError: this.tablesData[table] is undefined
+1541351314171	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.FWVgGQcVkEIB"
+1541351322018	Marionette	INFO	Listening on port 57959
+1541351322126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541351322543	Marionette	INFO	Stopped listening on port 57959
+1541351324273	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.Y4nIPt9ZPZZt"
+1541351332205	Marionette	INFO	Listening on port 58061
+1541351332260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351333518	Marionette	INFO	Stopped listening on port 58061
+1541351335263	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.z0w5VPFWRE1D"
+1541351343065	Marionette	INFO	Listening on port 58190
+1541351343120	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351345395	Marionette	INFO	Stopped listening on port 58190
+1541351347175	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.VfW8GWVb8zQk"
+1541351354960	Marionette	INFO	Listening on port 58314
+1541351355050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+JavaScript warning: https://app.quotemedia.com/js/qmjquery/1.3.2/jquery.js, line 19: unreachable code after return statement
+1541351356593	Marionette	INFO	Stopped listening on port 58314
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1541351358346	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.CYhJmN7ZwkRW"
+1541351366189	Marionette	INFO	Listening on port 58442
+1541351366267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351372433	Marionette	INFO	Stopped listening on port 58442
+1541351374116	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.FonKysAs5MPI"
+1541351381930	Marionette	INFO	Listening on port 58566
+1541351382005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+JavaScript warning: https://app.quotemedia.com/js/qmjquery/1.3.2/jquery.js, line 19: unreachable code after return statement
+1541351387553	Marionette	INFO	Stopped listening on port 58566
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1541351390215	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.DCyNx8JLAZ3n"
+1541351398025	Marionette	INFO	Listening on port 58692
+1541351398085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351399809	Marionette	INFO	Stopped listening on port 58692
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1541351402467	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.GDhxaxd4skjn"
+1541351410256	Marionette	INFO	Listening on port 58815
+1541351410276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+JavaScript warning: https://app.quotemedia.com/js/qmjquery/1.3.2/jquery.js, line 19: unreachable code after return statement
+1541351411844	Marionette	INFO	Stopped listening on port 58815
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1541351415454	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.Qk8R0Kjb92fy"
+1541351423308	Marionette	INFO	Listening on port 58943
+1541351423330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2086: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2155: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2200: unreachable code after return statement
+JavaScript warning: https://content.equisolve.net/_4a9d3e10e3a021d413fcfb51db20d4aa/xxiicentury/files/site-files/20161024/wp-content/themes/dt-the7/js/main.js%3Fver=4.2.2, line 2300: unreachable code after return statement
+1541351425125	Marionette	INFO	Stopped listening on port 58943
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+1541351426862	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.0r6CjtEyBsg6"
+1541351433202	Marionette	INFO	Listening on port 59065
+1541351433270	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1541352272329	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.m4yr8T8GqzW8"
+1541352274190	Marionette	INFO	Listening on port 59350
+1541352274291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541352283315	Marionette	INFO	Stopped listening on port 59350
+1541352287161	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.dmZhB4lLMWgj"
+1541352288956	Marionette	INFO	Listening on port 59411
+1541352288997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541352296515	Marionette	INFO	Stopped listening on port 59411
+1541352300266	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.7y60div9NEba"
+1541352308161	Marionette	INFO	Listening on port 59466
+1541352308182	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1541353342810	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.CTO4GbYS4FWg"
+1541353344756	Marionette	INFO	Listening on port 59711
+1541353344775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541353353212	Marionette	INFO	Stopped listening on port 59711
+1541353357974	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.wCWGkJxuDCj5"
+1541353359870	Marionette	INFO	Listening on port 59766
+1541353359923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541353367626	Marionette	INFO	Stopped listening on port 59766
+1541353749137	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.p3nH9pj4FvDj"
+1541353750928	Marionette	INFO	Listening on port 59837
+1541353750989	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541353758086	Marionette	INFO	Stopped listening on port 59837
+1541353761001	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.x6eT27VMQ7uS"
+1541353762748	Marionette	INFO	Listening on port 59896
+1541353762843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541353770065	Marionette	INFO	Stopped listening on port 59896
+1541353773281	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.ZVBWDN7E2kRx"
+1541353775103	Marionette	INFO	Listening on port 59958
+1541353775141	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541353779266	Marionette	INFO	Stopped listening on port 59958
+1541353782298	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.rvqO6zAmgpnh"
+1541353784166	Marionette	INFO	Listening on port 60019
+1541353784246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541353787254	Marionette	INFO	Stopped listening on port 60019
+1541353790486	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.c6kBz3kIwdZh"
+1541353792392	Marionette	INFO	Listening on port 60081
+1541353792436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541353796069	Marionette	INFO	Stopped listening on port 60081
+1541377079163	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.srHf2YW7JZ5R"
+1541377087596	Marionette	INFO	Listening on port 64035
+1541377087695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://onboarding/onboarding-tour-agent.js, line 91: ReferenceError: Mozilla is not defined
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1082:3
+
+1541377092678	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.NOYHIWpLaJ2S"
+1541377094657	Marionette	INFO	Listening on port 64148
+1541377094721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377101186	Marionette	INFO	Stopped listening on port 64148
+1541377105784	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.aSreqdZTjduB"
+1541377107944	Marionette	INFO	Listening on port 64215
+1541377108027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377114497	Marionette	INFO	Stopped listening on port 64215
+1541377118676	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.XhiMpo7aSsO4"
+1541377126452	Marionette	INFO	Listening on port 64278
+1541377126528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377134017	Marionette	INFO	Stopped listening on port 64278
+1541377138555	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.KGobgkYXJpvG"
+1541377140282	Marionette	INFO	Listening on port 64392
+1541377140304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377147189	Marionette	INFO	Stopped listening on port 64392
+1541377152054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.joUutmLRLDrE"
+1541377153951	Marionette	INFO	Listening on port 64450
+1541377154000	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1541377159949	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.NgrSvhI4b8Lp"
+1541377161934	Marionette	INFO	Listening on port 64507
+1541377161998	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1541377725887	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.FukUq8neFPBR"
+*** You are running in headless mode.
+1541377727288	Marionette	INFO	Listening on port 64890
+1541377727321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377731928	Marionette	INFO	Stopped listening on port 64890
+1541377735729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.Zc58kEcs28za"
+*** You are running in headless mode.
+1541377737099	Marionette	INFO	Listening on port 64943
+1541377737164	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377743092	Marionette	INFO	Stopped listening on port 64943
+1541377746864	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.e8wwj3Ah4MNZ"
+*** You are running in headless mode.
+1541377748230	Marionette	INFO	Listening on port 64992
+1541377748298	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377752384	Marionette	INFO	Stopped listening on port 64992
+1541377760433	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.Ha64fL7DDlOt"
+*** You are running in headless mode.
+1541377761771	Marionette	INFO	Listening on port 65044
+1541377761866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377766526	Marionette	INFO	Stopped listening on port 65044
+1541377770515	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.wSwMMv1Z47hb"
+*** You are running in headless mode.
+1541377771821	Marionette	INFO	Listening on port 65095
+1541377771858	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377775882	Marionette	INFO	Stopped listening on port 65095
+1541377780393	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.cXfLevJM7jAT"
+*** You are running in headless mode.
+1541377781849	Marionette	INFO	Listening on port 65147
+1541377781925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377785640	Marionette	INFO	Stopped listening on port 65147
+1541377789765	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.6vBm1jtwJ36J"
+*** You are running in headless mode.
+1541377791112	Marionette	INFO	Listening on port 65207
+1541377791192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377796600	Marionette	INFO	Stopped listening on port 65207
+1541377800511	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.RiGrCOOdP1F0"
+*** You are running in headless mode.
+1541377801790	Marionette	INFO	Listening on port 65259
+1541377801841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377805705	Marionette	INFO	Stopped listening on port 65259
+1541377809830	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.xxqnLt42fBb9"
+*** You are running in headless mode.
+1541377811115	Marionette	INFO	Listening on port 65307
+1541377811157	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377815430	Marionette	INFO	Stopped listening on port 65307
+1541377819295	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.6k9Oayq7eOHI"
+*** You are running in headless mode.
+1541377820571	Marionette	INFO	Listening on port 65359
+1541377820621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377824638	Marionette	INFO	Stopped listening on port 65359
+1541377829090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.F6fIEIWqom7N"
+*** You are running in headless mode.
+1541377830386	Marionette	INFO	Listening on port 65410
+1541377830422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377834224	Marionette	INFO	Stopped listening on port 65410
+1541377835724	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.C8e6ip2LYUpx"
+*** You are running in headless mode.
+1541377837728	Marionette	INFO	Listening on port 65459
+1541377837771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377842189	Marionette	INFO	Stopped listening on port 65459
+1541377845886	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.8UsHoQRqtKuM"
+*** You are running in headless mode.
+1541377847684	Marionette	INFO	Listening on port 65515
+1541377847733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377852982	Marionette	INFO	Stopped listening on port 65515
+1541377856786	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.yg2WTeM68djL"
+*** You are running in headless mode.
+1541377858131	Marionette	INFO	Listening on port 49185
+1541377858217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377864450	Marionette	INFO	Stopped listening on port 49185
+1541377868692	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.Gb2TKyCZoWf7"
+*** You are running in headless mode.
+1541377870039	Marionette	INFO	Listening on port 49236
+1541377870123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377873827	Marionette	INFO	Stopped listening on port 49236
+1541377877820	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.2VecR4dNeRFF"
+*** You are running in headless mode.
+1541377879420	Marionette	INFO	Listening on port 49286
+1541377879455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377883005	Marionette	INFO	Stopped listening on port 49286
+1541377887275	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.ZkmAeAM1Oavz"
+*** You are running in headless mode.
+1541377888642	Marionette	INFO	Listening on port 49343
+1541377888714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377893582	Marionette	INFO	Stopped listening on port 49343
+1541377897493	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.e7uV2INpdk6N"
+*** You are running in headless mode.
+1541377898764	Marionette	INFO	Listening on port 49395
+1541377898828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377902713	Marionette	INFO	Stopped listening on port 49395
+1541377906905	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.K4XUWk8Llh5d"
+*** You are running in headless mode.
+1541377908211	Marionette	INFO	Listening on port 49444
+1541377908250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377911866	Marionette	INFO	Stopped listening on port 49444
+1541377915918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.0J7greciZT1O"
+*** You are running in headless mode.
+1541377917537	Marionette	INFO	Listening on port 49492
+1541377917574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377923135	Marionette	INFO	Stopped listening on port 49492
+1541377927103	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.JlROEECWOJOf"
+*** You are running in headless mode.
+1541377928421	Marionette	INFO	Listening on port 49544
+1541377928455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377932304	Marionette	INFO	Stopped listening on port 49544
+1541377936056	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.IGhNYtrYQ7G8"
+*** You are running in headless mode.
+1541377937373	Marionette	INFO	Listening on port 49593
+1541377937392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377943420	Marionette	INFO	Stopped listening on port 49593
+1541377949499	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.SdDp1ATF8Cls"
+*** You are running in headless mode.
+1541377951076	Marionette	INFO	Listening on port 49642
+1541377951146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377956197	Marionette	INFO	Stopped listening on port 49642
+1541377957696	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.yREsBOxJnBmJ"
+*** You are running in headless mode.
+1541377959825	Marionette	INFO	Listening on port 49695
+1541377959866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541377964191	Marionette	INFO	Stopped listening on port 49695
+1541377965693	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.JTlNsmMo63Ot"
+*** You are running in headless mode.
+1541377967816	Marionette	INFO	Listening on port 49752
+1541377967844	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17321, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1541378004453	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.DsbM3PKvie6B"
+*** You are running in headless mode.
+1541378005921	Marionette	INFO	Listening on port 49813
+1541378005986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378009568	Marionette	INFO	Stopped listening on port 49813
+1541378010989	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.YSeUKmMrGUvT"
+*** You are running in headless mode.
+1541378013031	Marionette	INFO	Listening on port 49866
+1541378013065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378019192	Marionette	INFO	Stopped listening on port 49866
+1541378020615	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.0uKY8zcy06ep"
+*** You are running in headless mode.
+1541378022571	Marionette	INFO	Listening on port 49921
+1541378022652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378026714	Marionette	INFO	Stopped listening on port 49921
+1541378028116	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.McEWka1Kmsxg"
+*** You are running in headless mode.
+1541378030171	Marionette	INFO	Listening on port 49980
+1541378030258	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17350, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1541378036788	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.xL3AkU951UVA"
+*** You are running in headless mode.
+1541378038194	Marionette	INFO	Listening on port 50041
+1541378038229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378043782	Marionette	INFO	Stopped listening on port 50041
+1541378144383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.X72UrmuBNsdv"
+*** You are running in headless mode.
+1541378145760	Marionette	INFO	Listening on port 50100
+1541378145812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378150105	Marionette	INFO	Stopped listening on port 50100
+1541378151535	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.rzaT0WkOjk2Y"
+*** You are running in headless mode.
+1541378153327	Marionette	INFO	Listening on port 50150
+1541378153378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378158403	Marionette	INFO	Stopped listening on port 50150
+1541378159798	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.eHLpGyCRif6H"
+*** You are running in headless mode.
+1541378161866	Marionette	INFO	Listening on port 50203
+1541378161951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378166904	Marionette	INFO	Stopped listening on port 50203
+1541378168368	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.ZhXbXJsAVEf9"
+*** You are running in headless mode.
+1541378170517	Marionette	INFO	Listening on port 50263
+1541378170605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378174318	Marionette	INFO	Stopped listening on port 50263
+1541378175710	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.rsLkqCdGHi1e"
+*** You are running in headless mode.
+1541378177841	Marionette	INFO	Listening on port 50321
+1541378177860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378181357	Marionette	INFO	Stopped listening on port 50321
+1541378182756	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.sCFoOrW7nX2v"
+*** You are running in headless mode.
+1541378184933	Marionette	INFO	Listening on port 50378
+1541378184998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378189253	Marionette	INFO	Stopped listening on port 50378
+1541378190641	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.z4e23eW3y852"
+*** You are running in headless mode.
+1541378192822	Marionette	INFO	Listening on port 50441
+1541378192889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378196496	Marionette	INFO	Stopped listening on port 50441
+1541378197980	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.QC4yHsRqnonC"
+*** You are running in headless mode.
+1541378200079	Marionette	INFO	Listening on port 50498
+1541378200127	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378203749	Marionette	INFO	Stopped listening on port 50498
+1541378205138	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.qmr7OSeroApm"
+*** You are running in headless mode.
+1541378207603	Marionette	INFO	Listening on port 50554
+1541378207697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378212043	Marionette	INFO	Stopped listening on port 50554
+1541378213434	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.uozV8yQgF0oz"
+*** You are running in headless mode.
+1541378215619	Marionette	INFO	Listening on port 50617
+1541378215672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.xxiicentury.com/xxii2015/wp-includes/js/jquery/jquery.js?ver=1.12.4, line 1: SyntaxError: expected expression, got '<'
+1541378230534	Marionette	INFO	Stopped listening on port 50617
+1541378231935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.ziMKIEkeKNAs"
+*** You are running in headless mode.
+1541378234099	Marionette	INFO	Listening on port 50675
+1541378234184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378238188	Marionette	INFO	Stopped listening on port 50675
+1541378239670	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.X1VM1fDufUpK"
+*** You are running in headless mode.
+1541378241752	Marionette	INFO	Listening on port 50733
+1541378241814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378245863	Marionette	INFO	Stopped listening on port 50733
+1541378247257	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.WuME5EhX9Kzv"
+*** You are running in headless mode.
+1541378249351	Marionette	INFO	Listening on port 50789
+1541378249395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378255552	Marionette	INFO	Stopped listening on port 50789
+1541378256950	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.tXK7wiacidJZ"
+*** You are running in headless mode.
+1541378259029	Marionette	INFO	Listening on port 50845
+1541378259103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378262750	Marionette	INFO	Stopped listening on port 50845
+1541378264147	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.LTZOGghgcKkX"
+*** You are running in headless mode.
+1541378266265	Marionette	INFO	Listening on port 50902
+1541378266307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378270930	Marionette	INFO	Stopped listening on port 50902
+1541378272407	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.AHmRQJ5kxKf3"
+*** You are running in headless mode.
+1541378274535	Marionette	INFO	Listening on port 50958
+1541378274551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378278694	Marionette	INFO	Stopped listening on port 50958
+1541378280088	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.Ie8jaKHIbnzW"
+*** You are running in headless mode.
+1541378282247	Marionette	INFO	Listening on port 51016
+1541378282345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378286200	Marionette	INFO	Stopped listening on port 51016
+1541378287591	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.KfehryVbfVTw"
+*** You are running in headless mode.
+1541378289711	Marionette	INFO	Listening on port 51076
+1541378289748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378294299	Marionette	INFO	Stopped listening on port 51076
+1541378295690	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.hOh8Ita0wD7a"
+*** You are running in headless mode.
+1541378297854	Marionette	INFO	Listening on port 51132
+1541378297933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378302183	Marionette	INFO	Stopped listening on port 51132
+1541378303722	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.N4fteDg6f5XX"
+*** You are running in headless mode.
+1541378305840	Marionette	INFO	Listening on port 51192
+1541378305876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378309785	Marionette	INFO	Stopped listening on port 51192
+1541378311281	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.J0uez9mhJSKS"
+*** You are running in headless mode.
+1541378313436	Marionette	INFO	Listening on port 51248
+1541378313525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378318946	Marionette	INFO	Stopped listening on port 51248
+1541378320345	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.LrZiMn79Nc1H"
+*** You are running in headless mode.
+1541378322592	Marionette	INFO	Listening on port 51307
+1541378322692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378326362	Marionette	INFO	Stopped listening on port 51307
+1541378327761	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.HlrfdXPJ7XrJ"
+*** You are running in headless mode.
+1541378329906	Marionette	INFO	Listening on port 51368
+1541378329924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378335232	Marionette	INFO	Stopped listening on port 51368
+1541378336733	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.TUpvpvU1Tfc0"
+*** You are running in headless mode.
+1541378338880	Marionette	INFO	Listening on port 51426
+1541378338897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378344020	Marionette	INFO	Stopped listening on port 51426
+1541378345419	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.zn8jJ3MZ51Rn"
+*** You are running in headless mode.
+1541378347625	Marionette	INFO	Listening on port 51483
+1541378347686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378351652	Marionette	INFO	Stopped listening on port 51483
+1541378353050	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.LgPWPq2hDlvt"
+*** You are running in headless mode.
+1541378355203	Marionette	INFO	Listening on port 51540
+1541378355301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378361998	Marionette	INFO	Stopped listening on port 51540
+1541378363397	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.RWKafsLXeIHV"
+*** You are running in headless mode.
+1541378365576	Marionette	INFO	Listening on port 51598
+1541378365646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378369732	Marionette	INFO	Stopped listening on port 51598
+1541378371201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.KJdCbttt0Ckx"
+*** You are running in headless mode.
+1541378373324	Marionette	INFO	Listening on port 51656
+1541378373361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378381627	Marionette	INFO	Stopped listening on port 51656
+1541378383026	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.7jLGRhQJveXL"
+*** You are running in headless mode.
+1541378385138	Marionette	INFO	Listening on port 51717
+1541378385171	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378386531	Marionette	INFO	Stopped listening on port 51717
+1541378387929	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.KF5bcIiGO3qj"
+*** You are running in headless mode.
+1541378390090	Marionette	INFO	Listening on port 51761
+1541378390163	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541378392865	Marionette	INFO	Stopped listening on port 51761
+1541379351082	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.tbF0g628uzEI"
+*** You are running in headless mode.
+1541379352518	Marionette	INFO	Listening on port 51904
+1541379352523	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541379360502	Marionette	INFO	Stopped listening on port 51904
+1541379362022	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.HJwfKkzLZNz5"
+*** You are running in headless mode.
+1541379363476	Marionette	INFO	Listening on port 51963
+1541379363561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541379372870	Marionette	INFO	Stopped listening on port 51963
+1541379374268	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.yxHJ0oEPSaNA"
+*** You are running in headless mode.
+1541379375995	Marionette	INFO	Listening on port 52040
+1541379376016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541379381408	Marionette	INFO	Stopped listening on port 52040
+1541379382822	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.FR5eBImx9GaM"
+*** You are running in headless mode.
+1541379384481	Marionette	INFO	Listening on port 52100
+1541379384559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541379390253	Marionette	INFO	Stopped listening on port 52100
+1541379391647	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.2oKDPTLwlnvl"
+*** You are running in headless mode.
+1541379393661	Marionette	INFO	Listening on port 52160
+1541379393687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541379397926	Marionette	INFO	Stopped listening on port 52160
+1541379594367	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.Zaran4VJbP7N"
+*** You are running in headless mode.
+1541379595797	Marionette	INFO	Listening on port 52259
+1541379595817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541379599540	Marionette	INFO	Stopped listening on port 52259
+1541379600940	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.xBkp9KrMVMjq"
+*** You are running in headless mode.
+1541379602735	Marionette	INFO	Listening on port 52311
+1541379602793	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541379609785	Marionette	INFO	Stopped listening on port 52311
+1541379611285	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.Ke5G0cOWEVCg"
+*** You are running in headless mode.
+1541379613158	Marionette	INFO	Listening on port 52368
+1541379613226	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541379618103	Marionette	INFO	Stopped listening on port 52368
+1541379619530	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.TFK0ZZRc8CxK"
+*** You are running in headless mode.
+1541379621248	Marionette	INFO	Listening on port 52433
+1541379621280	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541379628458	Marionette	INFO	Stopped listening on port 52433
+1541379629867	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.TlhFLhiwwSkJ"
+*** You are running in headless mode.
+1541379631366	Marionette	INFO	Listening on port 52494
+1541379631419	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541379638558	Marionette	INFO	Stopped listening on port 52494
+1541379756972	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.tQQND1aI4WXP"
+*** You are running in headless mode.
+1541379758379	Marionette	INFO	Listening on port 52561
+1541379758415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541379763861	Marionette	INFO	Stopped listening on port 52561
+1541379765264	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.dW0S4iojTI3M"
+*** You are running in headless mode.
+1541379767207	Marionette	INFO	Listening on port 52615
+1541379767302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541379770905	Marionette	INFO	Stopped listening on port 52615
+1541379772317	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.oJmlpgXufmQi"
+*** You are running in headless mode.
+1541379774852	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.8sqzjQPFDYng"
+*** You are running in headless mode.
+1541379776193	Marionette	INFO	Listening on port 52698
+1541379776274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541379780864	Marionette	INFO	Stopped listening on port 52698
+1541381639019	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.XYN2crmFoJZi"
+*** You are running in headless mode.
+1541381640662	Marionette	INFO	Listening on port 53359
+1541381640765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541381647589	Marionette	INFO	Stopped listening on port 53359
+1541381648997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.YY6ACivwth1U"
+*** You are running in headless mode.
+1541381650795	Marionette	INFO	Listening on port 53419
+1541381650859	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1541381653640	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.LfRKqV8NPSYy"
+*** You are running in headless mode.
+1541381654995	Marionette	INFO	Listening on port 53465
+1541381655078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541381675432	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.GS8KY1FFnUeR"
+*** You are running in headless mode.
+1541381676965	Marionette	INFO	Listening on port 53514
+1541381676971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541382232608	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.16DL72lNhy4o"
+*** You are running in headless mode.
+1541382233970	Marionette	INFO	Listening on port 53713
+1541382234043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541382241823	Marionette	INFO	Stopped listening on port 53713
+1541382243452	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.AsC6RqXkwv48"
+*** You are running in headless mode.
+1541382244979	Marionette	INFO	Listening on port 53774
+1541382244992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541382247909	Marionette	INFO	Stopped listening on port 53774
+1541382249426	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.uFztC56tEMD5"
+*** You are running in headless mode.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+JavaScript error: https://ag.energy/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/plugins/essential-grid/public/assets/js/lightbox.js?ver=2.1.0.2, line 1494: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.tools.min.js?ver=2.1.0.2, line 23: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.3.1.5, line 8: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/, line 73: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/, line 463: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.4, line 513: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/themes/HighendWP/scripts/scripts.js?ver=3.4.9.4, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/themes/HighendWP/scripts/map.js?ver=3.4.9.4, line 5: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/themes/HighendWP/scripts/mediaelement/mediaelement.js?ver=3.4.9.4, line 112: TypeError: f is not a function
+JavaScript error: https://ag.energy/wp-content/themes/HighendWP/scripts/jquery.flexslider.js?ver=3.4.9.4, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/themes/HighendWP/scripts/jquery.validate.js?ver=3.4.9.4, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/themes/HighendWP/scripts/jquery.easychart.js?ver=3.4.9.4, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/themes/HighendWP/scripts/responsivecarousel.min.js?ver=3.4.9.4, line 7: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/themes/HighendWP/scripts/jquery.owl.carousel.min.js?ver=3.4.9.4, line 47: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/themes/HighendWP/scripts/jquery.nav.js?ver=3.4.9.4, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/themes/HighendWP/scripts/jquery.custom.js?ver=3.4.9.4, line 3: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=5.5.4, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://ag.energy/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min.js?ver=5.5.4, line 8: TypeError: n is not a function
+1541382815054	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.7kUWmndtcwrg"
+*** You are running in headless mode.
+1541382816569	Marionette	INFO	Listening on port 54043
+1541382816591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541382821306	Marionette	INFO	Stopped listening on port 54043
+1541382822807	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.zMIrkEqT2Ars"
+*** You are running in headless mode.
+1541382824524	Marionette	INFO	Listening on port 54098
+1541382824552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541382831091	Marionette	INFO	Stopped listening on port 54098
+1541382832490	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.syaRt9XYhg2j"
+*** You are running in headless mode.
+1541382834325	Marionette	INFO	Listening on port 54158
+1541382834345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541382839303	Marionette	INFO	Stopped listening on port 54158
+1541382840695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.kG4mRI5U18bO"
+*** You are running in headless mode.
+1541382842593	Marionette	INFO	Listening on port 54219
+1541382842624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541382851297	Marionette	INFO	Stopped listening on port 54219
+1541382852696	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.lQvuMhUzQR5h"
+*** You are running in headless mode.
+1541382854602	Marionette	INFO	Listening on port 54281
+1541382854642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541382860098	Marionette	INFO	Stopped listening on port 54281
+1541383355695	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.NuJPHQxO2mvY"
+*** You are running in headless mode.
+1541383357065	Marionette	INFO	Listening on port 54660
+1541383357130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541383363349	Marionette	INFO	Stopped listening on port 54660
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 18989, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 18989, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 18989, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 18989, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  SessionStore: flushing all windows
+          Phase: quit-application-granted
+          State: {"total":-1,"current":-1}
+WARNING: [Exception... "Unexpected error"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource:///modules/sessionstore/TabStateFlusher.jsm :: flush :: line 85"  data: no]
+WARNING: flush@resource:///modules/sessionstore/TabStateFlusher.jsm:85:5
+flushWindow@resource:///modules/sessionstore/TabStateFlusher.jsm:108:23
+flushWindow@resource:///modules/sessionstore/TabStateFlusher.jsm:31:12
+flushAllWindowsAsync@resource:///modules/sessionstore/SessionStore.jsm:1692:34
+ssi_onQuitApplicationGranted/<@resource:///modules/sessionstore/SessionStore.jsm:1623:27
+trigger@resource://gre/modules/AsyncShutdown.jsm:710:23
+_wait@resource://gre/modules/AsyncShutdown.jsm:857:7
+wait@resource://gre/modules/AsyncShutdown.jsm:841:28
+observe@resource://gre/modules/AsyncShutdown.jsm:524:17
+observe@resource:///modules/ContentCrashHandlers.jsm:152:11
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002F,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002F,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002F,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002F,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002F,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002F,name=PContent::Msg_AddPermission) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30001A,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300019,name=PContent::Msg_RegisterChrome) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x30002E,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+[Parent 18989, Main Thread] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc, line 22
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x300117,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1636: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1636: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1636: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x190084,name=PBrowser::Msg_Destroy) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1636: TypeError: subject.QueryInterface is not a function
+JavaScript error: resource:///modules/ContentCrashHandlers.jsm, line 345: TypeError: browser.ownerGlobal is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 85: NS_ERROR_UNEXPECTED
+1541383553360	Marionette	INFO	Stopped listening on port 53465
+1541383559913	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.0ghdphOrTbdk"
+*** You are running in headless mode.
+1541383561370	Marionette	INFO	Listening on port 54802
+1541383561464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541383576363	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.tS5PdgDCbRtN"
+*** You are running in headless mode.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1541383612844	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.Wd9YwD1RDwhB"
+*** You are running in headless mode.
+1541383614220	Marionette	INFO	Listening on port 54887
+1541383614276	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541383619788	Marionette	INFO	Stopped listening on port 54887
+1541383621299	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.4LT4GFFyZ9HN"
+*** You are running in headless mode.
+1541383623132	Marionette	INFO	Listening on port 54950
+1541383623149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541383630769	Marionette	INFO	Stopped listening on port 54950
+1541383632390	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.U2kfMPAgvG2A"
+*** You are running in headless mode.
+1541383633745	Marionette	INFO	Listening on port 55018
+1541383633821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541383638853	Marionette	INFO	Stopped listening on port 55018
+1541383640247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.CEmST7siyh1B"
+*** You are running in headless mode.
+1541383642325	Marionette	INFO	Listening on port 55080
+1541383642417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541383647238	Marionette	INFO	Stopped listening on port 55080
+1541383930597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.e4E0LoEFBmRP"
+*** You are running in headless mode.
+1541383932017	Marionette	INFO	Listening on port 55161
+1541383932054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541383939621	Marionette	INFO	Stopped listening on port 55161
+1541383941037	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.40vh7Oy0JZ0O"
+*** You are running in headless mode.
+1541383942834	Marionette	INFO	Listening on port 55220
+1541383942878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541383947795	Marionette	INFO	Stopped listening on port 55220
+1541383949197	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.BMGtokWKGKJ7"
+*** You are running in headless mode.
+1541383950959	Marionette	INFO	Listening on port 55277
+1541383951035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541383955530	Marionette	INFO	Stopped listening on port 55277
+1541383957031	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.MZJ5jiMAiK3P"
+*** You are running in headless mode.
+1541383958778	Marionette	INFO	Listening on port 55336
+1541383958794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541383967201	Marionette	INFO	Stopped listening on port 55336
+1541383968607	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/fc/3z7_8vdx60n1cn86ynbknhr00000gn/T/rust_mozprofile.Eup37SPIPwIx"
+*** You are running in headless mode.
+1541383970456	Marionette	INFO	Listening on port 55398
+1541383970567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541383975734	Marionette	INFO	Stopped listening on port 55398

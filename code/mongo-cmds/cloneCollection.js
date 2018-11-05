@@ -1,0 +1,1 @@
+db.bingResults.copyTo("bingResultsWithDups"); 
