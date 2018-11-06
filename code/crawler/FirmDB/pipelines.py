@@ -9,6 +9,10 @@ import pymongo
 import FirmDB.settings
 from scrapy.exceptions import DropItem
 from FirmDB.config import connection_string
+import FirmDB.config import username
+from FirmDB.config import password
+from FirmDB.config import authSource
+from FirmDB.config import authMechanism
 # from scrapy import log
 
 class FirmDBPipeline(object):
@@ -25,7 +29,7 @@ class FirmDBPipeline(object):
         )
 
     def open_spider(self, spider):
-        self.client = pymongo.MongoClient(self.mongo_uri)
+        self.client = pymongo.MongoClient(self.mongo_uri, username=username, password=password, authSource=authSource, authMechanism=authMechanism)
         self.db = self.client[self.mongo_db]
         self.collection = self.db[FirmDB.settings.MONGODB_COLLECTION]
 
