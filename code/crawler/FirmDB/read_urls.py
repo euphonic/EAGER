@@ -2,7 +2,7 @@ import csv
 import requests
 import pandas as pd
 from pws import Bing
-import settings
+import FirmDB.settings
 import pprint
 from urllib.parse import urlparse
 

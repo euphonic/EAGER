@@ -1,3 +1,5 @@
 connection_string = 'mongodb://localhost'
-# username = ""
-# password = ""
+username = "scrapy"
+password = "eager"
+authSource = "FirmDB"
+authMechanism='SCRAM-SHA-1'

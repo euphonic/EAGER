@@ -1194,3 +1194,19 @@ JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 85:
 1541383970456	Marionette	INFO	Listening on port 55398
 1541383970567	Marionette	WARN	TLS certificate errors will be ignored for this session
 1541383975734	Marionette	INFO	Stopped listening on port 55398
+1541472049496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UcV0Y6ogOqgT"
+*** You are running in headless mode.
+1541472050665	Marionette	INFO	Listening on port 39025
+1541472050707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541472056198	Marionette	INFO	Stopped listening on port 39025
+[Parent 26657, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1541472057598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NOSEnm9TpuYl"
+*** You are running in headless mode.
+1541472058797	Marionette	INFO	Listening on port 36977
+1541472058803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541472064844	Marionette	INFO	Stopped listening on port 36977
+[Parent 26916, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1541472066228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GOAmuMN1HwB4"
+*** You are running in headless mode.
+1541472067377	Marionette	INFO	Listening on port 45301
+1541472067432	Marionette	WARN	TLS certificate errors will be ignored for this session
