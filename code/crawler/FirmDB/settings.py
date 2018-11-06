@@ -82,7 +82,7 @@ MONGODB_DB = "FirmDB"
 MONGODB_COLLECTION = "pages"
 
 #Input data
-INPUT_DATA = "Input/test2.csv"
+INPUT_DATA = "Input/test3.csv"
 
 # Whether use search directly because url is not provided or bad
 # TODO: Get rid of this SKA

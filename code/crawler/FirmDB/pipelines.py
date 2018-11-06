@@ -9,7 +9,7 @@ import pymongo
 import FirmDB.settings
 from scrapy.exceptions import DropItem
 from FirmDB.config import connection_string
-import FirmDB.config import username
+from FirmDB.config import username
 from FirmDB.config import password
 from FirmDB.config import authSource
 from FirmDB.config import authMechanism
