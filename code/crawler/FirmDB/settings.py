@@ -8,6 +8,7 @@
 #     http://doc.scrapy.org/en/latest/topics/settings.html
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
+import os.path
 
 BOT_NAME = 'FirmDB'
 
@@ -78,11 +79,13 @@ ALLOW_ALL_DOMAINS = False
 ITEM_PIPELINES = {
     'FirmDB.pipelines.FirmDBPipeline': 300,
 }
-MONGODB_DB = "FirmDB"
-MONGODB_COLLECTION = "pages"
 
 #Input data
-INPUT_DATA = "Input/test3.csv"
+INPUT_DATA = "../../data/orgs/chunks/1.csv"
+
+MONGODB_DB = "FirmDB"
+chunk = os.path.basename(os.path.normpath(INPUT_DATA))
+MONGODB_COLLECTION = "pages_" + chunk.split('.')[0]
 
 # Whether use search directly because url is not provided or bad
 # TODO: Get rid of this SKA
