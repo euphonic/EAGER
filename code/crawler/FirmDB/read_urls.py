@@ -19,7 +19,7 @@ def read_firms_csv (filename):
     with open(filename) as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
         # skip the header
-        next(reader)
+        # next(reader)
 
         for row in reader:
             firm = {
@@ -33,6 +33,9 @@ def read_firms_csv (filename):
             firm['domain'] = urlparse(firm['url']).netloc
             firms.append(firm)
 
+    pp = pprint.PrettyPrinter()
+    pp.pprint(firms)
+    
     return firms
 
 if __name__ == "__main__":
@@ -42,5 +45,3 @@ if __name__ == "__main__":
     start_urls = [firm['url'] for firm in firms]
     allowed_domains = [firm['domain'] for firm in firms]
 
-    pp = pprint.PrettyPrinter()
-    pp.pprint(firms)
