@@ -14,10 +14,10 @@ from googleapiclient.discovery import build
 import textdistance
 import collections
 
-f_in = open('/Users/sarora/dev/EAGER/data/linkedin/urls-for-linkedin_v1.csv')
+f_in = open('/Users/sarora/dev/EAGER/data/linkedin/urls-for-linkedin_v2.csv')
 csv_in = csv.reader(f_in)
 
-f_out = open('/Users/sarora/dev/EAGER/data/linkedin/linkedin-out_v1.csv', 'w')
+f_out = open('/Users/sarora/dev/EAGER/data/linkedin/linkedin-out_v2.csv', 'w')
 csv_out = csv.writer(f_out)
 
 service = build("customsearch", "v1",

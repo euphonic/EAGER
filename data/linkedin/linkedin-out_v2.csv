@@ -1,0 +1,571 @@
+firm name,url,LinkedIn employees,LinkedIn url,LinkedIn matched name,jaro-winkler distance result
+Sunlight Photonics Inc.,sunlightphotonics.com/,6,https://www.linkedin.com/company/sunlight-photonics,Sunlight Photonics,0
+Sunrun South LLC,sunrun.com/,2704,https://www.linkedin.com/company/sunrun,Sunrun,6
+Supremex Inc.,supremex.com/,240,https://www.linkedin.com/company/supremex-inc.,SupremeX Inc.,6
+Surebeam Corporation,smebeam.com/,3,https://www.linkedin.com/company/surebeam-me,SureBeam ME,4
+Swagelok Company,swagelok.com/,21,https://www.linkedin.com/company/h-e-lennon-inc-,Swagelok Michigan,8
+Symantec Corporation,symantec.com/,24322,https://www.linkedin.com/company/symantec/jobs,Symantec: Jobs,6
+Syngenta Participations AG,syngenta.com/,24314,https://www.linkedin.com/company/syngenta,Syngenta,18
+TEKNOR APEX COMPANY,teknorapex.com/,761,https://www.linkedin.com/company/teknor-apex-company,Teknor Apex Company,14
+TMC Corporation,tcm.com/,3742,https://www.linkedin.com/company/tmc,TMC,0
+TRIDONIC GMBH & CO KG,tridonic.com/com/en/,623,https://www.linkedin.com/company/tridonic,Tridonic,15
+Takara Bio Inc.,takarabio.com/,78,https://www.linkedin.com/company/takara-bio-europe,Takara Bio Europe,7
+Takeda Pharmaceutical Company Limited,takeda.com/,966,https://www.linkedin.com/company/takeda-pharmaceutical-company-ltd,Takeda Pharmaceutical Company Ltd,6
+Tamura Corporation,tamuracorp.com/,32,https://www.linkedin.com/company/tamura-corporation-of-america,Tamura Corporation of America,23
+Tanaka Kikinzoku Kogyo K.K.,gold.tanaka.co.jp/english/,19,https://www.linkedin.com/company/tanaka-kikinzoku-kogyo-k-k,TANAKA KIKINZOKU KOGYO K K,19
+Tata Consultancy Services Limited,tcs.com/,375058,https://www.linkedin.com/company/tata-consultancy-services,Tata Consultancy Services,8
+Tau Therapeutics LLC,taurx.com/,16,https://www.linkedin.com/company/aprinoia-therapeutics,APRINOIA Therapeutics,21
+Texas Instruments Incorporated,ti.com/,25027,https://www.linkedin.com/company/texas-instruments/jobs,Texas Instruments: Jobs,6
+The Babcock & Wilcox Company,babcock.com/,8,https://www.linkedin.com/company/babcock-&-wilcox,Babcock & Wilcox,28
+The Boeing Company,boeing.com/,2774,https://www.linkedin.com/company/jeppesen,"Jeppesen, a Boeing Company",24
+The Eastern Co.,easterncompany.com/,26,https://www.linkedin.com/company/the-eastern-colorado-bank,The Eastern Colorado Bank,11
+The Goodyear Tire & Rubber Company,goodyear.com/,19016,https://www.linkedin.com/company/goodyear,The Goodyear Tire & Rubber Company,0
+The Iams Company,iams.com/,10,https://www.linkedin.com/company/iams,Iams,16
+The Jackson Laboratory,jax.org/,,https://www.linkedin.com/company/the-jackson-laboratory,The Jackson Laboratory,0
+The Paymaster Corporation,paymaster.com/,2,https://www.linkedin.com/company/pay-master-international,Pay Master International and ICTcheckoutco.com,44
+The Procter & Gamble Company,pg.com/,96392,https://www.linkedin.com/company/procter-and-gamble/jobs,Procter & Gamble: Jobs,28
+Thoratec Corporation,thoratec.com/,466,https://www.linkedin.com/company/thoratec,"Thoratec, now a part of St. Jude Medical",32
+Thorn Bioscience LLC,thornbioscience.com/,3,https://www.linkedin.com/company/occam-design,Occam Design,15
+Tokyo Electron Limited,tel.com/,2347,https://www.linkedin.com/company/tokyo-electron,Tokyo Electron US,7
+Tosoh Corporation,tosoh.com/,,https://www.linkedin.com/company/tosohsmd,"Tosoh SMD, Inc.",10
+Turf Group LLC,turfgroup.net/,8,https://www.linkedin.com/company/jlipani,J. Lipani Turf Group,20
+Turtle Beach Corporation,turtlebeach.com/,175,https://www.linkedin.com/company/turtle-beach,Turtle Beach,0
+Two Blades Foundation,2blades.org/,6,https://www.linkedin.com/company/two-blades-foundation,2Blades Foundation,21
+Tyco Electronics Corporation,te.com/usa-en/home.html,24356,https://www.linkedin.com/company/te-connectivity,TE Connectivity,12
+Tyco Electronics U.K. LTD,te.com/usa-en/home.html,24356,https://www.linkedin.com/company/te-connectivity,TE Connectivity,15
+UCB Pharma S.A.,ucb.com/,10397,https://www.linkedin.com/company/ucb-pharma,UCB,10
+UNISANTIS ELECTRONICS SINGAPORE PTE. LTD.,unisantis.com/,,,,
+UOP LLC,phoenix.edu/,9263,https://www.linkedin.com/school/university-of-phoenix/,University of Phoenix,20
+Unifrax I LLC,unifrax.com/,485,https://www.linkedin.com/company/unifrax-i-llc,Unifrax I LLC,4
+Uniseal Solutions Inc.,unisealsolutions.com/,112,https://www.linkedin.com/company/uniseal-inc.,"UNISEAL, Inc.",16
+Unistrut International Corp.,unistrut.us/,34,https://www.linkedin.com/company/unistrut-corp,Unistrut Corp,0
+United Technologies Corporation,utc.com/,8131,https://www.linkedin.com/company/united-technologies,United Technologies,0
+Unity Semiconductor Corporation,unity-sc.com/,21,https://www.linkedin.com/company/unity-semiconductor,Unity Semiconductor,0
+Universal Display Corporation,oled.com/,11,https://www.linkedin.com/company/universal-display-&-design,Universal Display,0
+VERILY LIFE SCIENCES LLC,verily.com/,497,https://www.linkedin.com/company/verily-life-sciences,Verily Life Sciences,15
+VIASAT INC.,viasat.com/,4678,https://www.linkedin.com/company/viasat/jobs,Viasat Inc.: Jobs,16
+VIOLIN MEMORY,violinsystems.com/,138,https://www.linkedin.com/company/violin-systems,Violin Systems,12
+Vascular BioSciences,vascularbiosciences.com/,11,https://www.linkedin.com/company/vascular-biosciences,Vascular BioSciences,0
+Vizio Inc.,vizio.com/,478,https://www.linkedin.com/company/vizio,VIZIO,4
+Vorbeck Materials Corporation,vorbeck.com/,30,https://www.linkedin.com/company/vorbeck-materials,Vorbeck,10
+WCA Group LLC,wca-group.com/,5,https://www.linkedin.com/company/wca-group,WCA Group,0
+WHATSAPP INC.,whatsapp.com/,86,https://www.linkedin.com/company/gaoersi-industry-group,"Gaoersi Industry Group, whatsapp:+86 18906681668",48
+Watlow Electric Manufacturing Company,watlow.com/,1122,https://www.linkedin.com/company/watlow,Watlow,31
+Wave Energy Conversion Corporation of America,weccamerica.com/,2,https://www.linkedin.com/company/ohmsett,Ohmsett - The National Oil Spill Response Research & Renewable ...,65
+Winbond Electronics Corp.,winbond.com/,757,https://www.linkedin.com/company/winbond,Winbond,17
+Wyatt Technology Corporation,wyatt.com/,175,https://www.linkedin.com/company/wyatt-technology,Wyatt Technology,0
+X DEVELOPMENT LLC,x.org/wiki/Development/,28,https://www.linkedin.com/company/fofx,f(x) Software Development,25
+Xerox Corporation,xerox.com/,303,https://www.linkedin.com/company/fuji-xerox-hong-kong,Fuji Xerox (Hong Kong),22
+ZIH Corp.,zebra.com/us/en.html/,,https://www.linkedin.com/company/zebra-technologies,Zebra Technologies,17
+ZON,zon.si/,12,https://www.linkedin.com/company/zon-technology,ZON Technology,11
+Zeno Semiconductor Inc,zenosemi.com/,743,https://www.linkedin.com/company/zeno-group,Zeno Group,13
+Zephyr Energy Systems LLC,zephyrenergy.com/,178,https://www.linkedin.com/company/zephyr,Zephyr,15
+Zygo Corporation,zygo.com/,374,https://www.linkedin.com/company/zygo-corporation,Zygo Corporation,12
+adidas AG,adidas.com/us/,35663,https://www.linkedin.com/company/adidas,adidas,3
+fybr,fybr.com/,23,https://www.linkedin.com/company/fybr,Fybr,1
+iNanoBio LLC,inanobio.com/,8,https://www.linkedin.com/company/inanobio,INanoBio,1
+mVerify Corporation,numverify.com/,365,https://www.linkedin.com/company/verifyglobal,"Verify, Inc.",12
+nLIGHT Photonics Corporation,nlight.net/,406,https://www.linkedin.com/company/nlight,nLIGHT,10
+AMPT,ampt.com/,34,https://www.linkedin.com/company/gear-five-studio,AMPT,0
+Advanced Analogic Technologies,analogictech.com/,57,https://www.linkedin.com/company/advanced-analytical-technologies-inc-,Advanced Analytical - A part of Agilent,24
+Advanced Water Technology,advancedwatertechnology.com/,12,https://www.linkedin.com/company/advanced-water-technology,Advanced Water Technology,0
+Angaza Design,angaza.com/,66,https://www.linkedin.com/company/angaza,Angaza,7
+Aseptia,,263,https://www.linkedin.com/company/wright-foods-inc-,JELD-WEN,8
+BOE Technology Group Co.,,6199,https://www.linkedin.com/company/boe-technology-group,"BOE Technology Group Co., Ltd.",7
+Battelle Energy Alliance,battelle.org/laboratory-management,1235,https://www.linkedin.com/company/battelle-energy-alliance,Battelle Energy Alliance,0
+Boston Scientific Scimed,bostonscientific.com/en-US/Home.html,29164,https://www.linkedin.com/company/boston-scientific,Boston Scientific,7
+Brightfield Transportation Solutions,brightfieldts.com/,6,https://www.linkedin.com/company/brightfield-transportation-solutions,Brightfield Transportation Solutions,0
+CELLTRION,celltrion.com/en/main.do,575,https://www.linkedin.com/company/celltrion,Celltrion Inc.,13
+CI4 Technologies,ci4.us/,9,https://www.linkedin.com/company/infosci-llc,infOsci LLC,16
+Cellular Research,cellularresearchinstitute.com/,9,https://www.linkedin.com/company/cellular-research,Cellular Research,0
+Crepaco,,3512,https://www.linkedin.com/company/spx-flow,"SPX FLOW, Inc.",14
+Esolar,esolar.solar/,39,https://www.linkedin.com/company/esolar,eSolar,2
+GE Healthcare Dharmacon,dharmacon.horizondiscovery.com/,16,https://www.linkedin.com/company/dharmacon,Dharmacon,22
+George Mason Research Foundation,www2.gmu.edu/research,246,https://www.linkedin.com/company/mercatus-center,Mercatus Center at George Mason University,39
+Guardian Industries,guardian.com/en/index.html,3093,https://www.linkedin.com/company/guardian-industries/jobs,Guardian Industries: Jobs,6
+Halliburton Energy Services,halliburton.com/en-US/default.html,278,https://www.linkedin.com/company/halliburton-energy-services-inc,HALLIBURTON ENERGY SERVICES INC,26
+Ibis Biosciences,molecular.abbott/int/en/home,5,https://www.linkedin.com/company/ibis-biosciences,IBIS BIOSCIENCES,13
+Integrated Nano-Technologies,intpalladium.com/,12,https://www.linkedin.com/company/integrated-nano-technologies,Integrated Nano-Technologies,0
+Lawrence Livermore National Security,llnsllc.com/,6014,https://www.linkedin.com/company/lawrence-livermore-national-laboratory,Lawrence Livermore National Laboratory,8
+Magnolia Optical Technologies,magnoliaoptical.com/,4,https://www.linkedin.com/company/magnolia-optical-technologies,Magnolia Optical Technologies,0
+Minebea Co.,minebeamitsumi.com/english/,69,https://www.linkedin.com/company/nmb-minebea-uk-ltd-,NMB-Minebea UK Ltd.,19
+Mission Product Holdings,mission.com/,62,https://www.linkedin.com/company/mission-athletecare,MISSION,23
+NanoTech Lubricants,nanotechlubricantsinc.com/Home.html,31,https://www.linkedin.com/company/nanotech-industrial-solutions-inc,Nanotech Industrial Solutions Inc. (NIS),32
+Ortho-Clinical Diagnostics,orthoclinicaldiagnostics.com/,4059,https://www.linkedin.com/company/ortho-clinical-diagnostics,Ortho Clinical Diagnostics,1
+Ostendo Technologies,ostendo.com/,109,https://www.linkedin.com/company/ostendo-technologies,Ostendo Technologies,0
+Pacific Light Technologies,pacificlighttech.com/,8,https://www.linkedin.com/company/pacific-light-technologies,Pacific Light Technologies,0
+Professional Compounding Centers of America,pccarx.com/,,https://www.linkedin.com/company/central-compounding-center-south,Central Compounding Center South,42
+Revera,reveraliving.com/,103,https://www.linkedin.com/company/rivera-group,Rivera Group,7
+Rio Grande Valley Sugar Growers,rgvsugar.com/,,https://www.linkedin.com/userp/title/chemist/mcallen,Top 21 Chemist profiles in Mcallen,31
+Saint-Gobain Adfors Canada,adfors.com/us/,372,https://www.linkedin.com/company/saint-gobain-adfors,Saint-Gobain ADFORS,12
+Senaya,senaya.com/,4,https://www.linkedin.com/company/senaya,Senaya,0
+Star Technology and Research,star-tech-inc.com/,4360,https://www.linkedin.com/company/a-star,"A*STAR - Agency for Science, Technology and Research",48
+Teledyne Scientific & Imaging,teledyne-si.com/,202,https://www.linkedin.com/company/teledyne-scientific-&-imaging,Teledyne Scientific & Imaging,0
+W&Wsens Devices,wwsensdevices.com/,13,https://www.linkedin.com/company/sensing-devices-limited,SENSING DEVICES LIMITED,21
+WOVN,wovns.com/,31,https://www.linkedin.com/company/mayur-wovens-pvt-ltd,Mayur Wovens Pvt Ltd,20
+Wikipad,wikipad.com/,15,https://www.linkedin.com/company/wikipad,Gamevice,8
+eNow,enowenergy.com/,12,https://www.linkedin.com/company/enow-inc-,"eNow, Inc.",6
+Apple Inc.,apple.com/,193331,https://www.linkedin.com/company/apple/jobs,Apple: Jobs,6
+Biotta LLC,biottajuices.com/,28,https://www.linkedin.com/company/biotta-ag,Biotta AG,3
+CAMBRIDGE ENTERPRISE LIMITED,enterprise.cam.ac.uk/,62,https://www.linkedin.com/company/cambridge-enterprise,Cambridge Enterprise,25
+Chevron Oronitz Company LLC,oronite.com/,,,,
+DEKA Products Limited Partnership,dekaresearch.com/,551,https://www.linkedin.com/company/deka-research-&-development,DEKA Research & Development,26
+DIC Corporation,dictionary.com/,7,https://www.linkedin.com/company/urban-dictionary,Urban Dictionary,16
+ENI S.p.A.,eni.com/en_IT/home.page,24,https://www.linkedin.com/company/eni-s.p.a,Eni S.P.A,6
+Eastman Kodak Company,kodak.com/us/en/corp/default.htm,8702,https://www.linkedin.com/company/eastman-kodak,Eastman Kodak Company,0
+Georgia-Pacific Gypsum LLC,buildgp.com/georgia-pacific-gypsum,15022,https://www.linkedin.com/company/georgia-pacific-llc,Georgia-Pacific LLC,6
+H R D CORPORATION,haywardrec.org/,595,https://www.linkedin.com/company/zw-hr-consulting-singapore,ZW HR Consulting,16
+Heidelberger Druckmaschinen AG,heidelberg.com/,2779,https://www.linkedin.com/company/heidelberg,Heidelberger Druckmaschinen AG,0
+Hollingsworth & Vose Company,hollingsworth-vose.com/,14,https://www.linkedin.com/company/hollingsworth-&-vose,Hollingsworth & Vose,8
+Hoya Corporation,hoyavision.com/,1102,https://www.linkedin.com/company/hoya-vision-care,Hoya Vision Care,12
+IMEC,imec.org/,2593,https://www.linkedin.com/company/imec,imec,4
+JX Nippon Mining & Metals Corporation,nmm.jx-group.co.jp/english/,8,https://www.linkedin.com/company/jx-nippon-mining-metals-usa-inc,"JX Nippon Mining & Metals, USA. Inc.",11
+KINO LLC,kinolorber.com/,37,https://www.linkedin.com/company/kino-lorber-incorporated,"Kino Lorber, Incorporated",24
+Kaneka Corporation,kaneka.co.jp/en/,174,https://www.linkedin.com/company/kaneka-belgium-nv,Kaneka Belgium NV,11
+Kerr Corporation,kerrdental.com/,417,https://www.linkedin.com/company/kerr-corporation,Kerr Corporation,12
+Kureha Corporation,kureha.co.jp/en/,15,https://www.linkedin.com/company/kureha-america,Kureha America,8
+L-3 Communications Cincinnati Electronics Corporation,cinele.com/,202,https://www.linkedin.com/company/l-3-cincinnati-electronics,L3 Cincinnati Electronics,38
+Lextar Electronics Corp.,lextar.com/?sn=32&lang=en-US,210,https://www.linkedin.com/company/lextar-electronics,Lextar Electronics,5
+Life Technologies Corporation,thermofisher.com/us/en/home.html,27,https://www.linkedin.com/company/life-search-technologies,Life Search Technologies,18
+Lintec Corporation,lintec-global.com/,9,https://www.linkedin.com/company/lintec-linnhoff-germany-gmbh,LINTEC & LINNHOFF Germany GmbH,29
+Magna International Inc.,magna.com/,25366,https://www.linkedin.com/company/magna-international,Magna International,14
+Mainstream Engineering Corp.,mainstream-engr.com/,88,https://www.linkedin.com/company/mainstream-engineering-corporation,Mainstream Engineering Corporation,7
+Markel Corporation,markelcorp.com/,2344,https://www.linkedin.com/company/markel-corporation,Markel,0
+Medgenics Medical Israel Ltd.,medgenics.com/,2001,https://www.linkedin.com/pub/dir/reem/miari,Reem Miari - Head of Gene Therapy Department - ATVIO Biotech ...,59
+Nippon Chemi-Con Corporation,chemi-con.co.jp/e/index.html,72,https://www.linkedin.com/company/united-chemi-con-inc-,United Chemi-Con Inc.,11
+Nokia Technologies Oy,nokia.com/,,https://www.linkedin.com/company/nokia,Nokia,16
+Rhodia Operations,solvay.com/en/search/products,31,https://www.linkedin.com/company/rhodia-operations,RHODIA OPERATIONS,14
+SAINT-GOBAIN ABRASIFS,saint-gobain-abrasives.com/en-us,4075,https://www.linkedin.com/company/saint-gobain-abrasives,Saint-Gobain Abrasives,17
+Seetron Inc.,seetron.com/index.html,,,,
+Siemens Aktiengesellschaft ,siemens.com/global/en/home.html,216615,https://www.linkedin.com/company/siemens,Siemens,19
+Sola U.S.A. Inc.,sola.at/,6,https://www.linkedin.com/company/new-life-usa,New Life USA,12
+St. Microelectronics Inc.,st.com/content/st_com/en.html,20762,https://www.linkedin.com/company/stmicroelectronics,STMicroelectronics,18
+TRANE INTERNATIONAL INC.,trane.com/index.aspx,,https://www.linkedin.com/company/damuth-trane,Damuth Trane,12
+Thermo Fisher Scientific Inc.,thermofisher.com/us/en/home.html,38630,https://www.linkedin.com/company/thermo-fisher-scientific,Thermo Fisher Scientific,0
+Toda Kogyo Corporation,todakogyo.co.jp/english/,5,https://www.linkedin.com/company/toda-kogyo-europe-gmbh,Toda Kogyo Europe GmbH,12
+Toray Industries Inc. ,toray.com/,692,https://www.linkedin.com/company/toray-industries-inc-,"Toray Industries, Inc.",6
+UTC FIRE & SECURITY CORPORATION,ccs.utc.com/ccs/en/worldwide/,2289,https://www.linkedin.com/company/utc-fire-&-security,UTC Fire & Security,10
+UVIC INDUSTRY PARTNERSHIPS INC.,uvic.ca/research/partner/index.php,3,https://www.linkedin.com/company/hightechu,HighTechU,25
+VERLASE TECHNOLOGIES LLC,verlase.com/,2,https://www.linkedin.com/company/verlase-technologies-llc,VerLASE Technologies LLC,17
+Weatherford Canada Partnership,weatherford.com/,76,https://www.linkedin.com/company/weatherford-canada-partnership,Weatherford Canada Partnership,0
+Wenger Corporation,wengercorp.com/,13,https://www.linkedin.com/company/hepp-wenger-ryffel-ag,Hepp Wenger Ryffel AG,20
+Yamaha Corporation,yamaha-motor.com/,1590,https://www.linkedin.com/company/yamaha-motor-corporation-usa,"Yamaha Motor Corporation, USA",23
+AVOGY,nexgenpowersystems.com/,5,https://www.linkedin.com/company/avogy-inc,Avogy,4
+Advanced Cell Technology,astellas.us/therapeutic/rnd/airm.aspx,37,https://www.linkedin.com/company/ocata-therapeutics,Ocata Therapeutics,23
+Altivera,altabira.com/,26,https://www.linkedin.com/company/credit-risk-solutions,"Credit Risk Solutions, part of the Computershare Group",54
+Applied Membrane Technologies,appliedmembranetech.com/,31,https://www.linkedin.com/company/applied-membranes-inc,"Applied Membranes, Inc.",13
+Avantor Performance Materials,avantorinc.com/,,https://www.linkedin.com/jobs/view/943102250?trk=d...salary...,"AVANTOR PERFORMANCE MATERIALS, INC. hiring Customer ...",50
+Canon U.S. Life Sciences,canon-biomedical.com/online/portal/vp7,31,https://www.linkedin.com/company/canon-us-life-sciences,Canon U.S. Life Sciences,17
+Dana-Farber Cancer Institute,dana-farber.org/,5261,https://www.linkedin.com/company/dana-farber-cancer-institute,Dana-Farber Cancer Institute,0
+ENI Technology,eni.com/en_IT/innovation.page,3,https://www.linkedin.com/company/enitechnology,Energy Intelligence Technologies,30
+Electrix,electrixillumination.com/,787,https://www.linkedin.com/company/electrix,Electrix,0
+Evri,everi.com/,156,https://www.linkedin.com/company/global-cash-access,Global Cash Access,18
+Flextronics AP,flex.com/,,https://www.linkedin.com/pub/dave-drissen/4/5b0/b03,Dave Drissen - Customer Satisfaction & Quality manager ...,58
+Hon Hai Precision Industry Co.,foxconn.com/,222,https://www.linkedin.com/company/hon-hai-precision,Hon Hai Precision,12
+Koch Biological Solutions,kochbiologicalsolutions.com/,47,https://www.linkedin.com/company/mendel-biological-solutions,Mendel Biological Solutions,26
+Narsys,http://www.narsystech.com/,6,https://www.linkedin.com/company/narsys-llc,FocalCast,9
+Nissan North America,nissanusa.com/about/corporate-information.html,35036,https://www.linkedin.com/company/nissan-motor-corporation,Nissan Motor Corporation,14
+Novozymes North America,novozymes.com/en/north-america,5144,https://www.linkedin.com/company/novozymes,Novozymes,14
+STANDARD ALCOHOL COMPANY OF AMERICA,standardalcohol.com/#!,11,https://www.linkedin.com/company/renewable-technology-partners,Standard Alcohol,32
+Sanken Electric Co.,sanken-ele.co.jp/en/index.php,18,https://www.linkedin.com/company/sanken-electric-co-ltd,Sanken Electric Co Ltd,4
+Solan,salon.com/,31,https://www.linkedin.com/school/bahra-university-solan/,"Bahra University, Solan",23
+Taiyo Ink Mfg. Co.,taiyo-hd.co.jp/en/group/ink/,22,https://www.linkedin.com/company/taiyo-america-inc-,"Taiyo America, Inc.",13
+The Henry M. Jackson Foundation for the Advancement of Military Medicine,hjf.org/,1355,https://www.linkedin.com/company/hjfmilmed/jobs,The Henry M. Jackson Foundation for the Advancement of Military ...,60
+Transposagen Biopharmaceuticals,transposagenbio.com/,5,https://www.linkedin.com/company/transposagen-biopharmaceuticals,Transposagen Biopharmaceuticals,0
+Ube Industries,ube-ind.co.jp/ube/en/index.html,108,https://www.linkedin.com/company/ube-industries-ltd-,"UBE Industries, Ltd.",8
+Warsaw Orthopedic,mywarsaw.net/,,https://www.linkedin.com/company/igniteortho,Ignite Orthopedics,7
+3M Innovative Properties Company,3m.com/,59176,https://www.linkedin.com/company/3m,3M,30
+ASM IP Holdings LLC,asm.com/,257,https://www.linkedin.com/company/mapper-lithography,Mapper,15
+Abbott Point of Care Inc.,pointofcare.abbott/us/en/home,227,https://www.linkedin.com/company/abbott-point-of-care-canada-limited,Abbott Point of Care Canada Limited,15
+Achushnet Company,acushnetgolf.com/,,https://www.linkedin.com/company/acushnet-company,Acushnet Company,15
+Adaptive Biotechnologies Corp.,adaptivebiotech.com/,274,https://www.linkedin.com/company/adaptive-biotechnologies-corp-,Adaptive Biotechnologies Corp.,1
+Adeka Corporation,adeka.co.jp/en/,25,https://www.linkedin.com/company/adeka-singapore,ADEKA Singapore,14
+CARBO Ceramics Inc.,carboceramics.com/about/about-carbo,372,https://www.linkedin.com/company/carbo-ceramics-inc-,CARBO,9
+CSEM Centre Suisse d'Electronique et de Microtechnique SA-Recherche et Developpement,csem.ch/,469,https://www.linkedin.com/company/csem,CSEM,80
+Carl Zeiss Meditec AG,zeiss.com/meditec-ag/home.html,2379,https://www.linkedin.com/company/carl-zeiss-meditec,Carl Zeiss Meditec AG,0
+Centre de Recherche Industrielle du Quebec,criq.qc.ca/fr/,27,https://www.linkedin.com/company/sous-traitance-industrielle-qu-bec-stiq-,STIQ,42
+Child Laboratories Inc.,nationwidechildrens.org/specialties/laboratory-services,10,https://www.linkedin.com/company/utlabschool,Priscilla Pond Flawn Child and Family Laboratory,47
+Colgate-Palmolive Company,colgatepalmolive.com/en-us,24143,https://www.linkedin.com/company/colgate-palmolive,Colgate-Palmolive,8
+Commonwealth Scientific & Industrial Research Organization,csiro.au/,5349,https://www.linkedin.com/company/csiro,CSIRO,57
+Danisco US Inc.,danisco.com/food-beverages/,3047,https://www.linkedin.com/company/danisco,DuPont Nutrition & Health,24
+Denso Corporation,denso.com/global/en/,10406,https://www.linkedin.com/company/denso,DENSO,4
+E. I. du Pont de Nemours and Company duPont Displays Inc,dupont.com/,33678,https://www.linkedin.com/company/dupont,DuPont,50
+Elwha LLC,elwha.org/,105,https://www.linkedin.com/company/lower-elwha-klallam-tribe,Lower Elwha Klallam Tribe,24
+ExxonMobil Upstream Research Company,corporate.exxonmobil.com/,60945,https://www.linkedin.com/company/exxonmobil,ExxonMobil,26
+G.D.O. Inc,golfdigest.co.jp/,38,https://www.linkedin.com/company/golf-digest-online-inc,"Golf Digest Online, Inc",22
+GOLBA LLC,golba.com/,6,https://www.linkedin.com/company/paulina-golba-music,Golba Music,10
+Global Filtration Systems,globalfiltrationsystems.com/,7,https://www.linkedin.com/company/global-filtration-inc-,"Global Filtration, Inc.",8
+Grandis Inc.,grandis.com/,8,https://www.linkedin.com/company/grandiscompany,Grandis,0
+HGST NETHERLANDS B.V.,hgst.com/,4959,https://www.linkedin.com/company/hgst-a-western-digital-company,"HGST, a Western Digital brand",25
+Hitachi High-Technologies Corporation,hitachi-hightech.com/global/,566,https://www.linkedin.com/company/hitachi-high-technologies-america,Hitachi High Technologies America,9
+Incept LLC,inceptresults.com/,129,https://www.linkedin.com/company/incept,Incept,0
+KYOCERA DOCUMENT SOLUTIONS INC.,kyoceradocumentsolutions.com/,167,https://www.linkedin.com/company/kyocera-document-solutions-australasia,Kyocera Document Solutions Australasia,33
+Maxim Integrated Products,maximintegrated.com/en.html,6870,https://www.linkedin.com/company/maxim-integrated,Maxim Integrated,9
+Momentive Performance Materials GmbH,momentive.com/en-US/,3219,https://www.linkedin.com/company/momentive,Momentive,22
+Momentive Performance Materials Inc.,momentive.com/en-US/,3219,https://www.linkedin.com/company/momentive,Momentive,22
+Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO,tno.nl/en/,3848,https://www.linkedin.com/company/tno,TNO,75
+Nestec S. A.,nestle.com/,115,https://www.linkedin.com/company/nestec-inc.,"NESTEC, Inc.",11
+Nikon Corporation,nikon.com/,527,https://www.linkedin.com/company/nikon-precision-inc-,Nikon Precision Inc.,15
+Oracle International Corporation,oracle.com/index.html,4,https://www.linkedin.com/company/oracleusersgroup,All India Oracle Users Group (AIOUG),36
+Quest Diagnostics Investments Incorporated,ir.questdiagnostics.com/,20133,https://www.linkedin.com/company/quest-diagnostics,Quest Diagnostics,12
+Roche Molecular Systems,roche.com/,69461,https://www.linkedin.com/company/roche,Roche,18
+SK Hynix Inc.,skhynix.com/eng/index.jsp,353,https://www.linkedin.com/company/sk-hynix-memory-solutions-inc-,SK hynix memory solutions inc.,23
+Silicon Space Technology Corp.,voragotech.com/,3,https://www.linkedin.com/company/silicon-space-technology,Silicon Space Technology,5
+Simbol Inc.,symbols.com/,3,https://www.linkedin.com/company/simbol-commercial,Simbol Commercial,11
+VINDICO NANOBIO TECHNOLOGY INC.,vindicoat.com/,3,https://www.linkedin.com/company/vindico-nanobiotechnology-inc.,"Vindico NanoBioTechnology, Inc.",27
+Waters Technologies Corporation,waters.com/waters/home.htm?locale=en_US,34,https://www.linkedin.com/company/safbonwater,SafBon Water Technology,21
+Zoetis Services LLC,zoetis.com/products-services/,7151,https://www.linkedin.com/company/zoetis,Zoetis Inc.,8
+Abraxis Bioscience,,204,https://www.linkedin.com/company/abraxis-bioscience,Abraxis BioScience,1
+Agrigenetics,,437,https://www.linkedin.com/company/jk-agri-genetics-limited,JK Agri Genetics Limited,23
+Arch Biosurgery,,,,,
+Arisaph Pharmaceuticals,,10,https://www.linkedin.com/company/arisaph-pharmaceuticals-inc-,"Arisaph Pharmaceuticals, Inc.",6
+Bend Research,capsugel.com/locations/bend-oregon-usa,230,https://www.linkedin.com/company/bend-research,"Bend Research, a division of Capsugel",24
+Biosphere Medical,merit.com/interventional-oncology-spine/embolotherapy/,52,https://www.linkedin.com/company/biosphere-medical-inc.,"Biosphere Medical, Inc.",6
+Delphi Technologies,delphi.com/new-delphi-technologies,2577,https://www.linkedin.com/company/delphitechnologies,Delphi Technologies,0
+Dentsply International,corporate.dentsplysirona.com/en.html,6197,https://www.linkedin.com/company/dentsplysirona/jobs,Dentsply Sirona: Jobs,13
+Entech Solar,entechsolutions.us/,15,https://www.linkedin.com/company/entech-solar,Entech solar,1
+FUJIFILM Dimatix,fujifilmusa.com/products/industrial_inkjet_printheads/index.html,407,https://www.linkedin.com/company/fujifilm-dimatix-inc-,"FUJIFILM Dimatix, Inc.",6
+Fenwal,kidde-fenwal.com/,977,https://www.linkedin.com/company/fenwal-inc-a-fresenius-kabi-company,"Fenwal, Inc., a Fresenius Kabi Company",32
+Fezza Family Properties,,,https://www.linkedin.com/userp/title/affiliate/allentown,Affiliate in Allentown,22
+GR Intellectual Reserve,,1,https://www.linkedin.com/userp/title/lawyer/sumter,Lawyer in Sumter,23
+Hewlett-Packard Development Company,www8.hp.com/us/en/home.html,73632,https://www.linkedin.com/company/hp,HP,34
+Intrexon CEU,,17,https://www.linkedin.com/userp/title/senior-scientist-at-oxitec-ltd,Top 25 Senior Scientist profiles at Oxitec Ltd,46
+KOLON INDUSTRIES,kolonindustries.com/eng/main.asp,376,https://www.linkedin.com/company/kolon-industries-inc,"Kolon Industries, Inc",18
+Korea Kumho Petrochemical Co.,kumhopetrochemical.lookchem.com/,111,https://www.linkedin.com/company/korea-kumho-petrochemical-co-ltd-,"Korea Kumho Petrochemical Co., Ltd.",7
+LG NANOH2O,lgwatersolutions.com/en/main,60,https://www.linkedin.com/company/lgwatersolutions,LG Chem / LG Water Solutions,25
+Lyotropic Therapeutics,,4,https://www.linkedin.com/company/lyotropic-therapeutics-inc.,"Lyotropic Therapeutics, Inc.",6
+MCI,mci.com/mcihome.jsp,,,,
+Molecular Imprints,,55,https://www.linkedin.com/company/molecular-imprints-inc.,"Molecular Imprints, Inc.",6
+NetApp,netapp.com/us/index.aspx,11908,https://www.linkedin.com/company/netapp/jobs,NetApp: Jobs,6
+Nexcom Technology,nexcom.com/,7,https://www.linkedin.com/company/nexcom-solutions,Nexcom Solutions,10
+Ojai Retinal Technology,,30,https://www.linkedin.com/company/retina-macula-institute,Retina Macula Institute,21
+Opel Solar,opelinc.com/,42,https://www.linkedin.com/company/opel-international,OPEL International,15
+Pioneer Hi-Bred International,dupont.com/corporate-functions/our-company/businesses/pioneer.html,108,https://www.linkedin.com/company/pioneer-hibred,Pioneer Hibred,5
+Pioneer Hi-Bred,dupont.com/corporate-functions/our-company/businesses/pioneer.html,108,https://www.linkedin.com/company/pioneer-hibred,Pioneer Hibred,5
+QD Vision,anandtech.com/show/10858/samsung-acquires-qd-vision,76,https://www.linkedin.com/company/qd-vision-inc-,QD Vision Inc,4
+R.P. Scherer Technologies,,3,https://www.linkedin.com/company/r-p-scherer-corporation,R.P. Scherer Corporation,21
+SCHOTTKY LSI,,491,https://www.linkedin.com/company/lsi-industries,LSI Industries Inc.,19
+Sanyo Electric Co.,panasonic.com/global/corporate/profile/group-companies/sanyo.html,3,https://www.linkedin.com/company/haier-sanyo-electric-co-ltd-,"Haier Sanyo Electric Co., Ltd.",28
+Semiconductor Components Industries,,10270,https://www.linkedin.com/company/on-semiconductor,ON Semiconductor,35
+Siemens Energy,siemens.com/global/en/home/products/energy.html,11769,https://www.linkedin.com/company/siemensgamesa,Siemens Gamesa,6
+Solexa,,15,https://www.linkedin.com/company/solexa,Solexa,0
+T.H.E.M.,them.net/,3,https://www.linkedin.com/company/them-of-nj,Them Of Nj,9
+Tapwave,tapwave.net/,10,https://www.linkedin.com/company/tapwave-inc.,"Tapwave, Inc.",6
+Theraclone Sciences,theraclone-sciences.com/home.php,7,https://www.linkedin.com/company/theraclone-sciences,Theraclone Sciences,0
+Yeda Research and Development Co.,yedarnd.com/Overview,24,https://www.linkedin.com/company/yeda-r&d--tec-transfer-the-weizmann- institute-of-science,Yeda R&D - Technology Transfer from The Weizmann Institute of ...,58
+Ziptronix,invensas.com/,8,https://www.linkedin.com/company/ziptronix,"Ziptronix, Inc.",6
+BASF Coatings GmbH,basf-coatings.com/global/ecweb/en/,299,https://www.linkedin.com/company/basf-coatings-india-pvt.-ltd.,BASF Coatings (India) Pvt. Ltd.,18
+BROOKLYN QUANTUM WORKS,,2,https://www.linkedin.com/company/mothergoosemedia,Mother Goose Media,22
+Brookhaven Science Associates LLC ,bsa-hq.org/,12,https://www.linkedin.com/company/brookhaven-science-associates,Brookhaven Science Associates,0
+CNH Industrial America LLC,cnhindustrial.com/en-us/Pages/Homepage.aspx,17715,https://www.linkedin.com/company/cnh,CNH Industrial,8
+Carl Zeiss Microscopy GmbH,zeiss.com/microscopy/int/home.html,1354,https://www.linkedin.com/company/carl-zeiss-microscopy-gmbh,Carl Zeiss Microscopy,0
+Cetus Corporation,,51,https://www.linkedin.com/company/cetus-solutions-limited,Cetus Solutions,10
+Conversant Intellectual Property Management Inc.,conversantip.com/,38,https://www.linkedin.com/company/mosaid,Conversant Intellectual Property Management,0
+Corporation for National Research Initiatives,cnri.reston.va.us/,17,https://www.linkedin.com/company/corporation-for-national-research- initiatives,Corporation for National Research Initiatives,0
+Dell Software Inc.,quest.com,3750,https://www.linkedin.com/company/quest-software,Quest Software,14
+Dow Technology Investments LLC,dow.com/en-us,4406,https://www.linkedin.com/company/dow-jones,Dow Jones,22
+EMC Corporation,emcins.com/,1613,https://www.linkedin.com/company/emc-insurance-companies,EMC Insurance Companies,20
+Eaton Corporation,eaton.com/us/en-us.html,44776,https://www.linkedin.com/company/eaton/jobs,Eaton: Jobs,6
+Empire Technology Development LLC,empirelabauto.com/index.html,41,https://www.linkedin.com/company/empire-technologies,Empire Technologies,13
+Fujitsu Semiconductor Limited,fujitsu.com/jp/group/fsl/en/,169,https://www.linkedin.com/company/fujitsu-semiconductor-limited,Fujitsu Semiconductor Limited,0
+GLYCON LLC,glycon.com/,15,https://www.linkedin.com/company/glycon-corp-,Glycon Corp.,11
+GREENFIELD MASTER IPCO LIMITED,,,,,
+GREENHILL ANTIBALLISTICS CORPORATION,,,,,
+Garrity Power Services LLC,,,https://www.linkedin.com/pub/joel-garrity/ba/659/751?trk=co-feed...,Joel Garrity - Senior Business Development Manager - Go Green ...,64
+Heraeus Precious Metals North America Conshohocken LLC,heraeus.com/us/group/home/home.aspx,2967,https://www.linkedin.com/company/heraeus,Heraeus,43
+INTEL IP CORPORATION,,,,,
+Imperial Innovations Limited,imperialinnovations.co.uk/,161,https://www.linkedin.com/company/imperial-innovations,Imperial Innovations,8
+Innolux Corporation,innolux.com/Pages/EN/Index_EN.html,2087,https://www.linkedin.com/company/innolux-display-corp.,INNOLUX群創光電,10
+JSI Equipment Solutions LLC,,6,https://www.linkedin.com/company/jsi-–-joe-solberg-inc.,JSI – Joe Solberg Inc.,19
+Kajima Corporation,kajimausa.com/,159,https://www.linkedin.com/company/kajima-building-&-design-group-inc-,"Kajima Building & Design Group, Inc.",30
+King Electric Vehicles Inc.,https://king-electric.com/,2,https://www.linkedin.com/company/sking-motors-international-co.-limited,"S-KING MOTORS INTERNATIONAL CO.,LIMITED",38
+Lockheed Martin Corporation,lockheedmartin.com/en-us/index.html,91368,https://www.linkedin.com/company/lockheed-martin,Lockheed Martin,0
+Michelin Recherche et Technique S.A.,michelin.com/eng,2,https://www.linkedin.com/company/anis-co,Alexey Nikolev Intellectual Studio,33
+Microsemi SoC Corporation,microsemi.com/,3273,https://www.linkedin.com/company/microsemi,Microsemi Corporation,10
+Mitsubishi Metal Corporation,mitsubishicorp.com/jp/en/bg/metals/,34,https://www.linkedin.com/company/mitsubishi-materials-uk,MMC Hardmetal UK Ltd,19
+NOK Corporation,www.nok.co.jp/en/,5,https://www.linkedin.com/company/chiyoda-kogyo-k-k-,Chiyoda Kogyo K.K.,18
+NOVA PANGAEA TECHNOLOGIES LIMITED,novapangaea.com/,5,https://www.linkedin.com/company/nova-pangaea-technologies-uk-limited,NOVA PANGAEA TECHNOLOGIES (UK) LIMITED,12
+Nvidia Corporation,nvidia.com/page/home.html,14733,https://www.linkedin.com/company/nvidia/jobs,NVIDIA: Jobs,11
+POLAR LIGHT TECHNOLOGIES AB,polar-light-technologies.com/,24,https://www.linkedin.com/company/network-innovation-ab,Network Innovation AB,27
+PeterBrod Corp.,petroblend.com/,,,,
+Pioneer Hi Bred International Inc,dupont.com/corporate-functions/our-company/businesses/pioneer.html,108,https://www.linkedin.com/company/pioneer-hibred,Pioneer Hibred,5
+Roche Diagnostics GmbH,accu-chek.com/,740,https://www.linkedin.com/company/roche-nimblegen-inc,Roche NimbleGen Inc.,13
+SanDisk 3D LLC,sandisk.com/home/ssd/ultra-3d-ssd,5858,https://www.linkedin.com/company/sandisk,SanDisk®,3
+Siemens Corporation,siemens.com/global/en/home.html,10217,https://www.linkedin.com/company/siemens-plm-software,Siemens PLM Software,13
+SolarLego Inc.,education.lego.com/en-us/products/lego-solar-panel/9667,,,,
+Soliton Lasers,soliton.com/,2,https://www.linkedin.com/company/soliton-laser--und-meßtechnik-gmbh,Soliton Laser- Und Meßtechnik GmbH,21
+Solutia Inc.,eastman.com/Pages/solutia.aspx,56,https://www.linkedin.com/company/solutia-global-health-solutions-s-l-,Solutia Global Health Solutions S.L.,29
+Texas Instruments Deutschland GmbH,http://www.ti.com/,25039,https://www.linkedin.com/company/texas-instruments,Texas Instruments,12
+Triune IP LLC,,5,https://www.linkedin.com/company/triune-systems,Triune Systems,7
+WELL Shield LLC,,12,https://www.linkedin.com/company/coastal-well-drilling,Coastal Well Drilling,21
+API Intellectual Property Holdings,,6,https://www.linkedin.com/company/canella-camaiora-studio-legale,Canella Camaiora Studio Legale,32
+APPLIED SUNSHINE,,19,https://www.linkedin.com/company/applied-installations,Applied Installations,19
+Advanced Fusion Technologies,,2,https://www.linkedin.com/company/advanced-fusion-technologies-llc,"ADVANCED FUSION TECHNOLOGIES, LLC",28
+Alliance for Sustainable Energy,allianceforsustainableenergy.org/,3,https://www.linkedin.com/company/renewable-energy-alliance-llc,"Renewable Energy Alliance, LLC",31
+Applied Biosystems,thermofisher.com/us/en/home/brands/applied-biosystems.html,14,https://www.linkedin.com/company/applied-bio-systems-inc.,"Applied Bio-Systems, Inc.",14
+Aurora Alage,aurorabiofuels.com/,12,https://www.linkedin.com/company/aurora-algae-inc,"Aurora Algae, Inc",7
+Authenex,authenex.com/site_en/index.html,13,https://www.linkedin.com/company/authenex,Authenex,0
+CYKL Technology,,220,https://www.linkedin.com/company/novomaticpl,NOVOMATIC Technologies Poland,29
+Diamicron,,31,https://www.linkedin.com/company/dimicron,Dymicron,8
+Digital Wind Systems,,714,https://www.linkedin.com/company/envision-energy,Envision Energy,17
+FHT,,51,https://www.linkedin.com/company/federation-of-holistic-therapists-fht-,Federation of Holistic Therapists (FHT),38
+III HOLDINGS 1,,34,https://www.linkedin.com/company/yilmaden-holding-inc,YILMADEN HOLDING INC.,20
+InVisage Technologies,envisagenow.com/,38,https://www.linkedin.com/company/invisage-technologies-inc.,"InVisage Technologies, Inc.",6
+Industrial Origami,,16,https://www.linkedin.com/company/industrial-origami,Industrial Origami,0
+Industrial Science & Technology Network,istninc.com/home.htm,,https://www.linkedin.com/pub/roberto-lai/13/4ba/498,"Roberto Lai - Deputy Director/ Industry, Science and Technology ...",64
+Interface Performance Materials,interfacematerials.com/products/,152,https://www.linkedin.com/company/interface-solutions-inc-,"Interface Performance Materials, Inc.",6
+Johnson & Johnson Consumer Companies,jnj.com/healthcare-products/consumer,85371,https://www.linkedin.com/company/johnson-&-johnson,Johnson & Johnson,19
+LG Bionano,,,https://www.linkedin.com/pub/angeline-rudlaff/b/142/8b0,Angeline Rudlaff - RN - Clear Stone Laser/Texas Laser Institute ...,66
+Longhorn Vaccines and Diagnostics,lhnvd.com/news#!,7,https://www.linkedin.com/company/longhorn-vaccines-and-diagnostics-llc,"Longhorn Vaccines and Diagnostics, LLC",5
+MBC Ventures,mbc.net/en/corporate/ventures/about,5,https://www.linkedin.com/company/mbc-ventures,MBC Ventures,0
+MICROMIDAS,originmaterials.com/,10,https://www.linkedin.com/company/micromidas-inc.,Micromidas Inc.,14
+Macronix International Co.,macronix.com/en-us/Pages/default.aspx,763,https://www.linkedin.com/company/macronix-international-co-ltd,Macronix,3
+Masimo Semiconductor,masimosemiconductor.com/masimo-semiconductor/,1898,https://www.linkedin.com/company/masimo-corporation,Masimo,14
+Nationwide Children's Hospital,nationwidechildrens.org/,7443,https://www.linkedin.com/company/nationwide-childrens-hospital,Nationwide Children's Hospital,0
+Neutronic Perpetual Innovations,npimobile.com/,3,https://www.linkedin.com/company/neutronic-perpetual-innovations,Neutronic Perpetual Innovations,0
+Ormet Circuits,,15,https://www.linkedin.com/company/ormet-circuits-inc,"Ormet Circuits, INC",5
+Panasonic Intellectual Property Management Co.,,10742,https://www.linkedin.com/company/panasonic-usa,Panasonic USA,35
+Plasma Tech Holdings,,1133,https://www.linkedin.com/company/oxford-instruments,Oxford Instruments,19
+Precision Custom Coatings,,21,https://www.linkedin.com/company/precisiontextiles,Precision Textiles,14
+Rillito Rive Solar,,24,https://www.linkedin.com/company/the-caliber-group,The Caliber Group,17
+Ruse Technologies,,14,https://www.linkedin.com/company/nonillion,Silvae Technologies,18
+SDCmaterials,,13,https://www.linkedin.com/company/sdc-materials-inc,"SDC Materials, INC",15
+Saint-Gobain Ceramics & Plastics,ceramicmaterials.saint-gobain.com/,21928,https://www.linkedin.com/company/saint-gobain,Saint-Gobain,20
+Schneider Electric Solar Inverters USA,solar.schneider-electric.com/,,https://www.linkedin.com/company/schneider-electric,Schneider Electric,20
+SeQual Technologies,,40,https://www.linkedin.com/company/sequal-technologies,SeQual Technologies,0
+Semprius,semprius.com,11,https://www.linkedin.com/company/semprius,Semprius,0
+Siemens Industry,siemens.com/us/en/home/products/automation.html,,https://www.linkedin.com/company/siemens-plm-software,Siemens PLM Software,12
+Siemens Medical Solutions USA,usa.healthcare.siemens.com/,216615,https://www.linkedin.com/company/siemens,Siemens,22
+Solvay Specialty Polymers USA,solvay.com/en,18818,https://www.linkedin.com/company/solvay,Solvay,23
+Sumitomo Electric Device Innovations,sedi.co.jp/?version=en,1130,https://www.linkedin.com/company/sumitomo-electric,Sumitomo Electric,19
+Sumitomo Rubber Industries,sumitomorubber-usa.com/,3,https://www.linkedin.com/company/sumitomo-rubber-industries-ltd---bureau -de-bruxelles,SUMITOMO RUBBER INDUSTRIES LTD - BUREAU DE ...,41
+Sustainable Technologies,sustech.cc/wordpress/,12,https://www.linkedin.com/company/terra-global-solutions-pbc,TERRA - Terra Sustainable Technologies,38
+Taiwan Semiconductor Manufacturing Company,tsmc.com/english/default.htm,9,https://www.linkedin.com/company/tsmc,TSMC,41
+Toshiba America Electronic Components,toshiba.semicon-storage.com/us/top.html,,,,
+Toyota Motor Engineering & Manufacturing North America,toyota.com/usa/careers/index.html,11982,https://www.linkedin.com/company/toyota-north-america,Toyota North America,45
+Truckee Applied Genomics,,424,https://www.linkedin.com/company/desert-research-institute,Desert Research Institute,24
+V35A Enterprises,,,https://www.linkedin.com/userp/title/plant-manager-at-mission-foods,Plant Manager at Mission Foods,30
+Vindico NanoBioTechnology,,3,https://www.linkedin.com/company/vindico-nanobiotechnology-inc.,"Vindico NanoBioTechnology, Inc.",6
+Western Digital (Fremont),,12436,https://www.linkedin.com/company/western-digital,Western Digital,10
+Western Digital Technologies,,,https://www.linkedin.com/company/western-digital,Western Digital,13
+Abbott Cardiovascular Systems Inc.,vascular.abbott/us/homepage.html,693,https://www.linkedin.com/company/cardiovascular-systems-inc,"Cardiovascular Systems, Inc.",29
+Acer Incorporated,acer.com/ac/en/US/content/home,,,,
+Anelva Corporation,canon-anelva.co.jp/english/,37,https://www.linkedin.com/company/canon-anelva,Canon Anelva,12
+Atomic Energy Council-Institute of Nuclear Energy Research,,239,https://www.linkedin.com/company/nuclear-energy-institute,Nuclear Energy Institute,57
+B.G. Negev Technologies and Applications Ltd.,in.bgu.ac.il/en/bgn/Pages/default.aspx,18,https://www.linkedin.com/company/inno-negev,Inno-Negev,37
+BLANC VINEYARDS L.L.C.,,2,https://www.linkedin.com/company/honey-bee-vineyard-llc,"Honey Bee Vineyard, LLC",22
+BOLTIER R&D,,6234,https://www.linkedin.com/company/coloplast,Coloplast,11
+Bi-Modal Corporation,gartner.com/it-glossary/bimodal,3,https://www.linkedin.com/company/ml21,ML21 - Escola de Estratégia Digital Bimodal,43
+CERION LLC,cerionadvancedmaterials.com/,18,https://www.linkedin.com/company/cerion-enterprises,Cerion Advanced Materials,24
+Cadtrak Corporation,,,https://www.linkedin.com/userp/title/production-coordinator/yuba-city,Production Coordinator in Yuba City,35
+Callahan Cellular L.L.C.,,3,https://www.linkedin.com/company/alert-cyber,Alert Cyber,21
+Canon Kabushiki Kaisha,global.canon/en/index.html,18,https://www.linkedin.com/company/nippon-yusen-kabushiki-kaisha,Nippon Yusen Kabushiki Kaisha,29
+Dolby Laboratories Licensing Corporation,dolby.com/us/en/professional/licensing.html,2028,https://www.linkedin.com/company/dolby-laboratories/jobs,Dolby Laboratories: Jobs,10
+Dow Corning Corporation,dow.com/en-us/dow-corning-integration,7880,https://www.linkedin.com/company/owens-corning,Owens Corning,12
+DuPont Teijin Films U.S. Limited Partnership,usa.dupontteijinfilms.com/,213,https://www.linkedin.com/company/dupont-teijin-films,DuPont Teijin Films,23
+GE-Hitachi Nuclear Energy Americas LLC,nuclear.gepower.com/,26412,https://www.linkedin.com/company/gepower,GE Power,32
+Galemed Corporation,galemed.com/manager/eService/RC08-all_0225.pdf,34,https://www.linkedin.com/company/galemed-corporation,GaleMed Corporation,13
+Google Inc.,abc.xyz/,,https://www.linkedin.com/help/testing/answer/5866,LinkedIn Public Profile Visibility,34
+Green Extraction Technologies,greenextractiontechnologiesllc.com/,4,https://www.linkedin.com/company/green-extraction-technologies-llc,"Green Extraction Technologies, LLC",5
+Hadasit Medical Research Services & Development Company Ltd.,hadasit.co.il/,9,https://www.linkedin.com/company/hadasit,Hadasit Medical Research Services & Development,8
+Hewlett Packard Enterprise Development LP,hpe.com/us/en/home.html,214986,https://www.linkedin.com/company/hewlett-packard-enterprise,Hewlett Packard Enterprise,15
+Hewlett-Packard Indigo B.V.,,73605,https://www.linkedin.com/company/hp,HP,24
+IMDS Corporation,imds-ohio.com,9,https://www.linkedin.com/company/industrial-machining-&-design-services,IMDS CORPORATION,12
+Industrial Technology Research Institute,itri.org.tw/eng/,6,https://www.linkedin.com/company/jitri,JITRI - Jiangsu Industrial Technology Research Institute,55
+Instron Corporation ,instron.us/en-us?region=North%20America,950,https://www.linkedin.com/company/instron,Instron,0
+Johnson Controls Technology Company,johnsoncontrols.com/about-us/our-company,56949,https://www.linkedin.com/company/johnson-controls,Johnson Controls,19
+LORDO AMERICA,,30,https://www.linkedin.com/title/student-body-president,Student Body President,22
+MATERIALS ANALYSIS TECHNOLOGY (US) CORP.,ma-tek.com/about_us.php?act=rd,566,https://www.linkedin.com/company/hitachi-high-technologies-america,Hitachi High Technologies America,39
+Merck Patent GmbH,merck.com/product/patent/home.html,,https://www.linkedin.com/company/merck-group/jobs,Merck Group: Jobs,11
+Monsanto Technology LLC,monsanto.com/products/product-stewardship/technology-use-guides/,21847,https://www.linkedin.com/company/monsanto,Monsanto Company,10
+NOVA Chemicals (International) S.A.,novachem.com/pages/home.aspx,2401,https://www.linkedin.com/company/nova-chemicals,NOVA Chemicals,19
+Nano Technics Company Ltd,,2,https://www.linkedin.com/company/h2o-technics,H2O Technics B.V.,21
+NanoGram Corporation,nanogram.com,2,https://www.linkedin.com/company/nanogram,Nanogram,1
+Novus Energy LLC,novusenergy.ca/index.php?page=investor_documents_news_release,13,https://www.linkedin.com/company/novus-energy,Novus energy,1
+Polysar Corporation,polystar.com/,9,https://www.linkedin.com/company/polysar-inc,Polysar Inc,4
+Quallion LLC,enersys.com/default.aspx?langType=1033,61,https://www.linkedin.com/company/quallion,Quallion,0
+Raytheon BBN Technologies Corp.,raytheon.com/ourcompany/bbn,47148,https://www.linkedin.com/company/raytheon,Raytheon,22
+RenovaCare Sciences Corp.,renovacareinc.com/contact/,3,https://www.linkedin.com/company/renovacare-inc-,"RenovaCare, Inc.",14
+Rohm and Haas Electronic Materials LLC,dowelectronicmaterials.com/,215,https://www.linkedin.com/company/rohm-and-haas-electronic-materials,Rohm and Haas Electronic Materials,0
+Sagacious Investment Group L.L.C.,sagaciousinvestmentservices.com/,14,https://www.linkedin.com/company/global-ip-law-group,Global IP Law Group,29
+Saint-Gobain Performance Plastics Corporation,plastics.saint-gobain.com/,1984,https://www.linkedin.com/company/saint-gobain-performance-plastics,Saint-Gobain Performance Plastics,0
+Semics Inc.,prober.com/semics-opus3-prober/,13,https://www.linkedin.com/company/semics-llc,Semics LLC,4
+SolarCity Corporation,tesla.com/solarpanels?energy_redirect=true,83,https://www.linkedin.com/company/solar-city-new-zealand,solarcity New Zealand,14
+Sony Interactive Entertainment America LLC,sie.com/en/index.html,6913,https://www.linkedin.com/company/playstation-sony,PlayStation,36
+Sysmex Corporation,sysmex.com/Pages/default.aspx,164,https://www.linkedin.com/company/sysmex,Sysmex Netherlands & Belgium,22
+THYSSENKRUPP INDUSTRIAL SOLUTIONS GMBH,thyssenkrupp.com/en/,18497,https://www.linkedin.com/company/thyssenkrupp,thyssenkrupp,33
+Teal Sales Incorporated,tsi-inc.net,8,https://www.linkedin.com/company/teal-patents,TEAL Patents,8
+Total Marketing Services,total.com/en,3,https://www.linkedin.com/company/t-total,T-Total Marketing Services,25
+Transtron Solutions LLC,transtron.com/en/,8,https://www.linkedin.com/company/transtronics-inc,Transtronics Inc,10
+U S MICROPOWER INC,micropower-group.com/,,https://www.linkedin.com/company/yomamicropower,Yoma Micro Power,16
+United Microelectronics Corp.,umc.com/,792,https://www.linkedin.com/company/cabot-microelectronics,Cabot Microelectronics,28
+VivaLnk Limited (Cayman Islands),,,,,
+WADHAM ENERGY LP,,19,https://www.linkedin.com/company/enpower-corp,Enpower Corp,16
+Xenogenic Development Limited Liability Company,,,https://www.linkedin.com/company/colorado-therapeutics-llc,Colorado Therapeutics LLC,43
+Xintec Inc.,xintec.com.tw/eng/index.aspx,30,https://www.linkedin.com/company/xintec,XINTEC,5
+eSionic Corp.,,2,https://www.linkedin.com/company/esionic-corp-,eSionic Corp.,1
+540 Grid Solutions,,7,https://www.linkedin.com/company/g-store-pty-ltd,G-Store,17
+ALF OPERATING PARTNERS,,27,https://www.linkedin.com/company/alf,ALF in collaboration with BSA Ahmad Bin Hezeem & Associates LLP ...,63
+AMO Wavefront Sciences,,787,https://www.linkedin.com/company/advanced-medical-optics,Advanced Medical Optics,22
+Aadigen,,,https://www.linkedin.com/company/divincell,DIVINCELL,9
+Accuri Cytometers,bdbiosciences.com/us/instruments/research/cell-analyzers/bd-accuri/m/1294932/overview,10,https://www.linkedin.com/company/accuri-cytometers,Accuri Cytometers,0
+Advanced Cardiovascular Systems,,2,https://www.linkedin.com/company/advanced-cardiovascular-systems,Advanced Cardiovascular Systems,0
+Advanced Technology Materials,,32,https://www.linkedin.com/company/advanced-materials-technology,Advanced Materials Technology,20
+Amazon Technologies,,231675,https://www.linkedin.com/company/amazon,Amazon,13
+Anterios,,4,https://www.linkedin.com/company/anterios-inc-,Anterios Inc.,5
+Applied NanoStructured Solutions,,296,https://www.linkedin.com/company/applied-nanostructured-solutions-llc,"Applied Nanostructured Solutions, LLC",6
+Avello Bioenery,,3,https://www.linkedin.com/company/avello-limited,AVELLO LIMITED,13
+AxioMx,,17,https://www.linkedin.com/company/axiomx-inc,AxioMx Inc,4
+BHA Technologies,,9,https://www.linkedin.com/company/bhagin-technologies,Bhagin Technologies,18
+BIND Therapeutics,,9,https://www.linkedin.com/company/bind-therapeutics,BIND Therapeutics,0
+Bechtel Hydrocarbon Technology Solutions,,,"https://www.linkedin.com/titlesenior-estimator-at-bechtel-oil,-gas,-%26- chemicals","Senior Estimator at Bechtel Oil, Gas, & Chemicals",42
+Beijing BOE Display Technology Co.,,10,https://www.linkedin.com/company/beijing-boe-optoelectronics-technology- co-ltd-,Beijing BOE Optoelectronics Technology Co. Ltd.,35
+Biozoom Technologies,,,,,
+CA,,,https://www.linkedin.com/help/testing/answer/3022,Viewing New Connections and Contacts,36
+CPT IP Holdings,,36545,https://www.linkedin.com/company/telstra,Telstra,15
+California Industrial Facilities Resources,,39,https://www.linkedin.com/company/california-association-of-health-facilities,California Association of Health Facilities,31
+Canon,usa.canon.com/internet/portal/us/home,317,https://www.linkedin.com/company/canon-belgium,Canon Belgium,8
+Cardiac Pacemakers,,2,https://www.linkedin.com/company/cardiac-rms,Cardiac RMS LLC,10
+Cheil Industries,,105,https://www.linkedin.com/company/cheil-industries,Cheil Industries,0
+Component Re-Engineering Company,,15,https://www.linkedin.com/company/hds-energy-ltd.,HDS Energy Ltd.,30
+DCG SYSTEMS,,107,https://www.linkedin.com/company/dcg-systems,DCG Systems,6
+DPD,,724,https://www.linkedin.com/company/dpd-nederland-bv,DPD Nederland BV,13
+Deep Well Power,,148,https://www.linkedin.com/company/deep-well-services,Deep Well Services,8
+Dogwood Pharmaceuticals,,2,https://www.linkedin.com/company/dogwood-pharmacy-llc,DOGWOOD PHARMACY LLC,20
+Dongbu Hitek Co.,,200,https://www.linkedin.com/company/dongbu-hitek,Dongbu HiTek,4
+ENERGY ENGINEERING SYSTEMS,,2,https://www.linkedin.com/company/dalil-engineering-systems,DALIL ENGINEERING SYSTEMS,25
+Elcriton,,4,https://www.linkedin.com/company/elcriton-inc.,"Elcriton, Inc.",6
+Facebook,,18,https://www.linkedin.com/...7.../using-the-iphone-during-a-call?...,Learning Facebook,17
+GEOTHERMAL ENERGY PROJECT,,54,https://www.linkedin.com/company/green-energy-group-as,Green Energy Geothermal Ltd.,27
+GM Global Technology Operations,,,https://www.linkedin.com/company/gm-globalsolutions,GM Global Solutions,21
+Genia Technologies,,4,https://www.linkedin.com/company/genia-tech-sac,GENIA TECH SAC,15
+GeoSynFuels,,4,https://www.linkedin.com/company/geosynfuels,GeoSynFuels,0
+Gilead Biologics,,,,,
+HTS,htstechnologies.com/,3,https://www.linkedin.com/company/optima-knowledge,HTS Technologies,13
+Haier US Appliance Solutions,,238,https://www.linkedin.com/company/haier-america,Haier America,22
+Handylab,,10,https://www.linkedin.com/company/handylab-inc.,"HandyLab, Inc.",7
+IBC Pharmaceuticals,,65,https://www.linkedin.com/company/ibc-generium,IBC Generium,15
+Immunopath Profile,,,,,
+Industrial Solar Heating Systems,,4,https://www.linkedin.com/company/industrial-solar-gmbh,Industrial Solar GmbH,15
+Innovalight,,15,https://www.linkedin.com/company/innovalight-inc.,"Innovalight, Inc.",6
+Joule Unlimited Technologies,,20,https://www.linkedin.com/company/joule-unlimited-technologies-inc-,"Joule Unlimited Technologies, Inc.",6
+KAI Pharmaceuticals,,28,https://www.linkedin.com/company/kai-pharmaceuticals,KAI Pharmaceuticals,0
+LAVA ENERGY SYSTEMS,,2,https://www.linkedin.com/company/azar-lava,Azar Lava Co.,18
+MICROSOFT TECHNOLOGY LICENSING,microsoft.com/en-us/legal/intellectualproperty/mtl/default.aspx,19,https://www.linkedin.com/company/3t---technology-transfer-&-training,3t - Technology Transfer & Training,35
+Ma-West,,39,https://www.linkedin.com/company/the-food-bank-of-western-massachusetts,The Food Bank of Western Massachusetts,38
+Mallinckrodt,,3661,https://www.linkedin.com/company/mallinckrodt/jobs,Mallinckrodt Pharmaceuticals: Jobs,22
+Matrix Odyssey,,1059,https://www.linkedin.com/company/odyssey-online,Odyssey.,14
+Medtronic Vascular,,65795,https://www.linkedin.com/company/medtronic,Medtronic,9
+NANO CELL SYSTEMS,nanocellsystems.com,,https://www.linkedin.com/company/aws-nanocell,NanoCell Networks Pvt. Ltd.,26
+Nant Holdings IP,,80,https://www.linkedin.com/company/ip-group-plc,IP Group plc,16
+Ovonic Battery Company,,5,https://www.linkedin.com/company/united-solar-ovonic-llc,United Solar Ovonic,21
+PDF Solutions,pdf.com,474,https://www.linkedin.com/company/pdf-solutions,PDF Solutions,0
+Planet ATE,,5,https://www.linkedin.com/company/kiddy-planet-nursery-limited,KIDDY PLANET NURSERY LIMITED,28
+QUSWAMI,,,https://www.linkedin.com/userp/title/senior-recruiter-at-huawei-technologies,Senior Recruiter at Huawei Technologies,39
+Roche Diabetes Care,roche.com/partnering/diagnostics-areas-of-interest/diabetes-management.htm,17,https://www.linkedin.com/company/rocheapac,Roche Diabetes Care Asia Pacific,13
+Rockwell Automation Technologies,rockwellautomation.com/site-selection.html,446,https://www.linkedin.com/company/maverick-technologies,"MAVERICK Technologies, A Rockwell Automation Company ...",54
+Roho,,136,https://www.linkedin.com/company/the-roho-group,Permobil ROHO Seating and Positioning,37
+Rolls-Royce North American Technologies,rolls-royce.com/country-sites/northamerica.aspx,27095,https://www.linkedin.com/company/rolls-royce,Rolls-Royce,28
+SK Telecom Co.,sktelecom.com/index.html,7924,https://www.linkedin.com/company/sk-telecom,SK Telecom,3
+SPC International,spc-intl.com,11,https://www.linkedin.com/company/spc-international-incorporated,"SPC International, Inc.",20
+Samsung Corning Precision Materials Co.,,2018,https://www.linkedin.com/pub/donggee-kim/55/b35/965?trk=co-feed...,DongGee Kim - Senior Manager - Corning Precision Materials ...,61
+Samsung Electro-Mechanics Co.,,1354,https://www.linkedin.com/company/samsung-electro-mechanics,Samsung Electro-Mechanics,3
+Shenzhen China Star Optoelectronics Technology Co.,,36,https://www.linkedin.com/company/shenzhen-china-star-optoelectronics- technology-co-ltd-,"Shenzhen China Star Optoelectronics Technology Co., Ltd.",7
+Shubin,,,https://www.linkedin.com/company/shubin-info-production,SHUBIN.INFO PRODUCTION,21
+Sierra Sciences,sierrasci.com/?p=home,17,https://www.linkedin.com/company/sierra-sciences,Sierra Sciences,0
+Sigmatel,,97,https://www.linkedin.com/company/sigmatel,SigmaTel,1
+Simple Approach Systems,,8,https://www.linkedin.com/company/bay-lakes-information-systems-llc,"Bay Lakes Information Systems, LLC",34
+SonoGene,,,,,
+Sophoro Biotechnologies,,2,https://www.linkedin.com/company/yaan-times-biotech-co-ltd,"YAAN TIMES BIOTECH CO., LTD",27
+Synthezyme,,3,https://www.linkedin.com/company/synthezyme-llc,SyntheZyme LLC,5
+THE SWEET LIVING GROUP,,3,https://www.linkedin.com/company/the-sweet-living-group,The Sweet Living Group,15
+Taxon Biosciences,,6,https://www.linkedin.com/company/taxon-biosciences,Taxon Biosciences,0
+Tekkware,,4,https://www.linkedin.com/company/tekkware-inc-,"Tekkware, Inc.",6
+Tensor,,3,https://www.linkedin.com/company/tensor-industri-as,Tensor Industri AS,12
+TetraSun,,12,https://www.linkedin.com/company/tetrasun-inc.,"TetraSun, a wholly owned subsidiary of First Solar Corporation ...",58
+Therapeutic Proteins International,,4,https://www.linkedin.com/company/international-therapeutic-proteins,International Therapeutic Proteins,33
+Twitter,,4383,https://www.linkedin.com/company/twitter/jobs,Twitter: Jobs,6
+VALTED,,145,https://www.linkedin.com/company/xalted-information-systems-pvt-ltd,Xalted Information Systems Pvt. Ltd.,36
+Varian Semiconductor Equipment Associates,,574,https://www.linkedin.com/company/varian-semiconductor,Varian Semiconductor,21
+Ventana Medical Systems,,1400,https://www.linkedin.com/company/ventana-medical-systems,Ventana Medical Systems,0
+adaptiveARC,,9,https://www.linkedin.com/company/adaptivearc,AdaptiveARC,1
+kSep Systems,,,https://www.linkedin.com/company/ksep-systems,kSep Systems (now part of Sartorius Stedim Biotech),39
+646840 Alberta Ltd.,,,,,
+AAC Technologies Pte. Ltd.,,2141,https://www.linkedin.com/company/aac-technologies,AAC Technologies,4
+ABB Research Ltd.,new.abb.com/about/technology/corporate-research-centers/corporate-research-center-united-states,23,https://www.linkedin.com/company/los-gatos-research,"Los Gatos Research, A Member of the ABB Group",44
+ABL IP Holding LLC,,365,https://www.linkedin.com/company/arnold-bloch-leibler,Arnold Bloch Leibler,18
+AMERICAN BIO ENERGY CONVERTING CORP.,,34,https://www.linkedin.com/company/fulcrum-bioenergy-inc.,"Fulcrum BioEnergy, Inc.",35
+ATI Technologies ULC,,1511,https://www.linkedin.com/company/allegheny-technologies,ATI (Allegheny Technologies Incorporated),37
+AZ Electronic Materials (Luxembourg) S.A.R.L.,,284,https://www.linkedin.com/company/az-electronic-materials,AZ Electronic Materials,18
+Aerosol Dynamics Inc.,,6,https://www.linkedin.com/company/aerosol-dynamics-inc,Aerosol Dynamics Inc,4
+Aneeve LLC,,,https://www.linkedin.com/titlesales-at-thyssenkrupp-elevator-india,Sales at Thyssenkrupp Elevator India,35
+Anlinx,,2,https://www.linkedin.com/company/anlinx,AnLinx,1
+Asahi Kasei Kabushiki Kaisha,,44,https://www.linkedin.com/company/asahi-kasei-america,Asahi Kasei America,16
+Avago Technologies General IP (Singapore) Pte. Ltd.,,2317,https://www.linkedin.com/company/avago-technologies,Avago Technologies,27
+Avant Garde Therapeutics & Technologies LLC,,4482,https://www.linkedin.com/company/ipsen,Ipsen,39
+BAE Systems Information and Electronic Systems Integration Inc.,baesystems.com/en-us/our-company/inc-businesses/electronic-systems,45227,https://www.linkedin.com/company/bae-systems,BAE Systems,47
+BCE Inc.,,157,https://www.linkedin.com/company/broadcasting-center-europe,BCE - Broadcasting Center Europe,29
+BTPATENT LLC,,,https://www.linkedin.com/company/gresham-international,Gresham International,21
+BTU International,btutilities.com/,95,https://www.linkedin.com/company/bryan-texas-utilities,Bryan Texas Utilities,20
+Bakersun,,,https://www.linkedin.com/company/sun-pharma,SUN PHARMA,10
+Bosch Energy Storage Solutions LLC,,42,https://www.linkedin.com/company/bebsindia,Bosch Energy and Building Solutions India,27
+Boston Scientific Neuromodulation Corporation,,29164,https://www.linkedin.com/company/boston-scientific,Boston Scientific,16
+Brother Kogyo Kabushiki Kaisha,,,,,
+CPC International Inc.,,156,https://www.linkedin.com/company/cpc-project-services-llp,CPC Project Services LLP,21
+Chiron Corporation,,27,https://www.linkedin.com/company/chiron-health,Chiron Health,7
+Covidien LP,,35,https://www.linkedin.com/company/covidien-lp,COVIDIEN LP,7
+Cymatics Laboratories Corp.,,4,https://www.linkedin.com/company/cymatics-laboratories-corp.,Cymatics Laboratories Corp.,1
+DPx Holdings B.V.,,37,https://www.linkedin.com/company/dpx-fine-chemicals,DPx Fine Chemicals,14
+ELC Management LLC,,33,https://www.linkedin.com/company/the-english-language-center,English Language Center (ELC),28
+ENERGY INDEPENDENCE OF AMERICA CORP.,,138,https://www.linkedin.com/company/mercuria-energy-america-inc,"Mercuria Energy America, Inc",35
+Embro Corporation,,4,https://www.linkedin.com/company/embro-robotica-e-automacao,Embro Robotica E Automacao,21
+Exatec LLC,,22,https://www.linkedin.com/company/exatecgroup,Exatec Group,6
+Excelsior Nanotech Corporation,,2,https://www.linkedin.com/company/o2-grow,O2 Grow,18
+ExxonMobil Research and Engineering Company,corporate.exxonmobil.com/en/energy/research-and-development,50,https://www.linkedin.com/company/exxonmobil-research-&-engrg,Exxonmobil Research & Engrg,23
+Ferric Inc.,,19,https://www.linkedin.com/company/ferric-semiconductor-inc-,"Ferric, Inc.",6
+GOOGLE TECHNOLOGY HOLDINGS LLC,,98771,https://www.linkedin.com/company/google,Google,25
+Gula Consulting Limited Liability Company,,12,https://www.linkedin.com/company/the-gula-graham-group,The Gula Graham Group,40
+Hamilton Sundstrand Corporation,utcaerospacesystems.com/,2519,https://www.linkedin.com/company/hamilton-sundstrand,Hamilton Sundstrand,0
+Intel Corporation,intel.com/content/us/en/homepage.html,3,https://www.linkedin.com/company/raven-intel,Raven Intel,10
+Intercontinental Great Brands LLC,,19196,https://www.linkedin.com/company/intercontinental-hotels-group,InterContinental Hotels Group (IHG®),20
+JFE STEEL CORPORATION,jfe-steel.co.jp/en/,14,https://www.linkedin.com/company/pt-jfe-steel-galvanizing-indonesia,PT. JFE Steel Galvanizing Indonesia,33
+KT Corporation,corp.kt.com/eng/,5994,https://www.linkedin.com/company/kt,KT,12
+Kabushiki Kaisha Eighting,,,https://www.linkedin.com/userp/title/loan-officer-at-capital-impact-partners,Loan Officer at Capital Impact Partners,38
+Kansei Corporation ,,202,https://www.linkedin.com/company/calsonic-kansei-north-america-inc,"Calsonic Kansei North America, Inc.",33
+Kawasaki Jukogyo Kabushiki Kaisha,,586,https://www.linkedin.com/company/kawasaki-heavy-industries,"Kawasaki Heavy Industries, Ltd.",23
+Mintera Corporation,,608,https://www.linkedin.com/company/mineral-resources-limited,Mineral Resources Limited,22
+Monarch Power Corp,,2,https://www.linkedin.com/company/monarch-power,Monarch Power,5
+NANOPHARMACEUTICALS LLC,,10,https://www.linkedin.com/company/nanopharma-a-s-,"Nanopharma, a.s.",18
+Nanao Corporation,,,https://www.linkedin.com/company/nanao-electric-wuhan-co-ltd,NANAO ELECTRIC (WUHAN) CO LTD,28
+Nanostatics Corporation,,4,https://www.linkedin.com/company/nanostatics-corp,Nanostatics Corp,5
+Panasonic Intellectual Property Corporation of America,,10742,https://www.linkedin.com/company/panasonic-usa,Panasonic USA,32
+Pelican Imaging Corporation,,4,https://www.linkedin.com/company/pelican-imaging-corporation_2,Pelican Imaging,0
+Philip Morris USA Inc.,,405,https://www.linkedin.com/company/philip-morris-usa-inc,Philip Morris USA Inc,4
+RINAT NEUROSCIENCE CORP.,,23,https://www.linkedin.com/company/rinat-neuroscience,Rinat Neuroscience,20
+ROM Corporation,,5116,https://www.linkedin.com/company/hill-rom/jobs,Hill-Rom: Jobs,14
+Renewable Opportunities Inc.,,570,https://www.linkedin.com/company/avangrid-renewables,Avangrid Renewables,23
+Roche Innovation Center Copenhagen A/S,roche.com/research_and_development/who_we_are_how_we_work/rnd_locations/research_location.htm?id=c98f27ea-a769-48ee-b7ef-4441cf20e267,9,https://www.linkedin.com/company/roche-diagnostics-danmark,Roche Diagnostics Danmark,32
+Rosemount Aerospace Inc. ,,7,https://www.linkedin.com/company/rosemount-aerospace-limited,ROSEMOUNT AEROSPACE LIMITED,24
+SHOW ME ENERGY,,,https://www.linkedin.com/company/show-me-star-energy,Show Me Star Energy,15
+Sandia Corporation,sandia.gov,7961,https://www.linkedin.com/company/sandia-national-laboratories,Sandia National Laboratories,22
+Santoku Corporation,,2,https://www.linkedin.com/company/santoku-corporation,Santoku Corporation,12
+Semiconductor Manufacturing International (Shanghai) Corporation,,3901,https://www.linkedin.com/company/smic,SMIC,37
+Semileds Optoelectronics Co.,,7,https://www.linkedin.com/company/semileds-optoelectronics-co-ltd-,"Semileds Optoelectronics Co., Ltd.",7
+Sharp Kabushiki Kaisha,,241,https://www.linkedin.com/company/sharp-software-development-india,SHARP Software Development India,30
+SolAero Technologies Corp.,solaerotech.com,136,https://www.linkedin.com/company/solaero-technologies-corp,SolAero Technologies Corp,0
+Solaris Holdings Limited,,,https://www.linkedin.com/pub/jason-chow/34/bbb/b43?trk=pub-pbmap,Jason Chow - Chief Financial Officer and Company Secretary ...,61
+TDK Corporation,global.tdk.com/corp/en/index.htm,,,,
+TIME WARNER CABLE ENTERPRISES LLC,,24708,https://www.linkedin.com/company/time-warner-cable,Time Warner Cable,24
+TRITON MICROTECHNOLOGIES,,8,https://www.linkedin.com/company/triton-micro-technologies,Triton Microtechnologies,21
+The Gates Corporation,,2743,https://www.linkedin.com/company/bill-&-melinda-gates.../jobs,Bill & Melinda Gates Foundation: Jobs,37
+Thermorefinery Technologies Inc.,,,https://www.linkedin.com/titleresearcher-at-university-of-athens,Researcher at University Of Athens,34
+Thermoretinary Technologies Inc.,,,,,
+Ticona LLC,celanese.com/engineered-materials.aspx,2,https://www.linkedin.com/company/solon-chavez-ticona,solon chavez ticona,17
+Toshiba Tec Kabushiki Kaisha,,,,,
+Toyota Jidosha Kabushiki Kaisha,toyota-global.com/pages/contents/investors/ir_library/sec/pdf/form_sd_201605_final.pdf,,,,
+Traex Corporation,vollrath.com/Traex-Full-Size-Compartment-Racks-1766.htm,22,https://www.linkedin.com/company/wilson-logistics,Wilson Logistics,16
+U.S. Smokeless Tobacco Company LLC,,53,https://www.linkedin.com/company/u.s.-smokeless-tobacco-company-llc,U.S. Smokeless Tobacco Company LLC,32
+Uni-Charm Corporation,unicharm.co.jp/english/index.html,408,https://www.linkedin.com/company/unicharm-gulf-hygienic-industries-ltd,Unicharm Gulf Hygienic Industries Ltd.,35
+VEECO PRECISION SURFACE PROCESSING LLC,veeco.com/technologies-and-products/precision-surface-processing-systems,68,https://www.linkedin.com/company/solid-state-equipment-llc,Veeco Precision Surface Processing,27
+Volterra Semiconductor LLC,,64,https://www.linkedin.com/company/volterra,Volterra Alumni Network,12
+Yageo Corporation,yageo.com/portal/product/product.jsp,290,https://www.linkedin.com/company/yageo,Yageo Corporation,12
