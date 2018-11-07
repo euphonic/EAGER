@@ -11,7 +11,13 @@ import pprint
 import re
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
+import os, signal
 
+def check_kill_process(pstring):
+    for line in os.popen("ps ax | grep " + pstring + " | grep -v grep"):
+        fields = line.split()
+        pid = fields[0]
+        os.kill(int(pid), signal.SIGKILL)
 
 def url_to_filepath(url, prefix):
     url = url.split("//")[-1] # remove https:// prefix
@@ -51,7 +57,8 @@ class HTMLSpider(CrawlSpider):
         browser = webdriver.Firefox(options=options)
         browser.get(response.url)
         res = response.replace(body=browser.page_source)
-
+        browser.close()
+        browser.quit()
         # Create a Page item, which will be an item in the MongoDB database
         page = ItemLoader(item = Page(), response=res)
 
@@ -64,6 +71,7 @@ class HTMLSpider(CrawlSpider):
 
         if response.url in self.start_urls:
             depth = depth - 1
+            check_kill_process('firefox')
 
         page.add_value('depth', depth)
         page.add_value('referring_url', referring_url)
@@ -94,5 +102,4 @@ class HTMLSpider(CrawlSpider):
 
         # TODO: add time the page was scraped
 
-        browser.quit()
         yield page.load_item()
