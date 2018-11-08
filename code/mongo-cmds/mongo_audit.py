@@ -3,14 +3,17 @@
 # November 2018
 
 # 1. Look for input firm names (have this in chunks files)
-# 2. Get the name of the collection (using the same code)
-# 3. Query mongo to produce aggregate results (already have this)
-# 4. Now do a diff, and print out how many pages if there is a match at the firm name
+# 2. Query mongo to produce aggregate results (already have this)
+# 3. Now do a diff, and print out how many pages if there is a match at the firm name
+
+# Input: Requires an input collection number, e.g., 1
+# Output: A list of missing firms that need to be recrawled 
 
 import csv
 import pprint
 import sys
 import pprint
+import pymongo
 from urllib.parse import urlparse
 from FirmDB.config import connection_string
 from FirmDB.config import username
@@ -18,8 +21,9 @@ from FirmDB.config import password
 from FirmDB.config import authSource
 from FirmDB.config import authMechanism
 
-CHUNK = sys.arg[0]
-CHUNK_FILE = "../data/orgs/chunks/" + CHUNK + ".csv"
+CHUNK = sys.argv[1]
+CHUNK_FILE = "../../data/orgs/chunks/" + CHUNK + ".csv"
+MISSING_FILE = "../../data/orgs/chunks/" + CHUNK + "_missing.csv"
 MONGODB_DB = "FirmDB"
 MONGODB_COLLECTION = "pages_" + CHUNK
 
@@ -27,22 +31,23 @@ def get_firm_aggregates ():
     client = pymongo.MongoClient(connection_string, username=username, password=password, authSource=authSource, authMechanism=authMechanism)
     db = client[MONGODB_DB]
     col = db[MONGODB_COLLECTION]
-    query = "[ { $group: {'_id':'$firm_name' , 'number':{$sum:1}} } ]"
+    query = [ { "$group": {"_id":"$firm_name" , "number":{"$sum":1}} } ]
     results = col.aggregate(query)
     pp = pprint.PrettyPrinter()
-    pp.pprint(results)
+    # pp.pprint(list(results))
 
-    return results
+    mongo_dict = {}
+    for result in results:
+        key = (result['_id'])
+        if key:
+            mongo_dict[key[0]] = result['number']
+        else:
+            mongo_dict['NA'] = result['number']
+    
+    # pp.pprint (mongo_dict)
+    return mongo_dict
 
 def read_firms_csv(filename):
-    """
-    Parse CSV files that contain:
-    firm, url
-    and return a list of dictionaries representing the firms
-
-    :param filename:
-    :return:
-    """
     firms = []
     with open(filename) as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
@@ -55,24 +60,28 @@ def read_firms_csv(filename):
                 'url': row[1]
             }
 
-            # If no URL is available, don't append the school
-            if firm['url'] == '': continue
-            # Parse the website domain from the full URL
             firm['domain'] = urlparse(firm['url']).netloc
             firms.append(firm)
 
-    pp = pprint.PrettyPrinter()
-    pp.pprint(firms)
+    # pp = pprint.PrettyPrinter()
+    # pp.pprint(firms)
 
     return firms
 
+def compare (firms, mongo_results):
+    f_out = open(MISSING_FILE, 'w')
+    csv_out = csv.writer(f_out)
+    for firm in firms:
+        firm_name = firm['firm_name']
+        if firm_name in mongo_results:
+            print (firm_name + " in mongo with " + str(mongo_results[firm_name]) + " pages") 
+        else:
+            print (firm_name + " not in mongo")
+            csv_out.writerow([firm_name, firm['url']])
 
-if __name__ == "__main__":
-    # Get the list of firms and domains
-    # firms = read_firms_csv(CHUNK_FILE)
-    # start_urls = [firm['url'] for firm in firms]
-    # allowed_domains = [firm['domain'] for firm in firms]
-
-    mongo_results = get_firm_aggregates ()
-
-
+# 1. 
+firms = read_firms_csv(CHUNK_FILE)
+# 2. 
+mongo_results = get_firm_aggregates ()
+# 3. 
+compare(firms, mongo_results)

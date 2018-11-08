@@ -14,7 +14,7 @@ from selenium.webdriver.firefox.options import Options
 import os, signal
 
 def check_kill_process(pstring):
-    for line in os.popen("ps ax | grep " + pstring + " | grep -v grep"):
+    for line in os.popen("kill -9 -$(ps -eo comm,pid,etimes | awk '/^" + pstring + "/ {if ($3 > 300) { print $2}}')"):
         fields = line.split()
         pid = fields[0]
         os.kill(int(pid), signal.SIGKILL)
@@ -71,7 +71,7 @@ class HTMLSpider(CrawlSpider):
 
         if response.url in self.start_urls:
             depth = depth - 1
-            check_kill_process('firefox')
+            check_kill_process('firefox') # needed because selenium doesn't always terminate browsers correctly
 
         page.add_value('depth', depth)
         page.add_value('referring_url', referring_url)
