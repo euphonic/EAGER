@@ -1,4 +1,5 @@
 import csv
+# import settings
 import FirmDB.settings
 import pprint
 from urllib.parse import urlparse
@@ -6,31 +7,64 @@ import requests
 
 
 def fix_urls (firms):
-    s = requests.Session()
-    for firm in firms:
-        url = firm['url']
-        http_url = "http://" + url
-        resp = s.get(http_url)
-        if resp.status_code == 200:
-            firm['url'] = http_url
-            continue
-        http_www_url = "http://www." + url
-        resp = s.get(http_www_url)
-        if resp.status_code == 200:
-            firm['url'] = http_www_url
-            continue
-        https_url = "https://" + url
-        resp = s.get(https_url)
-        if resp.status_code == 200:
-            firm['url'] = https_url
-            continue
-        https_www_url = "https://www." + url
-        resp = s.get(https_www_url)
-        if resp.status_code == 200:
-            firm['url'] = https_www_url
-            continue
+    firms_fixed_urls = []
+    headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.10; rv:62.0) Gecko/20100101 Firefox/62.0'}
+    timeout = 5
 
-    return firms
+    for f in firms:
+        firm = f
+        print ("Checking url for " + firm['firm_name'])
+        url = firm['url']
+        
+        try:
+            http_url = "http://" + url
+            print ("\tTrying " + http_url)
+            resp = requests.get(http_url, headers=headers, timeout=timeout)
+            if resp.status_code == 200:
+                firm['url'] = resp.url
+                firm['domain'] = urlparse(firm['url']).netloc
+                firms_fixed_urls.append(firm)
+                continue
+        except:
+            pass
+
+        try:
+            http_www_url = "http://www." + url
+            print ("\tTrying " + http_www_url)
+            resp = requests.get(http_www_url, headers=headers, timeout=timeout)
+            if resp.status_code == 200:
+                firm['url'] = resp.url
+                firm['domain'] = urlparse(firm['url']).netloc
+                firms_fixed_urls.append(firm)
+                continue
+        except:
+            pass
+       
+        try:
+            https_url = "https://" + url
+            print ("\tTrying " + https_url)
+            resp = requests.get(https_url, headers=headers, timeout=timeout)
+            if resp.status_code == 200:
+                firm['url'] = resp.url
+                firm['domain'] = urlparse(firm['url']).netloc
+                firms_fixed_urls.append(firm)
+                continue
+        except:
+            pass
+
+        try:
+            https_www_url = "https://www." + url
+            print ("\tTrying " + https_www_url)
+            resp = requests.get(https_www_url, headers=headers, timeout=timeout)
+            if resp.status_code == 200:
+                firm['url'] = resp.url
+                firm['domain'] = urlparse(firm['url']).netloc
+                firms_fixed_urls.append(firm)
+                continue
+        except:
+            pass
+
+    return firms_fixed_urls 
 
 def read_firms_csv (filename):
     """
@@ -56,14 +90,17 @@ def read_firms_csv (filename):
             # If no URL is available, don't append the school
             if firm['url'] == '': continue
             # Parse the website domain from the full URL
-            firm['domain'] = urlparse(firm['url']).netloc
             firms.append(firm)
 
-    firms_fixed_urls = fix_urls (firms)
+    firms_fixed = fix_urls (firms)
+    firm_names_fixed = [firm_fixed['firm_name'] for firm_fixed in firms_fixed]
+    firm_names = [firm['firm_name'] for firm in firms]
+
     pp = pprint.PrettyPrinter()
-    pp.pprint(firms_fixed_urls)
+    pp.pprint(firms_fixed)
     
-    return firms_fixed_urls
+    print("Missing " + ', '.join(list(set(firm_names) - set(firm_names_fixed))) + " in the fixed urls list")
+    return firms_fixed
 
 if __name__ == "__main__":
 
