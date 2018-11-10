@@ -1,4 +1,4 @@
-connection_string = 'mongodb://localhost'
+connection_string = 'mongodb://18.221.193.53'
 username = "scrapy"
 password = "eager"
 authSource = "FirmDB"
