@@ -67,11 +67,16 @@ class HTMLSpider(CrawlSpider):
         page.add_value('domain', domain)
 
         depth = response.meta["depth"]
-        referring_url = response.request.headers.get('Referer', None).decode('ASCII')
+        referring_url = response.request.headers.get('Referer', None)
+        try:
+            referring_url = referring_url.decode('ASCII')
+        except:
+            pass # don't kill parsing for the current instance if there is no referring_url
 
         if response.url in self.start_urls:
             depth = depth - 1
-            check_kill_process('firefox') # needed because selenium doesn't always terminate browsers correctly
+
+        check_kill_process('firefox') # needed because selenium doesn't always terminate browsers correctly
 
         page.add_value('depth', depth)
         page.add_value('referring_url', referring_url)
