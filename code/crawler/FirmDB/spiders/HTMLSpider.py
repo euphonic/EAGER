@@ -54,9 +54,9 @@ class HTMLSpider(CrawlSpider):
         options.headless = True
 
         print("Crawling page:", response.url, "      ", end="")
-        browser = webdriver.Firefox(options=options, capabilities={"acceptInsecureCerts": True})
+        browser = webdriver.Firefox(options=options) 
         browser.get(response.url)
-        res = response.replace(body=browser.page_source)
+        res = response.replace(body=(browser.page_source).encode('utf-8'))
         browser.close()
         browser.quit()
         # Create a Page item, which will be an item in the MongoDB database
