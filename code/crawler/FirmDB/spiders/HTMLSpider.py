@@ -54,7 +54,7 @@ class HTMLSpider(CrawlSpider):
         options.headless = True
 
         print("Crawling page:", response.url, "      ", end="")
-        browser = webdriver.Firefox(options=options)
+        browser = webdriver.Firefox(options=options, capabilities={"acceptInsecureCerts": True})
         browser.get(response.url)
         res = response.replace(body=browser.page_source)
         browser.close()

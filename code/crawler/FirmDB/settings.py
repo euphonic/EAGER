@@ -81,7 +81,7 @@ ITEM_PIPELINES = {
 }
 
 #Input data
-INPUT_DATA = "../../data/orgs/chunks/1.csv"
+INPUT_DATA = "../../data/orgs/chunks/all_large_missing.csv"
 
 MONGODB_DB = "FirmDB"
 chunk = os.path.basename(os.path.normpath(INPUT_DATA))

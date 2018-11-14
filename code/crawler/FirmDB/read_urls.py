@@ -1,10 +1,10 @@
 import csv
-# import settings
-import FirmDB.settings
+import settings
+# import FirmDB.settings
 import pprint
 from urllib.parse import urlparse
 import requests
-
+import traceback
 
 def fix_urls (firms):
     firms_fixed_urls = []
@@ -18,51 +18,59 @@ def fix_urls (firms):
         
         try:
             http_url = "http://" + url
-            print ("\tTrying " + http_url)
-            resp = requests.get(http_url, headers=headers, timeout=timeout)
-            if resp.status_code == 200:
+            print ("\tTrying: " + http_url)
+            resp = requests.get(http_url, headers=headers, timeout=timeout, verify=False)
+            print ("\tStatus code: " + str(resp.status_code))
+            if resp.status_code >= 200 and resp.status_code < 400:
                 firm['url'] = resp.url
                 firm['domain'] = urlparse(firm['url']).netloc
                 firms_fixed_urls.append(firm)
                 continue
-        except:
-            pass
+        except Exception as e: 
+            print(e)
+            traceback.print_exc()
 
         try:
             http_www_url = "http://www." + url
-            print ("\tTrying " + http_www_url)
-            resp = requests.get(http_www_url, headers=headers, timeout=timeout)
-            if resp.status_code == 200:
+            print ("\tTrying: " + http_www_url)
+            resp = requests.get(http_www_url, headers=headers, timeout=timeout, verify=False)
+            print ("\tStatus code: " + str(resp.status_code))
+            if resp.status_code >= 200 and resp.status_code < 400:
                 firm['url'] = resp.url
                 firm['domain'] = urlparse(firm['url']).netloc
                 firms_fixed_urls.append(firm)
                 continue
-        except:
-            pass
+        except Exception as e: 
+            print(e)
+            traceback.print_exc()
        
         try:
             https_url = "https://" + url
-            print ("\tTrying " + https_url)
-            resp = requests.get(https_url, headers=headers, timeout=timeout)
-            if resp.status_code == 200:
+            print ("\tTrying: " + https_url)
+            resp = requests.get(https_url, headers=headers, timeout=timeout, verify=False)
+            print ("\tStatus code: " + str(resp.status_code))
+            if resp.status_code >= 200 and resp.status_code < 400:
                 firm['url'] = resp.url
                 firm['domain'] = urlparse(firm['url']).netloc
                 firms_fixed_urls.append(firm)
                 continue
-        except:
-            pass
+        except Exception as e: 
+            print(e)
+            traceback.print_exc()
 
         try:
             https_www_url = "https://www." + url
-            print ("\tTrying " + https_www_url)
-            resp = requests.get(https_www_url, headers=headers, timeout=timeout)
-            if resp.status_code == 200:
+            print ("\tTrying: " + https_www_url)
+            resp = requests.get(https_www_url, headers=headers, timeout=timeout, verify=False)
+            print ("\tStatus code: " + str(resp.status_code))
+            if resp.status_code >= 200 and resp.status_code < 400:
                 firm['url'] = resp.url
                 firm['domain'] = urlparse(firm['url']).netloc
                 firms_fixed_urls.append(firm)
                 continue
-        except:
-            pass
+        except Exception as e: 
+            print(e)
+            traceback.print_exc()
 
     return firms_fixed_urls 
 
