@@ -28,7 +28,6 @@ db = client[MONGODB_DB]
 regex = re.compile('test|' + TARGET_COLLECTION)
 
 def insert_col (name):
-    client = pymongo.MongoClient(connection_string, username=username, password=password, authSource=authSource, authMechanism=authMechanism)
     source_col = db[name]
     target_col = db[TARGET_COLLECTION]
     docs = list(source_col.find())
