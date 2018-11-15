@@ -1,6 +1,6 @@
 import csv
-import settings
-# import FirmDB.settings
+# import settings
+import FirmDB.settings
 import pprint
 from urllib.parse import urlparse
 import requests
@@ -28,7 +28,7 @@ def fix_urls (firms):
                 continue
         except Exception as e: 
             print(e)
-            traceback.print_exc()
+            # traceback.print_exc()
 
         try:
             http_www_url = "http://www." + url
@@ -42,7 +42,7 @@ def fix_urls (firms):
                 continue
         except Exception as e: 
             print(e)
-            traceback.print_exc()
+            # traceback.print_exc()
        
         try:
             https_url = "https://" + url
@@ -56,7 +56,7 @@ def fix_urls (firms):
                 continue
         except Exception as e: 
             print(e)
-            traceback.print_exc()
+            # traceback.print_exc()
 
         try:
             https_www_url = "https://www." + url
@@ -70,7 +70,7 @@ def fix_urls (firms):
                 continue
         except Exception as e: 
             print(e)
-            traceback.print_exc()
+            # traceback.print_exc()
 
     return firms_fixed_urls 
 
