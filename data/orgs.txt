@@ -1,0 +1,1789 @@
+organization
+Tata Consultancy Services Limited
+Amazon Technologies, Inc.
+Siemens Medical Solutions USA, Inc.
+Siemens Aktiengesellschaft 
+Hewlett Packard Enterprise Development LP
+Shell Oil Company
+ABB AB
+GENERAL ELECTRIC COMPANY
+The Procter & Gamble Company
+Cisco Technology, Inc.
+Johnson & Johnson Consumer Companies, Inc.
+Novartis AG
+Avon Products, Inc.
+Roche Molecular Systems
+Medtronic Vascular, Inc.
+ExxonMobil Upstream Research Company
+BASF
+BASF SE
+3M Innovative Properties Company
+Johnson Controls Technology Company
+GE Healthcare Limited
+Raytheon Company
+Thermo Finnigan, LLC
+CPT IP Holdings, LLC
+adidas AG
+Nissan North America, Inc.
+Bristol-Myers Squibb Company
+Boston Scientific Scimed, Inc.
+American Air Liquide, Inc.
+Rolls-Royce North American Technologies, Inc.
+Rolls-Royce PLC
+Baxter Healthcare SA
+Syngenta Participations AG
+Colgate-Palmolive Company
+Saint-Gobain Ceramics & Plastics, Inc.
+Genentech, Inc.
+Alcon Research, Ltd.
+PPG Industries Ohio, Inc.
+STMicroelectronics Limited
+Rockwell Collins, Inc.
+The Goodyear Tire & Rubber Company
+Solvay Specialty Polymers USA, LLC
+Applied Materials, Inc.
+NXP USA, INC.
+Infineon Technologies AG
+Micron Technology, Inc.
+Teradata US, Inc.
+Western Digital (Fremont), LLC
+Archer Daniels Midland Company
+Toyota Motor Engineering & Manufacturing North America, Inc.
+NetApp, Inc.
+Siemens Energy, Inc.
+NCC Nano, LLC
+Red Hat, Inc.
+AIR PRODUCTS AND CHEMICALS, INC.
+Gilead Sciences, Inc.
+Sanofi
+Analog Devices, Inc.
+Smith & Nephew, Inc.
+DePuy Synthes Products, LLC
+Eastman Chemical Company
+Eastman Kodak Company
+Freescale Semiconductor, Inc.
+ServiceNow, Inc.
+Los Alamos National Security, LLC
+Regeneron Pharmaceuticals, Inc.
+Biocon Limited
+Nationwide Children's Hospital, Inc.
+Janssen Biotech, Inc.
+Agilent Technologies, Inc.
+Bio-Rad Laboratories, Inc.
+Maxim Integrated Products
+Johnson Matthey PLC
+Cornell Research Foundation, Inc.
+Cadence Design Systems, Inc.
+Stora Enso Oyj
+BOLTIER R&D
+Lawrence Livermore National Security, LLC
+Abengoa Bioenergy New Technologies, LLC.
+Illinois Tool Works, Inc.
+Commonwealth Scientific & Industrial Research Organization
+Amkor Technology, Inc.
+Dana-Farber Cancer Institute, Inc.
+Novozymes North America, Inc.
+Novozymes A/S
+Hitachi, Ltd.
+Carestream Health, Inc.
+Intuitive Surgical Operations, Inc.
+Dresser-Rand Company
+Twitter, Inc.
+Nalco Company
+Battelle Memorial Institute
+Star Technology and Research, Inc.
+SAINT-GOBAIN ABRASIFS
+Ortho-Clinical Diagnostics, Inc.
+Bemis Company, Inc.
+Domtar Paper Company, LLC
+BlackBerry Limited
+Chevron Phillips Chemical Company LP
+Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO
+UChicago Argonne, LLC
+Johnson & Johnson Vision Care, Inc.
+Mallinckrodt, Inc.
+Sick AG
+DRS Network & Imaging Systems, LLC
+Crepaco, Inc.
+First Solar, Inc.
+Milliken & Company
+Guardian Industries, Inc.
+Cree, Inc.
+Riverbed Technology, Inc.
+FLIR Systems, Inc.
+Alexion Pharmaceuticals, Inc.
+Heidelberger Druckmaschinen AG
+The Boeing Company
+Kemira OY
+SunRun, Inc.
+Entegris, Inc.
+IMEC
+Johns Manville
+Delphi Technologies, Inc.
+Bostik, Inc.
+Carl Zeiss Meditec AG
+Tokyo Electron Limited
+FEI Company
+Pixar
+Southwest Research Institute
+Cyberonics, Inc.
+Fujitsu Limited
+Silicon Storage Technology, Inc.
+Allison Transmission, Inc.
+Alcatel Lucent
+Integrated Device Technology, Inc.
+Adtran, Inc.
+Masimo Semiconductor, Inc.
+SRG Global, Inc.
+SICPA Holding SA
+ATI Technologies ULC
+Stratasys, Inc.
+Ventana Medical Systems, Inc.
+Oculus VR, LLC
+Coriant Advanced Technology, LLC
+Globus Medical, Inc.
+SUMITOMO WIRING SYSTEMS, LTD.
+GOJO Industries, Inc.
+Ivoclar Vivadent AG
+CP KELCO APS
+Battelle Energy Alliance, LLC
+Christie Digital Systems, Inc.
+Cavium, Inc.
+Plasma Tech Holdings, LLC
+Sumitomo Electric Device Innovations, Inc.
+Sumitomo Electric Industries, Ltd.
+Alnylam Pharmaceuticals, Inc.
+Watlow Electric Manufacturing Company
+RF Micro Devices, Inc.
+Rohm and Haas Company
+Matrix Odyssey, LLC
+Chemtreat, Inc.
+Genomic Health, Inc.
+Fenwal, Inc.
+SunEdison Semiconductor Limited
+POET Research, Inc
+Takeda Pharmaceutical Company Limited
+RES USA, LLC
+OmniVision Technologies, Inc.
+Power Integrations, Inc.
+OFS Fitel, LLC
+SunEdison, Inc.
+Novellus Systems, Inc.
+Integrated DNA Technologies, Inc.
+Transitions Optical, Inc.
+Braun Intertec Geothermal, LLC
+AMO Wavefront Sciences, LLC
+Electrix, Inc.
+Thorlabs Quantum Electronics, Inc.
+Thorlabs, Inc.
+UT-Battelle, LLC
+TEKNOR APEX COMPANY
+LifeNet Health
+Olympus NDT
+DPD, Inc.
+Digital Wind Systems, Inc.
+22nd Century Limited, LLC
+CMC ICOS BIOLOGICS, INC.
+MAXLINEAR, INC.
+ARBOR THERAPEUTICS, LLC
+Veracode, Inc.
+MONTEREY RESEARCH, LLC
+Kawasaki Jukogyo Kabushiki Kaisha
+CELLTRION, INC.
+AGC Flat Glass North America, Inc.
+Varian Semiconductor Equipment Associates, Inc.
+Bluestar Silicones France
+Lake Lite, Inc.
+DEKA Products Limited Partnership
+Isis Pharmaceuticals, Inc.
+Meso Scale Technologies, LLC.
+PTC Therapeutics, Inc.
+AstenJohnson, Inc.
+WAFERTECH, LLC
+AG ENERGY SOLUTIONS, INC.
+SCHOTTKY LSI, INC.
+HRL Laboratories, LLC
+New England Biolabs, Inc.
+Praxair Technology, Inc.
+Amicus Therapeutics, Inc.
+PDF Solutions, Inc.
+Piksel, Inc.
+CSEM Centre Suisse d'Electronique et de Microtechnique SA-Recherche et Developpement
+Meyer Tool, Inc.
+Carbon3D, Inc.
+Chromalox, Inc.
+Babcock Power Services, Inc.
+Pacific Biosciences of California, Inc.
+Sima Therapeutics, Inc.
+Sarepta Therapeutics, Inc.
+Rockwell Automation Technologies, Inc.
+Agrigenetics, Inc.
+Truckee Applied Genomics, LLC
+FPInnovations
+FUJIFILM Dimatix, Inc.
+nLIGHT, Inc.
+Toray Plastics (America), Inc.
+CAPAT, LLC
+Relypsa, Inc.
+KOLON INDUSTRIES, INC.
+Saint-Gobain Adfors Canada, Ltd
+ACell, Inc.
+Electronic Warfare Associates, Inc.
+Inventus Holdings, LLC
+FutureWei Technologies, Inc.
+Applied NanoStructured Solutions, LLC
+Applied Nanostructures, Inc.
+Cross Match Technologies, Inc.
+Magnachip Semiconductor, Ltd.
+Headway Technologies, Inc.
+Halliburton Energy Services, Inc.
+Tigo Energy, Inc.
+Hitachi Metals, Ltd.
+Aseptia, Inc.
+INTEVAC, INC.
+Columbia Insurance Company
+Veracyte, Inc.
+George Mason Research Foundation, Inc.
+Lovelace Respiratory Research Institute
+Ajinomoto Althea, Inc.
+Mitsubishi Polyester Film, LLC
+Sangamo BioSciences, Inc.
+Hyundai Motor Company
+The Samuel Roberts Noble Foundation, Inc.
+Sharp Kabushiki Kaisha
+Atomic Energy Council-Institute of Nuclear Energy Research
+Haier US Appliance Solutions, Inc.
+Applied Optoelectronics, Inc.
+Bend Research, Inc.
+Soraa Laser Diode, Inc.
+Soraa, Inc.
+CYKL Technology, Inc.
+McElroy Manufacturing, Inc.
+Sequenom, Inc.
+Abraxis Bioscience, LLC
+Biocare Medical, LLC
+Adhesives Research, Inc.
+GlassPoint Solar, Inc.
+Teledyne Scientific & Imaging, LLC
+Codexis, Inc.
+Complete Genomics, Inc.
+Kulite Semiconductor Products, Inc
+MonoSol, LLC
+Midrex Technologies, Inc.
+Newlans, Inc.
+Synthetic Genomics, Inc.
+Aerogen, Inc.
+Singulex, Inc.
+Coleman Cable, LLC
+Moxtek, Inc.
+Agena Bioscience, Inc.
+Fujitsu Semiconductor Limited
+Transilwrap Company, Inc.
+Nanosys, Inc.
+Imperial Innovations Limited
+Evri, Inc.
+Interface Performance Materials, Inc.
+Astex Pharmaceuticals, Inc.
+Bridgelux, Inc.
+Deep Well Power, LLC
+DHPC TECHNOLOGIES, INC.
+VALTED, LLC
+ASM America, Inc.
+Valicor, Inc.
+Epizyme, Inc.
+Scientific Design Company, Inc.
+CUMMINS FILTRATION IP, INC.
+Materia, Inc.
+Plasma-Therm, Inc.
+VIOLIN MEMORY
+Egenera, Inc.
+Lion Copolymer Geismar, LLC
+Roho, Inc.
+Intermolecular, Inc.
+Green Solar Transportation, LLC
+Paratek Pharmaceuticals, Inc.
+Innovation Hammer, LLC
+Everspin Technologies, Inc.
+TRI ALPHA ENERGY, INC.
+Genomatica, Inc.
+Bigelow Aerospace
+Cardiva Medical, Inc.
+Daylight Solutions, Inc.
+Synopsys, Inc.
+Kinestral Technologies, Inc.
+Ostendo Technologies, Inc.
+Pioneer Hi-Bred International, Inc.
+Pioneer Hi-Bred, Inc.
+Triple Ring Technologies, Inc.
+Ube Industries, Ltd.
+DCG SYSTEMS, INC.
+Swift Engineering, Inc.
+GED Intergrated Solution, Inc.
+OPTERRA ENERGY SERVICES, INC.
+Cheil Industries, Inc.
+Phoseon Technology, Inc.
+Cool Planet Energy Systems, Inc.
+Revera, Incorporated
+SELMAN AND ASSOCIATES, LTD.
+Sila Nanotechnologies, Inc.
+Kashiv Pharma, LLC
+Oceanit Laboratories, Inc.
+Sigmatel, Inc.
+OrbusNeich Medical, Inc.
+Gardner-Gibson, Inc.
+Daikin Industries, Ltd.
+IMRA America, Inc.
+Englewood Lab, LLC
+bioTheranostics, Inc.
+American Piledriving Equipment, Inc.
+Calient Technologies, Inc.
+Kala Pharmaceuticals, Inc.
+SB ENERGY, LLC
+BioNano Genomics, Inc.
+APPLIED STEMCELL, INC.
+SolarReserve Technology, LLC
+Siluria Technologies, Inc.
+ASCENT SOLAR TECHNOLOGIES, INC.
+Nant Holdings IP, LLC
+Poly-Med, Inc.
+Canon Nanotechnologies, Inc.
+Nanoco Technologies, Ltd.
+Sharp Laboratories of America, Inc.
+NanoLab, Inc.
+QD Vision, Inc.
+Weatherford Canada Partnership
+Crossbar, Inc.
+Ethox Chemicals, Inc.
+NLT TECHNOLOGIES, LTD.
+ProNAi Therapeutics, Inc.
+TheGreenCell, Inc.
+Faurecia Interior Systems, Inc.
+McAlister Technologies, LLC
+Liquidia Technologies, Inc.
+Nantero, Inc.
+Heliae Development, LLC
+SOLAZYME, INC.
+Shoals Technologies Group, LLC
+TerraVia Holdings, Inc.
+KOLO TECHNOLOGIES, INC.
+Angaza Design, Inc.
+Phillips 66 Company
+Fina Technology, Inc.
+IBC Pharmaceuticals, Inc.
+PetraSolar, Inc.
+Big Belly Solar, Inc.
+Mission Product Holdings, Inc.
+aTyr Pharma, Inc.
+CAMBRIDGE ENTERPRISE LIMITED
+Ceramatec, Inc.
+Sienna Biopharmaceuticals, Inc.
+Sienna Labs, Inc.
+UWM Research Foundation, Inc.
+ASTUTE MEDICAL, INC.
+GangaGen, Inc.
+LG NANOH2O, INC.
+Caribou Biosciences, Inc.
+Elenion Technologies, LLC
+Little Kids, Inc.
+SEEK THERMAL, INC.
+Advanced Analogic Technologies, Inc.
+Locus Energy, LLC
+Clearside Biomedical, Inc.
+Molecular Imprints, Inc.
+GEOTHERMAL ENERGY PROJECT, LLC
+Gram Power, Inc.
+Arcturus Therapeutics, Inc.
+Biosphere Medical, Inc.
+FHT, Inc.
+Michigan Biotechnology Institute
+Avertech, Inc.
+Galectin Therapeutics, Inc.
+NeuMoDx Molecular, Inc.
+ExxonMobil Research and Engineering Company
+Lehigh Technologies, LLC
+Virent, Inc.
+Claret Medical, Inc.
+Koch Biological Solutions, LLC
+Pioneer Energy, Inc.
+Conexant Systems, Inc.
+Amprius, Inc.
+Asahi Kasei Kabushiki Kaisha
+Combined Energies, LLC
+Pixelligent Technologies, LLC
+Marathon Equipment Company
+All Power Labs, Inc.
+Opel Solar, Inc.
+Vadient Optics, LLC
+Voxtel, Inc.
+Blue Sea Systems, Inc.
+iBio, Inc.
+Amtech Systems, LLC
+Ecovative Design, LLC
+OSI Optoelectronics, Inc.
+SeQual Technologies, Inc.
+California Industrial Facilities Resources, INC.
+Esolar, Inc.
+Ma-West, Inc.
+Renmatix, Inc.
+Deep Science, LLC
+InVisage Technologies, Inc.
+MicroLink Devices, Inc.
+Rebellion Photonics, Inc.
+Advanced Cell Technology, Inc.
+Pinnacle Technology, Inc.
+MEDport, Inc.
+NanoMech, Inc.
+Advanced Silicon Group, Inc.
+RADIANCE SOLAR, LLC
+Selecta Biosciences, Inc.
+Sensor Electronic Technology, Inc.
+Covidien LP
+AMPT, LLC
+DNA Twopointo, Inc.
+III HOLDINGS 1, LLC
+Inphenix, Inc.
+Marine Polymer Technologies, Inc.
+Angiotech Pharmaceuticals (US), Inc.
+Biological Dynamics, Inc.
+Princeton Optronics, Inc.
+System Biosciences, LLC
+Advanced Technology Materials, Inc.
+Avalanche Technology, Inc.
+Greyrock Energy, Inc.
+Ignis Innovation, Inc.
+Nanomix, Inc.
+AROG PHARMACEUTICALS, INC.
+Agrivida, Inc.
+Applied Membrane Technologies, Inc.
+Diamicron, Inc.
+Ensyn Renewables, Inc.
+NanoTech Lubricants, LLC
+Solan, LLC
+WOVN, INC.
+Rhodia Operations
+Arpin Renewable Energy, LLC
+Ojai Retinal Technology, LLC
+Quantum Devices, Inc.
+STATS ChipPAC, Ltd.
+Sweetwater Energy, Inc.
+Tarveda Therapeutics, Inc.
+LORDO AMERICA
+PLYCEM USA, INC.
+Bisco, Inc.
+Extech/Exterior Technologies, Inc.
+Great American Duck Races, Inc.
+ITN Energy Systems, Inc.
+KAI Pharmaceuticals, Inc.
+Angstron Materials
+ALF OPERATING PARTNERS, LTD.
+Travis Industries, Inc.
+Centre de Recherche Industrielle du Quebec
+Altivera, LLC
+Garland Industries, Inc.
+Xyleco, Inc.
+Diamond Innovations, Inc.
+Kamtec, LLC
+ElectraTherm, Inc.
+Microchips Biotech, Inc.
+Pendar Technologies, LLC
+Rillito Rive Solar, LLC
+Sundrop Fuels, Inc.
+CoolEarth Solar
+HOWARD INDUSTRIES
+POLAR LIGHT TECHNOLOGIES AB
+Dynamic Solutions Worldwide, LLC
+GTherm, Inc.
+NuOrtho Surgical, Inc.
+fybr
+Gemex Systems, Inc.
+PELLION TECHNOLOGIES, INC.
+Quantapore, Inc.
+Wentworth Laboratories, Inc.
+Alcotek, Inc.
+Bruin Biometrics, LLC
+Echogen Power Systems, LLC
+Precision Custom Coatings, LLC
+Pulse Therapeutics, Inc.
+Swagelok Company
+Aushon Biosystems, Inc.
+Bird-B-Gone, Inc.
+Energysolutions, LLC
+Joule Unlimited Technologies, Inc.
+Sirnaomics, Inc.
+WestPoint Home, Inc.
+WiSys Technology Foundation, Inc.
+APPLIED SUNSHINE, LLC
+Ansun Biopharma, Inc.
+Courtagen Life Sciences, Inc.
+Delta Electronics, Inc.
+Genisphere, LLC
+MICROSOFT TECHNOLOGY LICENSING, LLC
+Molecular Rebar Design, LLC
+Nanoholdings, LLC
+Novon, Inc.
+Parion Sciences, Inc.
+Deployable Space Systems
+WADHAM ENERGY LP
+Ambature, Inc.
+Calysta, Inc.
+Facebook, Inc.
+Formula Plastics, Inc.
+Smart Planet Technologies, Inc.
+Canon Kabushiki Kaisha
+AxioMx, Inc.
+Element One, Inc.
+Intrexon CEU, Inc.
+Pentron Clinical Technologies, LLC
+Roche Diabetes Care, Inc.
+Sierra Sciences, LLC
+Synaptic Research, LLC
+Corporation for National Research Initiatives
+Litron Laboratories Limited
+Nutech Ventures
+PolyPlus Battery Company
+Akron Polymer Systems, Inc.
+Ampio Pharmaceuticals, Inc.
+Cambridge Electronics, Inc.
+ESCAPE THERAPEUTICS, INC.
+GE Healthcare Dharmacon, Inc.
+HIQ SOLAR, INC.
+Industrial Origami, Inc.
+Rima Enterprises
+AltaRock Energy, Inc.
+Component Re-Engineering Company, Inc.
+Entech Solar, Inc.
+Innovalight, Inc.
+MirTech, Inc.
+Northwest Biotherapeutics, Inc.
+Ormet Circuits, Inc.
+Solexa, Inc.
+Tela Innovations, Inc.
+Wikipad, Inc.
+k-Space Associates, Inc.
+Gas Technology Institute
+Applied Biosystems, LLC
+Confluence Energy, LLC
+Landauer, Inc.
+Ruse Technologies, LLC
+Tesla Nanocoatings, Inc.
+Hollingsworth & Vose Company
+Acorn Technologies, Inc.
+Authenex, Inc.
+CYBERCITY 3D, INC
+Hollywood Trucks, LLC
+Maxout Renewables, Inc.
+Neumedicines, Inc.
+PNM, Inc.
+SDCmaterials, Inc.
+Suncore Photovoltaics, Incorporated
+Tersus Environmental, LLC
+W&Wsens Devices, Inc.
+Advanced Water Technology, Inc.
+Aurora Alage, Inc.
+Integrated Nano-Technologies, LLC
+Nova Technologies, Inc.
+Performance Plants, Inc.
+Previvo Genetics, LLC
+Revivicor, Inc.
+Sustainable Technologies, LLC
+TECNIUM, LLC
+TetraSun, Inc.
+eNow, Inc.
+Gula Consulting Limited Liability Company
+ZON
+Autonomic Materials, Inc.
+Carver Scientific, Inc.
+Forest Concepts, LLC
+Medical Diagnostic Laboratories, LLC
+Mumetel, LLC
+STANDARD ALCOHOL COMPANY OF AMERICA, INC.
+Semprius, Inc.
+Solarmer Energy, Inc.
+Tessera Advanced Technologies, Inc.
+Zyvex Labs, LLC
+GIGA SOLAR FPC
+Vascular BioSciences
+Accuri Cytometers, Inc.
+Arisaph Pharmaceuticals, Inc.
+Arrowhead Center, Inc.
+Dermazone Solutions, Inc.
+Handylab, Inc.
+MICROMIDAS, INC.
+Nanospectra Biosciences, Inc.
+PAX Scientific, Inc.
+Singular Bio, Inc.
+TECHNOLOGY RESEARCH, LLC
+Tapwave, Inc.
+International Technology Center
+Kimberly-Clark Worldwide
+The Iams Company
+ATC Technologies, LLC
+ATTOSTAT, INC.
+Aurrion, Inc.
+BHA Technologies, Inc.
+BIND Therapeutics, Inc.
+CI4 Technologies, Inc.
+Cellular Research, Inc.
+Continental Manufacturing, LLC
+Green Box Batteries, LLC.
+Inaeris Technologies, LLC
+LIQUID X PRINTED METALS, INC.
+Midori USA, Inc.
+Taiwan Semiconductor Manufacturing Company, Ltd.
+Wireless Environment, LLC
+adaptiveARC, Inc.
+Roche Innovation Center Copenhagen A/S
+Atonometrics, Inc.
+Auterra, Inc.
+Ethicon Endo-Surgery, Inc.
+Global Solar Water Power Systems, Inc.
+Lumenco, LLC
+Manta Instruments, Inc.
+Metabolix, Inc.
+Nanoridge Materials, Inc.
+Simple Approach Systems, Inc.
+Tessera, Inc.
+Wizard Labs, LLC
+Ziptronix, Inc.
+Banpil Photonics
+TRITON MICROTECHNOLOGIES
+The Babcock & Wilcox Company
+540 Grid Solutions, LLC
+Easel Biotechnologies, LLC
+Handstand Innovations, LLC
+Leap Frogg, LLC
+Longhorn Vaccines and Diagnostics, LLC
+Nexcom Technology, Inc.
+Propagation Research Associates, Inc.
+SD Technologies, LLC
+SNS NANO FIBER TECHNOLOGY, LLC
+Strategic Solar Energy, LLC
+TOMOWAVE LABORATORIES, INC.
+The Carbon Cable Company, LLC
+Theraclone Sciences, Inc.
+VINYLAST, INC.
+Cedar Ridge Research
+Global Filtration Systems
+Kabushikikaisha Toshiba
+ADVANCED CERAMIC FIBERS, LLC
+API Intellectual Property Holdings, LLC
+Atom Nanoelectronics, Inc
+Brightfield Transportation Solutions, Inc.
+Cura Vac, Inc.
+Express Imaging Systems, LLC
+Ion Power Group, LLC
+Nanotek Instruments, Inc.
+Narsys, LLC
+Pardev, LLC
+Rapamycin Holdings, LLC
+Redwood Systems, Inc.
+Reynolds Technologies, Inc.
+Taxon Biosciences, Inc.
+Tufts Medical Center, Inc.
+Coloplast A/S
+IDEALAB
+Industrial Technology Research Institute
+Ricoh Company Limited
+Two Blades Foundation
+ALGETERNAL TECHNOLOGIES, LLC
+AVI BioPharma, Inc.
+AVOGY, INC.
+Copernicus Therapeutics, Inc.
+HNO Greenfuels, Inc.
+Ibis Biosciences, Inc.
+MBC Ventures, Inc.
+Ovonic Battery Company, Inc.
+Perkinelmer Holdings, Inc.
+Planet ATE, Inc.
+Proton Power, Inc.
+Renewable Algal Energy, LLC
+SPICE SOLAR, INC.
+Stablcor Technology, Inc.
+THE BOARD INSTITUTE, INC.
+TT Technologies, Inc.
+Transposagen Biopharmaceuticals, Inc.
+Vaxiion Therapeutics, Inc.
+Verliant Energy, Inc.
+NOVA PANGAEA TECHNOLOGIES LIMITED
+ADMA Products, Inc.
+Adynxx, Inc.
+Annam Biosciences, LLC
+Anterios, Inc.
+Elcriton, Inc.
+Enginuity Worldwide, LLC
+Genia Technologies, Inc.
+GeoSynFuels, LLC
+Gracenote, Inc.
+Graphene Technologies, Inc.
+Industrial Solar Heating Systems, LLC
+LUCERA LABS, INC.
+Lyotropic Therapeutics, Inc.
+Magnolia Optical Technologies, Inc.
+Microsurge, Inc.
+Morpho, Inc.
+Nanotech Biomachines, Inc.
+Nokomis, Inc.
+Nordic Technologies, Inc.
+PluroGen Therapeutics, Inc.
+Renewable Power Conversion, Inc.
+Senaya, Inc.
+SixPoint Materials, Inc.
+Solight Solar, Inc.
+Suganit Systems, Inc.
+Tekkware, Inc.
+ZENA TECHNOLOGIES, INC.
+Cooper Technologies Company
+Green Extraction Technologies
+Research Triangle Institute
+SUNSALUTER
+Sanuvox Technologies
+Ablexis, LLC
+Alliance for Sustainable Energy, LLC
+Astech, Inc.
+Avello Bioenery, Inc.
+Building Envelope Innovations, LLC
+Disney Enterprises, Inc.
+ENI Technology, Inc.
+Ford Global Technologies, Inc.
+Foret Plasma Labs, LLC
+GROW ENERGY, INC.
+HM3 Energy, Inc.
+HTS, Inc.
+MicroContinuum, Inc.
+Nanoquantum Sciences, Inc.
+Neural Signals, Inc.
+Neutronic Perpetual Innovations, LLC
+New Technology Ventures, Inc.
+OAS Design Group, Inc.
+SOLARTONIC, LLC
+Synthezyme, LLC
+THE SWEET LIVING GROUP, LLC
+TP Solar, Inc.
+Tensor, Inc.
+Vindico NanoBioTechnology, LLC
+Total Marketing Services
+Advanced Cardiovascular Systems, Inc.
+Advanced Fusion Technologies, Inc.
+Cardiac Pacemakers, Inc.
+CyboEnergy, Inc.
+Dogwood Pharmaceuticals, Inc.
+ENERGY ENGINEERING SYSTEMS, LLC
+Energen, Inc.
+FULL CIRCLE BIOCHAR, INC.
+Gilead Connecticut, Inc.
+Immunolight, LLC
+Integrated Solar Technology, LLC
+KR Design House, Inc.
+LAVA ENERGY SYSTEMS, INC.
+Livetv, LLC
+Lux Bio Group, Inc.
+Magnolia Solar, Inc.
+Matrix Genetics, LLC
+Mattson Technology, Inc.
+Micro Cooling Concepts, Inc.
+NanoOncology, Inc.
+Pharmatrophix, Inc.
+Plant Sensory Systems, LLC
+PortaFire, Inc.
+S&S X-Ray Products, Inc.
+SOL-ELECTRICA, LLC
+Senga Advisors, LLC
+Sinton Consulting, Inc.
+Sophoro Biotechnologies, LLC
+Terra Caloric, LLC
+True-Safe Technologies, Inc.
+Anlinx
+BROOKLYN QUANTUM WORKS
+Monarch Power Corp
+Soliton Lasers
+Sun Synchrony
+GR Intellectual Reserve, LLC
+AFMODEL, LLC.
+Aadigen, LLC
+Adlens Beacon, Inc.
+Agienic, Inc.
+Allertein Therapeutics, LLC
+Arch Biosurgery, Inc.
+Areesys Technologies, Inc.
+Avantor Performance Materials, Inc.
+Bechtel Hydrocarbon Technology Solutions, Inc.
+Bestway, Inc.
+Biogenic Reagents Ventures, LLC
+Biotechnology Foundation, Inc.
+Biozoom Technologies, Inc.
+CA, Inc.
+CellPrint IP Holding, LLC
+Clean Energy Labs, LLC
+Fezza Family Properties, LLC
+Flextronics AP, LLC
+GM Global Technology Operations, Inc.
+GOSOLARLIFE, LLC
+Gilead Biologics, Inc.
+IDEA TREE, LLC
+Immunopath Profile, Inc.
+Industrial Science & Technology Network, Inc.
+Interez, Inc.
+Kiverdi, Inc.
+LG Bionano, LLC
+MCI, Inc.
+MIETAMARK GENETICS, INC.
+NANO CELL SYSTEMS, INC.
+NANOPHTHALMICS, LLC
+Nanocopocia, LLC
+NovaSolix, Inc.
+Novus Technology, Incorporated
+POSiFA MICROSYSTEMS, INC.
+Peytant Solutions, Inc.
+Professional Compounding Centers of America, Ltd
+QUALCOMM MEMS Technologies, Inc.
+QUSWAMI, INC.
+Rio Grande Valley Sugar Growers, Inc.
+Schneider Electric Solar Inverters USA, Inc.
+Schneider Electric USA, Inc.
+Selkermetrics, LLC
+Shubin, Inc.
+Siemens Industry, Inc.
+Sinewatts, Inc.
+The Charles Stark Draper Laboratory, Inc.
+Toshiba America Electronic Components, Inc.
+V35A Enterprises, LLC
+VMware, Inc.
+Warsaw Orthopedic, Inc.
+Western Digital Technologies, Inc.
+kSep Systems, LLC
+nanoComposix, Inc.
+Achushnet Company
+Advanced Aqua Group
+Avtaec Limited
+Bakersun
+Bayer Cropscience AG
+Brother Kogyo Kabushiki Kaisha
+ConocoPhillips Company
+EPCOS AG
+GREENFIELD MASTER IPCO LIMITED
+Kabushiki Kaisha Eighting
+Nokia Technologies Oy
+SHOW ME ENERGY
+Solaris Holdings Limited
+The Jackson Laboratory
+Toshiba Tec Kabushiki Kaisha
+Toyota Jidosha Kabushiki Kaisha
+VivaLnk Limited (Cayman Islands)
+Xenogenic Development Limited Liability Company
+Agency for Science, Technology and Research
+Alencon Acquisition Co., LLC.
+Altek, L.L.C.
+Arizona Board of Regents, a body coporate acting for and on behalf of Arizona State University
+Arizona Board of Regents, a body corporate of the State of Arizona, Acting for and on behalf of Arizona State University
+BOE Technology Group Co., Ltd.
+Becton, Dickinson and Company
+Beijing BOE Display Technology Co., Ltd.
+Board of Regents of the Nevada System of Higher Education, on behalf of the University of Nevada, Reno
+Board of Regents, University of Texas System
+Board of Trustees of Michigan State University and Vahid Sendijarevice, joint ownership
+Buckman Laboratories International, Inc.
+CP Kelco U.S., Inc.
+Canon U.S. Life Sciences, Inc.
+Canon, Inc. 
+Carbon Research & Development, Co.
+Cargill, Incorporated
+Casio Computer Co., Ltd.
+Clean Power Research, L.L.C.
+Colorado Seminary, which owns and operates the University of Denver
+DNA2.0, INC.
+Da Yu Enterprises, L.L.C.
+Dentsply International, Inc.
+Dongbu Hitek Co., Ltd.
+Eisai Co., Ltd.
+Envision Solar International, Inc.
+Florida State University Research Foundation, Inc
+Fuji Electric Co., Ltd.
+Fuji Xerox Co., Ltd.
+Furukawa Electric Co., Ltd.
+General Engineering & Research, L.L.C.
+GlaxoSmithKline Biologicals, S.A.
+HARMAN INTERNATIONAL INDUSTRIES, INC.
+Her Majesty the Queen in right of Canada, as represented by the Minister of Agriculture
+Hewlett-Packard Development Company, L.P.
+Hon Hai Precision Industry Co., Ltd.
+Honda Motor Co., Ltd.
+Iowa State University Research Foundation, Inc. 
+J. E. WHITE, LLC
+K.S. INTERNATIONAL CO., LTD.
+Kansai Paint Co., Ltd.
+Katholieke Universiteit Leuven, KU Leuven R&D
+Kobe Steel, Limited
+Korea Kumho Petrochemical Co., Ltd.
+LG Display Co., Ltd.
+Laserline Mfg., Inc.
+MANUFACTURING RESOURCES INTERNATIONAL, INC.
+Macronix International Co., Ltd.
+Magnolia Solar, Inc.University of Miami
+Minebea Co., Ltd.
+Murata Manufacturing Co., Ltd.
+NGK Spark Plug Co., Ltd.
+NXP, B.V.
+Nippon Shokubai Co., Ltd.
+Nissan Motor Co., Ltd.
+OTSUKA PHARMACEUTICAL CO., LTD.
+Pacific Light Technologies, Corp.
+Panasonic Intellectual Property Management Co., Ltd.
+Photon Dynamics, Inc. 
+Praxair S.T. Technology, Inc.
+Production Resource Group, L.L.C.
+Prosoft International, Inc.
+R.A. Miller Industries, Inc.
+R.P. Scherer Technologies, Inc.
+Richtek Technology Corporation, R.O.C.
+Rutgers, The State University of New Jersey
+Rutgers, The State of New Jersey
+S. C. Johnson & Son, Inc. 
+S.C. Johnson & Son, Inc.
+SAMSUNG DISPLAY CO., LTD.
+SK Telecom Co., Ltd
+SPC International, LLC
+Samsung Corning Precision Materials Co., Ltd
+Samsung Electro-Mechanics Co., Ltd.
+Samsung Electronics Co., Ltd.
+Samsung Electronics, Cp. Ltd.
+Samsung SDI Co., Ltd.
+Sanken Electric Co., Ltd.
+Sanyo Electric Co., Ltd.
+Semiconductor Components Industries, L.L.C.
+Semiconductor Energy Laboratory Co., Ltd.
+Shenzhen China Star Optoelectronics Technology Co., Ltd
+Shin-Etsu Chemical Co., Ltd.
+Siliconware Precision Industries Co., Ltd.
+Skidmore, Owings & Merrill LLP
+SonoGene, L.L.C.
+St. Jude Medical, Inc.
+Stanley Electric Co., Ltd.
+Sumitomo Rubber Industries, Ltd. 
+T.H.E.M., Inc.
+Taiyo Ink Mfg. Co., Ltd.
+Texas Research International, Inc.
+The Board of Trustees of the University of Alabama, for and on behalf of the University of Alabama in Huntsville
+The Government of the United States of America as represented by The Secretary of The Department of Health and Human Services, The National Institutes of Health
+The Government of the United States of America as represented by the Secretary of Health and Human Services, Centers for Disease Control and Prevention
+The Henry M. Jackson Foundation for the Advancement of Military Medicine, Inc.
+The Regents of the University of Colorado, a body corporate
+The Research Foundation of State University Of New York Research Development Services, Binghamton University
+The United States of America, Naval Undersea Warfare Center
+Therapeutic Proteins International, LLC
+Tokyo Ohka Kogyo Co., Ltd.
+U.S. NUTRACEUTICALS, LLC
+UNIVERSITY OF MARYLAND, COLLEGE PARK
+Universal Leaf Tobacco Co., Inc.
+University of Central Florida Research Foundation, Inc.
+University of Florida Research Foundation, Inc.
+University of Georgia Research Foundation, Inc.
+University of Louisville Research Foundation, Inc.
+University of Maryland, Baltimore County
+Virginia Tech Intellectual Properties, Inc.
+Wine.com, Inc.
+Wostec, Inc. 032138/0242
+Yeda Research and Development Co., Ltd.
+Yissum, Research Development Company of the Hebrew University of Jerusalem
+646840 Alberta Ltd.
+AAC Technologies Pte. Ltd.
+ABB Research Ltd.
+ABB Technology Ltd.
+ABL IP Holding LLC
+AC International Inc.
+ACACIA RESEARCH GROUP LLC
+ACUCELA INC.
+ADASA INC.
+ADVANCED INNOVATION CENTER LLC
+AGFA-GEVAERT N.V.
+ALSTOM Technology Ltd
+AMERICAN BIO ENERGY CONVERTING CORP.
+APPLIED MATERIALS ISRAEL LTD.
+ASM IP HOLDING B.V.
+ASM IP Holdings LLC
+ASML Netherlands B.V.
+AT&T Corporation
+ATOMERA INCORPORATED
+AZ Electronic Materials (Luxembourg) S.A.R.L.
+AbbVie Inc.
+Abbott Cardiovascular Systems Inc.
+Abbott Molecular Inc.
+Abbott Point of Care Inc.
+Access Business Group International LLC
+AccuRay Corporation
+Acer Incorporated
+Adaptive Biotechnologies Corp.
+Adeka Corporation
+Adobe Systems Incorporated
+Aerosol Dynamics Inc.
+AgroFresh Inc.
+Algenol Biotech LLC
+Alpha and Omega Semiconductor Incorporated
+Altex Technologies Corporation
+Amberwave Inc.
+American Science and Technology Corporation
+American University of Beirut
+Amgen Fremont Inc.
+Amgen Inc.
+Ana G. Mí©ndez University System
+Andritz Inc.
+Aneeve LLC
+Anelva Corporation
+Antaya Technologies Corporation
+Apple Inc.
+Applied Genetic Technologies Corporation
+Arizona Board of Regents acting on behalf of Arizona State University
+Arizona Board of Regents on Behalf of the University of Arizona
+Arkema Inc.
+Arkival Technology Corp.
+Armageddon Energy Inc.
+Assistance Pulique-HíÇpitaux de Paris
+Atleisure LLC
+Atotech Deutschland GmbH
+Atrium Medical Corporation
+Auburn University
+Avago Technologies General IP (Singapore) Pte. Ltd.
+Avant Garde Therapeutics & Technologies LLC
+Avery Dennison Corporation
+B.G. Negev Technologies and Applications Ltd.
+BAE Systems Information and Electronic Systems Integration Inc.
+BASF Coatings GmbH
+BASF Corporation 
+BASF Enzymes LLC
+BASF Plant Science GmbH
+BAXALTA INCORPORATED
+BCE Inc.
+BERKEN ENERGY LLC
+BLANC VINEYARDS L.L.C.
+BP Corporation North America Inc.
+BRIGHAM YOUNG UNIVERSITY
+BRIGHTLEAF TECHNOLOGIES INC.
+BROADCOM CORPORATION
+BTPATENT LLC
+BTU International
+Baker Hughes Incorporated
+Basell Polyolefine GmbH
+Bausch & Lomb Incorporated
+Baxter International Inc.
+Bayer Materialscience LLC
+Baylor College of Medicine
+Bell Helicopter Textron Inc.
+Beryllium Discovery Corp.
+Beth Israel Medical Center
+Bi-Modal Corporation
+Bioneer Corporation
+Biosense Webster (Israel) Ltd.
+Biotta LLC
+Bitrode Corporation
+Board of Trustees of Michigan State University
+Boehringer Ingelheim International GmbH
+Boehringer Ingelheim Vetmedica GmbH
+Bosch Energy Storage Solutions LLC
+Boston Scientific Neuromodulation Corporation
+Brandels University
+Brewer Science Inc.
+Bridgestone Corporation
+Brigham and Women's Hospital
+Brookhaven Science Associates LLC 
+Brother International Corporation
+Brown University
+Butamax(TM) Advanced Biofuels LLC
+CARBO Ceramics Inc.
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE
+CERION LLC
+CITY UNIVERSITY OF HONG KONG
+CLEARSIGN COMBUSTION CORPORATION
+CNH Industrial America LLC
+CNRS
+COOK MEDICAL TECHNOLOGIES LLC
+COVERIS FLEXIBLES US LLC
+CPC International Inc.
+Cabot Corporation
+Cadtrak Corporation
+California Institute of Technology
+Callahan Cellular L.L.C.
+Carl Zeiss Microscopy GmbH
+Carnegie Mellon University
+Case Western Reserve University
+Cbrite Inc.
+Cedars-Sinai Medical Center
+Celanese Corporation
+Celanese International Corporation
+Central Iowa Health System
+Certain-teed Corporation
+Cetac Technologies Inc.
+Cetus Corporation
+Chevron Oronitz Company LLC
+Chevron U.S.A. Inc.
+Child Laboratories Inc.
+Children's Hospital and Research Center at Oakland
+Children's National Medical Center
+China University of Petroleum-Beijing
+Chipmos Technologies Inc.
+Chiron Corporation
+Cima NanoTech Israel Ltd.
+City of Hope
+Cleanvantage LLC
+Clemson University
+Clemson University Research Foundation
+Coactive Drive Corporation
+Colorado School of Mines
+Colorado State University Research Foundation
+Columbia University
+Commissariat a l'Energie Atomique
+Commissariat a l'Energie Atomique et aux Energies Alternatives
+Community Power Corporation
+Compagnie Generale des Etablissements Michelin
+Conoco Inc.
+Conversant Intellectual Property Management Inc.
+Cook Biotech Incorporated
+Cornell University
+Corning Incorporated
+Council of Scientific and Industrial Research
+Crestovo LLC
+Cristal USA Inc.
+Crowder College
+Crystal Solar Inc.
+Crystal Solar Incorporated
+Crystalplex Corporation
+Custom Electronics Inc.
+Cymatics Laboratories Corp.
+Cypress Semiconductor Corp.
+D-Wave Systems Inc.
+DECA Technologies Inc.
+DIC Corporation
+DISCOVERYBIOMED INC.
+DPx Holdings B.V.
+DSP Group LTD.
+Dana Corporation
+Danisco US Inc.
+Danmarks Tekniske Universitet
+Delavau LLC
+Dell Software Inc.
+Denso Corporation
+Deutsches Krebsforschungszentrum Stiftung Des Offenlichen Rechts
+Dexerials Corporation
+Dialight Corporation
+Dialogic Corporation
+DiscoveRx Corporation
+Dolby Laboratories Licensing Corporation
+Dow AgroSciences LLC
+Dow Corning Corporation
+Dow Global Technologies Inc.
+Dow Technology Investments LLC
+Dr. Reddy's Laboratories Ltd.
+Drexel University
+DuPont Teijin Films U.S. Limited Partnership
+Duke University
+Duquesne University of the Holy Ghost
+Dymax Corporation
+E Ink Corporation
+E. I. du Pont de Nemours and Company
+E. I. du Pont de Nemours and Company duPont Displays Inc
+E. Tech Incorporation
+E.I. du Pont de Nemours and Company
+ECOSYNTHETIX LTD.
+ELC Management LLC
+EMC Corporation
+EMD Technologies Inc.
+ENERGY INDEPENDENCE OF AMERICA CORP.
+ENI S.p.A.
+EXOS LLC
+East China University of Science and Technology
+Eaton Corporation
+EchoStar Technologies LLC
+Ecolab Inc.
+Ecole Normale Superieure de Cachan
+Ecole Polytechnique Federale De Lausanne
+Electronics and Telecommunications Research Institute
+Electrovaya Inc.
+Elwha LLC
+Em-Tech LLC
+Embro Corporation
+Emory University
+Empire Technology Development LLC
+Envisionit LLC
+Evernote Corporation
+Evoqua Water Technologies LLC
+Exatec LLC
+Excelsior Nanotech Corporation
+ExxonMobil Chemical Patents Inc.
+FLOW CONTROL LLC.
+FRONT EDGE TECHNOLOGY INC.
+FUJIFILM Corporation
+Fairchild Semiconductor Corporation
+FastCAP Systems Corporation
+Fayetteville State University
+Federal Signal Corporation
+Ferric Inc.
+Ferro Corporation
+Fianium Ltd.
+Fike Corporation
+Finisar Corporation
+FlashSilicon Incorporation
+Floadia Corporation
+Fluidigm Corporation
+Forsyth Dental Infirmary for Children
+Fred Hutchinson Cancer Research Center
+Friedrich-Alexander-Universitaet Erlangen-Nuernberg
+G.D.O. Inc
+GCP Applied Technologies Inc.
+GE-Hitachi Nuclear Energy Americas LLC
+GEN-PROBE INCORPORATED
+GENCO SCIENCES LLC
+GENERAL MOTORS LLC
+GLIKNIK INC.
+GLOBALFOUNDRIES Inc.
+GLYCON LLC
+GOAL ZERO LLC
+GOLBA LLC
+GOOGLE TECHNOLOGY HOLDINGS LLC
+GREENHILL ANTIBALLISTICS CORPORATION
+Galemed Corporation
+Garrity Power Services LLC
+Genesco Inc.
+Genzyme Corporation
+Georgetown University
+Georgia Tech Research Corporation
+Georgia-Pacific Gypsum LLC
+Gestion Ultra International Inc.
+Global Eagle Entertainment Inc.
+Global OLED Technology LLC
+Glucan Biorenewables LLC
+Google Inc.
+Grain Processing Corporation
+Grandis Inc.
+Greatbatch Ltd.
+Greggory Tate Homrighous and Frank Bryan Homrighous
+Gtech Corporation
+H R D CORPORATION
+HAMAMATSU PHOTONICS K.K.
+HGST NETHERLANDS B.V.
+HTC Corporation
+Hadasit Medical Research Services & Development Company Ltd.
+Hamilton Sundstrand Corporation
+Harris Corporation
+Heat Seal LLC
+Helios Focus LLC
+Henkel AG & Co. KGaA
+Henry Ford Health Systems
+Heraeus Precious Metals North America Conshohocken LLC
+Hewlett-Packard Indigo B.V.
+Hitachi High-Technologies Corporation
+Honeywell International Inc.
+Hosiden Corporation
+Howard University
+Hoya Corporation
+Humanetics Corporation
+Hunt Energy Enterprises LLC
+Hunter Douglas Inc.
+Hynix Semiconductor Inc.
+Hysitron Incorporated
+IDEX Health & Science LLC
+II-VI Incorporated
+IMDS Corporation
+INDIANA UNIVERSITY RESEARCH & TECHNOLOGY CORPORATION
+INENTEC INC.
+INFINEUM INTERNATIONAL LIMITED
+INTEL IP CORPORATION
+INVISTA North America S.a.r.l.
+Icahn School of Medicine at Mount Sinai
+Ideal Power Inc.
+Illinois Institute of Technology
+InView Technology Corporation
+Incept LLC
+Incyte Holdings Corporation
+Infineon Technologies Americas Corp.
+Infinera Corporation
+Innolux Corporation
+Institut National de la Sante et de la Recherche Medicale (Inserm)
+Institut Pasteur
+Institute for Systems Biology
+Institute of Advanced Study
+Instron Corporation 
+Intel Corporation
+Intellectual Keystone Technology LLC
+Intercontinental Great Brands LLC
+International AIDS Vaccine Initiative
+International Business Machines Corporation
+IntriEnergy Inc.
+Invensas Corporation
+Iogen Corporation
+JAC Products Inc.
+JFE STEEL CORPORATION
+JNC Corporation
+JOLED Inc.
+JSI Equipment Solutions LLC
+JSR Corporation
+JX Nippon Mining & Metals Corporation
+John Hopkins University
+Johns Hopkins Univ. 
+KINO LLC
+KJ BIOSCIENCES LLC
+KLA-Tencor Corporation
+KOREA UNIVERSITY RESEARCH AND BUSINESS FOUNDATION
+KT Corporation
+KUBIX INC.
+KYOCERA DOCUMENT SOLUTIONS INC.
+Kajima Corporation
+Kaneka Corporation
+Kansas State University Research Foundation
+Kansei Corporation 
+Kao Corporation
+Karsten Manufacturing Corporation
+Katholieke Universiteit Leuven
+Kent State University
+Kerr Corporation
+Kia Motors Corporation 
+Kinetech Power Company LLC
+King Electric Vehicles Inc.
+Kodak Alaris Inc.
+Koninklijke Philips N.V.
+Korea Advanced Institute of Science and Technology
+Korea Institute of Science and Technology
+Korea Research Institute of Bioscience and Biotechnology
+Korea Research Institute of Chemical Technology
+Kraton Polymers U.S. LLC
+Kronos International Inc
+Kureha Corporation
+Kyungpook National University Industry-Academic Cooperation Foundation
+L-3 Communications Cincinnati Electronics Corporation
+LATITUDE PHARMACEUTICALS INC.
+LG Electronics Inc.
+LGS Innovations LLC
+Lam Research Corporation
+Lattice Semiconductor Corporation
+Leigh University
+Lextar Electronics Corp.
+Life Technologies Corporation
+Linne Industries LLC
+Lintec Corporation
+Lockheed Martin Corporation
+Lof Solar Corporation
+Loma Linda University
+Los Angeles Biomedical Research Institute at Harbor-UCLA Medical Center
+Louisiana Tech Research Corporation
+Lumentum Operations LLC
+Luna Innovations Incorporated
+MAHLE International GmbH
+MATERIALS ANALYSIS TECHNOLOGY (US) CORP.
+MERCK SHARP & DOHME CORP.
+MILLENIUM SYNTHFUELS CORPORATION
+Magna International Inc.
+Mainstream Engineering Corp.
+Marine Biotech Inc.
+Markel Corporation
+Mary Hitchcock Memorial Hospital
+Massachusetts Eye and Ear Infirmary 
+Massachusetts Institute of Technology
+Mayo Foundation for Medical Education and Research
+McMaster University
+Medgenics Medical Israel Ltd.
+Mediatek Inc.
+Medical Research Council 
+Medicis Pharmaceutical Corporation
+Merck Patent GmbH
+Met Tech Inc.
+Metal Industries Research & Development Centre
+Michelin Recherche et Technique S.A.
+Michigan Technological University
+Microchip Technology Incorporated
+Microsemi SoC Corporation
+Mintera Corporation
+Mississippi State University Research and Technology Corporation
+Mitsubishi Electric Corporation
+Mitsubishi Metal Corporation
+Momentive Performance Materials GmbH
+Momentive Performance Materials Inc.
+Monolithe Semiconductor Inc.
+Monsanto Technology LLC
+Musco Corporation
+NANOBIO CORPORATION
+NANOPHARMACEUTICALS LLC
+NATIONAL APPLIED RESEARCH LABORATORIES
+NATIONAL INSTITUTE FOR MATERIALS SCIENCE
+NATIONAL TSING HUA UNIVERSITY
+NDSU Research Foundation
+NEC Corporation
+NEWFIELD THERAPEUTICS CORPORATION
+NICHIA CORPORATION
+NOK Corporation
+NORTHWESTERN UNIVERSITY
+NOVA Chemicals (International) S.A.
+Nagoya Institute of Technology
+Nanao Corporation
+Nano Technics Company Ltd
+NanoGram Corporation
+Nanostatics Corporation
+National Cheng Kung University
+National Education Corporation
+National Health Research Institutes
+National Institute of Information and Communications Technology (NIICT)
+National Institutes of Health
+National Research Council of Canada
+National Security Agency
+National Sun Yat-Sen University
+NeoPhotonics Corporation
+NeoVision LLC
+Nestec S. A.
+New Jersey Institute of Technology
+New York University
+Newdoll Enterprises LLC
+Newport Corporation
+Nikon Corporation
+Nippon Chemi-Con Corporation
+Nokia Corporation
+Nordson Corporation
+North Carolina State University
+Northrop Grumman Systems Corporation
+Novozymes Inc.
+Novus Energy LLC
+Nthdegree Technologies Worldwide Inc.
+Nvidia Corporation
+O.B.I. Inc.
+OHIO STATE INNOVATION FOUNDATION
+OLYMPUS CORPORATION
+Oki Data Corporation
+Omron Corporation
+One Earth Designs Inc.
+Optodot Corporation
+Oracle International Corporation
+Oregon Health & Science University
+Oregon State University
+Ormat Technologies Inc.
+Osram Sylvania Inc.
+Owens-Brockway Glass Container Inc.
+PACCAR Inc
+PLEX LLC
+PQ CORPORATION
+Pacific Industrial Development Corporation
+Palo Alto Research Center Incorporated
+Panasonic Intellectual Property Corporation of America
+Pansonic Corporation
+Parker-Hannifin Corporation
+Pegatron Corporation
+Peking University
+Pelican Imaging Corporation
+Pentair Thermal Management LLC
+PeterBrod Corp.
+Pfizer Inc.
+Pharmion Corporation
+Philip Morris USA Inc.
+Pioneer Hi Bred International Inc
+Polaris Products LLC
+PolyOne Corporation
+Polysar Corporation
+Polytechnic Institute of New York Unversity
+President and Fellows of Harvard College
+Proterra Inc.
+Purdue Research Foundation
+Pyrexar Medical Inc.
+QUALCOMM Incorporated
+Qiagen GmbH
+Quallion LLC
+Qualsig Inc.
+Quantum Materials Corporation
+QuantumScape Corporation
+Quest Diagnostics Investments Incorporated
+R.J. Reynolds Tobacco Company
+RINAT NEUROSCIENCE CORP.
+ROM Corporation
+Raytheon BBN Technologies Corp.
+Regents of the University of Minnesota
+Reliance Controls Corporation
+Renesas Electronics Corporation
+Renewable Opportunities Inc.
+RenovaCare Sciences Corp.
+Rensselaer Polytechnic Institute (RPI)
+Research Development Foundation
+Research Foundation of State University of New York
+Research Foundation of the City University of New York
+Rhode Island Hospital
+Richard H. Sherratt and Susan B. Sherratt Revocable Trust Fund
+Robert Bosch GmbH
+Roche Diagnostics GmbH
+Rohm and Haas Chemicals LLC
+Rohm and Haas Electronic Materials LLC
+Roll-N-Lock Corporation
+Rosemount Aerospace Inc. 
+Rush University Medical Center
+SABIC GLOBAL TECHNOLOGIES B.V.
+SAE Magnetics (HK) Ltd.
+SAP SE
+SEIKO NPC Corporation
+SEaB Energy Holdings Ltd.
+SII Semiconductor Corporation
+SK Hynix Inc.
+SOLENA FUELS CORPORATION
+STC.UNM
+STMicroelectronics S.A.
+SYNTHOMER USA LLC
+Sagacious Investment Group L.L.C.
+Saint-Gobain Performance Plastics Corporation
+SanDisk 3D LLC
+SanDisk Technologies LLC
+Sandia Corporation
+Sanford-Burnham Medical Research Institute
+Santa Clara University
+Santoku Corporation
+Schlumberger Technology Corporation
+Seagate Technology LLC
+Seetron Inc.
+Seiko Epson Corporation
+Seiko Instruments Inc.
+Selas Heat Technology Company LLC
+Semiconductor Manufacturing International (Shanghai) Corporation
+Semics Inc.
+Semileds Optoelectronics Co.
+Sensor-Kinesis Corporation
+Shimadzu Corporation
+Sichuan University
+Siemens Corporation
+Sigma-Aldrich Co. LLC
+Silicon Genesis Corporation
+Silicon Space Technology Corp.
+Silicor Materials Inc.
+Simbol Inc.
+Sion Power Corporation
+SolAero Technologies Corp.
+Sola U.S.A. Inc.
+SolaBlock LLC
+National Cheng Kung University
+Solaire Generation LLC
+Solar Junction Corporation
+Solar-Tectic LLC
+SolarCity Corporation
+SolarLego Inc.
+SolarWorld Americas Inc.
+Solutia Inc.
+Sony Corporation
+Sony Interactive Entertainment America LLC
+South Dakota Board of Regents
+St. Jude Children's Research Hospital
+St. Microelectronics Inc.
+Stanford University
+Starlight Energy Holdings LLC
+Starsource Scientific LLC
+Stellenbosch University
+Stevens Institute of Technology
+Stichting Energieonderzoek Centrum Nederland
+Sumco Corporation
+Sun Chemical Corporation
+Sun Drilling Products Corporation
+SunCulture Solar Inc.
+SunLink Corporation
+SunPower Corporation
+Sungevity Inc.
+Sungkyunkwan University Foundation for Corporate Collaboration
+Sunlight Photonics Inc.
+Sunnybrook Health Sciences Centre
+Sunrun South LLC
+Supremex Inc.
+Surebeam Corporation
+Sutter Bay Hospitals
+Symantec Corporation
+Syracuse University
+Sysmex Corporation
+TDK Corporation
+THE TRUSTEES OF DARTMOUTH COLLEGE
+THE UNIVERSITY COURT OF THE UNIVERSITY OF GLASGOW
+THYSSENKRUPP INDUSTRIAL SOLUTIONS GMBH
+TIME WARNER CABLE ENTERPRISES LLC
+TMC Corporation
+TRANE INTERNATIONAL INC.
+TRIDONIC GMBH & CO KG
+Takara Bio Inc.
+Tamura Corporation
+Tanaka Kikinzoku Kogyo K.K.
+Tau Therapeutics LLC
+Teal Sales Incorporated
+Texas Instruments Deutschland GmbH
+Texas Instruments Incorporated
+Texas State University-San Marcos
+Texas Tech University
+Th United States of America as represented by the Secretary of the Army
+The Arizona Board of Regents
+The Arizona Board of Regents of Behalf of the University of Arizona
+The Board of Regents of the University of Nebraska
+The Board of Regents of the University of Oklahoma
+The Board of Supervisors of Louisiana State University and Agricultural and Mechanical College
+The Board of Trustees for the Leland Stanford Junior University
+The Board of Trustees of Southern Illinois University
+The Board of Trustees of the Leland Stanford Junior University
+The Board of Trustees of the University of Arkansas
+The Board of Trustees of the University of Illinois
+The Catholic University of Korea
+The Children's Hospital of Philadelphia
+The Children's Medical Center Corp.
+The Cleveland Clinic Foundation
+The Corporation of Mercer University
+The Curators of the University of Missouri
+The Eastern Co.
+The Florida International University Board of Trustees
+The Gates Corporation
+The General Hospital Corporation
+The George Washington University
+The Government of the United States as represented by the Secretary of the Department of Health and Human Services
+The Governors of the University of Alberta
+The Hong Kong University of Science and Technology
+The J. David Gladstone Institutes
+The Methodist Hospital System
+The National Institute of Standards and Technology
+The Ohio State University
+The Ohio State University Research Foundation
+The Paymaster Corporation
+The Penn State Research Foundation
+The Regents of the University of California
+The Regents of the University of Colorado
+The Regents of the University of Michigan
+The Research Foundation for the State University of New York
+The Rockefeller University
+The Royal Institution for the Advancement of Learning/McGill University
+The Scripps Research Institute
+The State of Oregon Acting by and through the State Board of Higher Education on Behalf of Oregon State University
+The Texas A&M University System
+The Trustees of Boston College
+The Trustees of Boston University
+The Trustees of Columbia University in the City of New York
+The Trustees of the Stevens Institute of Technology
+The Trustees of the University of Pennsylvania
+The United States Goverment as represented by the Administrator of the Environmental Protection Agency
+The United States Government as Represented by the Department of Veterans Affairs
+The United States of America as Represented by the Administrator of the National Aeronautics and Space Administration
+The United States of America as repesented by the Secretary of Commerce
+The United States of America as represented by the Secretary of Agriculture
+The United States of America as represented by the Secretary of the Air Force
+The United States of America as represented by the Secretary of the Navy
+The Unites States of America as represented by the Department of Energy
+The University of Akron
+The University of Chicago
+The University of Cincinnati
+The University of Connecticut
+The University of Houston System
+The University of Liverpool
+The University of Maryland
+The University of North Carolina at Chapel Hill
+The University of Pittsburgh
+The University of Texas at Arlington
+The University of Toledo
+The University of Western Ontario
+Thermo Fisher Scientific Inc.
+Thermorefinery Technologies Inc.
+Thermoretinary Technologies Inc.
+Thomas Jefferson University
+Thoratec Corporation
+Thorn Bioscience LLC
+Ticona LLC
+Toda Kogyo Corporation
+Tohoku University
+Toray Industries Inc. 
+Tosoh Corporation
+Traex Corporation
+Transtron Solutions LLC
+Triune IP LLC
+Trustees of Princeton University
+Trustees of Tufts College
+Tsinghua University
+Tufts University
+Turf Group LLC
+Turtle Beach Corporation
+Tyco Electronics Corporation
+Tyco Electronics U.K. LTD
+U S MICROPOWER INC
+U.S. Army Medical Research and Material Command
+U.S. Smokeless Tobacco Company LLC
+UAB Research Foundation
+UCB Pharma S.A.
+UNISANTIS ELECTRONICS SINGAPORE PTE. LTD.
+UNIVERITY OF MASSACHUSETTS
+UNIVERSITY OF NORTH TEXAS
+UOP LLC
+UTC FIRE & SECURITY CORPORATION
+UVIC INDUSTRY PARTNERSHIPS INC.
+Uni-Charm Corporation
+Unifrax I LLC
+Uniseal Solutions Inc.
+Unistrut International Corp.
+United Microelectronics Corp.
+United Technologies Corporation
+Unity Semiconductor Corporation
+Universal Display Corporation
+Universite d'Aix-Marseille II
+University Court of the University of St. Andrews
+University of British Columbia
+University of Calcutta
+University of Dayton
+University of Dundee
+University of Hull
+University of Iowa Research Foundation
+University of Kansas
+University of Kentucky Research Foundation
+University of Maine System Board of Trustees
+University of Manitoba
+University of Massachusetts
+University of Memphis Research Foundation
+University of Miami
+University of MiamiŒ„Diabetes Research Institute
+University of North Carolina
+University of North Dakota
+University of Notre Dame Du Lac
+University of Oregon
+University of PittsburghŒ„of the Commonwealth System of Higher Education
+University of Puerto Rico
+University of Rochester
+University of South Florida
+University of Southern California
+University of Tennessee Research Foundation
+University of Utah Research Foundation
+University of Virginia Patent Foundation
+University of Washington 
+University of Washington through its Center for Commercialization
+University of Wyoming
+VANDERBILT UNIVERSITY CENTER FOR TECHNOLOGY TRANSFER AND COMMERCIALIZATION
+VEECO PRECISION SURFACE PROCESSING LLC
+VERILY LIFE SCIENCES LLC
+VERLASE TECHNOLOGIES LLC
+VIASAT INC.
+VINDICO NANOBIO TECHNOLOGY INC.
+Vanderbilt University
+Virginia Commonwealth University
+Visa International Business Machines Corporation
+Vizio Inc.
+Volterra Semiconductor LLC
+Vorbeck Materials Corporation
+WCA Group LLC
+WELL Shield LLC
+WHATSAPP INC.
+Wake Forest University
+Washington State University
+Washington State University Research Foundation
+Washington University
+Washington University in St. Louis
+Waters Technologies Corporation
+Wave Energy Conversion Corporation of America
+Wayne State University
+Wenger Corporation
+West Virginia University
+Whitehead Institute for Biomedical Research 
+William Marsh Rice University
+Winbond Electronics Corp.
+Wisconsin Alumni Research Foundation
+Women and Infants' Hospital Rhode Island
+Wright State University
+Wyatt Technology Corporation
+X DEVELOPMENT LLC
+Xerox Corporation
+Xintec Inc.
+Yageo Corporation
+Yale University
+Yamaha Corporation
+Z124
+ZIH Corp.
+Zeno Semiconductor Inc
+Zenon Technology Partnership
+Zephyr Energy Systems LLC
+Zoetis Services LLC
+Zygo Corporation
+eSionic Corp.
+iNanoBio LLC
+mVerify Corporation
+nLIGHT Photonics Corporation

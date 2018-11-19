@@ -1,0 +1,1789 @@
+organization
+Tata Consultancy Services Limited
+Amazon Technologies
+Siemens Medical Solutions USA
+Siemens Aktiengesellschaft
+Hewlett Packard Enterprise Development LP
+Shell Oil Company
+ABB AB
+GENERAL ELECTRIC COMPANY
+The Procter & Gamble Company
+Cisco Technology
+Johnson & Johnson Consumer Companies
+Novartis AG
+Avon Products
+Roche Molecular Systems
+Medtronic Vascular
+ExxonMobil Upstream Research Company
+BASF
+BASF SE
+3M Innovative Properties Company
+Johnson Controls Technology Company
+GE Healthcare Limited
+Raytheon Company
+Thermo Finnigan
+CPT IP Holdings
+adidas AG
+Nissan North America
+Bristol-Myers Squibb Company
+Boston Scientific Scimed
+American Air Liquide
+Rolls-Royce North American Technologies
+Rolls-Royce PLC
+Baxter Healthcare SA
+Syngenta Participations AG
+Colgate-Palmolive Company
+Saint-Gobain Ceramics & Plastics
+Genentech
+Alcon Research
+PPG Industries Ohio
+STMicroelectronics Limited
+Rockwell Collins
+The Goodyear Tire & Rubber Company
+Solvay Specialty Polymers USA
+Applied Materials
+NXP USA
+Infineon Technologies AG
+Micron Technology
+Teradata US
+Western Digital (Fremont)
+Archer Daniels Midland Company
+Toyota Motor Engineering & Manufacturing North America
+NetApp
+Siemens Energy
+NCC Nano
+Red Hat
+AIR PRODUCTS AND CHEMICALS
+Gilead Sciences
+Sanofi
+Analog Devices
+Smith & Nephew
+DePuy Synthes Products
+Eastman Chemical Company
+Eastman Kodak Company
+Freescale Semiconductor
+ServiceNow
+Los Alamos National Security
+Regeneron Pharmaceuticals
+Biocon Limited
+Nationwide Children's Hospital
+Janssen Biotech
+Agilent Technologies
+Bio-Rad Laboratories
+Maxim Integrated Products
+Johnson Matthey PLC
+Cornell Research Foundation
+Cadence Design Systems
+Stora Enso Oyj
+BOLTIER R&D
+Lawrence Livermore National Security
+Abengoa Bioenergy New Technologies
+Illinois Tool Works
+Commonwealth Scientific & Industrial Research Organization
+Amkor Technology
+Dana-Farber Cancer Institute
+Novozymes North America
+Novozymes A/S
+Hitachi
+Carestream Health
+Intuitive Surgical Operations
+Dresser-Rand Company
+Twitter
+Nalco Company
+Battelle Memorial Institute
+Star Technology and Research
+SAINT-GOBAIN ABRASIFS
+Ortho-Clinical Diagnostics
+Bemis Company
+Domtar Paper Company
+BlackBerry Limited
+Chevron Phillips Chemical Company LP
+Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO
+UChicago Argonne
+Johnson & Johnson Vision Care
+Mallinckrodt
+Sick AG
+DRS Network & Imaging Systems
+Crepaco
+First Solar
+Milliken & Company
+Guardian Industries
+Cree
+Riverbed Technology
+FLIR Systems
+Alexion Pharmaceuticals
+Heidelberger Druckmaschinen AG
+The Boeing Company
+Kemira OY
+SunRun
+Entegris
+IMEC
+Johns Manville
+Delphi Technologies
+Bostik
+Carl Zeiss Meditec AG
+Tokyo Electron Limited
+FEI Company
+Pixar
+Southwest Research Institute
+Cyberonics
+Fujitsu Limited
+Silicon Storage Technology
+Allison Transmission
+Alcatel Lucent
+Integrated Device Technology
+Adtran
+Masimo Semiconductor
+SRG Global
+SICPA Holding SA
+ATI Technologies ULC
+Stratasys
+Ventana Medical Systems
+Oculus VR
+Coriant Advanced Technology
+Globus Medical
+SUMITOMO WIRING SYSTEMS
+GOJO Industries
+Ivoclar Vivadent AG
+CP KELCO APS
+Battelle Energy Alliance
+Christie Digital Systems
+Cavium
+Plasma Tech Holdings
+Sumitomo Electric Device Innovations
+Sumitomo Electric Industries
+Alnylam Pharmaceuticals
+Watlow Electric Manufacturing Company
+RF Micro Devices
+Rohm and Haas Company
+Matrix Odyssey
+Chemtreat
+Genomic Health
+Fenwal
+SunEdison Semiconductor Limited
+POET Research
+Takeda Pharmaceutical Company Limited
+RES USA
+OmniVision Technologies
+Power Integrations
+OFS Fitel
+SunEdison
+Novellus Systems
+Integrated DNA Technologies
+Transitions Optical
+Braun Intertec Geothermal
+AMO Wavefront Sciences
+Electrix
+Thorlabs Quantum Electronics
+Thorlabs
+UT-Battelle
+TEKNOR APEX COMPANY
+LifeNet Health
+Olympus NDT
+DPD
+Digital Wind Systems
+22nd Century Limited
+CMC ICOS BIOLOGICS
+MAXLINEAR
+ARBOR THERAPEUTICS
+Veracode
+MONTEREY RESEARCH
+Kawasaki Jukogyo Kabushiki Kaisha
+CELLTRION
+AGC Flat Glass North America
+Varian Semiconductor Equipment Associates
+Bluestar Silicones France
+Lake Lite
+DEKA Products Limited Partnership
+Isis Pharmaceuticals
+Meso Scale Technologies
+PTC Therapeutics
+AstenJohnson
+WAFERTECH
+AG ENERGY SOLUTIONS
+SCHOTTKY LSI
+HRL Laboratories
+New England Biolabs
+Praxair Technology
+Amicus Therapeutics
+PDF Solutions
+Piksel
+CSEM Centre Suisse d'Electronique et de Microtechnique SA-Recherche et Developpement
+Meyer Tool
+Carbon3D
+Chromalox
+Babcock Power Services
+Pacific Biosciences of California
+Sima Therapeutics
+Sarepta Therapeutics
+Rockwell Automation Technologies
+Agrigenetics
+Truckee Applied Genomics
+FPInnovations
+FUJIFILM Dimatix
+nLIGHT
+Toray Plastics (America)
+CAPAT
+Relypsa
+KOLON INDUSTRIES
+Saint-Gobain Adfors Canada
+ACell
+Electronic Warfare Associates
+Inventus Holdings
+FutureWei Technologies
+Applied NanoStructured Solutions
+Applied Nanostructures
+Cross Match Technologies
+Magnachip Semiconductor
+Headway Technologies
+Halliburton Energy Services
+Tigo Energy
+Hitachi Metals
+Aseptia
+INTEVAC
+Columbia Insurance Company
+Veracyte
+George Mason Research Foundation
+Lovelace Respiratory Research Institute
+Ajinomoto Althea
+Mitsubishi Polyester Film
+Sangamo BioSciences
+Hyundai Motor Company
+The Samuel Roberts Noble Foundation
+Sharp Kabushiki Kaisha
+Atomic Energy Council-Institute of Nuclear Energy Research
+Haier US Appliance Solutions
+Applied Optoelectronics
+Bend Research
+Soraa Laser Diode
+Soraa
+CYKL Technology
+McElroy Manufacturing
+Sequenom
+Abraxis Bioscience
+Biocare Medical
+Adhesives Research
+GlassPoint Solar
+Teledyne Scientific & Imaging
+Codexis
+Complete Genomics
+Kulite Semiconductor Products
+MonoSol
+Midrex Technologies
+Newlans
+Synthetic Genomics
+Aerogen
+Singulex
+Coleman Cable
+Moxtek
+Agena Bioscience
+Fujitsu Semiconductor Limited
+Transilwrap Company
+Nanosys
+Imperial Innovations Limited
+Evri
+Interface Performance Materials
+Astex Pharmaceuticals
+Bridgelux
+Deep Well Power
+DHPC TECHNOLOGIES
+VALTED
+ASM America
+Valicor
+Epizyme
+Scientific Design Company
+CUMMINS FILTRATION IP
+Materia
+Plasma-Therm
+VIOLIN MEMORY
+Egenera
+Lion Copolymer Geismar
+Roho
+Intermolecular
+Green Solar Transportation
+Paratek Pharmaceuticals
+Innovation Hammer
+Everspin Technologies
+TRI ALPHA ENERGY
+Genomatica
+Bigelow Aerospace
+Cardiva Medical
+Daylight Solutions
+Synopsys
+Kinestral Technologies
+Ostendo Technologies
+Pioneer Hi-Bred
+Pioneer Hi-Bred
+Triple Ring Technologies
+Ube Industries
+DCG SYSTEMS
+Swift Engineering
+GED Intergrated Solution
+OPTERRA ENERGY SERVICES
+Cheil Industries
+Phoseon Technology
+Cool Planet Energy Systems
+Revera
+SELMAN AND ASSOCIATES
+Sila Nanotechnologies
+Kashiv Pharma
+Oceanit Laboratories
+Sigmatel
+OrbusNeich Medical
+Gardner-Gibson
+Daikin Industries
+IMRA America
+Englewood Lab
+bioTheranostics
+American Piledriving Equipment
+Calient Technologies
+Kala Pharmaceuticals
+SB ENERGY
+BioNano Genomics
+APPLIED STEMCELL
+SolarReserve Technology
+Siluria Technologies
+ASCENT SOLAR TECHNOLOGIES
+Nant Holdings IP
+Poly-Med
+Canon Nanotechnologies
+Nanoco Technologies
+Sharp Laboratories of America
+NanoLab
+QD Vision
+Weatherford Canada Partnership
+Crossbar
+Ethox Chemicals
+NLT TECHNOLOGIES
+ProNAi Therapeutics
+TheGreenCell
+Faurecia Interior Systems
+McAlister Technologies
+Liquidia Technologies
+Nantero
+Heliae Development
+SOLAZYME
+Shoals Technologies Group
+TerraVia Holdings
+KOLO TECHNOLOGIES
+Angaza Design
+Phillips 66 Company
+Fina Technology
+IBC Pharmaceuticals
+PetraSolar
+Big Belly Solar
+Mission Product Holdings
+aTyr Pharma
+CAMBRIDGE ENTERPRISE LIMITED
+Ceramatec
+Sienna Biopharmaceuticals
+Sienna Labs
+UWM Research Foundation
+ASTUTE MEDICAL
+GangaGen
+LG NANOH2O
+Caribou Biosciences
+Elenion Technologies
+Little Kids
+SEEK THERMAL
+Advanced Analogic Technologies
+Locus Energy
+Clearside Biomedical
+Molecular Imprints
+GEOTHERMAL ENERGY PROJECT
+Gram Power
+Arcturus Therapeutics
+Biosphere Medical
+FHT
+Michigan Biotechnology Institute
+Avertech
+Galectin Therapeutics
+NeuMoDx Molecular
+ExxonMobil Research and Engineering Company
+Lehigh Technologies
+Virent
+Claret Medical
+Koch Biological Solutions
+Pioneer Energy
+Conexant Systems
+Amprius
+Asahi Kasei Kabushiki Kaisha
+Combined Energies
+Pixelligent Technologies
+Marathon Equipment Company
+All Power Labs
+Opel Solar
+Vadient Optics
+Voxtel
+Blue Sea Systems
+iBio
+Amtech Systems
+Ecovative Design
+OSI Optoelectronics
+SeQual Technologies
+California Industrial Facilities Resources
+Esolar
+Ma-West
+Renmatix
+Deep Science
+InVisage Technologies
+MicroLink Devices
+Rebellion Photonics
+Advanced Cell Technology
+Pinnacle Technology
+MEDport
+NanoMech
+Advanced Silicon Group
+RADIANCE SOLAR
+Selecta Biosciences
+Sensor Electronic Technology
+Covidien LP
+AMPT
+DNA Twopointo
+III HOLDINGS 1
+Inphenix
+Marine Polymer Technologies
+Angiotech Pharmaceuticals (US)
+Biological Dynamics
+Princeton Optronics
+System Biosciences
+Advanced Technology Materials
+Avalanche Technology
+Greyrock Energy
+Ignis Innovation
+Nanomix
+AROG PHARMACEUTICALS
+Agrivida
+Applied Membrane Technologies
+Diamicron
+Ensyn Renewables
+NanoTech Lubricants
+Solan
+WOVN
+Rhodia Operations
+Arpin Renewable Energy
+Ojai Retinal Technology
+Quantum Devices
+STATS ChipPAC
+Sweetwater Energy
+Tarveda Therapeutics
+LORDO AMERICA
+PLYCEM USA
+Bisco
+Extech/Exterior Technologies
+Great American Duck Races
+ITN Energy Systems
+KAI Pharmaceuticals
+Angstron Materials
+ALF OPERATING PARTNERS
+Travis Industries
+Centre de Recherche Industrielle du Quebec
+Altivera
+Garland Industries
+Xyleco
+Diamond Innovations
+Kamtec
+ElectraTherm
+Microchips Biotech
+Pendar Technologies
+Rillito Rive Solar
+Sundrop Fuels
+CoolEarth Solar
+HOWARD INDUSTRIES
+POLAR LIGHT TECHNOLOGIES AB
+Dynamic Solutions Worldwide
+GTherm
+NuOrtho Surgical
+fybr
+Gemex Systems
+PELLION TECHNOLOGIES
+Quantapore
+Wentworth Laboratories
+Alcotek
+Bruin Biometrics
+Echogen Power Systems
+Precision Custom Coatings
+Pulse Therapeutics
+Swagelok Company
+Aushon Biosystems
+Bird-B-Gone
+Energysolutions
+Joule Unlimited Technologies
+Sirnaomics
+WestPoint Home
+WiSys Technology Foundation
+APPLIED SUNSHINE
+Ansun Biopharma
+Courtagen Life Sciences
+Delta Electronics
+Genisphere
+MICROSOFT TECHNOLOGY LICENSING
+Molecular Rebar Design
+Nanoholdings
+Novon
+Parion Sciences
+Deployable Space Systems
+WADHAM ENERGY LP
+Ambature
+Calysta
+Facebook
+Formula Plastics
+Smart Planet Technologies
+Canon Kabushiki Kaisha
+AxioMx
+Element One
+Intrexon CEU
+Pentron Clinical Technologies
+Roche Diabetes Care
+Sierra Sciences
+Synaptic Research
+Corporation for National Research Initiatives
+Litron Laboratories Limited
+Nutech Ventures
+PolyPlus Battery Company
+Akron Polymer Systems
+Ampio Pharmaceuticals
+Cambridge Electronics
+ESCAPE THERAPEUTICS
+GE Healthcare Dharmacon
+HIQ SOLAR
+Industrial Origami
+Rima Enterprises
+AltaRock Energy
+Component Re-Engineering Company
+Entech Solar
+Innovalight
+MirTech
+Northwest Biotherapeutics
+Ormet Circuits
+Solexa
+Tela Innovations
+Wikipad
+k-Space Associates
+Gas Technology Institute
+Applied Biosystems
+Confluence Energy
+Landauer
+Ruse Technologies
+Tesla Nanocoatings
+Hollingsworth & Vose Company
+Acorn Technologies
+Authenex
+CYBERCITY 3D
+Hollywood Trucks
+Maxout Renewables
+Neumedicines
+PNM
+SDCmaterials
+Suncore Photovoltaics
+Tersus Environmental
+W&Wsens Devices
+Advanced Water Technology
+Aurora Alage
+Integrated Nano-Technologies
+Nova Technologies
+Performance Plants
+Previvo Genetics
+Revivicor
+Sustainable Technologies
+TECNIUM
+TetraSun
+eNow
+Gula Consulting Limited Liability Company
+ZON
+Autonomic Materials
+Carver Scientific
+Forest Concepts
+Medical Diagnostic Laboratories
+Mumetel
+STANDARD ALCOHOL COMPANY OF AMERICA
+Semprius
+Solarmer Energy
+Tessera Advanced Technologies
+Zyvex Labs
+GIGA SOLAR FPC
+Vascular BioSciences
+Accuri Cytometers
+Arisaph Pharmaceuticals
+Arrowhead Center
+Dermazone Solutions
+Handylab
+MICROMIDAS
+Nanospectra Biosciences
+PAX Scientific
+Singular Bio
+TECHNOLOGY RESEARCH
+Tapwave
+International Technology Center
+Kimberly-Clark Worldwide
+The Iams Company
+ATC Technologies
+ATTOSTAT
+Aurrion
+BHA Technologies
+BIND Therapeutics
+CI4 Technologies
+Cellular Research
+Continental Manufacturing
+Green Box Batteries
+Inaeris Technologies
+LIQUID X PRINTED METALS
+Midori USA
+Taiwan Semiconductor Manufacturing Company
+Wireless Environment
+adaptiveARC
+Roche Innovation Center Copenhagen A/S
+Atonometrics
+Auterra
+Ethicon Endo-Surgery
+Global Solar Water Power Systems
+Lumenco
+Manta Instruments
+Metabolix
+Nanoridge Materials
+Simple Approach Systems
+Tessera
+Wizard Labs
+Ziptronix
+Banpil Photonics
+TRITON MICROTECHNOLOGIES
+The Babcock & Wilcox Company
+540 Grid Solutions
+Easel Biotechnologies
+Handstand Innovations
+Leap Frogg
+Longhorn Vaccines and Diagnostics
+Nexcom Technology
+Propagation Research Associates
+SD Technologies
+SNS NANO FIBER TECHNOLOGY
+Strategic Solar Energy
+TOMOWAVE LABORATORIES
+The Carbon Cable Company
+Theraclone Sciences
+VINYLAST
+Cedar Ridge Research
+Global Filtration Systems
+Kabushikikaisha Toshiba
+ADVANCED CERAMIC FIBERS
+API Intellectual Property Holdings
+Atom Nanoelectronics
+Brightfield Transportation Solutions
+Cura Vac
+Express Imaging Systems
+Ion Power Group
+Nanotek Instruments
+Narsys
+Pardev
+Rapamycin Holdings
+Redwood Systems
+Reynolds Technologies
+Taxon Biosciences
+Tufts Medical Center
+Coloplast A/S
+IDEALAB
+Industrial Technology Research Institute
+Ricoh Company Limited
+Two Blades Foundation
+ALGETERNAL TECHNOLOGIES
+AVI BioPharma
+AVOGY
+Copernicus Therapeutics
+HNO Greenfuels
+Ibis Biosciences
+MBC Ventures
+Ovonic Battery Company
+Perkinelmer Holdings
+Planet ATE
+Proton Power
+Renewable Algal Energy
+SPICE SOLAR
+Stablcor Technology
+THE BOARD INSTITUTE
+TT Technologies
+Transposagen Biopharmaceuticals
+Vaxiion Therapeutics
+Verliant Energy
+NOVA PANGAEA TECHNOLOGIES LIMITED
+ADMA Products
+Adynxx
+Annam Biosciences
+Anterios
+Elcriton
+Enginuity Worldwide
+Genia Technologies
+GeoSynFuels
+Gracenote
+Graphene Technologies
+Industrial Solar Heating Systems
+LUCERA LABS
+Lyotropic Therapeutics
+Magnolia Optical Technologies
+Microsurge
+Morpho
+Nanotech Biomachines
+Nokomis
+Nordic Technologies
+PluroGen Therapeutics
+Renewable Power Conversion
+Senaya
+SixPoint Materials
+Solight Solar
+Suganit Systems
+Tekkware
+ZENA TECHNOLOGIES
+Cooper Technologies Company
+Green Extraction Technologies
+Research Triangle Institute
+SUNSALUTER
+Sanuvox Technologies
+Ablexis
+Alliance for Sustainable Energy
+Astech
+Avello Bioenery
+Building Envelope Innovations
+Disney Enterprises
+ENI Technology
+Ford Global Technologies
+Foret Plasma Labs
+GROW ENERGY
+HM3 Energy
+HTS
+MicroContinuum
+Nanoquantum Sciences
+Neural Signals
+Neutronic Perpetual Innovations
+New Technology Ventures
+OAS Design Group
+SOLARTONIC
+Synthezyme
+THE SWEET LIVING GROUP
+TP Solar
+Tensor
+Vindico NanoBioTechnology
+Total Marketing Services
+Advanced Cardiovascular Systems
+Advanced Fusion Technologies
+Cardiac Pacemakers
+CyboEnergy
+Dogwood Pharmaceuticals
+ENERGY ENGINEERING SYSTEMS
+Energen
+FULL CIRCLE BIOCHAR
+Gilead Connecticut
+Immunolight
+Integrated Solar Technology
+KR Design House
+LAVA ENERGY SYSTEMS
+Livetv
+Lux Bio Group
+Magnolia Solar
+Matrix Genetics
+Mattson Technology
+Micro Cooling Concepts
+NanoOncology
+Pharmatrophix
+Plant Sensory Systems
+PortaFire
+S&S X-Ray Products
+SOL-ELECTRICA
+Senga Advisors
+Sinton Consulting
+Sophoro Biotechnologies
+Terra Caloric
+True-Safe Technologies
+Anlinx
+BROOKLYN QUANTUM WORKS
+Monarch Power Corp
+Soliton Lasers
+Sun Synchrony
+GR Intellectual Reserve
+AFMODEL
+Aadigen
+Adlens Beacon
+Agienic
+Allertein Therapeutics
+Arch Biosurgery
+Areesys Technologies
+Avantor Performance Materials
+Bechtel Hydrocarbon Technology Solutions
+Bestway
+Biogenic Reagents Ventures
+Biotechnology Foundation
+Biozoom Technologies
+CA
+CellPrint IP Holding
+Clean Energy Labs
+Fezza Family Properties
+Flextronics AP
+GM Global Technology Operations
+GOSOLARLIFE
+Gilead Biologics
+IDEA TREE
+Immunopath Profile
+Industrial Science & Technology Network
+Interez
+Kiverdi
+LG Bionano
+MCI
+MIETAMARK GENETICS
+NANO CELL SYSTEMS
+NANOPHTHALMICS
+Nanocopocia
+NovaSolix
+Novus Technology
+POSiFA MICROSYSTEMS
+Peytant Solutions
+Professional Compounding Centers of America
+QUALCOMM MEMS Technologies
+QUSWAMI
+Rio Grande Valley Sugar Growers
+Schneider Electric Solar Inverters USA
+Schneider Electric USA
+Selkermetrics
+Shubin
+Siemens Industry
+Sinewatts
+The Charles Stark Draper Laboratory
+Toshiba America Electronic Components
+V35A Enterprises
+VMware
+Warsaw Orthopedic
+Western Digital Technologies
+kSep Systems
+nanoComposix
+Achushnet Company
+Advanced Aqua Group
+Avtaec Limited
+Bakersun
+Bayer Cropscience AG
+Brother Kogyo Kabushiki Kaisha
+ConocoPhillips Company
+EPCOS AG
+GREENFIELD MASTER IPCO LIMITED
+Kabushiki Kaisha Eighting
+Nokia Technologies Oy
+SHOW ME ENERGY
+Solaris Holdings Limited
+The Jackson Laboratory
+Toshiba Tec Kabushiki Kaisha
+Toyota Jidosha Kabushiki Kaisha
+VivaLnk Limited (Cayman Islands)
+Xenogenic Development Limited Liability Company
+Agency for Science
+Alencon Acquisition Co
+Altek
+Arizona Board of Regents
+Arizona Board of Regents
+BOE Technology Group Co
+Becton
+Beijing BOE Display Technology Co
+Board of Regents of the Nevada System of Higher Education
+Board of Regents
+Board of Trustees of Michigan State University and Vahid Sendijarevice
+Buckman Laboratories
+CP Kelco US
+Canon US Life Sciences
+Canon
+Carbon Research & Development
+Cargill
+Casio Computer Co
+Clean Power Research
+Colorado Seminary
+DNA20
+Da Yu Enterprises
+Dentsply
+Dongbu Hitek Co
+Eisai Co
+Envision Solar
+Florida State University Research Foundation
+Fuji Electric Co
+Fuji Xerox Co
+Furukawa Electric Co
+General Engineering & Research
+GlaxoSmithKline Biologicals
+HARMAN INDUSTRIES
+Her Majesty the Queen in right of Canada
+Hewlett-Packard Development Company
+Hon Hai Precision Industry Co
+Honda Motor Co
+Iowa State University Research Foundation
+J E WHITE
+KS CO
+Kansai Paint Co
+Katholieke Universiteit Leuven
+Kobe Steel
+Korea Kumho Petrochemical Co
+LG Display Co
+Laserline Mfg
+MANUFACTURING RESOURCES
+Macronix Co
+Magnolia Solar
+Minebea Co
+Murata Manufacturing Co
+NGK Spark Plug Co
+NXP
+Nippon Shokubai Co
+Nissan Motor Co
+OTSUKA PHARMACEUTICAL CO
+Pacific Light Technologies
+Panasonic Intellectual Property Management Co
+Photon Dynamics
+Praxair ST Technology
+Production Resource Group
+Prosoft
+RA Miller Industries
+RP Scherer Technologies
+Richtek Technology
+Rutgers
+Rutgers
+S C Johnson & Son
+SC Johnson & Son
+SAMSUNG DISPLAY CO
+SK Telecom Co
+SPC
+Samsung Corning Precision Materials Co
+Samsung Electro-Mechanics Co
+Samsung Electronics Co
+Samsung Electronics
+Samsung SDI Co
+Sanken Electric Co
+Sanyo Electric Co
+Semiconductor Components Industries
+Semiconductor Energy Laboratory Co
+Shenzhen China Star Optoelectronics Technology Co
+Shin-Etsu Chemical Co
+Siliconware Precision Industries Co
+Skidmore
+SonoGene
+St Jude Medical
+Stanley Electric Co
+Sumitomo Rubber Industries
+THEM
+Taiyo Ink Mfg Co
+Texas Research
+The Board of Trustees of the University of Alabama
+The Government of the United States of America as represented by The Secretary of The Department of Health and Human Services
+The Government of the United States of America as represented by the Secretary of Health and Human Services
+The Henry M Jackson Foundation for the Advancement of Military Medicine
+The Regents of the University of Colorado
+The Research Foundation of State University Of New York Research Development Services
+The United States of America
+Therapeutic Proteins
+Tokyo Ohka Kogyo Co
+US NUTRACEUTICALS
+UNIVERSITY OF MARYLAND
+Universal Leaf Tobacco Co
+University of Central Florida Research Foundation
+University of Florida Research Foundation
+University of Georgia Research Foundation
+University of Louisville Research Foundation
+University of Maryland
+Virginia Tech Intellectual Properties
+Winecom
+Wostec
+Yeda Research and Development Co
+Yissum
+646840 Alberta
+AAC Technologies Pte
+ABB Research
+ABB Technology
+ABL IP Holding
+AC
+ACACIA RESEARCH GROUP
+ACUCELA
+ADASA
+ADVANCED INNOVATION CENTER
+AGFA-GEVAERT NV
+ALSTOM Technology
+AMERICAN BIO ENERGY CONVERTING CORP
+APPLIED MATERIALS ISRAEL
+ASM IP HOLDING BV
+ASM IP Holdings
+ASML Netherlands BV
+AT&T
+ATOMERA
+AZ Electronic Materials (Luxembourg) SARL
+AbbVie
+Abbott Cardiovascular Systems
+Abbott Molecular
+Abbott Point of Care
+Access Business Group
+AccuRay
+Acer
+Adaptive Biotechnologies Corp
+Adeka
+Adobe Systems
+Aerosol Dynamics
+AgroFresh
+Algenol Biotech
+Alpha and Omega Semiconductor
+Altex Technologies
+Amberwave
+American Science and Technology
+American University of Beirut
+Amgen Fremont
+Amgen
+Ana G Mí©ndez University System
+Andritz
+Aneeve
+Anelva
+Antaya Technologies
+Apple
+Applied Genetic Technologies
+Arizona Board of Regents acting on behalf of Arizona State University
+Arizona Board of Regents on Behalf of the University of Arizona
+Arkema
+Arkival Technology Corp
+Armageddon Energy
+Assistance Pulique-HíÇpitaux de Paris
+Atleisure
+Atotech Deutschland
+Atrium Medical
+Auburn University
+Avago Technologies General IP (Singapore) Pte
+Avant Garde Therapeutics & Technologies
+Avery Dennison
+BG Negev Technologies and Applications
+BAE Systems Information and Electronic Systems Integration
+BASF Coatings
+BASF
+BASF Enzymes
+BASF Plant Science
+BAXALTA
+BCE
+BERKEN ENERGY
+BLANC VINEYARDS LLC
+BP North America
+BRIGHAM YOUNG UNIVERSITY
+BRIGHTLEAF TECHNOLOGIES
+BROADCOM
+BTPATENT
+BTU
+Baker Hughes
+Basell Polyolefine
+Bausch & Lomb
+Baxter
+Bayer Materialscience
+Baylor College of Medicine
+Bell Helicopter Textron
+Beryllium Discovery Corp
+Beth Israel Medical Center
+Bi-Modal
+Bioneer
+Biosense Webster (Israel)
+Biotta
+Bitrode
+Board of Trustees of Michigan State University
+Boehringer Ingelheim
+Boehringer Ingelheim Vetmedica
+Bosch Energy Storage Solutions
+Boston Scientific Neuromodulation
+Brandels University
+Brewer Science
+Bridgestone
+Brigham and Women's Hospital
+Brookhaven Science Associates
+Brother
+Brown University
+Butamax(TM) Advanced Biofuels
+CARBO Ceramics
+CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE
+CERION
+CITY UNIVERSITY OF HONG KONG
+CLEARSIGN COMBUSTION
+CNH Industrial America
+CNRS
+COOK MEDICAL TECHNOLOGIES
+COVERIS FLEXIBLES US
+CPC
+Cabot
+Cadtrak
+California Institute of Technology
+Callahan Cellular LLC
+Carl Zeiss Microscopy
+Carnegie Mellon University
+Case Western Reserve University
+Cbrite
+Cedars-Sinai Medical Center
+Celanese
+Celanese
+Central Iowa Health System
+Certain-teed
+Cetac Technologies
+Cetus
+Chevron Oronitz Company
+Chevron USA
+Child Laboratories
+Children's Hospital and Research Center at Oakland
+Children's National Medical Center
+China University of Petroleum-Beijing
+Chipmos Technologies
+Chiron
+Cima NanoTech Israel
+City of Hope
+Cleanvantage
+Clemson University
+Clemson University Research Foundation
+Coactive Drive
+Colorado School of Mines
+Colorado State University Research Foundation
+Columbia University
+Commissariat a l'Energie Atomique
+Commissariat a l'Energie Atomique et aux Energies Alternatives
+Community Power
+Compagnie Generale des Etablissements Michelin
+Conoco
+Conversant Intellectual Property Management
+Cook Biotech
+Cornell University
+Corning
+Council of Scientific and Industrial Research
+Crestovo
+Cristal USA
+Crowder College
+Crystal Solar
+Crystal Solar
+Crystalplex
+Custom Electronics
+Cymatics Laboratories Corp
+Cypress Semiconductor Corp
+D-Wave Systems
+DECA Technologies
+DIC
+DISCOVERYBIOMED
+DPx Holdings BV
+DSP Group
+Dana
+Danisco US
+Danmarks Tekniske Universitet
+Delavau
+Dell Software
+Denso
+Deutsches Krebsforschungszentrum Stiftung Des Offenlichen Rechts
+Dexerials
+Dialight
+Dialogic
+DiscoveRx
+Dolby Laboratories Licensing
+Dow AgroSciences
+Dow Corning
+Dow Global Technologies
+Dow Technology Investments
+Dr Reddy's Laboratories
+Drexel University
+DuPont Teijin Films US Limited Partnership
+Duke University
+Duquesne University of the Holy Ghost
+Dymax
+E Ink
+E I du Pont de Nemours and Company
+E I du Pont de Nemours and Company duPont Displays
+E Techorporation
+EI du Pont de Nemours and Company
+ECOSYNTHETIX
+ELC Management
+EMC
+EMD Technologies
+ENERGY INDEPENDENCE OF AMERICA CORP
+ENI SpA
+EXOS
+East China University of Science and Technology
+Eaton
+EchoStar Technologies
+Ecolab
+Ecole Normale Superieure de Cachan
+Ecole Polytechnique Federale De Lausanne
+Electronics and Telecommunications Research Institute
+Electrovaya
+Elwha
+Em-Tech
+Embro
+Emory University
+Empire Technology Development
+Envisionit
+Evernote
+Evoqua Water Technologies
+Exatec
+Excelsior Nanotech
+ExxonMobil Chemical Patents
+FLOW CONTROL
+FRONT EDGE TECHNOLOGY
+FUJIFILM
+Fairchild Semiconductor
+FastCAP Systems
+Fayetteville State University
+Federal Signal
+Ferric
+Ferro
+Fianium
+Fike
+Finisar
+FlashSiliconorporation
+Floadia
+Fluidigm
+Forsyth Dental Infirmary for Children
+Fred Hutchinson Cancer Research Center
+Friedrich-Alexander-Universitaet Erlangen-Nuernberg
+GDO
+GCP Applied Technologies
+GE-Hitachi Nuclear Energy Americas
+GEN-PROBE
+GENCO SCIENCES
+GENERAL MOTORS
+GLIKNIK
+GLOBALFOUNDRIES
+GLYCON
+GOAL ZERO
+GOLBA
+GOOGLE TECHNOLOGY HOLDINGS
+GREENHILL ANTIBALLISTICS
+Galemed
+Garrity Power Services
+Genesco
+Genzyme
+Georgetown University
+Georgia Tech Research
+Georgia-Pacific Gypsum
+Gestion Ultra
+Global Eagle Entertainment
+Global OLED Technology
+Glucan Biorenewables
+Google
+Grain Processing
+Grandis
+Greatbatch
+Greggory Tate Homrighous and Frank Bryan Homrighous
+Gtech
+H R D
+HAMAMATSU PHOTONICS KK
+HGST NETHERLANDS BV
+HTC
+Hadasit Medical Research Services & Development Company
+Hamilton Sundstrand
+Harris
+Heat Seal
+Helios Focus
+Henkel AG & Co KGaA
+Henry Ford Health Systems
+Heraeus Precious Metals North America Conshohocken
+Hewlett-Packard Indigo BV
+Hitachi High-Technologies
+Honeywell
+Hosiden
+Howard University
+Hoya
+Humanetics
+Hunt Energy Enterprises
+Hunter Douglas
+Hynix Semiconductor
+Hysitron
+IDEX Health & Science
+II-VI
+IMDS
+INDIANA UNIVERSITY RESEARCH & TECHNOLOGY
+INENTEC
+INFINEUM LIMITED
+INTEL IP
+INVISTA North America Sarl
+Icahn School of Medicine at Mount Sinai
+Ideal Power
+Illinois Institute of Technology
+InView Technology
+Incept
+Incyte Holdings
+Infineon Technologies Americas Corp
+Infinera
+Innolux
+Institut National de la Sante et de la Recherche Medicale (Inserm)
+Institut Pasteur
+Institute for Systems Biology
+Institute of Advanced Study
+Instron
+Intel
+Intellectual Keystone Technology
+Intercontinental Great Brands
+International AIDS Vaccine Initiative
+International Business Machines
+IntriEnergy
+Invensas
+Iogen
+JAC Products
+JFE STEEL
+JNC
+JOLED
+JSI Equipment Solutions
+JSR
+JX Nippon Mining & Metals
+John Hopkins University
+Johns Hopkins Univ
+KINO
+KJ BIOSCIENCES
+KLA-Tencor
+KOREA UNIVERSITY RESEARCH AND BUSINESS FOUNDATION
+KT
+KUBIX
+KYOCERA DOCUMENT SOLUTIONS
+Kajima
+Kaneka
+Kansas State University Research Foundation
+Kansei
+Kao
+Karsten Manufacturing
+Katholieke Universiteit Leuven
+Kent State University
+Kerr
+Kia Motors
+Kinetech Power Company
+King Electric Vehicles
+Kodak Alaris
+Koninklijke Philips NV
+Korea Advanced Institute of Science and Technology
+Korea Institute of Science and Technology
+Korea Research Institute of Bioscience and Biotechnology
+Korea Research Institute of Chemical Technology
+Kraton Polymers US
+Kronos
+Kureha
+Kyungpook National University Industry-Academic Cooperation Foundation
+L-3 Communications Cincinnati Electronics
+LATITUDE PHARMACEUTICALS
+LG Electronics
+LGS Innovations
+Lam Research
+Lattice Semiconductor
+Leigh University
+Lextar Electronics Corp
+Life Technologies
+Linne Industries
+Lintec
+Lockheed Martin
+Lof Solar
+Loma Linda University
+Los Angeles Biomedical Research Institute at Harbor-UCLA Medical Center
+Louisiana Tech Research
+Lumentum Operations
+Luna Innovations
+MAHLE
+MATERIALS ANALYSIS TECHNOLOGY (US) CORP
+MERCK SHARP & DOHME CORP
+MILLENIUM SYNTHFUELS
+Magna
+Mainstream Engineering Corp
+Marine Biotech
+Markel
+Mary Hitchcock Memorial Hospital
+Massachusetts Eye and Ear Infirmary
+Massachusetts Institute of Technology
+Mayo Foundation for Medical Education and Research
+McMaster University
+Medgenics Medical Israel
+Mediatek
+Medical Research Council
+Medicis Pharmaceutical
+Merck Patent
+Met Tech
+Metal Industries Research & Development Centre
+Michelin Recherche et Technique SA
+Michigan Technological University
+Microchip Technology
+Microsemi SoC
+Mintera
+Mississippi State University Research and Technology
+Mitsubishi Electric
+Mitsubishi Metal
+Momentive Performance Materials
+Momentive Performance Materials
+Monolithe Semiconductor
+Monsanto Technology
+Musco
+NANOBIO
+NANOPHARMACEUTICALS
+NATIONAL APPLIED RESEARCH LABORATORIES
+NATIONAL INSTITUTE FOR MATERIALS SCIENCE
+NATIONAL TSING HUA UNIVERSITY
+NDSU Research Foundation
+NEC
+NEWFIELD THERAPEUTICS
+NICHIA
+NOK
+NORTHWESTERN UNIVERSITY
+NOVA Chemicals (International) SA
+Nagoya Institute of Technology
+Nanao
+Nano Technics Company
+NanoGram
+Nanostatics
+National Cheng Kung University
+National Education
+National Health Research Institutes
+National Institute of Information and Communications Technology (NIICT)
+National Institutes of Health
+National Research Council of Canada
+National Security Agency
+National Sun Yat-Sen University
+NeoPhotonics
+NeoVision
+Nestec S A
+New Jersey Institute of Technology
+New York University
+Newdoll Enterprises
+Newport
+Nikon
+Nippon Chemi-Con
+Nokia
+Nordson
+North Carolina State University
+Northrop Grumman Systems
+Novozymes
+Novus Energy
+Nthdegree Technologies Worldwide
+Nvidia
+OBI
+OHIO STATE INNOVATION FOUNDATION
+OLYMPUS
+Oki Data
+Omron
+One Earth Designs
+Optodot
+Oracle
+Oregon Health & Science University
+Oregon State University
+Ormat Technologies
+Osram Sylvania
+Owens-Brockway Glass Container
+PACCAR
+PLEX
+PQ
+Pacific Industrial Development
+Palo Alto Research Center
+Panasonic Intellectual Property of America
+Pansonic
+Parker-Hannifin
+Pegatron
+Peking University
+Pelican Imaging
+Pentair Thermal Management
+PeterBrod Corp
+Pfizer
+Pharmion
+Philip Morris USA
+Pioneer Hi Bred
+Polaris Products
+PolyOne
+Polysar
+Polytechnic Institute of New York Unversity
+President and Fellows of Harvard College
+Proterra
+Purdue Research Foundation
+Pyrexar Medical
+QUALCOMM
+Qiagen
+Quallion
+Qualsig
+Quantum Materials
+QuantumScape
+Quest Diagnostics Investments
+RJ Reynolds Tobacco Company
+RINAT NEUROSCIENCE CORP
+ROM
+Raytheon BBN Technologies Corp
+Regents of the University of Minnesota
+Reliance Controls
+Renesas Electronics
+Renewable Opportunities
+RenovaCare Sciences Corp
+Rensselaer Polytechnic Institute (RPI)
+Research Development Foundation
+Research Foundation of State University of New York
+Research Foundation of the City University of New York
+Rhode Island Hospital
+Richard H Sherratt and Susan B Sherratt Revocable Trust Fund
+Robert Bosch
+Roche Diagnostics
+Rohm and Haas Chemicals
+Rohm and Haas Electronic Materials
+Roll-N-Lock
+Rosemount Aerospace
+Rush University Medical Center
+SABIC GLOBAL TECHNOLOGIES BV
+SAE Magnetics (HK)
+SAP SE
+SEIKO NPC
+SEaB Energy Holdings
+SII Semiconductor
+SK Hynix
+SOLENA FUELS
+STCUNM
+STMicroelectronics SA
+SYNTHOMER USA
+Sagacious Investment Group LLC
+Saint-Gobain Performance Plastics
+SanDisk 3D
+SanDisk Technologies
+Sandia
+Sanford-Burnham Medical Research Institute
+Santa Clara University
+Santoku
+Schlumberger Technology
+Seagate Technology
+Seetron
+Seiko Epson
+Seiko Instruments
+Selas Heat Technology Company
+Semiconductor Manufacturing (Shanghai)
+Semics
+Semileds Optoelectronics Co
+Sensor-Kinesis
+Shimadzu
+Sichuan University
+Siemens
+Sigma-Aldrich Co
+Silicon Genesis
+Silicon Space Technology Corp
+Silicor Materials
+Simbol
+Sion Power
+SolAero Technologies Corp
+Sola USA
+SolaBlock
+National Cheng Kung University
+Solaire Generation
+Solar Junction
+Solar-Tectic
+SolarCity
+SolarLego
+SolarWorld Americas
+Solutia
+Sony
+Sony Interactive Entertainment America
+South Dakota Board of Regents
+St Jude Children's Research Hospital
+St Microelectronics
+Stanford University
+Starlight Energy Holdings
+Starsource Scientific
+Stellenbosch University
+Stevens Institute of Technology
+Stichting Energieonderzoek Centrum Nederland
+Sumco
+Sun Chemical
+Sun Drilling Products
+SunCulture Solar
+SunLink
+SunPower
+Sungevity
+Sungkyunkwan University Foundation for Corporate Collaboration
+Sunlight Photonics
+Sunnybrook Health Sciences Centre
+Sunrun South
+Supremex
+Surebeam
+Sutter Bay Hospitals
+Symantec
+Syracuse University
+Sysmex
+TDK
+THE TRUSTEES OF DARTMOUTH COLLEGE
+THE UNIVERSITY COURT OF THE UNIVERSITY OF GLASGOW
+THYSSENKRUPP INDUSTRIAL SOLUTIONS
+TIME WARNER CABLE ENTERPRISES
+TMC
+TRANE
+TRIDONIC & CO KG
+Takara Bio
+Tamura
+Tanaka Kikinzoku Kogyo KK
+Tau Therapeutics
+Teal Sales
+Texas Instruments Deutschland
+Texas Instruments
+Texas State University-San Marcos
+Texas Tech University
+Th United States of America as represented by the Secretary of the Army
+The Arizona Board of Regents
+The Arizona Board of Regents of Behalf of the University of Arizona
+The Board of Regents of the University of Nebraska
+The Board of Regents of the University of Oklahoma
+The Board of Supervisors of Louisiana State University and Agricultural and Mechanical College
+The Board of Trustees for the Leland Stanford Junior University
+The Board of Trustees of Southern Illinois University
+The Board of Trustees of the Leland Stanford Junior University
+The Board of Trustees of the University of Arkansas
+The Board of Trustees of the University of Illinois
+The Catholic University of Korea
+The Children's Hospital of Philadelphia
+The Children's Medical Center Corp
+The Cleveland Clinic Foundation
+The of Mercer University
+The Curators of the University of Missouri
+The Eastern Co
+The Florida University Board of Trustees
+The Gates
+The General Hospital
+The George Washington University
+The Government of the United States as represented by the Secretary of the Department of Health and Human Services
+The Governors of the University of Alberta
+The Hong Kong University of Science and Technology
+The J David Gladstone Institutes
+The Methodist Hospital System
+The National Institute of Standards and Technology
+The Ohio State University
+The Ohio State University Research Foundation
+The Paymaster
+The Penn State Research Foundation
+The Regents of the University of California
+The Regents of the University of Colorado
+The Regents of the University of Michigan
+The Research Foundation for the State University of New York
+The Rockefeller University
+The Royal Institution for the Advancement of Learning/McGill University
+The Scripps Research Institute
+The State of Oregon Acting by and through the State Board of Higher Education on Behalf of Oregon State University
+The Texas A&M University System
+The Trustees of Boston College
+The Trustees of Boston University
+The Trustees of Columbia University in the City of New York
+The Trustees of the Stevens Institute of Technology
+The Trustees of the University of Pennsylvania
+The United States Goverment as represented by the Administrator of the Environmental Protection Agency
+The United States Government as Represented by the Department of Veterans Affairs
+The United States of America as Represented by the Administrator of the National Aeronautics and Space Administration
+The United States of America as repesented by the Secretary of Commerce
+The United States of America as represented by the Secretary of Agriculture
+The United States of America as represented by the Secretary of the Air Force
+The United States of America as represented by the Secretary of the Navy
+The Unites States of America as represented by the Department of Energy
+The University of Akron
+The University of Chicago
+The University of Cincinnati
+The University of Connecticut
+The University of Houston System
+The University of Liverpool
+The University of Maryland
+The University of North Carolina at Chapel Hill
+The University of Pittsburgh
+The University of Texas at Arlington
+The University of Toledo
+The University of Western Ontario
+Thermo Fisher Scientific
+Thermorefinery Technologies
+Thermoretinary Technologies
+Thomas Jefferson University
+Thoratec
+Thorn Bioscience
+Ticona
+Toda Kogyo
+Tohoku University
+Toray Industries
+Tosoh
+Traex
+Transtron Solutions
+Triune IP
+Trustees of Princeton University
+Trustees of Tufts College
+Tsinghua University
+Tufts University
+Turf Group
+Turtle Beach
+Tyco Electronics
+Tyco Electronics UK
+U S MICROPOWER
+US Army Medical Research and Material Command
+US Smokeless Tobacco Company
+UAB Research Foundation
+UCB Pharma SA
+UNISANTIS ELECTRONICS SINGAPORE PTE
+UNIVERITY OF MASSACHUSETTS
+UNIVERSITY OF NORTH TEXAS
+UOP
+UTC FIRE & SECURITY
+UVIC INDUSTRY PARTNERSHIPS
+Uni-Charm
+Unifrax I
+Uniseal Solutions
+Unistrut Corp
+United Microelectronics Corp
+United Technologies
+Unity Semiconductor
+Universal Display
+Universite d'Aix-Marseille II
+University Court of the University of St Andrews
+University of British Columbia
+University of Calcutta
+University of Dayton
+University of Dundee
+University of Hull
+University of Iowa Research Foundation
+University of Kansas
+University of Kentucky Research Foundation
+University of Maine System Board of Trustees
+University of Manitoba
+University of Massachusetts
+University of Memphis Research Foundation
+University of Miami
+University of MiamiŒ„Diabetes Research Institute
+University of North Carolina
+University of North Dakota
+University of Notre Dame Du Lac
+University of Oregon
+University of PittsburghŒ„of the Commonwealth System of Higher Education
+University of Puerto Rico
+University of Rochester
+University of South Florida
+University of Southern California
+University of Tennessee Research Foundation
+University of Utah Research Foundation
+University of Virginia Patent Foundation
+University of Washington
+University of Washington through its Center for Commercialization
+University of Wyoming
+VANDERBILT UNIVERSITY CENTER FOR TECHNOLOGY TRANSFER AND COMMERCIALIZATION
+VEECO PRECISION SURFACE PROCESSING
+VERILY LIFE SCIENCES
+VERLASE TECHNOLOGIES
+VIASAT
+VINDICO NANOBIO TECHNOLOGY
+Vanderbilt University
+Virginia Commonwealth University
+Visa Business Machines
+Vizio
+Volterra Semiconductor
+Vorbeck Materials
+WCA Group
+WELL Shield
+WHATSAPP
+Wake Forest University
+Washington State University
+Washington State University Research Foundation
+Washington University
+Washington University in St Louis
+Waters Technologies
+Wave Energy Conversion of America
+Wayne State University
+Wenger
+West Virginia University
+Whitehead Institute for Biomedical Research
+William Marsh Rice University
+Winbond Electronics Corp
+Wisconsin Alumni Research Foundation
+Women and Infants' Hospital Rhode Island
+Wright State University
+Wyatt Technology
+X DEVELOPMENT
+Xerox
+Xintec
+Yageo
+Yale University
+Yamaha
+Z124
+ZIH Corp
+Zeno Semiconductor
+Zenon Technology Partnership
+Zephyr Energy Systems
+Zoetis Services
+Zygo
+eSionic Corp
+iNanoBio
+mVerify
+nLIGHT Photonics
