@@ -1,10 +1,10 @@
 import csv
 import re
 
-f_in = open('/Users/sarora/dev/EAGER/data/patents/assignee_extract.csv')
+f_in = open('data\\patents\\assignee_clnd.csv')
 csv_in = csv.reader(f_in)
 
-f_out = open('/Users/sarora/dev/EAGER/data/patents/assignee_clnd.csv', 'w')
+f_out = open('data\\patents\\assignee_clnd2.csv', 'w')
 csv_out = csv.writer(f_out)
 
 for row in csv_in:
