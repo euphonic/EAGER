@@ -1,0 +1,215 @@
+Menu 
+Products
+kSA 400
+kSA BandiT
+kSA BandiT PV
+kSA MOS
+kSA MOS Ultra/ThermalScan
+kSA ICE
+kSA RateRat Pro
+kSA SpectraTemp
+kSA Scanning Pyro
+kSA Emissometer
+kSA Accessories
+Thin-film Characterization Services
+Applications
+Molecular Beam Epitaxy (MBE)
+Metalorganic Chemical Vapor Deposition (MOCVD)
+Sputtering
+Thermal and E-beam Evaporation
+Physical Vapor Deposition (PVD)
+PLD
+Support
+Product Support
+Material Properties
+References
+Article References
+Technical Videos
+Company Videos
+Company
+About Us
+k-Space Representatives and Distributors
+Newsletters
+Careers
+Customers
+Contact Us
+News
+Newsletters
+2018 Conferences and Trade Shows Schedule
+News
+Newsletters
+Trade Shows
+k-Space 
+Associates, Inc.
+Products
+::
+kSA 400
+::
+kSA BandiT
+::
+kSA BandiT PV
+::
+kSA MOS
+::
+kSA MOS Ultra/ThermalScan
+::
+kSA ICE
+::
+kSA RateRat Pro
+::
+kSA SpectraTemp
+::
+kSA Scanning Pyro
+::
+kSA Emissometer
+::
+kSA Accessories
+::
+Thin-film Characterization Services
+::
+Applications
+::
+Molecular Beam Epitaxy (MBE)
+::
+Metalorganic Chemical Vapor Deposition (MOCVD)
+::
+Sputtering
+::
+Thermal and E-beam Evaporation
+::
+Physical Vapor Deposition (PVD)
+::
+PLD
+::
+Support
+::
+Product Support
+::
+Material Properties
+::
+References
+::
+Article References
+::
+Technical Videos
+::
+Company Videos
+::
+Company
+::
+About Us
+::
+k-Space Representatives and Distributors
+::
+Newsletters
+::
+Careers
+::
+Customers
+::
+Contact Us
+::
+News
+::
+Newsletters
+::
+2018 Conferences and Trade Shows Schedule
+::
+Product
+kSA BandiT
+Repeatable and Accurate Temperature Measurement
+Product
+kSA MOS
+2D Real-Time, In Situ Film and Thermal Stress Monitoring
+Product
+ kSA MOS Ultra/Thermal-Scan
+2D Film Stress and Absolute Curvature Mapping 
+Product
+kSA ICE
+Real-Time, 
+In Situ
+ Process Monitoring and Control for MOCVD
+Product
+kSA BandiT PV 
+In-line PV Process Monitoring to Increase Performance and Yield
+Product
+kSA RateRat
+Real-time Thickness Monitoring of Multilayer Thin Films
+Product
+kSA 400
+The World's Leading Analytical RHEED System
+Product
+kSA SpectraTemp
+Absolute Temperature Made Absolutely Easy!
+Product
+kSA Scanning Pyro
+Full Carrier Temperature Maps at the Click of a Button!
+Product
+kSA Emissometer
+Ex Situ MOCVD Carrier Characterization
+Leaders in Custom and Thin-Film Metrology Solutions for Research, Development, and Production
+k-Space Associates, Inc. is a leading manufacturer of in-line, 
+in situ
+, and 
+ex situ
+ metrology tools for the semiconductor, thin-film, photovoltaic (PV), solar, automotive, glass, and building materials industries. Our tools and custom metrology solutions are in research and production facilities around the world.
+What's New at k-Space
+
+													11/07/2018													
+
+														New In-Line Metrology Solution for the Building Products Industry														
+
+													10/22/2018													
+
+														Atomic Absorption Spectroscopy Tool Development Continues with the Addition of Soma Perooly														
+
+													10/09/2018													
+
+														k-Space Associates, Inc. grows in-line sales revenue through Q3 by 26 percent														
+What do you want to measure?
+RHEED Analysis
+Wafer and Film Temperature
+Thin-film Stress and Strain
+Wafer Curvature, Bow, and Tilt
+Surface Roughness and Quality
+Film Thickness and Deposition Rate
+Photovoltaics
+Wafer Carrier Characterization
+Let us measure for you
+World Class Technical Support
+We take pride in providing the best technical support in the industry. No automated queues, no slow response times. When you call, you’ll always get a friendly k-Space person to direct your call to the appropriate engineer. Or, contact us via email – we guarantee we’ll respond within 1 business day. 
+Contact us 
+today so we can discuss your thin-film metrology needs.
+We look forward to hearing from you!
+Curious about our company? Check out our video featuring our facility, our people and where we turn ideas into reality!
+ Take a Tour of k-Space
+What We Do
+For industrial applications, k-Space is known for its ability to provide robust data and analysis for in-line solutions in production environments. k-Space works side by side with the customer to understand their specific needs, and then develops a custom solution to meet measurement requirements. This includes technology, software, data analysis, customization, automation of measurements, and integration with existing systems.
+For the thin-film, semiconductor and photovoltaic (PV) industries, k-Space metrology tools focus on real-time data acquisition, processing, and analysis of nearly all deposition parameters of importance. These parameters include wafer and film temperature, thin-film stress and strain, wafer curvature, bow and tilt, surface roughness and quality, film thickness and deposition rate, optical band gap and atomic spacing. We also supply 
+ex situ
+ wafer and surface analysis tools that perform full curvature, stress, and wafer bow mapping on up to 300mm wafers.
+Our tools are used in today’s most advanced thin-film deposition and processing applications within compound semiconductor, silicon semiconductor and photovoltaic advanced thin film production and R&D.  Sophisticated software analysis and reporting capabilities provide information to better understand tomorrow’s electronic and optoelectronic devices, or to provide online control during mass production to enhance yield. Tailored optics and fully integrated solutions have been designed for simple mounting and non-invasive monitoring of advanced deposition processes such as: MOCVD, MBE, sputtering, thermal and e-beam evaporation, and PLD.
+
+			k-Space Associates, Inc.
+
+			2182 Bishop Circle East, Dexter, MI 48130 USA
+ 
+			tel: (734) 426-7977 
+
+			fax: (734) 426-7955 
+
+			
+			© 2018 k-Space Associates, Inc.
+Site map
+ | 
+Privacy policy
+Sign up for the k-Space eNewsletter
+Email
+*
+CAPTCHA
+Consent
+I agree to my personal data being stored and used to receive the newsletter.
+Email
+This field is for validation purposes and should be left unchanged.
+ jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [12, 1]) } ); 
+Connect with k-Space

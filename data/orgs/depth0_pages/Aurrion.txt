@@ -1,0 +1,152 @@
+
+    var _sdiGatekeeperEnvironmentOverride = "env-Asurion.comNew";
+
+Phone Insurance, Extended Warranty & Tech Support | Asurion
+.cff-post-links { display: none;}
+ .wpb_animate_when_almost_visible { opacity: 1; }
+File or Track a Claim 
+Soluto
+®
+ Service
+Mobile Protection
+Extended Warranty
+Our Difference
+Blog
+About
+Who We Are
+SMB
+Careers
+Reviews
+Newsroom
+Awards
+Partner with Us
+Business Insights
+Leadership
+Contact Us
+Hit enter to search
+Our Services:
+Phone Insurance
+Warranty
+Soluto Service
+Why Asurion
+Quick Links:
+File or Track a Claim 
+FAQs - Phone Insurance
+FAQs - Warranty​
+FAQs – Soluto
+Contact Us
+Careers​
+Supporting the tech that keeps you connected.
+Support
+Discover Soluto Service
+Soluto service helps you learn, grow and do more with your technology.
+Protect
+Explore Mobile Protection
+We’re the experts you trust to protect the technology in your life.
+Extend
+Learn about Extended Warranties
+Protect the products you rely on every day.
+Get more out of your connected life.
+Asurion is a Diversity Game Changer
+Asurion is the proud recipient of the Nashville Tech Council’s 2018 Diversity Game Changer award.
+How to improve iPhone battery life
+Does it seem like your iPhone battery dies way too quickly? Are you sick of having to charge it multiple times each day?
+Connected Wellness: Healthy habits and helpful tech
+Asurion’s in -house wellbeing expert and yogi, Nini, walks us through a few wellness goals and how technology can help us achieve them.
+Asurion is a Diversity Game Changer
+Asurion is the proud recipient of the Nashville Tech Council’s 2018 Diversity Game Changer award.
+How to improve iPhone battery life
+Does it seem like your iPhone battery dies way too quickly? Are you sick of having to charge it multiple times each day?
+Connected Wellness: Healthy habits and helpful tech
+Asurion’s in -house wellbeing expert and yogi, Nini, walks us through a few wellness goals and how technology can help us achieve them.
+Phone Insurance: How to File a Claim
+Losing or breaking your smartphone is extremely frustrating.  1 in 4 people will have their phone lost, stolen or damaged this year*. Therefore, mobile device protection is important in case your phone were to meet one of these unfortunate fates. Filing a claim for a replacement device with Asurion is quick and easy, getting you reconnected fast.
+Read more
+What our customers say
+Our customers rate us
+4.8 stars | 13,000,000+ REVIEWS
+TRUSTSCORE 9.4 | 22,000+ REVIEWS
+Google
+4.7 stars | 11,000+ REVIEWS
+Amazon
+4.6 stars | 170,000+ REVIEWS
+Join the conversation
+Follow us for the latest tips, news and more.
+Follow @Asurion
+Asurion
+ 1 day ago 
+Should you use the new Waze Carpool app instead of Uber and Lyft? 
+... 
+See More
+See Less
+Is the new ride sharing app from Waze better than Uber and Lyft?
+techlife.asurion.com
+We tested it out to see what the buzz is all about. 
+View on Facebook
+·
+Share
+Share on Facebook
+Share on Twitter
+Share on Google Plus
+Share on Linked In
+Share by Email
+Likes:
+26
+Shares:
+2
+Comments:
+4
+Comment on Facebook
+Don’t waste your money. This company is a joke.
+Thanks. I just bought a new laptop and the BX tried to sell me a plan through Asurion for two years for $100. I saw a plan on Amazon for four years for $130.
+How do I buy a protection plan
+Load more
+View on Facebook
+We love hearing from you.
+See More Reviews
+Quick Links:
+Contact Us
+Careers
+FAQs
+Reviews
+Newsroom
+Soluto
+®
+ Service
+File a Claim
+Mobile Protection
+Extended Warranty
+Our Difference
+Blog
+About
+Who We Are
+Careers
+Reviews
+Newsroom
+Awards
+Partner with Us
+Business Insights
+Leadership
+Contact Us
+Connect With Us:
+We're here 24/7
+File your claim online any time, day or night.
+File or Track a Claim
+© Asurion 1992–2018. All Rights Reserved.
+Terms of Use
+Privacy Policy
+Trademarks
+Site Map
+Government Information
+UK Anti-Slavery Statement
+I need help with my...
+Got it.
+ Click below to go to the 
+ Claim Center.
+Ok, take me there!
+Did you lose your phone? You can try to locate it (and avoid paying a deductible) at the 
+<
+ Back
+new UISearch( document.getElementById( 'sb-search' ) );
+new UISearch( document.getElementById( 'sb-search-footer' ) );
+_satellite.pageBottom();

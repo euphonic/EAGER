@@ -1,0 +1,704 @@
+ Insights
+Features
+Spotlights
+Applications
+Events
+Media
+Archives
+ Products
+Systems
+IFCs
+Reagents
+Custom Assays
+Software
+C1 Script Hub
+Catalog
+ Support
+Access Array
+Biomark & EP1
+C1
+Callisto
+CyTOF & Helios
+Hyperion Imaging System
+Juno
+Polaris
+Publications
+Training
+Services
+Contact
+ Account
+Account
+Sign Out
+Forgot password?
+Sign In
+Register
+Sign in to your account to access order status, past orders, and discussions.
+If you don't have an account, please sign up and start one today!
+ Reset password
+Enter your e-mail address and we'll email you a reset link.
+Back
+Reset
+ Systems
+Access Array
+Biomark HD
+C1
+EP1
+Helios, a CyTOF System
+Hyperion Imaging System
+Juno
+Polaris
+ Insights
+Features
+Spotlights
+Applications
+Events
+Media
+Archives
+ Products
+Systems
+IFCs
+Reagents
+Custom Assays
+Software
+C1 Script Hub
+Catalog
+ Support
+Access Array
+Biomark & EP1
+C1
+Callisto
+CyTOF & Helios
+Hyperion Imaging System
+Juno
+Polaris
+Publications
+Training
+Services
+Contact
+About
+Careers
+Contact
+Investors
+Legal
+Press
+US
+CN
+JP
+Type to search
+
+                            Ready. Checkpoint. GO.
+
+                            Get a head start with the expanded Advanta IO Gene Expression Workflow.
+
+                            Deciphering T Cell Diversity in the Tumor Microenvironment
+
+                            Evan Newell on decoding immune cell heterogeneity with mass cytometry
+
+                            Quality RNA Means Better Cancer Research
+
+                            Improve profiling of precious samples using the Advanta FFPE RNA Extraction Kit
+
+                            CopyCount-CNV Software
+
+                            Convert qPCR data from Biomark to absolute quantification and DNA copy number
+
+                            Webinar | Understanding the Immune Composition
+
+                            and Therapeutic Vulnerabilities of Human Lung Cancer using Imaging Mass Cytometry™
+AMP 2018 Annual Meeting & Expo
+
+                        November 1–3, 2018 | Henry B. Gonzalez Convention Center, San Antonio, Texas
+SITC 2018
+
+                        November 7-11, 2018 | Walter E. Washington Convention Center, Washington, DC
+Switch
+Switch
+Switch
+Switch
+Switch
+Switch
+Switch
+Ready. Checkpoint. GO.
+Get a head start with the expanded Advanta IO Gene Expression Workflow.
+Feature
+Gene expression profiling of the tumor microenvironment has proven effective in measuring immune response during research in cancer progression and therapeutic response. Preconfigured quantitative PCR (qPCR) panels containing hundreds of gene targets represent a potential solution, but can require significant time and resources to implement in the laboratory and can be difficult to customize for specific experimental needs.
+
+The Advanta™ IO Gene Expression Assay
+ workflow was designed to meet this need, detecting 170 gene expression markers involved in checkpoint therapeutic response. Ideal for accelerating the identification of potential predictive biomarker signatures of checkpoint immunotherapeutic response, the Advanta IO Gene Expression Assay was developed in collaboration with leading researchers from academia and biopharma to provide the right balance of biomarker breadth, assay flexibility and workflow efficiency.
+
+As an expanded workflow solution, we now offer an optimized 
+Advanta FFPE RNA Extraction Kit
+, which produces high-quality RNA from precious tumor samples and improves the sensitivity of tumor transcript detection. As an added benefit, a synthetic template representing the amplification targets of all 170 genes is also available as a positive control. When using this new kit and control together with the Advanta IO Gene Expression Assay on the Biomark™ HD system, researchers can accurately assess 24 to 96 tumor samples at a time with high confidence and efficiency.
+
+Completing the workflow, the 
+GO Immuno-Oncology Workbench
+ was developed by GenomOncology to provide powerful, flexible and intuitive analysis of immuno-oncology datasets. Now available from Fluidigm, the GO Immuno-Oncology Workbench enables researchers to unlock new clinical insights from translational immuno-oncology studies, including the identification of meaningful gene expression biomarkers that correlate with therapeutic response.
+
+“The GO Immuno-Oncology Workbench is a powerful software tool that enables comprehensive analysis of immuno-oncology cohorts, integrating molecular and phenotypic data together with immuno-oncology-specific annotations to power translational studies,” said Manuel Glynias, CEO of GenomOncology. “We are excited to see the new insights uncovered using this comprehensive approach, which we we offer in conjunction with Fluidigm to empower the growing immuno-oncology community.”
+
+“Fluidigm is the partner of choice within the immuno-oncology research community, enabling deep interrogation of the tumor microenvironment and immune response with mass cytometry,” said Chris Linthwaite, President and CEO of Fluidigm. “In partnership with GenomOncology, we are expanding our immuno-oncology gene expression offering to the cancer community with a full microfluidics-based workflow solution from RNA extraction to data analysis. By providing a comprehensive view of tumor immunity, utilizing microfluidics and mass cytometry technologies, we are empowering researchers to uncover unique health insights that could transform the future of cancer care.”      
+
+Related Applications
+
+                        Gene Expression
+Related Products
+
+                        Biomark HD
+Deciphering T Cell Diversity in the Tumor Microenvironment
+Evan Newell on decoding immune cell heterogeneity with mass cytometry
+Spotlight
+Understanding the full complexity of the immune system and its response to infections and diseases, especially in cancer, has eluded researchers for decades. Whether analyzing blood or tissue samples, investigators have struggled to categorize the heterogeneity found in the T cell composition of different tumors.
+
+ Compounding the challenge, T cell diversity comes in many forms, such as antigen specificity, differentiation states, functional characteristics and trafficking receptor profiles. Deciphering this diversity is necessary to understand the mechanisms behind cancer progression and immunotherapy response.
+
+ In a recently published 
+paper
+ in 
+Nature
+, Evan Newell, PhD, and colleagues identify a potential biomarker of tumor-antigen specificity and provide a new perspective on the heterogeneity of T cells in the tumor microenvironment. Newell led this research as a principal investigator at the Singapore Immunology Network (SIgN). First author Yannick Simoni, PhD, formally a senior research fellow at Singapore’s Agency for Science, Technology and Research (A*STAR), accumulated data for more than 140 different tumor samples from patients with lung and colorectal cancer to search for correlations between this heterogeneity and various characteristics of the patient samples.
+
+ “CyTOF technology has a really unique niche for interrogating the tumor microenvironment,” said Newell. “It has relatively high throughput and high dimensionality, allowing us to open up a lot of doors.”
+
+ Newell’s lab developed novel approaches for identifying and characterizing antigen-specific T cells. In this paper, his group used MHC tetramer staining in conjunction with mass cytometry for in-depth analysis of cellular phenotype and function.
+
+ His group and others “have been stuck on saying, ‘It’s crazy. There are so many different types of immune cells.’ And you can use all kinds of fancy analyses to show that it’s very diverse,” Newell said. “But we’ve taken it a little bit further by getting to some simple correlates of clinical states.”
+
+ Newell and his team used mass cytometry that relies on time-of-flight mass spectrometry (CyTOF® technology) to simultaneously assess antigen specificity and deep phenotypic characteristics of T cells. The resulting data shows that T cell populations infiltrating lung and colorectal tumors may be specific for tumor antigens or for a wide range of epitopes unrelated to cancer, such as viral antigens. Moreover, he discovered that these bystander T cells have diverse phenotypes that overlap with tumor-specific cells and lack CD39 expression.
+
+ CD39: A more accurate marker of tumor antigen specificity 
+ Newell and Simoni’s discovery of a more accurate marker for tumor antigen specificity relied on a multiplexed approach that allowed them to simultaneously profile T cells within the tumor microenvironment for phenotype and function. Instead of focusing only on tumor-reactive cells, the team looked at all antigen-specific T cells and was able to identify cancer-unrelated antigen-specific T cells in tumors.
+
+ “We found a few examples of tumor-specific T cells, and then we also had examples of T cells specific for cancer-unrelated antigens, like the flu and Epstein-Barr virus. This was key in trying to interpret what all this heterogeneity meant,” Newell said.
+
+ The next step was to determine what was different about the non-cancer-specific T cells. Simoni observed that many of them expressed what typically have been identified as tumor-infiltrating T cell markers, such as CD69 and PD-1, which may have a role in tumor reactivity.
+
+ “The striking thing was that we saw hardly any expression of CD39, which is known as being immunosuppressive,” he said.
+
+ Since their findings showed that the tumor-specific T cells expressed CD39, Simoni could build a case for CD39 as a more accurate marker of tumor antigen specificity. Newell now believes CD39 also could be useful as a predictor of response to checkpoint blockade, and as a starting point for the development of novel therapeutics.
+
+ Advantage to using CyTOF technology for immune cell profiling 
+ Newell started using mass cytometry for studying human T cell response as a postdoctoral student at Stanford University more than six years ago. He attributes much of his success to the technology’s ability to simultaneously look at many phenotypic markers and antigen specificity, allowing his team to better understand the number of distinct cellular phenotypes and how they are related to each other.
+
+ In the 
+Nature 
+paper described here, Newell also used whole transcriptome RNA-seq to validate his mass cytometry findings. He believes the two techniques make a powerful combination for identifying new markers associated with specific cell populations. However, Newell explains that compared to RNA-seq, mass cytometry “can more accurately measure protein and do it on a larger number of cells, which gives a much higher resolution when describing cellular heterogeneity.”
+
+ CyTOF applications beyond cancer research 
+ Newell’s ultimate goal is to gain a better understanding of how the human immune system works, and he thinks the best way to accomplish this is by searching for co-variations.
+
+ “Mass cytometry is especially great for that because it’s really improving our understanding of immune system variation in humans,” Newell said. “It has also been excellent for mapping out trajectories of cellular development.”
+
+ In addition to providing cutting-edge technology platforms to researchers, SIgN aims to support Singapore biotechnology companies such as Newell’s spinoff 
+immunoSCAPE
+, which provides antigen-specific T cell screening and profiling services. Newell, who established his lab at SIgN in 2012, has moved to the Fred Hutchinson Cancer Research Center in Seattle as part of the Vaccine and Infectious Disease Division. His lab will continue to investigate antigen-specific T cells in cancer and other diseases. He also has been working on developing computational approaches to improve analysis of these large datasets.
+
+ Beyond cancer research, Newell and colleagues are using mass cytometry to study a variety of topics from myeloid cell composition in dendritic cell development to T cell antigen specificity in viruses such as hepatitis B and dengue. By taking a multiplexed approach in investigating the phenotype and function of cells from different viral disease stages, Newell’s team can assess the use of T cell phenotypes as future biomarkers for patient outcomes.
+
+ “CyTOF technology has a really unique niche for interrogating the tumor microenvironment,” said Newell. “It has relatively high throughput and high dimensionality, allowing us to open up a lot of doors.”
+
+Fluidigm Products are for Research Use Only. Not for use in diagnostic procedures.
+Bibliography
+Bystander CD8+ T cells are abundant and phenotypically distinct in human tumour infiltrates
+Simoni, Y., Becht, E., Fehlings, M. et al., 
+Nature
+.
+2018
+575–9
+Human Innate Lymphoid Cell Subsets Possess Tissue-Type Based Heterogeneity in Phenotype and Frequency
+Simoni, Y., Fehlings, M., Kløverpris, H.N. et al., 
+Immunity
+.
+2016
+148–61
+A High-Dimensional Atlas of Human T Cell Diversity Reveals Tissue-Specific Trafficking and Cytokine Signature
+Wong, M.T., Ong, D.E., Lim, F.S, et al., 
+Immunity
+.
+2016
+442–56
+Mapping the human DC lineage through the integration of high-dimensional techniques
+See, P., Dutertre, C.A., Chen, J. et al., 
+Science
+.
+2017
+doi: 10.1126/science.aag300
+Higher Throughput Methods of Identifying T Cell Epitopes for Studying Outcomes of Altered Antigen Processing and Presentation
+Newell, E.W., 
+Frontiers in Immunology
+.
+2013
+430
+Related Applications
+
+                        Mass Cytometry
+Related Products
+
+                        Helios, a CyTOF System
+Quality RNA Means Better Cancer Research
+Improve profiling of precious samples using the Advanta FFPE RNA Extraction Kit
+Feature
+Advanta IO Gene Expression Assay
+Tumor gene expression profiling in cancer research is an effective tool for measuring immune response during cancer progression and treatment studies. As emerging therapies reveal new biomarkers and expand the need for sample testing, the costs and labor required to complete this important work also increase.
+
+Cancer researchers now have a reliable, sensitive and cost-effective tool for identifying gene expression signatures from immune and cancer cells: The Advanta™ IO Gene Expression Assay is designed for use with the Biomark™ HD system. For optimized gene detection, pair it with the Advanta™ FFPE RNA Extraction Kit.
+
+Learn more
+Improving the process
+ Processing FFPE samples can be challenging due to limited sample quantities or fragmented RNA transcripts caused by nucleic acid degradation as a result of tissue fixation and storage methods. In addition, most extraction kits rely on column purification to remove RNA and DNA, causing significant nucleic acid loss during the isolation process. To address this issue, the Advanta FFPE RNA Extraction Kit uses a column-free approach to effectively recover quality RNA from FFPE samples.
+Download our 
+product flyer
+ to learn more about using the Advanta FFPE RNA Extraction Kit to accelerate your investigative research.
+
+The Advanta FFPE RNA Extraction Kit stands apart from other commercial kits by providing:
+
+A single-tube extraction purification process
+Enhanced safety with xylene-free paraffin removal
+More precious samples are qualified for downstream analysis
+Improved detection during gene expression analysis
+“Sirona Dx specializes in expression profiling of challenging FFPE samples and we welcomed the opportunity to partner with Fluidigm to develop an improved RNA extraction methodology. To date we have processed several hundred samples with the Advanta FFPE RNA Extraction Kit, and our pharma clients have been astonished by the quality of RNA extracted and delighted at our ability to interrogate more of their precious FFPE samples.”
+      
+—Nasry Yassa, CEO, Sirona Dx
+    
+Sirona Dx case study
+Clinical research services provider Sirona Dx, Inc., based in Vancouver, Washington, performed gene expression analysis of FFPE samples extracted using the Advanta FFPE RNA Extraction Kit and a leading column-based commercial kit. After extraction, the group reverse-transcribed and preamplified the RNA and analyzed the cDNA on Biomark HD using the Advanta IO Gene Expression Assay panel containing 170 unique biomarkers for profiling tumor immunobiology and identification. Gene expression analysis data demonstrated more target gene detection in samples extracted using the Advanta FFPE RNA Extraction Kit. These samples typically showed lower cycle threshold values than those extracted using the alternative kit.
+
+“Sirona Dx specializes in expression profiling of challenging FFPE samples and we welcomed the opportunity to partner with Fluidigm to develop an improved RNA extraction methodology,” said Sirona Dx CEO Nasry Yassa. “To date we have processed several hundred samples with the Advanta FFPE RNA Extraction Kit, and our pharma clients have been astonished by the quality of RNA extracted and delighted at our ability to interrogate more of their precious FFPE samples­.”
+
+ Contact us to learn more about the Advanta FFPE RNA Extraction Kit.
+
+MktoForms2.loadForm("//app-abb.marketo.com", "673-MRG-416", 2246);
+For Research Use Only. Not for use in diagnostic procedures.
+Related Applications
+
+                        Gene Expression
+Useful links
+
+                        Advanta™ FFPE RNA Extraction Kit
+Tags
+
+                      Immuno-Oncology
+CopyCount-CNV Software
+Convert qPCR data from Biomark to absolute quantification and DNA copy number
+Feature
+HIGHLIGHTS
+
+Accurate
+—Turns every qPCR reaction into an absolute copy number determination with accuracy and precision
+
+Saves space
+—Makes more space available for processing samples by reducing replicate requirements and eliminating the need for a standard curve
+
+Simple
+—Reports the number of DNA molecules at cycle zero without the complexity of interpreting Cq values
+
+The cloud-based software analyzes raw fluorescence qPCR data from 
+Biomark™ HD
+ to determine absolute quantification and provide DNA copy number results. Applications include transgene copy number, event-sorting data analysis and seed zygosity determination.
+
+Each license supports one year of use from the date of activation. Order through your Fluidigm account representative.
+
+Part Number 101-7966
+ Inquire
+Current version: v2.1.9.2
+
+CopyCount-CNV™ was developed and manufactured by DNA Software and is distributed by Fluidigm for use with Biomark.
+
+For Research Use Only. Not for use in diagnostic procedures.
+Related Applications
+
+                        Ag-Genomics
+
+                        Gene Expression
+Related Products
+
+                        Biomark HD
+Useful links
+
+                        User Guide CopyCount-CNV Doc version May 5, 2017
+
+                        Tech Note CNV 96.96 IFC Biomark HD TaqMan
+
+                        Whitepaper Novel, Validated Method for Absolute qPCR Quant
+Webinar | Understanding the Immune Composition
+and Therapeutic Vulnerabilities of Human Lung Cancer using Imaging Mass Cytometry™
+Media
+Highly multiplex panels used to interrogate diverse immune populations and immuno-modulatory targets
+Hear Dr. Kurt Schalper describe how research performed at the Translational Immuno-Oncology Laboratory at Yale Cancer Center uses Imaging Mass Cytometry™ (IMC™) as one way to achieve their aims to open new opportunities for biomarker discovery, identification of targets which can lead to patient selection for novel immuno-stimulatory therapies.
+
+In this recorded webinar, Schalper discusses:
+
+how his group deciphers the tumor microenvironment (TME) and its role in immuno-oncology using highly multiplexed panels
+strategies for validation of multiplexing panels to interrogate diverse tumor and immune cell populations
+the evaluation of anti-tumor immune responses and biomarker discovery
+ results from immuno-profiling with Imaging Mass Cytometry™ to uncover the immune composition of human non-small cell lung cancer (NSCLC)
+Please join us for the webinar and in-depth Q&A session that follows.
+
+Dr. Schalper is currently assistant professor of Pathology and the Director of the Translational Immuno-Oncology Laboratory at the Yale Cancer Center. The Translational Immuno-Oncology lab is devoted to produce and support high quality translational research in immuno-oncology through standardized analyses of biomarkers and cross-integration with other Yale resources.
+
+Kurt Schalper, MD, PhD
+  
+Assistant Professor of Pathology and Medicine (Medical Oncology)
+  
+Director Translational Immuno-Oncology Laboratory
+  
+Yale Cancer Center
+
+For Research Use Only. Not for use in diagnostic procedures.
+Related Applications
+
+                        Imaging Mass Cytometry
+Related Products
+
+                        Hyperion Imaging System
+AMP 2018 Annual Meeting & Expo
+
+                                November 1–3, 2018 | Henry B. Gonzalez Convention Center, San Antonio, Texas
+Event
+Power a new future in molecular pathology
+Advancing your clinical research with high-parameter imaging and nanoscale genomic analysis
+
+When interrogating tissue sections for protein markers, standard immunohistochemistry methods fall short by allowing only a few proteins to be detected at a time. Similarly, the increasing demands for greater efficiency and automation in genetic assay pipelines are common challenges in the molecular laboratory.
+
+ At Fluidigm, we have embraced these challenges. This year we will feature products that will empower you to significantly expand the number of proteins you can detect on each slide with Imaging Mass Cytometry™ and bring greater cost efficiency and automation to your targeted NGS library prep pipeline.
+
+Visit Fluidigm at Booth 1800
+Meet us in San Antonio to explore how our exciting products can empower your translational and clinical research programs.
+
+Exhibit Dates and Hours
+
+Thursday, November 1
+    
+ 11:30 am–4:30 pm
+      
+ 5:45–7:00 pm (welcome reception in Exhibit Hall)
+    
+Friday, November 2
+    
+ 9:00 am–4:00 pm
+    
+Saturday, November 3
+    
+9:00 am–1:30 pm
+    
+Featured Products
+Hyperion Imaging System
+The Hyperion™ Imaging System enables you to comprehensively interrogate complex cellular phenotypes and their interrelationships in the context of the tumor microenvironment with Imaging Mass Cytometry™.
+    
+Juno
+Juno™ provides the industry’s most scalable, customizable and cost-efficient library prep workflow for targeted NGS.
+    
+Advanta reagent portfolio 
+Advanta™ assays, panels and kits offer a growing menu of pre-designed, optimized reagents for genomic analysis. 
+    
+Advanta IO Gene Expression Assay
+Advanta FFPE RNA Extraction Kit
+Advanta Sample ID Genotyping Panel
+View and Discuss our Posters with the Authors
+Friday, November 2 
+| 
+2:30–3:30 pm 
+Poster Number
+    
+Title
+    
+Presenting Author
+    
+Category
+    
+G064
+Low-Input Microfluidic Library Preparation Platform for Targeted CFTR Using Blood, Buccal Swabs and Saliva Samples
+Naveen Ramalingam
+Genetics
+Saturday, November 3 
+| 
+9:45–10:45 am 
+Poster Number
+    
+Title
+    
+Presenting Author
+    
+Category
+    
+ST143
+Development of a Targeted NGS Panel for Solid Tumor Actionable Gene Targets Using Multiplex PCR-Based Enrichment in an Integrated Fluidic Circuit
+Peilin Chen
+Solid Tumors
+Social Media
+Can’t make it to all of the sessions? Follow 
+@fluidigm
+ with #AMP2018 and like us on 
+Facebook
+ for scientific and event updates.
+
+Sign up to receive more information about solutions for Imaging Mass Cytometry and genomics from Fluidigm.
+  
+MktoForms2.loadForm("//app-abb.marketo.com", "673-MRG-416", 2653);
+For Research Use Only. Not for use in diagnostic procedures.
+Further reading
+ESMO Immuno-Oncology Congress
+European Society for Medical Oncology 2018 Congress
+7th Annual FIMSA Congress 2018
+Federation of Immunological Societies of Asia-Oceania Congress 2018
+SITC 2018
+Society for Immunotherapy of Cancer 33rd Annual Meeting
+Upcoming Events
+We invite you to join us.
+Ready. Checkpoint. GO.
+Get a head start with the expanded Advanta IO Gene Expression Workflow.
+Related Applications
+
+                        Gene Expression
+
+                        Genotyping
+
+                        Imaging Mass Cytometry
+
+                        Mass Cytometry
+
+                        Single-Cell Genomics
+
+                        Single-Cell Proteomics
+Related Products
+
+                        Biomark HD
+
+                        Helios, a CyTOF System
+
+                        Hyperion Imaging System
+
+                        Juno
+SITC 2018
+
+                                November 7-11, 2018 | Walter E. Washington Convention Center, Washington, DC
+Event
+ Your next breakthrough starts here.
+Determining the underlying mechanisms of immunotherapeutic response requires a comprehensive approach to understanding the tumor microenvironment (TME).
+
+ At Fluidigm, we enable comprehensive cellular and molecular profiling of the immune system and the tumor microenvironment with proven mass cytometry, Imaging Mass Cytometry™ (IMC™) and automated microfluidics solutions.
+
+ Whether you seek to target new biomarkers and pathways or to optimize the effectiveness of checkpoint inhibitors, CAR T cells or cancer vaccines, Fluidigm can help you identify new insights to reach your next research breakthrough.
+
+See product presentations
+Visit Fluidigm at 
+Booth 213
+Exhibit Dates and Hours:
+Thursday, November 8: 5:00–6:30 pm
+  
+Friday, November 9: 8:00 am–8:00 pm
+  
+Saturday, November 10: 8:00 am–8:25 pm
+
+Hyperion Imaging System
+    
+Comprehensively interrogate complex cellular phenotypes and their interrelationships in the context of the tumor microenvironment with Imaging Mass Cytometry™.
+    
+Helios
+    
+Deeply profile immune and tumor cell populations for phenotype and function, all in a single tube.
+    
+Maxpar® panel kits
+    
+Simplify and economize immune profiling with the pre-optimized, 29-marker Maxpar® Human Immune Monitoring Panel Kit and a third-party automated data analysis solution.
+    
+Advanta assays
+    
+Reveal the molecular signatures of tumor immune response using the Advanta™ IO Gene Expression Assay on Biomark™ HD and custom assays.
+    
+Juno™
+    
+Achieve significant cost savings and reduced hands-on time with automated NGS library prep.
+    
+Visit posters and presentations featuring Fluidigm technology
+Presentations
+
+Thursday, November 8
+Time
+    
+Title
+    
+Presenter, Institution
+    
+Session
+    
+9:05-9:35 am
+Harnessing natural killer cells to potentiate antitumor immunity
+Amir Horowitz, PhD
+Icahn School of Medicine at Mount Sinai
+Primer on Tumor Immunology/Session I, Generating Anti-Tumor Immunity
+2:10-2:40 pm
+A high-dimensional assay and analysis platform to discover immune correlates of cancer immunotherapy
+Sacha Gnjatic, PhD
+Icahn School of Medicine at Mount Sinai
+Primer on Tumor Immunology/Session III, Analysis of Resistance and Response
+    
+Friday, November 9
+Time
+    
+Title
+    
+Presenter, Institution
+    
+Session
+    
+9:50-10:10 am
+Understanding the tumor immune composition using quantitative and spatially resolved Imaging Mass Cytometry
+Kurt A. Schalper, MD, PhD
+Yale School of Medicine
+Session 102
+    
+Understanding the Tumor Microenvironment 
+1:30–1:35 pm
+Using high dimensional mass cytometry (CyTOF®)
+
+      and machine assisted analysis to detect
+
+      biomarkers in the immunotherapy of cancer
+Katayoun Rezvani, MD, PhD
+
+      University of Texas MD
+
+      Anderson Cancer Center
+Session 211:
+
+      Advances in
+
+      Immunotherapy of
+
+      Hematologic
+
+      Malignancies
+Saturday, November 10
+Time
+    
+Title
+    
+Presenter, Institution
+    
+Session
+    
+3:35-4:00 pm
+Off-the-shelf engineered NK cells for the treatment of cancer
+Katayoun Rezvani, MD, PhD
+University of Texas MD Anderson Cancer Center
+Session 211
+    
+Advances in Immunotherapy of Hematologic Malignancies
+4:30–4:45 pm
+Identification and profiling of neoantigen-specific
+
+      T cells in NSCL cancer patients treated
+
+      with atezolizumab
+Alessandra Nardin, DVM
+
+      immunoSCAPE
+Concurrent Session 212:
+
+      Advances in
+
+      Immunotherapy of Lung,
+
+      Head and Neck Cancer
+Posters, Hall E*
+
+Poster No.
+    
+Title
+    
+Authors
+    
+P68
+Using high dimensional mass cytometry (CyTOF
+®
+) and machine assisted analysis to detect biomarkers in the immunotherapy of cancer
+Carsten Krieg, PhD; Silvia Guglietta; John M. Wrangle, MD; Luis E. Cardenas, BS; Mitchell Levesque; Reinhard Dummer, MD; Burkhard Becher; Mark P. Rubinstein, PhD; Mark Robinson 
+P111
+Streamlined human immune monitoring with mass cytometry: 29 markers in a single tube with automated data analysis
+Christina Loh, PhD; Thiru Selvanantham, PhD; Leslie Fung; Michelle M. Poulin; C. Bruce Bagwell; Margaret Inokuma; Clare Rogers, MS; Greg Stelzer, PhD; Steven Lott, PhD
+P133
+Spatially resolved and multiplexed immunoprofiling of NSCLC using imaging mass cytometry reveals distinct functional profile of CD4 and CD8 TILs associated with response to immune checkpoint blockers
+Franz Villarroel-Espindola, PhD; Miguel F. Sanmamed, MD, PhD; Jonathan Patsenker; Ya-Wei Lin; Brian S. Henick, MD; Jovian Yu; Mark Verburg; Tayf Badri; Jon Zugazagoitia, MD; Daniel E. Carvajal-Hausdorf, MD; Ruth Montgomery, PhD; Roy S. Herbst, MD, PhD; Lieping Chen, MD, PhD; David L. Rimm, MD, PhD; Tal Shnitzer, PhD; Ronen Talmon, PhD; Yuval Kluger, PhD; Kurt A. Schalper, MD, PhD
+P140
+Deep profiling of Asian NSCLC to identify the tumor
+antigen-specific T cells and the predictive potential
+of the patients treated with PD-1/PD-L1 blockade
+Joe Yeong, Lisda Suteja, Yannick Simoni, Kah Weng Lau,
+Sherlly Lim, Josh Jie Hua Loh, Angela Takano, Eng Huat Tan,
+Tony Kiat Hon Lim, S.W. Daniel Tan, Evan W. Newell
+P448
+Blockade of EphB4-ephrin-B2 interaction
+remodels the tumor immune microenvironment in
+head and neck cancers
+Shilpa Bhatia, Sana Karam
+P502
+Novel approach of modulating immune cell
+metabolism in the tumor microenvironment to
+enhance efficacy of immunotherapy
+Frank Borriello, Hong Bum Lee, Vincent O’Neill, Ted Kim,
+James Lederer, Sanghee Yoo
+P557
+Overcoming genetically-based resistance
+mechanisms to PD-1 blockade
+P710
+Phase 1/2 study of image guided intratumoral CD40
+agonistic monoclonal antibody (APX005M) in
+combination with systemic pembrolizumab for
+treatment-naïve metastatic melanoma
+* Presentation hours:
+
+Odd-numbered: Friday, November 9, 12:45–2:15 pm and 6:30–8:00 pm
+  
+Even-numbered: Saturday, November 10, 12:20–1:50 pm and 7:00–8:30 pm
+
+Social Media
+
+Can’t make it to all of the sessions? Follow 
+@fluidigm
+ with #SITC2018 and like us on 
+Facebook
+ for scientific and event updates.
+
+For Research Use Only. Not for use in diagnostic procedures.
+Further reading
+ESMO Immuno-Oncology Congress
+European Society for Medical Oncology 2018 Congress
+7th Annual FIMSA Congress 2018
+Federation of Immunological Societies of Asia-Oceania Congress 2018
+AMP 2018 Annual Meeting & Expo
+Association for Molecular Pathology
+Upcoming Events
+We invite you to join us.
+Ready. Checkpoint. GO.
+Get a head start with the expanded Advanta IO Gene Expression Workflow.
+Related Applications
+
+                        Gene Expression
+
+                        Genotyping
+
+                        Imaging Mass Cytometry
+
+                        Mass Cytometry
+
+                        Single-Cell Genomics
+Related Products
+
+                        Biomark HD
+
+                        Helios, a CyTOF System
+
+                        Hyperion Imaging System
+
+                        Juno
+US
+CN
+JP
+About
+Careers
+Contact
+Investors
+Legal
+Press
+Feedback
+Subscribe

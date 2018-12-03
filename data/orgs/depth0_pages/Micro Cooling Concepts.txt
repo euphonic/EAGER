@@ -1,0 +1,103 @@
+Micro Cooling Concepts, Inc.
+World Leaders in Laser Diode Cooling
+Home
+Microchannel Coolers
+All Products & Services
+About Us
+Contact Us
+Microchannel Coolers
+Microchannel coolers offer thermal resistances as low as 20 K∙cm
+2
+/kW, allowing cooling at heat fluxes in excess of 1 kW/cm
+2
+. Micro Cooling Concepts' coolers are fabricated
+          using a copper alloy, providing strength, ductility, and compatibility with conventional machining, soldering, & brazing methods.
+Custom cooler designs are available as well, with various shapes, sizes, coolants, materials, and cooling circuitry available to the customer. Different cooling zones can be designed into the cooler to
+             optimize coolant usage and pumping power. Coolers can even be integrated with secondary cooling circuits or air heat exchangers.
+          
+R&D Projects
+Integrated Fuel-Air HX for Turbine Engines (NASA)
+Anisotropic Conductance HX for Cryocoolers (US NAVY)
+Advanced Turbine Blade Cooling (NASA)
+Adv. Turbine Blade Cooling (USAF)
+ICECool: Microchannel Cooling of GaN Devices (DARPA)
+Microchannel-Cooled Anodes for X-ray Sources (DARPA/iARPA)
+.  
+Lightweight Gas Turbine Recuperator (US ARMY)
+Aluminum Rocket Motors (DARPA/Ventions)
+Integrated Cold Head (USAF)
+2-Phase Cooling Loop for Power Electronics (US ARMY)
+Microplate Heat Exchanger for Cryocoolers (NASA)
+EbPr Regenerators for Cryocoolers (NASA) 
+Cooler Customers
+Lasertel
+Science Research Laboratory
+MIT/Lincoln Laboratory
+Raytheon
+Cutting Edge Optronics
+Heraeus
+Dilas (Coherent)
+Northrop-Grumman
+R&D Customers  
+NASA
+US NAVY
+US AIR FORCE
+US ARMY
+DARPA
+Science Research Laboratory
+Ventions 
+General Atomics
+What Is Microchannel Cooling?
+Conventional Cooling Passages
+Passage Hydraulic Diameter > 1 mm
+Large Hydraulic Diameter Requires Turbulent Flow to Increase Heat Transfer Coefficient, so Passages are in Series (i.e., a Single Passage Long Passage) to Increase Reynolds Number
+Microchannel Cooling Passages (D. Tuckerman: Stanford, 1981)
+12.5 μm ≤ Duct widths ≤ 250 μm
+5X ≤ Duct Aspect Ratios ≤ 25X
+Narrow Distances Between Duct Walls Provides Large Heat Transfer Coefficients, Even in Laminar Flows
+Tall Duct Walls Parallel to Incident Heat Flux Act as Fins, Increasing Heat Transfer Area
+Small Hydraulic Diameter Leads to Laminar Flow Operation Where Heat Transfer Coefficient is Insensitive to Flow Rate,so Passages are in Parallel 
+                      (i.e., Thousands of Short Passages/cm
+2
+) to Reduce Pressure Drop
+Welcome to the Micro Cooling Concepts Website
+The Largest Domestic Manufacturer of Microchannel Coolers 
+
+                              MC
+2
+ offers a broad range of thermal management solutions for the electronics, laser diode, and aerospace industries. These solutions include micro-impingement and microchannel coolers and coldplates, heat spreaders and heatsinks, heat pipes, and compact air/liquid and liquid/liquid heat exchangers. MC
+2
+ products can be applied anywhere demanding thermal environments are found - we specialize in cooling components exposed to high temperature and/or high heat flux environments.
+MC
+2
+ is best known for the world-class cooling performance of our micro-impingement/microchannel cooler line, with passage widths as narrow as 12.5 microns. More than 50,000 coolers have been built and sold to date. These coolers have been tested for over 2000 hours with no degradation of thermal performance. They are tough, and attachment of laser diodes or other components is straightforward. Please see our cooler pages for more detailed information.
+Other thermal management products are available as well, including heat exchangers, condensers, evaporators, and recuperators.
+Actively Engaged in Federally-Sponsored R&D 
+
+									MC
+2
+ also has a strong R&ampD component, having served as a prime contractor on projects for NASA, DARPA, and the US Army, Navy, and Air Force. MC2 also Please see our R&ampD pages for more information.
+                              
+Microchannel Coolers
+Array/Large Area Coolers
+Stackable/Single Bar Coolers
+Custom Cooler Designs
+Upcoming Cooling Technologies
+Latest R&ampD Projects
+Two-Phase Microchannel Cooling
+Integrated Fuel-Air HX
+Cryo Cooler w/Anisotropic Conductance
+Advanced Turbine Blade Thermal Management
+Send a Message
+Copyright  2010. 
+Privacy Policy
+ | 
+Terms of Use
+ | 
+XHTML
+ | 
+CSS
+Design by 
+Flash Templates
+, coded by 
+Free Flash Templates

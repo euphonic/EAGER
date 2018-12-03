@@ -1,0 +1,52 @@
+Company
+Leadership
+Culture
+Careers
+News
+Contact Us
+Company
+Leadership
+Culture
+Careers
+News
+Contact Us
+Materials that
+ set a new standard for batteries.
+Inside the highest performing products in the world.
+APPLICATIONS
+Electric Vehicles
+To get to mass market electric vehicles, you have to lower the cost of the battery pack on a dollars per kilowatt-hour ($/kWh) basis. The best way to do this is through higher volumetric energy density, which Sila materials enable. More energy in each cell means fewer cells for the same battery pack capacity and vehicle range, and therefore much lower cost overall.
+Consumer Electronics
+Product designers are limited by tradeoffs between form factors, features and battery life. With Sila, you get a smaller, lighter battery which unlocks new possibilities—full-featured wireless earbuds, music streaming smartwatches, better camera phones—with long battery life and elegant form factors that customers demand.
+Electric Power Grid
+Renewable power sources are often intermittent while power needs are continuous. Efficient, low-cost energy storage in the grid balances these factors and ensures a more reliable supply. High energy density cells are the low-cost building block for these grids. With Sila products, higher energy per cell means fewer cells and lower overall system costs.
+Electrified Flight
+From drones to electric passenger aircraft, flight is a demanding application for electric power, and benefits greatly from batteries with higher gravimetric energy density (Wh/kg). Sila products significantly increase specific energy, improving flight capabilities and providing value for a range of applications.
+To get to mass market electric vehicles, you have to lower the cost of the battery pack on a dollars per kilowatt-hour ($/kWh) basis. The best way to do this is through higher volumetric energy density, which Sila materials enable. More energy in each cell means fewer cells for the same battery pack capacity and vehicle range, and therefore much lower cost overall.
+Product designers are limited by tradeoffs between form factors, features and battery life. With Sila, you get a smaller, lighter battery which unlocks new possibilities—full-featured wireless earbuds, music streaming smartwatches, better camera phones—with long battery life and elegant form factors that customers demand.
+Renewable power sources are often intermittent while power needs are continuous. Efficient, low-cost energy storage in the grid balances these factors and ensures a more reliable supply. High energy density cells are the low-cost building block for these grids. With Sila products, higher energy per cell means fewer cells and lower overall system costs.
+From drones to electric passenger aircraft, flight is a demanding application for electric power, and benefits greatly from batteries with higher gravimetric energy density (Wh/kg). Sila products significantly increase specific energy, improving flight capabilities and providing value for a range of applications.
+SILA PRODUCTS WORK, TODAY
+The battery industry has been long on promises and short on delivery. At Sila, we’re changing that, and delivering actual material in actual full cells that you can test in actual real-world conditions. Our silicon-dominant anode products drop into existing battery manufacturing processes, replace graphite entirely, and deliver significantly higher energy density at the cell-level with lower swelling.
+Drop-in Solution, No Change Required
+Sila products drop into the existing commercial battery manufacturing process. This means that our battery manufacturing partners can produce higher performing cells in their existing factories on existing production equipment. This also means that automakers and consumer products companies can continue working with their existing battery suppliers while seamlessly incorporating Sila’s materials technology into new products.
+WATCH VIDEO
+Manufacturable Economically, at Global Scale
+We’ve built our company, our products, and our manufacturing with the world’s biggest markets in mind: communications, transportation, and the grid. From the start, we developed manufacturing for our products using only globally available commodities as precursors, and bulk synthesis reactors that scale efficiently. At Sila, we’re not exploring unrealistic technologies – we’re delivering the next chemistry of materials for batteries, today.
+Press
+"The next wave of batteries, long in the pipeline, is ready for commercialization."
+“Sila Nano has raised $70m in funding from investors including Siemens’ venture firm Next47 and Japan’s ATL.”
+"How did Sila Nanotechnologies make such a big leap?"
+ "Building a better battery”
+Company
+Leadership
+Culture
+Careers
+News
+Contact Us
+©2018 Sila Nanotechnologies Inc.  |  All Rights Reserved. | 
+Privacy Policy
+ | 
+Terms of Use
+
+Main.boot( [] );

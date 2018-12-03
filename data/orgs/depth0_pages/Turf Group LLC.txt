@@ -1,0 +1,87 @@
+Home
+Products 
+↓
+Augusta
+Carmel
+Eagle Putt
+Mammoth
+Applications 
+↓
+Residential Landscaping
+School Playground
+For Pets
+Putting Greens
+Commercial Landscaping
+How It Works 
+↓
+Installation
+Care & Maintenance
+Why Choose Artificial Turf
+FAQ
+Turf Group News & Tips
+Contact Us
+Perfect Synthetic Grass Scapes
+START YOUR NEW TURF PROJECT TODAY!
+PRODUCTS
+Our Synthetic Grass Products for Residential and Commercial Landscape Applications.
+LEARN MORE
+APPLICATIONS
+Residential & Commercial Landscaping, School playgrounds and athletic fields, Indoor sports facilities, Pets, Putting Greens.
+LEARN MORE
+HOW IT WORKS
+Tips on Installation, Care and Maintenance, Benefits of Synthetic Grass and answers to your Frequently asked questions.
+CHECK OUR FAQ'S
+CONTACT US
+Directions to our warehouse, Hours of Operations and Contact information.
+CONCTACT US
+Why Turf?
+Turf is everywhere…commercial areas, medians, common areas, kids play areas, parks, athletic fields, front yards and back yards all over town. City planning commissions, water districts, architects, schools, municipalities, landscape contractors, property managers and home owners alike are educating themselves on the values of synthetic turf.
+LEARN MORE
+TURF GROUP LEADS CALIFORNIA IN:
+Residential Landscape Projects
+Safe Playgrounds
+Pet Turf Systems
+Commercial Landscape Projects
+Synthetic Putting Greens
+Synthetic Driving Ranges
+Indoor Sports and Training Facilities
+Golf Course Tee line systems
+Water Conversation has become a necessity: 
+As usage restrictions on our most important natural resource become tighter, conservation is even more important.  Water rates continue to climb as projected and synthetic turf is providing a solution to this growing issue.   The majority of a household’s water usage is used on landscape.  In most communities where water is in short supply and there are restrictions on watering real grass, synthetic turf provides a low maintenance lawn that looks green and healthy year round.
+Contact us
+ today to learn more about the endless synthetic turf application and installation possibilities with Turf Group.
+SYNTHETIC TURF APPLICATIONS
+COMMERCIAL LANDSCAPING
+For commercial areas, our synthetic turf products will meet or exceed all of your landscape needs.
+LEARN MORE…
+RESIDENTIAL LANDSCAPING
+For residential areas, our synthetic turf products will meet or exceed all of your landscape needs.
+LEARN MORE…
+PUTTING GREENS
+For putting green areas, our synthetic turf products will meet or exceed all of your landscape needs.
+LEARN MORE…
+The Leading Synthetic 
+ Grass Distributor
+Turf Group
+8930 Independence Ave
+ Canoga Park, CA 91304
+ (888) 515-8873 
+ We have some of the best quality products on the market at great prices.  Judge for yourself, order samples and compare our products with any on the market today!!
+Care & Maintenance
+One of the most appealing features of synthetic turf is that it does not require the care and maintenance of a natural grass lawn. Never again will you need to fertilize, mow, aerate or waste huge amounts of water to have green grass surrounding your home.
+Learn More
+Quick Links
+Residential Landscaping
+School Playground
+For Pets
+Putting Greens
+Commercial Landscaping
+Installation
+Care/Maintenance
+Turf Group News & Tips
+© 2018 Turf Group - All Rights Reserved
+ Site Created & Managed By: 
+Web Designs Your Way, LLC.
+var bwg_objectL10n = {"bwg_field_required":"field is required.","bwg_mail_validation":"This is not a valid email address.","bwg_search_result":"There are no images matching your search.","is_pro":""};
+var bwg_objectsL10n = {"bwg_select_tag":"Select Tag","bwg_order_by":"Order By","bwg_search":"Search","bwg_show_ecommerce":"Show Ecommerce","bwg_hide_ecommerce":"Hide Ecommerce","bwg_show_comments":"Show Comments","bwg_hide_comments":"Hide Comments","bwg_how_comments":"how Comments","bwg_restore":"Restore","bwg_maximize":"Maximize","bwg_fullscreen":"Fullscreen","bwg_search_tag":"SEARCH...","bwg_tag_no_match":"No tags found","bwg_all_tags_selected":"All tags selected","bwg_tags_selected":"tags selected","play":"Play","pause":"Pause","is_pro":""};
+var ttSubscrConfig = {"error_class":"error","required_class":"required_error","required_msg":"Please fill required fields","invalid_email_class":"invalid_email","invalid_email_msg":"Invalid Email","input_timeout":"1","success_class":"success","animation_done_class":"animation_done","result_timeout":"3000","result_container_selector":"#result_container","date_format":"F j, Y, g:i a","date_headline":"Date","no_data_posted":"No data received","error_open_create_files_msg":"","success_msg":"Succesfully Subscribed","error_writing_msg":"Couldn't write to file","subscription_nonce":"cae8c8c2d7"};

@@ -1,0 +1,117 @@
+Forbrukslån på Dagen 20 År
+ | 
+Läppärit
+ | 
+billiggodteri.no
+ | 
+Kredittkort Online Søknad
+ | 
+Billig Strømleverandør
+ | 
+Husalarm
+ | 
+Forsikringsselskap
+ | 
+Mobilselskaper
+ | 
+Takserer
+.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+PRODUCTS
+Discrete MRAM
+Embedded MRAM
+TECHNOLOGY
+MRAM Technology
+Embedded MRAM Technology
+3D Cross Point MRAM Technology
+Papers and Conferences
+APPLICATIONS
+Industrial
+IoT
+Consumer
+Storage
+COMPANY
+Leadership
+Board
+News & Insights
+Careers
+CONTACT
+General Inquiry
+Product Inquiry
+Sample Request
+Evaluation Board or Kit Request
+PRODUCTS
+Discrete MRAM
+Embedded MRAM
+TECHNOLOGY
+MRAM Technology
+Embedded MRAM Technology
+3D Cross Point MRAM Technology
+Papers and Conferences
+APPLICATIONS
+Industrial
+IoT
+Consumer
+Storage
+COMPANY
+Leadership
+Board
+News & Insights
+Careers
+CONTACT
+General Inquiry
+Product Inquiry
+Sample Request
+Evaluation Board or Kit Request
+PRODUCTS
+Discrete MRAM
+Embedded MRAM
+TECHNOLOGY
+MRAM Technology
+Embedded MRAM Technology
+3D Cross Point MRAM Technology
+Papers and Conferences
+APPLICATIONS
+Industrial
+IoT
+Consumer
+Storage
+COMPANY
+Leadership
+Board
+News & Insights
+Careers
+CONTACT
+General Inquiry
+Product Inquiry
+Sample Request
+Evaluation Board or Kit Request
+var lsjQuery = jQuery;
+How AI and ML are Driving Memory Architecture Changes
+Discrete MRAM
+Embedded MRAM
+
+			Home		
+Admin
+
+			2018-08-25T18:41:08+00:00		
+The Next Generation MRAM Company
+Avalanche Technology, headquartered in Fremont, California, is the world leader in Spin Transfer Torque Magnetic RAM (STT-MRAM) non-volatile memory leveraging perpendicular magnetic tunnel junction (pMTJ) cell structure manufactured on 300mm standard CMOS process.
+Backed by more than 270+ granted patents around cell, circuit, and system design leveraging MRAM, our technology and products provide breakthrough speeds, unlimited endurance and non-volatility while reducing power and cost. With such attributes, our technology will serve and exceed our customers’ objectives as a replacement for SRAM, eFlash, and ROM in embedded applications in addition to discrete SRAM, non-volatile SRAM, NOR and DRAM.
+Industrial
+The next generation of compute capable, intelligent IoT nodes will rely on the integration of the high density, reliable, instant access  “Next Generation MRAM” from Avalanche Technology that delivers the needed high performance unified memory architecture.
+LEARN MORE
+IoT
+The next generation of compute capable, intelligent IoT nodes will rely on the integration of the “Next Generation MRAM”  from Avalanche Technology that delivers the needed high performance unified memory architecture.
+LEARN MORE
+Consumer
+The next generation of Low Power Portable Consumer devices in all segments from wearables to handheld, to hearables, to portable medical devices will rely on the integration of the high density, instant access, Non Volatile “Next Generation MRAM” from Avalanche Technology.
+LEARN MORE
+Storage
+The “Next Generation MRAM” from Avalanche Technology delivers the needed high performance unified memory architecture to remove memory and input-output bottlenecks safely and reliably.
+LEARN MORE
+3450 West Warren Avenue, Fremont, CA 94538
+
+(510) 438-0148, (510) 897-3300
+info@avalanche-technology.com
+
+		©2018 Avalanche Technology | All Rights Reserved	

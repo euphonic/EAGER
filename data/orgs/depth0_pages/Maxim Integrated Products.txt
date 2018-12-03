@@ -1,0 +1,349 @@
+By using this website, I accept the use of cookies.
+Learn More
+MyMaxim
+My Maxim
+ | 
+Logout
+ Login 
+ | 
+ Register 
+My Cart
+MyBookmarks
+Parametric Search
+Power
+Analog Signal
+Interface
+Communications
+Digital
+Industries
+All
+Search
+中文
+ | 
+日本語
+中文
+日本語
+MyMaxim
+Login
+Register
+MyMaxim
+Logout
+ Products 
+ Power
+Switching Regulators
+Battery Management
+Isolated Power Supplies
+Charge Pumps
+Linear Regulators
+LED Drivers
+Motor Driver ICs
+Protection and Control
+Display Power and Control
+Voltage Supervisors, Voltage Monitors, and Sequencers
+PMICs
+Power Over Ethernet
+Himalaya Power Modules
+MOSFET Drivers and Controllers
+ Sensors
+Temperature Sensor ICs
+Optical Sensor ICs
+Biopotential Sensors
+ Analog
+Amplifiers
+Audio
+Video
+Data Converters
+Switches and Multiplexers
+Filters
+Voltage References
+ Interface
+Transceivers
+IO-Link and Binary Drivers
+Controllers/Expanders
+Level Translators
+Industrial Digital I/O Interface ICs
+Isolation ICs
+High-Speed Signaling
+Universal Serial Bus (USB) Products
+Signal Line Protection ICs
+Signal Integrity
+4-20mA Current Loop Products
+Broadband Switches
+Sensor Interface
+ Communications
+Wireless and RF
+Optical
+Powerline Communications (PLC) 
+T/E Carrier and Packetized
+ Digital
+Real-Time Clock
+1-Wire
+iButton
+Data Loggers
+Clock Generation and Distribution
+Memory Products
+ Embedded Security
+Security Managers
+Secure Authenticators
+Secure Microcontrollers
+NFC/RFID
+ Microcontrollers
+Low-Power Microcontrollers
+Secure Microcontrollers
+#MakeWithMaxim
+ All
+What's New
+ Markets 
+ Industrial
+Factory Automation
+Sensors and Field Instruments
+Building Automation
+Motor Control
+Automated Test Equipment
+Industrial IoT
+ Automotive
+ADAS
+Infotainment
+Body Electronics
+Power Management
+EV Powertrain
+Automotive IoT
+Lighting
+ Healthcare
+Wearable Health
+Ultrasound Imaging
+Diagnostic and Therapy
+Healthcare IoT
+ Communications
+Cable
+Optical
+Wireless
+ Consumer
+Mobile
+Wearables
+Hearables
+Consumer IoT
+ Computing
+Data Center
+Servers
+Secure Computing
+Solar Energy
+ Military and Aerospace ICs
+Obsolescence Mitigation (OM) Program
+Lead (SnPb) Finish for COTS Parts
+Up-Screening
+DSCC-SMD Devices
+MIL-STD-883B Data Sheets
+Ruggedized Plastic Parts
+ Internet of Things
+IoT Platform
+All Markets
+ Design 
+Overview
+Technical Documents
+Reference Designs
+Design Tools
+Packaging
+Cross-Reference Search
+Technical Training
+Partners and Technology
+Videos
+mgineer Blog
+Customer Testimonials
+ Support 
+Support Portal
+QA and Reliability
+Environmental
+Knowledge Base Search
+Order
+ About Us 
+Maxim Profile
+Investor Relations
+Careers
+Newsroom
+Events
+Worldwide Locations
+Leadership
+Maxim Ventures
+Corporate Policies
+Corporate Responsibility
+Contact Us
+Legal
+.full_transparent{-ms-filter:"alpha(opacity=0)";filter:alpha(opacity=0);-moz-opacity:0;-khtml-opacity:0;opacity:0}
+
+    ie = "";
+
+×
+.nobr br{display:none}
+ © 2018 Maxim Integrated
+ | 
+Contact us
+ | 
+Careers
+ | 
+Legal
+ | 
+Privacy
+ | 
+Cookie Policy
+ | 
+Site Map
+×
+ MyBookmarks
+ Login is required for MyBookmarks. 
+Login
+ | 
+Register
+Add Bookmark
+Edit
+Show All
+×
+ Login to MyMaxim
+Email address
+Password
+Not registered? Sign up now!
+Forgot password?
+Login
+×
+MY MAXIM
+MY BULLETIN
+Click and drag icons and/or sections to customize your dashboard.
+Show All >
+Questions or feedback? 
+ Contact us
+x
+Alert
+ Please   
+request a quote
+x
+Alert
+Unfortunately, we are unable to place your order due to restrictions on your account. Please contact customer support.
+x
+Alert
+Sorry, but we are unable to process sample requests from non-business or non-educational e-mail addresses via this site. Your options are :
+Click 
+here
+ to purchase parts.
+Resubmit
+ your request using a business or educational e-mail address registered with Maxim
+Contact your Maxim 
+distributor
+Thank you for your interest in Maxim
+x
+Alert
+ Thank You for interest in Maxim Integrated. Our free samples program limits the quantities that we can provide to each customer per calendar year.If you feel that you have received this message in error, please contact samples-admin@maximintegrated.com. Alternatively, you can 
+click here
+ to place an order. 
+×
+Part Number
+Description
+Key Advantages
+×
+ Request a Quote
+Part
+*
+Minimum Qty
+Order in Multiples
+Quantity
+*
+Quantity rounded to nearest MOQ
+Target Price/Unit
+Competition
+Estimated Annual Usage 
+ADD ANOTHER PART
+ Who is the End Customer?
+*
+ I'm the End Customer 
+ Add different End Customer 
+My Profile
+*
+First Middle Lastname
+ email@mycompany.com
+ 123-456-7890
+ My Company Name
+ City, State, Zip/Postal
+ Country
+Profile Information
+City
+*
+State/Prov
+*
+Zip/Postal
+*
+End Customer Information 
+Company
+*
+City
+*
+Zip/Postal
+*
+Projects
+*
+ What project(s) will these Maxim parts be used in?
+Applications
+*
+ What product(s) will you be manufacturing with these Maxim parts?
+*
+Required
+SUBMIT
+Close
+We will need the following information in order to respond to your Quote Request. Please provide as much detail as possible in your answers.
+1. What application are you planning to use this part for ?
+*
+2. What is the ultimate end use of this device/end product ?
+*
+3. List the country/counties in which the product will be manufactured. 
+*
+4. List the country/countries in which the end product will reside. 
+*
+5. Identify the ultimate end user(s) (Customer/Target Customers) 
+*
+*
+Required
+Finish & Submit Quote Request
+Cancel
+ Your quote has been successfully submitted. You will receive an email within 24 hours with pricing and availability. Visit 
+My Quotes
+ Thank you!
+View All My Quotes
+Close
+×
+ Request Company Account
+Are you sure you want to Request Company Account?
+SUBMIT
+Close
+×
+All Categories
+Recent Searches
+addLinkerEvents();
+×
+Subscriptions and Interests
+ Please give us some more details: 
+Email Subscriptions
+EE-Mail
+MyMaxim Newsletter
+Events and Promotions
+Preferred Language
+English
+中文
+日本語
+Areas of Interests
+Products
+Power
+Sensors
+Analog
+Interface
+Communications
+Digital
+Embedded Security
+Microcontrollers
+Markets
+Industrial
+Automotive
+Healthcare
+Communications
+Consumer
+Computing
+Solar Energy
+Military and Aerospace
+Internet of Things (IoT)

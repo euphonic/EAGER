@@ -1,0 +1,563 @@
+Language
+
+                                    Find Authorized Distributors
+
+                                    Contact Us
+About Littelfuse
+Events
+Littelfuse Careers
+Supplier Resources
+Partner Login
+Littelfuse Business Center
+Littelfuse University
+Electronics Intranet
+Electronics Technical Resources
+Search All
+Automotive Sensor Products
+Battery Management
+Battery Mini-Breakers
+Custom Sensors
+DC Power Distribution Modules
+DC Solenoids and Relays
+Discrete Diodes
+Discrete Thyristors
+Fusible Switches and Panels
+Fuse Blocks Fuseholders and Fuse Accessories
+Fuses
+Gas Discharge Tubes
+Ignition IGBTs
+LED Protectors
+Magnetic Sensors and Reed Switches
+New Products
+Other Products and Accessories
+Polymer ESD Suppressors
+PolyZen Devices
+Power Semiconductors
+Protection Relays and Controls
+Resettable PTCs
+Shock Block GFCI
+SIDACtor Protection Thyristors
+Silicon Carbide
+Surge Protection Module
+Switches
+Temperature Sensors
+TVS Diode Arrays
+TVS Diodes
+Varistors
+Products
+Automotive Sensors
+Automotive Sensors
+Littelfuse Automotive Sensor Products offer a wide range of sensors for use in monitoring various vehicular functions in the areas of passenger safety, comfort and convenience plus vehicle powertrain, chassis and emission applications.
+Chassis
+Comfort and Convenience
+Emissions
+Passenger Safety
+Powertrain
+Battery Management
+Battery Management
+Littelfuse battery management devices provide methods of conserving battery power, protecting against over-discharge, combining and protecting auxiliary equipment such as liftgate motors.
+Battery Combiners
+Battery Disconnect Switches
+Battery Isolators
+FlexMod Electronic Modules 
+Low Voltage Disconnects
+Battery mini-Breakers (Thermal Cutoff Devices)
+Battery mini-Breakers (Thermal Cutoff Devices)
+Littelfuse battery mini-Breakers provide battery cell protection for high-capacity Lithium Polymer and prismatic cells.
+Metal Hybrid Protection
+Custom-Engineered Electrical Equipment
+Custom-Engineered Electrical Equipment
+Designing and Building Custom-Engineered Modules for Electrical Distribution, Protection and Control.
+Arc-Resistant Load Break/Disconnect Switches
+Arc-Resistant Switchgear
+Custom Built Switchgear MCC
+Dewatering Substations
+Littelfuse Startco Soft Starters
+Metal-Clad and Metal-Enclosed Switchgear
+Mine-Duty Medium-Voltage Junction Box
+Mining Machine Controls
+Neutral-Grounding Resistors
+Outdoor Portable Substations (Skid and Trailor Mounted)
+Power Factor Correction Systems/Capacitor Banks
+Power Monitoring and Control
+Power Takeoff Panels (PTO)
+Reconditioning and Upgrade Services
+Switch Houses
+Trailer or Skid-Mounted Gen Set
+Underground Portable Power Centres
+DC Vehicle Connectors
+DC Vehicle Connectors
+Electrical sockets, plugs and coils used for connection of a truck and trailer on commercial vehicles or caravans for 12 and 24V systems.
+13-Pole Sockets and Plugs
+15-Pole Sockets and Plugs
+15-Pole Spiral Coils
+2-Pole - 3-Pole Sockets and Plugs
+7-Pole Sockets and Plugs
+7-Pole Spiral Coils
+ABS - EBS Sockets and Plugs
+ABS - EBS Spiral Coils
+Connector Accessories
+Greycon Connectors
+ISOBUS Connectors
+DC Power Distribution Modules
+DC Power Distribution Modules
+Feature multiple electrical power outputs, acceptance of many fuses, fuse types & relays.
+Auto & Commercial Vehicle Fuse Holders
+Configurable PDM
+Fuse Only PDM
+Hard Wired PDM
+Power Distribution Accessories
+POWR-BLOK Modular Power Distribution
+Unsealed PDM
+DC Solenoids and Relays
+DC Solenoids and Relays
+Bi-Stable Latching Relays
+Can Controllers and Plug In Relays
+Plug In Relays
+Solid State Relays
+Speciality Relays
+Standard High Current Relays
+Time Delay and High Power Relays
+EMC Components
+EMC Components
+Common Mode Noise Filters (CMF) attenuate common mode noise in differential and balanced transmission, and power supply and audio lines.
+Common Mode Noise Filters
+Common Mode Filters with ESD Protection
+Fuse Blocks, Fuse Holders and Fuse Accessories
+Fuse Blocks Fuse Holders and Fuse Accessories
+Littelfuse offers a comprehensive line of fuse blocks, fuse holders, and fuse accessories for automotive, electronic, and electrical markets.
+Auto & Commercial Vehicle Fuse Holders
+Bodies, Caps, Covers and Terminals
+Box Cover Units
+Dead Front Fuse Holders
+Electrical Power Distribution Blocks
+Fuse Blocks
+Fuse Clips
+Fuse Modules
+Fuse Pullers
+Fuse Reducers
+Fuseholders
+Inline Watertight Fuse Holders
+Plug Fuse Adapters
+POWR-GARD Fuse Blocks
+Specialty Items
+Telcom Disconnect Switches
+Fuses
+Fuses
+Littelfuse manufactures the broadest and most innovative selection of fuses.
+Automotive Aftermarket Products
+Automotive Passenger Car
+Axial Radial Thru Hole Fuses
+Cartridge Fuses
+Hazardous Area Type Fuses
+Industrial Power and UL Fuses
+Medium Voltage Fuses
+Military High Reliability Fuses
+Specialty Power Fuses
+Surface Mount Fuses
+Fusible Switches and Panels
+Fusible Switches and Panels
+Provide a complete, one-piece solution for easy procurement and code compliance.
+LCP Series
+LPS Series
+XPress-Ship Program
+Gas Discharge Tubes
+Gas Discharge Tubes
+Dissipate high voltage transients through a contained plasma gas with high surge capability, low capacitance and small size.
+High Voltage GDT
+Low to Medium Surge GDT
+Medium to High Surge GDT
+Squared GDT
+Very High Surge GDT
+Inductors
+Inductors
+Range of power inductors utilizing thin film photolithography technology metal alloy composite with low loss and high current capability for power supply circuits.
+Power Inductors
+Magnetic Sensors and Reed Switches
+Magnetic Sensors and Reed Switches
+Magnetic sensing products utilizing Reed and Hall Effect technologies, with custom solutions available.
+Custom Sensors
+Hall Effect Sensors
+Magnetic Actuators
+Reed Relays
+Reed Sensors
+Reed Switches
+New Products
+Other Products and Accessories
+Other Products and Accessories
+Accessories
+BusBars and Terminal Blocks
+Circuit Breakers
+Connectors
+Knobs and Nuts
+Pilots, Lamps and Alarms
+Power Distribution
+Tracto-Trailer and Auto-RV Connectors
+Wiring Accessories
+Polymer ESD Suppressors
+Polymer ESD Suppressors
+Low capacitance polymer base product for protecting high speed data circuit from ESD damage and maintaining data integrity.
+PESD Protection Devices
+PULSE-GUARD® ESD Suppressors
+XTREME-GUARD™ ESD Suppressors
+PolyZen Devices
+PolyZen Devices
+Polymer-enhanced, precision Zener diodes that offer resettable protection against multi-Watt fault events without the need for multi-Watt heat sinks.
+Miniature PolyZen Devices
+Standard PolyZen Devices
+Power Semiconductors
+Power Semiconductors
+High reliability power semiconductors utilize the latest technology.
+IXYS Power Semiconductors
+ and ICs
+Silicon Carbide
+Ignition IGBTs
+IGBT Modules
+Discrete Thyristors
+Discrete Diodes
+Thyristor Modules
+Diode Modules
+Protection Relays and Controls
+Protection Relays and Controls
+A full range of Protection Relays and Controls for the harshest environments.
+Accessories
+Alternating Relays
+Arc Flash Detection
+Covers and Mounting Adapters
+Feeder Protection
+Ground Fault Relays
+Flashers and Tower Lighting Controls
+Industrial Products
+Intrinsically Safe Relays
+Motor and Pump Protection
+Pump Controls and Liquid Level Controls
+Relay Current Transformers
+Relay Software
+Resistance Grounding
+Retrofit Kits
+Single Function Relays
+Time Delay Relays
+Trailing Cable Protection
+Voltage Monitoring Relays
+Resettable PTC Fuses
+Resettable PTC Fuses
+Resettable Overcurrent Protection devices with various options: Surface Mount, Radial Leaded, Strap and Low Resistance.
+Battery Strap
+Bladed Devices
+Line Voltage Rated Devices
+Low Resistance
+Radial Leaded
+Surface Mount
+TD and Chip
+Telecom
+Semiconductors
+Semiconductors
+Power Semiconductors
+IXYS Power Semiconductors and ICs
+Silicon Carbide
+Ignition IGBTs
+Discrete Thyristors
+View All
+LED Protectors
+PLED
+PLED 5 QFN
+PLED 5HT SOT 89
+PLED6M
+View All
+SIDACtor® Protection Thyristors
+Baseband Voice DS1 Protection
+Broadband Optimized Protection
+High Exposure Surge Protection
+Line Circuit Access Switch LCAS Protection
+View All
+TVS Diode Arrays
+Automotive Qualified
+General Purpose ESD Protection
+Lightning Surge Protection
+Low Capacitance ESD Protection
+Ultra Low Capacitance
+TVS Diodes
+Automotive and High Reliability TVS
+Leaded
+Surface Mount
+View All
+Shock-Block™ GFCI
+Shock-Block™ GFCI
+Shock protection for people and equipment working in dangerous environments.
+Industrial Shock-Block GFCI
+Shock-Block GFCI Rental Products
+Surge Protection Module
+Surge Protection Module
+Used in surge protectors, thermally protected varistor modules from Littelfuse are built with high-quality, dependable materials.
+LED Lighting Surge Protection Modules
+Switches
+Switches
+Features manually-operated, foot-operated, and mechanically-operated switches; and switches operated by temperature or pressure.
+Battery Disconnect Switches
+Ignition Switches
+Manual Battery Disconnect Switches
+Momentary Switches
+Electrical Battery Disconnect Switches
+Push-Pull Switches
+Rocker Switches
+Rotary Switches and Headlamp Switches
+Plunger Switches
+Special Purpose Switches
+Toggle Switches
+Windshield Wiper Switches
+Temperature Sensors
+Temperature Sensors
+Innovative temperature sensing solutions
+Leaded RTDs
+Leaded Thermistors
+Power Thermistors
+RTD Probes and Assemblies
+Surface Mount Thermistors
+Thermistor Probes and Assemblies
+Varistors
+Varistors
+Reliable standard and thermal protected varistor, available in a variety of forms, surge current capability up to 70,000 Amp.
+2Pro Devices
+Industrial High Energy
+Multi-layer
+Radial Leaded
+Specialty
+Surface Mount
+Thermally Protected
+Industries
+Automotive
+Commercial Vehicle
+Consumer Electronics
+Electrical Contractor
+Electrical Maintenance and Repair
+EV Charging
+Heavy Duty Aftermarket
+HVAC/R
+Industrial
+LED Lighting
+Marine
+Medical
+Military Electronic Parts
+Mining
+Oil, Gas and Petroleum
+Power Generation
+Solar
+Telecom
+Water Wastewater
+White Goods
+Services
+Custom Circuit Protection Solutions
+Electrical Safety Services
+MROplus Industrial Fuse Consolidation
+Testing Services
+Technical Resources
+Application Designs
+Consumer and Personal Computing
+Industrial
+Li-ion Battery
+Lighting
+Medical Devices
+Power Supply
+Solar
+Telecom
+White Goods
+Datasheets & Downloads
+3D Models
+Application Guides
+CAD Drawings
+Certification
+Datasheets
+Engineering Drawings
+ICP Test Report
+Product Catalogs
+Product Manuals
+View All...
+Datasheets & Downloads
+2D Prints
+3D Models
+Application Guides
+Application Notes
+Articles
+Brochures
+CAD Drawings
+Certification
+Datasheets
+Engineering Drawings
+ICP Test Report
+Multimedia
+Obsoletion Notices
+Peak Let Thru Curves
+Plant Certifications
+Product Catalogs
+Product Literature
+Product Manuals
+Product Presentations
+Product Specifications
+RoHS Declaration
+RT Tables
+Simplified Circuit Diagrams
+Software
+SPICE Models
+Supplier Quality
+Technical Articles
+Technical Papers
+Time Current Curve
+Training
+Tutorials and Demos
+White Papers
+Online Tools
+Arc-Flash Calculator
+Competitor Cross Reference
+Demos and Tutorials
+eCatalogs
+IBU Relay Selection Guide
+iDesign Electronics Product Selector
+Littelfuse Mobile Apps
+Speed2Design
+Videos
+Technical Centers
+Ceramic, Polymer, and Fuse
+Commercial Vehicle
+Magnetic Sensors and Reed Switches
+POWR-GARD
+Relays and Controls
+Semiconductors
+Silicon Carbide
+Temperature Sensors
+Competitor Cross Reference
+Need the Littelfuse equivalent to a competitor part? Enter the competitor part number here.
+Cancel
+Order Sample
+Search for the part(s) number you wish to receive samples. Or, 
+visit the sample center page.
+Cancel
+Check Distributor Stock
+Check distributor stock levels by entering in full or partial part numbers
+Cancel
+Home
+> 
+Products
+> 
+Power Semiconductors
+> Silicon Carbide
+Print
+Silicon Carbide (SiC)
+SiC Products, Usage & Properties
+Silicon Carbide (SiC) products are ideal for applications where improvements in efficiency, reliability, and thermal management are desired. We focus on developing the most reliable Silicon Carbide Semiconductor Devices available.
+
+
+                                    SiC Schottky Diodes
+
+                                    SiC MOSFETs
+
+                            Information Center
+
+                            Technical Resources
+Sitecore.Data.Items.TemplateFieldItem
+Littelfuse SiC Power Semiconductors
+View All
+White Papers
+Product Presentations
+Silicon Carbide
+
+General Information
+Learn More 
+▶
+Silicon Carbide
+
+Application Support
+Learn More 
+▶
+Silicon Carbide Publications
+State of the SiC MOSFET
+
+Discover what silicon carbide technology means for the future of the power electronics industry.
+Download White Paper
+Selecting A Freewheeling Diode Solution For Lowest Losses With SiC MOSFETs
+Read How2Power Article
+View Products
+Open inline content
+NOW PART OF
+Thank you for visiting!
+Monolithsemi.com has moved to Littelfuse.com.
+Littelfuse, Inc. has acquired Monolith Semiconductor, Inc., and its portfolio of products which can now be found on our site.
+Browse our line of ultra-efficient, high-voltage Silicon Carbide diodes and MOSFETs addressing the increasing demand for intelligent and compact electronic power conversion systems.
+Continue
+Connect with Littelfuse
+ hbspt.cta.load(455238, '013ebca7-fb9a-47d1-bc3d-6a1741ad50db', {}); 
+Linked In
+Facebook
+Twitter
+Littelfuse YouTube
+Weibo
+Glassdoor
+Instagram
+RSS
+Xing
+Mobile Site
+
+                        About Littelfuse
+
+                            About Littelfuse
+
+                            Conflict Free Statement
+
+                            History
+
+                            Investor Relations
+
+                            Legal
+
+                            Press Room
+
+                            Privacy Statement
+
+                            Supply Chain Transparency
+
+                            Website Feedback
+
+                        Explore Littelfuse
+
+                            Capabilities Brochures
+
+                            Careers
+
+                            Check Distributor Stock
+
+                            Competitor Cross Reference
+
+                            Industries
+
+                            Order Samples
+
+                            Products
+
+                            Services
+
+                        Technical Resources
+
+                            Application Designs
+
+                            Education
+
+                            FAQs
+
+                            iDesign™ 
+
+                            Littelfuse University
+
+                            Product Catalogs
+
+                            Quality Documents
+
+                            Technical Documents
+Littelfuse, Inc. 8755 West Higgins Road Suite 500, Chicago, IL, 60631 USA, 773-628-1000 Copyright © 2018 Littelfuse, Inc. 
+苏ICP备08009410号-2
+This website stores cookies on your computer.
+Privacy Policy
+.
+                        
+Essential
+Performance and analytical technologies
+Functionality
+Targeting or advertising

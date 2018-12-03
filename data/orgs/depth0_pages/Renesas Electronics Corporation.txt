@@ -1,0 +1,334 @@
+Renesas Electronics
+Everything
+News
+Investors
+Parametric Search
+My Account
+View MyRenesas Portal
+Edit Your Profile
+Change Your Password
+Product Subscriptions
+My Download List
+Americas
+Americas
+Brazil
+Europe/Middle East/Africa
+Japan (日本語)
+Mainland China/Hong Kong Region (中文)
+Singapore/South & Southeast Asia/Oceania
+India
+South Korea
+Taiwan Region (中文)
+Renesas Electronics
+Solutions
+Close
+Automotive
+Advanced Driver Assistance System (ADAS)
+Body
+Car Audio
+Car Information System
+Chassis & Safety
+HEV/EV
+Instrument Cluster
+Powertrain
+Common Automotive Technologies
+Building Automation
+HVAC Systems
+Building Security Systems
+Fire and Safety Systems
+Lighting Systems
+Energy Management System
+Electricity Meters
+Flow Meters
+Connectivity
+Healthcare
+Personal Medical Devices
+Clinical
+Fitness & Health
+Home Appliance
+Major Home Appliance
+Cooking Appliance
+Small Home Appliance
+Industrial Automation
+Motion and Drives
+Control
+Industrial Network
+Sensors and Actuators
+IA Functional Safety
+Security
+embedded Artificial Intelligence (e-AI)
+Network Infrastructure
+Networking
+Data Center
+Communications
+Office Automation
+Network Camera
+Printer
+HMI Solution
+Computing
+Key Technologies
+Connectivity (Wireless)
+Connectivity (Wired)
+Human Machine Interface
+Motor Control
+Power Supply
+FPGA Power
+Robotics
+e-AI Solution
+Radiation Hardened
+Functional Safety
+All Solutions >
+Products
+Close
+Microcontrollers & Microprocessors
+RL78 MCUs
+RX MCUs
+RH850 MCUs
+RZ MPUs
+Renesas Synergy™ MCUs
+Other MCUs / MPUs
+Automotive
+MCUs and Processors
+Systems-on-Chip (SOC)
+Power Management
+Battery Management
+Video & Display
+Embedded System Platforms
+Renesas Autonomy™ Platform for Automotive
+R-IN Platform for Industrial
+RZ/G Platform for HMI
+Renesas Synergy™ Platform for IoT
+Analog & Power
+Analog
+Interface
+Memory
+Optoelectronics
+Power Management
+Sensors
+Space & Harsh Environment
+Timing & Digital Logic
+All Products >
+Software & Tools
+Boards & Kits
+Software & Drivers
+Tools & Downloads
+Gadget Renesas
+Reference
+Packaging Overview
+ROM Ordering
+Part Number Decoder
+Platforms
+Close
+Renesas Autonomy™ Platform for Automotive
+Advanced Driver Assistance System (ADAS)
+R-Car Consortium
+Development Support
+Partners
+FAQ
+R-IN Platform for Industrial
+Factory Automation
+R-IN Consortium
+Solutions
+Partners
+RZ/G Platform for HMI
+Platform
+Marketplace
+Community
+Support
+Renesas Synergy™ Platform for IoT
+Platform
+Software
+Hardware
+Solutions Gallery
+Support
+Design & Support
+Close
+Search
+Parametric Search
+Document Search
+Sample Code
+Cross-Reference
+Boards & Kits
+Tool Downloads
+Buy / Sample
+eStore
+Order Samples
+Check Order Status
+Online Support
+Forum (Renesas Rulz)
+Knowledgebase / FAQ
+Renesas Ecosystem
+EDA / Design Models
+Simulation
+Contact Support
+Sales Support
+Technical Support
+Learning
+Training & Tutorials
+Webinars
+Engineer School
+Books
+Video Center
+Catalogs
+Product Policies and Programs
+Glossary
+Partners
+Alliance Partner Program
+R-IN Consortium
+R-Car Consortium
+Renesas Synergy™ Partners
+Technical Resources
+Quality / Reliability
+Environmental Compliance
+Packaging Information
+Product Change Notifications (PCN)
+Star Products
+PLP (Long-Term Product Supply Program)
+About
+Close
+About Renesas
+Company Information
+Social & Environmental (CSR)
+Procurement
+Careers
+Search for Jobs
+Company Culture
+Contact Us
+Sales Support
+Technical Support
+Press Center
+News Releases
+Notices
+Events
+Renesas DevCon
+Conferences
+Investors
+Management Policy
+Financial Information
+IR Library
+IR Events
+Stocks & Bonds
+My Account
+View MyRenesas Portal
+Edit Your Profile
+Change Your Password
+Product Subscriptions
+My Download List
+Parametric Search
+Americas
+Americas
+Brazil
+Europe/Middle East/Africa
+Japan (日本語)
+Mainland China/Hong Kong Region (中文)
+Singapore/South & Southeast Asia/Oceania
+India
+South Korea
+Taiwan Region (中文)
+News
+Investors
+Everything
+<
+>
+Renesas and Mahindra Racing Collaborate To Boost Racing Performance 
+ With expanded Formula E technology partnership, system-level EV design and power management expertise continues to be shared for Season 5
+About Mahindra Racing Formula E
+ISL784x4 Automotive-Grade MOSFET Drivers Enable High Current DC/DC Conversion 
+ 100V half-bridge driver family is first to combine gate-sensed adaptive dead time control with independent source/sink pins for slew-rate control. 
+About ISL784x4
+RXv3 CPU Core Delivers Industry-Leading Performance at 5.8 CoreMark®/MHz 
+ 32-bit RX MCUs address real-time performance and enhanced stability required by motor control and industrial applications
+About RXv3 CPU Core
+High-End 3D Graphics for Large-Scale Display Instrument Clusters 
+ R-Car E3 System-On-Chip delivers enhanced 3D graphics rendering performance, as well as safety and security functions essential for connected cars
+About R-Car E3
+Solutions
+Find information about recommended products and solutions created by Renesas and our development partners to help you select the right devices for your design.
+Automotive
+Building Automation
+Energy Management Systems
+Healthcare
+Home Appliance
+Industrial Automation
+Office Automation
+Key Technologies
+All Solutions
+Products
+Renesas provides a comprehensive lineup of semiconductor devices and easy-to-use, sophisticated microcontroller development environments.
+Microcontrollers & Microprocessors
+Automotive
+Analog
+Interface
+Memory
+Optoelectronics
+Power Management
+Sensors
+Space & Harsh Environment
+Timing & Digital Logic
+All Products
+Renesas Synergy™ - Now Even More IoT Friendly
+  Renesas Synergy is a complete and qualified IoT platform that includes integrated software, a scalable family of microcontrollers (MCUs), development tools, plus support and maintenance.  
+Autonomous Security for IoT Edge Devices
+  Even first times users can protect IoT systems with the RX231 security solution and evaluation kit equipped with robust key management, encrypted communication, and tampering detection. 
+Compact & Long-Lasting Wireless Charging Solution
+  Renesas has pushed the advantages of wireless charging further by developing a new wireless charging solution that contributes to more compact size and longer battery life. 
+Browse All Campaigns
+Saving Plant Maintenance Costs Through Reduced Sensor Power Consumption
+Download White Paper
+Smooth, Fast Startup of Sensorless BLDC Motor Using Sensorless Initial Position Detection
+Download White Paper
+Trade Show
+IoT Tech Expo North America 
+
+ Santa Clara, CA
+Event Dates: November 28-29, 2018
+Booth #: 492
+Explore the latest innovations within the Internet of Things and its impact on industries such as Manufacturing, Energy, and Automotive.
+Register
+On-Demand Webinar
+Getting Started with Real-Time Operating Systems
+Original Date: October 19, 2018
+This webinar will examine the benefits of using a Real-Time Operating System (RTOS) for embedded systems and review the fundamental components.
+Watch Now
+On-Demand Webinar
+Building a Verified IoT Data Management Platform
+Original Date: September 26, 2018
+Learn how to build an IoT data management solution at the endpoint, using commercial tools for IoT databases, data distribution systems on Linux.
+Watch Now
+See All Webinars & Events
+Case Study
+Enhancing the "otta" Personal Monitoring Service with Bluetooth® Low Energy Solution
+Learn how Renesas developed the "otta" BLE beacon to support this unique monitoring service with IoT (Internet of Things) technology.
+RL78 Quick Solutions
+Find "easy to build" microcontroller solutions that will assist in your product development.
+Browse Solutions
+RZ/G Linux Platform
+Faster embedded system development with advanced middleware and Linux.
+Get Started
+Motor Control Evaluation
+Shorten time to market with our user-friendly motor control development environment.
+Evaluate Tools
+Back to Top
+×
+Close
+Close
+Need More Help?
+Contact Us
+Forums
+Website Feedback
+Videos
+Knowledgebase
+About Renesas
+News
+Investors
+Careers
+Follow Us
+Facebook
+Twitter
+YouTube
+LinkedIn
+Legal
+Privacy Policy
+Sitemap
+© 2010-2018 Renesas Electronics Corporation. All rights reserved.
+_satellite.pageBottom();

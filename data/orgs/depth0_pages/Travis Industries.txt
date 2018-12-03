@@ -1,0 +1,74 @@
+Skip over navigation
+Home
+Contact Us
+Travis Industries | House of Fire
+ Home
+
+					Our Products
+
+					Employment 
+
+					Press Release
+Travis News  
+2017 Weather Alert:
+ Currently open for all shifts today. 
+                        
+(Last updated: 3/1/2017 8:31AM)
+2015:
+ Fireplace Xtrordinair's Linear Gas Fireplace Series wins the Design Journal Platinum ADEX Award for design excellence
+2014:
+ DaVinci Custom Fireplaces™ wins the VESTA Award for Best New Gas Fireplace at the HPBExpo
+2013:
+ Lopi's Cape Cod
+®
+ wood stove wins the Popular Mechanics
+®
+ People's Choice Award, along with 1st Place awards for Lowest CO Emissions and Market Appeal at the International Wood Stove Design Challenge
+2013:
+ Fireplace Xtrordinair's 21E™ Portrait-Style Electric Fireplace is awarded a Consumer Digest
+®
+ Best Buy
+Jan 17,2010
+Read more..
+Jan 19,2010
+Read more..
+Travis Industries 
+is the largest, privately-owned wood, pellet and gas stove, insert and fireplace company in America and encompasses four high-quality brands: 
+Lopi
+™, 
+Fireplace Xtrordinair
+™, 
+DaVinci Custom Fireplaces™
+ and 
+Tempest
+Torch
+™. These brands are available exclusively from a network of more than 1,200 authorized retailers throughout the United States, Canada, Australia and China. All our products are manufactured in the United States within an 11-acre, Mukilteo, Washington  facility called the 
+House of Fire,
+ employing up to 600 employees just thirty minutes north of Seattle.
+Travis Industries "House of Fire" Featured on Evening Magazine
+(To go to each product site click on the logo)
+Lopi
+ | 
+Fireplace Xtrordinair
+| 
+Tempest Torch
+| 
+Safety Notices
+ |
+Specifiers
+French Manuals - Francais Manuels
+Printable View
+ |
+	    © 2008 - 2018 Travis Industries Inc. | 
+Powered by mojoPortal
+ |
+		
+XHTML 1.0
+ |
+		
+CSS
+ |
+        
+designed by Travis Industries
+Sys.Application.add_load(function() { var form = Sys.WebForms.PageRequestManager.getInstance()._form; form._initialAction = form.action = window.location.href; }); 
+$('div.yui-navset').each(function(n){var myTabs = new YAHOO.widget.TabView(this.id);})

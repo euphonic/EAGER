@@ -1,0 +1,173 @@
+Skip Navigation
+Who We Are - Key Facts
+How We Work - Our Commitments
+News - News Center
+Suppliers
+Careers - Work With Us
+Investors - Investor Relations
+Contacts
+Locations
+View full sitemap
+Back to navigation start
+You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.
+Who We Are
+How We Work
+News
+Careers
+Investors
+UTX
+Suppliers
+Contacts
+Locations
+u
+Who We Are
+Key Facts
+Corporate Governance
+Board of Directors
+Public Activities
+Our Leadership
+Our People
+Global Diversity & Inclusion
+Businesses At A Glance
+Products & Brands
+Research Center
+Digital
+We are a company founded by people who invented technologies, turned them into businesses and, through innovation, built entire industries.
+How We Work
+Our Commitments
+Sustainability
+Our Operating System
+Ethics & Compliance
+Code of Ethics
+Ombudsman Program
+Enterprise Risk Management
+Anti-Corruption Initiatives
+Every day we deliver smart, sustainable products and services that meet the demands of an evolving world.
+News
+News Center
+UTC In The News
+Video Gallery
+Media Resources
+Social Media Center
+Executive Remarks
+Read, watch and follow the latest developments as we pursue our commitment to move the world forward.
+Careers
+Work With Us
+Career Paths
+Benefits
+Professional Development
+Experienced Professionals
+U.S. Military Community
+University Recruiting
+Leadership Programs
+Our Partners
+Recruiting Events
+Job Search
+Career Center Login
+Join our team and contribute your talent toward our unwavering commitment to performance, innovation and sustainability.
+Investors
+Investor Relations
+Stock Information
+Stock Split History
+Dividends
+Analyst List
+Investment Calculator
+Historic Stock Look-up
+Financial Information
+SEC Filings
+Annual Reports & Proxy Statements
+Financial News
+Events & Presentations
+Investor Resources
+Transfer Agent
+EConsent
+Request Materials
+Email Alerts
+FAQs
+ESG Investors
+Investors Sitemap
+Our goal is to create long-term shareowner value by focusing on opportunities that drive profitable growth.
+Suppliers
+Contacts
+Locations
+You Are Now Leaving The United Technologies Website
+You are now leaving UTC.com and entering a website that United Technologies does not control. United Technologies has provided this link for your convenience, but does not endorse and is not responsible for the content, links, privacy policy, or security of this website.
+Confirm
+Honoring Our Veterans at United Technologies
+United Technologies Reports Third Quarter 2018 Results; Raises 2018 Outlook
+UTC Announces Participation in the U.S. Department of Defense Military Spouse Employment Partnership
+Global Diversity & Inclusion: We're all in at UTC
+UTC Re-Empower Program Graduate: Kelly Thompson on Relaunching her Career
+Moving The World Forward
+We do the big things that others cannot.
+UTC At A Glance
+Otis
+UTC Climate,
+Controls & Security
+Pratt & Whitney
+UTC Aerospace 
+Systems
+@UTC
+Social Media Center
+RT 
+@UTC_CCS
+: To our veterans – thank you for everything you have done for this country at home and abroad. 
+#VeteransDay
+pic.twitter.com/GReQF3egPt
+November 11, 2018
+@UTC
+RT 
+@Otis_President
+: Taking time to recognize the men and women of our U.S. military who have selflessly served or continue to serve and protect our freedom....
+November 11, 2018
+@UTC
+This 
+#VeteransDay
+ we give thanks to all the men and women who have served their country. At 
+#UnitedTech
+ we’re proud to support veterans and 
+November 11, 2018
+@UTC
+@Unitedtechnologiescorp
+@Unitedtechnologiescorp
+@Unitedtechnologiescorp
+Performance
+More
+United Technologies reports third quarter 2018 results; raises 2018 outlook
+Innovation
+More
+UTC unveils all-digital Innovation Showcase at Farnborough Airshow
+Sustainability
+More
+Carrier® Infinity® heat pumps deliver energy-saving home comfort for microgrid community
+Latest News
+Press Releases
+United Technologies Executive Vice President & CFO Akhil Johri Presents at Baird's Global Industrial Conference
+United Technologies Reports Third Quarter 2018 Results; Raises 2018 Outlook
+United Technologies Elects Two New Directors
+UTC Board of Directors Increases Quarterly Dividend
+United Technologies Third Quarter Earnings Advisory
+UTC Statement on U.S. Securities and Exchange Commission Settlement 
+Careers
+Explore Careers
+Suppliers
+Contacts
+Locations
+Accessibility
+Sitemap
+Terms of Use
+Privacy
+©2018 UNITED TECHNOLOGIES
+RegisterSod("sp.core.js", "\u002f_layouts\u002fsp.core.js?rev=7ByNlH\u00252BvcgRJg\u00252BRCctdC0w\u00253D\u00253D");
+RegisterSod("sp.res.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=b6\u00252FcRx1a6orhAQ\u00252FcF\u00252B0ytQ\u00253D\u00253D");
+RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002fsp.ui.dialog.js?rev=Tpcmo1\u00252FSu6R0yewHowDl5g\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.core.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");
+RegisterSod("core.js", "\u002f_layouts\u002f1033\u002fcore.js?rev=Emb5hNX1RZMNXk9oS82yvA\u00253D\u00253D");
+RegisterSod("sp.runtime.js", "\u002f_layouts\u002fsp.runtime.js?rev=IGffcZfunndj0247nOxKVg\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.core.js");RegisterSodDep("sp.runtime.js", "sp.res.resx");
+RegisterSod("cui.js", "\u002f_layouts\u002fcui.js?rev=OOyJv78CADNBeet\u00252FvTvniQ\u00253D\u00253D");
+RegisterSod("inplview", "\u002f_layouts\u002finplview.js?rev=WB6Gy8a027aeNCq7koVCUg\u00253D\u00253D");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");
+RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=q6nxzZIVVXE5X1SPZIMD3A\u00253D\u00253D");
+RegisterSod("sp.ui.pub.ribbon.js", "\u002f_layouts\u002fsp.ui.pub.ribbon.js?rev=RGQSBI9Dm0E345iq\u00252FxUpHg\u00253D\u00253D");
+RegisterSod("msstring.js", "\u002f_layouts\u002f1033\u002fmsstring.js?rev=QtiIcPH3HV7LgVSO7vONFg\u00253D\u00253D");
+RegisterSod("browserScript", "\u002f_layouts\u002f1033\u002fnon_ie.js?rev=EVTj1bu32\u00252FMla6SDN\u00252FsNTA\u00253D\u00253D");
+RegisterSodDep("browserScript", "msstring.js");
+var useOldFlowplayer = false;

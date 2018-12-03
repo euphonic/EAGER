@@ -1,0 +1,102 @@
+503.822.5182
+Sales@Prober.com
+Facebook
+Facebook
+Home
+About Us
+Details
+PROBER SPECS
+SEMICS Opus3 Spec Sheet
+TSK UF3000 Spec Sheet
+TSK UF200 Spec Sheet
+TSK APM90A G2 Spec Sheet
+TSK APM90A Spec Sheet
+Prober Parts
+Probers For Sale – Inventory
+ERS Hot & Cold Chuck System
+ERS AIRCOOL®AC3
+ERS WaferTherm® Chuck System
+ERS PowerSense® Chuck System
+Wafer ID Solutions
+COGNEX Wafer ID Reader
+IOSS WID120
+Synax Handler
+Blog
+Contact Us
+Select Page
+SEMICS Opus3 Prober
+6″, 8″ & 12″ Wafer Prober
+ Model: OPUS3
+Features:
+1) Smart Probe card Alignment (SPA) Mechanism
+
+2) Intelligent Overdrive Control
+
+3) 6″, 8″ & 12″ Wafers without Mechanical Changeover
+
+4) Superior Tri-Temp. Control (Cold / Ambient / Hot)
+
+5) Flat Top for Large Test Head
+
+6) Easy On-Site Calibration
+
+7) Fast Index / Less Vibration
+
+8) Fastest & Simplest Auto Card Changer
+
+9) Fast Linear Motor Control for XY Stage
+
+10) Z-Down Control at the Time of Power-Down
+
+11) 200×100 Needle Cleaner
+
+12) CCD Camera Cassette Mapping for Thin Wafers
+
+13) High-Performance OCR
+
+14) SECS GEM Compliance
+New Option:
+SPA (Smart Probe and Alignment)
+
+Monitoring the contact pressure of probe pins,
+
+wafer chuck automatically align itself to probe card.
+Basic Specifications:
+
+Model OPUS3
+
+Wafer Size 6″, 8″ & 12″ Wafers
+
+Accuracy ±1.5µm
+
+Card Changer 350mm – 480mm
+
+Temperature Range -55 – +200°C (with Ambient Control)
+
+Chuck Force 300kg
+
+Index Time 200 msec. (5mm x 5mm x 0.5mm)
+Auto Cassette Loader may be ordered in 3 different ways:
+
+(1) Flat Top Loader
+
+(2) Top Loader
+
+(3) Dual FOUP Loader
+13565 SW Tualatin Sherwood Rd., Suite 500
+
+Sherwood, OR 97140 USA
+
+Email: Sales@prober.com
+
+Phone: 503.822.5182
+Menu
+SEMICS Opus3 Prober
+**SPECIALS**
+ERS Hot & Cold Chuck System
+What’s New
+Facebook
+© Copyright 2004 - 2017 Prober, Inc. - All Rights Reserved
+
+		var et_animation_data = [];
+	

@@ -1,0 +1,2140 @@
+var CADENCE = CADENCE || {};
+Tools
+
+                                System Design and Verification
+                            
+System Design and Verification Overview
+Cadence
+®
+ system design and verification solutions, integrated under our Verification Suite, provide the simulation, acceleration, emulation, and management capabilities.
+Verification Suite
+Related Products A-Z
+Tools Categories
+
+                                                Debug Analysis
+                                            
+Tools
+
+                                                            Indago Debug Platform
+                                                        
+
+                                                            Indago Debug Analyzer App
+                                                        
+
+                                                            Indago Embedded Software Debug App
+                                                        
+
+                                                            Indago Protocol Debug App
+                                                        
+
+                                                            SimVision Debug
+                                                        
+
+                                                Emulation
+                                            
+Tools
+
+                                                            Palladium Z1 Enterprise Emulation System
+                                                        
+
+                                                            Palladium XP Series
+                                                        
+
+                                                            Palladium Dynamic Power Analysis
+                                                        
+
+                                                            Palladium Hybrid
+                                                        
+
+                                                            SpeedBridge Adapters
+                                                        
+
+                                                            VirtualBridge Adapters
+                                                        
+
+                                                            Emulation Development Kit
+                                                        
+
+                                                            Virtual JTAG Debug Interface
+                                                        
+
+                                                            Accelerated VIP
+                                                        
+
+                                                            QuickCycles Services
+                                                        
+
+                                                Formal and Static Verification
+                                            
+Tools
+
+                                                            JasperGold Formal Verification Platform (Apps)
+                                                        
+
+                                                            Assertion-Based Verification IP
+                                                        
+
+                                                            Incisive Formal Verification Platform
+                                                        
+
+                                                FPGA-Based Prototyping
+                                            
+Tools
+
+                                                            Protium S1 FPGA-Based Prototyping Platform
+                                                        
+
+                                                            Protium FPGA-Based Prototyping
+                                                        
+
+                                                            SpeedBridge Adapters
+                                                        
+
+                                                Planning and Management
+                                            
+Tools
+
+                                                            vManager Metric-Driven Signoff Platform
+                                                        
+
+                                                Simulation and Testbench
+                                            
+Tools
+
+                                                            Xcelium Parallel Simulator
+                                                        
+
+                                                            Incisive Enterprise Simulator
+                                                        
+
+                                                            Incisive Functional Safety Simulator
+                                                        
+
+                                                            Cadence Specman Elite
+                                                        
+
+                                                Software-Driven Verification
+                                            
+Tools
+
+                                                            Perspec System Verifier
+                                                        
+
+                                                            Indago Embedded Software Debug App
+                                                        
+
+                                                            Virtual System Platform
+                                                        
+
+                                                Verification IP
+                                            
+Tools
+
+                                                            Accelerated Verification IP
+                                                        
+
+                                                            Assertion-Based VIP
+                                                        
+
+                                                            Verification IP
+                                                        
+
+                                                Flows
+                                            
+Flows
+
+                                                            Verification Solution for ARM-Based Designs
+                                                        
+
+                                                            Automotive Functional Safety
+                                                        
+
+                                                            Metric-Driven Verification Signoff
+                                                        
+
+                                                            Mixed-Signal Verification
+                                                        
+
+                                                            Power-Aware Verification Methodology
+                                                        
+
+                                Digital Design and Signoff
+                            
+Digital Design and Signoff Overview
+Cadence
+®
+ digital design and signoff solutions provide a fast path to design closure and better predictability, helping you meet your power, performance, and area (PPA) targets.
+Full-Flow Digital Solution
+Related Products A-Z
+Tools Categories
+
+                                                Block Implementation
+                                            
+Tools
+
+                                                            Innovus Implementation System
+                                                        
+
+                                                            First Encounter Design Exploration and Prototyping
+                                                        
+
+                                                            Virtuoso Digital Implementation
+                                                        
+
+                                                Logic Equivalence Checking
+                                            
+Tools
+
+                                                            Conformal Equivalence Checker
+                                                        
+
+                                                            Conformal Smart LEC
+                                                        
+
+                                                Functional ECO
+                                            
+Tools
+
+                                                            Conformal ECO Designer
+                                                        
+
+                                                Hierarchical Design and Floorplanning
+                                            
+Tools
+
+                                                            Innovus Implementation System
+                                                        
+
+                                                            First Encounter Design Exploration and Prototyping
+                                                        
+
+                                                            Virtuoso Digital Implementation
+                                                        
+
+                                                Low-Power Validation
+                                            
+Tools
+
+                                                            Conformal Low Power
+                                                        
+
+                                                Synthesis
+                                            
+Tools
+
+                                                            Stratus High-Level Synthesis
+                                                        
+
+                                                            Genus Synthesis Solution
+                                                        
+
+                                                            Virtuoso Digital Implementation
+                                                        
+
+                                                Power Analysis
+                                            
+Tools
+
+                                                            Joules RTL Power Solution
+                                                        
+
+                                                SDC and CDC Validation
+                                            
+Tools
+
+                                                            Conformal Constraint Designer
+                                                        
+
+                                                Silicon Signoff and Verification
+                                            
+Tools
+
+                                                            Pegasus Verification System
+                                                        
+
+                                                            Quantus Extraction Solution
+                                                        
+
+                                                            Tempus Timing Signoff Solution
+                                                        
+
+                                                            Assura Physical Verification
+                                                        
+
+                                                            Physical Verification System
+                                                        
+
+                                                            CMP Predictor
+                                                        
+
+                                                            MaskCompose Reticle and Wafer Synthesis
+                                                        
+
+                                                            QuickView Signoff Data Analysis
+                                                        
+
+                                                            LDE Electrical Analyzer
+                                                        
+
+                                                            Process Proximity
+                                                        
+
+                                                            Pattern Analysis
+                                                        
+
+                                                            Litho Physical Analyzer
+                                                        
+
+                                                            Voltus IC Power Integrity Solution
+                                                        
+
+                                                            Voltus-Fi Custom Power Integrity Solution
+                                                        
+
+                                                Test
+                                            
+Tools
+
+                                                            Modus DFT Software Solution
+                                                        
+
+                                                Flows
+                                            
+Flows
+
+                                                            3D-IC
+                                                        
+
+                                                            Advanced Node
+                                                        
+
+                                                            Arm-Based Designs
+                                                        
+
+                                                            Low Power
+                                                        
+
+                                                            Mixed Signal
+                                                        
+
+                                Custom IC / Analog / RF Design
+                            
+Custom IC / Analog/ RF Design Overview
+Cadence
+®
+ custom, analog, and RF design solutions can help you save time by automating many routine tasks, from block-level and mixed-signal simulation to routing and library characterization.
+Overview
+Related Products A-Z
+Tools Categories
+
+                                                Circuit Design
+                                            
+Tools
+
+                                                            What's New in Virtuoso
+                                                        
+
+                                                            Virtuoso Schematic Editor
+                                                        
+
+                                                            Virtuoso ADE Product Suite
+                                                        
+
+                                                Circuit Simulation
+                                            
+Tools
+
+                                                            Spectre Circuit Simulator
+                                                        
+
+                                                            Spectre Accelerated Parallel Simulator
+                                                        
+
+                                                            Spectre eXtensive Partitioning Simulator
+                                                        
+
+                                                            Spectre RF Option
+                                                        
+
+                                                            Spectre AMS Designer
+                                                        
+
+                                                Layout Design
+                                            
+Tools
+
+                                                            What's New in Virtuoso
+                                                        
+
+                                                            Virtuoso Layout Suite
+                                                        
+
+                                                Layout Verification
+                                            
+Tools
+
+                                                            Virtuoso DFM
+                                                        
+
+                                                            Physical Verification System
+                                                        
+
+                                                            Virtuoso Integrated Physical Verification System
+                                                        
+
+                                                            Quantus Extraction Solution
+                                                        
+
+                                                            Voltus-Fi Custom Power Integrity Solution
+                                                        
+
+                                                            Tempus Timing Signoff Solution
+                                                        
+
+                                                Library Characterization
+                                            
+Tools
+
+                                                            Liberate Trio Characterization Suite
+                                                        
+
+                                                            Liberate MX Memory Characterization
+                                                        
+
+                                                            Liberate AMS Mixed-Signal Characterization
+                                                        
+
+                                                Flows
+                                            
+Flows
+
+                                                            Advanced Node
+                                                        
+
+                                                            Electrically Aware Design
+                                                        
+
+                                                            Legato Memory Solution
+                                                        
+
+                                                            Legato Reliability Solution
+                                                        
+
+                                                            Mixed Signal
+                                                        
+
+                                                            Photonics
+                                                        
+
+                                                            Virtuoso RF Solution
+                                                        
+
+                                                            Virtuoso System Design Platform
+                                                        
+
+                                IC Package Design and Analysis
+                            
+IC Package Design and Analysis Overview
+Driving efficiency and accuracy in advanced packaging, system planning, and multi-fabric interoperability, Cadence
+®
+ package implementation products deliver the automation and accuracy.
+Overview
+Related Products A-Z
+Tools Categories
+
+                                                IC Package Design
+                                            
+Tools
+
+                                                            SIP Layout
+                                                        
+
+                                                            Allegro Package Designer
+                                                        
+
+                                                            3D Design Viewer
+                                                        
+
+                                                            SiP Digital Architect
+                                                        
+
+                                                            SiP Layout Advanced WLP Option
+                                                        
+
+                                                SI/PI Analysis Integrated Solution
+                                            
+Tools
+
+                                                            Allegro Sigrity SI Base
+                                                        
+
+                                                            Allegro Sigrity Power-Aware SI Option
+                                                        
+
+                                                            Allegro Sigrity Serial Link Analysis Option
+                                                        
+
+                                                            Allegro Sigrity Package Assessment and Extraction Option
+                                                        
+
+                                                            Allegro Sigrity PI Base
+                                                        
+
+                                                            Allegro Sigrity PI Signoff and Optimization Option
+                                                        
+
+                                                SI/PI Analysis Point Tools
+                                            
+Tools
+
+                                                            Sigrity PowerSI
+                                                        
+
+                                                            Sigrity PowerDC
+                                                        
+
+                                                            Sigrity OptimizePI
+                                                        
+
+                                                            Sigrity System Explorer
+                                                        
+
+                                                            Sigrity Speed2000
+                                                        
+
+                                                            Sigrity SystemSI
+                                                        
+
+                                                            Sigrity Broadband SPICE
+                                                        
+
+                                                            Sigrity Transistor-to-Behavioral Model Conversion (T2B)
+                                                        
+
+                                                            Sigrity XtractIM
+                                                        
+
+                                                            Sigrity XcitePI Extraction
+                                                        
+
+                                                Cross-Platform Co-Design and Analysis
+                                            
+Tools
+
+                                                            OrbitIO Interconnect Designer
+                                                        
+
+                                                            IO-SSO Analysis Suite
+                                                        
+
+                                                Flows
+                                            
+Flows
+
+                                                            Cross-Substrate Interconnects
+                                                        
+
+                                                            IC/Package/PCB Co-Design
+                                                        
+
+                                                            InFO Packaging Technology
+                                                        
+
+                                                            What's New in Sigrity Technology
+                                                        
+
+                                                            Virtuoso System Design Platform
+                                                        
+
+                                                            PDN Design
+                                                        
+
+                                PCB Design and Analysis
+                            
+PCB Design and Analysis Overview
+Cadence
+®
+ PCB design solutions enable shorter, more predictable design cycles with greater integration of component design and system-level simulation for a constraint-driven flow.
+Overview
+Related Products A-Z
+Service Bureaus
+Tools Categories
+
+                                                Design Authoring
+                                            
+Tools
+
+                                                            Allegro Design Entry Capture/Capture CIS
+                                                        
+
+                                                            Allegro Design Publisher
+                                                        
+
+                                                            Allegro Design Authoring
+                                                        
+
+                                                            Allegro FPGA System Planner
+                                                        
+
+                                                PCB Layout
+                                            
+Tools
+
+                                                            Allegro PCB Designer
+                                                        
+
+                                                            OrCAD PCB Designer
+                                                        
+
+                                                Library and Design Data Management
+                                            
+Tools
+
+                                                            Allegro ECAD-MCAD Library Creator
+                                                        
+
+                                                            Allegro EDM Solution
+                                                        
+
+                                                            Allegro PCB Librarian
+                                                        
+
+                                                            Allegro Pulse
+                                                        
+
+                                                Analog/Mixed-Signal Simulation
+                                            
+Tools
+
+                                                            Allegro PSpice Simulator
+                                                        
+
+                                                            OrCAD PSpice Designer
+                                                        
+
+                                                SI/PI Analysis Integrated Solution
+                                            
+Tools
+
+                                                            Allegro Sigrity Serial Link Analysis Option
+                                                        
+
+                                                            Allegro Sigrity SI Base
+                                                        
+
+                                                            Allegro Sigrity PI Base
+                                                        
+
+                                                            Allegro Sigrity Power-Aware SI Option
+                                                        
+
+                                                            Allegro Sigrity PI Signoff and Optimization Option
+                                                        
+
+                                                SI/PI Analysis Point Tools
+                                            
+Tools
+
+                                                            Sigrity PowerSI
+                                                        
+
+                                                            Sigrity PowerDC
+                                                        
+
+                                                            Sigrity OptimizePI
+                                                        
+
+                                                            Sigrity System Explorer
+                                                        
+
+                                                            Sigrity SystemSI
+                                                        
+
+                                                            Sigrity Speed2000
+                                                        
+
+                                                            Sigrity Broadband SPICE
+                                                        
+
+                                                            Sigrity  Transistor-to-Behavioral Model Conversion (T2B)
+                                                        
+
+                                                            Sigrity PowerSI 3D EM Extraction Option
+                                                        
+
+                                                What's New in Allegro
+                                            
+Tools
+
+                                                            Board Layout
+                                                        
+
+                                                            Schematic Capture
+                                                        
+
+                                                            Data Management
+                                                        
+
+                                                What's New in Sigrity
+                                            
+Tools
+
+                                                            Sigrity 2018 Release
+                                                        
+
+                                                            Sigrity Tech Tips
+                                                        
+
+                                                Flows
+                                            
+Flows
+
+                                                            Product Creation
+                                                        
+
+                                                            ECAD/MCAD Co-Design
+                                                        
+
+                                                            Allegro Right First-Time Design
+                                                        
+
+                                                            IO-SSO Analysis Suite
+                                                        
+
+                                                            3D System Design Solutions
+                                                        
+
+                                                            PDN Design
+                                                        
+
+                                                            LPDDR4 Complete Solutions
+                                                        
+
+                                                            Power Aware Signal Integrity Analysis
+                                                        
+
+                                                            Interface-Aware Approach
+                                                        
+
+                                                            Sigrity Serial Link Analysis
+                                                        
+
+                                Tools A-Z
+                            
+
+                                Resource Library
+                            
+
+				IP
+			
+IP Overview
+An open IP platform for you to customize your app-driven SoC design.
+More
+
+                                        Tensilica Processor IP
+                                    
+
+                                        Interface IP
+                                    
+
+                                        Denali Memory IP
+                                    
+
+                                        Analog IP
+                                    
+
+                                        Systems / Peripheral IP
+                                    
+
+                                        Verification IP
+                                    
+
+				Solutions
+			
+Solutions Overview
+Comprehensive solutions and methodologies.
+More
+
+                                        Cadence Cloud
+                                    
+
+                                        3D-IC Design
+                                    
+
+                                        Advanced Node
+                                    
+
+                                        Aerospace and Defense
+                                    
+
+                                        Arm-Based Solutions
+                                    
+
+                                        Automotive
+                                    
+
+                                        FPGA Development
+                                    
+
+                                        Low Power
+                                    
+
+                                        Machine Learning
+                                    
+
+                                        Mixed Signal
+                                    
+
+                                        Photonics
+                                    
+
+				Services
+			
+Services Overview
+Helping you meet your broader business goals.
+More
+
+                                        Design Services
+                                    
+
+                                        Training
+                                    
+
+                                        Methodology Services
+                                    
+
+                                        Virtual Integrated Computer Aided Design (VCAD)
+                                    
+Support
+
+                                Support 
+                            
+Support Overview
+A global customer support infrastructure with around-the-clock help.
+More
+Support Log In
+
+                                                Support Process
+                                            
+24/7 Support - Cadence Online Support
+Locate the latest software updates, service request, technical documentation, solutions and more in your personalized environment.
+Visit Now
+Software Downloads
+Cadence offers various software services for download. This page describes our offerings, including the Allegro FREE Physical Viewer.
+Visit Now
+
+                                                Computing Platform Support
+                                            
+24/7 Support - Cadence Online Support
+Locate the latest software updates, service request, technical documentation, solutions and more in your personalized environment.
+Visit Now
+Software Downloads
+Cadence offers various software services for download. This page describes our offerings, including the Allegro FREE Physical Viewer.
+Visit Now
+
+                                                Customer Support Contacts
+                                            
+24/7 Support - Cadence Online Support
+Locate the latest software updates, service request, technical documentation, solutions and more in your personalized environment.
+Visit Now
+Software Downloads
+Cadence offers various software services for download. This page describes our offerings, including the Allegro FREE Physical Viewer.
+Visit Now
+
+                                Cadence Academic Network
+                            
+CAN Overview
+The Cadence Academic Network helps build strong relationships between academia and industry, and promotes the proliferation of leading-edge technologies and methodologies at universities renowned for their engineering and design excellence.
+More
+
+                                                Academic Partnerships
+                                            
+Participate in CDNLive
+A huge knowledge exchange platform for academia to network with industry. We are looking for academic speakers to talk about their research to the industry attendees at the Academic Track at CDNLive EMEA and Silicon Valley.
+Visit Now
+Come & Meet Us @ Events
+A huge knowledge exchange platform for academia. We are looking for academic speakers to talk about their research to industry attendees.
+Visit Now
+
+                                                University Software Program
+                                            
+Americas University Software Program
+Join the 250+ qualified Americas member universities who have already incorporated Cadence EDA software into their classrooms and academic research projects.
+Visit Now
+EMEA University Software Program
+In EMEA, Cadence works with EUROPRACTICE to ensure cost-effective availability of our extensive electronic design automation (EDA) tools for non-commercial activities.
+Visit Now
+
+                                                University Recruiting
+                                            
+Apply Now For Jobs
+If you are a recent college graduate or a student looking for internship. Visit our exclusive job search page for interns and recent college graduate jobs.
+Visit Now
+ Cadence is a Great Place to do great work
+Learn more about our internship program and visit our careers page to do meaningful work and make a great impact.
+Visit Now
+
+                                TRAINING CATEGORIES AND COURSES			
+                            
+
+                                Custom IC / Analog / RF Design
+                            
+Training Overview
+Get the most out of your investment in Cadence technologies through a wide range of training offerings.
+Overview
+All Courses
+Asia Pacific
+EMEA
+North America
+Tools Categories
+
+                                                Advanced Nodes (ICADV)
+                                            
+Featured Courses
+
+                                                            Virtuoso Layout for Advanced Nodes
+                                                        
+
+                                                            Virtuoso Layout for Advanced Nodes: T1 Place and Route
+                                                        
+
+                                                            Virtuoso Layout for Advanced Nodes: T2 Electromigration
+                                                        
+
+                                                Circuit Design and Simulation
+                                            
+Featured Courses
+
+                                                            Virtuoso ADE Explorer Series
+                                                        
+
+                                                            Virtuoso ADE Assembler Series
+                                                        
+
+                                                            Virtuoso ADE Verifier
+                                                        
+
+                                                            Design Checks and Asserts
+                                                        
+
+                                                            Mixed-Signal IP and Testbench Reuse
+                                                        
+
+                                                             Mixed-Signal Simulations Using Spectre AMS Designer
+                                                        
+
+                                                            Spectre Accelerated Parallel Simulator
+                                                        
+
+                                                            Spectre eXtensive Partitioning Simulator for Mixed-Signal Designs
+                                                        
+
+                                                            Additional Courses
+                                                        
+
+                                                Electrically-Aware Design
+                                            
+Featured Courses
+
+                                                            Spectre eXtensive Partitioning Simulator for Mixed-Signal Designs
+                                                        
+
+                                                            Physical Verification System
+                                                        
+
+                                                            Virtuoso Analog Design Environment
+                                                        
+
+                                                            Virtuoso Electrically-Aware Design with Layout-Dependent Effects
+                                                        
+
+                                                            Virtuoso Schematic Editor
+                                                        
+
+                                                            Quantus QRC Extraction Series
+                                                        
+
+                                                            Spectre Accelerated Parallel Simulator
+                                                        
+
+                                                Infrastructure
+                                            
+Featured Courses
+
+                                                            Advanced SKILL Language Programming
+                                                        
+
+                                                            SKILL Development of Parameterized Cells
+                                                        
+
+                                                            SKILL Language Programming
+                                                        
+
+                                                            SKILL Language Programming Fundamentals
+                                                        
+
+                                                            SKILL Language Programming Introduction
+                                                        
+
+                                                            SKILL Programming for IC Layout Design
+                                                        
+
+                                                Layout Design and Verification
+                                            
+Featured Courses
+
+                                                            Virtuoso Layout for Advanced Nodes
+                                                        
+
+                                                            Virtuoso Layout Pro Series
+                                                        
+
+                                                            Virtuoso Space-Based Router
+                                                        
+
+                                                            Virtuoso Floorplanner
+                                                        
+
+                                                            Virtuoso Abstract Generator
+                                                        
+
+                                                            Physical Verification Language Rules Writer
+                                                        
+
+                                                            Virtuoso Connectivity-Driven Layout Transition
+                                                        
+
+                                                            Virtuoso Layout Design Basics
+                                                        
+
+                                                            Physical Verification System
+                                                        
+
+                                                            Quantus QRC Extraction Series
+                                                        
+
+                                                Library Characterization
+                                            
+Featured Courses
+
+                                                            Cadence Library Characterization and Validation
+                                                        
+
+                                                            Virtuoso Liberate MX for Memory Characterization
+                                                        
+
+                                                            Cadence Variety Statistical Library Characterization
+                                                        
+
+                                                            Spectre eXtensive Partitioning Simulator for Mixed-Signal Designs 
+                                                        
+
+                                                            Spectre Accelerated Parallel Simulator
+                                                        
+
+                                                            Virtuoso ADE Assembler Series
+                                                        
+
+                                                Modeling
+                                            
+Featured Courses
+
+                                                            Analog Modeling with Verilog-A
+                                                        
+
+                                                            Behavioral Modeling with VHDL-AMS
+                                                        
+
+                                                            Behavioral Modeling with Verilog-AMS
+                                                        
+
+                                                            Mixed-Signal Simulations Using Spectre AMS Designer
+                                                        
+
+                                                            Real Modeling with SystemVerilog
+                                                        
+
+                                                            Real Modeling with Verilog-AMS
+                                                        
+
+                                                            Mixed-Signal IP and Testbench Reuse
+                                                        
+
+                                                            Virtuoso ADE Explorer Series
+                                                        
+
+                                                RF Design
+                                            
+Featured Courses
+
+                                                            Quantus QRC Transistor-Level T1: Overview and Technology Setup
+                                                        
+
+                                                            Quantus QRC Transistor-Level T2: Parasitic Extraction
+                                                        
+
+                                                            Quantus QRC Transistor-Level T3: Extracted View Flows and Advanced Features
+                                                        
+
+                                                            Spectre RF Analysis Using Shooting Newton Method
+                                                        
+
+                                                            Spectre RF Analysis using Harmonic Balance
+                                                        
+
+                                                            Spectre Simulator Fundamentals Series
+                                                        
+
+                                                            Virtuoso ADE Explorer Series
+                                                        
+
+                                                Variation Aware Design
+                                            
+Featured Courses
+
+                                                            Virtuoso ADE Assembler S1: Introducing the Assembler Environment
+                                                        
+
+                                                            Virtuoso ADE Assembler S2: Sweeping Variables, Simulating Corners, and Creating Run Plans
+                                                        
+
+                                                            Virtuoso ADE Assembler S3: Circuit Checks, Device Asserts, and Reliability Analysis
+                                                        
+
+                                                            Variation Analysis Using the Virtuoso ADE Assembler
+                                                        
+
+                                                            Virtuoso Spectre Pro Series
+                                                        
+
+                                                            Spectre eXtensive Partitioning Simulator for Mixed-Signal Designs
+                                                        
+
+                                                Delivery Methods
+                                            
+Instructor-Led Training
+Instructor-led training [ILT] are live classes that are offered in our state-of-the-art classrooms at our worldwide training centers, at your site, or as a Virtual classroom.
+Read more
+Online Training
+Online Training is delivered over the web to let you proceed at your own pace, anytime and anywhere.
+Read more
+
+                                Languages and Methodologies
+                            
+Training Overview
+Get the most out of your investment in Cadence technologies through a wide range of training offerings.
+Overview
+All Courses
+Asia Pacific
+EMEA
+North America
+Tools Categories
+
+                                                Assertions
+                                            
+Featured Courses
+
+                                                            SystemVerilog Assertions
+                                                        
+
+                                                            Verification with PSL
+                                                        
+
+                                                Behavioral Language for AMS Simulation
+                                            
+Featured Courses
+
+                                                            Behavioral Modeling with VHDL-AMS
+                                                        
+
+                                                            Behavioral Modeling with Verilog-AMS
+                                                        
+
+                                                            Real Modeling with SystemVerilog
+                                                        
+
+                                                            Real Modeling with Verilog-AMS
+                                                        
+
+                                                High-Speed PCB Design
+                                            
+Featured Courses
+
+                                                            Essential High-speed PCB Design for Signal Integrity
+                                                        
+
+                                                            PCB Design at RF - multi-Gigabit Transmission, EMI Control, and PCB Materials
+                                                        
+
+                                                Scripting
+                                            
+Featured Courses
+
+                                                            Perl for EDA Engineering
+                                                        
+
+                                                            Tcl Scripting for EDA
+                                                        
+
+                                                Specman and UVMe
+                                            
+Featured Courses
+
+                                                            Specman Advanced Verification
+                                                        
+
+                                                            Specman Fundamentals for Block-Level Environment Developers
+                                                        
+
+                                                SystemC
+                                            
+Featured Courses
+
+                                                            C++ Language Fundamentals for Design and Verification
+                                                        
+
+                                                            SystemC Language Fundamentals
+                                                        
+
+                                                            SystemC Synthesis with Stratus HLS
+                                                        
+
+                                                            SystemC Transaction-Level Modeling (TLM 2.0)
+                                                        
+
+                                                SystemVerilog and UVM
+                                            
+Featured Courses
+
+                                                            Real Modeling with SystemVerilog
+                                                        
+
+                                                            SystemVerilog Accelerated Verification with UVM
+                                                        
+
+                                                            SystemVerilog Advanced Register Verification Using UVM
+                                                        
+
+                                                            SystemVerilog Assertions
+                                                        
+
+                                                            SystemVerilog for Design and Verification
+                                                        
+
+                                                            SystemVerilog for Verification
+                                                        
+
+                                                Verilog and VHDL
+                                            
+Featured Courses
+
+                                                            VHDL Language and Application
+                                                        
+
+                                                            Verification with PSL
+                                                        
+
+                                                            Verilog Language and Application
+                                                        
+
+                                                            Verilog for VHDL Users
+                                                        
+
+                                                Delivery Methods
+                                            
+Instructor-Led Training
+Instructor-led training [ILT] are live classes that are offered in our state-of-the-art classrooms at our worldwide training centers, at your site, or as a Virtual classroom.
+Read more
+Online Training
+Online Training is delivered over the web to let you proceed at your own pace, anytime and anywhere.
+Read more
+
+                                Digital Design and Signoff
+                            
+Training Overview
+Get the most out of your investment in Cadence technologies through a wide range of training offerings.
+Overview
+All Courses
+Asia Pacific
+EMEA
+North America
+Tools Categories
+
+                                                Block and Hierarchical Implementation
+                                            
+Featured Courses
+
+                                                            Analog-on-Top Mixed-Signal Implementation
+                                                        
+
+                                                            Encounter Digital Implementation (Block)
+                                                        
+
+                                                            Encounter Digital Implementation (Hierarchical)
+                                                        
+
+                                                            Innovus Implementation System (Block)
+                                                        
+
+                                                            Innovus Implementation System (Hierarchical)
+                                                        
+
+                                                            Low-Power Flow with Encounter Digital Implementation
+                                                        
+
+                                                            Additional Courses
+                                                        
+
+                                                Equivalence Checking
+                                            
+Featured Courses
+
+                                                            Conformal Low-Power Verification
+                                                        
+
+                                                            Conformal ECO
+                                                        
+
+                                                            Conformal Equivalence Checking
+                                                        
+
+                                                Layout Design
+                                            
+Featured Courses
+
+                                                            Virtuoso Digital Implementation
+                                                        
+
+                                                Silicon Signoff
+                                            
+Featured Courses
+
+                                                            Basic Static Timing Analysis
+                                                        
+
+                                                            Tempus Signoff Timing Analysis and Closure
+                                                        
+
+                                                            Voltus Power-Grid Analysis and Signoff
+                                                        
+
+                                                Synthesis
+                                            
+Featured Courses
+
+                                                            Advanced Synthesis with Genus Synthesis Solution
+                                                        
+
+                                                            Fundamentals of IEEE 1801 Low-Power Specification Format
+                                                        
+
+                                                            Genus Synthesis Solution
+                                                        
+
+                                                            Genus Synthesis Solution with Stylus Common UI
+                                                        
+
+                                                            Joules Power Calculator
+                                                        
+
+                                                            Low-Power Synthesis Flow with Encounter RTL Compiler
+                                                        
+
+                                                            Low-Power Synthesis Flow with Genus Synthesis Solution
+                                                        
+
+                                                            Test Synthesis Using Genus Synthesis Solution
+                                                        
+
+                                                Test
+                                            
+Featured Courses
+
+                                                            Test Synthesis Using Encounter RTL Compiler
+                                                        
+
+                                                Delivery Methods
+                                            
+Instructor-Led Training
+Instructor-led training [ILT] are live classes that are offered in our state-of-the-art classrooms at our worldwide training centers, at your site, or as a Virtual classroom.
+Read more
+Online Training
+Online Training is delivered over the web to let you proceed at your own pace, anytime and anywhere.
+Read more
+
+                                IC Package Design and Analysis
+                            
+Training Overview
+Get the most out of your investment in Cadence technologies through a wide range of training offerings.
+Overview
+All Courses
+Asia Pacific
+EMEA
+North America
+Tools Categories
+
+                                                Cross-Platform Co-Design and Analysis
+                                            
+Featured Courses
+
+                                                            OrbitIO System Planner
+                                                        
+
+                                                            SiP Layout
+                                                        
+
+                                                IC Package Design
+                                            
+Featured Courses
+
+                                                            Allegro Package Designer
+                                                        
+
+                                                            SiP Layout
+                                                        
+
+                                                SI/PI Analysis Integrated Solution
+                                            
+Featured Courses
+
+                                                            Sigrity SystemSI for Parallel Bus and Serial Link Analysis 
+                                                        
+
+                                                            Allegro Sigrity PI
+                                                        
+
+                                                            Allegro Sigrity Package Assessment and Model Extraction
+                                                        
+
+                                                            Allegro Sigrity SI Foundations
+                                                        
+
+                                                            Sigrity PowerDC and OptimizePI
+                                                        
+
+                                                            Sigrity PowerSI for Model Generation and Analysis
+                                                        
+
+                                                SI/PI Analysis Point Tools
+                                            
+Featured Courses
+
+                                                            Sigrity SystemSI for Parallel Bus and Serial Link Analysis
+                                                        
+
+                                                            Allegro Sigrity Package Assessment and Model Extraction
+                                                        
+
+                                                            Sigrity PowerDC and OptimizePI
+                                                        
+
+                                                            Sigrity PowerSI for Model Generation and Analysis
+                                                        
+
+                                                Delivery Methods
+                                            
+Instructor-Led Training
+Instructor-led training [ILT] are live classes that are offered in our state-of-the-art classrooms at our worldwide training centers, at your site, or as a Virtual classroom.
+Read more
+Online Training
+Online Training is delivered over the web to let you proceed at your own pace, anytime and anywhere.
+Read more
+
+                                PCB Design and Analysis
+                            
+Training Overview
+Get the most out of your investment in Cadence technologies through a wide range of training offerings.
+Overview
+All Courses
+Asia Pacific
+EMEA
+North America
+Tools Categories
+
+                                                Analog/Mixed-Signal Simulation
+                                            
+Featured Courses
+
+                                                            Advanced PSpice for Power Users
+                                                        
+
+                                                            Allegro AMS Simulator
+                                                        
+
+                                                            Allegro AMS Simulator Advanced Analysis
+                                                        
+
+                                                            Analog Simulation with PSpice
+                                                        
+
+                                                            Analog Simulation with Pspice Advanced Analysis
+                                                        
+
+                                                Design Authoring
+                                            
+Featured Courses
+
+                                                            Allegro System Design Authoring
+                                                        
+
+                                                            Allegro Design Entry HDL Basics
+                                                        
+
+                                                            Allegro Design Entry HDL Front-to-Back Flow
+                                                        
+
+                                                            Allegro Design Entry HDL SKILL Programming Language
+                                                        
+
+                                                            Allegro Design Entry Using OrCAD Capture
+                                                        
+
+                                                            Allegro Design Reuse
+                                                        
+
+                                                            Allegro System Architect
+                                                        
+
+                                                            Allegro Team Design Authoring
+                                                        
+
+                                                Library and Design Data Management
+                                            
+Featured Courses
+
+                                                            Allegro Design Workbench for Administrators
+                                                        
+
+                                                            Allegro Design Workbench for Engineers and Designers
+                                                        
+
+                                                            Allegro Design Workbench for Librarians
+                                                        
+
+                                                            Allegro PCB Librarian
+                                                        
+
+                                                PCB Layout
+                                            
+Featured Courses
+
+                                                            Allegro Update Training
+                                                        
+
+                                                            Allegro High-Speed Constraint Management
+                                                        
+
+                                                            Allegro PCB Editor Basic Techniques
+                                                        
+
+                                                            Allegro PCB Editor Intermediate Techniques
+                                                        
+
+                                                            Allegro PCB Editor SKILL Programming Language
+                                                        
+
+                                                            Allegro PCB Router Basics
+                                                        
+
+                                                SI/PI Analysis Integrated Solution
+                                            
+Featured Courses
+
+                                                            Sigrity SystemSI for Parallel Bus and Serial Link Analysis
+                                                        
+
+                                                            Allegro Sigrity PI
+                                                        
+
+                                                            Allegro Sigrity SI Foundations
+                                                        
+
+                                                            Sigrity PowerDC and OptimizePI
+                                                        
+
+                                                            Sigrity PowerSI for Model Generation and Analysis
+                                                        
+
+                                                SI/PI Analysis Point Tools
+                                            
+Featured Courses
+
+                                                            Sigrity SystemSI for Parallel Bus and Serial Link Analysis
+                                                        
+
+                                                            Sigrity PowerDC and OptimizePI
+                                                        
+
+                                                            Sigrity PowerSI for Model Generation and Analysis
+                                                        
+
+                                                Delivery Methods
+                                            
+Instructor-Led Training
+Instructor-led training [ILT] are live classes that are offered in our state-of-the-art classrooms at our worldwide training centers, at your site, or as a Virtual classroom.
+Read more
+Online Training
+Online Training is delivered over the web to let you proceed at your own pace, anytime and anywhere.
+Read more
+
+                                System Design and Verification
+                            
+Training Overview
+Get the most out of your investment in Cadence technologies through a wide range of training offerings.
+Overview
+All Courses
+Asia Pacific
+EMEA
+North America
+Tools Categories
+
+                                                Emulation and Acceleration
+                                            
+Featured Courses
+
+                                                            Acceleration with Palladium XP
+                                                        
+
+                                                            In Circuit Emulation with Palladium XP
+                                                        
+
+                                                            Protium Rapid Prototyping Platform
+                                                        
+
+                                                Formal Verification
+                                            
+Featured Courses
+
+                                                            JasperGold Formal Fundamentals
+                                                        
+
+                                                            SystemVerilog Assertions
+                                                        
+
+                                                            Verification with PSL
+                                                        
+
+                                                Planning and Management
+                                            
+Featured Courses
+
+                                                            Foundations of Metric Driven Verification
+                                                        
+
+                                                            Incisive Comprehensive Coverage with IMC
+                                                        
+
+                                                            Metric Driven Verification Using Incisive vManager
+                                                        
+
+                                                            vManager Tool Usage in Batch Mode
+                                                        
+
+                                                Scripting
+                                            
+Featured Courses
+
+                                                            Perl for EDA Engineering
+                                                        
+
+                                                            Tcl Scripting for EDA
+                                                        
+
+                                                Simulation, Testbench and Debug
+                                            
+Featured Courses
+
+                                                            Xcelium Simulator
+                                                        
+
+                                                            Xcelium Integrated Coverage
+                                                        
+
+                                                            Indago Debug Analyzer App
+                                                        
+
+                                                            Incisive Functional Safety Simulator
+                                                        
+
+                                                            Incisive Simulation Performance Optimization
+                                                        
+
+                                                            Low-Power Simulation with IEEE Std 1801 UPF
+                                                        
+
+                                                SystemC
+                                            
+Featured Courses
+
+                                                            C++ Language Fundamentals for Design and Verification
+                                                        
+
+                                                            SystemC Language Fundamentals
+                                                        
+
+                                                            SystemC Synthesis with Stratus HLS
+                                                        
+
+                                                            SystemC Transaction-Level Modeling (TLM 2.0)
+                                                        
+
+                                                Specman and UVMe
+                                            
+Featured Courses
+
+                                                            Specman Advanced Verification
+                                                        
+
+                                                            Specman Fundamentals for Block-Level Environment Developers
+                                                        
+
+                                                SystemVerilog and UVM
+                                            
+Featured Courses
+
+                                                            Real Modeling with SystemVerilog
+                                                        
+
+                                                            SystemVerilog Accelerated Verification with UVM
+                                                        
+
+                                                            SystemVerilog Advanced Register Verification Using UVM
+                                                        
+
+                                                            SystemVerilog Assertions
+                                                        
+
+                                                            SystemVerilog for Design and Verification
+                                                        
+
+                                                            SystemVerilog for Verification
+                                                        
+
+                                                Verilog and VHDL
+                                            
+Featured Courses
+
+                                                            VHDL Language and Application
+                                                        
+
+                                                            Verification with PSL
+                                                        
+
+                                                            Verilog Language and Application
+                                                        
+
+                                                            Verilog for VHDL Users
+                                                        
+
+                                                Delivery Methods
+                                            
+Instructor-Led Training
+Instructor-led training [ILT] are live classes that are offered in our state-of-the-art classrooms at our worldwide training centers, at your site, or as a Virtual classroom.
+Read more
+Online Training
+Online Training is delivered over the web to let you proceed at your own pace, anytime and anywhere.
+Read more
+
+                                Tensilica Processor IP
+                            
+Training Overview
+Get the most out of your investment in Cadence technologies through a wide range of training offerings.
+Overview
+All Courses
+Asia Pacific
+EMEA
+North America
+Tools Categories
+
+                                                ConnX DSPs
+                                            
+Featured Courses
+
+                                                            Tensilica ConnX BBE16EP Baseband Engine
+                                                        
+
+                                                            Tensilica ConnX BBE32EP Baseband Engine
+                                                        
+
+                                                            Tensilica ConnX BBE64EP Baseband Engine
+                                                        
+
+                                                Fusion DSPs
+                                            
+Featured Courses
+
+                                                            Tensilica Fusion F1 DSP
+                                                        
+
+                                                            Tensilica Fusion G3 DSP
+                                                        
+
+                                                HiFi DSPs
+                                            
+Featured Courses
+
+                                                            Tensilica HiFi 2/EP/Mini Audio Engine ISA
+                                                        
+
+                                                            Tensilica HiFi 3 Audio Engine ISA
+                                                        
+
+                                                Tensilica Processors
+                                            
+Featured Courses
+
+                                                            Introduction to System Modeling with Tensilica Processor Cores
+                                                        
+
+                                                            Tensilica Processor Fundamentals
+                                                        
+
+                                                            Tensilica Instruction Extension Language and Design
+                                                        
+
+                                                            Tensilica Xtensa Hardware Verification and EDA
+                                                        
+
+                                                            Tensilica Xtensa Processor Interfaces
+                                                        
+
+                                                Vision DSPs
+                                            
+Featured Courses
+
+                                                            Tensilica Vision P5 DSP
+                                                        
+
+                                                            Tensilica Vision P6 DSP
+                                                        
+
+                                                Delivery Methods
+                                            
+Instructor-Led Training
+Instructor-led training [ILT] are live classes that are offered in our state-of-the-art classrooms at our worldwide training centers, at your site, or as a Virtual classroom.
+Read more
+Online Training
+Online Training is delivered over the web to let you proceed at your own pace, anytime and anywhere.
+Read more
+Community
+
+                                Blogs
+                            
+Blogs
+Exchange ideas, news, technical information, and best practices.
+All Blogs
+
+                                                        Breakfast Bytes
+                                                    
+
+                                                        Cadence Academic Network
+                                                    
+
+                                                        Cadence on the Beat
+                                                    
+
+                                                        Cadence Support
+                                                    
+
+                                                        Custom IC Design
+                                                    
+
+                                                        Custom IC Design (Chinese)
+                                                    
+
+                                                        Digital Implementation
+                                                    
+
+                                                        Functional Verification
+                                                    
+
+                                                        IC Packaging and SiP Design 
+                                                    
+
+                                                        The India Circuit
+                                                    
+
+                                                        Insights on Culture
+                                                    
+
+                                                        Mixed-Signal Design
+                                                    
+
+                                                        PCB Design
+                                                    
+
+                                                        PCB, IC Packaging, SI/PI (Chinese)
+                                                    
+
+                                                        RF Design
+                                                    
+
+                                                        Signal and Power Integrity (PCB/IC Packaging)
+                                                    
+
+                                                        Silicon Signoff
+                                                    
+
+                                                        System Design and Verification 
+                                                    
+
+                                                        Tensilica, Design IP and Verification IP
+                                                    
+
+                                                        Whiteboard Wednesdays
+                                                    
+
+                                                        All Blog Categories
+                                                    
+
+                                Technical Forums
+                            
+Technical Forums
+The community is open to everyone, and to provide the most value, we require participants to follow our Community Guidelines that facilitate a quality exchange of ideas and information.
+All Forums
+
+                                                        Custom IC Design
+                                                    
+
+                                                        Custom IC SKILL
+                                                    
+
+                                                        Digital Implementation
+                                                    
+
+                                                        Functional Verification
+                                                    
+
+                                                        Functional Verification Shared Code
+                                                    
+
+                                                        Hardware/Software Co-Development Verification and Integration
+                                                    
+
+                                                        High-Level Synthesis
+                                                    
+
+                                                        IC Packaging and SiP Design
+                                                    
+
+                                                        Logic Design
+                                                    
+
+                                                        Mixed-Signal Design
+                                                    
+
+                                                        PCB Design
+                                                    
+
+                                                        PCB SKILL
+                                                    
+
+                                                        RAVEL DRC Programming for IC Packaging and PCS
+                                                    
+
+                                                        RF Design
+                                                    
+
+                                                        All User Forums
+                                                    
+
+                                General Topics Forums
+                            
+General Topics Forums
+It's not all about the technology. Here we exchange ideas on the Cadence Academic Network and other subjects of general interest.
+
+                                                        Announcements
+                                                    
+
+                                                        Feedback, Suggestions, and Questions
+                                                    
+
+                                                        Jobs
+                                                    
+
+				Company
+			
+About Us
+Cadence is a leading provider of system design tools, software, IP, and services.
+Overview
+
+                                        System Design Enablement
+                                    
+
+                                        Customers
+                                    
+
+                                        Executive Team
+                                    
+
+                                        Board of Directors
+                                    
+
+                                        Corporate Governance
+                                    
+
+                                        Culture and Diversity
+                                    
+
+                                        Environmental Sustainability
+                                    
+
+                                        Careers
+                                    
+
+                                        Investor Relations
+                                    
+
+                                        Events
+                                    
+
+                                        Newsroom
+                                    
+Login
+Contact Us
+Share
+Search
+Menu
+Share
+112G SerDes IP Unveiled
+Silicon proven, long reach, low power
+
+                      LEARN MORE
+                    
+Tensilica HiFi 5 DSP
+Industry-leading performance for 
+AI speech
+ and audio processing
+
+                      LEARN MORE
+                    
+CADENCE CLOUD
+The Future of Electronic Design
+
+                      GET STARTED
+                    
+Cadence tools
+News
+VIEW ALL 
+SoC Test Generation with Perspec
+Supporting portable stimulus specification 1.0 across the Cadence Verification Suite
+LEARN MORE
+Latest News
+31 Oct
+Cadence Introduces the Tensilica HiFi 5 DSP, the First DSP Optimized for AI Speech and Audio Processing 
+23 Oct
+Cadence Custom/AMS Flow Certified on Samsung 7LPP Process Technology
+22 Oct
+Cadence Accelerates Next-Generation Cloud Datacenter Infrastructure with Industry's First Silicon-Proven, Long-Reach 7nm 112G SerDes IP
+Events
+VIEW ALL
+Automotive Summit 2018
+Don’t miss this exciting event!
+
+November 14 in San Jose
+
+LEARN MORE
+Upcoming Events
+16 Oct - 16 Nov
+Technology on Tour: Innovation for the Next Wave of Mixed-Signal IC and System Design 2018
+13 Nov - 14 Nov
+Technology on Tour: Full-Flow Digital Design Verification and Signoff Solutions 2018
+14 Nov
+Automotive Summit 2018
+15 Nov - 16 Nov
+Technology on Tour: Innovation for the Next Wave of Mixed-Signal IC and System Design India  2018
+Blogs
+VIEW ALL 
+Paul McLellan's Breakfast Bytes
+Fresh every morning - Industry news and analysis
+LEARN MORE
+Latest Blogs
+Cadence Cloud – The Future of Electronic Design
+Enabling Complex Electronic Systems
+Emulating Nvidia GPUs
+The Innovus Implementation System routing capability enables us to drive those defects even lower for our automotive customers.
+Dragomir Nikolic, Worldwide CAD Director, Cypress Semiconductor
+Read More
+ or 
+View All Customers
+The new Virtuoso ADE Verifier technology and the Virtuoso ADE Assembler technology run plan capability make our design teams more productive.
+Yanqiu Diao, Deputy General Manager, Turing Processor Business Unit, HiSilicon Technologies Co., Ltd.
+Read More
+ or 
+View All Customers
+The breadth and the depth of enhancements have the ability to significantly improve our PCB design productivity in designing for space-constrained applications.
+Greg Bodi, Director of System Engineering PCB Layout, NVIDIA
+Read More
+ or 
+View All Customers
+Tools
+System Design and Verification
+Digital Design and Signoff
+Custom IC / Analog / RF Design
+IC Package Design and Analysis
+PCB Design and Analysis
+Tools A-Z
+IP
+Tensilica Processors
+Interface IP
+Denali Memory IP
+Analog IP
+Systems/Peripheral IP
+Verification IP
+Support
+Online Support
+Training
+Software Downloads
+University Software Program
+Resource Library
+News
+Press Releases
+Newsroom
+Blogs
+Forums
+Company
+Cadence Overview
+Investor Relations
+Alliances
+Executive Team
+Events
+Careers
+A Great Place to Do Great Work!
+Fourth year on the FORTUNE 100 list
+Our Culture
+Join the Team
+Contact Us
+General Inquiry
+Customer Support
+Media Relations
+Global Office Locator
+Subscribe to Monthly Newsletter
+Email 
+*
+×
+Please confirm to enroll for subscription!
+CONFIRM
+CANCEL
+×
+Thank you for subscribing. You will get an email to confirm your subscription.
+CLOSE
+
+                        Worldwide
+                        
+China
+Japan
+Korea
+Taiwan
+Global Office Locator
+Terms of Use
+Privacy Policy
+US Trademarks
+© 2018 Cadence Design Systems, Inc. All Rights Reserved. 
+Connect with Us 
+var s_account="cadencemossprod";
+var s_account=s_account.replace("\x2D","-");
+var gacode="UA\u002D17120465\u002D1";
+var gacode=gacode.replace("\x2D","-");
+var marketocode="070\u002DBII\u002D206";
+var marketocode=marketocode.replace("\x2D","-");
+_satellite.pageBottom();

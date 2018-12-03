@@ -7,7 +7,7 @@ library(extrafont)
 loadfonts(device = "pdf")
 library (ggplot2)
 
-setwd("C:\\Users\\sarora\\Documents\\GitHub\\EAGER\\data\\patents\\measures")
+setwd("/Users/sarora/dev/EAGER/data/patents/measures")
 
 # load data
 in.ass_all <- read.csv("assignees_overall.csv", header = TRUE, stringsAsFactors = FALSE)

@@ -1,0 +1,559 @@
+
+      Skip to main content
+  
+Integrated Device Technology, Inc. (IDT)
+Search
+Directions
+Smart Search
+Cross Reference
+Package Lookup
+Full Search
+Standard search with a direct link to product, package, and page content when applicable.
+Enter a competitor's part number for list of IDT-compatible parts.
+Enter a package ID or package type to search IDT's database.
+Display a full list of search results and content types (no auto-redirect).
+
+      Enter the terms you wish to search for.
+    
+Cancel
+User account
+Language
+Language
+English
+中文
+日本語
+Cart
+Secure Portal
+Log in
+Products
+Clocks & Timing
+Application-Specific Clocks
+Network Synchronization
+IEEE 1588 and Synchronous Ethernet Clocks
+PDH and SONET/SDH Clocks
+PCI Express® Clocks
+PCI Express® Clock Buffers and Multiplexers
+PCI Express® Clock Generators
+Processor Clocks
+Processor Clock Buffers
+Processor Clock Generators
+RF & JESD204B Timing
+RF Buffers and Dividers
+RF Converter Clocks
+RF Synthesizers & PLLs
+Real-Time Clocks
+Spread-Spectrum Clocks
+Clock Distribution
+Clock Buffers & Drivers
+Clock Dividers
+Clock Multiplexers (MUX)
+Zero Delay Buffers (ZDB)
+Clock Generation
+Clocks - General Purpose
+Clocks - Low Jitter (<700 fs RMS)
+Clocks - Ultra-Low Jitter (<300 fs RMS)
+Clocks - Extreme Performance (<150 fs RMS)
+Programmable Clocks
+Crystal Oscillators
+Jitter Attenuators with Frequency Translation
+Interface & Connectivity
+6LoWPAN Wireless Modules
+AS-Interface Products
+Data Compression
+IO-Link Line Drivers
+Memory Interface Products
+DDR Solutions
+DDR2 Solutions
+DDR3 Solutions
+DDR4 Solutions
+SDR Solutions
+Millimeter and Microwave Solutions (mmWave)
+Optical Interconnect - Datacom
+Laser Drivers
+Optical CDR and Retimers
+Optical Transimpedance Amplifiers (TIA) - Datacom
+Optical Interconnect - Telecom
+Optical Modulator Drivers
+Optical Transimpedance Amplifiers (TIA) - Telecom
+PCI Express® Solutions
+PCI / X Bridges
+PCI Express® Bridges
+PCI Express® Clocks
+PCI Express® Clock Buffers and Multiplexers
+PCI Express® Clock Generators
+PCI Express® Gen2 Repeaters
+PCI Express® Gen3 Retimers
+PCI Express® Switches
+Physical Layer Products
+Serial RapidIO® Solutions
+PCI Express® to Serial RapidIO® Bridges
+RapidIO Switches
+Serial RapidIO® 2.1 Repeaters
+Signal Integrity Products
+Multiprotocol Repeaters
+PCI Express® Gen2 Repeaters
+PCI Express® Gen3 Retimers
+SAS / SATA 6G Repeaters
+Serial RapidIO® 2.1 Repeaters
+USB 3.0 Repeaters
+XAUI Repeaters
+Telecom Interface Products
+PCM CODECs
+T1/J1/E1 Interface Products
+Time Slot Interchange (TSI) Digital Switches
+VME
+Video Broadcast Software & ASICs
+Memory & Logic
+Bus Switch
+3.3V CBTLV (General Purpose Bus Switch)
+3.3V CBTLV Double Density (General Purpose Bus Switch)
+3.3V QuickSwitch (High Bandwidth Bus Switch)
+5.0V QuickSwitch
+Analog Multiplexers and Demultiplexers
+Analog Switches
+EHB (Embedded Host Bridges)
+FIFO Products
+Asynchronous FIFOs
+Queuing FIFOs
+Synchronous FIFOs
+Memory Interface Products
+DDR Solutions
+DDR2 Solutions
+DDR3 Solutions
+DDR4 Solutions
+Memory Multiplexers
+SDR Solutions
+Multi-Port Memory
+Asynchronous Dual-Port RAMs
+Asynchronous Low-Power Dual-Port RAMs
+Bank-Switchable Dual-Port RAMs
+FourPort RAMs
+Synchronous Dual-Port RAMs
+SRAMs
+Asynchronous SRAMs
+Synchronous Burst
+Zero Bus Turnaround (ZBT)
+Standard Logic
+Advanced Low-Voltage CMOS (ALVC)
+Fast CMOS TTL-Compatible (FCT)
+Low-Voltage CMOS (LVC)
+Power Management
+Motor Control ICs
+Power Management ICs (PMIC) and PMUs
+Wireless Power
+Wireless Power Receivers
+Wireless Power Transmitters
+RF Products
+Millimeter and Microwave Solutions (mmWave)
+Modulators & Demodulators
+RF Amplifiers
+RF Attenuators
+RF Mixers
+RF Switches
+RF Synthesizers & PLLs
+Variable Gain Amplifiers (VGA)
+Sensor Products
+Flow Sensors
+Gas Sensors
+Humidity Sensors
+Position Sensors
+Sensor Signal Conditioners
+Wireless Power
+Wireless Power Receivers
+Wireless Power Transmitters
+Parametric Search
+Applications
+Automotive
+High-performance Computing
+Industrial & Embedded
+Mobile & Personal Electronics
+Network Communications
+Wireless Infrastructure
+Tools & Support
+Technical Support
+Quality / Reliability
+Package Information
+Frequently Asked Questions
+Docs & Tools Search
+Cross-Reference
+Clock Tree Design Service
+Reference Designs
+Calculators
+X-Microwave Modular Blocks
+Buy & Sample
+Sales Support
+Free Sample Request
+Check Product Availability
+Sales and Distributor Directory
+About IDT
+Company Overview
+Contact IDT
+Executive Team
+Investors
+Careers
+Corporate Responsibility & Citizenship
+IDT Acts of Giving
+Previous
+Next
+
+      Back to top
+  
+Featured Products
+Learn more
+Clocks & Timing
+The industry's broadest and deepest portfolio of advanced silicon timing products.
+Learn more
+Wireless Power
+Innovative SoC architectures, industry-leading efficiency, and hardware/algorithm implementations.
+Learn more
+RF Products
+Minimize interference and maximize performance in an increasingly crowded radio spectrum.
+Learn more
+Sensor Products
+Best-in-class performance in a wide array of applications ranging from industrial to automotive.
+Show All Products
+Clocks & Timing
+Application-Specific Clocks 
+(366)
+Network Synchronization 
+(45)
+IEEE 1588 and Synchronous Ethernet Clocks 
+(30)
+PDH and SONET/SDH Clocks 
+(15)
+PCI Express® Clocks 
+(153)
+PCI Express® Clock Buffers and Multiplexers 
+(104)
+PCI Express® Clock Generators 
+(49)
+Processor Clocks 
+(59)
+Processor Clock Buffers 
+(36)
+Processor Clock Generators 
+(23)
+Real-Time Clocks 
+(3)
+RF & JESD204B Timing 
+(87)
+RF Buffers and Dividers 
+(71)
+RF Converter Clocks 
+(12)
+RF Synthesizers & PLLs 
+(3)
+Spread-Spectrum Clocks 
+(19)
+Clock Distribution 
+(533)
+Clock Buffers & Drivers 
+(282)
+Clock Dividers 
+(34)
+Clock Multiplexers (MUX) 
+(133)
+Zero Delay Buffers (ZDB) 
+(84)
+Clock Generation 
+(325)
+Clocks - Extreme Performance (<150 fs RMS) 
+(5)
+Clocks - General Purpose 
+(89)
+Clocks - Low Jitter (<700 fs RMS) 
+(100)
+Clocks - Ultra-Low Jitter (<300 fs RMS) 
+(37)
+Programmable Clocks 
+(94)
+Crystal Oscillators 
+(19)
+Jitter Attenuators with Frequency Translation 
+(42)
+Sensor Products
+6LoWPAN Wireless Modules 
+(2)
+Flow Sensors 
+(5)
+Gas Sensors 
+(4)
+Humidity Sensors 
+(4)
+Position Sensors 
+(3)
+Sensor Signal Conditioners 
+(25)
+Power Management
+Motor Control ICs 
+(1)
+Power Management ICs (PMIC) and PMUs 
+(9)
+Wireless Power 
+(12)
+Wireless Power Receivers 
+(4)
+Wireless Power Transmitters 
+(8)
+Wireless Power
+Wireless Power Receivers 
+(4)
+Wireless Power Transmitters 
+(8)
+Interface & Connectivity
+6LoWPAN Wireless Modules 
+(2)
+AS-Interface Products 
+(2)
+Data Compression 
+(1)
+IO-Link Line Drivers 
+(4)
+Memory Interface Products 
+(38)
+DDR Solutions 
+(7)
+DDR2 Solutions 
+(11)
+DDR3 Solutions 
+(6)
+DDR4 Solutions 
+(11)
+DDR5 Solutions 
+(0)
+Memory Multiplexers 
+(2)
+SDR Solutions 
+(1)
+Millimeter and Microwave Solutions (mmWave) 
+(14)
+Optical Interconnect - Datacom 
+(37)
+Laser Drivers 
+(17)
+Optical CDR and Retimers 
+(3)
+Optical Transimpedance Amplifiers (TIA) - Datacom 
+(17)
+Optical Interconnect - Telecom 
+(7)
+Optical Modulator Drivers 
+(5)
+Optical Transimpedance Amplifiers (TIA) - Telecom 
+(2)
+PCI Express® Solutions 
+(201)
+PCI / X Bridges 
+(1)
+PCI Express® Bridges 
+(4)
+PCI Express® Clocks 
+(153)
+PCI Express® Clock Buffers and Multiplexers 
+(104)
+PCI Express® Clock Generators 
+(49)
+PCI Express® Gen2 Repeaters 
+(3)
+PCI Express® Gen3 Retimers 
+(3)
+PCI Express® Switches 
+(36)
+PCI Express® to Serial RapidIO® Bridges 
+(1)
+Physical Layer Products 
+(5)
+Serial RapidIO® Solutions 
+(10)
+Data Compression 
+(1)
+PCI Express® to Serial RapidIO® Bridges 
+(1)
+RapidIO Switches 
+(6)
+Serial RapidIO® 2.1 Repeaters 
+(2)
+Signal Integrity Products 
+(17)
+Multiprotocol Repeaters 
+(2)
+PCI Express® Gen2 Repeaters 
+(3)
+PCI Express® Gen3 Retimers 
+(3)
+SAS / SATA 6G Repeaters 
+(3)
+Serial RapidIO® 2.1 Repeaters 
+(2)
+USB 3.0 Repeaters 
+(2)
+XAUI Repeaters 
+(2)
+Telecom Interface Products 
+(42)
+PCM CODECs 
+(3)
+T1/J1/E1 Interface Products 
+(23)
+Time Slot Interchange (TSI) Digital Switches 
+(16)
+Video Broadcast Software & ASICs 
+(13)
+VME 
+(1)
+RF Products
+Millimeter and Microwave Solutions (mmWave) 
+(14)
+Modulators & Demodulators 
+(4)
+RF Amplifiers 
+(4)
+RF Attenuators 
+(13)
+RF Mixers 
+(11)
+RF Switches 
+(14)
+RF Synthesizers & PLLs 
+(3)
+Variable Gain Amplifiers (VGA) 
+(9)
+Memory & Logic
+Bus Switch 
+(71)
+3.3V CBTLV (General Purpose Bus Switch) 
+(10)
+3.3V CBTLV Double Density (General Purpose Bus Switch) 
+(5)
+3.3V QuickSwitch (High Bandwidth Bus Switch) 
+(24)
+5.0V QuickSwitch 
+(25)
+Analog Multiplexers and Demultiplexers 
+(3)
+Analog Switches 
+(4)
+EHB (Embedded Host Bridges) 
+(5)
+FIFO Products 
+(143)
+Asynchronous FIFOs 
+(36)
+Queuing FIFOs 
+(5)
+Synchronous FIFOs 
+(102)
+Memory Interface Products 
+(38)
+DDR Solutions 
+(7)
+DDR2 Solutions 
+(11)
+DDR3 Solutions 
+(6)
+DDR4 Solutions 
+(11)
+DDR5 Solutions 
+(0)
+Memory Multiplexers 
+(2)
+SDR Solutions 
+(1)
+Multi-Port Memory 
+(103)
+FourPort RAMs 
+(2)
+Asynchronous Dual-Port RAMs 
+(63)
+Asynchronous Low-Power Dual-Port RAMs 
+(2)
+Bank-Switchable Dual-Port RAMs 
+(4)
+Synchronous Dual-Port RAMs 
+(32)
+SRAMs 
+(46)
+Asynchronous SRAMs 
+(19)
+Synchronous Burst 
+(12)
+Zero Bus Turnaround (ZBT) 
+(15)
+Standard Logic 
+(88)
+Advanced Low-Voltage CMOS (ALVC) 
+(14)
+Fast CMOS TTL-Compatible (FCT) 
+(56)
+Low-Voltage CMOS (LVC) 
+(18)
+Tools & Support
+Cross Reference Search
+Docs & Tools Search
+Knowledge Base / FAQs
+Clock Tree Design Service
+News & Blog
+Renesas to Acquire Integrated Device Technology, to Enhance Global Leadership in Embedded Solutions
+Key Transaction Highlights:
+continue reading
+Future-proofing with 6LoWPAN-based IoT Sensors
+See the benefits of 6LoWPAN over other connectivity protocols.
+continue reading
+A Sense of Clean Air
+Finding the right sensor to detect volatile organic compounds (VOCs) that affect clean air.
+continue reading
+View All Blog Posts
+ | 
+View All News
+IDT
+Newsletter
+Join thousands of engineers who never miss out on learning about the latest product technology from IDT. Enter your email below and click go!
+Email address
+Topics of Interest
+Please select your topics of interest:
+Clocks & Timing
+Stay current on the broadest and deepest silicon timing portfolio in the industry. Learn about IDT’s advanced timing products and how they can solve timing challenges in wireless infrastructure, networking, data centers and consumer applications.
+RF Products
+Subscribe to learn how IDT’s full-featured RF products help address unwanted interference in an increasingly crowded radio spectrum. IDT’s RF solutions address the evolving needs of 4G/5G base stations, communications systems, microwave, industrial, and more.
+Sensors
+Leveraging 20+ years of industry experience, IDT's sensor technologies offer best-in-class performance in a wide array of applications ranging from industrial to automotive. Stay informed about the latest news and differentiated sensor offerings from a proven, trusted partner in the sensor space.
+Wireless Power
+Stay on the cutting edge with IDT's wireless power solutions. Learn how IDT leads the way with an innovative SoC architecture, industry-leading efficiency, and hardware/algorithm implementations.
+Submit and close
+Topics of interest
+clocks
+rf
+sensors
+wireless
+Social
+Facebook
+Twitter
+LinkedIn
+YouTube
+Corporate
+About IDT
+Careers
+Contact IDT
+Corporate Responsibility
+Investors
+Press Room
+Blogs
+Videos
+Legal
+Privacy Policy
+Terms of Use
+Trademarks
+Language
+English
+中文
+日本語
+©2018 Integrated Device Technology, Inc.
+X
+Please Log In
+Username or email address
+Password
+Or Register
+Before you submit a part request, we kindly ask that you login or 
+register
+ to validate your email account. Once completed, you will be returned to your part request form. Don't worry, it's quick!
+Register

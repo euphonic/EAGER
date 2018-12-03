@@ -1,0 +1,303 @@
+NetApp.com
+More on NetApp
+NetApp.com
+Support
+Community
+Blog
+Training
+Customer Stories
+Contact
+Sign in
+Menu
+bars
+netapp-mark
+netapp-logo
+Solutions
+chevron-down
+Products
+chevron-down
+Cloud Marketplace
+linkedin
+twitter
+youtube
+search
+search
+search
+Search
+cloud-storage
+Cloud Data Services
+NetApp Kubernetes Service
+Azure NetApp Files
+Cloud Volumes Service for Google
+Cloud Volumes Service for AWS
+Cloud Volumes ONTAP
+Cloud Sync
+Cloud Backup
+SaaS Backup for Microsoft Office 365
+Cloud Insights
+storage-software
+Data Storage Software
+MAX Data Software
+ONTAP Data Management Software
+Element Software
+SANtricity Software
+ONTAP Select
+StorageGRID Software
+converged
+Converged Systems
+FlexPod
+NFLEX
+NetApp HCI
+infrastructure
+Data Infrastructure Management
+OnCommand Insight
+OnCommand Unified Manager
+OnCommand Workflow Automation
+OnCommand Cloud Manager
+Virtual Infrastructure Management
+Active IQ Predictive Analytics and Support
+backup-recovery
+Data Backup and Recovery
+Data Availability Services
+SnapCenter Backup Management
+SnapMirror Data Replication
+MetroCluster Business Continuity
+SnapLock Data Compliance
+security
+ONTAP Data Security
+storage-systems
+ Data Storage Systems
+SAN
+StorageGRID Object Storage
+FlexArray Storage Virtualization
+Disk Shelves and Storage Media
+all-flash
+All-Flash Storage
+AFF A-Series
+NVMe Storage
+SolidFire
+EF-Series
+hybrid-flash
+Hybrid Flash Storage
+FAS
+E-Series
+ontap-ai
+ONTAP AI
+arrow-circle-o-right@
+int-cloud
+Integrate Cloud Data Services
+Cloud Analytics
+Cloud and SaaS Backup
+Cloud Disaster Recovery
+insight-control
+Deliver Data Insights and Control
+Performance Management and Analytics
+Capacity Analytics
+simplify-automate
+Simplify and Automate Virtualization Workloads
+Red Hat OpenShift
+OpenStack Private Cloud
+VMware Private Cloud
+End-user Compute (VDI)
+Containers
+build-cloud
+Build Service Provider Infrastructure
+IaaS Solutions
+PaaS Solutions
+SaaS Solutions
+build-gear
+Accelerate Your DevOps Journey
+Software Development Lifecycle (SDLC)
+Code and Artifact Repository
+Continuous Integration/Continuous Delivery (CI/CD)
+Configuration and Resource Management
+secure
+Protect and Secure Data
+Backup and Recovery
+Business Continuity/Disaster Recovery
+Data Security
+Data Privacy
+Data Compliance
+gaindataeff
+Gain Data Center Efficiencies
+Data Center Consolidation
+Virtual Server Infrastructure
+optimize-unstruc-data
+Optimize Unstructured Data
+Rich Content Management 
+Distributed Content Management
+IoT
+Video Surveillance
+accellerate
+Accelerate Workloads and Analytics
+SAP Solutions
+Oracle Database Solutions
+Analytics: Splunk, Hadoop, NoSQL
+AI and Deep Learning
+Engineering and Design Applications
+MS Apps Solutions
+services
+Services
+Business Consulting
+Professional Services
+Operational Support
+industry
+ Industries
+Financial Services
+Manufacturing
+Healthcare
+Media and Entertainment
+Energy
+Cloud and Hosting
+arrow-circle-o-right@
+Select your Language
+简体中文
+Deutsch
+English
+Español
+Français
+日本
+View Local Information
+AMERICAS
+América Latina
+Canada
+Brasil
+EUROPE
+Italia
+ישראל
+Nederland
+Россия
+Schweiz
+Sverige
+United Kingdom
+ASIA PACIFIC
+Australia / New Zealand
+India
+한국
+Southeast Asia
+台灣
+Find a NetApp location
+See our global contact list
+NetApp uses cookies and similar technologies to improve and customize your online experience. By continuing to use this site, you consent to our use of cookies, as described in our 
+Cookie Policy
+.
+What if I don't like cookies?
+If you would prefer to disable cookies, please click below:
+Disable my cookies.
+NetApp has recently updated its 
+Privacy Policy
+. NetApp uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our 
+Privacy Policy
+. You may disable these technologies by clicking 
+HERE
+.
+Do not track my information
+Command Your Cloud
+NetApp has you covered from core to edge to multi-cloud. See the highlights from NetApp Insight 2018 Las Vegas.
+Watch Las Vegas Recap
+Register for Barcelona
+It’s time to be a cloud hero.
+Bring your enterprise to the cloud with Azure NetApp Files - the industry's first enterprise NFS service in the cloud.
+TRY NOW
+Breaking the rules for application performance. Again.
+Get blazing fast AI with NetApp MAX Data.
+LEARN MORE
+Put DevOps in the driver's seat
+Accelerate and automate any container on any cloud.
+LEARN MORE
+Be a Data Visionary
+Unleash the Power of Data
+Live from Insight Las Vegas
+The Latest News and Announcements
+WuXi NextCODE:
+ Fostering medical breakthroughs with the largest collection of human genomes.
+READ MORE
+DreamWorks Animation:
+ Creating at the speed of imagination.
+DISCOVER HOW
+Children's Mercy:
+ Putting data at the center of patients' lives with a bold hybrid cloud strategy.
+WATCH VIDEO
+SEE ALL CUSTOMERS
+The Data Fabric is Built for a Data-Driven World
+Begin unleashing the power of your data.
+NetApp Cloud Volumes
+Fuel business growth with extreme performance and advanced data management in the cloud.
+ Go 20x faster for 20% less. Start a trial. 
+Inspire innovation with the cloud
+Integrate cloud data services
+Deliver data insights and control
+NetApp HCI
+Accelerate transformation with the highest performing, lowest cost all-flash hyper converged infrastructure.
+ Meet the only HCI built for enterprise. 
+Build clouds to accelerate new services
+Simplify and automate virtualized workloads
+Build service provider infrastructure
+Accelerate your DevOps journey
+Optimize unstructured data
+AFF All-Flash Array
+Transform everything with the most cloud-connected, fully NVMe-enabled all-flash solutions. Guaranteed.
+ The 1st end-to-end NVMe SAN solution. 
+Modernize IT architecture with cloud-connected flash
+Accelerate workloads and analytics
+Gain data center efficiencies
+Protect and secure data
+Quick Tasks
+Downloads
+Technical Documentation
+Troubleshooting
+Training & Certification
+Discussions
+COMPANY
+Newsroom
+Events
+NetApp Insight
+Customer Stories
+Corporate Social Responsibility
+Investors
+Careers
+Contact Us
+Sales
+How to Buy
+Find A Partner
+Partner With NetApp
+US Public Sector Contracts
+E-Based OEM Partners
+NetApp OnDemand Consumption
+Data Visionary Centers
+Legal
+Privacy & Cookie Policy
+Copyright
+Patents
+Trademarks
+Community Terms of Use
+Slavery and Human Trafficking Statement
+Accessibility
+
+Resources                        
+English [change]
+View local information
+Subscriptions
+Library
+Video Library
+Information Center
+Site Map
+© 2018 NetApp
+blog
+blog@
+community
+community@
+twitter
+twitter@
+facebook
+facebook@
+linkedin
+linkedin@
+youtube
+youtube@
+slideshare
+slideshare@
+Let us know
+_satellite.pageBottom();
+
+    scripty.injectAll();

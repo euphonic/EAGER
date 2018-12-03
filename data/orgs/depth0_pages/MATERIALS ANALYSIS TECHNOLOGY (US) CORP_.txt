@@ -1,0 +1,197 @@
+Company Profile
+Quality Policy
+Technical Team
+Service Scope
+Worldwide Customer
+Service Locations
+Awards
+Alliance Partners
+All service item list
+Auto Metrology Service
+Thickness measurement of epitaxial layers in LED QW structure
+Application in Advanced IC,FinFET,process development
+Electrical Failure Analysis
+Decap / Delayer 
+Chemical Decap
+Laser Decap 
+Delayer (chemicaldry etching and polish)
+I-V measurement
+EMMI
+InGaAs
+OBIRCH
+C-AFM
+Thermal Emission Microscope
+Nano Probing
+FIB Analysis
+Non-destructive Analysis
+OM(Optical Microscope)
+OP(Optical Profiler)
+X-ray Examine
+SAT(Scanning Acoustic Tomography)
+Ultra-High Resolution 3D X-ray Microscope
+Ultra High Resolution 3D Optical Microscope
+Time Domain Reflectometry (TDR)
+High Resolution SAT
+Material Analysis
+Sample preparation
+Mechanical Polishing
+FIB Precision Cutting
+TEM (Transmission Electron Microscope)
+TEM (Transmission Electron Microscope)
+Osiris
+Dual Beam FIB - Helios NanoLab 660
+Dual Beam Plasma FIB, Helios P-FIB 
+SEM (Scanning Electron Microscopy)
+TEM for Liquid Sample Analysis(K-Kit) 
+TEM for Liquid Sample Analysis(K-Kit) 
+Surface Analysis
+SIMS(Secondary Ion Mass Spectrometry)
+XPS/ESCA
+High Resolution XRD Service
+Field Emission Auger Electron Spectroscopy (FE-AES) Service
+Scanning Capacitance Microscopy Service
+Spreading Resistance Probe (SRP) 
+Packaging / Bonding
+ESD Testing & Design Service 
+Reliability Testing
+Benchmark Analysis
+IC Imaging
+Benchmark Analysis 
+Project Service
+Tools For Sale
+Application Forms
+Certifications
+File DownLoad
+MA-TEK FTP
+Financials
+Sales Reports
+Financial Statements
+Annual Reports
+Corporate Governance
+Major Resolutions of Board Meetings
+Law Of Corporate Governance
+Corporate Organization Structure
+Organization and Operation of The Internal Audit
+Shareholders Services
+Stock Information
+Shareholders' Meeting
+Material Information
+Contacts
+Stakeholder Engagement
+index
+> About Ma-tek 
+> Technical Team
+Company Profile
+Quality Policy
+Technical Team
+Service Scope
+Worldwide Customer
+Service Locations
+Awards
+Alliance Partners
+CEO of MA-tek Inc.
+Dr. Yong-Fen Hsieh
+■  Ph.D., Materials Science & Engineering, NTHU, Taiwan. 
+
+            ■  Postdoctoral Research, AT&T Bell Labs. Murray Hill, NJ 
+
+            ■  Researcher, ERSO/ITRI 
+
+            ■  Department Head, QRA Division, UMC 
+
+            ■  Department Head, QM Division, Unipac 
+
+            ■  Department Head, LCOS Division, AUO 
+
+            More than 20 years in various fields of IC(Si), TFT-LCD, LED(III-V, II-VI), LCOS, GaAs, Ge/ Metal contacts system. 
+
+            Specialized at TEM analysis, Fault isolation/Failure analysis, Analytical lab Operation, Quality management(QE, QA, QS, TQM), and Materials related fundamental research.
+CTO of MA-tek Inc.
+Dr. Chih-Hsun Chu
+■  Ph.D., Materials Science & Engineering, NTHU, Taiwan. 
+
+            ■  Postdoctoral Research, AT&T Bell Labs. Murray Hill, NJ
+
+            ■  Manager, Core Technology Development Department, MVI
+
+            ■  Senior Manager, Process Integration, USIC
+
+            ■  Senior Manager, Process Integration, Fab 8C, UMC
+
+            ■  Senior Department Manager, Process Integration, F12A, UMC
+
+            ■  VP, Technology Development, eMemory Corporation
+
+            ■  Director, Advanced technology R&D center, ProMOS
+
+            ■  SBU Director, Solar Cell, MVI 
+
+            More than 20 years in various fields of IC(Si)  technology and manufacturing, Compound semiconductor research and Nano-structure fabrication. 
+
+            Specialized at IC process technology, Process integration, Yield improvement, TEM analysis, FIB, IC Failure analysis, Materials analysis, and Materials related fundamental research.
+Director of PFA Division
+Mr. Chin-Kun Lo
+■  Chemical Engineering, Minghsin College, Taiwan. 
+
+            ■  Chemical Material Business
+
+            ■  Chemical Analysis Engineering, ITRI/ERSO
+
+            ■  Section Manager, MA & FA,QA in QRA division, UMC
+
+            ■  Quality Engineering Department, UOP
+
+            ■  Senior Manager, Process Integration, UMC
+
+            More than 20 years in IC,TFT-LCD analytical labs operation.
+
+            Specialized at SEM, TEM, FIB, RIE, and chemical analyses
+Director of Surface Analysis Division
+Ms. Ming-Ching Huang
+■  Master, Chemical Engineering, NCKU, Taiwan. 
+
+            ■  Engineer, Material Analysis, National Nano Device Laboratory
+
+            ■  Section manager, Failure Analysis Department, UMC 
+
+            More than 10 years in surface analysis of IC(Si), TFT-LCD, LED, LCOS, GaAs, and Solar cell. 
+
+            Specialized at SIMS, Auger, ESCA/XPS, Scanning Capacitance Microscopy, Atomic Force Microscopy, Magnetic Field Microscopy, and SRP
+Director of EFA Division
+Mr. PS KUO
+■  Master Materials Science & Engineering, NTU, Taiwan. 
+
+            ■  Engineer, Failure Analysis, UMC
+
+            ■  Engineer, Process Integration, TSMC 
+
+            More than 10 years IC EFA(EMMI, OBIRCH, LCD, … and etc.) and PFA (Structure & Process diagnosis) analyses. 
+Specialized at 
+Fault isolation/Failure analysis, SEM, and chemical analyses, FA total solution consulting and coordination
+Deputy Director of RA Division
+Ms. Nily Chung
+■  Reliability Engineer in QRA division, UMC
+
+            ■  Section Manager, QA, QC in QM dept, Siliconware (SPIL)
+
+            ■  Deputy Manager, QM division, Unipac
+
+            ■  Director, QM division, Fupo
+
+            More than 10 years in IC, Assembly,Testing, TFT-LCD, Bumping
+Director of Technology Division II 
+Dr. Shin-Jang Chen
+■  Ph.D., Electronic Engineering, NTUST, Taiwan. 
+
+            ■  Senior Manager, Integration Engineering, Unipac
+
+            ■  Director, QS Division, AUO
+
+            ■  COO & Europe General Manager, Brivictory Display Tech. Inc.
+
+            20 years in various fields of STN-LCD, TFT-LCD, LCOS Display Industry. 
+
+            Specialized at R&D, Circuit Design, Integration Engineering, Product Engineering, Failure analysis, Quality System, Analytical lab Management & Production Management.
+Site Map
+©2002~2015 Materials Analysis Technology Inc. All rights reserved    TEL: +886-3-611-6678    Email: 
+sales@ma-tek.com

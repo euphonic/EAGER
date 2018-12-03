@@ -1,0 +1,78 @@
+ Skip to content
+ Skip to footer
+LinkedIn
+Twitter
+Wentworth Laboratories
+Wafer Prober and Advanced Cantilever Probe Cards
+Wafer Probers
+Analytical Wafer Probers
+Production Wafer Probers
+Prober Accessories & Probes
+Probe Cards
+Cantilever Probe Cards
+Probe Card Manufacturing Equipment
+Company
+About Us
+News
+Upcoming Events
+Employment Opportunities
+Contact
+Contact Us
+Representatives
+Performance wafer probe stations and advanced cantilever probe cards
+Wentworth Laboratories are a global leader in performance wafer probe stations and advanced cantilever probe cards.  In close concert with our customers, Wentworth Laboratories plays a pivotal role in the conception and development of cost-effective, productivity-enhancing wafer probing solutions for the semiconductor device test market.
+Wentworth Cantilever products accommodate both epoxy and blade probe cards. Probe card applications range from multiple die, memory, radio frequency to logic and high voltage. Wentworth's engineered solutions offer an impressive array of generic and ATE-specific cantilever products and design services for high speed, digital, analog, mixed signal and memory applications. Layouts in excess of 2000 probes, probe cards for fine pitch and shrinking pad sizes, and complex configurations are accommodated with ease – all offered with competitive pricing and competitive turn-times.
+Our global team supports your probe card and wafer probing projects with sophisticated design, proven technology, and experienced applications and technical support. Our best practices communications tools will keep you fully informed.
+
+					ANALYTICAL WAFER PROBERS
+Wentworth’s flagship analytical wafer probing platform, the Pegasus™ FA Series semi-automatic probers, bring speed, versatility, accuracy and dependability to a variety of wafer and package testing applications. Pegasus™ FA wafer probers utilize proprietary LabMaster™ control software, an intuitive graphics user interface.
+
+					PRODUCTION WAFER PROBERS
+All Wentworth's production wafer probers utilize our Pegasus™ controller architecture which provides a robust and dependable production platform. All stages are controlled by Pegasus™ consisting of the drive electronics, joystick, keypad and optional Windows user interface. Interfacing is made easy with TTL, GPIB (IEEE488.2) and RS232 ports.
+
+					CANTILEVER PROBE CARDS
+Wentworth cantilever probe card products include blade and epoxy probe cards with applications ranging from multiple die to memory, radio frequency, logic and high voltage. Wentworth also offer an extensive range of metal and ceramic needle holder assemblies. Our probe card design service utilizes sophisticated software to bring your ideas to life.
+Need more information on a product?
+We are happy to help ...
+
+			Request Information		
+Footer
+US Head Office
+Wentworth Laboratories, Inc.
+
+1087 Federal Road
+
+Unit 4
+
+Brookfield
+
+CT 06804
+
+USA
+Tel: +1 203-775-0448
+
+Email: 
+info@wentworthlabs.com
+UK Head Office
+Wentworth Laboratories Ltd.
+
+1 Gosforth Close
+
+Sandy
+
+Bedfordshire
+
+SG19 1RB
+
+United Kingdom
+Tel: +44 1767 681221
+
+Email: 
+info@wentworthlabs.com
+WORLDWIDE LOCAL REPRESENTATIVES
+Copyright © 2018 · 
+Privacy Policy
+ ·  
+Wentworth Labs Theme
+ #simple-social-icons-2 ul li a, #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ce1126 !important; border-radius: 0px; color: #ffffff !important; border: 0px #ffffff solid !important; font-size: 20px; padding: 10px; }  #simple-social-icons-2 ul li a:hover, #simple-social-icons-2 ul li a:focus { background-color: #ffffff !important; border-color: #ffffff !important; color: #ce1126 !important; }  #simple-social-icons-2 ul li a:focus { outline: 1px dotted #ffffff !important; }
+document.body.className = document.body.className.replace("siteorigin-panels-before-js","");
