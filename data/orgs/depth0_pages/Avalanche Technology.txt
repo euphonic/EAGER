@@ -1,20 +1,20 @@
-Forbrukslån på Dagen 20 År
+Låne Penger
  | 
-Läppärit
+Sähkön Kilpailutus
  | 
 billiggodteri.no
  | 
-Kredittkort Online Søknad
+Kredittkort i Norge
  | 
-Billig Strømleverandør
+Sammenligne Strømpriser
  | 
-Husalarm
+Verisure Erfaringer
  | 
-Forsikringsselskap
+Behandlingsforsikring
  | 
-Mobilselskaper
+Beste Mobilabonnement
  | 
-Takserer
+Advokater
 .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
 PRODUCTS
 Discrete MRAM
@@ -86,15 +86,15 @@ Product Inquiry
 Sample Request
 Evaluation Board or Kit Request
 var lsjQuery = jQuery;
+Introducing Our Gen 2 SPnvSRAM Family
 How AI and ML are Driving Memory Architecture Changes
-Discrete MRAM
 Embedded MRAM
 
 			Home		
 Admin
 
-			2018-08-25T18:41:08+00:00		
-The Next Generation MRAM Company
+			2018-11-16T16:35:40+00:00		
+The Next-Generation MRAM Company
 Avalanche Technology, headquartered in Fremont, California, is the world leader in Spin Transfer Torque Magnetic RAM (STT-MRAM) non-volatile memory leveraging perpendicular magnetic tunnel junction (pMTJ) cell structure manufactured on 300mm standard CMOS process.
 Backed by more than 270+ granted patents around cell, circuit, and system design leveraging MRAM, our technology and products provide breakthrough speeds, unlimited endurance and non-volatility while reducing power and cost. With such attributes, our technology will serve and exceed our customers’ objectives as a replacement for SRAM, eFlash, and ROM in embedded applications in addition to discrete SRAM, non-volatile SRAM, NOR and DRAM.
 Industrial
@@ -111,7 +111,7 @@ The “Next Generation MRAM” from Avalanche Technology delivers the needed hig
 LEARN MORE
 3450 West Warren Avenue, Fremont, CA 94538
 
-(510) 438-0148, (510) 897-3300
+(510) 897-3300
 info@avalanche-technology.com
 
 		©2018 Avalanche Technology | All Rights Reserved	

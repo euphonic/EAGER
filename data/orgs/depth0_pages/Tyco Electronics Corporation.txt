@@ -139,14 +139,14 @@ Trends
 Resources
 MY TOOLS
 Cart
-
-                                Happening Now
-TE announces 4Q18 and FY18 results
-Double-digit growth in sales and earnings for the full year, with operating margin improvement in all segments; company exceeds expectations for continuing operations.
-Engineered Solutions – in-stock, ready-to-ship
-Search. Find. Buy.
-Shop thousands of components – with no-minimum purchasing and instant access to pricing,
-inventory availability, and flexible delivery options.
+Future-Ready Innovation
+Learn how miniaturized, lightweight components enable high-speed,
+low-latency data connectivity in next-generation infotainment technology. Register to access our new white paper – and start innovating today. 
+Read our White Paper
+Reliable Connection
+Our connectors optimize
+connectivity in critical systems.
+SHOP ALL CONNECTORS NOW
 SHOP FEATURED CATEGORIES
 
                                     Universal MATE-N-LOK Connectors
@@ -160,35 +160,45 @@ SHOP FEATURED CATEGORIES
                                     Positive Lock Terminals
 
                                     AMPLIMITE Connectors
-Build Next-Gen Infotainment Technology
-Learn about the engineering challenges – and TE solutions – for meeting your design requirements. Register today for an invitation to our exclusive webinar.
-5G Solutions - The Future is Fast
-With the evolution of mobile communication, the fifth-generation communication technology emerged in the era of mobile Internet.
-Internet of Medical Things 
-Sensors enable the collection of data in various medical applications to change the way in which patients are treated and monitored.  Learn how TE Connectivity (TE) is applying sensor technologies in the IoMT landscape for a healthier future.
+Personal IoT Sensors
+TE Connectivity (TE) manufactures sensors for IoT applications from personal devices to the connected home and connected cars.  With various analog and digital output signals as well as multi-sensor readings from a single device, TE sensors are enabling increases in personal efficiency and improvement.
+Trend
+Future of Personal Mobility 
+The dawn of personalized, on-demand transportation is here, and it marks another step in the goal to connect everything to everyone. From WIRED Brand Lab in collaboration with TE Connectivity.
 Miniaturized Automotive Solutions Whitepaper
 Learn how TE's series of miniaturized connectors systems support smaller and lighter electronic components that reduce space consumption and weight for greater fuel efficiency and lower CO2 emissions.
-Wireless Connectivity Solutions
-Our solutions help bring reliable and clear connectivity to mobile and smart devices.
-SELECT YOUR MAGNET WIRE SOLUTIONS
-The selector will ask you a few basic questions about your application in order to guide you to some of our most popular product solutions.
-Connected Life and Digital Health
-TE products connect and integrate the technology that helps people enjoy healthy, active lifestyles.
-Shop Online with TE
-Purchase thousands of our rugged connectors, cable assemblies, resistors, tools, relays, and more – directly on TE.com.
+Trend
+Smart-City Strategy
+The decreasing cost of connectivity is enabling municipalities to integrate critical systems. To succeed, they need a clear vision for building a smart city.
+Advantages of Analog and Digital Transducers
+Analog and digital transducers are worlds apart. Today, digital transducers prevail. In many applications, such as high EMI/RFI environments, analog will always surpass a digital approach. Download our white paper to learn about our M3200 industrial pressure transducer – available in analog or digital. (English)
+Our Company
+As the go-to engineering partner for today's innovation leaders and technology entrepreneurs, we are helping solve tomorrow's toughest challenges with advanced connectivity and sensors solutions.
+Materials Science and Digital Manufacturing
+Across TE, we provide our teams with access to advanced technology that helps them think differently about problem solving. 
 Design Your PCB
 Use our ECAD files – compatible with leading PCB design platforms – to build your solution with more than 40,000 TE products.
 Use Parametric Search
 Need information quickly? Our new parametric search enables you to quicky scan search results and easily find products.
 Order Samples
 Looking to request free samples? Learn how you can get TE products to test in your design.
+Compare Products
+Learn how you can compare features and attributes for up to 10 TE products.
 DISCOVER NEW PRODUCTS
-Low Profile Flexible Printed Circuit (FPC) Connectors
-Save space with one of the lowest profiles in the market and improve assembly efficiency by having the actuator open at delivery, enabling one finger operation.
-M12 PCB/Panel Connectors 8/12 Pin
-These compact connectors offer high-pin density to deliver efficient, high-quality, and reliable signals and data transmission. 
+OSFP Connectors and Cable Assemblies
+Our new Octal Small Form Factor Pluggable (OSFP) portfolio uses innovative thermal heat sink technology for superior thermal performance and signal integrity at speeds up to 400 Gbps.
+HIRSCHMANN MOBILITY Remote Tuner Module (RTM)
+RTM provides automotive manufacturers with radio tuner technology that concentrates central radio functions at the vehicle’s rear. This simplifies the antenna system architecture and minimizes system costs.
+124 Position Sliver Connectors and Cable Assemblies
+This high-density solution is designed for PCIe Gen 4 and Gen 5, Ethernet 56G and SAS-5. 124 position Sliver connectors and cable assemblies also enable better cable management than previously possible.
+NanoRF Module and Contacts
+This offers double the density of VITA 67 RF modules for VPX embedded computing. Its high-frequency nanominiature coax contact includes smaller contacts and higher RF contact density within a multi-position module, for smaller packaging.
 ParaByte Fiber Optic Transceivers
 This high-density optical transceiver features a parallel 12-fiber ribbon cable and supports speeds up to 12.5 GB/s per channel and temperatures between -40C to +100C.
+M12 PCB/Panel Connectors 8/12 Pin
+These compact connectors offer high-pin density to deliver efficient, high-quality, and reliable signals and data transmission. 
+Low Profile Flexible Printed Circuit (FPC) Connectors
+Save space with one of the lowest profiles in the market and improve assembly efficiency by having the actuator open at delivery, enabling one finger operation.
 BUCHANAN WireMate Two-Piece Poke-In Series
 Reduce installation time with these easy-to-use poke-in connectors featuring a simple lever design that releases one wire at a time.
 Get Answers Now

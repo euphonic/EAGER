@@ -12,6 +12,7 @@ Launch
 Sign In
 Sign Up
 Live TV & DVR
+TIDAL on Plex
 Online Content
 Web Shows
 News
@@ -30,14 +31,15 @@ Settings
 Support
 Blog
 Thank you for being a loyal Plex subscriber!
+Thank you for being a loyal Plex Music subscriber!
 Go premium and get the best of Plex, 
 learn more
 .
 Sign Up
 Sign In
-Thank you for being a loyal Plex subscriber!
-Go premium and get the best of Plex, 
-learn more
+Start 30-Day Free Trial
+Go premium and get the best of Plex! 
+Learn more
 .
 Admin
 Unbecome
@@ -47,25 +49,31 @@ Downloads
 Sign Out
 Live TV & DVR
 Easily cut the cord: get free over-the-air live and recorded TV streamed to all your devices.
-Learn more
+Get Live TV & DVR
+TIDAL on Plex
+Stream TIDAL’s 59 million tracks, 250,000 music videos, and original content on Plex.
+Start 30-Day Free Trial
 Online Content
 From addictive web shows and podcasts to snackable video news: enjoy your favorites all in one app.
-Learn more
+Stream Now
 Your Media
 Organize and stream your personal collection of movies, TV, music, and photos anywhere on all your devices.
-Learn more
+Organize & Stream
 
 									Stream smarter.							
 Your favorite web shows, podcasts, video news, recorded shows and live TV, plus your personal media, streamed to your favorite screens.
 Live TV & DVR
 Easily cut the cord: get free over-the-air live and recorded TV streamed to all your devices.
-Learn more
+Get Live TV & DVR
+TIDAL on Plex
+Stream TIDAL’s 59 million tracks, 250,000 music videos, and original content on Plex.
+Start 30-Day Free Trial
 Online Content
 From addictive web shows and podcasts to snackable video news: enjoy your favorites all in one app.
-Learn more
+Stream Now
 Your Media
 Organize and stream your personal collection of movies, TV, music, and photos anywhere on all your devices.
-Learn more
+Organize & Stream
 Apple
 android
 Android
@@ -99,7 +107,7 @@ Plex Pass
 Why Plex?
 Plex brings your favorite media together in one place, making it beautiful and easy to enjoy. Plex organizes your personal video, music, and photo collections and streams them to all of your devices. With Plex Live TV & DVR and a growing catalog of great online content, including Plex News and podcasts, we’re making it easier to find and enjoy all the media you love on all of your devices, no matter where you happen to be.
 Go Premium
-Get Plex for Free
+Get Plex Free
 "Ask any media hound about the best way to stream your your video files, and they'll probably direct you to Plex."
 - Engadget
 "Cord cutters just got a new favorite toy: Digital media center specialist Plex added DVR functionality to its web app..."
@@ -112,17 +120,19 @@ Get Plex for Free
 - Motherboard
 "Really, I can't say enough good things about this service, which lets you stream your media to any device, including your TV."
 - TechRadar
+Level up your music library with 59 million high-quality songs.
+Start 30-Day Free Trial
 android
  Google Play Store
-				
+        
 Reviews
 4.4
-125,064 ratings
+134,430 ratings
  Apple App Store
-				
+        
 Reviews
 4.7
-13,637 ratings
+24,410 ratings
 Go premium and get the best of Plex!
 Go Premium
 Ready to stream smarter?
@@ -134,24 +144,8 @@ Plex gives you instant access to awesome features, wherever you go. Whether it�
 Feature
 Free
 Premium
-Casting & Flinging
-Cast whatever you’re watching from your smartphone, tablet, or computer to your TV via Chromecast, or start content on one device and fling it to another app.
-•
-•
-Organization
-Organize your media in your library — videos, photos, and music — and refine it with artwork and details including plot summaries, bios, and more.
-•
-•
-Playlists
-Create and manage customized music or video playlists to fit any occasion, or even import existing iTunes playlists.
-•
-•
-Voice Control
-Control Plex playback with intuitive voice commands on supported devices.
-•
-•
-Collections
-Gather related media together: add your superhero movies to a superhero collection. Items can even belong to multiple collections for added flexibility.
+4K Support
+With four times as many pixels as 1080p, Plex looks even more gorgeous on your 4K supported device.
 •
 •
 Any Format
@@ -162,24 +156,36 @@ Available Anywhere
 Stream your media to your devices, anywhere, with a seamless and beautiful experience. Android and iOS apps require an unlock fee for full playback.
 •
 •
+Casting & Flinging
+Cast whatever you’re watching from your smartphone, tablet, or computer to your TV via Chromecast, or start content on one device and fling it to another app.
+•
+•
+Collections
+Gather related media together: add your superhero movies to a superhero collection. Items can even belong to multiple collections for added flexibility.
+•
+•
 Favorites and Tags
 Add your best photos as favorites, add tags for easy library navigation, or change the metadata (names, captions, comments).
+•
+•
+Media Optimizer
+Create optimized versions of your media files for smooth, buffer-free streaming, no matter the device.
+•
+•
+Organization
+Organize your media in your library — videos, photos, and music — and refine it with artwork and details including plot summaries, bios, and more.
+•
+•
+Playlists
+Create and manage customized music or video playlists to fit any occasion, or even import existing iTunes playlists.
 •
 •
 Plex News
 Plex offers a comprehensive and personalized news experience featuring the most reputable and trustworthy news sources worldwide.
 •
 •
-Virtual Reality
-Watch your movies or shows in different interactive environments, while you get social and co-watch with friends. Your choice of avatar, voice chat, and more brings your media to life.
-•
-•
 Privacy and Security
 Enjoy your media while away from home, knowing your connection is securely encrypted.
-•
-•
-Sharing
-Effortlessly share your personal video and photo libraries with your friends to discover, remember, and enjoy.
 •
 •
 Recommendations and Discovery
@@ -190,72 +196,207 @@ Remote Control
 Use the Plex app on your phone or tablet to control any Plex player.
 •
 •
+Sharing
+Effortlessly share your personal video and photo libraries with your friends to discover, remember, and enjoy.
+•
+•
+Virtual Reality
+Watch your movies or shows in different interactive environments, while you get social and co-watch with friends. Your choice of avatar, voice chat, and more brings your media to life.
+•
+•
+Voice Control
+Control Plex playback with intuitive voice commands on supported devices.
+•
+•
+Auto-Tagging & Places
+Using advanced machine learning — aka object and scene recognition — Plex tags your photos based on subject matter (kids, sports, sunsets etc.) and location.
+•
+Automatic Camera Upload
+Wirelessly sync photos and videos automatically from your mobile device to your Plex Media Server at home, where they’re backed up, private, and secure.
+•
+Automatic Mixes
+Kick off playback of similar tracks from your collection with Plex Mix. You can even listen to songs in your collection based on mood so you can wake up, wind down, or anything in between.
+•
+Early Access and Apps
+You get early exclusive access to new and premium features, AND get mobile apps for free. No mobile unlock fees for subscribers!
+•
+Live TV
+Watch live broadcast TV directly on your device (in HD where available). A Plex Pass, antenna, and tuner, are all you need to stream free OTA live TV.
+•
+Lyrics
+See timed lyrics to your favorite songs when available, so you can karaoke (or lip sync) until you’re blue in the face!
+•
+Mobile Sync
+Sync your videos, music, and photos to your mobile device for offline enjoyment, wherever you go.
+•
+Multiple Users
+Create customized, managed accounts, and make user switching easy with Plex Home.
+•
+Parental Controls
+Enable parental controls to keep things kid-friendly, or create separate accounts for your childish roommates.
+•
+Photo Albums
+Create beautiful photo albums so you can easily customize and share your favorite captured memories.
+•
+Plex DVR
+Record free HD broadcast channels right to your library–including local news and sports–then watch your recordings on any device, anywhere.
+•
+Plex Pass Perks
+Get exclusive access to promos and discounts on partner products and more!
+•
+Premium Music
+Enjoy lyrics, automatic Plex Mix and Mood Mix playlists based on mood or similar tracks, and premium metadata matching for high quality art, artist bios and more!
+•
+Premium Photos
+With a Plex Pass, take advantage of auto-tagging and Places so you can easily sort and discover memories. Look through an organized timeline view, automatically upload from your mobile device, and create photo albums.
+•
+Timeline View
+Explore your photos with our beautiful timeline view for organization that’s easy-on-the-eyes.
+•
+Trailers and Extras
+Enjoy cast interviews, behind-the-scenes features, deleted scenes, and more. With Cinema Trailers, view trailers before your movie!
+•
+android
+ Google Play Store
+        
+Reviews
+4.4
+134,430 ratings
+ Apple App Store
+        
+Reviews
+4.7
+24,410 ratings
+Go premium and get the best of Plex!
+Go Premium
+Ready to stream smarter?
+Get Plex for Free
+Ready to go Premium?
+Free vs. Premium
+Plex Features
+Plex gives you instant access to awesome features, wherever you go. Whether it’s your huge movie collection, weeks of music, or loads of video footage and photos, Plex makes it easy to enjoy them all.
+Feature
+Free
+Premium
 4K Support
 With four times as many pixels as 1080p, Plex looks even more gorgeous on your 4K supported device.
+•
+•
+Any Format
+Support for (almost) all file types, including hi-fi music, 4K devices, and loads of photo and video formats.
+•
+•
+Available Anywhere
+Stream your media to your devices, anywhere, with a seamless and beautiful experience. Android and iOS apps require an unlock fee for full playback.
+•
+•
+Casting & Flinging
+Cast whatever you’re watching from your smartphone, tablet, or computer to your TV via Chromecast, or start content on one device and fling it to another app.
+•
+•
+Collections
+Gather related media together: add your superhero movies to a superhero collection. Items can even belong to multiple collections for added flexibility.
+•
+•
+Favorites and Tags
+Add your best photos as favorites, add tags for easy library navigation, or change the metadata (names, captions, comments).
 •
 •
 Media Optimizer
 Create optimized versions of your media files for smooth, buffer-free streaming, no matter the device.
 •
 •
-Premium Photos
-With a Plex Pass, take advantage of auto-tagging and Places so you can easily sort and discover memories. Look through an organized timeline view, automatically upload from your mobile device, and create photo albums.
+Organization
+Organize your media in your library — videos, photos, and music — and refine it with artwork and details including plot summaries, bios, and more.
 •
-Multiple Users
-Create customized, managed accounts, and make user switching easy with Plex Home.
 •
-Premium Music
-Enjoy lyrics, automatic Plex Mix and Mood Mix playlists based on mood or similar tracks, and premium metadata matching for high quality art, artist bios and more!
+Playlists
+Create and manage customized music or video playlists to fit any occasion, or even import existing iTunes playlists.
 •
-Lyrics
-See timed lyrics to your favorite songs when available, so you can karaoke (or lip sync) until you’re blue in the face!
 •
-Automatic Mixes
-Kick off playback of similar tracks from your collection with Plex Mix. You can even listen to songs in your collection based on mood so you can wake up, wind down, or anything in between.
+Plex News
+Plex offers a comprehensive and personalized news experience featuring the most reputable and trustworthy news sources worldwide.
 •
-Plex Pass Perks
-Get exclusive access to promos and discounts on partner products and more!
 •
-Early Access and Apps
-You get early exclusive access to new and premium features, AND get mobile apps for free. No mobile unlock fees for subscribers!
+Privacy and Security
+Enjoy your media while away from home, knowing your connection is securely encrypted.
 •
-Mobile Sync
-Sync your videos, music, and photos to your mobile device for offline enjoyment, wherever you go.
 •
-Photo Albums
-Create beautiful photo albums so you can easily customize and share your favorite captured memories.
+Recommendations and Discovery
+Enjoy beautifully organized libraries that help you find and re-discover lost gems in your collection.
 •
-Automatic Camera Upload
-Wirelessly sync photos and videos automatically from your mobile device to your Plex Media Server at home, where they’re backed up, private, and secure.
+•
+Remote Control
+Use the Plex app on your phone or tablet to control any Plex player.
+•
+•
+Sharing
+Effortlessly share your personal video and photo libraries with your friends to discover, remember, and enjoy.
+•
+•
+Virtual Reality
+Watch your movies or shows in different interactive environments, while you get social and co-watch with friends. Your choice of avatar, voice chat, and more brings your media to life.
+•
+•
+Voice Control
+Control Plex playback with intuitive voice commands on supported devices.
+•
 •
 Auto-Tagging & Places
 Using advanced machine learning — aka object and scene recognition — Plex tags your photos based on subject matter (kids, sports, sunsets etc.) and location.
 •
-Timeline View
-Explore your photos with our beautiful timeline view for organization that’s easy-on-the-eyes.
+Automatic Camera Upload
+Wirelessly sync photos and videos automatically from your mobile device to your Plex Media Server at home, where they’re backed up, private, and secure.
 •
-Music Extras
-Enjoy a premium music experience with Plex Mix, mood mixes, lyrics, and more. With audio fingerprinting, you get cover art, artist bios, genres, moods, and album extras.
+Automatic Mixes
+Kick off playback of similar tracks from your collection with Plex Mix. You can even listen to songs in your collection based on mood so you can wake up, wind down, or anything in between.
 •
-Parental Controls
-Enable parental controls to keep things kid-friendly, or create separate accounts for your childish roommates.
-•
-Trailers and Extras
-Enjoy cast interviews, behind-the-scenes features, deleted scenes, and more. With Cinema Trailers, view trailers before your movie!
+Early Access and Apps
+You get early exclusive access to new and premium features, AND get mobile apps for free. No mobile unlock fees for subscribers!
 •
 Live TV
 Watch live broadcast TV directly on your device (in HD where available). A Plex Pass, antenna, and tuner, are all you need to stream free OTA live TV.
 •
+Lyrics
+See timed lyrics to your favorite songs when available, so you can karaoke (or lip sync) until you’re blue in the face!
+•
+Mobile Sync
+Sync your videos, music, and photos to your mobile device for offline enjoyment, wherever you go.
+•
+Multiple Users
+Create customized, managed accounts, and make user switching easy with Plex Home.
+•
+Parental Controls
+Enable parental controls to keep things kid-friendly, or create separate accounts for your childish roommates.
+•
+Photo Albums
+Create beautiful photo albums so you can easily customize and share your favorite captured memories.
+•
 Plex DVR
 Record free HD broadcast channels right to your library–including local news and sports–then watch your recordings on any device, anywhere.
 •
+Plex Pass Perks
+Get exclusive access to promos and discounts on partner products and more!
+•
+Premium Music
+Enjoy lyrics, automatic Plex Mix and Mood Mix playlists based on mood or similar tracks, and premium metadata matching for high quality art, artist bios and more!
+•
+Premium Photos
+With a Plex Pass, take advantage of auto-tagging and Places so you can easily sort and discover memories. Look through an organized timeline view, automatically upload from your mobile device, and create photo albums.
+•
+Timeline View
+Explore your photos with our beautiful timeline view for organization that’s easy-on-the-eyes.
+•
+Trailers and Extras
+Enjoy cast interviews, behind-the-scenes features, deleted scenes, and more. With Cinema Trailers, view trailers before your movie!
+•
 Plex Blog
+November 29, 2018
+Turning Plex Music up to Eleventy: TIDAL integration and massive player upgrades!
 October 3, 2018
 Web Shows Amirite!?
 September 25, 2018
 Subtitles and Sunsets: big improvements and a little housekeeping
-August 1, 2018
-Podcasts: Now With Less Beta!
 Company
 Our Team
 Careers
@@ -297,3 +438,7 @@ Quick Start Video
 Get Started
 Getting started is easy, download Plex Media Server and we'll walk you through the rest.
 Download
+Introducing streaming music powered by TIDAL
+Level up your music library with 59 million high-quality songs.
+TIDAL is seamlessly integrated with your existing music library — beautifully organized right in Plex.
+Start 30-Day Free Trial

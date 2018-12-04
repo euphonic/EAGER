@@ -1,0 +1,178 @@
+en
+Select your language
+Azərbaycanca
+Afrikaans
+Bahasa Indonesia
+Bahasa Melayu
+Català
+Česky
+Dansk
+Deutsch
+eesti
+English
+Español
+Français
+Gaeilge
+Hrvatski
+Italiano
+Kiswahili
+Latviešu
+Lietuviškai
+Magyar
+Nederlands
+Norsk
+Oʻzbekcha
+Pilipino
+Polski
+Português (BR)
+Português (PT)
+Română
+Slovenčina
+Slovenščina
+suomi
+svensk
+Tiếng Việt
+Türkçe
+Ελληνικά
+Български
+Қазақ
+Македонски
+Pусский
+српски
+Українська
+‏עברית‏
+العربية
+فارسی
+اردو
+বাংলা
+हिंदी
+ગુજરાતી
+ಕನ್ನಡ
+मराठी
+தமிழ்
+తెలుగు
+മലയാളം
+ภาษาไทย
+简体中文
+繁體中文
+日本語
+한국어
+WhatsApp Web
+Features
+Download
+Security
+FAQ
+Download
+Features
+Security
+FAQ
+Get in touch
+Azərbaycanca
+Afrikaans
+Bahasa Indonesia
+Bahasa Melayu
+Català
+Česky
+Dansk
+Deutsch
+eesti
+English
+Español
+Français
+Gaeilge
+Hrvatski
+Italiano
+Kiswahili
+Latviešu
+Lietuviškai
+Magyar
+Nederlands
+Norsk
+Oʻzbekcha
+Pilipino
+Polski
+Português (BR)
+Português (PT)
+Română
+Slovenčina
+Slovenščina
+suomi
+svensk
+Tiếng Việt
+Türkçe
+Ελληνικά
+Български
+Қазақ
+Македонски
+Pусский
+српски
+Українська
+‏עברית‏
+العربية
+فارسی
+اردو
+বাংলা
+हिंदी
+ગુજરાતી
+ಕನ್ನಡ
+मराठी
+தமிழ்
+తెలుగు
+മലയാളം
+ภาษาไทย
+简体中文
+繁體中文
+日本語
+한국어
+Simple. Secure.
+Reliable messaging.
+With WhatsApp, you'll get fast, simple, secure messaging and calling for 
+free
+*
+,
+ available on phones all over the world.
+Download now
+*
+ Data charges may apply. Contact your provider for details.
+ Android
+ iPhone
+ Mac or Windows PC
+ Windows Phone
+WhatsApp Business App
+WhatsApp Business
+ is an Android app which is free to download, and was built with the small business owner in mind. With the app, businesses can interact with customers easily by using tools to automate, sort, and quickly respond to messages. If you're a large business, 
+learn more about the WhatsApp Business API
+.
+End-to-end encryption
+Security by Default
+Some of your most personal moments are shared on WhatsApp, which is why we built end-to-end encryption into the latest versions of our app. When end-to-end encrypted, your messages and calls are secured so only you and the person you're communicating with can read or listen to them, and nobody in between, not even WhatsApp.
+Explore features
+WhatsApp
+Features
+Security
+Download
+WhatsApp Web
+Business
+Company
+About
+Careers
+Brand Center
+Get in touch
+Blog
+Download
+Mac/PC
+Android
+iPhone
+Windows Phone
+Nokia
+Help
+FAQ
+Twitter
+Facebook
+2018 © WhatsApp Inc.
+Privacy & Terms
+requireLazy(["InitialJSLoader"], function(InitialJSLoader) {InitialJSLoader.loadOnDOMContentReady(["ne+Ol","tObdP","i4vbm","Ubr0i","uY1M7","Iht45","04ct6","wLUkc","5xS\/i","HCPSj","Mgu3f","MYGUi","MIpxX","B4Hrp","a9YSO","jnBS7","BZfXC","TL\/NZ","g\/d5Y"]);});
+var bigPipe = new (require("BigPipe"))({"forceFinish":true,"config":null});
+bigPipe.beforePageletArrive("first_response")
+bigPipe.setPageID("6622433096439771563-0");CavalryLogger.setPageID("6622433096439771563-0");
+bigPipe.beforePageletArrive("last_response")

@@ -104,7 +104,8 @@ Careers
 Our Culture
 Job Search
 var lsjQuery = jQuery;
- Read the Press Release  >
+ Learn More  
+>
  Read the Press Release  >
 To those who say "impossible, impractical, unrealistic," we say:
 CHALLENGE ACCEPTED
@@ -121,8 +122,11 @@ OUR ROBUST PIPELINE
 includes investigational RNAi therapeutics for rare genetic, cardio-metabolic, hepatic infectious diseases, and CNS diseases.
 Our Pipeline ›
 var lsjQuery = jQuery;
-NOW APPROVED IN THE EU
- Read the Press Release  ›
+We’re proud to be named a 
+ 
+TOP PLACE TO WORK
+for the 4th year in a row!
+Learn More ›
 NOW APPROVED IN THE U.S.
  Read the Press Release  ›
 To those who say "impossible, impractical, unrealistic,"  we say:
@@ -140,6 +144,18 @@ OUR ROBUST PIPELINE
 includes investigational RNAi therapeutics for rare genetic, cardio-metabolic, hepatic infectious diseases, and CNS diseases.
 Our Pipeline ›
 LATEST NEWS
+Alnylam to Webcast R&D Day
+Source: 
+New Press Release Investors
+Published on 2018-11-29
+Vir Biotechnology and Alnylam Pharmaceuticals Initiate Phase 1/2 Study of VIR-2218
+Source: 
+New Press Release Investors
+Published on 2018-11-26
+Alnylam to Webcast Presentations at Upcoming Investor Conferences
+Source: 
+New Press Release Investors
+Published on 2018-11-21
 Alnylam Presents Updated Phase 1/2 Open-Label Extension (OLE) Results for Givosiran, an Investigational RNAi Therapeutic for the Treatment of Acute Hepatic Porphyria
 Source: 
 New Press Release Investors
@@ -148,18 +164,6 @@ Alnylam Pharmaceuticals Reports Third Quarter 2018 Financial Results and Highlig
 Source: 
 New Press Release Investors
 Published on 2018-11-07
-Alnylam to Webcast Presentations at Upcoming Investor Conferences
-Source: 
-New Press Release Investors
-Published on 2018-11-06
-Alnylam to Webcast Conference Call Discussing Third Quarter 2018 Financial Results
-Source: 
-New Press Release Investors
-Published on 2018-10-30
-Hochschulmedizin Zurich and Alnylam Host Innovative Medicine Lecture on the Discovery and Clinical Applications of RNA interference (RNAi)
-Source: 
-New Press Release Investors
-Published on 2018-10-29
 >
 1
 k
@@ -183,6 +187,35 @@ Updated as of November 2018
 
 * In the U.S. and European Union
 var lsjQuery = jQuery;
+>
+1
+k
+
+Employees
+7
+
+Programs Currently in
+
+Clinical Development
+1
+
+Approved Product*
+>
+20
+k
+
+Doses Administered
+>
+25
+
+Clinical Studies
+to Date
+>
+4
+yrs
+
+Longest Duration
+of Exposure
 Updated as of November 2018
 
 * In the U.S. and European Union

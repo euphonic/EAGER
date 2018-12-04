@@ -1,0 +1,437 @@
+Products
+View all products
+Free trials
+Product lines
+Change Auditor
+Enterprise Reporter
+Foglight Database Monitoring	
+Foglight Performance Management
+KACE
+Metalogix
+Migration Manager
+NetVault Backup
+One Identity
+QoreStor
+Quest On Demand
+Rapid Recovery
+Recovery Manager
+RemoteScan
+SharePlex
+Spotlight
+Toad
+Featured products
+Cloud Management
+Cloud Access Manager
+Foglight for Virtualization, Enterprise Edition
+Identity Manager
+On Demand Migration for Email
+Quest On Demand
+Rapid Recovery
+Data Protection
+Foglight for Virtualization
+NetVault
+QorePortal
+QoreStor
+Rapid Recovery
+vRanger
+Database Management
+Foglight for Databases
+Litespeed for SQL Server
+SharePlex
+Space Manager with LiveReorg
+Spotlight SQL Server Enterprise 
+Toad Data Point
+Toad DevOps Toolkit
+Toad Edge
+Toad for Oracle
+Toad for SQL Server 
+Endpoint Systems Management
+Desktop Authority Management Suite
+KACE Cloud Mobile Device Manager
+KACE Systems Deployment Appliance
+KACE Systems Management Appliance
+RemoteScan
+Identity & Access Management
+Active Roles
+Cloud Access Manager
+Identity Manager
+Password Manager
+Privileged Access Suite for Unix
+One Identity Safeguard for Privileged Passwords
+Starling Identity Analytics & Risk Intelligence
+Starling Two-Factor Authentication
+Microsoft Platform Management
+Active Administrator
+Change Auditor
+Enterprise Reporter
+GPOADmin
+InTrust
+Metalogix
+Migration Manager
+On Demand Migration for Email
+Quest On Demand
+Recovery Manager
+Performance Monitoring
+Foglight Capacity Director
+Foglight Hybrid Cloud Manager
+Foglight for Databases
+Foglight for Operating Systems
+Foglight for Oracle
+Foglight for PostgreSQL
+Foglight for SQL Server
+Foglight for Storage Management
+Foglight for Virtualization
+Spotlight on SQL Server
+Solutions
+View all Solutions
+Industries
+Education
+Federal Government 
+Healthcare
+State & Local Government 
+Platforms
+Active Directory
+Cisco
+DB2
+Exchange
+Google
+Hadoop
+Hyper-v
+Lotus Notes
+OneDrive for Business
+Office 365 
+Oracle
+SAP/Sybase
+SharePoint
+Skype for Business/Lync
+SQL Server 
+Unix/Linux
+VMware
+Windows Server 
+Cloud Management
+Data Protection
+Overview
+Backup & Recovery
+Business Continuity
+Cloud Management
+Deduplication & Compression
+Disaster Recovery
+Virtualization Management
+Database Management
+Overview
+Administration
+Cloud Migration
+Data Preparation & Analysis
+Development
+DevOps
+Performance Monitoring
+Replication
+Supported Platforms
+Hadoop
+Oracle
+SQL Server
+Endpoint Systems Management
+Overview
+Endpoint Security
+IT Asset Management
+Mobile Device Management
+Operating Systems Imaging & Deployments
+Service Desk
+Software Distribution & Maintenance
+Supported Platforms
+Internet of things
+Microsoft® Windows
+MAC
+UNIX/LinuX
+GDPR Compliance
+Identity & Access Management
+Overview
+Access Management
+Identity as a Service
+Identity Governance
+Privileged Access Management
+Microsoft Platform Management
+Overview
+Group Policy & Permissions
+Hybrid Active Directory Security
+Information archiving & storage management
+Migration & Consolidation
+Performance & Availability
+Reporting
+Security & Compliance
+Windows Backup & Recovery
+Supported Platforms
+Active Directory
+Cisco
+Exchange
+Google
+Groupwise
+Lotus Notes
+Office 365
+OneDrive for Business
+SharePoint
+Skype for Business/Lync
+SQL Server
+Unix/Linux
+Windows Server
+Performance Monitoring
+
+Overview
+Database Performance Monitoring
+Operating System Monitoring
+Storage Performance & Utilization Management
+Supported Platforms
+Active Directory
+DB2
+Exchange
+Java
+Hyper-V
+.NET
+Oracle
+SAP/Sybase
+Storage
+SQL Server
+VMware
+Resources
+Blogs
+Blogs A to Z
+Data Protection
+Database Management
+Endpoint Systems Management
+Microsoft Platform Management
+Performance Monitoring
+Customer Stories
+Documents
+Events
+Webcasts
+Technical Documentation
+Videos
+Whitepapers
+Trials
+Services
+Consulting Services
+Overview
+Microsoft Platform Services
+Data Protection Services
+Endpoint Systems Services
+Performance Monitoring Services
+Database Management Services
+Educational Services
+Support Services
+Support
+Support Home
+By Product
+All Products
+AppAssure
+Archive Manager
+Change Auditor
+Desktop Authority
+DR Series
+Foglight
+KACE
+Migration Manager
+NetVault
+Rapid Recovery
+SharePlex
+Toad
+vRanger
+Contact Support
+Overview
+Customer Service
+Licensing Assistance
+Renewal Assistance
+Technical Support
+Download Software
+Knowledge Base
+My Account
+My Products
+My Service Requests
+My Licenses
+My Groups
+My Profile
+Policies & Procedures
+Consulting Services
+Microsoft Platform Management
+Data Protection
+Endpoint Systems Management
+Performance Monitoring
+Database Management
+Technical Documentation
+Educational Services
+User Forums
+Video Tutorials
+Partners
+Communities
+Home
+Blogs
+Blogs A to Z
+Data Protection
+Database Management
+Endpoint Systems Management
+Microsoft Platform Management
+Performance Monitoring
+Forums
+All Product Forums
+Active Administrator
+Desktop Authority
+Foglight
+Migration Manager for Active Directory
+NetVault
+Rapid Recovery
+Toad for Oracle
+Social Networks
+Facebook
+Google+
+LinkedIn
+Twitter@Quest
+Twitter@QuestSupport
+YouTube
+Account Settings
+Sign In
+
+Create a Quest Account
+
+Sign Out
+
+Data dedupe like you’ve never seen!
+Discover QoreStor™, software-defined secondary storage that works with many backup solutions.
+Learn More 
+Learn More 
+GDPR is here.
+Are you ready?
+Take a survey to gauge your readiness.
+Get Started
+Get Started
+Active Directory: At the heart of it
+all.
+Cloud, M&A, security,
+compliance. They don't need to expose the heart of your business.
+
+Find out How
+
+Find out How
+Endpoint management for the modern era
+See how KACE helps you efficiently manage and scale to accommodate endpoint growth.
+Learn More
+Learn More
+Change Auditor Threat Detection is here.
+Simplify insider threat detection with user behavior analytics.
+Detect Threats Faster
+Detect Threats Faster
+Master endpoint challenges
+Become an IT Ninja with KACE and find your path to endpoint enlightenment.
+Join Nick
+Join Nick
+Simple IT management for a complex world
+Technology keeps changing. Whether it’s digital transformation, cloud expansion, security threats or something new, Quest helps you solve complex problems with simple solutions.
+Data Protection
+Database Management
+Endpoint Systems Management
+Hybrid Active Directory Security
+Microsoft Migration & Consolidation
+Performance Monitoring
+View All Solutions
+Featured products
+QoreStor
+Accelerate backup speed, reduce storage costs and use the cloud for disaster recovery.
+Learn More
+Rapid Recovery
+Get fast backup, replication and recovery.
+Download Free Trial
+Spotlight on SQL Server Enterprise
+Diagnose SQL Server performance issues quickly and accurately for a healthy database infrastructure
+Download Free Trial
+SharePlex
+Enable high-performance Oracle replication and data integration.
+Download Free Trial
+Toad for Oracle
+Increase productivity for database development and administration.
+Download Free Trial
+KACE Systems Management Appliance
+Minimize security risks with agentless technology.
+Download Free Trial
+KACE Systems Deployment Appliance
+Save time and money with the leading systems deployment appliance
+Download Free Trial
+Metalogix Content Matrix
+Handle complex SharePoint and Office 365 migrations.
+Download Free Trial
+Recovery Manager for AD Forest Edition
+Quickly and simply restore your entire domain in the event of a disaster.
+Download Free Trial
+Change Auditor for Active Directory
+Track critical changes in real-time and ensure internal security.
+Download Free Trial
+Migration Manager for Active Directory
+Ensure seamless, successful consolidation or migration projects.
+Download Free Trial
+Enterprise Reporter Suite
+Simplify Microsoft on-premises and cloud-based platform security and compliance reporting.
+Download Free Trial
+NetVault Backup
+Get secure data and applications in both physical and virtual environments
+Download Trial
+Download Free Trial
+Migration Manager for Exchange
+Mitigate Exchange migration, consolidation and restructuring risks
+Download Free Trial
+Foglight for Cross-Platform DBs
+Consolidate and standardize database performance management across diverse environments.
+Download Free Trial
+On Demand Recovery
+SaaS solution for fast, secure Azure AD and Office 365 backup and recovery.
+Download Free Trial
+Toad Edge
+Simplify development and management of MySQL databases.
+Download Free Trial
+RemoteScan Enterprise
+Access TWAIN scanners connected directly to client workstations
+Download Free Trial
+View All Products
+View All Trials
+
+Trusted by 130,000 companies and 95% of the Fortune 500
+
+View All Customer Success
+Company 
+About Us
+Buy
+Contact Us
+Careers
+News
+Resources 
+Blogs
+Customer Stories
+Documents
+Events
+Videos
+Support 
+Professional Services
+Renew Support
+Technical Support
+Training	& Certification
+Support Services
+Social Networks 
+Facebook
+Google+
+Instagram
+LinkedIn
+Twitter
+United States
+United States (English)
+Brazil (Português)
+China (中文)
+France (Français)
+Germany (Deutsch)
+Japan (日本語)
+Mexico (Español)
+© 
+ Quest Software Inc. ALL RIGHTS RESERVED.
+Legal
+Terms of Use
+Privacy
+$('.copyright-year').text(new Date().getFullYear());
+
+Please wait...
+
+This is the end

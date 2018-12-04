@@ -73,8 +73,7 @@ Support
 										Support Overview 
 									
 Support Login
-Support Plans
-Focused Support Services
+Standard Support
 Riverbed Support Partners 
 Training
 Training Overview
@@ -146,6 +145,9 @@ How to Buy
 News
 Partner Login
 Trial Downloads
+REVAMP YOUR NETWORK MONITORING STRATEGIES
+Join the webinar with Dimensional Research
+Register Now
 DIGITAL PERFORMANCE
 GLOBAL SURVEY
 Read the Results
@@ -168,9 +170,9 @@ Supercharge your DevOps Practice with APM
 Seven ways to boost productivity, improve code quality and fine-tune software releases
 Read Now
 Webinar
-The Future of APM
-Bigger, Smarter, & More Integrated Than Ever. Join the webcast featuring Gartner.
-Register Now
+Dynamic Duo of Cloud Network Performance Management
+Packet & Flow Monitoring Meet in Hybrid Environments. On-Demand.
+Watch Now
 Training
 Riverbed Certified Performance Engineering (RCPE)
 Digital transformation calls for a new set of IT skills. Take your career to the next level.

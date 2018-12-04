@@ -74,6 +74,12 @@ Collaborate with us to innovate leveraging Crossbar ReRAM. We are looking for in
 We’ve only scratched the surface of what will be possible.
 You're a Chip Designer
 You're a System Architect
+Collaborate
+Let us help you rethink your approach to system design.
+Collaborate with us to innovate leveraging Crossbar ReRAM. We are looking for innovative companies to work with us to invent the future of storage and computing.
+We’ve only scratched the surface of what will be possible.
+You're a Chip Designer
+You're a System Architect
 Explore
 1/20th, 100X, 1000x
 A radical departure from traditional memory.
@@ -95,12 +101,6 @@ License IP from us and integrate Crossbar ReRAM into your next IC design. Get th
 ReRAM IP Cores for System-on-Chip
 Get Product Info
 Start Your Design
-Collaborate
-Let us help you rethink your approach to system design.
-Collaborate with us to innovate leveraging Crossbar ReRAM. We are looking for innovative companies to work with us to invent the future of storage and computing.
-We’ve only scratched the surface of what will be possible.
-You're a Chip Designer
-You're a System Architect
 ReThink the Future of AI
 Why is Flash Technology Running Out of Steam?
 A New Approach to Enterprise Storage

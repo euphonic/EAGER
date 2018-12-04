@@ -1,0 +1,218 @@
+You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.
+
+	Turn on more accessible mode
+
+	Turn off more accessible mode
+
+	Skip Ribbon Commands
+
+	Skip to main content
+
+	Turn off Animations
+
+	Turn on Animations
+SharePoint
+Sign In
+Follow
+Home
+Contact Us
+Cross Reference
+Sample & Buy
+Investor Relations
+中文
+Ask Engineering
+About Us
+Company Overview
+Macronix has over 25 years experience of excellent in-house design and manufacturing capabilities for long-term commitment and support
+News & Events
+Investor Relations 
+Quality Management
+Corporate Social Responsibility
+Careers
+Contact Us
+Support
+Technical Documentation
+Product Reliability Report
+End-of-Life Product
+Green Product
+Programmer Manufacturers
+Sample & Buy
+Product Longevity Program
+Solutions
+Automotive
+Industrial
+Communications
+Extended Temperature
+Known Good Die
+Wafer Level Chip Scale Package
+Security
+Products
+NOR Flash
+Serial NOR Flash
+Parallel NOR Flash
+OctaFlash
+Wide Range Vcc Flash
+Ultra Low Vcc Flash
+NAND Flash
+SLC NAND Flash
+Serial NAND Flash
+ROM
+e.MMC Memory
+Multichip Packages
+NOR-Based MCP
+NAND-Based MCP
+Foundry Service
+ Product Search
+ Sample Request
+ Cross Reference
+ Terms & Conditions of Sales
+ | 
+NOR Flash
+ | 
+NAND Flash
+ | 
+Multichip Packages
+ | 
+ROM
+ | 
+Product Type
+OctaFlash
+Serial NOR Flash
+Parallel NOR Flash
+Secure Flash
+SLC NAND
+Serial NAND
+Serial ROM
+Parallel ROM
+Vcc
+1.2V
+1.8V
+2.5V
+3V
+5V
+Wide Range
+Density
+512Kb
+1Mb
+2Mb
+4Mb
+8Mb
+16Mb
+32Mb
+64Mb
+128Mb
+256Mb
+512Mb
+1Gb
+2Gb
+4Gb
+8Gb
+Form Factor
+BGA
+PDIP
+PLCC
+SON
+SOP
+TSOP
+TSSOP
+USON
+VSOP
+WLCSP
+WSON
+XFLGA
+XSON
+Know Good Die
+Status
+Under Development
+Sampling
+Production, for new design
+Production
+Contact Macronix
+Production, not for new design
+EOL issued
+End of Life
+Find Product
+Featured Solutions
+Automotive
+Industrial
+Communications
+Latest News & Events
+Page Content
+​​​​​​​​ ​​​
+Products
+NOR Flash
+Serial NOR Flash
+Parallel NOR Flash
+OctaFlash
+Wide Range Vcc Flash
+Ultra Low Vcc Flash
+NAND Flash
+SLC NAND Flash
+Serial NAND Flash
+e.MMC Memory
+Multichip Packages
+NOR-Based MCP
+NAND-Based MCP
+ROM
+Foundry Service
+Solutions
+Automotive
+Industrial
+Communications
+Extended Temperature
+Known Good Die
+Wafer Level Chip Scale Package
+Security
+Sample & Buy
+Macronix Offices
+Sales & Service Location
+Sample Request
+Support
+Technical Documentation
+Product Reliability Report
+End-of-Life Product
+Green Product
+Programmer Manufacturers
+Product Longevity Program
+Term of Use
+Privacy Policy
+About Us
+Company Overview
+News & Events
+Investor Relations
+Quality Management
+Corporate Social Responsibility
+Careers
+Contact Us
+ Mobile Version
+
+     Copyright© Macronix International Co., Ltd. 
+. All Rights Reserved. Macronix, MXIC, MXIC logo, XtraROM, NBit and Macronix NBit are trademarks of Macronix International Co., Ltd.. The names and brands of other companies are for identification purposes only and may be claimed as the property of the respective companies.
+     
+
+     IE 10.0 preferred, Resolution:1024 x 768
+    
+$( '#suiteBar' ).css({display:'none'});$( '#s4-ribbonrow' ).css({display:'none'}); 
+Macronix Corp. Website
+Currently selected
+It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Recent
+Home
+Currently selected
+About Us
+News & Events
+Others
+Products
+Search
+Solutions
+Support
+首頁
+其他
+支援服務
+新聞 & 活動
+產品
+解決方案
+關於旺宏
+Home
+Home
+ProductPagesList

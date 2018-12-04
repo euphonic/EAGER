@@ -485,12 +485,11 @@ OEM & Tier
 
      Safety
    
-Food Safety
-Worker Health & Safety
-Public Safety
-Road Safety
 Facility Safety
+Food Safety
+Road Safety
 Water Quality
+Worker Health & Safety
 
      Electronics
    
@@ -541,7 +540,6 @@ Architectural Design
 Building & Construction
 Home Improvement
 Infrastructure
-Site Work
 Utilities
 
      Mining, Oil & Gas
@@ -582,12 +580,11 @@ OEM & Tier
 
      Safety
    
-Food Safety
-Worker Health & Safety
-Public Safety
-Road Safety
 Facility Safety
+Food Safety
+Road Safety
 Water Quality
+Worker Health & Safety
 
      Electronics
    
@@ -638,7 +635,6 @@ Architectural Design
 Building & Construction
 Home Improvement
 Infrastructure
-Site Work
 Utilities
 
      Mining, Oil & Gas
@@ -679,12 +675,11 @@ OEM & Tier
 
      Safety
    
-Food Safety
-Worker Health & Safety
-Public Safety
-Road Safety
 Facility Safety
+Food Safety
+Road Safety
 Water Quality
+Worker Health & Safety
 
      Electronics
    
@@ -735,7 +730,6 @@ Architectural Design
 Building & Construction
 Home Improvement
 Infrastructure
-Site Work
 Utilities
 
      Mining, Oil & Gas
@@ -1097,10 +1091,6 @@ By air, water or land. From cargo ships to scooters. We play an innovative role 
 *** url** 
 
 /3M/en_US/power-transmission-us/
-**Site area ** HP-Safety-PublicSafetyProducts
-*** url** 
-
-/3M/en_US/public-safety-us/
 **Site area ** HP-Safety-RoadSafety
 *** url** 
 
@@ -1109,10 +1099,6 @@ By air, water or land. From cargo ships to scooters. We play an innovative role 
 *** url** 
 
 /3M/en_US/packaging-shipping-fulfillment-us/
-**Site area ** HP-DesignConstruct-SiteWorkProducts
-*** url** 
-
-/3M/en_US/building-construction-us/
 **Site area ** HP-TransportationInfrastructure
 *** url** 
 
@@ -1568,12 +1554,15 @@ https://www.futuro-usa.com/3M/en_US/futuro-us/
 
 /3M/en_US/company-us/all-3m-products/?N=5002385+8709316+8710669+8710788+8711017+3294857497&rt=r3
 **Site area ** Consumer-Home
-*** url** /3M/en_US/company-us/all-3m-products/~/All-3M-Products/Consumer/Cleaning-and-Protecting/?N=5002385+8709316+8711017+8740612+3294857497&rt=r3
+*** url** /3M/en_US/company-us/all-3m-products/?N=5002385+8709316+8711017+8740612+3294857497&rt=r3
 
 
           Cleaning & Protecting
         
 Cleaning is a dirty job, but someone has got to do it… fortunately 3M Science has your back for even the toughest jobs, as well as helping prevent those big stains and messes. 
+Visit our Branded sites: 
+Go to ____ site
+Go to ____ site
 
             Go to Cleaning & Protecting
           
@@ -1858,6 +1847,10 @@ VHB
             How can science change the world?
             
 Carrying more power to more people with lighter power lines. Helping manufacturers make more with less through leaner processes. Automating health care data so the right people get the right information to take action. These are some of the ways we’re working to support stronger communities and sustainable development across the globe. We see the world's challenges clearly, and unite the people that dare to solve them. We innovate with purpose and use science every day to create real impact in every life around the world. 
+Learn More About 3M
+
+    loadPageModule('kungfu/dropHTML_Lightbox/lightboxTrigger');
+
 3M United States
 Products 
 Abrasives

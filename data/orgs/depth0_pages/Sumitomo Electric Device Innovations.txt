@@ -6,15 +6,6 @@ Products
 Topicsen
 Corporate
 Procurement Activities
-System maintenance
-
-    Thank you for using our Website.
-
-    Due to system maintenance, the services will be unavailable on the following date and time.
-
-    Please accept our apologies for any inconvenience.
- November 18, 2018 (Sun) 8:30-12:00  (Japan Time)
-         
 Electron Devices
 Low-noise HEMTs
 GaAs HEMTs

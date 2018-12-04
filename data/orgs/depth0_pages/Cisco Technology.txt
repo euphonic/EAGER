@@ -26,13 +26,11 @@ Support & Downloads
 Training & Events
 Buy
 Partners
-Announcing the first hybrid solution for Kubernetes on Amazon Web Services. Makes running new containerized applications simple. 
-Read more
-Don’t just see the future.
-Do something about it.
-We surveyed over 1500 CIOs and technology leaders about how they’re transforming IT operations. How do you compare?
-See the findings
-Assess your maturity
+Secure your new cloud edge. Deliver the right security in the right place, across your SD-WAN, simply.
+Register now
+Unleash the cloud’s full potential
+Any user, any application, on any platform--that’s your network challenge. Cisco SD-WAN secures the connection and delivers at the speed of the cloud.
+See how
 Design Guides
 Learning Center
 Career Certifications
@@ -41,33 +39,24 @@ Cisco Community
 Tech Support Cases
 This week at Cisco
 See the announcements, events, and activities happening across the globe this week.
-CUSTOMER STORY
-Top-notch care starts with connection
-Cisco DNA Assurance keeps hospital’s critical wireless network connected.
-TECHWISETV
-Infrastructure agility and speed
-See how FlashStack converged infrastructure simplifies the data center. Register now.
+PRODUCT
+Meet our latest switch: the Catalyst 9200 Series
+This DNA-ready switch is ideal for simple branches and midmarket businesses.
+VIDEO
+SD-WAN security for all
+Watch Cisco engineers deep dive into new security technologies that will help keep users and data secure across the enterprise, data center, and cloud environments.
 NEWS
-Mobile healthcare analytics transforms NGOs’ problem-solving 
-NGOs reach a tipping point with technology to serve constituents.
-CISCO ON CISCO
-HyperFlex Edge
-Simpler remote office infrastructure will save IT 456 man-hours.
-SECURITY
-Endpoint security: the daunting challenges of the holiday season
-Expert Neil Patel explains how you can prepare your network.
-FEATURE
-BlizzCon: Work hard, play hard
-Cisco was proud to be the official network provider for an epic global gaming event.  We provided secure, reliable connectivity and no lag in the world of eSports.
-CORPORATE SOCIAL RESPONSIBILITY
-The technologies transforming humanitarian aid
-Our five-year partnership with Mercy Corps is empowering people to overcome crisis, build better lives, and transform their communities.
-CISCO LIVE!
-Join us for Cisco Live 2019
-Learn, explore, and connect with Cisco’s top experts, partners, and customers. Register today to lock in the lowest prices.
-#CISCOCHAT
-DevNet partner differentiation
-Making the most of Cisco APIs: See how some of Cisco’s most successful partners are already innovating and entering new markets, with the help of Cisco DevNet.
+Gartner's top IT infrastructure and operations trends, 2019
+According to Gartner, data center managers need to adopt “infrastructure-is-everywhere strategies” and manage IT service delivery, not hardware.
+CUSTOMER STORY
+Performance. Protection. Peace of mind.
+DataScan keeps track of billions in loan collateral for financial clients with Cisco data center and security solutions.
+PRODUCT
+The ISR 4461 router: better in every way
+Get our highest-performing and scalable modular SD-WAN branch platform with security, storage, and compute features.
+VNI REPORT
+What’s on your digital horizon?
+Check out the updated Cisco VNI Forecast and Trends Report (2017–2022)
 See what’s going on today at Cisco
 Cisco.com Homepage Tweets
 Tweet

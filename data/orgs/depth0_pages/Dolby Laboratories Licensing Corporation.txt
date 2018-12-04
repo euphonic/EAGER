@@ -1,7 +1,7 @@
 ixf_target_enabled
 be_ixf; dotnet_sdk; dotnet_sdk_1.4.9
-203 ms
-iy_2018; im_11; id_09; ih_15; imh_42; i_epoch:1541806972243
+109 ms
+iy_2018; im_11; id_26; ih_08; imh_23; i_epoch:1543249426341
 ixf-compiler; ixf-compiler_1.0.0.0
 py_2018; pm_10; pd_24; ph_13; pmh_18; p_epoch:1540412281708
 link-block-publisher; link-block-publisher_1.0.0.0; bodystr
@@ -46,6 +46,8 @@ Content
 Services
 Home
 Home Technologies
+Dolby 
+Dimension
 Dolby 
 Vision
 Dolby 
@@ -181,6 +183,7 @@ Motion Picture Service Agreement
 Licensed Dolby Manufacturers
 Use this list to verify that consumer electronics products you purchase bearing the Dolby logo and trademark are genuinely licensed by Dolby Laboratories.
 Licensed Dolby Manufacturers
+Dolby Dimension
 Cinema
 Home Theater
 Mobile

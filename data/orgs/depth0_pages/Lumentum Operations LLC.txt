@@ -18,6 +18,7 @@ English
 简体中文
 日本語
 ENTER YOUR KEYWORDS 
+Main menu
 Products
 
           Back
@@ -71,7 +72,8 @@ Applications Lab
 Application Matrix
 Resource Center
 Diode Lasers
-3D Sensing
+Consumer 3D Sensing
+Automotive 3D Sensing
 Fiber Laser Pumping
 Direct-Diode Systems
 All Applications
@@ -174,15 +176,15 @@ Changing how we interact with technology, every day
 
                                     Learn More 
 News Releases
+November 12, 2018
+Lumentum Updates Outlook For Fiscal Second Quarter 2019
 November 1, 2018
 Lumentum Announces Fiscal First Quarter 2019 Results
-October 15, 2018
-Lumentum To Announce Fiscal First Quarter 2019...
 In the News
+November 11, 2018
+Former Clorox, HP, And Rodan + Fields Tech Exec Ralph Loura Is Named CIO Of Lumentum
 September 26, 2018
 Lumentum unveils TrueFlex Twin 8x24 MxN wavelength selective switch at ECOC 2018
-September 25, 2018
-Lumentum reveals 'contentionless' wavelength selection switch at ECOC 2018
 Next Event
 Dec 05
  - 
@@ -191,8 +193,8 @@ Photonix 2018
 Booth: #5-43
 Chiba City,  Japan
 Boost productivity of micromachining applications
-November 13, 2018 — hosted by Industrial Laser Solutions
-Register 
+Hosted by Industrial Laser Solutions
+Watch Webcast 
 Next-Generation ROADM Networking
 Brandon Collings, Lumentum CTO, discusses how new WSS enables higher-capacity CDC ROADM networks
 Watch Video 

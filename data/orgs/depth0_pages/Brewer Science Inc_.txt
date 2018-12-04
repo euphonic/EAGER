@@ -112,14 +112,15 @@ Through our people and by our technology, Brewer Science is fulfilling the visio
 issued US Patents
 218
 Publications
-Check us out on WeChat!
+Brewer Science Earns Platinum Quality Award from ON Semiconductor
 Global
 Operations
-Brewer Science is GreenCircle Certified
-Find out how here
+Webinar: Continuous Improvement Deep Dive
+August 30th
 Products
 Find your solution
-Brewer Science Earns Platinum Quality Award from ON Semiconductor
+Sustaining long-term success through value based culture, diversity & growth
+View Leadership
 News
 Start to finish we have you covered
 We’re not your average company. Brewer Science has what it takes to get you ahead of the competition and exceed the norm.
@@ -148,8 +149,9 @@ Terms of Use
  | 
 Quality, Environmental and Safety Information
 Upcoming Events
-International Symposium on DSA
-SEMICON Europa 2018
 Dr. Terry Brewer's anti-reflective coatings revolutionized microelectronics manufacturing and ushered in today's high-speed lightweight electronic devices... Brewer Science is once again prepared to lead the industry into the next generation!
 Learn more about our company
 Top
+<!--
+	vs_account_id      = "fwABAVt0VU5cZQAz";
+	//-->

@@ -1419,10 +1419,10 @@ Connect with Us
 Connect with Waters via Twitter, Linkedin, Facebook, YouTube, Waters Community Forum, Waters Blog and more.
 Blogging About What's Possible
 Read and follow the Waters blog for insights on how to use – and how customers use – our technologies, including Empower...
-There is No Time to Waste.
-Scientists are making significant strides in biomarker research only to be challenged by translating those findings into clinical diagnostics.  Waters LC-MS  technologies are ideally suited to address  their analytical  challenges — enabling progress throughout  the Health Science continuum.  
-Let’s Start Now
-Conquering complex diseases requires advanced analytical tools. Our technologies impact the Health Sciences continuum from research to diagnostics. 
+Food Safety and Quality are More than a Matter of Taste.
+Milk, beverages, produce, and packaged food require constant checks on quality. Producers around the world partner with Waters to ensure they meet the highest standards for an ever-expanding population. Working with our customers in an ongoing mission to improve food safety, we’ve realized unparalleled solutions to help food testing laboratories deliver safety, quality, and the best possible consumer experience. 
+See What Safety Demands
+Science is ensuring consistent, reliable safety in the world’s food supply. 
 Waters 60th
 Chemical
 Environmental
@@ -1455,18 +1455,18 @@ Leasing and Financing Services - Making science more accessible.  Learn more
 								— 
 From start-ups and academic institutions to CROs, govern...
 Application Notes
-Evaluating the Performance of the ACQUITY Arc Bio UHPLC System for the Size-Exclusion Chromatography Analysis of a Monoclonal Antibody
-Separation of 16 Cannabinoids in Cannabis Flower and Extracts Using a Reversed Phase Isocratic HPLC Method
-13C Qualitative Flux Analysis with Symphony Software and Polly Software of Non-Small Cell Lung Carcinoma Cells Grown in vitro in Two and Three Dimensions
-Microbial Databases for Rapid Screening and Dereplication of Microbial Natural Products Using UPLC-QTof-MS Coupled to Novel Informatics Platform
-Alliance Carryover Performance Part 2: Carryover Improvement Achieved Through Needle Wash Optimization for the 2018 Alliance HPLC System
-Catabolism of Peptides Using Ion Mobility Enabled High Resolution Mass Spectrometry Coupled with Mass-Metasite Data Processing
-Rapid Determination of Cinnamomum Species Using the DART QDa System with LiveID for Ground Spice Authenticity Testing
-Determination of Highly Polar Cationic Pesticides and Plant Growth Regulators in Food Using UPLC-MS/MS 
-Development of a High Sensitivity, Sub-Picogram SPE LC-MS Method for Quantification of Mometasone from Human Plasma
-Alliance Carryover Performance Part 1: Carryover Improvement Achieved Through Instrument Design Changes for the Alliance HPLC System
-Automating Metabolic Flux Analysis with Symphony and Polly
-High Sensitivity Quantification of Salmon Calcitonin from Human Serum Using Mixed-Mode SPE & LC-MS/MS
+Automated Sample Preparation for Hybrid LC-MS/MS Protein Quantification: Does It Add Value?
+Troubleshooting Product Quality Through Physical and Chemical Analysis Of Polystyrene
+Analysis of Cyclosporine, Everolimus, Sirolimus, and Tacrolimus in Whole Blood for Clinical Research
+Impact of Instrument Characteristics on Reversed Phase Chromatography Method Transfer Across Biocompatible UHPLC Systems
+Small Scale Peptide Isolation Using UPLC with Mass-Directed Purification
+Testing For Leachables In A Pharmaceutical Impurity Assay
+International Symposium on the Purification of Proteins, Peptides and Polynucleotides (ISPPP)
+Enhancing Subunit-Level Profiling of mAbs and ADCs with MSQuality Difluoroacetic Acid
+The Effects of SFC Preparative Scale-up on Throughput, Purity and Recovery of an Impurity in an API Mixture
+Best Practices for Achieving Optimal Separations and Long Column Lifetimes in UPLC SEC of Proteins
+Integrating Data Independent Analysis (DIA) LC/MS Workflow with MALDI Imaging Mass Spectrometry for Untargeted Lipidomic Analysis
+Sub-pg/mL Bioanlaytical Quantification of Fluticasone Propionate Using the ACQUITY UPLC I-Class System and Xevo TQ-XS Tandem Quadrupole Mass Spectrometer with UniSpray Ionization
 All application notes
 Waters Corporation
 For over 60 years, Waters has developed innovative analytical science solutions to support customer discoveries, operations, performance, and regulatory compliance.

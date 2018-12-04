@@ -32,7 +32,7 @@ X-ray CMOS cameras
 X-ray CCD camera
 High resolution X-ray imaging system
 Imaging software
-Semiconductor laser
+Semiconductor lasers
 Applied products of semiconductor lasers
 Laser-related products
 Digital slide scanner
@@ -100,6 +100,7 @@ Flow cytometer
 Laser scanning microscope
 Laser rangefinder
 Gas analyzer
+Encoders
 Color measurement
 Plastic optical fiber communications
 LiDAR
@@ -360,6 +361,8 @@ Whole Slide Imaging
 Experience drives revolution...
 
 Learn more about our Whole Slide Imaging solutions. We are confident we can offer the best solution for your needs.
+Drug Discovery Solutions
+The FDSS systems have been developed to provide you with the best dispensing and imaging instruments to answer your needs
 Featured applications
 Computed radiography (CR)
 PET scanner
@@ -387,6 +390,15 @@ Products & technologies
 Investor relations
 Announcements
 Press releases
+2018/11/26
+IR
+Notice of Convocation of the 71st Ordinary General Meeting of Shareholders [206 KB/PDF]
+2018/11/14
+IR
+Hamamatsu Summary Report for the Fiscal Year ended September 30, 2018 [3 MB/PDF]
+2018/11/12
+IR
+Financial Results for the Fiscal Year ended September 30, 2018 [221 KB/PDF]
 2018/10/30
 Development
 Press release
@@ -395,17 +407,6 @@ Hamamatsu Photonics has developed a highly functional and reliable pulsed laser 
 Development
 Press release
 Hamamatsu Photonics has newly developed the world’s tiniest grating spectrometer  offering high sensitivity, compact size, light weight and low cost.
-2018/10/22
-Development
-Press release
-High-power high-repetition-rate laser system is now available in tabletop size.
-2018/10/19
-IR
-Notice on Change of Officer  [94 KB/PDF]
-2018/10/18
-Development
-Press release
-Hamamatsu Photonics has completed a new beam line for fusion experiments that measures laser-driven shock pressures up to one million atmospheres.
 View all
 2018/10/30
 Development
@@ -428,21 +429,21 @@ Development
 Press release
 Hamamatsu Photonics has developed a supercontinuum light source with high stability targeting for high-precision and high-resolution measurements.
 View all
+2018/11/26
+IR
+Notice of Convocation of the 71st Ordinary General Meeting of Shareholders [206 KB/PDF]
+2018/11/14
+IR
+Hamamatsu Summary Report for the Fiscal Year ended September 30, 2018 [3 MB/PDF]
+2018/11/12
+IR
+Financial Results for the Fiscal Year ended September 30, 2018 [221 KB/PDF]
 2018/10/19
 IR
 Notice on Change of Officer  [94 KB/PDF]
 2018/08/07
 IR
 Databook for the Third Quarter of Fiscal Year ending September 30, 2018 [727 KB/PDF]
-2018/08/06
-IR
-Financial Results for the Third Quarter of Fiscal Year ending September 30, 2018 [123 KB/PDF]
-2018/08/06
-IR
-Notice on Revision of Projected Year-End Dividend for the Fiscal Year ending September 30, 2018 [29 KB/PDF]
-2018/05/09
-IR
-Hamamatsu Summary Report for the Second Quarter of the Fiscal Year ending September 30, 2018 [1 MB/PDF]
 View all
 2018/06/25
 Announcement
@@ -487,15 +488,15 @@ Press release
 Hamamatsu Photonics has developed a supercontinuum light source with high stability targeting for high-precision and high-resolution measurements.
 View all
 Upcoming events
-Science Photonics Fair 2018
-November 13, 2018-November 15, 2018
-Science Museum
-The 38th Annual NANO Testing Symposium
-November 19, 2018-November 20, 2018
-Kokusai Fashion Center
-The 64th Autumn Annual Meeting of  The Japanese Society of Pathology
-November 22, 2018-November 23, 2018
-Kure City Public Hall
+The 41th Annual Meeting of the Molecular Biology Society of Japan 
+November 28, 2018-November 30, 2018
+PACIFICO YOKOHAMA
+The 9th Conference on Biomolecular Screenology
+November 30, 2018
+Tower Hall Funabori
+INTERNATIONAL TECHNICAL EXHIBITION ON IMAGE TECHNOLOGY AND EQUIPMENT 2018
+December 5, 2018-December 7, 2018
+PACIFICO YOKOHAMA
 View all
 Related content
 Contact

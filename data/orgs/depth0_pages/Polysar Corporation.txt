@@ -44,6 +44,12 @@ Channel Partners
 Resources
 Search
 Menu
+MEET POLYSTAR
+ AT MWC 2019 IN BARCELONA
+BOOK A MEETING
+MEET POLYSTAR
+ AT MWC 2019 IN BARCELONA
+BOOK A MEETING
 DRIVING OPERATIONAL EFFICIENCY
  THROUGH REAL-TIME ANALYTICS
 Learn more
@@ -68,13 +74,6 @@ AWARD-WINNING
 LEARN MORE
 AWARD-WINNING
  TELECOMS SOLUTIONS
-LEARN MORE
-HOW TO OFFER SECURE &
- ROBUST IoT SERVICES WITH CONFIDENCE
-LEARN MORE
-HOW TO OFFER SECURE &
- ROBUST IoT SERVICES
- WITH CONFIDENCE
 LEARN MORE
 HOW TO SECURE IMMEDIATE 
  VALUE FROM BIG DATA
@@ -105,48 +104,39 @@ IoT
 Internet of Things
  (IoT) challenge.
 Business Insights
-Learn more
 Access to rich, accurate information on subscribers and their behaviour is essential to help CSPs deliver outstanding customer experience. It allows CSPs to design more attractive offers and compelling marketing that makes the most of network investments. The 
 Business Insights
  solutions help operations and business teams gain a better understanding of their customers and run their networks more efficiently.
-Marketing Insights
-Customer Care Insights
-Sales Insights
+MARKETING INSIGHTS
+CUSTOMER CARE INSIGHTS
+SALES INSIGHTS
 Network Performance Insights
-Learn more
 Networks are complex. To provide an outstanding customer experience, networks must operate at maximum efficiency. For CSPs, the ability to monitor and troubleshoot networks dynamically, flexibly and in real-time is critical to future profit and growth. The 
 Network Performance Insights
  solutions deliver the agility required to be successful.
-NOC
-Insights
-Network Management
-Insights
-Device
-Insights
-Roaming
-Insights
+NOC INSIGHTS
+NETWORK MANAGEMENT INSIGHTS
+DEVICE INSIGHTS
+ROAMING INSIGHTS
 Executive Insights
-Learn more
 Executives need clear information so that they can make the right decisions. They have to understand what customers do and any problems that result, so customer experience management and network investments can be optimised. The 
 Executive Insights
  solution provides the clarity they need to tune strategy and secure competitive advantage.
-CxO Insights
+CXO INSIGHTS
 Innovation
 We at Polystar pride ourselves on a culture of innovation. We share our customer challenges and working closely with them to come up with the right solutions. Telecommunication is fast moving in the world, the mobile network industry is full of technology and complexity. New technologies enable greater efficiency and new possibilities create new subscriber needs. Read more about the innovations that help CSPs become more customer-centric and better understand network performance, devices, services and their key asset – their subscribers.
-Evolving from the NOC to the SOC
-Monitoring in the RAN
-Network OSS data
-Big Data Analytics
-Internet of Things (IoT)
+ENVOLVING FROM THE NOC TO THE SOC
+MONITORING IN THE RAN
+NETWORK OSS DATA
+BIG DATA ANALYTICS
+INTERNET OF THINGS (lOT)
 Service Enablement
-Learn more
 Polystar’s Service Enablement solutions help CSPs and NEMs launch services on-time and on-budget and guarantee the success of service design. 
 Solver
  is a Stress and Feature Testing Solution that helps CSPs and NEMs get to market fast, with minimal disruption and delay. While the 
 ODIN
  IMS application server enables rapid deployment of rich, compelling services, such as VoLTE and VoWiFi, making the most of investments in LTE.
-Stress and Feature Testing
-IMS Application Server
+SERVICE ENABLEMENT
 Trusted by over
 110
 CSPs WORLDWIDE
@@ -160,7 +150,11 @@ Monitoring over
 TRANSACTIONS A DAY
 OUR CLIENTS
 Latest News
-Archive
+Polystar announces its participation in the Mobile World Congress 2019
+EVENTS
+15 November 2018
+/
+by 2SINN_hasler
 POLYSTAR ANNOUNCES ISO 9001 AND 27001 CERTIFICATIONS
 PRESS RELEASES
 27 September 2018
@@ -176,13 +170,7 @@ PRESS RELEASES
 26 February 2018
 /
 by Csilla Laluk
-WHITE PAPER: “Unlock new insights from network OSS data”
-IN THE MEDIA
-15 February 2018
-/
-by 2SINN_hasler
 Awards
-Archive
 Learn more about Polystar
 CONTACT US
 Company 
@@ -197,16 +185,14 @@ Executive Insights
 Service Assurance
 Service Enablement
 Latest News
+Polystar announces its participation in the Mobile World Congress 2019
+15 November 2018
 POLYSTAR ANNOUNCES ISO 9001 AND 27001 CERTIFICATIONS
 27 September 2018
 Polystar chosen by European Tier 1 operator to provide virtual Solver test solution
 21 March 2018
-Polystar chosen by NOS to deliver end-to-end network monitoring and enhance customer care
-26 February 2018
 Newsletter
 Newsletter SignUp Footer
-Title 
-*
 Name 
 *
 Company 

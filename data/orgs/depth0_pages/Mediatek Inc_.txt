@@ -107,8 +107,8 @@ About
 About MediaTek
 Everyday Genius
 Awards & Recognition
-MediaTek Foundation
 MediaTek Ventures
+MediaTek Foundation
 Office Locations
 Overview
 China Offices
@@ -186,7 +186,7 @@ Quarterly Earnings Release
 Financial Reports
 Annual Reports
 Overview
-2016 Annual Report
+Overview
 1. Financial Status
 2. Operating Results
 3. Cash Flow Analysis
@@ -198,7 +198,6 @@ Overview
 2. Condensed Statements of Comprehensive Income / Statements of Income
 3. Auditors’ Opinions from 2012 to 2016
 4. Five Year Financial Analysis
-2015 Annual Report
 1. Financial Status
 2. Operating Results
 3. Cash Flow Analysis
@@ -210,7 +209,6 @@ Overview
 2. Condensed Statements of Comprehensive Income / Statements of Income
 3. Auditors’ Opinions from 2011 to 2015
 4. Five-Year Financial Analysis
-2014 Annual Report
 1. Financial Status
 2. Operating Results
 3. Cash Flow Analysis
@@ -222,7 +220,6 @@ Overview
 2. Condensed Statements of Comprehensive Income / Statements of Income
 3. Auditors’ Opinions from 2010 to 2014
 4. Five-Year Financial Analysis
-2013 Annual Report
 1. Financial Status
 2. Operating Results
 3. Cash Flow Analysis
@@ -234,11 +231,6 @@ Overview
 2. Condensed Income Statement
 3. Independent Auditors’ Opinions
 4. Financial Statements for the Past 5 Years
-2012
-2011
-2010
-2009
-2008
 Shareholder Services
 Shareholder Meetings
 Dividend History

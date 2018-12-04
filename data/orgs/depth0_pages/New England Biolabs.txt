@@ -3,13 +3,13 @@ Sign In
  or 
 Sign Up
 
-    Welcome, 
+Welcome, 
 
-        Guest
-    
+Guest
 
-                        Applications & Products
-                    
+
+Applications & Products
+
 Applications
 Cloning & Synthetic Biology
 DNA Amplification, PCR and qPCR
@@ -47,7 +47,7 @@ New Products
 Special Offers
 Time for Change
 Monarch Nucleic Acid Purification Kits
- are optimized for maximum performance and minimal environmental impact. Kits are available for  total RNA purification, plasmid miniprep, gel extraction, and DNA & RNA cleanup. For maximum convenience and value, columns and buffers are also available separately.
+ are optimized for maximum performance and minimal environmental impact. Kits are available for total RNA purification, plasmid miniprep, gel extraction, and DNA & RNA cleanup. For maximum convenience and value, columns and buffers are also available separately.
  Learn more and request a sample!
 You’ll be Thrilled to Pieces
 
@@ -119,7 +119,7 @@ Ipswich, MA 01938-2723
 (Toll Free) 1-800-632-5227 
 
 Fax: 978-921-1350 
-Info@neb.com
+[email protected]
 About
 NEB Overview
 News & Press Releases
@@ -134,8 +134,8 @@ Careers
 Contact Us
 Quick Order
 
-                        Applications & Products
-                    
+Applications & Products
+
 Applications
 Cloning & Synthetic Biology
 DNA Amplification, PCR and qPCR
@@ -173,7 +173,7 @@ New Products
 Special Offers
 Time for Change
 Monarch Nucleic Acid Purification Kits
- are optimized for maximum performance and minimal environmental impact. Kits are available for  total RNA purification, plasmid miniprep, gel extraction, and DNA & RNA cleanup. For maximum convenience and value, columns and buffers are also available separately.
+ are optimized for maximum performance and minimal environmental impact. Kits are available for total RNA purification, plasmid miniprep, gel extraction, and DNA & RNA cleanup. For maximum convenience and value, columns and buffers are also available separately.
  Learn more and request a sample!
 You’ll be Thrilled to Pieces
 
@@ -245,7 +245,7 @@ Ipswich, MA 01938-2723
 (Toll Free) 1-800-632-5227 
 
 Fax: 978-921-1350 
-Info@neb.com
+[email protected]
 About
 NEB Overview
 News & Press Releases
@@ -281,6 +281,9 @@ Ready Panels for NGS target enrichment
 Learn more
 Learn more
 What's New?
+NEB TV Ep. 24 – Neglected Tropical Diseases
+Learn how NEB’s research on neglected tropical diseases, such as elephantiasis (lymphatic filariasis) and river blindness (onchocerciasis), is helping to identify methods for detection, control and treatment.
+View Video
 Base modifications affecting RNA polymerase and reverse transcriptase fidelity
 Behind the paper: Jennifer summarizes her group’s recent Nucleic Acid Research publication describing how individual RNA base modifications affect RNA polymerase fidelity as well as reverse transcription error rates.
 View Video
@@ -314,7 +317,7 @@ OR
 Browse All Protocols
 NEB Literature
 
-Request an NEB Catalog & Technical Reference, or browse our other literature.                            
+Request an NEB Catalog & Technical Reference, or browse our other literature. 
 Browse All
 Online Tools & Mobile Apps
 NEBcutter V2.0
@@ -338,7 +341,7 @@ Connect with NEB
 Sign up and select NEB email newsletters targeted to your research.
 Submit
 
-                © Copyright 2018 New England Biolabs. All Rights Reserved. 
+© Copyright 2018 New England Biolabs. All Rights Reserved. 
 Site Map
 Terms of Use
 Trademarks
@@ -346,13 +349,12 @@ Terms of Sale
 Privacy Policy
 <
 Session Expired
-You have been idle for more than 20 minutes, for your security you have been logged out.  Please sign back in to continue your session.
+You have been idle for more than 20 minutes, for your security you have been logged out. Please sign back in to continue your session.
 Sign In
 Institution Changed
 
-                Your profile has been mapped to an Institution, please sign back for your profile updates to be completed.
+Your profile has been mapped to an Institution, please sign back for your profile updates to be completed.
 
-            
 Sign In
 Sign in to your NEB account
 To save your cart and view previous orders, sign in to your NEB account. Adding products to your cart without being signed in will result in a loss of your cart when you do sign in or leave the site.

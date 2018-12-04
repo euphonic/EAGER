@@ -22,7 +22,7 @@ Connectivity, Custom, & SoC
 
                 	Connectivity
 
-								Wired Transceivers & Modems (49)
+								Wired Transceivers & Modems (48)
 
 								Wireless RF Transceivers (20)
 
@@ -55,7 +55,7 @@ Sensors
 
 								Image Sensor Modules (6)
 
-								Image Sensors (155)
+								Image Sensors (154)
 
                 	Light & Touch Sensors
 
@@ -78,11 +78,11 @@ Power Management
 
                 	AC-DC Controllers & Regulators
 
-								Offline Controllers (73)
+								Offline Controllers (72)
 
 								Offline Regulators (104)
 
-								Power Factor Controllers (27)
+								Power Factor Controllers (28)
 
 								Secondary Side Controllers (20)
 
@@ -104,17 +104,17 @@ Power Management
 
 								DDR Termination Regulators (10)
 
-								Integrated Driver & MOSFET (53)
+								Integrated Driver & MOSFET (55)
 
-								LDO Regulators & Linear Voltage Regulators (263)
+								LDO Regulators & Linear Voltage Regulators (262)
 
                 	LED Drivers
 
-								AC-DC LED Drivers (55)
+								AC-DC LED Drivers (56)
 
 								DC-DC LED Drivers (36)
 
-								Linear LED Drivers (60)
+								Linear LED Drivers (59)
 
                 	Motor Drivers & Load Drivers
 
@@ -124,13 +124,13 @@ Power Management
 
 								Motor Drivers, Brushed (18)
 
-								Motor Drivers, Brushless (76)
+								Motor Drivers, Brushless (75)
 
 								Motor Drivers, Stepper (74)
 
                 	Power Modules
 
-								Intelligent Power Modules (IPMs) (113)
+								Intelligent Power Modules (IPMs) (114)
 
 								Power Integrated Modules (PIMs) (15)
 
@@ -138,13 +138,13 @@ Power Management
 
 								Current Protection (27)
 
-								Load Switches (112)
+								Load Switches (114)
 
 								Voltage Protection (15)
 
 								Voltage References (32)
 
-								Voltage Supervisors (50)
+								Voltage Supervisors (49)
 Analog, Logic, & Timing
 
                 	Amplifiers & Comparators
@@ -213,13 +213,13 @@ Analog, Logic, & Timing
 
                 	Microcontrollers
 
-								Application Specific Microcontrollers (16)
+								Application Specific Microcontrollers (17)
 
-								General Purpose Microcontrollers (28)
+								General Purpose Microcontrollers (27)
 
                 	Standard Logic
 
-								Arithmetic Logic Functions (39)
+								Arithmetic Logic Functions (40)
 
 								Buffers (272)
 
@@ -244,9 +244,9 @@ Discrete
 
 								Digital Transistors (BRTs) (364)
 
-								Darlington Transistors (117)
+								Darlington Transistors (120)
 
-								General Purpose and Low VCE(sat) Transistors (871)
+								General Purpose and Low VCE(sat) Transistors (877)
 
 								MMICs, RF (6)
 
@@ -268,9 +268,9 @@ Discrete
 
                 	ESD, EMI, & Surge Protection
 
-								ESD Protection Diodes (226)
+								ESD Protection Diodes (227)
 
-								EMI Filters (60)
+								EMI Filters (59)
 
                 	IGBTs & FETs
 
@@ -278,7 +278,7 @@ Discrete
 
 								JFETs (76)
 
-								MOSFETs (2414)
+								MOSFETs (2419)
 
 								Protected MOSFETs (23)
 
@@ -330,25 +330,25 @@ New Products
 Product Services
  Applications
 » 
-Computing & Peripherals
-» 
 Automotive
 » 
-LED Lighting
+Computing & Peripherals
 » 
 Consumer
 » 
 Aerospace & Defense
 » 
+LED Lighting
+» 
 Industrial
 » 
 Medical
 » 
+Portable & Wireless
+» 
 Networking & Telecommunications
 » 
 Power Supply
-» 
-Portable & Wireless
  Design Support
 » 
 Technical Support
@@ -382,8 +382,8 @@ Intellectual Property
 Awards
 Investor Relations
 Quality
-Careers
 Contact Us
+Careers
  MyON
 Search
  Products
@@ -441,7 +441,7 @@ Image Sensors & Processors
 
                     Image Sensor Modules (6)
 
-                    Image Sensors (155)
+                    Image Sensors (154)
 » 
 Light & Touch Sensors
 
@@ -464,11 +464,11 @@ Power Management
 » 
 AC-DC Controllers & Regulators
 
-                    Offline Controllers (73)
+                    Offline Controllers (72)
 
                     Offline Regulators (104)
 
-                    Power Factor Controllers (27)
+                    Power Factor Controllers (28)
 
                     Secondary Side Controllers (20)
 » 
@@ -486,17 +486,17 @@ DC-DC Controllers, Converters, & Regulators
 
                     Controllers (138)
 
-                    Converters (197)
+                    Converters (196)
 
                     DDR Termination Regulators (10)
 
-                    Integrated Driver & MOSFET (53)
+                    Integrated Driver & MOSFET (55)
 
-                    LDO Regulators & Linear Voltage Regulators (263)
+                    LDO Regulators & Linear Voltage Regulators (262)
 » 
 LED Drivers
 
-                    AC-DC LED Drivers (55)
+                    AC-DC LED Drivers (56)
 
                     DC-DC LED Drivers (36)
 
@@ -510,13 +510,13 @@ Motor Drivers & Load Drivers
 
                     Motor Drivers, Brushed (18)
 
-                    Motor Drivers, Brushless (76)
+                    Motor Drivers, Brushless (75)
 
                     Motor Drivers, Stepper (74)
 » 
 Power Modules
 
-                    Intelligent Power Modules (IPMs) (113)
+                    Intelligent Power Modules (IPMs) (114)
 
                     Power Integrated Modules (PIMs) (15)
 » 
@@ -524,13 +524,13 @@ Voltage & Current Management
 
                     Current Protection (27)
 
-                    Load Switches (112)
+                    Load Switches (113)
 
                     Voltage Protection (15)
 
                     Voltage References (32)
 
-                    Voltage Supervisors (50)
+                    Voltage Supervisors (49)
 Analog, Logic, & Timing
 » 
 Amplifiers & Comparators
@@ -599,13 +599,13 @@ Memory
 » 
 Microcontrollers
 
-                    Application Specific Microcontrollers (16)
+                    Application Specific Microcontrollers (17)
 
-                    General Purpose Microcontrollers (28)
+                    General Purpose Microcontrollers (27)
 » 
 Standard Logic
 
-                    Arithmetic Logic Functions (39)
+                    Arithmetic Logic Functions (40)
 
                     Buffers (272)
 
@@ -630,9 +630,9 @@ Bipolar Junction Transistors (BJT)
 
                     Digital Transistors (BRTs) (364)
 
-                    Darlington Transistors (117)
+                    Darlington Transistors (120)
 
-                    General Purpose and Low VCE(sat) Transistors (871)
+                    General Purpose and Low VCE(sat) Transistors (877)
 
                     MMICs, RF (6)
 
@@ -644,7 +644,7 @@ Diodes & Rectifiers
 
                     RF Diodes (13)
 
-                    Schottky Diodes & Schottky Rectifiers (530)
+                    Schottky Diodes & Schottky Rectifiers (531)
 
                     Silicon Carbide (SiC) Diodes (73)
 
@@ -664,7 +664,7 @@ IGBTs & FETs
 
                     JFETs (76)
 
-                    MOSFETs (2414)
+                    MOSFETs (2419)
 
                     Protected MOSFETs (23)
 » 
@@ -714,25 +714,25 @@ TRIAC Driver Optocouplers
                     TRIAC Driver Optocouplers (42)
  Applications
 » 
-Computing & Peripherals
-» 
 Automotive
 » 
-LED Lighting
+Computing & Peripherals
 » 
 Consumer
 » 
 Aerospace & Defense
 » 
+LED Lighting
+» 
 Industrial
 » 
 Medical
 » 
+Portable & Wireless
+» 
 Networking & Telecommunications
 » 
 Power Supply
-» 
-Portable & Wireless
  Design Support
 » 
 Technical Support
@@ -748,8 +748,8 @@ Product Recommendation Tools
 Company
 Investor Relations
 Quality
-Careers
 Contact Us
+Careers
 » 
 Fact Sheet
 » 
@@ -777,17 +777,17 @@ Rate this webpage
 Need
  Support?
 Technical Support
-November 13–16, 2018
-Messe Munchen
-Hall C4, Booth #101
-ELECTRONICA
-Electronica, world’s leading trade fair 
-and conference for electronics.
-
-LEARN MORE
 FORMULA 1 /
 FORMULA E
 ON Semiconductor announces Official Supplier relationship with Mercedes-AMG Motorsport and Mercedes EQ Formula E Team to create cutting-edge power solutions for vehicle electrification
+
+LEARN MORE
+EVALUATE
+A USB-POWER DELIVERY
+DUAL PORT DESIGN
+Evaluation System with 2 Port USB Type-CTM source
+including software UI, control & telemetry, and
+customizable features & operating levels
 
 LEARN MORE
 ONLY True Grade 0 & Low-Voltage Grade 1
@@ -860,6 +860,8 @@ Docking Station
 IoT Development Kit (IDK)
 IoT Development Kit (IDK)
 Bluetooth IoT Development Kit (B-IDK)
+Energy Harvesting Platforms
+Bluetooth Low Energy Switch
 IoT Development Kit (IDK)
 Wireless Charging
 Bluetooth
@@ -970,60 +972,60 @@ Product Recommendation Tool
 Device recommendations based on system-level requirements
 Interactive Block Diagrams
 Build a customized list of products to complete your design
-Rethink Energy Efficency
+Be at the Center of Progress
 
 						Think ON
-Our products, tools, and solutions are engineered to help you design, build, and think more efficiently.
+ON Semiconductor has the expertise, products, platforms and complete solutions to help you create smart, connected, energy efficient devices, and get them to market faster. The world moves fast. For a partner to help you stay ahead, and be at the center of progress… Think ON.
 WATCH THE FILM
 Blog
-Current Sensing Solutions for Powertrain Systems
+Green is Gold When It Comes to Sustainability
 
 										 - 
-2018-10-23
-Sustainability in Action at ON Semiconductor 
+2018-11-29
+Enabling Battery-less IoT Solutions with Bluetooth® Low Energy
 
 										 - 
-2018-11-02
-ON Semiconductor at Vision Stuttgart 2018 
+2018-11-20
+USB-C and Automotive Electronics – Where Power Meets the Road
 
 										 - 
 2018-11-02
 More Posts
 Media Center
+ON Semiconductor Announces New $1.5 Billion Share Repurchase Program
+
+											 - 
+2018-11-15
+ON Semiconductor Delivers Energy Harvesting Bluetooth® Low Energy Switch Based on the Ultra-Low-Power RSL10 SIP
+
+											 - 
+2018-11-13
 New Automotive Intelligent Power Modules from ON Semiconductor Provide Space and Power Saving Integrated Solution for Vehicle On-Board Charging Applications
 
 											 - 
 2018-11-08
-ON Semiconductor Launches New Power Modules That Deliver High Efficiency, Space Saving Solutions for Solar and Industrial Power Applications
-
-											 - 
-2018-11-07
-ON Semiconductor Unveils IoT Solutions for Wireless Mesh Networking, Battery-less Edge Nodes and Artificial Intelligence 
-
-											 - 
-2018-11-06
 More News
 Events
-
-												Webinar: Overcurrent Protection to Address Challenges in Automotive and Industrial Motor Control Systems
-
-										 -  November 13, 2018
-
-												Electronica
-
-										 -  November 13–16, 2018
-
-												 Embedded Technology & IoT Technology 2018
-
-										 -  November 14 – 16, 2018
-
-												Webinar: Opportunities and Challenges in Emerging 48V Applications
-
-										 -  November 29, 2018
 
 												Electronica Power Electronics Forum
 
 										 -  December 4, 2018
+
+												Webinar: ON Semiconductor Bluetooth® Low Energy Technology for Ultra-Low Power IoT Applications
+
+										 -  December 6th, 2018
+
+												Webinar: Emerging Visual Internet of Things Solutions
+
+										 -  2018年12月12日
+
+												Webinar: ON Semiconductor's Comprehensive, Energy-efficient, and Highly Reliable Automotive Electronic Solution for Electric/Hybrid Vehicles
+
+										 -  2018年12月14日
+
+												Webinar: Recent Advances in Wireless Sensing & How to Use Sensors to Enable Growth of the IoT 
+
+										 -  September 20, 2018
 More Events
 Privacy Policy
 Terms of Use

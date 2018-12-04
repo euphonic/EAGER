@@ -21,13 +21,13 @@ Optical Instrumentation
 Markets
 Data Center
 Cabling in the Data Center
-Enterprise
-Storage
 Transport
+3D Sensing
+Enterprise
 Access
 Wireless
 High Performance Computing
-3D Sensing
+Storage
 Cable TV
 Military and Aerospace
 Industrial
@@ -121,12 +121,12 @@ Prime Minister’s Prize for Innovation
 Congratulations to Finisar’s Simon Poole, Andrew Bartos, Glenn Baxter and Steven Frisken for receiving the Australian Prime Minister’s Prize for Innovation for their work in developing optical wavelength switches.
 Watch Now: PM Prize for Innovation 2018
 Press Releases
+Finisar to Release Second Quarter 2019 Financial Results on December 3
+Nov 19, 2018
+II-VI Incorporated to Acquire Finisar, Creating Transformative Strategic Combination with Leading Positions in Photonics and Compound Semiconductors
+Nov 09, 2018
 Finisar Shipping Transceivers with new Flextune™ Self-Tuning Capability
 Sep 24, 2018
-Finisar Introduces 400G QSFP-DD DR4 Transceiver for Data Center Applications and the Industry’s First 64 Gbaud Coherent Integrated Assembly at ECOC 2018
-Sep 24, 2018
-New DSFP (Dual Small Form-Factor Pluggable) Transceiver Specification Released
-Sep 19, 2018
 View All Press Releases
 Events
 Photonics West 2019 | San Francisco, CA | Booth 4045

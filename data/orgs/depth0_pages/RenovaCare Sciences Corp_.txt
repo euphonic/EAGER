@@ -85,4 +85,3 @@ Disclaimer & Privacy Policy
 Contact
  | 
 Go to Top
-Cognito.load("forms", { id: "6" });

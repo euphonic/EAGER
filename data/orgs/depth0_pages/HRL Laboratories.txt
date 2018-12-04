@@ -41,25 +41,25 @@ Commercial MMIC Products
 Foundry Services
 Machine Shop
 Open Innovation
+HRL Laboratories has received a DARPA award to significantly advance the technology and manufacturing readiness levels of its leading-edge T3 GaN technology. Integrated circuits made by layering GaN onto silicon carbide substrate wafers offer the best combination of efficiency, output power, and survivability among radio frequency and millimeter-wave semiconductor technologies.
+Highest Speed GaN Electronics Racing to the Finish Line
+A new program being developed by computer scientists at HRL Laboratories, LLC, is a cyber-defense system that will exploit a social engineering attacker’s methods by drawing them in with automated responses to their behavior.
+Hacking Back at the Hackers
 In an effort to electronically mimic neurons—the nerve cells of the brain—scientists from HRL Laboratories, LLC have successfully demonstrated novel electronic neuron circuits that exhibits as many as 23 known behaviors of biological neurons and the three classes of neuron activation (excitation) that code information between neurons about sensory events, cognitive processes, or motor actions.
 Novel Memristor Neuron Circuits Offer Building Blocks  for Mimicking the Brain
 HRL Laboratories, LLC, researchers have achieved a major advancement in radio frequency switches over existing technology that will vastly accelerate data streaming in smartphones and other devices on 5G wireless networks with a more reliable signal and wider bandwidth for simultaneous data streams.
 New Radio Frequency Switch  Enables Faster Video and Audio 5G Streaming
 In our third episode of HRL’s History of the Future Podcast we speak with Dan Sievenpiper, a whiz-kid scientist who invented the high-impedance electromagnetic surface while he was an engineering grad student at UCLA.
 HRL’s History of the Future Podcast Episode 003: Dan Sievenpiper
-HRL Laboratories publish the first study using closed-loop slow-wave transcranial alternating current stimulation (tACS) of the brain during sleep to increase human subjects’ ability to generalize experience in a target detection task, improving overnight performance change for novel situations by about 48%.
-Skills and Learning Improved by Closed-Loop Electrical Brain Stimulation During Sleep
-HRL Laboratories, LLC, will leverage electronic brain-cell technology for a new computer architecture that promises more compact, energy-efficient, and capable systems. The program is part of the Defense Advanced Research Projects Agency program Foundations Required for Novel Compute (FRANC).
-All-Memristor Architecture Could Enable Brain-Like Computers
  Latest News
+11/27/2018 | Highest Speed GaN Electronics Racing to the Finish Line
+11/16/2018 | Hacking Back at the Hackers
 11/07/2018 | Novel Memristor Neuron Circuits Offer Building Blocks for Mimicking the Brain
 09/10/2018 | HRL Horizons Issue 3 is out now!
 08/23/2018 | HRL’s History of the Future Podcast Episode 003: Dan Sievenpiper
 08/01/2018 | Skills and Learning Improved by Closed-Loop Electrical Brain Stimulation During Sleep
 07/24/2018 | All-Memristor Architecture Could Enable Brain-Like Computers
 07/19/2018 | STELLAR System Will Enable Autonomous Systems to Learn for Life
-07/16/2018 | HRL Employees’ Experience Touches Down on Mars
-07/02/2018 | Center for Human Machine Collaboration site launches
 GTA³ 2.0: The 2nd workshop on Graph Techniques for Adversarial Activity Analytics
  December 10, 2018 | The Westin - Seattle, WA
 Products & Services

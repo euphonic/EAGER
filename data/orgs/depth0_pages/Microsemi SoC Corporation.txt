@@ -203,7 +203,7 @@ FPGA & SoC Training
 FPGA & SoC Webcasts
 Timing Systems Webcasts
 https://www.microsemi.com/images/newslides/RISC_V_Event_Page_Banner.jpg
-https://www.microsemi.com/images/newslides/SmartRAID_HmPg_2018_11_05.jpg
+https://www.microsemi.com/images/newslides/2018-11-18-HBA1100-HmPg.jpg
 https://www.microsemi.com/images/newslides/2018_05_miTime_HmPgBnr.jpg
 https://www.microsemi.com/images/newslides/BlueSky_HmPgBnr_2018_09.jpg
 https://www.microsemi.com/images/newslides/Microsemi_PDS-208G_Web_Banner-Dec22-2017.jpg
@@ -240,19 +240,19 @@ Package Miniaturization Services
 Rugged Power Supply Design Services
 Timing & Synchronization Services
 Press
+Rep. McSally Visits Microchip Executives to Discuss Semiconductor Supply Chain Resilience in the U.S. Amid Defense Industrial Base Report Findings
 New BlueSky GNSS Firewall From Microsemi Provides Secure, Continuous Timing Integrity in GPS-Denied Environments
-Microsemi RTG4 FPGAs Become Industry's First High-Speed Signal Processing Radiation-Tolerant FPGAs to Achieve QML Class V Qualification
 More »
 Events
 Arrow and Microsemi PolarFire FPGA Workshops
 
       05.15.2018 - 11.13.2019      
-Supercomputing 2018
+RISC-V Summit
 
-      11.12.2018 - 11.15.2018      
-Electronica Europe
+      12.03.2018 - 12.06.2018      
+CES 2019
 
-      11.13.2018 - 11.16.2018      
+      01.08.2019 - 01.11.2019      
 More Events »
 Videos
 Microsemi Corporation, a wholly owned subsidiary of Microchip Technology Inc. (Nasdaq: MCHP), offers a comprehensive portfolio of semiconductor and system solutions for communications, defense & security, aerospace and industrial markets. Products include high-performance and radiation-hardened analog mixed-signal integrated circuits, FPGAs, SoCs and ASICs; power management products; timing and synchronization devices and precise time solutions, setting the world's standard for time; voice processing devices; RF solutions; discrete components; enterprise storage and communication solutions, security technologies and scalable anti-tamper products; Ethernet solutions; Power-over-Ethernet ICs and midspans; as well as custom design capabilities and services. Microsemi is headquartered in Aliso Viejo, California.

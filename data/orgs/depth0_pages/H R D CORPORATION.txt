@@ -26,16 +26,16 @@ Employment
 How Do I
 Measure F1
 What's Happening! +
-Thu Nov. 15  
+Thu Dec. 6  
 41st Area Artists’ Annual Juried Exhibit
-Thu Nov. 15  
-Dracula
-Fri Nov. 16  
+Thu Dec. 6  
+Holiday Concert with the Tinseltones!
+Fri Dec. 7  
 41st Area Artists’ Annual Juried Exhibit
-Fri Nov. 16  
-Dracula
-Sat Nov. 17  
+Sat Dec. 8  
 41st Area Artists’ Annual Juried Exhibit
+Mon Dec. 10  
+Cuentos Del Mes 
 View All>>
 /Calendar.aspx
 Latest News
@@ -84,6 +84,9 @@ Privacy
 Powered by CivicPlus®
 Employee Login
 /QuickLinks.aspx
+
+    $("
+.moduleContentNew {background : transparent }
 loadCSS('//fonts.googleapis.com/css?family=Michroma:regular|');
 []
 Slideshow Left Arrow

@@ -52,6 +52,7 @@ Traffic Detection Boards
 Traffic Management Software
 Security
 Thermal Security Cameras
+Mobile & Wearable Solutions
 Visible Security Cameras
 Video Management Systems
 Command and Control Software
@@ -94,7 +95,7 @@ Machine Vision Cameras
 Software Development Kits
 Discover
 Support
-Support HQ
+Support Center
 Training
 News
 About
@@ -102,7 +103,6 @@ About FLIR
 Worlds Sixth Sense
 Investor Relations
 Careers
-FLIR Offices
 Search
 Search
 View All Search Results
@@ -117,8 +117,8 @@ Advanced driver-assistance systems (ADAS) that include thermal imaging sensors d
 Giving cars the power of thermal sight for safer roads
 There's more to see—and avoid—at night, through glare, and in the fog.
 Advanced driver-assistance systems (ADAS) that include thermal imaging sensors deliver data-driven, life-saving action in real time.
-FLIR Saros™ Dome
-Multi-Spectral Intrusion Solution
+FLIR TruWITNESS
+Central Security System for Global Event Handling
 View Product
 FLIR One Pro LT
 Pro-Grade Thermal Camera for Smartphones
@@ -145,8 +145,8 @@ Learn more
 For your life
 Ever wonder what it’s like to be a super hero?  Seeing is unbelievable.
 Learn more
-Introducing Saros: FLIR's Next-Generation Security Camera Line
-The FLIR Saros camera line enables commercial businesses to implement state-of-the-art outdoor intrusion detection in a cost-effective manner. 
+Introducing TruWITNESS Mobile Sensor Platform
+The industry’s first wearable sensor platform designed for any city-level security and public safety organization
 Read the Story
 The World's Sixth Sense
 ®

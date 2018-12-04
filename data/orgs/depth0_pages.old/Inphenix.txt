@@ -1,0 +1,124 @@
+English
+日本語
+中文 (中国)
+Menu 
+Home
+Company
+Get A Quote
+About Us
+Sales & Support
+Support
+Sales Office
+RMA Request
+Feedback
+Events
+Careers
+Products
+Superluminescent Diode Devices
+Swept Source Laser
+Semiconductor Optical Amplifiers
+Broadband Light Source
+Broadband Light Source Modules
+Broadband Light Source Desktops
+Driver Boards
+Superluminescent Diodes
+Semiconductor Optical Amplifiers
+Lasers
+Fabry-Perot Lasers
+Distributed Feedback Lasers(DFBs)
+Gain Chips
+Solutions
+Biomedical
+Telecom
+Sensor
+Test & Measurement
+Customization
+Foundry Services
+Resource Library
+White Paper
+Publications
+Contact Us
+Superluminescent Diodes
+Inphenix’s Superluminescent Diodes combine very broad spectral bandwidths with high output power to deliver speckle-free emission wavelengths from 700nm to 1700nm. Superluminescent diode (SLD) is an edge-emitting semiconductor light source. The unique property of an SLD is its high output power and low beam divergence, similar to an injection laser diode (LD), but with a broad emission spectrum and low coherence, similar to a light emitting diode (LED). SLDs are similar in geometry to lasers but have no built-in optical feedback mechanism required by LDs for stimulated emission to achieve lasing. 
+Get it Now 
+Swept Light Sources
+Inphenix’s Swept Light Sources offer deep penetration, long coherence length and high resolution. Based on Inphenix’s leading Semiconductor Optical Amplifier technology, Inphenix’s frequency swept tunable laser is specifically designed for Swept Source Optical Coherence Tomography (SS-OCT) and Optical Frequency Domain Reflectometry (OFDR) applications.
+Get it Now 
+Semiconductor Optical Amplifiers
+Inphenix's Semiconductor Optical Amplifiers (SOAs) are a key technology for high speed switching, all-optical wavelength conversion, regeneration, wavelength selection, booster and in-line amplification, in-node optical pre-amplification and mid-span spectral inversion.
+Get it Now 
+Broadband Light Source Modules
+Inphenix SLD Modules are Plug-and-Play, making them ideal for OEM integration. Compact and protected, they are easily mountable. The integrated current driver and thermo-electric cooler are operable with customer-supply of 5 Volts.
+Get it Now 
+Driver Boards
+Inphenix’s Driver Boards offer stable power and low noise for constant current control and on-off modulation. Inphenix’s Driver Boards are optimized to drive Inphenix’s Superluminescent Diodes and Semiconductor Optical Amplifiers and are available in stand-alone models or integrated with our modules.
+Get it Now 
+Lasers
+InPhenix offers Fabry-Perot Laser chips optimised for Optical Transmission, Data Communication, Local Optical Network and Fiber to the Home (FTTH) applications. Also, InPhenix offers single-mode Distributed Feedback (DFB) lasers with high side-mode suppresion ratio and temperature controlled wavelength stability, which are designed and optimized for different sensor applications. In addition, InPhenix 820nm, 1310nm and 1550nm Gain Chips can be used as a gain medium for Single FBG Lasers or Externally Tunable Cavity Lasers.
+Get it Now 
+Superluminescent Diodes
+Swept Light Sources
+Semiconductor Optical Amplifiers
+Broadband Light Source Modules
+Driver Boards
+Lasers
+Solutions
+Your Guarantee Of Proven Quality
+Biomedical
+Inphenix offers SLDs and SOAs designed and optimized for the biomedical industry
+Telecom
+Inphenix offers Telcordia GR-468 compliant SOAs, FP-Lasers and Photodetectors to the Telecommunications industry.
+Sensor
+Inphenix’s Superluminescent diodes are designed, tested and optimized as broadband light sources for many sensor applications including fiber optic gyroscopes.
+Test & Measurement
+Inphenix offers SLDs and SOAs designed and optimized for the test and measurement industry.
+Customization
+Inphenix offers custom SLDs and SOAs designed and optimized for customer-defined specifications and rugged harsh environments.
+Foundry Services
+Inphenix offers a complete ISO 9001:2015 registered solution for all of your InP and GaAs foundry services needs.
+Who We Are
+Inphenix designs and manufactures lasers and light sources that are critical in state of the art applications in the medical, telecom, sensing and measurement industries.
+
+These lasers and light sources include Superluminescent Diodes (SLDs) and Semiconductor Optical Amplifiers (SOAs) and are available from 700nm to 1600nm wavelengths.
+
+Inphenix does all this at its 100,000 square foot facility in beautiful Livermore, California (just 30 miles east of San Francisco). The ISO9001:2015 facility includes a 15,000 square foot Class 10 Fab and a 20,000 square foot packaging area.
+Upcoming Events
+OFS 26, Booth #35                                        - September 24, 2018, Lausanne, Switzerland
+CIOE 2018, Booth #1A64-5                                        - September 5, 2018, Shenzhen, China
+View more events
+Inphenix News
+1060nm Semiconductor Optical Amplifiers (SOAs).
+ISO9001:2015 Certification
+855nm Superluminescent Diodes (SLDs)
+840nm Superluminescent Diodes (SLDs)
+Contact
+Contact
+INPHENIX INC.
+250 North Mines Rd,Livermore, CA 94551 USA
+ +1-925-606-8809
+ +1-925-606-8810
+info@inphenix.com
+Support
+Support
+Japan
+ +81-80-9438-5500
+japan@inphenix.com
+China
+ +86-27-8780-6726
+sales@inphenix.cn
+Discover More
+About Us
+RMA Request
+Events
+Careers
+Products
+Solutions
+Contact Us
+Google Widget
+
+			Copyright © 2018 Inphenix, Inc. All rights reserved. 
+Terms & Conditions
+ | 
+Our Privacy Policy
+Algorithm IT Hub™
+		

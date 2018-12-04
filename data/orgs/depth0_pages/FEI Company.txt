@@ -12,11 +12,11 @@ Industrial Manufacturing
 Learn More
 Expanded Vermiculite
 What's happening
-Events calendar
-MRS Fall Meeting & Exhibit 2018
 News
 Prisma E SEM
 Quattro ESEM
+Talos F200i TEM
+Explore MyScope Outreach
 X
 Semiconductors
 Semiconductors
@@ -27,8 +27,6 @@ High Volume Manufacturing
 Electrical Failure Analysis
 Learn More
 What's happening
-Events calendar
-NANOTS 2018
 News
 Explore MyScope Outreach
 The 2016 Image Contest Grand Prize Winner
@@ -45,9 +43,11 @@ Learn More
 Spider Skin
 What's happening
 Events calendar
-RSNA 2018
 AsCA 2018/CRYSTAL 32
 ASCB - EMBO 2018 meeting
+News
+Learn how to engage in cryo-EM SPA
+2017 Nobel Prize for Chemistry
 X
 Oil and Gas
 Oil and Gas
@@ -61,6 +61,7 @@ News
 Explore MyScope Outreach
 The 2016 Image Contest Grand Prize Winner
 Webcast: How Image Accuracy Impacts Your Research
+What's new in PerGeos 1.1
 X
 WELCOME TO THERMO FISHER SCIENTIFIC
 As the world leader in serving science, we empower our people to advance innovative technologies, develop meaningful solutions, and build rewarding careers. With revenues of $18 billion and the largest investment in R&D in the industry, we give our 55,000

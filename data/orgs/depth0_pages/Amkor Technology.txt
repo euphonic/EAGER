@@ -88,6 +88,7 @@ Edge Protection
 Flip Chip
 Interconnect
 MEMS and Sensors
+Optical Sensors
 Package-on-Package
 SWIFT
 ®
@@ -196,13 +197,6 @@ in
 Company News
 View All Posts
 Upcoming Events
-SEMICON Europa 2018
-November 13, 2018
-SemIsrael Expo 2018
-November 27, 2018
-ICCAD China 2018
-November 29, 2018
-View All Events
 Latest Press Releases
 You must have javascript and cookies enabled in order to view our press release feed.
 View All Releases

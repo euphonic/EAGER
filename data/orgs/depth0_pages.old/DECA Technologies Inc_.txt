@@ -1,0 +1,36 @@
+Home
+About us
+Management Team
+Board of Directors
+Careers
+Reports and Certificates
+Technology
+Wafer-Level Chip Scale Packaging
+Fan-Out Wafer Level Packaging
+News and Papers
+Contact
+Transforming Electronic Interconnect
+Deca Technologies is an emerging wafer-level interconnect foundry built upon 10X thinking; the philosophy of striving to achieve exponential improvements over typical industry methods. Deca’s unique approach to design, equipment, processes and operational methods delivers our customers a competitive edge with short cycle time and rapid new product introduction.
+Learn more
+Deca Technologies’ M-Series Technology Wins Device of the Year
+The 2018 3DInCites Awards recognize industrywide achievements in the development of heterogeneous integration technologies with categories from Research Institute of the Year to Materials Supplier of the Year. This year, Deca Technologies’ M-Series, a fan-out wafer-level (WLFO) packaging technology, won Device of the Year for its high reliability.
+Learn more
+Deca's Wafer Level Chip Scale Packaging: It's About Time 
+Staying competitive in the WLCSP market is all about time. While your competitors are still waiting for new mask sets to start a product build, Deca’s 10X approach is already rolling your product off its Autoline. 
+Learn more
+M-Series™: The Future of Fan-Out
+Breaking through traditional cost, yield and supply chain barriers, Deca’s M-Series™ molded fan-out technology with Adaptive Patterning™ sets the stage for cost-effective high-density electronic interconnect. From next-generation single-chip packages to future panel level SoCs built from disparate silicon blocks, the unique M-Series structure frees system designers from classic substrate-based methods and the confines of monolithic silicon.
+
+Major Industry Validation for M-Series
+Learn more
+3D InCites – Transforming the Fan-out Landscape
+July 2, 2018
+These days, the first thing that comes to mind when someone mentions fan-out (FO) technology is Apple’s A10 processor built on TSMCs integrated fan-out (InFO) technology. It’s the superstar application that put FO on the...
+Read more
+Yole Développement - Status of Panel Level Pack...
+According to the market research firm,  Yole Développement, “the demand for lower cost plus higher performance, coupled with OSAT/assembly house end-customers’ desire for increasingly lower prices,...
+Read more
+Site Map
+Privacy Policy
+Contact
+All materials © Deca Technologies 2017

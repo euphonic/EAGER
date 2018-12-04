@@ -204,8 +204,8 @@ Industrial Gateway Solutions
 SoC-Based Appliance
 X86-Based Appliance
 Network Peripheral Solutions
-Storage
 Switch
+Storage
 Video
 Carrier Grade Open Network in 5G
 NEXCOM Networking and Communication: Powerful Enterprise Networking Solution for Cybersecurity Application

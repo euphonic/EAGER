@@ -1,0 +1,392 @@
+function hideExternalLinks(){$("a[href*='http://']:not([href*='"+window.location.hostname+"'])").addClass("ExternalLink").removeAttr("href");}
+aFeoOverrideAttrRead('img', 'src')
+Log in
+0
+Cart
+Contact us
+Orders: 
+Fax: 
+Technical: 
+Quick Order
+ProductFinder
+Top Products
+New Products
+Ordering Support
+Next-Gen Sequencing
+Lab Basics
+Analytics Software
+Protein & Cell Assays
+RNAi & Transfection
+GeneGlobe
+Browse by Products
+Custom Assays, Probes & Plates
+Order LNA Oligos
+Show All
+Sample Technologies
+DNA
+RNA
+Protein
+Show All
+PCR 
+End-Point PCR Enzymes & Kits
+qPCR Arrays and Assays
+qPCR Enzymes & Kits
+Show All
+Automated Solutions
+Sample Disruption
+PCR Instruments
+Accessories
+Show All
+Detection Solutions
+Human Pathogens
+Personalized Healthcare
+TB Testing
+Show All
+Next-Gen Sequencing
+GeneReader NGS System
+QIAseq NGS Solutions
+Molecular Diagnostics
+Oncology
+Infectious Disease
+Tuberculosis Management
+Partnering for Precision Diagnostics
+Transplantation Testing
+Women's Health
+Life Science Research
+Automated Solutions
+RNA Research
+Liquid Biopsy Research
+Research Applications
+Cancer Research
+Immuno-oncology Research
+Neurodegenerative  Disease Research
+Drug Development
+Environmental & Water Testing
+Microbiology Research
+Plant Research
+Single Cell Analysis
+Bioinformatics
+DNASeq Data Analysis
+RNASeq Data Analysis
+Human ID & Forensics
+Investigator Solutions
+Human ID Applications
+Automation
+Human DNA Quantification
+STR Technology
+NGS in HID and Forensics
+Validation and Training Support Services
+Food Safety Testing
+Food-Borne Pathogen Detection
+GMO DNA Detection
+Ingredient Authentication
+Genomic Services
+Service Solutions
+Animal Pathogen ID
+Pathogen Identification
+Animal Genotyping
+Pyrosequencing
+Custom Solutions
+General Capabilities
+World-Class Facilities
+Custom Product & Packaging
+Sample Technologies
+Enzymes
+Oligos
+Automated Technologies
+GeneGlobe
+Data Analysis Center
+Pathway Central
+Array Finder
+GeneGlobe Lists
+Knowledge Hub
+Search Resources
+All Resources
+Kit Handbooks
+Instrument User Manuals
+Application/Protocol Sheets
+FAQs
+Certificates of Analysis
+Knowledge Area
+Explore the RNA Universe
+Cancer — Unraveling the Complexity
+Liquid Biopsy
+HPV Testing
+Nucleic acid extraction
+Reproducibility through automation
+Sample Quality Control 
+Microbiology & Microbiome
+Single Cell Analysis
+Technologies
+
+GeneRead Sequencing (NGS)
+High-Resolution Melting (HRM)
+Locked Nucleic Acids (LNA)
+Oncology Companion Diagnostics
+Plasmid Resource Center 
+Pyrosequencing
+QuantiFERON Technology
+REPLI-g Amplification (WGA)
+e-Learning
+Videos
+Investigator Forum 2017
+Webinars
+Virtual Demos
+Mol. Biol. Methods
+DNA
+RNA
+PCR
+Whole Genome Amplification
+Next-Generation Sequencing
+Epigenetics
+Transfection
+Protein
+Animal Cell Culture
+Find & Order
+ProductFinder (all solutions)
+Automated Solutions
+Bioinformatics
+HPV Testing
+Human ID Testing
+Personalized Healthcare
+Prenatal Testing
+Event Calendar
+Product Selection Guides
+Genomic DNA Selection Wheel
+RNA Selection Tools
+DNA Cleanup Selector
+Plasmid Prep Selection Guide
+PCR Selection Guides
+AllPrep Kits Guide
+Innovations & Insights
+Are We Ruled by Our Microbiome?
+How Can We Fight an Ancient Disease?
+How Can We Keep Animals Healthy?
+What Happened to Richard III?
+How Can We Beat Cancer?
+Want to Save 275,000 Lives Each Year?
+What's for Lunch?
+Which Drug Works for You?
+Apps
+Android Apps
+iOS Apps
+Web Apps
+Troubleshooting Guide
+FAQ 
+Quality & Safety Data
+GHS Hazard Labeling
+Certificates of Analysis
+Protein Crystallization
+Safety Data Sheets
+Quality Assurance
+Order Support
+Contact Customer Care
+Ordering Information
+Technical Support
+Contact by Web Form
+Contact by Phone or Fax
+About Us
+What We Do
+Who We Are
+Insights Magazine
+Sustainability
+Global Presence
+Social Hub
+Investor Relations
+At a Glance
+Share Information
+Analysts
+Financial Reports
+Events & Presentations
+Corporate Governance
+Compliance & Ethics
+IR Contacts
+Newsroom
+Press Releases
+Press Resources
+Photo Archive
+Video Footage
+Press Contact
+Contacts
+Price Inquiries
+Price Inquiries
+Technical Inquiries
+Global Contacts
+Meetings
+Subscribe to eNews
+Corporate Contacts
+Where We Are
+What We Offer
+Collaborative Culture
+Social Environment
+Career Paths 
+Career Development & Training
+Compensation & Benefits
+Contact HR
+Who We Are
+Facts & Figures
+History
+Management
+Awards & Recognitions
+Why QIAGEN
+Our Mission, Vision, Strategy
+Our Values
+Molecular Biology Revolution
+Outreach Programs
+Sustainability
+Diversity
+Meet Our People
+What We Do
+Our Products
+Our Markets & Customers
+Innovation at QIAGEN
+Sys.WebForms.PageRequestManager._initialize("RadScriptManager1","frmMain",[],["RadScriptManager1","RadScriptManager1"],[],90,"");
+aFeoOverrideAttrRead('img', 'src')
+
+                                    Let QIAGEN Genomic Services 
+
+put your RNA research puzzle together
+                                
+Get help now
+
+                                    Boost your NGS 
+
+knowledge – join 
+
+our on-site seminars
+Register now
+
+                                    Want one-step rRNA removal in 
+
+10 seconds? Try QIAseq FastSelect!
+                                
+Apply for trial kit
+
+                                    Access 100 trillion data points 
+
+and rapidly search variants – 
+
+try OmicSoft GeneticsLand!
+Try for free
+Main Image Navi
+News: 
+
+								Life Science Research
+aFeoOverrideAttrRead('img', 'src')
+
+								Molecular Diagnostics
+aFeoOverrideAttrRead('img', 'src')
+
+								GeneGlobe – DNA and RNA Research Portal
+Life Science Research Products
+
+								The GeneReader NGS System
+aFeoOverrideAttrRead('img', 'src')
+United States
+Algeria
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bangladesh
+Belarus
+Belgium
+Bosnia and Herzegovina
+Brazil
+Bulgaria
+Canada
+Central America and Caribbean
+Chile
+China
+Colombia
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Ecuador
+Egypt
+Estonia
+Faroe Islands
+Finland
+France
+Georgia
+Germany
+Greece
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Japan
+Jordan
+Kazakhstan
+Kenya
+Korea-South
+Kuwait
+Kyrgyzstan
+Latvia
+Lebanon
+Lithuania
+Luxembourg
+Malaysia
+Mexico
+Moldova
+Netherlands
+New Zealand
+Nigeria
+Norway
+Oman
+Other Countries
+Other South American Countries
+Pakistan
+Panama
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saudi Arabia
+Serbia
+Singapore
+Slovakia
+Slovenia
+South Africa
+Spain
+Sweden
+Switzerland
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Tunisia
+Turkey
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Venezuela
+Vietnam
+English
+Chinese (Simplified, PRC)
+English
+Japanese (Japan)
+Korean (Korea)
+Start Page
+javascript:are_cookies_enabled();
+_satellite.pageBottom();
+_satellite.pageBottom();
+var google_conversion_id=978074361;var google_custom_params=window.google_tag_params;var google_remarketing_only=true;

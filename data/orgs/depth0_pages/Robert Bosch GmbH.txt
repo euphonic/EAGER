@@ -46,11 +46,6 @@ Icon-Filled
 vine
 Ic-OverlayAlert
 whishlist
- This website uses absolutely necessary cookies. If you consent to the use of convenience cookies, please click “Yes, I agree.” By clicking on “Change settings.” you can change this setting at any time and withdraw your given consent. More information you can find in our 
-“data protection policy”
-. 
-Yes, I agree
-Change settings
 Websites worldwide
 Press
 Contact us
@@ -75,12 +70,14 @@ Smart Cities
 Industry 4.0
 Software solutions
 Market-specific solutions
-Explore and experience
+Stories
 Close
 Overview
 Annual report
 Internet of Things
-Our company
+Vision 2030
+Artificial intelligence
+Company
 Close
 Overview
 Our people
@@ -142,15 +139,6 @@ Motorcycle adventure: safety assisted
 Hit the road
 Find your way to our products
 Explore our stories
-Top stories
-Mobility
-At home
-Industry and trades
-IoT
-Careers
-History
-CSR
-All stories
 Bosch on social media
 News
 Go to Bosch Media Service

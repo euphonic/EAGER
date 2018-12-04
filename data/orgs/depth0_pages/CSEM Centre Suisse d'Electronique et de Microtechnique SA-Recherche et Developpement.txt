@@ -32,31 +32,43 @@ Search
 Innovation and sustainable progress
 CSEM is a private, non-profit Swiss research and technology organization focused on generating value for a sustainable world.
 More about CSEM
-October 29
-Spearheading the second quantum revolution!
-CSEM News
-macQsimal - a European Quantum Technologies Flagship project for a new generation of sensors.
-"Establishing European leadership in the quantum sensing industry". This is in essence the ambition of macQsimal, a new project selected by the European Commission for their recently launched Quantum Technologies Flagship initiative.
-Read more
 Annual report
 Download our latest report
 Download
 Expertise & Industries
 Here are just a few of our areas of expertise and the industries in which we operate. To see a full list of expertise or industries, click the explore buttons below.
+Energy systems
+Developing innovative building technologies and working to integrate renewable energy sources, especially photovoltaic (PV) systems, into existing distribution infrastructures.
+READ MORE
+System-on-chip design & technology
+Ultra-low-power, highly miniaturized solutions with wireless connectivity and computing with in-house processor cores including DSP and sensor interfaces, and power management. 
+READ MORE
+Wireless & short-range communications 
+Cutting-edge know-how in low-power radio and standards-based or dedicated proprietary protocols for the next generation of ULP, adaptable, and robust wireless systems.
+READ MORE
+Nanosurface engineering
+Developing solutions focused on material and surface sciences, structuring processes, and engineering, and on understanding physical, chemical, and biological surfaces.
+READ MORE
+Vision systems 
+Vision solutions, including high-performance line and image sensors, classification and recognition algorithms, optical encoders, and stand-alone smart vision systems.
+READ MORE
 Medical technologies
 Developments range from innovative sensing technology for monitoring human vital signs to bio-signal processing and active medical device technologies. All ISO 13485 certified.
+READ MORE
+Industrial automation
+Technologies for enhanced manufacturing and process flexibility, making high-quality, small-to-medium-volume products a reality.
+READ MORE
+Thin-film and emerging photovoltaics
+Developing  next-generation solar cells with outstanding performance in terms of conversion efficiency, durability, integration capacity, and cost reduction.
 READ MORE
 Advanced micro-manufacturing
 Development of digital microfabrication technology—mainly based on 3D printing and additive manufacturing—specifically for microsystems applications.
 READ MORE
-Energy systems
-Developing innovative building technologies and working to integrate renewable energy sources, especially photovoltaic (PV) systems, into existing distribution infrastructures.
+Photovoltaic cells and modules
+Developing advanced packaging solutions and novel testing methodologies to better simulate field conditions and get quicker feedback on quality.
 READ MORE
 Biosurface engineering
 Development of cell-handling, sensors, and sample-handling platforms based on proprietary technologies, particularly using manufacturing processes suitable for upscaling.
-READ MORE
-Scientific instrumentation
-Developing complex, multi-technology systems involving significant physical layers. Topics include macro-MEMS, opto-mechatronics, and time and frequency technologies.
 READ MORE
 Printed electronics & sensors
 Range of competences in materials and devices, using printing and solution process technologies for patterned photodiodes, organic transistors, and sensors.
@@ -64,32 +76,29 @@ READ MORE
 Microsystems functional packaging
 Developing new integration platforms and corresponding technologies for advanced packaging solutions and general MEMS assembly across a vast array of applications.
 READ MORE
-Thin-film and emerging photovoltaics
-Developing  next-generation solar cells with outstanding performance in terms of conversion efficiency, durability, integration capacity, and cost reduction.
+Scientific instrumentation
+Developing complex, multi-technology systems involving significant physical layers. Topics include macro-MEMS, opto-mechatronics, and time and frequency technologies.
 READ MORE
 Microsystems & MEMS
 Developing reliable MEMS products, from prototypes to small volume production. Focusing on macro-MEMS, soft-MEMS, harsh environment sensing, and MOEMS.
 READ MORE
-Nanosurface engineering
-Developing solutions focused on material and surface sciences, structuring processes, and engineering, and on understanding physical, chemical, and biological surfaces.
+Biotechnology & life sciences
+Miniaturization, integration, and microengineering expertise to develop new devices, tools, and systems for toxicology, pharmacology, and diagnostics and assays.
 READ MORE
-Wireless & short-range communications 
-Cutting-edge know-how in low-power radio and standards-based or dedicated proprietary protocols for the next generation of ULP, adaptable, and robust wireless systems.
+Home & industrial automation
+Smart, efficient, and reliable technologies and sensors for process and equipment optimization.
 READ MORE
-Vision systems 
-Vision solutions, including high-performance line and image sensors, classification and recognition algorithms, optical encoders, and stand-alone smart vision systems.
-READ MORE
-Photovoltaic cells and modules
-Developing advanced packaging solutions and novel testing methodologies to better simulate field conditions and get quicker feedback on quality.
-READ MORE
-System-on-chip design & technology
-Ultra-low-power, highly miniaturized solutions with wireless connectivity and computing with in-house processor cores including DSP and sensor interfaces, and power management. 
-READ MORE
-Industrial automation
-Technologies for enhanced manufacturing and process flexibility, making high-quality, small-to-medium-volume products a reality.
+Energy & building solutions
+Extensive experience in combining PV and energy management to offer energy-efficient concepts and develop effective solutions for the building sector.
 READ MORE
 Information & communication technologies
 Hardware, software, and systems integration expertise for the next generation of connected applications—from wearables to aerospace.
+READ MORE
+Food & agriculture
+Smart technological tools and solutions to ensure the optimal use of resources and support sustainable farming across all the processes of the food supply chain.
+READ MORE
+Healthcare, wellness & sport
+Custom-made, innovative, non-invasive, and mobile healthcare solutions for sensors, implants, hearing aids, diagnostic tools, and laboratory instruments.
 READ MORE
 Space & astrophysics
 Developing highly precise, compliant mechanisms or scientific instrumentation for use in space exploration, satellites, and telescopes.
@@ -97,29 +106,14 @@ READ MORE
 Aeronautics & transportation
 Technologies that improve the safety, usability, and sustainability of transportation solutions.
 READ MORE
-Home & industrial automation
-Smart, efficient, and reliable technologies and sensors for process and equipment optimization.
-READ MORE
-Biotechnology & life sciences
-Miniaturization, integration, and microengineering expertise to develop new devices, tools, and systems for toxicology, pharmacology, and diagnostics and assays.
-READ MORE
-Food & agriculture
-Smart technological tools and solutions to ensure the optimal use of resources and support sustainable farming across all the processes of the food supply chain.
-READ MORE
-Semiconductor industry
-World-class microelectronic design services to fully integrated ASIC, system-on-chip, or semiconductor optoelectronic components.
+Security & surveillance
+Technologies and solutions to combat counterfeiting, ensure the safety of food and drugs, and protect both the natural environment and humans from injury, harm, and disaster.
 READ MORE
 Environment
 Developing innovative sensors, integrated systems, and cutting-edge technologies to support the cleantech industry's drive to monitor and improve the quality of our air, water, and soil.
 READ MORE
-Energy & building solutions
-Extensive experience in combining PV and energy management to offer energy-efficient concepts and develop effective solutions for the building sector.
-READ MORE
-Security & surveillance
-Technologies and solutions to combat counterfeiting, ensure the safety of food and drugs, and protect both the natural environment and humans from injury, harm, and disaster.
-READ MORE
-Healthcare, wellness & sport
-Custom-made, innovative, non-invasive, and mobile healthcare solutions for sensors, implants, hearing aids, diagnostic tools, and laboratory instruments.
+Semiconductor industry
+World-class microelectronic design services to fully integrated ASIC, system-on-chip, or semiconductor optoelectronic components.
 READ MORE
 Watchmaking
 From groundbreaking silicon technology for new components to innovative, low-power, flexible, and wearable technologies for smartwatches.
@@ -131,53 +125,54 @@ Get in touch using this form.
 Now
 Thank you for contacting us, we will give you a feedback as soon as possible.
 Sorry, there was an error with the contact form.
-Optics Balzers
-The key factors to success on the development of a biosensor for water analysis were our close relationship with CSEM as a powerful research partner and a strong conviction with regards to the center's practicality in the market. 
-Optics Balzers, the manufacturer of optically coated components and assemblies, is collaborating with CSEM on the development of a biosensor for water analysis. The sensor is also intended to be used later to measure hormone residues in sea water. The factors that were instrumental in the Liechtenstein-based company launching the project were its close relationship with CSEM as a powerful research partner and a strong conviction with regards to the center's practicality in the market. The declared long-term goal is to develop a complete biochip that will be produced in large quantities in Optics Balzers' clean rooms.
-Alex Vogt, CEO
-READ MORE
-European Space Agency (ESA)
-The spirit of collaboration that CSEM has shown has been excellent and I would specifically like to commend the center. 
-I would like to thank CSEM for the support it provided for the Rio Tinto campaign. The spirit of collaboration that CSEM has shown has been excellent and I would specifically like to commend the center for the preparation of the pre-testing as well as for the actual testing in Rio Tinto [...] not to mention the very good data we have recorded using LTMS. All in all a very good analogue simulation, which should be the basis of future activities.
-Scott Hovland, ISS Programme & Exploration Department, ESTEC, Directorate of Human Spaceflight and Operations
-READ MORE
-Oclaro
-We were keen to work with CSEM because of its know-how in optical design, packaging, and automation; but also because of its proximity to our R&D center.
-We were keen to work with CSEM because of its know-how in optical design, packaging, and automation; but also because of its proximity to our R&D center, because of our long-term relationship, and because of CSEM's connections to Swiss industry.
-READ MORE
-EM Microelectronics 
-Our EM9301, a Bluetooth Smart (Bluetooth Low Energy) controller, is yet another example of the fertile collaboration we have enjoyed with CSEM for decades.
-Our EM9301, a Bluetooth Smart (Bluetooth Low Energy) controller, is the result of a combination of CSEM's low-power radio chip technology and EM Microelectronic's innovative low-voltage design. It is yet another example of the fertile collaboration we have enjoyed with CSEM for decades already and which demonstrates that Swiss microelectronics is attractive and remains competitive, even in Asia.
-Michel Willemin, CEO
-READ MORE
-InSphero
-Innovative thinking and efficient technology transfer make CSEM an ideal partner for us. 
-Over several successful past projects, CSEM has proven to be a reliable and innovative project partner for cell handling on the micro-scale. Innovative thinking and efficient technology transfer make CSEM an ideal partner for us. We have just started a new multi-year project with the center and can recommend CSEM to all those seeking competent partners in this field.
-Jan Lichtenberg, CEO 
-READ MORE
-BASF
-CSEM's R&D activities in the area of surface engineering are currently expanding and complement nicely BASF's existing competences in this field.
-The collaboration between CSEM and the former Ciba legacy (now a part of BASF) in the area of nano- and microtechnology and printed organic electronics was important to building up new competences within the company. Such technology platforms are also of great importance to BASF. CSEM's R&D activities in the area of surface engineering are currently expanding and complement nicely BASF's existing competences in this field.
-Andreas Hafner, Senior Innovation Manager
-READ MORE
-Saia-Burgess Controls 
-Saia-Burgess Controls has teamed with CSEM in several successful innovation projects. This collaboration has been very stimulating, engaging, and fruitful.
-Saia-Burgess Controls has teamed with CSEM in several successful innovation projects, ranging from component-based architectures—with their high flexibility, robustness, and reliability—to the interconnection of sensor networks for building automation. We were thus able to address additional markets and redefine product architecture to introduce new features. The collaboration with CSEM has been very stimulating, engaging, and fruitful.
-Konstantinos Kafandaris, Manager of the Controller & Interfaces business unit
+Sercalo Microtechnology 
+CSEM offers us a professional service for both manufacturing and development, which keeps us at the top of this high-tech field. We are very happy with this partnership.
+At Sercalo Microtechnology we rely on CSEM as a single-source provider for the manufacturing of our optical MEMS designs. CSEM offers us a professional service for both manufacturing and development, which keeps us at the top of this high-tech field. We are very happy with this partnership.
+Cornel Marxer, CEO
 READ MORE
 Osmotex 
 Osmotex was able to identify CSEM as the ideal partner. We have now launched our first series of micro-pumps on the market, and have relocated to Switzerland to further intensify our successful collaboration with CSEM.
 To develop our proprietary electrokinetic micro-pump concept, our Norwegian start-up was looking for a partner with expertise in the fields of microfluidics, electrokinetics, and micro-integration. Thanks to this worldwide search, Osmotex was able to identify CSEM as the ideal partner to provide all these technologies. We have now launched our first series of micro-pumps on the market, and have relocated to Switzerland to further intensify our successful collaboration with CSEM.
 Per Arne Lislien, CEO
 READ MORE
-Adolphe Merkle Institute
-In CSEM, we found a professional partner that engineered an ultra-thin insert for cell culture. This fruitful collaboration has led to the development of a new quadruple in vitro model of the human air–blood tissue barrier.
-At AMI, our expertise is in the development of realistic cell co-culture models of the lung for the risk assessment of newly engineered nanomaterials. Until recently, the bottleneck had been the use of conventional insert membranes, which are ten times thicker than the air–blood barrier itself. In CSEM, we found a professional partner that engineered an ultra-thin insert for cell culture. This fruitful collaboration, funded by Lunge Zürich, has led to the development of a new quadruple in vitro model of the human air–blood tissue barrier.
+Asyril 
+CSEM is always ahead of the technology curve and leads projects with great professionalism. 
+CSEM is always ahead of the technology curve and leads projects with great professionalism. Together with CSEM, we developed Asycube, a new device with high flexibility for feeding small parts. Thanks to this research project we were able to launch an innovative product onto the market—a product that has met with a great deal of success.
+Alain Codourey, CEO
 READ MORE
 U-NICA Micronics AG
 By measuring fluorescence lifetime, U-NICA is able to offer its customers an additional verification parameter, which is unique for each fluorescent dye. This leads to a much higher security and opens new possibilities for unique customer codes.
 By measuring fluorescence lifetime, U-NICA is able to offer its customers an additional verification parameter, which is unique for each fluorescent dye. This leads to a much higher security and opens new possibilities for unique customer codes.
 Jonas Reinhardt, Director of U-NICA Micronics AG
+READ MORE
+Semtech 
+Semtech and CSEM have a relationship that goes back over ten years. We value CSEM's innovative capability and close collaboration and we hope to continue the strong relationship we have with them.
+Semtech and CSEM have a relationship that goes back over ten years. This successful partnership has resulted in many co-developments and the transfer of many technologies. CSEM's ability to bring advanced wireless and sensing technologies to Semtech has been instrumental in Semtech's success in these areas. We value CSEM's innovative capability and close collaboration and we hope to continue the strong relationship we have with them.
+Alain Dantec, Senior Vice President, Advanced Communications & Sensing
+READ MORE
+Patek Philippe
+For several years, Patek Philippe and CSEM have been collaborating on the development of micromechanical parts for watch mechanisms. CSEM is an important driving force for innovation within our company.
+For several years, Patek Philippe and CSEM have been collaborating on the development of micromechanical parts for watch mechanisms. This collaboration provides us with access to state-of-the-art technology and know-how, and enables us to position our company at the technological forefront of watchmaking innovation. Additionally, in the medium term, CSEM ensures series production, enabling the rapid integration of technological developments into our watches. CSEM is an important driving force for innovation within our company.
+Jean-Pierre Musy, Technical Director
+READ MORE
+Girard-Perregaux 
+CSEM's technological contribution complements the technical watchmaking expertise and experience of Girard-Perregaux.
+Our company, a brand of the Sowind Group, is developing—together with CSEM—a new escapement device for mechanical watches. Etched out of a single piece of silicon in their clean room, the key component of this tiny device delivers minute increments of energy, driving a timepiece with unparalleled precision. CSEM's technological contribution complements the technical watchmaking expertise and experience of Girard-Perregaux.
+READ MORE
+Abilis Systems
+The fruitful collaboration between CSEM and Abilis Systems has resulted in the world's first single-chip solution for a digital TV receiver.
+The fruitful collaboration between CSEM and Abilis Systems, an ALI Group company, has resulted in the world's first single-chip solution for a digital TV receiver, thereby achieving significant improvements in miniaturization, energy efficiency, and evolution capability when compared with the other solutions currently on the market.
+Yves Mathys, CEO
+READ MORE
+RUAG Aerospace 
+RUAG Aerospace has come to fully appreciate CSEM's experience and high level of competence in the design and simulation of high-precision space mechanisms integrating flexible structures.
+Ruag Aerospace has been successfully cooperating with CSEM's Mechatronics group on the development and manufacture of a corner cube mechanism for the IASI (infrared atmospheric sounding interferometer) on the METOP satellite. In the framework of this project, RUAG Aerospace has come to fully appreciate CSEM's experience and high level of competence in the design and simulation of high-precision space mechanisms integrating flexible structures.
+Marie-Thérèse Ivorra, Site General Manager, Nyon
+READ MORE
+Poken
+CSEM has a unique track record in the field of ultra-low-power systems, is familiar with existing IP portfolios, and has system-on-chip (SoC) expertise. You just cannot find that kind of know-how in large semiconductor manufacturing R&D departments.
+CSEM's know-how in ultra-low-power design fits perfectly with our need to extend battery life: CSEM has a unique track record in the field of ultra-low-power systems, is familiar with existing IP portfolios, and has system-on-chip (SoC) expertise. You just cannot find that kind of know-how in large semiconductor manufacturing R&D departments.
+Stéphane Doutriaux CEO and founder 
 READ MORE
 About
 History

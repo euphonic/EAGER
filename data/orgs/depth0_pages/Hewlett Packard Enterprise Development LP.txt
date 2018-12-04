@@ -286,76 +286,83 @@ Close
  United States (
 en
 )
-POWER DATA-DRIVEN WORKLOADS WITH HYBRID HPC
-Designed for the convergence of HPC and AI, hybrid HPC combines a traditional HPC data center with the best parts of public and private cloud.
-Read AI cybersecurity blog
-Read AI cybersecurity blog
-Read hybrid HPC cloud paper
-Read hybrid HPC cloud paper
-HPE SIMPLIFIES HYBRID CLOUD DATA PROTECTION
-New StoreOnce and RMC solutions deliver an integrated data experience that reduces storage costs, improves backup performance and decreases operator time.
-Learn More about StoreOnce Systems
-Learn More about StoreOnce Systems
-Read the Press Release
-Read the Press Release
-WHAT IF WE COULD SOLVE WORLD HUNGER?
-CEO Antonio Neri shares how HPE and the World Economic Forum are convening global leaders to help solve for world hunger by 2030.
-Read the Press Release
-Read the Press Release
-COMPOSABLE INFRASTRUCTURE AND CONTINUOUS INNOVATION IN IT
-HPE’s focus on innovation often requires us to take a novel approach to solve the challenges our customers face.
-Read the Press Release
-Read the Press Release
+Discover 2018 Madrid Lives On
+Get access to videos, presentation and more.
+Explore Discover More
+Explore Discover More
+INTELLIGENCE CHANGES EVERYTHING
+The world's most intelligent storage is AI-driven, built for the cloud, and delivered as-a-service.
+Read how to unlock data’s potential
+Read how to unlock data’s potential
+Find out more
+Find out more
+Play Video Discover Intelligent Storage
+HPE EXTENDS COMPOSABLE STRATEGY WITH NEW CLOUD CAPABILITIES
+New composable cloud solutions feature software-defined automation, a fabric optimized for scale and agility.
+Achieve digital transformation
+Achieve digital transformation
+Learn more
+Learn more
+SIMPLIFY EDGE AND IOT APP DEPLOYMENT
+New Edgeline solutions provide drag-and-drop simplicity, enterprise-grade manageability and security for delivering applications that drive action and insight from edge to cloud.
+Find out more
+Find out more
+WHAT IF WE COULD REDUCE MEDICAL RESEARCH FROM YEARS TO WEEKS?
+HPE is convening researchers, startups, and WEF to revolutionize medical testing.
+Find out more
+Find out more
 Use the left and right arrow keys to scroll
  Latest News 
  Latest News 
 Solutions That Transform
 IT transformation solutions that use the right mix of technologies, partners, services, and financial models to help you thrive.
-Make Hybrid Cloud
-Simple
-Bring new speed to your business with software-defined infrastructure and simplified hybrid cloud management.
-Expand
-Expand
-Expand
-Software-Defined
-Data & Analytics
-Services to Make IT Simple
-Hybrid Cloud
-Play Video
-Software-Defined
-Data & Analytics
-Services to Make IT Simple
-Hybrid Cloud
-close
-close
-Power
-the Intelligent Edge
-Solutions that deliver great user experience, collect and analyze data for greater insights, and drive new capabilities at the Intelligent Edge.
+Redefine
+experiences at the Edge
+Experiment at the Edge, without disrupting your business core. Deploy intelligence and connectivity that drive engagement, without driving up costs.
 Expand
 Expand
 Expand
 Mobile
 Internet of Things
 Services to power the Edge
+Converged Edge systems
 Play Video
 Mobile
 Internet of Things
 Services to power the Edge
+Converged Edge systems
 close
 close
-Expertise
-to make it happen
-To accelerate your outcomes from digital transformation.
+Ignite
+innovation with Hybrid Cloud
+No matter what you sell, your business is speed. Iterate and innovate faster when you find and fund your right mix of Hybrid Cloud.
 Expand
 Expand
 Expand
+Software-defined
 Services to make IT simple
-Services to power the edge
-All Services
+Hybrid Cloud
 Play Video
+Software-defined
 Services to make IT simple
-Services to power the edge
-All Services
+Hybrid Cloud
+close
+close
+Unleash
+the power of your data
+Turn data at rest into data in action. Extract the unseen value in your data with artificial intelligence and automation.
+Expand
+Expand
+Expand
+Intelligent storage
+IT for data and analytics
+All-flash storage
+Data services
+Play Video
+Intelligent storage
+IT for data and analytics
+All-flash storage
+Data services
 close
 close
 Products that Deliver
@@ -375,6 +382,58 @@ Shop
 All Products
 Learn more
 Shop
+Services that accelerate
+IT services that combine consulting expertise, operational support, and financial flexibility for your transformation journey.
+Transform
+your digital journey
+You don’t have to have experts in everything. Take a strategic approach to designing your digital transformation.
+Expand
+Expand
+Expand
+Digital transformation services
+Hybrid Cloud services
+Data services
+Mobility and workplace services
+Play Video
+Digital transformation services
+Hybrid Cloud services
+Data services
+Mobility and workplace services
+close
+close
+Remove
+operational complexity
+IT resources are more than just technology — they’re also people. Off-board time-consuming tasks and free your skilled staff to focus on innovation.
+Expand
+Expand
+Expand
+Operational support
+Data center support
+Foundational support
+Proactive support
+Operational support
+Data center support
+Foundational support
+Proactive support
+close
+close
+Consume
+what you need
+Fund your move to new IT with flexible consumption, financing, and pay-as-you-go models, or monetize the value in your existing IT assets.
+Expand
+Expand
+Expand
+Financing and investment solutions
+Consumption-based solutions
+Pay-as-you-go solutions
+IT asset lifecycle services
+Play Video
+Financing and investment solutions
+Consumption-based solutions
+Pay-as-you-go solutions
+IT asset lifecycle services
+close
+close
 DEAL OF THE WEEK
 HPE ProLiant DL380 Gen10 server
 Standardize on the industry's most trusted compute platform with the latest in security, performance, and expandability, backed by a comprehensive warranty, and designed to reduce costs and complexity.
@@ -411,16 +470,49 @@ Icon_Shop_v2
 See All Deals
 See All Deals
 Use the left and right arrow keys to scroll
-The Ryder Cup builds the world’s first fully connected golf course
->275K
-Fans over 5-day event
-150
-Acres of golf course
-1 chance
-To catch that shot of a lifetime
+Mercedes-AMG Petronas Motorsport takes tech pole position with HPE
+>200 mph
+F1 car speeds
+<1 second
+Can win races
+Data
+The strategic edge
 Find out how
-Play Video
 Around HPE
+ Newsroom 
+Newsroom
+HPE to acquire BlueData
+HPE announced an agreement to purchase BlueData, a leading software provider of artificial intelligence and big data analytics solutions.
+Read the press release
+Share
+ Enterprise.nxt 
+Enterprise.nxt
+Top 4 issues IT execs face in hiring top talent
+Find out what 101 IT executives say are their most in-demand skill sets and biggest recruitment challenges for new hires.
+Read the article
+Share
+ Enterprise.nxt 
+Enterprise.nxt
+Circular economy helps IT build toward sustainability
+Develop IT consumption processes that are not only financially efficient, but also reflect on corporate ethics and responsibility and enable a greener business environment.
+Read More
+Share
+ Enterprise.nxt 
+Enterprise.nxt
+5 things we need to conquer to accelerate space exploration
+Opening up space is a massive task, but it’s a challenge with potential for increased knowledge, innovation, and profit.
+Read the article
+Share
+Leading the memory-driven storage future
+Introducing HPE Memory-Driven Flash - a new class of enterprise storage that takes advantage of the disruptive speed of memory in a simple, efficient solution. 
+Read More
+Share
+ Enterprise.nxt 
+Enterprise.nxt
+How HPC is driving breakthroughs in bioinformatics
+See five ways HPC is revolutionizing life sciences, using massive amounts of new data in both practical and futuristic ways.
+Read the article
+Share
  Newsroom 
 Newsroom
 What if we could solve world hunger?
@@ -437,42 +529,6 @@ Share
 Newsroom
 Your hub for HPE news and happenings
 Keep up with trending enterprise IT topics and HPE news and events, all in one place—introducing the HPE News and Insights page.
-Read More
-Share
- Newsroom 
-Newsroom
-Frost & Sullivan recognizes HPE for OSS technology
-HPE received Frost & Sullivan’s 2017 Global Stratecast Technology Innovation Award for vTeMIP—a virtual OSS assurance platform.
-Read More
-Share
- Enterprise.nxt 
-Enterprise.nxt
-The true cost of implementing SAP HANA 
-SAP HANA can mean a steep learning curve and big cash outlays. But you can get the benefits of SAP HANA using lower-impact approaches.
-Read More
-Share
- Enterprise.nxt 
-Enterprise.nxt
-Data encryption—How to avoid common workarounds
-Clever hackers can gain access to data without actually defeating the encryption algorithms. Learn how to prevent it from happening.
-Read More
-Share
- Video 
-Video
-A robot is hardware. AI is software.
-Find out a lot about artificial intelligence and what it means to you, your business, and the world in this quick moving video.
-See the Video Now
-Share
- Newsroom 
-Newsroom
-HPE Living Progress Report—6 Things you shouldn’t miss
-HPE continued to drive sustainable innovation to increase the efficiency of IT and transform industries. Check out some of the things that were achieved.
-Download the Report
-Share
- Best Practices Guide 
-Best Practices Guide
-The essentials of building a Microsoft Azure hybrid cloud
-Use Microsoft hybrid cloud to run high performance and low-latency applications, and deploy applications to either Azure public or private cloud.
 Read More
 Share
 How can we help?
@@ -496,6 +552,7 @@ Accessibility
 Careers
 Contact Us
 Corporate Responsibility
+Global Diversity & Inclusion
 Supply Chain Transparency (PDF)
 Hewlett Packard Labs
 Investor Relations

@@ -1,0 +1,53 @@
+About
+Technology
+Patents
+News & Media
+Contact
+Careers
+More
+Pioneers of graphene and experts in its many applications making tomorrow's future a present day reality.
+Applications
+ENERGY STORAGE - portable electronics, electric vehicles, drones, aviation, and safety
+We manufacture next-generation Graphene-Silicon Composite Anode (
+GCA™
+) for lithium-ion batteries allowing your devices and EVs to last longer between charges and decreasing the form factor while maintaining a competitive $/Ah cost with graphite.
+THERMAL MANAGEMENT - portable electronics, vehicles, and cooling system enhancements
+We leverage graphene's exceptionally high in-plane thermal conductivity (5,300 W/mK) into a range of thermal management products from thermal sheets to thermal pastes to cool electronic devices. Our heat spreaders come in a range of thicknesses and can be manufactured on PET film or freestanding at a roll to roll level or die cut to specific shapes for electronic circuit boards.
+GRAPHENE INTERMEDIATES - composite masterbatch, textiles, paints, coatings, and rubber
+With years of expertise and over 25% of our employees possessing Ph. D.'s, we have the knowledge to take graphene and create intermediates so customers have the availability to use graphene without the hassle of trying to add graphene themselves which is traditionally difficult to work with.
+GRAPHENE POWDERS AND DISPERSIONS - graphene, graphene oxide, and graphene dispersions
+The foundation of Global Graphene Group (
+G³ 
+) 
+is our ability to mass produce graphene. Today, we produce graphene materials at over 300 TPA (tonnes per annum). We produce graphene powders in a variety of grades including graphene oxide and graphene powders dispersed in solvents and water.
+About Us
+Our global and patent-rich enterprise was the first to discover graphene in 2002. Learn more about our company structure and how it is centered on two technology platforms: Graphene Production and Energy Storage right in the birthplace of aviation.
+Learn More
+FAQ
+Connect with Us
+If you’re interested in becoming a 
+G³ 
+ customer or team member, we’d really like to hear from you. Have questions or looking for more information? Whatever you need, we’re here to help you discover what graphene can do for you.
+Contact
+Latest News
+Global Graphene Group in partnership with Angstron Energy Company has been named a WINNER for the R&D 100 award for the development of our Graphene Composite Anode (GCA
+™
+) technology. Congrats to everyone on the team and their hard work!
+#mask-comp-joynfo2ximg-svg * {fill: #fff; stroke: #fff; stroke-width: 0;}
+Global Graphene Group was featured in a recent article published by OEM Off-Highway focused on the wide variety of applications for graphene.
+CALL US
+Tel:  
+(937) 331-9884
+Fax: 
+(937) 558-0606
+EMAIL US
+sales@g3-am.com
+OFFICE
+1240 McCook Ave
+Dayton, OH 45404
+© 2018 Global Graphene Group
+Privacy Policy
+.font-ruler-content::after {content:"@#$%%^&*~IAO"}
+
+      var timeSpentInSSR = 1129;
+    

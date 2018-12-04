@@ -116,22 +116,25 @@ New Products
 Topics
 Events
 RSS
+Nov. 19, 2018
+Events
+ABLIC to Participate in the ELEXCON 2018 in Shenzhen, China
+Nov. 13, 2018
+News Release
+ABLIC Inc. launches the S-1318 Series compact LDO regulator with world’s top class low current consumption of 95nA! An ideal power supply for IoT and wearable devices that reduces current consumption to one-tenth of our conventional products!
+Nov. 12, 2018
+Topics
+[COLUMN by TechanaLye] Deploying the results in a new business to the existing market. What is the new product model ABLIC conducts?
 Nov. 05, 2018
 Topics
 Notice of E-Mail Domain Change
-Oct. 24, 2018
-News Release
-ABLIC Inc., The World’s first (*1) “ZCL (*2) Hall IC” That Will Bring Innovation to the Development and Manufacture of Brushless DC Motors
-Oct. 17, 2018
-Events
-ABLIC to Exhibit at electronica 2018 in München (Munich)
-Sep. 27, 2018
+Oct. 29, 2018
 Topics
-ICs ideal for Cordless Power Tools
-Sep. 21, 2018
-Events
-ABLIC will be exhibiting at CEATEC JAPAN 2018.
+[COLUMN by TechanaLye] “S-85S1P Series” and “S-1740/1741 Series”, New IoT Regulators respond to a request by a startup company
 See More
+Nov. 13, 2018
+News Release
+ABLIC Inc. launches the S-1318 Series compact LDO regulator with world’s top class low current consumption of 95nA! An ideal power supply for IoT and wearable devices that reduces current consumption to one-tenth of our conventional products!
 Oct. 24, 2018
 News Release
 ABLIC Inc., The World’s first (*1) “ZCL (*2) Hall IC” That Will Bring Innovation to the Development and Manufacture of Brushless DC Motors
@@ -144,9 +147,6 @@ ABLIC Inc. launches the S-85M0A Series of ultra-high efficiency step-down switch
 Aug. 10, 2018
 News Release
 ABLIC Inc. Launches the S-5420, One of the Industry’s Smallest (*1) UV-A, UV-B Sensing Silicon Photodiodes
-Jul. 09, 2018
-News Release
-ABLIC Inc. launches the S-85S0P Series of ultrahigh efficiency step-down switching regulator
 See More
 Jul. 25, 2018
 New Products
@@ -164,22 +164,25 @@ May. 29, 2018
 New Products
 Battery Protection IC for 3-serial to 5-serial Cell Pack S-8245B/D Series
 See More
+Nov. 12, 2018
+Topics
+[COLUMN by TechanaLye] Deploying the results in a new business to the existing market. What is the new product model ABLIC conducts?
 Nov. 05, 2018
 Topics
 Notice of E-Mail Domain Change
+Oct. 29, 2018
+Topics
+[COLUMN by TechanaLye] “S-85S1P Series” and “S-1740/1741 Series”, New IoT Regulators respond to a request by a startup company
 Sep. 27, 2018
 Topics
 ICs ideal for Cordless Power Tools
 Sep. 20, 2018
 Topics
 [COLUMN by TechanaLye] Exploring markets with new and integrated functions, Future development plan of the UV sensor S-5420
-Sep. 07, 2018
-Topics
-[COLUMN by TechanaLye] ABLIC S-5420 ultracompact UV sensor, jointly developed with Tohoku University
-Jun. 07, 2018
-Topics
-Notice of the Website Address (URL) Change
 See More
+Nov. 19, 2018
+Events
+ABLIC to Participate in the ELEXCON 2018 in Shenzhen, China
 Oct. 17, 2018
 Events
 ABLIC to Exhibit at electronica 2018 in München (Munich)
@@ -192,9 +195,6 @@ ABLIC will participate to the electronica China 2018 in Shanghai.
 Oct. 30, 2017
 Events
 SII Semiconductor Corporation will participate to the ELEXCON 2017 in Shenzhen
-Feb. 13, 2017
-Events
-SII Semiconductor Corporation will participate to the electronica China 2017 in Shanghai.
 See More
 SUPPORT
 Support / Contact Us

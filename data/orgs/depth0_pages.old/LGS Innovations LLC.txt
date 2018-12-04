@@ -1,0 +1,159 @@
+555-555-5555
+Press Room
+News & Announcements
+Videos
+Brochures
+Case Studies
+Articles
+Careers
+Careers at LGS
+Benefits
+Student-Centered Programs
+Submit Your Application
+View All Jobs
+Contact
+Go
+About
+History
+What We Do
+Company Culture
+Mission & Values
+Social Responsibility
+Team
+Contracts
+Alliant
+GSA Schedule 70
+GSA PSS
+Partner GSA Schedules
+CTS
+IMOD
+WCIS BOA
+Netcents-2
+Products & Services
+Integrated Spectrum Management
+Spectrum Interference Detection & Mitigation
+Technical Surveillance Countermeasures
+Cyber
+Cyber Range Mod & Sim
+Cyber Support Services
+Network Reconnaissance & Mapping
+CodeGuardian
+Communications
+Fiber Optic Modems
+Optical Amplifiers
+BITS
+Mission Support Services
+Mobile Video
+SigPlot
+Geolocation Operations
+Analytic/Visualization Development
+Cloud & Virtualization
+SDR
+Wireless & Cyber Training
+Sensors
+Laser Transmitters
+IoT Solutions
+Cyber
+Research & Development
+Vulnerability Analysis & Reverse Engineering
+Cyber Support Services
+Mission Networking
+Cyber Resilience & Threat Analytics
+Modeling & Simulation
+Network Protocol Analysis & Engineering
+IoT Security Analytics
+C4ISR
+Wireless
+Video Solutions
+Mission Support
+Surveillance & Reconnaissance Solutions
+Integration & Operations
+Photonics
+Free-Space Optical Communications
+Remote Optical Sensing
+Optical Signal Processing
+Spectrum Management
+Radio Frequency Spectrum
+Spectrum Utilization
+How LGS Can Help
+Innovations
+LGS Innovations Initiative
+Patent Awards
+TECHNOLOGY INNOVATION
+Experts in C4ISR and Cybersecurity
+The role of AI in network security
+It’s not easy to correctly configure all the cybersecurity protection features of the applications, devices, host servers, firewalls, and other components that make up today’s communications networks - and of course misconfigurations of these cyber elements can mean exposed data, security breaches, and other grave dangers. 
+Learn More »
+What’s free-space got that fiber optics don’t?
+Whether you’re an astronaut aboard the International Space Station looking to get a video feed out for quick evaluation or you just need a way to communicate faster, with greater bandwidth, via our own terrestrial and satellite networks, free-space optical communications are your best answer.
+Learn More »
+Video Surveillance That Sees the Whole Picture
+The safety of our urban environments requires a complete, integrated, and real-time view of a landscape just as dense and complicated as any battlespace. Most importantly, this ability to “see the whole picture” and quickly communicate it to others must be shared by all of the federal, state, and local officials—police, fire crews, first-aid responders, hazardous materials teams, and others—who must manage these crises.
+Learn More »
+Why is the government concerned about spectrum crunch?
+Government agencies that once enjoyed seemingly limitless (and free) spectrum access must now learn to share bandwidth with industry and consumers, and the challenges of sharing spectrum aren’t trivial—especially when radio frequency (RF) spectrum interference can very easily negatively impact an agency’s mission.
+Learn More »
+Vulnerability Analysis & Reverse Engineering
+It’s easy to claim software analysis expertise, but our proven experience in reverse engineering and vulnerability research addresses the entire cybersecurity spectrum, from distributed denial of service attacks, to fuzzing, security scanning, attack surface analysis, and fault-tree analysis. Interested in what over 20 years in cyber can do for your organization?
+LEARN MORE
+Recent News
+LGS supports major tech refresh at SOUTHCOM Strategic Command Center
+One of nine U.S. unified combat commands, the U.S. Southern Command (SOUTHCOM)  in Florida provides planning, operations, and security cooperation for U.S....
+Learn More »
+Why is the U.S. government concerned about the spectrum crunch?
+Government agencies that once enjoyed seemingly limitless (and free) spectrum access must now learn to share bandwidth with industry and consumers, and...
+Learn More »
+spotlight on...
+WE'RE HIRING! LGS Innovations Florham Park, NJ
+Our employees love what they do! Find out why our Florham Park team is excited about their work – and how you could be a part of it!
+LEARN MORE
+THE LGS DIFFERENCE
+LGS Innovations offers flexibility, an entrepreneurial spirit, and opportunities to grow—all while you apply your creativity, insights, and expertise in a hands-on atmosphere addressing the unique and mission critical needs of government and commercial organizations.
+The culture of innovation fostered at LGS encourages creative thinking and collaboration with your teammates to create state-of-the-market communications technologies and cost-effective networking solutions.
+LEARN MORE
+We place great value on our most valuable asset – the creative team members who have helped to shape our history of innovation and vision for the future. We provide unique opportunities for our employees to showcase their ideas, including the annual LGS Innovation Initiative, which encourages all employees to submit their ideas for new products for possible corporate investment and development. Employee idea generation and cultivation leads to technological advancements that will enable greater customer satisfaction and establishes a corporate culture of creativity while driving the innovation from the core.
+LEARN MORE
+LGS Innovations works with organizations such as USGIF, the Armed Forces Communications and Electronics Association (AFCEA), the Colorado School of Mines, and many others to support crucial academic developmental skills in the sciences and to build the future of our country’s engineering workforce. We promote early involvement and cross discipline studies within the STEM fields through:
+Internship and recruiting programs
+Executive involvement on multiple university advisory boards
+Annual scholarships for college juniors, seniors, and graduate students
+Reimbursements to cover employees’ expenses when volunteering to support STEM education programs in their local communities
+LEARN MORE
+LGS Innovations is seeking leaders and professionals in engineering, research and development, program management, the sciences, and systems architecture with a passion for innovation who are committed to addressing our customers’ communications challenges. We are a rapidly growing company looking for creative, intelligent, and entrepreneurial individuals who not only place great value on their own learning and growth but also value contributions to their community and the nation. We work to develop our talent from within, and promote diversity across our workforce. Sound interesting? We think so! Come check us out! We have a passion for innovation, and we are always looking for creative professionals to join our team.
+LEARN MORE
+“What differentiates us is our culture of innovations. We hire extremely talented people who have the desire to go and make a difference in our customers’ missions. Every company says that they have extremely innovative people, but we really do and we really embrace that culture of innovation – and we allow people to express their ideas and work on things that really make a difference.” – Dr Linda Braun, Senior Vice President, LGS Innovations Photonics Solutions
+LEARN MORE
+“It’s an opportunity to work with people who are world-renowned experts in their fields, but it’s also a place where you’re given an opportunity early on to take responsibility and leadership.” Dr. Greg Gurski, Chief Technical Officer, LGS Integration and Operations Solutions
+LEARN MORE
+Named a Top Workplace by The Washington Post three years in a row, we know that our greatest asset is the talented people who work for us. At LGS, we recognize that being happy in your work and life is easier when you join an employer that understands your personal and professional needs. Not only do we provide competitive compensation packages and a full array of benefits, but we also foster team member creativity that generates new technologies to help to keep LGS on the cutting edge of technology. We encourage our employees to grow professionally, offering compensation for advanced learning at nearly twice the national average. LGS also supports a variety of student learning programs, as well as internships, a cooperative education program, an academic fellows program, and opportunities for new college graduates that allow for creativity and idea generation.
+Want to know more?
+CONTACT OUR TEAM
+Ready to grow your career?
+apply today
+Full Name
+*
+Email Address
+*
+Phone Number
+*
+How can we help you?
+Let’s talk
+ jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); 
+Hide Form -
+Headquarters
+13461 Sunrise Valley Drive, 3rd Floor
+Herndon, VA 20171
+Connect With Us:
+Copyright © 2018 LGS Innovations. All Rights Reserved. 
+Privacy Policy
+  |  
+Terms & Conditions
+Website Design By 
+Blue Corona
+The information on this website is for informational purposes only; it is deemed accurate but not guaranteed. It does not constitute professional advice. All 
+ information is subject to change at any time without notice. Contact us for complete details.
+
+            LGS Innovations uses cookies to offer you a better browsing experience, analyze site traffic, and personalize content. If you continue to use this site, you consent to our use of cookies.
+         
+ if(typeof window.lv_formIDs == "undefined"){ window.lv_formIDs = []; }  window.lv_formIDs.push(1);
+window.all_validations[1] = {};

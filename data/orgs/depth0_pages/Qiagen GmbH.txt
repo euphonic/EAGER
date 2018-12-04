@@ -1,5 +1,3 @@
-function hideExternalLinks(){$("a[href*='http://']:not([href*='"+window.location.hostname+"'])").addClass("ExternalLink").removeAttr("href");}
-aFeoOverrideAttrRead('img', 'src')
 Log in
 0
 Cart
@@ -240,21 +238,6 @@ What We Do
 Our Products
 Our Markets & Customers
 Innovation at QIAGEN
-Sys.WebForms.PageRequestManager._initialize("RadScriptManager1","frmMain",[],["RadScriptManager1","RadScriptManager1"],[],90,"");
-aFeoOverrideAttrRead('img', 'src')
-
-                                    Let QIAGEN Genomic Services 
-
-put your RNA research puzzle together
-                                
-Get help now
-
-                                    Boost your NGS 
-
-knowledge – join 
-
-our on-site seminars
-Register now
 
                                     Want one-step rRNA removal in 
 
@@ -268,20 +251,31 @@ and rapidly search variants –
 
 try OmicSoft GeneticsLand!
 Try for free
+
+                                    Boost your NGS 
+
+knowledge – join 
+
+our on-site seminars
+Register now
+See how
+
+                                    Bioinformatics software 
+
+that works for everyone
+                                
+Learn more
 Main Image Navi
 News: 
 
 								Life Science Research
-aFeoOverrideAttrRead('img', 'src')
 
 								Molecular Diagnostics
-aFeoOverrideAttrRead('img', 'src')
 
 								GeneGlobe – DNA and RNA Research Portal
 Life Science Research Products
 
 								The GeneReader NGS System
-aFeoOverrideAttrRead('img', 'src')
 United States
 Algeria
 Argentina
@@ -386,7 +380,5 @@ English
 Japanese (Japan)
 Korean (Korea)
 Start Page
-javascript:are_cookies_enabled();
 _satellite.pageBottom();
 _satellite.pageBottom();
-var google_conversion_id=978074361;var google_custom_params=window.google_tag_params;var google_remarketing_only=true;

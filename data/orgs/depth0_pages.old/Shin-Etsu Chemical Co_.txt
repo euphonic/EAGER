@@ -1,0 +1,38 @@
+about Shin-Etsu
+for Investors
+Products site
+Company Profile
+Company's History
+Major Bases of Operation / Worldwide Network
+Quality Control
+Research and Development
+Management Policy
+IR Library
+Stock Information
+General Meeting of Shareholders
+IR Calendar
+What's New
+2018.11.07
+Summary of Financial Results Briefing for the First Half ended September 30,2018
+2018.10.26
+Notice Regarding Revision of Operating Performance Forecast, Distribution of Dividend from Surplus (Interim Dividend) and Revision of Year-end Dividend Forecast(PDF)
+2018.10.26
+Financial Data for the Second Quarter Ended September 30, 2018
+2018.10.11
+Shin-Etsu Chemical to make aggressive new investment in photomask blanks
+2018.09.05
+Announcement of Decision Regarding the Payment Amount for Stock Options (Stock Acquisition Rights) for Directors（PDF）
+2018.09.03
+Shin-Etsu Chemical to make ¥110 billion facility investment in its silicones business
+2018.08.31
+Shin-Etsu Corporate Profile video now updated for 2018
+2018.08.21
+Announcement Concerning Issuance of Stock Options (Stock Acquisition Rights)（PDF）
+You must install software that enables your computer to read PDF files. To install 
+ADOBE READER®
+, click the button to obtain this software from the prescribed site.
+Notes on Using This Website
+Personal Information Protection Policy
+Copyright © 2001-
+myDate = new Date();myYear = myDate.getFullYear();document.write(myYear);
+ Shin-Etsu Chemical Co., Ltd. All rights reserved.

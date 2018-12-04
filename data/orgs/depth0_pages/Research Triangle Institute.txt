@@ -2,6 +2,7 @@ Global Reach
 Insights
 Newsroom
 Publications
+Partner With Us
 Careers
 About
 Office Locations
@@ -35,6 +36,7 @@ Engineering & Technology R&D
 Careers
 Centers
 RTI Center for Advanced Methods Development
+RTI Center for Data Science
 RTI Center for Education Services
 RTI Center for Newborn Screening, Ethics, and Disability
 RTI Global Gender Center
@@ -65,7 +67,15 @@ Data for Development
 Drone Research and Application
 Careers
 Careers
-Science, Technology, Research and Innovation for Development (STRIDE)
+USAID Power Africa Selects RTI to Lead East Africa Energy Program
+
+                                                            Read Full Story
+                                                    
+Guatemala Low Emission Development Strategy (G-LEDS)
+
+                                                            Read Full Story
+                                                    
+Driving growth in the Philippines by linking education and industry 
 
                                                             Read Full Story
                                                     
@@ -76,16 +86,6 @@ October 22, 2018
                                                     
 New NC-Based Study to Advance Research Through Free and Expanded Health Screening for Newborn Babies
 October 15, 2018
-
-                                                            Read Full Story
-                                                    
-Vietnam eliminates lymphatic filariasis, a disfiguring disease
-October 08, 2018
-
-                                                            Read Full Story
-                                                    
-New study finds that using fentanyl test strips can lead to safer drug use behaviors
-October 03, 2018
 
                                                             Read Full Story
                                                     
@@ -106,33 +106,32 @@ Melissa Dolan
 
   Director, Children and Families Research Program
 Insights
-Environment
-When Building Farm Resiliency in North Carolina, Livestock and Poultry Operations Can Also Improve Water and Air Quality 
-Marion Deerhake
-George L. Van Houtven
-Policy Research
-Sink or Swim: Returning from Prison Without a Social Safety Net
-Rose Feinberg
-Tasseli McKay
-Policy Research
-Alabama’s Health Care Secret Sauce: Caring for Seniors with a New Medicare Advantage Special Needs Plan 
-Lawren Bercaw
+International Development
+The future of health policy evaluation: Applying new expertise to key challenges
+Taylor Williamson
+Rachel Stelmach, Health Economics and Finance Specialist
+International Development
+The future of work is coming-whether we're prepared for it or not
+Peter Joyce
 Health
-Reducing Medicaid Spending and Health Care Utilization for High-Risk Infants
-Yiyan (Echo) Liu
+Women and the Opioid Epidemic
+Jennifer Lorvick
+Survey Research
+Big Data Can’t Replace Surveys, But They Can Work Together
+Paul P. Biemer
 Emerging Issues
-Marijuana Research
+Zika Virus Research
 
             
-  Investigating the medical, social, and political impacts of marijuana from multiple perspectives        
-Data for Development
+  Implementing a proactive, nimble approach to address many aspects of a global crisis        
+Water
 
             
-  A data-driven revolution in international development is driving smarter programs and better outcomes        
-E-cigarette Research
+  Applying scientific knowledge and global experience to the management of an essential resource         
+Opioid Research
 
             
-  Investigating the health effects, marketing practices, and policy impact of e-cigarettes and other vapor products        
+  Leading research in the understanding, treatment, prevention, and intervention of opioid misuse and abuse        
 Partner With Us:
 US Government
 Commercial

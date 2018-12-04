@@ -25,56 +25,57 @@ Jobseekers
 Media
 Share Price
 Total Share 
-€ 50.490 
--1.83 % 
+€ 50.250 
++2.21 % 
 Paris
-11/09/2018
-17h38
+12/03/2018
+10h13
 Total ADR 
-$ 57.400 
--0.74 % 
+$ 55.610 
++0.51 % 
 New York
-11/09/2018
+11/30/2018
 16h02
-Total at the Africa Oil Week 2018
+Total chooses to offset carbon by building biodigesters
+Discover
+Total attends ADIPEC 2018
+Discover
+Angola: Total inaugurates the Kaombo project 
 Discover
 More  
 news
-10/17
-2018
-Total Joins Forces With Indian Private Adani Group to Expand in Natural Gas And Fuel Retail Activities in India
-Press release
-10/23
-2018
-Australia: Ichthys LNG Project Begins Gas Exports
-Press release
+“Making Diversity a Reality: the Right Chemistry” – Patrick Pouyanné
+Read on LinkedIn
+Total in Africa: a historical presence and a long term commitment
+Watch the video
+Ajax link
 Press Releases
-11/10
+12/03
 2018
-Angola: Total inaugurates the Kaombo project and reiterates its commitment to the country with new investments
-11/05
-2018
-Total and Sempra Energy sign Memorandum of Understanding for Development of North American LNG Export Projects
-10/26
-2018
-Total announces third 2018 interim dividend – Update
-All press releases
-Calendar
+South Korea: Hanwha Total Petrochemical Invests in a new polypropylene plant to Expand its Refining & Petrochemicals Platform
 11/22
 2018
-Actionaria investor fair in Paris (France)
-11/23
+Brazil: Total Enters the Fuels Retail Sector with the acquisition of Grupo Zema distribution business
+11/16
 2018
-Actionaria investor fair in Paris (France)
-11/23
-2018
-Shareholders meeting in Paris (Actionaria investor fair, in the "Salle Bleue")
+Total signs a Memorandum of Understanding with the State of Papua New Guinea on the key terms of the Gas Agreement of the Papua LNG Project and launches engineering studies
+All press releases
+Calendar
 12/18
 2018
 Ex-Dividend date for the 2nd 2018 interim Dividend
 01/15
 2019
 Q4 2018 – Main Indicators
+02/07
+2019
+2018 Results & Outlook Presentation
+03/19
+2019
+Ex-Dividend date for the 3rd 2018 interim Dividend
+04/26
+2019
+First Quarter 2019 Results
 
                     All Events                  
 
@@ -397,7 +398,6 @@ Guadeloupe
 Jamaica
 Martinique
 Mexico
-Panama
 Peru
 Puerto Rico
 United States
@@ -532,7 +532,6 @@ Guadeloupe
 Jamaica
 Martinique
 Mexico
-Panama
 Peru
 Puerto Rico
 United States

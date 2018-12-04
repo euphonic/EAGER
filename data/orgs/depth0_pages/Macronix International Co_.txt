@@ -22,14 +22,14 @@ Investor Relations
 中文
 Ask Engineering
 About Us
-Company Overview
-Macronix has over 25 years experience of excellent in-house design and manufacturing capabilities for long-term commitment and support
-News & Events
-Investor Relations 
-Quality Management
-Corporate Social Responsibility
 Careers
+Company Overview
 Contact Us
+Corporate Governance
+Corporate Social Responsibility
+Investor Relations 
+News & Events
+Quality Management
 Support
 Technical Documentation
 Product Reliability Report
@@ -177,13 +177,14 @@ Product Longevity Program
 Term of Use
 Privacy Policy
 About Us
-Company Overview
-News & Events
-Investor Relations
-Quality Management
-Corporate Social Responsibility
 Careers
+Company Overview
 Contact Us
+Corporate Governance
+Corporate Social Responsibility
+Investor Relations
+News & Events
+Quality Management
  Mobile Version
 
      Copyright© Macronix International Co., Ltd. 

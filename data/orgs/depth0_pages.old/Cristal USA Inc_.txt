@@ -1,0 +1,119 @@
+        $(document).ready(function() { if (typeof (_spBodyOnLoadWrapper) != 'undefined') { _spBodyOnLoadWrapper(); } });
+This page location is:
+Cristal
+Pages
+default
+Sign In
+中文
+contact us
+login
+About Us
+Global Reach
+Our Products
+Community
+Research & Technology
+Site Locations
+Vision, Mission & Values
+Code of Conduct
+Privacy Statement
+Products & Services
+TiO₂
+Titanium Chemicals
+Ultrafine and Specialty TiO₂
+Titanium Metals
+Arabian Chemical Center
+Other Products
+Safety, Health & Environment
+Our Commitment
+Product Stewardship
+REACH
+Sustainability Reports
+Documents
+Careers
+News Room
+News Archive
+Events
+Publications
+Media Room
+Page Content
+Brilliance Inspired by Titanium 
+
+        Cristal and its nearly 4,000 employees on five continents are proud leaders in manufacturing titanium dioxide products. We are passionate about pursuing perfection in our work, providing for our family of employees, and creating a cleaner, brighter future with the products we make. 
+    
+
+​​​​​​​​​​​​​​​​​​​​​​​   ​​​
+Cristal Magazine
+Special Edition - 2014
+Corporate Fact Sheet
+..learn more
+
+​​​
+News
+Posted On December 06, 2017
+
+                    Acquisition Update
+Posted On August 13, 2017
+
+                    Cristal hosts ministerial visit and Roundtable
+Posted On June 09, 2017
+
+                     The Titanium Dioxide industry is disappointed by 
+Posted On May 11, 2017
+
+                    Cristal Global Announces TiO₂ Price Increases
+Events
+All Sites
+Products
+Safety DataSheets
+All Sites
+Products
+Safety DataSheets
+All Sites
+Products
+Safety DataSheets
+About Us
+Global Reach
+Our Products
+Community
+Research & Technology
+Site Locations
+Vision, Mission & Values
+Code of Conduct
+Privacy Statement
+Products & Services
+TiO₂
+Titanium Chemicals
+Ultrafine and Specialty TiO₂
+Titanium Metals
+Arabian Chemical Center
+Other Products
+Safety, Health & Environment
+Our Commitment
+Product Stewardship
+REACH
+Sustainability Reports
+Documents
+Careers
+News Room
+Libraries
+News Archive
+Events
+Publications
+Media Room
+Follow us 
+RegisterSod("sp.core.js", "\u002f_layouts\u002fsp.core.debug.js?rev=Qp5K7ycU\u00252FEY9IvE0KOi7zQ\u00253D\u00253D");
+RegisterSod("sp.res.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=b6\u00252FcRx1a6orhAQ\u00252FcF\u00252B0ytQ\u00253D\u00253D");
+RegisterSod("sp.runtime.js", "\u002f_layouts\u002fsp.runtime.debug.js?rev=f2An00kVlALdMLzcBc1cug\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.core.js");RegisterSodDep("sp.runtime.js", "sp.res.resx");
+RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002fsp.ui.dialog.debug.js?rev=I4RtkztzINg\u00252B\u00252BPCPe\u00252FeQlw\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.core.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");
+RegisterSod("cui.js", "\u002f_layouts\u002fcui.debug.js?rev=\u00252BhQl2NTQMTydPivdG\u00252Bq\u00252FdA\u00253D\u00253D");
+RegisterSod("core.js", "\u002f_layouts\u002f1033\u002fcore.debug.js?rev=e\u00252BEyz0v6esJzW\u00252BbeQkvhvQ\u00253D\u00253D");
+RegisterSod("inplview", "\u002f_layouts\u002finplview.debug.js?rev=fyL0TR2Uy1hHDzdBRq0X9g\u00253D\u00253D");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");
+RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=YhBHGmUAGyJ3lAgSdE4V\u00252Fw\u00253D\u00253D");
+RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=q6nxzZIVVXE5X1SPZIMD3A\u00253D\u00253D");
+RegisterSod("sp.ui.pub.ribbon.js", "\u002f_layouts\u002fsp.ui.pub.ribbon.debug.js?rev=HBUbhy2bPS6tzTnU9de\u00252FzQ\u00253D\u00253D");
+RegisterSod("msstring.js", "\u002f_layouts\u002f1033\u002fmsstring.debug.js?rev=\u00252FBVJveHLTRPyAS7JcY4oHw\u00253D\u00253D");
+RegisterSod("browserScript", "\u002f_layouts\u002f1033\u002fie55up.debug.js?rev=alivXRlfIa6edBLd7Zyixw\u00253D\u00253D");
+RegisterSod("mediaplayer.js", "\u002f_layouts\u002fmediaplayer.js?rev=Q6vfD9BNL\u00252B9PvwgrVEcc\u00252FA\u00253D\u00253D");
+RegisterSod("WPAdderClass", "\u002f_layouts\u002fwpadder.debug.js?rev=ShI6HpbWyfAFLqD4udjnjw\u00253D\u00253D");
+RegisterSod("search.js", "\u002f_layouts\u002fsearch.js?rev=BjP0\u00252BmPXUFhF7kDZmHIaVg\u00253D\u00253D");
+RegisterSodDep("browserScript", "msstring.js");

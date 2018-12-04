@@ -70,12 +70,12 @@ Comparing
 0
  models
 Crossovers / SUVs
-2018 Kona
+2019 Kona
 Starting MSRP
 i
 Est. Net Price
 i
-2018 Tucson
+2019 Tucson
 Starting MSRP
 i
 Est. Net Price
@@ -96,7 +96,7 @@ Starting MSRP
 i
 Est. Net Price
 i
-2018 Sonata
+2019 Sonata
 Starting MSRP
 i
 Est. Net Price
@@ -123,8 +123,7 @@ Starting MSRP
 i
 Est. Net Price
 i
-2018 Ioniq Plug-in Hybrid
-*
+2019 Ioniq Plug-in Hybrid
 Starting MSRP
 i
 Est. Net Price
@@ -132,15 +131,6 @@ i
 Up to
 29
 Miles All-Electric
-2018 Ioniq Electric
-Starting MSRP
-i
-Est. Net Price
-i
-Up to
-124
-Mile Range
-*
 2018 Sonata Hybrid
 Starting MSRP
 i
@@ -153,12 +143,15 @@ Learn more
 2019 Kona EV
 Coming early 2019.
 Learn more
-2019 Tucson
-Coming soon.
-Learn more
 2019 Nexo Fuel Cell
 Coming soon.
 Learn more
+2020 Palisade
+Coming Summer 2019
+Learn more
+Genesis G70
+Compact sport sedan
+Learn more at Genesis.com
 Genesis G80
 Midsize luxury sedan
 Learn more at Genesis.com
@@ -195,8 +188,8 @@ Learn more
 Build yours
 Select a current model
 Cancel
-Our most advanced SUV ever.
-The all-new five-passenger 2019 SANTA FE.
+Life meets style.
+Introducing our 8-passenger Palisade.
 Learn More 
 Find a Dealer
 Build and Price
@@ -204,16 +197,12 @@ Local Offers
 Inventory Search
 Latest updates and information on engine recalls.
 Learn More 
-Limited-Time Offer
-More features.
- More selection.
- More choices.
-Hurry in for great deals on a
-new Hyundai.
-2019 Elantra
-Clean, modern, and
-feature-rich.
-Redesigned for 2019.
+The most wonderful tech of the year.
+Better hurry! 
+Offer ends 
+December 3.
+Our most advanced SUV ever.
+The five-passenger 2019 SANTA FE.
 Our Vehicles
 All Models
 Crossovers / SUVs
@@ -222,12 +211,12 @@ Compacts / Hatchbacks
 Hybrid / Electric / Fuel Cell
 Future Vehicles
 Crossovers / SUVs
-2018 Kona
+2019 Kona
 Starting MSRP
 i
 Est. Net Price
 i
-2018 Tucson
+2019 Tucson
 Starting MSRP
 i
 Est. Net Price
@@ -248,7 +237,7 @@ Starting MSRP
 i
 Est. Net Price
 i
-2018 Sonata
+2019 Sonata
 Starting MSRP
 i
 Est. Net Price
@@ -275,8 +264,7 @@ Starting MSRP
 i
 Est. Net Price
 i
-2018 Ioniq Plug-in Hybrid
-*
+2019 Ioniq Plug-in Hybrid
 Starting MSRP
 i
 Est. Net Price
@@ -284,15 +272,6 @@ i
 Up to
 29
 Miles All-Electric
-2018 Ioniq Electric
-Starting MSRP
-i
-Est. Net Price
-i
-Up to
-124
-Mile Range
-*
 2018 Sonata Hybrid
 Starting MSRP
 i
@@ -305,19 +284,21 @@ Learn more
 2019 Kona EV
 Coming early 2019.
 Learn more
-2019 Tucson
-Coming soon.
-Learn more
 2019 Nexo Fuel Cell
 Coming soon.
+Learn more
+2020 Palisade
+Coming Summer 2019
 Learn more
 Shopper Assurance
 Car buying made simple.
 The future of car buying, now available in the present.
-In appreciation of your service
-$1,000 Veteran's Day exclusive offer
-For Active Duty, Reservist/National Guard, Veteran, and Retired U.S. Military 
-Personnel. Ends November 13.
+Safety In Numbers
+Hyundai wins 10 IIHS Top Safety Picks.
+The results of our innovative thinking and advanced safety features earn
+Hyundai 10 IIHS Top Safety Picks on vehicles equipped with optional front
+crash prevention and specific headlights.
+*
 Shopping
 
 											Build & Price
@@ -428,9 +409,6 @@ Caring For Your Car
 										
 
 											Hyundai Service Reviews
-										
-
-											Rewards
 										
 
 											Bluetooth Compatibility

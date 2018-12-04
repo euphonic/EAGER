@@ -32,9 +32,11 @@ Ultrasound
 Medical Informatics
 Biologics Contract Development & Manufacturing
 Regenerative Medicine
+Cell Culture Media
 New Drug Development
 Laboratory Chemicals & LAL
 Diagnostic Assays
+Life Sciences Strategy
 Graphic Arts & Printing
 Industrial Inkjet Printheads
 Aqueous Inkjet Inks and Colorants
@@ -187,9 +189,11 @@ Ultrasound
 Medical Informatics
 Biologics Contract Development & Manufacturing
 Regenerative Medicine
+Cell Culture Media
 New Drug Development
 Laboratory Chemicals & LAL
 Diagnostic Assays
+Life Sciences Strategy
 Graphic Arts & Printing
 Industrial Inkjet Printheads
 Aqueous Inkjet Inks and Colorants

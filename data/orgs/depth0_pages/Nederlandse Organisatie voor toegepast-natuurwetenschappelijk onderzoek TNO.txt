@@ -40,6 +40,7 @@ Perceptual and Cognitive Systems
 Military Operations
 Modelling, Simulation and Gaming
 Electronic Defence
+Radar Technology
 ECN part of TNO
 Roadmaps
 Towards ubiquitous Solar Energy
@@ -182,7 +183,7 @@ Animal-Free Innovations
 Better Alternatives
 Collaboration
 Animals in Life Sciences Research
-Facts and Figures 2016
+Facts and Figures 2017
 News
 Events
 Research on hot topics
@@ -238,6 +239,7 @@ Anouk Bos
 Petra de Bruijn
 Michaël Declercq
 Kim Dielwart
+Lara Hagendoorn
 Sophie Plas
 Anne-Maartje den Uijl
 TNO employee stories
@@ -297,6 +299,7 @@ Perceptual and Cognitive Systems
 Military Operations
 Modelling, Simulation and Gaming
 Electronic Defence
+Radar Technology
 ECN part of TNO
 Roadmaps
 Towards ubiquitous Solar Energy
@@ -439,7 +442,7 @@ Animal-Free Innovations
 Better Alternatives
 Collaboration
 Animals in Life Sciences Research
-Facts and Figures 2016
+Facts and Figures 2017
 News
 Events
 Research on hot topics
@@ -495,6 +498,7 @@ Anouk Bos
 Petra de Bruijn
 Michaël Declercq
 Kim Dielwart
+Lara Hagendoorn
 Sophie Plas
 Anne-Maartje den Uijl
 TNO employee stories
@@ -560,6 +564,9 @@ Expertise groups
 Traffic & Transport
 Roadmaps
 Expertise groups
+Artificial Intelligence
+
+Promise or threat?                            
 EXPOSOME connecting the dots for effective prevention of disease
 
 Read the article on TNO Insights                            
@@ -576,35 +583,20 @@ A healthy start in life pays off
 
 Read the article on TNO Insights                            
 News
+Missions as a solution to societal challenges
+27 November 2018
+Read more
+News
+Somni and TNO conclude licence agreement for use of patents
+27 November 2018
+Read more
+News
+TNO uses Urban Strategy to map the effects of urban planning in Amsterdam
+13 November 2018
+Read more
+News
 Airbus Netherlands and TNO partner for development of next-generation gigabit optical ground station
 09 November 2018
-Read more
-News
-Solar@Sea starts testing floating solar system
-09 November 2018
-Read more
-News
-TNO wins Special Distinction 2018 buildingSMART Award
-05 November 2018
-Read more
-News
-Start of European research project for converting coal fired power plant to biomass
-31 October 2018
-Read more
-12
-November
-Smart Cities workshop: 'The Dutch and Smart Cities: Shaping the Future by Challenging Today'
-Barcelona | Avinguda de la Torre Blanca 57 E-08172, Sant Cugat del Vallès
-Read more
-16
-November
-TNO participates in the 'Techniek Bedrijven Event'
-Rotterdam – Beurs-WTC
-Read more
-21
-November
-Second annual conference lifestyle as medicine
-Oegstgeest | Corpus
 Read more
 13
 December
@@ -639,6 +631,14 @@ Sign up for our newsletters
 General terms and conditions
 Privacy Statement
 Disclaimer
-We use anonymous cookies to enhance the use of our site. Our 
-privacy statement
- has been updated to reflect the new EU privacy policy.
+TNO.nl collects and processes data in accordance with the applicable privacy regulations for an optimal user experience and marketing practices. 
+This data can easily be removed from your temporary profile page at any time. 
+You can also view our privacy statement or cookie-information.
+Accept all cookies
+Edit your preferences
+Functional:
+Analytics:
+Social networks:
+Advertising:
+Other:
+Save my preferences

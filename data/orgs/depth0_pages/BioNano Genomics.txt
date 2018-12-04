@@ -132,7 +132,7 @@ events 
 60th ASH Annual Meeting & Exposition
 Learn More
 publications 
-The 22q11 low copy repeats are characterized by unprecedented size and structure variability
+A chromosome-scale assembly of the sorghum genome using nanopore sequencing and optical mapping
 Learn More
 Go Beyond Base Pairs and Get Results
 Like you, we are results driven. Our Saphyr System is purpose-built to deliver ultra-sensitive, ultra-specific structural variation detection to identify the relevant variants that impact your genomes. We show you what sequencing misses, taking you into the structure of the genome to reveal new understanding and deliver results.

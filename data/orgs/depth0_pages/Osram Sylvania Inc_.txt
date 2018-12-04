@@ -33,7 +33,6 @@ Content1
 ​
 Innovative LED and traditional lighting products
 Page Content
-​ 
 Lighting for 
 You
 These lighting products are for every use in your home. Browse our portfolio of energy efficient lighting, discover lighting facts and resources, and find retailers where you can shop and buy SYLVANIA brand lighting products
@@ -49,16 +48,25 @@ SYLVANIA LED Dimmer Compatibility List Files
 Visit us at these events and tradeshows to see the most innovative products and solutions we have to offer. 
 Take a Virtual Tour of our Booth
 Click here to view upcoming events
-Sign up for Events Communications 
-PageContent2
-​ 
+Sign up for Events Communications
 California Title 20
-On January 1, 2018 new efficiency standards set by the 
-California Energy Commission (CEC) 
+On January 1, 2018 new efficiency standards set by the
+California Energy Commission (CEC)
 went into effect for certain lamps manufactured after January 1, 2018.
 Learn more about the California Title 20 legislative changes
-PageContent3
+PageContent2
 ​
+Please note, these products are not LEDVANCE products.
+PageContent3
+Automotive Lighting
+The automotive lighting products that were branded “SYLVANIA” are under trademark licenses by OSRAM SYLVANIA Inc.    
+LEARN MORE
+Holiday Lighting
+These are legacy products that were branded “SYLVANIA” under trademark licenses by OSRAM SYLVANIA Inc.    
+LEARN MORE
+Consumer Electronics
+These are legacy products that were branded “SYLVANIA” under trademark licenses by OSRAM SYLVANIA Inc.    
+LEARN MORE
 Sitemap
 Applications
 Education
@@ -121,6 +129,4 @@ RegisterSod("inplview", "\u002f_layouts\u002finplview.js?rev=w4iP7lFIpTavLXlEmM2
 RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=YhBHGmUAGyJ3lAgSdE4V\u00252Fw\u00253D\u00253D");
 RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=q6nxzZIVVXE5X1SPZIMD3A\u00253D\u00253D");
 RegisterSod("sp.ui.pub.ribbon.js", "\u002f_layouts\u002fsp.ui.pub.ribbon.js?rev=RGQSBI9Dm0E345iq\u00252FxUpHg\u00253D\u00253D");
-RegisterSod("msstring.js", "\u002f_layouts\u002f1033\u002fmsstring.js?rev=QtiIcPH3HV7LgVSO7vONFg\u00253D\u00253D");
-RegisterSod("browserScript", "\u002f_layouts\u002f1033\u002fnon_ie.js?rev=EVTj1bu32\u00252FMla6SDN\u00252FsNTA\u00253D\u00253D");
 RegisterSodDep("browserScript", "msstring.js");

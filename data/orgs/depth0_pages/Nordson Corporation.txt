@@ -1,0 +1,134 @@
+Nordson Corporation
+Global Directory
+Languages
+NASDAQ $120.41   +0.00
+Home
+Our Products
+Our Industries
+Our Applications
+Brands & Product Lines
+ADHESIVE DISPENSING SYSTEMS
+● Nonwovens
+● Packaging
+● Polymer Processing (BKG,     EDI, Xaloy)
+● Product Assembly
+ADVANCED TECHNOLOGY SYSTEMS
+● Nordson ASYMTEK
+● Nordson DIMA
+● Nordson MARCH
+● Nordson TEST AND     INSPECTION
+    ◦ Nordson DAGE
+    ◦ Nordson MATRIX
+    ◦ Nordson YESTECH
+    ◦ Nordson SONOSCAN
+● Nordson EFD
+● Nordson MEDICAL
+● Nordson SELECT
+INDUSTRIAL COATING SYSTEMS
+● Automotive Assembly
+● Container Coating
+● Liquid Painting
+● Nordson SEALANT     EQUIPMENT
+● Powder Coating
+● UV Curing
+Our Company
+About Us
+Investors
+News Room
+Careers
+Nordson Impact Community Outreach
+Responsibility and Sustainability
+Corporate Governance
+Ethics and Compliance
+Events
+Literature
+Contact Us
+Support
+Suppliers
+Resources
+The place for packaging.
+Case and carton sealing, attachment, confectionery and small pack, tray making, palletizing and more.
+Automated fluid dispensing solutions.
+Advanced semiconductor packaging. PCB assembly. And much more.
+Look a little closer.
+We're the leader in test and inspection solutions for electronics manufacturers.
+We're experts in medical.
+Manufacturing and development. Medical device design. Components & Technologies.
+We know powder coating.
+From manual to fully automated systems.
+Liquid painting solutions.
+Electrostatic, non-electrostatic, and rotary atomization solutions for plastic, metal and wood products.
+Engineered fluid dispensing.
+For nearly every process you can imagine.
+Advanced surface treatment systems.
+Plasma technology for semiconductor, printed circuit board, LED and related industries.
+We know extrusion.
+And injection molding. And pelletizing. And fluid coating. And a whole lot more.
+Search By:
+Product Type
+Industry
+Application
+Keyword
+0
+Nordson's 4Q & FY18 Results Webcast will be broadcast on Thursday, December 13, 2018
+Click here to register for webcast
+Nordson Renames Scholarship in Honor of Ken Kreeger
+Story
+Meet the Nordson BUILDS Scholars We Are Supporting This Year
+Story
+Nordson EFD introduces new product that drastically reduces plastic waste
+Story
+ | 
+Video
+More than 40,000 students inspired by Nordson’s STEM outreach so far 
+Story
+Maastricht Distribution Center Boosts Efficiency with New Carousel
+Story
+Continuous Improvement: A Global Affair 
+Story
+Innovation Awards Honor Nordson Employees.
+Story
+Nordson Team in China Wins Badminton Championship.
+Story
+Our 2017 Annual Report is now available for viewing.
+Download Report
+View All Features
+News
+22 Nov 2018
+Tamper-evident pharmaceutical packaging using adhesive
+System comparison between classic hotmelt application, two-shot procedure and the use of reactive PUR Hotmelt.
+20 Nov 2018
+Nordson Corporation Announces Earnings Release and Webcast for Fourth Quarter and Fiscal Year 2018
+15 Nov 2018
+Nordson DAGE’s Complete Solution for Automated On-Wafer Bondtesting Recognized with a Global Technology Award 
+The 4800 is the complete solution for automated on wafer bond testing ensuring virtually operator free testing.
+View All News
+Precision technology that touches your life every day everywhere.
+Events
+2-4  Dec 2018
+ICI Meeting
+Tel Aviv, Israel
+Join Nordson MEDICAL at ICI this December.
+4-5  Dec 2018
+Compounding World Forum 2018
+Coral Springs, Florida, USA
+5-7  Dec 2018
+HKPCA 2018
+Shenzen Convention & Exhibition Center (SZCEC), Shenzhen, China
+Come talk to us about our Plasma Systems!
+View All Events
+Back To Top
+Dispensing Equipment & Industrial Coating Equipment
+
+Operating in over 30 countries, Nordson is the leader in precision dispensing, fluid management, and related technologies. We offer products and systems for managing adhesives, industrial coatings, sealants, paints, polymers, fluids and biomaterials. Our solutions also include test and inspection equipment and curing and surface preparation systems.
+© 2018 Nordson Corporation
+Home
+Company
+Directory
+Investors
+Careers
+Community
+Privacy
+Contact Us
+Languages
+$("a[href='#top']").click(function () { $("html, body").animate({ scrollTop: 0 }, "slow"); return false; });

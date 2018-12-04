@@ -14,27 +14,30 @@ Who is PCCA?
 What is Compounding?
 $('#LiveSlider8544').layerSlider({skinsPath: '/DesktopModules/LiveSlider/Themes/'});
 what is compounding?
-Compounding is the art and science
-of 
+ Compounding is the art and science
+            of 
 						
 creating personalized medicine
  for
-specific patient needs.
+            specific patient needs.  
 						
 Learn more 
 Who is PCCA?
-We
-help pharmacists & 
+ We
+            help pharmacists &  
 						
-prescribers create personalized medicine that makes a
-difference in patients’ lives.
+
+						prescribers create personalized medicine that makes a
+            difference in patients’ lives. 
 						
 Learn more 
 Membership
-A PCCA membership gives you all the tools you need to make a difference in patients’ lives. We can help take your pharmacy to the next level.
+ 
+            A PCCA membership gives you all the tools you need to make a difference in patients’ lives. We can help take your pharmacy to the next level.
+						
 Learn more 
 Looking for a product?
-Find products and resources in our new online product catalog.
+ Find products and resources in our new online product catalog.
 Learn more 
 4000+
 Members Worldwide
@@ -54,10 +57,10 @@ Unrivaled Products
 With the most extensive product line in the industry, we have everything you need to shine.
 				
 Click Here
-Skype
-Stumbleupon
-Tumblr
+Facebook
+Linkedin
 Twitter
+Youtube
 Unrivaled Products
 
 					PCCA has everything that compounders need to do what they do best: help individual patients with unique needs. Whether you’re looking for the highest quality and hard-to-find chemicals or you need devices and equipment to compound and dispense medications, we’ve got you covered.
@@ -75,18 +78,10 @@ Next-Level Education
 We offer the industry’s most ACPE-accredited educational opportunities to keep you on the cutting edge.
 				
 Click Here
-
-						Skype
-						
-
-						Stumbleupon
-						
-
-						Tumblr
-						
-
-						Twitter
-						
+Facebook
+Linkedin
+Twitter
+Youtube
 Education & Training
 
 						PCCA’s education and hands-on training programs strengthen our members’ skills and expand their expertise to meet the unique health care needs of their patients. In addition to our foundational training programs for both non-sterile and sterile compounding, we provide more than 115 in-person and online educational opportunities every year on a wide variety of topics.
@@ -94,18 +89,10 @@ Education & Training
 Expert Support
 When you join PCCA, our Clinical Support Team becomes an extension of your staff.
 Click Here
-
-						Skype
-						
-
-						Stumbleupon
-						
-
-						Tumblr
-						
-
-						Twitter
-						
+Facebook
+Linkedin
+Twitter
+Youtube
 Expert Clinical Support
 Clinical Support Team
 
@@ -123,6 +110,27 @@ Linkedin
 Twitter
 Youtube
 @pccarx
+Quick Links
+PCCA Membership
+Find a Compounder
+Contact PCCA
+What is Compounding
+CPMS
+Search
+Products
+Links
+Rx Dispense
+Eagle Analytical
+PCAB
+Wellness Works
+RxSkin Therapy
+PersonalMed
+Cynova
+PCCA Institute
+Student Job Board
+PCCA Science
+PCCA Careers
+Connect
 ©
 Copyright 2018 by PCCA
 Terms Of Use

@@ -1,0 +1,294 @@
+Blog
+Store
+Support Request
+Contact
+hbspt.cta.load(2564118, '24b885b7-c643-40dd-938f-24d319f7cb56', {});
+Solutions
+Authentication
+Financial
+Retail
+Healthcare
+Government
+Law Enforcement
+Gaming
+Biometric Identity
+Civil Government
+Applicant Background Check
+Migrant Security
+Foreign Assistance & Disaster Relief
+Border Management
+Mobile
+Criminal Justice / Defense
+Criminal Enrollment
+Corrections
+Mobile ID
+Court ID
+Commercial
+Retail & Hospitality
+Products
+Software
+Authentication
+DigitalPersona
+ID Management
+ArcID
+Enrollment/Booking
+Store & Forward
+Mobile
+SDK
+Commercial Fingerprint Biometrics (U.are.U)
+L Scan Master
+Hardware
+Fingerprint Readers (Livescan)
+Palm Print
+Tenprint
+Two Finger
+Single Finger
+Enrollment & Booking Stations
+Fingerprint Modules
+Tenprint
+Single Finger
+Mobile/Portable
+Handhelds
+Jumpkits
+Commercial
+Commercial Hardware
+Resources
+By Type
+Brochures
+Case Studies
+Infographics
+Product Datasheets
+Videos
+White Papers
+On-Demand Webinars
+By Market
+Corporate
+Defense
+Education
+Enterprise
+Government
+Healthcare
+Market
+Hospitality
+Law Enforcement
+OEM
+POS
+Retail
+ROI Calculators
+Authentication
+Commercial
+Glossary
+InfoSec Terms
+Partner
+Partner Portal
+Deal Registration
+Become a Partner
+Company
+Company
+About
+Leadership
+Careers
+Partners
+Contact Us
+News Room
+Events
+Blog
+Press Releases & Media Coverage
+Support
+Software Updates & Patches
+Documentation
+Explore Keystroke Biometrics
+Solutions
+Authentication
+Financial
+Retail
+Healthcare
+Government
+Law Enforcement
+Gaming
+Biometric Identity
+Civil Government
+Applicant Background Check
+Migrant Security
+Foreign Assistance & Disaster Relief
+Border Management
+Mobile
+Criminal Justice / Defense
+Criminal Enrollment
+Corrections
+Mobile ID
+Court ID
+Commercial
+Retail & Hospitality
+Products
+Software
+Authentication
+DigitalPersona
+ID Management
+ArcID
+Enrollment/Booking
+Store & Forward
+Mobile
+SDK
+Commercial Fingerprint Biometrics (U.are.U)
+L Scan Master
+Hardware
+Fingerprint Readers (Livescan)
+Palm Print
+Tenprint
+Two Finger
+Single Finger
+Enrollment & Booking Stations
+Fingerprint Modules
+Tenprint
+Single Finger
+Mobile/Portable
+Handhelds
+Jumpkits
+Commercial
+Commercial Hardware
+Resources
+By Type
+Brochures
+Case Studies
+Infographics
+Product Datasheets
+Videos
+White Papers
+On-Demand Webinars
+By Market
+Corporate
+Defense
+Education
+Enterprise
+Government
+Healthcare
+Market
+Hospitality
+Law Enforcement
+OEM
+POS
+Retail
+ROI Calculators
+Authentication
+Commercial
+Glossary
+InfoSec Terms
+Partner
+Partner Portal
+Deal Registration
+Become a Partner
+Company
+Company
+About
+Leadership
+Careers
+Partners
+Contact Us
+News Room
+Events
+Blog
+Press Releases & Media Coverage
+Support
+Software Updates & Patches
+Documentation
+Explore Keystroke Biometrics
+Search:
+The world identifies with us.
+From identity and secure access to biometric identity, our solutions solve complex security challenges in an ever changing world.
+Composite Authentication
+Biometric Identity Solutions
+Hundreds of millions of users worldwide trust our security solutions.
+ We have one that meets the needs of your use case.
+Move past the limitations of traditional 2FA and MFA
+See how our DigitalPersona authentication solution is changing the digital landscape within these industries:
+ Financial
+ Retail
+ Healthcare
+ Government
+ Law Enforcement
+ Gaming
+Discover the power of assured identity
+Explore Crossmatch biometric-based solutions with unparalleled, industry-leading technologies:
+ Border Management
+ Migrant Security
+ Criminal Enrollment
+ Mobile for Law Enforcement
+Stop fraud and theft at the point-of-sale
+Discover biometric-based solutions for end-users and integrators tailored to the retail/restaurant industry:
+ Solutions for Retail
+ Commercial Hardware
+News and Resources
+Latest News
+HID Global Acquires Crossmatch to Expand in Biometric Identity Management
+ Making HID Global one of the world’s major providers of fingerprint biometric technologies
+READ MORE
+Featured Customer Story
+Customer Story: Hurricane Grill & Wings
+ See how a franchise operating partner saved time and money with Crossmatch fingerprint biometrics at the POS
+WATCH VIDEO
+Featured Resource
+What is Keystroke Biometrics?
+ Explore how behavioral biometrics enhances authentication security
+EXPLORE MORE
+Stay ahead of threats at borders with 
+MOBILE BIOMETRICS
+.
+Visit Crossmatch at the Border Security Expo where you’ll see our cutting edge, in-field mobile technology.
+JOIN US IN SAN ANTONIO
+The industry's biggest retail show is coming to NYC. Learn how to 
+STOP EMPLOYEE THEFT
+.
+Discover the latest in Crossmatch’s retail POS technology at the NRF Big Show, Jan 14-16.
+JOIN US IN NEW YORK
+Latest News
+Crossmatch DigitalPersona Placed in ‘Leader’ Category in Software Reviews’ 2018 IAM Data Quadrant
+DigitalPersona
+®
+ multifactor authentication software was placed in the “Leader” category of Software Reviews’ Identity and Access Management (IAM) Data Quadrant. The quadrant and the detailed research behind it are included in the 
+IAM Category Report
+ from Info-Tech.
+READ THE RELEASE
+Customer Story
+Gesa Credit Union
+Increasing data security and simplifying login complexity using a composite authentication approach.
+Watch the video >
+Latest from the Blog
+Like It or Not, Your Face is Your ID
+By Jeff Carpenter, CISSP, CCSP
+ Cybercrime and data protection are on everyone’s mind. From the consumer perspective, more people are choosing to do business with security-conscious companies. Across industries, advanced security solutions are becoming a must-have, increasingly in the form of multifactor authentication (MFA) solutions that go beyond usernames and passwords.
+READ MORE
+Solutions
+Authentication Security
+Biometric Identity
+Products
+DigitalPersona® Authentication Security Software
+Identity Management Software
+Biometric Identity SDK
+Biometric Identity Hardware
+Commercial Hardware
+How Can We Help?
+   Start a support ticket
+   Send a message to sales
+   Order SDKs or supplies
+Upcoming Events
+ Dec 03 2018 - Dec 06 2018
+Gartner IAM
+ No event found!
+Stay Connected with Us
+Sign-up for blogs, news and occasional communications
+© 2017-2018 Crossmatch. All rights reserved. | 
+Privacy Policy
+ | 
+Terms of Use
+ | 
+Legal
+We are pleased to announce
+ Crossmatch is now part of HID Global.
+Read The Press Release
+ ×            
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+var wpApiSettings = {"root":"https:\/\/www.crossmatch.com\/wp-json\/","nonce":"be226dc02c","versionString":"wp\/v2\/"};
+var leadin_wordpress = {"userRole":"visitor","pageType":"home","leadinPluginVersion":"7.0.1"};
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+_linkedin_data_partner_id = "273385";

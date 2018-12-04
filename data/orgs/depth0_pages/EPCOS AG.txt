@@ -126,7 +126,7 @@ Film Capacitors
 keyboard_arrow_right
 CeraLink Capacitors
 keyboard_arrow_right
-Ferrite
+Ferrite Magnetic Design Tool
 keyboard_arrow_right
 Inductors
 keyboard_arrow_right
@@ -225,7 +225,7 @@ Press Releases
 keyboard_arrow_right
 Press Pictures
 keyboard_arrow_right
-Technologies & Products Press Conference 2017
+Technologies & Products Press Conference 2018
 keyboard_arrow_right
 Customer News Service
 keyboard_arrow_right
@@ -363,7 +363,7 @@ Film Capacitors
 keyboard_arrow_right
 CeraLink Capacitors
 keyboard_arrow_right
-Ferrite
+Ferrite Magnetic Design Tool
 keyboard_arrow_right
 Inductors
 keyboard_arrow_right
@@ -458,7 +458,7 @@ Press Releases
 keyboard_arrow_right
 Press Pictures
 keyboard_arrow_right
-Technologies & Products Press Conference 2017
+Technologies & Products Press Conference 2018
 keyboard_arrow_right
 Customer News Service
 keyboard_arrow_right
@@ -486,29 +486,21 @@ keyboard_arrow_left
 Previous
 keyboard_arrow_right
 Next
-Attracting Tomorrow
-electronica 2018
-Meet TDK! 
-Hall 
-B6.105
-Passive Components
-Film capacitors
-Series of 
-rugged AC filter capacitors
- extended
-ThermoFuse varistors
-Compact overvoltage protection
- with an integrated fuse
-NTC thermistors
-Robust 
-temperature sensor for 
-up to 300 °C 
+Ceramic capacitors
+CeraLink™
+ in modular flex-assembly technology 
+EMC filters
+Compact, high-performance
+ 3-line EMC filters for frequency converters
+Aluminum electrolytic capacitors
+Compact single-ended series
+ with high current capability
 EMC components
 Current-compensated ring core chokes
  for 800 V DC
-Active harmonic filters
-PQSine S series
-Clean power for office towers
+ThermoFuse varistors
+Compact overvoltage protection
+ with an integrated fuse
 Magnetic sensors
 TMR angle sensor
  for PCB-less applications
@@ -550,6 +542,11 @@ Certificates
 REACH / SVHC List
 RoHS Information
 Material Data Sheets
+EPCOS Data Book
+NTC Inrush Current Limiters
+The new data book presents the extended range of inrush current limiters in power supplies and inverters. Detailed technical data helps users to select suitable components.
+More 
+keyboard_arrow_right
 EPCOS Application Guide
 Home Appliances
 The revised application guide covers the range of EPCOS products for home appliances such as refrigerators, washing machines, microwave ovens and air-conditioners. An overview of the technical specifications, special features and characteristics of these products helps users to select suitable components.
@@ -558,11 +555,6 @@ keyboard_arrow_right
 Product Survey
 Electronic Components, Modules and Systems
 The brochure covers the wide portfolio of TDK products and shows the key figures of TDK, EPCOS, Micronas, InvenSense and Tronics brand products.
-More 
-keyboard_arrow_right
-SPS/IPC/DRIVES 2018
-Innovation for power electronics
-TDK is presenting its innovative products for industrial electronics at SPS/IPC/DRIVES 2018 from November 27 to 29. The focus is on EMC filters as well as chokes for converters.
 More 
 keyboard_arrow_right
 Products

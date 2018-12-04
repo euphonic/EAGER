@@ -1,20 +1,24 @@
-عر
+En
 
-                                    English                                
+                                    عربي                                
 
-                                    English                                
+                                    عربي                                
 
                                                                                 +20233024462-63                                        
 
                                                                                                                             +201111103342                                                                            
-الرئيسية
-من نحن
-المشاريع
-القطاعات
-الميديا
-المدونة
-الوظائف
-اتصل بنا
+Sat - Thu
+9:00 AM - 5:00 PM
+Fri
+Off
+Home
+About us
+Projects
+Sectors
+Media
+Blog
+Career
+Contact us
 var lsjQuery = jQuery;
 WATCH NOW
 
@@ -37,51 +41,58 @@ SOLUTIONS
                                                         PUMPS
                                                     
 
-                                                 ...                                                
-شاهد الفيديو
+    E Solar offers tailored solution according to the client best interest and needs.
 
-                                                 ...                                                
-شاهد الفيديو
+                                                        Resedential                                                    
+Watch Video
 
-                                                 ...                                                
-شاهد الفيديو
+                                                        Industrial                                                    
+Watch Video
 
-                                                 ...                                                
-شاهد الفيديو
+                                                        Tourism                                                    
+Watch Video
 
-                                        آخر المشاريع                                    
+                                                        Agriculture                                                    
+Watch Video
 
-                                                                لحمي باي 13 ك.و. اون جريد                                                            
+                                        Latest Projects                                    
 
-                                                                     ...                                                                    
+                                                                Lahmy Bay 13 kwp Ongrid                                                            
 
-                                                                        إقرأ المزيد                                                                     
+                                                                        read more                                                                    
 
-                                                                     ...                                                                    
+                                                                Elbana Hospital - 5 kwp Off Grid with batteries for 3 hours                                                            
 
-                                                                        إقرأ المزيد                                                                     
+                                                                    Off grid system for Operation Room light, new born cabinets and emergency lights with back up for 3 hours  
+ ...                                                                    
 
-                                                                     ...                                                                    
+                                                                        read more                                                                    
 
-                                                                        إقرأ المزيد                                                                     
+                                                                Submersible Water Pump                                                            
 
-                            شركائنا                        
-تابعنا:
-ساعات العمل
+                                                                        read more                                                                    
+
+                            Our partners                        
+Social Media:
+Business hours
+Sat - Thu
  9:00 AM - 5:00 PM
+Fri
  Off
 
-                            من نحن؟                        
+                            About us                        
 
-                            روابط                        
-الرئيسية
-من نحن
-المشاريع
-القطاعات
-الميديا
-المدونة
-الوظائف
-اتصل بنا
+                                E Solar offers tailored solution according to the client best interest and needs.                            
+
+                            Links                        
+Home
+About us
+Projects
+Sectors
+Media
+Blog
+Career
+Contact us
 Developed by 
 4Art-Studio.com
 

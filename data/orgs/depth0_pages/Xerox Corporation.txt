@@ -278,4 +278,4 @@ Legal
 Privacy Choices
 Site Map
 © 2018 Xerox Corporation. All rights reserved. Xerox® and Xerox and Design® are trademarks of Xerox Corporation in the United States and/or other countries.
-var xrx_bnr_fp = "21101515797B9F1C11D120E108D591807EAA006F36E5D2"; xrx_bnr_gen = "4"; xrx_bnr_creation = "10 Nov 2018 15:00:26 -0800"; var xrx_bnr_assets_server = "https://www.xerox.com"; var xrx_bnr_locale = "enus"; var xrx_bnr_region = "us";
+var xrx_bnr_fp = "21101515797B9F1C02D120E108D591807EAA206F33E5D3"; xrx_bnr_gen = "4"; xrx_bnr_creation = "02 Dec 2018 15:00:33 -0800"; var xrx_bnr_assets_server = "https://www.xerox.com"; var xrx_bnr_locale = "enus"; var xrx_bnr_region = "us";

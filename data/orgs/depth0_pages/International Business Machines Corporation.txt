@@ -2,43 +2,44 @@ United States
 IBM®
 Site map
 IBM
-IBM Garage — where the magic happens
-Built for co-creation, this is where you can scale like an enterprise at the speed of a startup
-Take a tour and find a location near you →
-
-											See how VW used IBM Garage to personalize driving 
+HR is on the brink of disruption. Be ready.
+AI is changing how we work. It can also help find, train and retain the workforce you need.
+Read the report for insights and practical tips →
+Start your journey with IBM Talent & Transformation →
 New today
 This week at IBM
-Watson Marketing webinar
-Businesses like yours are taming their data to transform customer relationships
-Hear their stories in a new webinar →
-IBM Cloud for VMware
-New hybrid options make it easier to migrate and manage mission-critical workloads
-See how you can adopt a global cloud strategy →
-Inspiring speakers at Think 2019
-Pro skaters Tony Hawk and Rodney Mullen talk innovation, risk and freestylin’ the cloud
-See who else is speaking at Think →
-Certified pre-owned equipment
-Find used IT equipment, remanufactured with genuine IBM parts, at the right price
-Shop refurbished server and storage systems and more →
+Enterprise asset management
+IBM is a leader in the Gartner Magic Quadrant for EAM. And now Maximo is on the IBM Cloud.
+Try Maximo as a service at no charge →
+Webcast: open source support
+Single-source your OS help with the experts at IBM Technology Support Services
+Watch 
+Solving the open source support challenge
+ on demand →
+IBM Food Trust
+Growing adoption of this unique blockchain network means a more accountable supply chain
+See why your food is safer when you can trace its journey →
+Think 2019: the future of tech
+Meet the pioneers building the next generation of today’s critical technologies in these 7 sessions
+Explore the Trends & Directions curriculum →
 Explore product trials and offers
 See current deals →
- IBM Blockchain
-Start testing a blockchain network in a pre-production environment
-Get started with $500 in credits →
-Start testing a blockchain network and get $500 in credits →
-IBM SPSS Modeler
-Get quick access to predictive analytics with a flexible subscription
+IBM Cloud
+Build and run apps and services with a flexible, hybrid cloud
+Get started with a free Lite plan →
+Try a free Lite plan to build and run apps and services →
+IBM Application Security on Cloud
+Detect and fix vulnerabilities in your applications before deployment
 Buy now and save 10&percnt; →
-Buy now and save 10&percnt; on predictive analytics →
+Detect and fix vulnerabilities in your applications. Save 10&percnt; now. →
 Watson Assistant
 Quickly build and deploy virtual assistants across channels
 Try a free Lite plan →
 Build your own virtual assistants with a free Lite plan →
-IBM QRadar on Cloud
-Enable faster cyber-attack detection and responses with a SIEM service
-Start your free 14‑day trial →
-Enable faster cyber-attack detection and responses. Try it free. →
+IBM Aspera on Cloud
+Move and share big files and data across vast distances at high speeds
+Buy now and save 20&percnt; →
+Move and share big files and data at high speeds. Save 20&percnt; now. →
 See current deals →
 Find products and services in the IBM Marketplace
 Search term
@@ -46,12 +47,12 @@ Search Marketplace
 See more products →
 For developers
 For business leaders
-Find the path to a job you’ll love
-IBM’s New Collar Certificate and skills training programs help you shape your future, no degree required
-See where your passion can take you →
-Resources for developers
-Code something amazing with 100+ open source programs and tutorials
-Discover code, content and community with IBM Developer →
+IBM to acquire Red Hat
+This will create the only open cloud solution, from the world’s #1 hybrid cloud provider
+Learn how it will help you unlock the full value of cloud →
+IBM to acquire Red Hat
+This will create the only open cloud solution, and the world’s #1 hybrid cloud provider
+Learn how it will help you unlock the full value of cloud →
 Analytics
  →
 Make data simple and accessible →
@@ -102,15 +103,15 @@ Swift
  →
 Serverless computing
  →
-Find the path to a job you’ll love
-IBM’s New Collar Certificate and skills training programs help you shape your future, no degree required
-See where your passion can take you →
-Resources for developers
-Code something amazing with 100+ open source programs and tutorials
-Discover code, content and community with IBM Developer →
-Let’s put smart to work for the environment
-Welgevonden Game Reserve uses IoT to find and stop poachers before they kill
-See how the Internet of Things works in the wild →
+IBM to acquire Red Hat
+This will create the only open cloud solution, from the world’s #1 hybrid cloud provider
+Learn how it will help you unlock the full value of cloud →
+IBM to acquire Red Hat
+This will create the only open cloud solution, and the world’s #1 hybrid cloud provider
+Learn how it will help you unlock the full value of cloud →
+Let’s put smart to work: The Plastic Bank
+The nonprofit addresses extreme poverty by helping communities recycle waste into currency
+Find out about using blockchain for social good →
 How can we help?
 Support portal
  →
@@ -132,15 +133,15 @@ IBM Training and Skills
 IBM Training and Skills
  →
 Start your learning journey, build expertise and get recognized →
-Case study: Open banking payment services
-Case study: Open banking payment services
-Eurobits migrates to IBM Cloud, and invests in future growth
-From Berlin to Bogotá, Bangkok to Boston, customers can transfer funds and make payments using any banking institution, not just their own. Account aggregation services providers must be able to share and secure account data with confidence in this more open world.
-To meet that challenge, industry pioneer Eurobits sought a hybrid cloud leader with global reach. 
-IBM Cloud
- offered that scalability and flexibility, allowing the company to deploy and manage APIs easily. And in an ever-changing financial world, that’s just smart dollars and sense.
-See the whole story →
-Discover how IBM Cloud and VMware work together →
+Case study: Eileen Fisher
+Case study: Eileen Fisher
+Save the sale with omnichannel retail
+Holiday shopping season is here, and expectations are high. Online or in person, shoppers expect a seamless experience — and they won’t hesitate to walk away if they don’t get it. Smart solutions like 
+IBM Order Management
+ help companies save those sales, even when an item is out of stock.
+Working with IBM Partner Publicis Sapient, fashion brand Eileen Fisher knit its separate online, retail and wholesale businesses into one centralized hub. Now store associates have near real-time access to inventory across every channel, and customers leave happy.
+Read the full story →
+Learn more about IBM Order Management →
 Contact
 Privacy
 Terms of use

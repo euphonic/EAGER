@@ -15,20 +15,18 @@ Energy, Resources & Utilities
 Life Sciences & Healthcare
 Public Services
 Travel, Transportation & Hospitality
-Services & Technologies
-Services & Technologies
-SERVICES
+Services 
+Services 
 Cognitive Business
 Consulting
 Analytics
 Automation & AI
 IOT
 Cloud Applications
-TECHNOLOGIES
 Cloud Infrastructure
 Cyber Security
 TCS Interactive
-Engineering
+Industrial Engineering
 Quality Engineering
 Enterprise 
 Products & Platforms
@@ -64,6 +62,7 @@ Perspectives
 Newsroom
 Brexit
 Machine First™ Approach
+TCS Pace™
 Careers
 TCS WORLDWIDE
 INVESTOR RELATIONS
@@ -76,30 +75,30 @@ Contact Us
 We are taking you to another website now.
 Cancel
 OK
-Celebrating 5 decades of excellence and many more to come!
+Smarter. More Agile. More Intelligent. More Automated
 Explore
 Our Thinking
+White Paper
+The Behaviors of Digital Transformation
+A TCS survey of business leaders finds out how Business 4.0 translates into practice
+Know More
 WHITE PAPER
-Advanced Image Matching for Planogram Compliance 
-Retailers to Overcome Challenges Pertaining to Image Processing of Store Shelves with Advanced Image Matching Techniques
+Blockchain and IoT in Supply Chain Traceability
+Serve as a foundation for building digital trust and security for interactions
 Know More
-JOURNAL
-HiTech Insights  
-Delivering Personalized Customer Experiences will Go a Long Way in Driving Business Value
-Know More
-Executive Perspective
-Transforming to Compete With Data
-Strategies to Win in the New Staffing Industry Landscape - MIT Sloan and TCS
+WHITE PAPER
+Leveraging AI to Deduce Accurate Insights
+Application of technologies such as AI/RPA to address rising medical diagnostics expenses.
 Know More
 View More
 Our Successes
 SUCCESS STORY
-Proximus Ensure IFRS 15 Compliance in Record Time
-TCS implements SAP and Informatica based system to integrate different data sources and enhance reporting
-Know More
-SUCCESS STORY
 Taking SKA to the Skies
 TCS collaborates with NCRA-TIFR to design the control system for the world’s largest radio telescope
+Know More
+SUCCESS STORY
+Proximus Ensure IFRS 15 Compliance in Record Time
+TCS implements SAP and Informatica based system to integrate different data sources and enhance reporting
 Know More
 SUCCESS STORY
 TCS Teams Up with Asda, 
@@ -113,19 +112,19 @@ View More
 Transform to Enterprise Agile
 
 
-Work with us to reduce your Agilty Burden, thrive in a dynamic environment & create a better tomorrow.
+Work with us to reduce your Agility Burden, thrive in a dynamic environment & create a better tomorrow.
 Read More
 In the News
 PRESS RELEASE
-TCS Wins Eleven Stevies at the 2018 Great Employers Awards
+Launch of TCS Pace™ to Take Research and Innovation Offerings to the Next Level
 Know More
 SOCIAL
 FOLLOW US ON SOCIAL MEDIA
 Get the latest market insights on social media
-TCS INNOVATION
-Creating Innovation-driven Businesses
+EVENT
+TCS Innovation Forum
 PRESS RELEASE
-TCS Recognized Among Sustainability Leaders in the Dow Jones Sustainability World Index
+Inaugural TCS Pace Port™ Launched in Tokyo to Drive Customer Business 4.0™ Journeys 
 Know More
 INDUSTRIES
 Banking & Financial Services
@@ -139,7 +138,7 @@ Public Services
 Retail
 Travel, Transportation & Hospitality
 HiTech
-SERVICES & TECHNOLOGIES
+SERVICES
 Cognitive Business
 Consulting
 Analytics
@@ -149,7 +148,7 @@ Cloud Applications
 Cloud Infrastructure
 Cyber Security
 TCS Interactive
-Engineering
+Industrial Engineering
 Quality Engineering
 Enterprise 
 PRODUCTS & PLATFORMS
@@ -183,6 +182,7 @@ Brexit
 Diversity & Inclusion
 Machine First™ Approach
 TCS 50 Time Machine
+TCS Pace™
 CORPORATE TCS
 Careers
 TCS Worldwide

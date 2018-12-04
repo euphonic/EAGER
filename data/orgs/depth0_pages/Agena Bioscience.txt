@@ -71,14 +71,6 @@ Liquid Biopsy
 Methylation Analysis
 Learn More About Us
 Upcoming Events
-BCC Brisbane Cancer Conference
-Date:
-29 November 2018
- - 
-30 November 2018
-Location:
- Brisbane, Australia
-Event Website
 All Events
 Seminars & Webinars
 Latest Press 
@@ -105,7 +97,6 @@ Learn more about how the MassARRAY System will keep your lab at the forefront of
 Request Pricing & Info
 Be the first to know: Product updates, 
  company news, and our technology in practice
-MktoForms2.loadForm("//app-ab07.marketo.com", "505-UQA-532", 1053);
 Helpful Links
 Home
 Worldwide Distributors

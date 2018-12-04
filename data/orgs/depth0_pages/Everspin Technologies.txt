@@ -100,18 +100,15 @@ MRAM design guide
 Easily integrate Xilinx FPGAs
 Performance optimizations
 Download the Free App Note!
-Everspin Reports Second Quarter 2018 Financial Results
-Chandler, AZ, August 8, 2018
-— 
-Everspin Technologies, Inc. (NASDAQ: MRAM), the world's leading developer and manufacturer of discrete and embedded MRAM, today announced financial results for the second quarter ended June 30, 2018.
+SMART Modular Launches nvNITRO NVMe Storage Accelerator Featuring MRAM Technology in New U.2 Form Factor
+SMART Modular Technologies, Inc., has partnered with Everspin Technologies, Inc., to enable the launch of the new Spin-Transfer Torque MRAM (STT-MRAM)-based nvNITRO Storage Accelerator. The nvNITRO is ideally suited for synchronous logging applications such as those used for financial trading. 
+Read Full Story
+ Everspin Reports Third Quarter 2018 Financial Results
+Chandler, AZ, November 8, 2018 — Everspin Technologies, Inc. (Nasdaq: MRAM), the world's leading developer and manufacturer of discrete and embedded MRAM, today announced financial results for the third quarter ended September 30, 2018.
 Read the full press release
-Everspin Demonstrates MRAM Leadership at MRAM Developer Day and Flash Memory Summit
-Chandler, AZ, August 6, 2018
-— Everspin Technologies, Inc. (NASDAQ: MRAM), the world's leading developer and manufacturer of discrete and embedded MRAM, will be demonstrating innovative technologies at two key memory industry events this week in Santa Clara, CA., MRAM Developer Day and Flash Memory Summit.
-Read the full press release
-Everspin to Host Second Quarter 2018 Earnings Call on August 8
-Chandler, AZ, July 26, 2018
-— Everspin Technologies, Inc. (NASDAQ: MRAM), the world's leading developer and manufacturer of discrete and embedded MRAM, will review its second quarter 2018 financial results after market close on Wednesday, August 8, 2018. Kevin Conley, President and CEO, and Jeff Winzeler, CFO, will host a conference call at 5:00 p.m. Eastern Time to discuss the Company’s financial results.
+Everspin and SilTerra join forces to create new manufacturing center for MRAM 
+Chandler, AZ, November 5, 2018 
+— Everspin Technologies, Inc. (NASDAQ: MRAM), the world's leading developer and manufacturer of Magnetoresistive RAM (MRAM), entered into a multi-year partnership with SilTerra, a world-class semiconductor manufacturing services company located in Kulim, Malaysia, to create additional manufacturing capacity for Toggle MRAM products.  This partnership is part of a three-way agreement between Everspin, SilTerra and Bosch Sensortec, a licensee of Everspin’s TMR sensor intellectual property.
 Read the full press release
 Sign Up for Product Announcements
 Sign up to receive product updates and other information

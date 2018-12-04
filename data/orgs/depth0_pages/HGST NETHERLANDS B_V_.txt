@@ -35,7 +35,7 @@ For personal storage solutions visit these Western Digital brands
 At G-Technology® we design some of the highest-performing and most reliable leading-edge storage solutions for end-to-end creative workflows.
 Every day, millions of people count on the performance, quality, and reliability of SanDisk®-branded products.
 Upthere®, a Western Digital brand, is transforming the personal storage market by providing a new and better way to keep, find, and share what’s important and meaningful.
-At WDC we design some of the highest-performing and most reliable leading-edge storage solutions for end-to-end creative workflows.
+WD® is a leading global data storage brand that empowers people to create, manage, experience and preserve digital content on a range of devices.
 Compromise
 Nothing
 No compromises. Nothing holding you back. The WD Black™ NVMe™ SSD features sequential read and write speeds up to 3,400/2,800 MB/s* for gaming, video editing, virtual reality, and beyond.
@@ -64,7 +64,7 @@ For personal storage solutions visit these Western Digital brands
 At G-Technology® we design some of the highest-performing and most reliable leading-edge storage solutions for end-to-end creative workflows.
 Every day, millions of people count on the performance, quality, and reliability of SanDisk®-branded products.
 Upthere®, a Western Digital brand, is transforming the personal storage market by providing a new and better way to keep, find, and share what’s important and meaningful.
-At WDC we design some of the highest-performing and most reliable leading-edge storage solutions for end-to-end creative workflows.
+WD® is a leading global data storage brand that empowers people to create, manage, experience and preserve digital content on a range of devices.
 ROI in Less Than 3 Months
 Forrester examined the potential ROI your organization may realize using IntelliFlash storage.
  
@@ -79,13 +79,9 @@ Western Digital has long been at the forefront of game changing innovations. Fro
 
 
 CTO Office
-Interconnectivity
 Our Technology Focus
-Handshake
 Academic Collaborations
-Review
 Research publications
-Light Bulb
 Game
 
 changer
@@ -178,14 +174,13 @@ The Growing Value of Data
 
 
 ARCHIVING FILM FOR FUTURE GENERATIONS
-Collecting and Preserving your Most Valuable Assets
+Collecting and Preserving Your Most Valuable Assets
 
          		LEARN MORE
          
 Data Readiness Can Lead to Business Transformation
 Data Center
 SYSTEMS
-Storage Platforms
 PLATFORMS
 DATA CENTER
 
@@ -207,7 +202,6 @@ Market value of 12 exabytes of data transacted per day if 80K organizations mone
 Capture and Preserve Your Most Valuable Assets
 Visit Our Personal Storage Brands
 Depth and Breadth of Expertise Helping Shape Business Outcomes
-Leadership
 Meet Western Digital
 Who We Are
 Exceptional data challenges require your exceptional skills. Join our team.

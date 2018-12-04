@@ -1,21 +1,15 @@
 Products
 Applications
 Design
-Sample
+Sample and Buy
 About
 All
 Products
 Documents
 Applications Notes
 ×
-Establish Trust
-Crypto-Enabled MCU Supports DICE and Azure IoT Hub
-Learn More
-Automotive Networking at the Speed You Need
-Automotive-Qualified CAN, CAN-FD, CAN PN and LIN Devices
-Learn More
-Low Power Meets Long Range With LoRa® Technology
-Start Your Next LoRa Project With the Industry's Lowest Power SAM R34 Devices
+Out of the Box and Into the Cloud in 30 Seconds
+Securely Connect Your Device to the Cloud with the AVR-IoT WG Development Board
 Learn More
 Product Offerings
 Samples

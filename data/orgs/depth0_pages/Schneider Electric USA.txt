@@ -277,14 +277,12 @@ Learn More
 Contact 
 Us
 Email Sales
-Chat with us
 Find a Sales Office
 Find a Services Location
 Learn More
 
 Additional 
 Support
-Order Pricing and Availability
 Where to Buy
 Cybersecurity
 Training
@@ -354,7 +352,7 @@ Strategic Digital Alliance Ecosystem
 Social Media
 Innovation Summit
 North America
-Join us in Atlanta to learn, network with the best, and get hands-on with our cutting-edge IoT technologies and innovations shaping the future of energy and automation.
+Watch exclusive sessions and highlights from our virtual event and learn how new digital technologies are shaping the future of energy and automation.
 Learn more
 Explore more
 
@@ -578,23 +576,23 @@ USA
 customerAudience = 'dispatch';
 
 Innovation Summit
-North America LIVE!
-November 13-14, 2018
+North America
+Over 1,800+ of the brightest entrepreneurs, executives, and industry leaders from across North America joined us in Atlanta. Watch exclusive sessions on demand and learn how new digital technologies are shaping the future of energy and automation.
 
-Tune in to our exclusive LIVE sessions and learn how new digital technologies are shaping the future of energy and automation.
-Learn more
-Customer Story: Telefonica
+Watch the highlights video 
+Watch exclusive sessions
 Reliable data for DIGITAL lives
 Delivering secure cloud services from one of the world's highest-density data centers is a bold ambition. With Schneider EcoStruxure™ IT, Telefónica's Alcalá data center ensures reliable services that keep pace with customers’ increasingly DIGITAL lives while processing a staggering 14 kW per rack.
+
+Watch now 
+Masterpact™ MTZ Circuit Breakers
+Be ready for current and future challenges with Masterpact MTZ circuit breakers.
+Predictive maintenance white paper
+Life-saving RELIABILITY 
+Building a state-of-the-art, sustainable children’s hospital is a bold idea. Nemours Children’s Hospital ensures emergency generators restore life-saving power in 10 seconds or less and medical teams have clean, uninterrupted power for RELIABILITY with Schneider EcoStruxure™ Power.
+
+Watch now 
 Discover EcoStruxure
-+ Lifecycle Services
-We are always there for you
-Field Services
-Schneider Electric Services safely and consistently delivers expert care across your systems, enabling you to operate at peak performance.
-Electrical Distribution
-We drive INNOVATION
-As leaders in digital transformation, we bring bold ideas to life thanks to EcoStruxure™, making businesses safer, more reliable, connected, efficient and sustainable. Discover it through our customer success stories.
-See Customer Stories
 EcoStruxure™
 With Innovation At Every Level, we are redefining power and automation for a new world of energy.
 Learn how
@@ -652,11 +650,12 @@ Support Center
 Find a Distributor or Reseller 
 Square D™ 
  
-Innovation Summit North America LIVE! 
+Innovation Summit North America 
 
 November 13-14, 2018
 
-Tune in to our exclusive LIVE sessions and learn how new digital technologies are shaping the future of energy and automation.
+Watch exclusive sessions and highlights from our virtual event and learn how new digital technologies are shaping the future of energy and automation. 
+
 
 Learn more
 
@@ -712,7 +711,7 @@ Events
 Privacy and Cookies Policy 
 SUPPORT
 
-Customer Care 
+Support Center 
 
 Documentation & Software Downloads 
 
@@ -725,16 +724,6 @@ Energy University
 Services 
 
 Green Premium Eco label 
- CONTACT
-
-Contact Us 
-See Our Phone Menu 
-
-Contact Customer Care 
-Contact Sales Today 
-Find a Distributor or Reseller 
-
-Careers 
 QUICK LINKS
 
 All Products 

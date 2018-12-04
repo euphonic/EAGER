@@ -78,26 +78,26 @@ Targeted Sequencing
 Complex Populations
 Epigenetics
 See What's New
-Press Release
-Illumina to Acquire Pacific Biosciences for Approximately $1.2 Billion, Broadening Access to Long-Read Sequencing...
 Product Release
-Announcing Sequel System 6.0 Release – Delivering highly accurate, long reads
+Announcing Sequel System 6.0 Release – Delivering Highly Accurate, Long Reads
+Publication
+Nature: Somatic APP gene recombination in Alzheimer’s disease and normal neurons
+Blog
+Tracking the Tuna: How PacBio Sequencing Could Help Save the “King of the Sea”
+Event
+Webinar: A New Paradigm in DNA Sequencing: Highly Accurate Single-Molecule Long Reads
+In the News
+GenomeWeb: Hospitals Build Case for Pathogen Sequencing to Track Resistance, Monitor Outbreaks
+Blog
+At ASHG 2018, Workshop Speakers Discuss SMRT Sequencing Applications for Human Disease
+Publication
+Scientific Reports: A Complete 
+Leishmania donovani
+ Reference Genome Identifies Novel Genetic Variations...
+Blog
+An Interview with Leslie Vosshall: Buzzing About the New Mosquito Reference Genome
 Blog
 SMRT Grant Winner: Preventing Infection for Premmies
-Publication
-Nature Biotechnology: 
-De novo
- Assembly of Haplotype-resolved Genomes with Trio Binning
-Blog
-Genetic Code of All Plants, Animals, Protozoa, and Fungi to be Sequenced with Help of PacBio
-SMRT Grant
-Win SMRT Sequencing to Explore Structural Variation in the Human Genome. Apply Now!
-Blog
-Sequel System 6.0 Release Offers a New Paradigm in DNA Sequencing: Highly Accurate Single-Molecule Long Reads
-In the News
-New Map of Cancer Cell’s Genome Shows 1000s of Previously Missed Variations
-Blog
-Data Release: Highest-Quality, Most Contiguous Individual Human Genome Assembly to Date
 Publications
 PacBio Blog
 News & Events

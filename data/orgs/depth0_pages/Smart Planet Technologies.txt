@@ -91,10 +91,10 @@ Repulpability Report
 Vendor Application
 Artwork Specifications
 Recent Tweets
-@
+RT @
 SmartPlanetTech
- One heart isn’t enough!
-about 2 days ago
+: Three of Smart Planet Technologies’ licensees have won awards for incorporating EarthCoating® into their product and s…
+about a day ago
 Y.use('squarespace-follow-buttons', function(Y) { Y.on('domready', function() { Y.Squarespace.FollowButtonUtils.renderAll(); }); });
 Follow Us
 949-610-7063

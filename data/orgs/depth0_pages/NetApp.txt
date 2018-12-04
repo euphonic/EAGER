@@ -192,21 +192,20 @@ Privacy Policy
 HERE
 .
 Do not track my information
-Command Your Cloud
-NetApp has you covered from core to edge to multi-cloud. See the highlights from NetApp Insight 2018 Las Vegas.
-Watch Las Vegas Recap
-Register for Barcelona
-It’s time to be a cloud hero.
-Bring your enterprise to the cloud with Azure NetApp Files - the industry's first enterprise NFS service in the cloud.
+Command Your Clouds
+NetApp has you covered from core to edge to multi-cloud. Don’t miss the latest announcements, live from NetApp Insight 2018 Barcelona, December 4 & 5.
+Watch the Insight Barcelona Live Stream
+The world has never seen HCI like this.
+Get IDC's perspective on the evolution of hyper convergence.
+See for yourself
+NetApp Azure Files
+Finally. Simplified data management across clouds is here.
 TRY NOW
-Breaking the rules for application performance. Again.
-Get blazing fast AI with NetApp MAX Data.
-LEARN MORE
-Put DevOps in the driver's seat
-Accelerate and automate any container on any cloud.
+MAX Data
+Faster than Flash. Now, run enterprise apps at warp speed.
 LEARN MORE
 Be a Data Visionary
-Unleash the Power of Data
+UNLEASH THE POWER OF DATA
 Live from Insight Las Vegas
 The Latest News and Announcements
 WuXi NextCODE:
@@ -275,7 +274,6 @@ Slavery and Human Trafficking Statement
 Accessibility
 
 Resources                        
-English [change]
 View local information
 Subscriptions
 Library
@@ -283,6 +281,7 @@ Video Library
 Information Center
 Site Map
 © 2018 NetApp
+netapp-globe
 blog
 blog@
 community

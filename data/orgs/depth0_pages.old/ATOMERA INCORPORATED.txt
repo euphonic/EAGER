@@ -1,0 +1,107 @@
+Open Menu
+Technology
+MST
+®
+Benefits
+Implementation
+Publication and Patents
+Applications
+Analog
+DRAM
+FinFET Technology
+Logic and Processors
+SRAM
+Company
+Overview
+Management
+Publications
+Blog & News
+Investors
+Contact
+Technology
+MST
+®
+Benefits
+Implementation
+Publication and Patents
+Applications
+Analog
+DRAM
+FinFET Technology
+Logic and Processors
+SRAM
+Company
+Overview
+Management
+Publications
+Blog & News
+Investors
+Contact
+Quantum Engineered Materials
+The future of semiconductors will be dominated by More-than-Moore architectural and material innovations. Atomera has created a patented, engineered material called MST® which delivers those advancements today.
+Learn More
+Making electronics faster and more efficient
+By combining a materials breakthrough with other patented techniques Atomera enables more efficient and better controlled current flow, leading to dramatic improvements in device performance and power efficiency.
+Learn More
+Atomera engineers breathe new life into semiconductor fabs
+MST squeezes a half to a full node of benefits out of legacy fabs and next-generation FinFETs. With an MST® license, manufacturers can address their nanoscale-geometry yield, power and performance challenges at a fraction of the cost of alternative approaches.
+Learn More
+jQuery(document).ready(function($){})
+Quantum Engineered Materials
+The future of semiconductors will be dominated by More-than-Moore architectural and material innovations. Atomera has created a new material called MST
+®
+ which delivers those advancements today.
+Making electronics faster and more efficient
+By combining a materials breakthrough with other patented techniques Atomera enables more efficient and better controlled current flow, leading to dramatic improvements in device performance and power efficiency.
+Atomera engineers
+ breathe new life
+ into semiconductor fabs
+MST
+®
+ squeezes up to a full node of benefits out of fab processes.  With an MST
+®
+ license, manufacturers can address their yield, power and performance challenges at a fraction of the cost of alternative approaches.
+>
+<
+Technology at the Atomic Level
+Atomera has created a patented, quantum engineered material called Mears Silicon Technology (MST
+®
+) which enhances transistors to deliver significantly better performance in today’s electronics. That means your mobile phone will have longer battery life, IOT devices can be made smaller, and web servers will become even more powerful.
+Mobile Market
+Infrastructure
+Internet of Things
+Atomera Technology Benefits
+Performance
+Power
+Reliability
+Die Cost
+Variabilty
+What are you designing today?
+Analog
+DRAM
+FinFET Technology
+Logic and Processors
+SRAM
+News
+Atomera Licenses MST to STMicroelectronics
+October 2, 2018 
+Atomera Licenses MST Technology to Asahi Kasei Microdevices (AKM)
+September 25, 2018 
+Atomera Announces Significant Improvements in High-K/Metal Gate Transistors
+July 23, 2018 
+More News
+Articles
+The Good, the Bad, and the Weird: 3 Directions for Moore’s Law
+Atomera Plans to Breathe New Life into Older Chip Manufacturing
+Atomera: A Little Known Solution For The Waning Of Moore's Law
+Atomera Improves Charge Traffic
+Thin films could boost semiconductor performance
+Interested in licensing our electron mobility technology?
+Contact us
+Atomera Headquarters
+750 University Avenue, Suite 280
+Los Gatos, CA 95032
+General Contact
+(408) 442-5248
+info@atomera.com
+Copyright © 2018 Atomera

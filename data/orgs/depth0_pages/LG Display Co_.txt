@@ -3,7 +3,6 @@ Company
 Company Overview
 Vision
 CEO Message
-Management
 Business Domain
 Global Network
 South Korea
@@ -84,13 +83,13 @@ Conflict Minerals
 Overview
 Conflict Minerals Policy
 Conflict Minerals Status 
+Green Bond Framework
 Company
 Check out LG Display’s various business fields.
 							
 Company Overview
 Vision
 CEO Message
-Management
 Business Domain
 Global Network
 South Korea
@@ -185,6 +184,7 @@ Conflict Minerals
 Overview
 Conflict Minerals Policy
 Conflict Minerals Status
+Green Bond Framework
 ENG
 KOR
 CHN

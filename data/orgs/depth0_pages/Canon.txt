@@ -157,7 +157,6 @@ CAMERAS AND CAMCORDERS
     
 EOS Cameras
 PowerShot Digital Cameras
-Connect Station
 Wireless File Transmitters & Adapters
 Microphones
 GPS Receivers
@@ -268,6 +267,9 @@ Promotions Home
 
   LEARN
 
+LEARN HOME
+LEARN IN PERSON
+LEARN ONLINE
 LEARN IN PERSON
 
     ×
@@ -283,6 +285,7 @@ LEARN ONLINE
     
 Education & Inspiration
 Canon Online Learning Photography Classes
+Interactive Simulators
 
   SUPPORT
 
@@ -419,6 +422,10 @@ Javascript is disabled in this browser. This page requires Javascript. Modify yo
 Z7_MQH8HIC0LOCL20AHH7S1T1IIJ5
 Web Content Viewer
 Actions
+aFeoOverrideAttrRead('link', 'href')
+aFeoOverrideAttrRead('img', 'src')
+aFeoOverrideAttrRead('img', 'src')
+aFeoOverrideAttrRead('img', 'src')
 Dawn of a New Day
 See more images from Jimmy Chin as he scales the top of the mountains
 SEE STORY
@@ -427,18 +434,26 @@ SEE STORY
 							
 See more images from Jimmy Chin as he scales the top of the mountains
 SEE STORY
+aFeoOverrideAttrRead('img', 'src')
 Support
 Get Product Support
 Learn More
+aFeoOverrideAttrRead('img', 'src')
 Learn
 Enhance Your Skills & Be Inspired
 Get Started
+aFeoOverrideAttrRead('img', 'src')
 Shop
 Purchase Canon Gear & Merchandise
 Shop Now
 Z7_MQH8HIC0LO90F0Q4POR580IUN2
 Web Content Viewer
 Actions
+aFeoOverrideAttrRead('img', 'src')
+aFeoOverrideAttrRead('img', 'src')
+aFeoOverrideAttrRead('img', 'src')
+aFeoOverrideAttrRead('img', 'src')
+aFeoOverrideAttrRead('img', 'src')
 Z7_MQH8HIC0LGAM00ARR0TUAL3F21
 Canon U.S.A., Inc.
 Actions
@@ -468,6 +483,9 @@ VPAT Search
 Safety Data Sheets (SDS) Search 
 To Our Customers
 Social
+aFeoOverrideAttrRead('img', 'src')
+aFeoOverrideAttrRead('img', 'src')
+aFeoOverrideAttrRead('link', 'href')
 Complementary Content
 ${title}
 ${badge}

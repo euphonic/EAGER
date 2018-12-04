@@ -5,7 +5,6 @@ Documentation
 Solutions
 Smart Cities
 Enterprise
-Agriculture
 Use Cases
 Media
 Articles

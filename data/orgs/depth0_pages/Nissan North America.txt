@@ -1,3 +1,5 @@
+window['adrum-start-time'] = new Date().getTime();
+Corporate Information About Nissan | Nissan USA
 
             Skip to main content
         
@@ -292,52 +294,6 @@ Phone: (248) 488-4123
 
 Fax: (248) 488-3901
 Biographies
- Carlos Ghosn
-
-Chairman of the Board,
-
-Nissan Motor Co., Ltd.
-Carlos Ghosn is Chairman of the Board of Nissan Motor Co., Ltd. He joined Nissan as Chief Operating Officer in June 1999 and served as CEO from June 2001 until April 2017 when he was succeeded by Hiroto Saikawa.
-Mr. Ghosn was the lead architect of the Nissan Revival Plan, which transformed the company from near-bankruptcy to profitability within two years. Under Mr. Ghosn's leadership, Nissan has had higher profit margins than many rivals and has expanded geographically - particularly to China, which is now one of Nissan's key markets by volume.
-In addition to his responsibilities at Nissan, Mr. Ghosn was named CEO of Groupe Renault in May 2005, becoming the first person to run two global Fortune 500 companies simultaneously. In 2009, he added the title of chairman of the board. And in December 2016, he was named Chairman of the Board of Japan’s Mitsubishi Motors Corp.
-He is also Chairman and CEO of the Renault-Nissan Alliance, one of the world’s largest automotive groups. Renault, Nissan, Mitsubishi Motors and AVTOVAZ together sold 9.96 million vehicles in 2016 – more than one in nine cars worldwide.
-From June 2013 to June 2016, Mr. Ghosn served as Chairman of AVTOVAZ, Russia's largest automaker and owner of the LADA brand.
-Prior to joining Nissan, Mr. Ghosn served as Executive Vice President of the Renault Group, a position he had held since December 1996. In addition to supervising Renault activities in the Mercosur, he was responsible for advanced research, vehicle engineering and development, manufacturing, powertrain operations and purchasing.
-Before he joined Renault, Mr. Ghosn was Chairman and Chief Executive Officer of Michelin North America, where he managed Michelin's acquisition of the Uniroyal Goodrich Tire Company in 1990.
-Prior to that, Mr. Ghosn was the Chief Operating Officer of Michelin South America based in Brazil; head of research and development for industrial tires in Ladoux, France; and a plant manager in Le Puy, France.
-Mr. Ghosn serves on the International Advisory Council of Tsinghua University in Beijing and the Strategic Council of Saint Joseph University in Beirut.
-Mr. Ghosn was born in Brazil in 1954. He graduated with engineering degrees from Ecole Polytechnique in 1974 and from Ecole des Mines de Paris in 1978. He speaks fluent Portuguese, Arabic, English and French.
-Career History
-2017
-Chairman of the Board, Nissan
-2016
-Chairman of the Board, Mitsubishi Motors
-2009
-Chairman of the Board of Directors, President and Chief Executive Officer, Renault
-2008
-Chairman of the Board of Directors, President and Chief Executive officer, Nissan
-2005
-President and Chief Executive Officer, Renault
-2003
-Co-Chairman of the Board of Directors, President and Chief Executive Officer, Nissan
-2001
-President and Chief Executive Officer, Nissan
-2000
-President and Chief Operating Officer, Nissan
-1999
-Chief Operating Officer, Nissan
-1996
-Executive Vice President, Renault. Responsible for advanced research, car engineering and development, car manufacturing, powertrain operations, purchasing and supervision of Renault activities in Mercosur.
-1990
-Chairman and Chief Executive Officer, Michelin North America.
-
-Presided over the restructuring of the company after its acquisition of the Uniroyal Goodrich Tire Company.
-1985
-Chief Operating Officer, South American operations, Michelin, Brazil
-1984
-Head of R&D for industrial tires, Michelin, France
-1981
-Plant manager, Le Puy Plant, Michelin, France
  Hiroto Saikawa
 CEO and Representative Director
 

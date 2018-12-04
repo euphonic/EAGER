@@ -3,6 +3,10 @@ The Team
 Menu
 Wakē V2
 The Team
+Kickstarter
+In order to bring Wakē v2 to the world, we need to acquire some expensive injection mold tooling and buy large batches of parts at affordable prices, which is why we are currently running a Kickstarter! 
+Click the banner above to checkout our Kickstarter—we’d love your support. 
+And join us in revolutionizing the way we wake up!
 Wakē looks (and works) like a small reading light positioned above your headboard. 
 In the morning, Wakē quietly rotates to find where you are in bed by sensing your body heat without compromising privacy.
 Then, Wakē’s directional LED and a special ("parametric") speaker focus light and sound on just you in bed. As the light beam grows gradually brighter, the speaker’s melodies start softly and then grow slowly louder, much like a sunrise accompanied by comforting background music.
@@ -13,10 +17,7 @@ Mood Lights
 Wait, there's more! An omni-directional Mood Speaker enables Wakē's 
 Mood Beats
  feature. Use the Wakē app to program any number of "everywhere sounds" like white noise, nature effects, and other calming tracks. You can program these sounds to mask background noise and help ease your transition to sleep.    
-Kickstarter
-In order to bring Wakē v2 to the world, we need to acquire some expensive injection mold tooling and buy large batches of parts at affordable prices, which is why we are launching on Kickstarter tomorrow, November 12th. 
-Please checkout our page—we’d love your support: https://www.kickstarter.com/wakev2
-and join us in revolutionizing the way we wake up!
+Press Kit
 Join Our Mailing List!
 Sign up with your email address to receive news and updates.
 First Name
@@ -26,5 +27,6 @@ Sign Up
 We respect your privacy.
 Thank you!
 Back to Top
-email: website@luceralabs.com
+email: 
+contact@luceralabs.com
 Squarespace.afterBodyLoad(Y);

@@ -30,7 +30,7 @@ IMOD
 WCIS BOA
 Netcents-2
 Products & Services
-Integrated Spectrum Management
+Intelligent Spectrum Management
 Spectrum Interference Detection & Mitigation
 Technical Surveillance Countermeasures
 Cyber
@@ -97,11 +97,11 @@ Vulnerability Analysis & Reverse Engineering
 It’s easy to claim software analysis expertise, but our proven experience in reverse engineering and vulnerability research addresses the entire cybersecurity spectrum, from distributed denial of service attacks, to fuzzing, security scanning, attack surface analysis, and fault-tree analysis. Interested in what over 20 years in cyber can do for your organization?
 LEARN MORE
 Recent News
-LGS supports major tech refresh at SOUTHCOM Strategic Command Center
-One of nine U.S. unified combat commands, the U.S. Southern Command (SOUTHCOM)  in Florida provides planning, operations, and security cooperation for U.S....
+LGS Innovations and SCALABLE Network Technologies release high fidelity modeling and simulation capability
+LGS 4G LTE LiveRANTM simulator, powered by SCALABLE Network Technologies, delivers a unique high fidelity modeling and simulation solution for commercial mobile...
 Learn More »
-Why is the U.S. government concerned about the spectrum crunch?
-Government agencies that once enjoyed seemingly limitless (and free) spectrum access must now learn to share bandwidth with industry and consumers, and...
+LGS selected by U.S. Navy & U.S. Special Operations Command to provide engineering services for unmanned aerial vehicles
+Herndon, VA – November 20, 2018 – LGS Innovations (LGS), a technology company providing specialized mission-critical communication research and solutions, recently announced...
 Learn More »
 spotlight on...
 WE'RE HIRING! LGS Innovations Florham Park, NJ

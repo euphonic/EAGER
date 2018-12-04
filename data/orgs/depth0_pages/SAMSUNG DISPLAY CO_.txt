@@ -63,7 +63,10 @@ Super Ultra-wide Gaming Monitor
 Solutions
 Software Solutions
 Signage Solution
-MagicINFO
+MagicINFO 
+U
+Remote Management 
+N
 MagicIWB
 HD Solution
 LYNK REACH
@@ -73,21 +76,23 @@ SSSP
 Monitor Solution
 Easy Setting Box
 Industry Solutions
-Retail 
-U
-QSR 
-U
-Airport 
-U
-Corporate 
-U
+Retail
+QSR
+Airport
+Corporate
 Huddle Room
 Cisco Video Conference
+Education 
+U
 Entertainment
 Hospitality
 Transportation
-Education
 Featured
+MagicINFO
+MagicINFO
+Manage entire content 
+and devices with a single, 
+yet consoliated solution
 QSR
 QSR Digital 
 Signage
@@ -168,6 +173,9 @@ insights on display solutions?
 DOWNLOAD APP - FROM GOOGLE PLAY
 DOWNLOAD APP - FROM APP STORE
 Close
+MagicINFO 6
+Manage entire content and devices with a single, yet consolidated solution
+LEARN MORE
 LED for home
 Fostering a unique, life-size viewing experience with impeccable quality,
 Samsung LED display brings inspiration home.
@@ -181,10 +189,6 @@ LEARN MORE
 Let’s Flip!
 Flip the Future of Collaboration
 LEARN MORE
-Wider view. 
-Winning play.
-Super Ultra-wide Gaming Monitor
-LEARN MORE
 Products suited for your business
 Weekly Best
 Weekly Best
@@ -194,23 +198,23 @@ Top Picks For Me
 1
 QM85F
 2
-PM49H
-3
-Flip (WM55H)
-4
 QM65H
+3
+UD55E-B
+4
+QM98F
 1
-Flip (WM55H)
+PM43H
 2
 PM55H
 3
 QM85F
 4
 QM65H
-IF040H-DL
-IF060H-DL
-UH46N-E
-UM46N-E
+OM46N
+OM55N
+OM46N-D
+OM55N-D
 Select categories of interest
 Please select the categories you are interested in and we will make suggestions for a better product.
 Check
@@ -240,32 +244,45 @@ Samsung to showcase The Wall during Monaco Yacht Show
 								The Wall gives owners the opportunity to reinvent spaces. Its ability to scale to virtually any size, and display content with such remarkable clarity, gives owners and their design teams an amazing new tool to create immersive and engaging spaces.
 Learn More
 Get useful resources
-Weekly Best
-Weekly Best
+Newest
+Newest
+What's Hot
 Most Downloaded
 Datasheet
-Samsung SMART Signage QBH Series
-Deliver impactful UHD content through an all-inclusive, easy-to-manage display
+Samsung Semi-outdoor signage OMN, OMN-D datasheet
+Promote content with exceptional clarity in any storefront window
 Download
 E-Catalog
-2018 Samsung Retail Display Solution Catalog
-Reinventing the shopping experience through state-of-the-art technology
+2018 Samsung Video wall display catalog
+Draw consumers in with an immersive viewing experience
 Download
-Manual
-[PMH] User Manual - English
-English Ver.
+Solution Brief
+Samsung MagicINFO 6
+Manage entire content and devices with a single, yet consolidated solution
+Download
+Solution Brief
+Samsung MagicINFO 6
+Manage entire content and devices with a single, yet consolidated solution
 Download
 E-Catalog
-2018 Samsung Retail Display Solution Catalog
-Reinventing the shopping experience through state-of-the-art technology
+2018 Samsung Video wall display catalog
+Draw consumers in with an immersive viewing experience
+Download
+Datasheet
+Samsung QMF Series SMART Signage
+Deliver your business messaging 24 / 7 in Ultra-High-Definition(UHD) resolution with ultimate picture quality designed for a commercial environment
+Download
+Solution Brief
+Samsung MagicINFO 6
+Manage entire content and devices with a single, yet consolidated solution
 Download
 E-Catalog
-2018 Samsung Corporate Display
-Empower efficient productivity and collaboration through state-of-the-art displays
+2018 Samsung Airport Display Solutions
+Providing information to passengers through state-of-the art technology
 Download
 Brochure
-Samsung Flip : Flip the Future of Collaboration
-Envision how the Samsung Flip can help you and your team work smarter, faster and better
+Flip How to brochure
+Reinventing the shopping experience through state-of-the-art technology
 Download
 Indusry Solutions
 QSR digital signage
@@ -317,6 +334,7 @@ Notice
 Software Solutions
 Signage Solution
 MagicINFO
+Remote Management
 MagicIWB
 HD Solution
 LYNK REACH
@@ -332,10 +350,10 @@ Airport
 Corporate
 Huddle Room
 Cisco Video Conference
+Education
 Entertainment
 Hospitality
 Transportation
-Education
 Support
 Resources
 Resource Center

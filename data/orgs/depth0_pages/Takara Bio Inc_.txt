@@ -192,11 +192,11 @@ Region - North America
 
         Next-generation sequencing
 
-        DNA sequencing
+        Single-cell RNA- and DNA-seq
 
         RNA-seq
 
-        Single-cell RNA-seq
+        DNA-seq
 
         Immune profiling
 
@@ -358,6 +358,8 @@ An account with takarabio.com entitles you to extra features such as:
 
         Technical notes
 
+        FAQs
+
         Stem cell research
 
         Application protocols
@@ -371,6 +373,8 @@ An account with takarabio.com entitles you to extra features such as:
         Citations
 
         Nucleic acid purification
+
+        Product finder
 
         Plasmid purification
 
@@ -430,7 +434,7 @@ An account with takarabio.com entitles you to extra features such as:
 
         Protein research 
 
-        Capturem membrane technology
+        Capturem rapid purification technology
 
         Mass spectrometry digestion reagents
 
@@ -557,9 +561,15 @@ Learn about pioneering efforts to map the mammalian brain using single-cell tran
 
         HLA typing in cancer
 
-        Cancer immunotherapy
-
         Gene editing for cancer therapy/drug discovery
+
+        Immunotherapy research
+
+        T-cell therapy
+
+        Antibody therapeutics
+
+        T-cell receptor profiling
 A new method for SMARTer library preparation from challenging RNA samples
 In this webinar, Dr. Nathalie Bolduc (Takara Bio USA, Inc.) presents data from the SMARTer Stranded Total RNA-Seq Kit v2 - Pico Input Mammalian, which generates Illumina-ready sequencing libraries from 250 pg–10 ng mammalian total RNA inputs of any quality, including FFPE samples.
 
@@ -580,6 +590,8 @@ Our start-to-finish editing and single-cell cloning kits make human iPS cell edi
         Services & Support
 
         Areas of interest
+
+        Feedback
 
         About
  Customer Login
@@ -624,17 +636,17 @@ FOR RESEARCH USE ONLY. NOT FOR USE IN DIAGNOSTIC PROCEDURES (EXCEPT AS SPECIFICA
 
         Next-generation sequencing
 
-        DNA sequencing
+        Single-cell RNA- and DNA-seq
 
         RNA-seq
 
-        Single-cell RNA-seq
+        DNA-seq
 
         Immune profiling
 
-        Sequencing accessories
-
         Epigenetics and small RNA sequencing
+
+        Sequencing accessories
 
         Gene function
 
@@ -830,8 +842,6 @@ FOR RESEARCH USE ONLY. NOT FOR USE IN DIAGNOSTIC PROCEDURES (EXCEPT AS SPECIFICA
 
         Nucleic acid purification
 
-        Product finder
-
         Antibodies and ELISA
 
         Cell biology assays
@@ -904,7 +914,7 @@ FOR RESEARCH USE ONLY. NOT FOR USE IN DIAGNOSTIC PROCEDURES (EXCEPT AS SPECIFICA
 
         Protein research 
 
-        Capturem membrane technology
+        Capturem rapid purification technology
 
         Mass spectrometry digestion reagents
 
@@ -964,6 +974,8 @@ FOR RESEARCH USE ONLY. NOT FOR USE IN DIAGNOSTIC PROCEDURES (EXCEPT AS SPECIFICA
 
         Nucleic acid purification
 
+        Product finder
+
         Plasmid purification
 
         Genomic DNA purification
@@ -1017,6 +1029,8 @@ FOR RESEARCH USE ONLY. NOT FOR USE IN DIAGNOSTIC PROCEDURES (EXCEPT AS SPECIFICA
         Overview
 
         Technical notes
+
+        FAQs
 
         cDNA synthesis
 
@@ -1094,6 +1108,8 @@ FOR RESEARCH USE ONLY. NOT FOR USE IN DIAGNOSTIC PROCEDURES (EXCEPT AS SPECIFICA
 
         Cancer research
 
+        Immunotherapy research
+
         Cancer research
 
         Cancer biomarker discovery
@@ -1104,9 +1120,15 @@ FOR RESEARCH USE ONLY. NOT FOR USE IN DIAGNOSTIC PROCEDURES (EXCEPT AS SPECIFICA
 
         HLA typing in cancer
 
-        Cancer immunotherapy
-
         Gene editing for cancer therapy/drug discovery
+
+        Immunotherapy research
+
+        T-cell therapy
+
+        Antibody therapeutics
+
+        T-cell receptor profiling
 
         About
 
@@ -1117,8 +1139,6 @@ FOR RESEARCH USE ONLY. NOT FOR USE IN DIAGNOSTIC PROCEDURES (EXCEPT AS SPECIFICA
         Quality and compliance
 
         Need help?
-
-        Feedback
 
         Our brands
 
@@ -1168,15 +1188,13 @@ FOR RESEARCH USE ONLY. NOT FOR USE IN DIAGNOSTIC PROCEDURES (EXCEPT AS SPECIFICA
 
         End of the Year Promo (DKK)
 
-        End of the Year Promo (EU) 
+        End of the Year Promo (EU)
 
         End of the Year Promo (SEK)
 
         End of the Year Promo (CHF)
 
         End of the Year Promo (GB)
-
-        Test3
 
         Events
 

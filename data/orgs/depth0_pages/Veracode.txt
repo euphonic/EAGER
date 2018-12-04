@@ -29,7 +29,7 @@ Application Security Consulting
 Technical Support
 Manual Penetration Testing
 Developer Training
-Program Management
+Security Program Management
 Third-Party Security
 Veracode Services Packages
 Veracode Verified
@@ -50,13 +50,12 @@ Resource Center
 Intro to AppSec
 Managing AppSec
 Secure Development
+Regulation
 Getting Internal Buy In
 Third Party Software
 Product Documentation
-Veracode Community
 Explore More
 Get a Demo
-Platform Trial
 Common Vulnerabilities
 State Of Software Security
 Veracode Integrations
@@ -74,6 +73,10 @@ Partner Community Login
 Connect With Us
 Contact Us
 Blog
+Facebook
+Twitter
+LinkedIn
+YouTube
 GET A DEMO
 GET A DEMO
 Blog
@@ -169,7 +172,7 @@ cookies policy
 .
 OK
 Products
-Veracode Greenlight
+Greenlight
 Static Analysis (SAST)
 Software Composition Analysis (SCA)
 Dynamic Analysis (DAST)
@@ -181,7 +184,6 @@ Application Security Consulting
 Technical Support
 Penetration Testing
 Developer Training
-Security Program Management
 Third-Party Security 
 Veracode Services Packages
 Solutions
@@ -198,10 +200,10 @@ AppSec Knowledge Base
 Intro to AppSec
 Managing AppSec
 Secure Development
+Regulation
 Getting Internal Buy In
 Third Party Software
 Product Documentation
-Veracode Community
 About
 Work For Us
 Careers

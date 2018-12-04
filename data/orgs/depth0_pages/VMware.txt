@@ -15,22 +15,22 @@ US
 
                                Store
 1-877-486-9273
-Watch VMworld on Demand
-Catch up with video replays of the VMworld 2018 Europe general sessions.
-See What You Missed
+VMware vSphere Platinum – The Heart of a Secure SDDC
+Discover the newest edition of vSphere and learn how it delivers built-in security for complete data center protection.
+See What's New
 What's New at VMworld Europe 2018
 Explore the latest in cloud, data center, networking and security, and digital workspace.
 See What's New
-NSX SD-WAN by VeloCloud Leading the Industry
-VMware is named a Leader in the 2018 Gartner Magic Quadrant on WAN Edge Infrastructure.
- Read the Report
+Setting the Pace for Innovation in Hyperconverged Infrastructure
+Learn why VMware is once again positioned as a Leader in the new 2018 Gartner Magic Quadrant for Hyperconverged Infrastructure.
+Download the Report
 News and Highlights
 New SaaS Cloud Automation Services
 Deliver infrastructure and apps, broker cloud services, and enable release pipelines - all for multiple clouds.
 Learn More 
-New Hands-on Labs Available Now
-Discover the most popular labs from VMworld 2018 and try them now for free.
-See What's New 
+Connect with Us at AWS re:Invent 2018
+With over 60 sessions, 4 booths, and 14 demo stations, it’s easy to find VMware at re:Invent.
+Get the Guide 
 VMware Leads in Hyperconverged Infrastructure
 VMware is #1 in HCI strategy and is named a Leader in the Forrester Wave.
 Get the Report 

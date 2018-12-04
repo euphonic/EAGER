@@ -206,6 +206,8 @@ South Korea
 한국어
 .wpToolbarWrapper	{	display: none;	}
 document.title = "Home Page";
+HIV Combo now available for VITROS® 5600 Integrated System
+Learn more 
 powered by DIGITAL CHEMISTRY™
 Explore the power of digital 
 Ortho Named Trailblazer 2018 Company of the Year by PM360
@@ -216,6 +218,8 @@ Reimagining Lab Support
 Ortho Care Support 
 Reimagining Your Lab
 Clinical Laboratories 
+HIV Combo now available for VITROS® 5600 Integrated System 
+Learn more 
 powered by DIGITAL CHEMISTRY™ 
 Explore the power of digital 
 Ortho Named Trailblazer 2018 Company of the Year by PM360 
@@ -243,6 +247,10 @@ Learn more 
 $(".greyBG").matchHeight();
 
 News & Events
+FDA Approves Expanded Use for Ortho Clinical Diagnostics VITROS
+®
+ HIV Combo Test
+Nov 28, 2018
 FDA Approves Ortho Clinical Diagnostics VITROS
 ®
  Immunodiagnostic  Products HIV Combo Reagent Pack and Calibrator for Use on the  VITROS
@@ -253,8 +261,6 @@ FDA Clears VITROS
 ®
  XT 7600 Integrated System from Ortho Clinical Diagnostics, Bringing Innovative New Approach to Clinical Lab Management
 Nov 1, 2018
-‘Assessing Value Driven by the Clinical Lab’: Ortho’s Jay Snyder featured in Becker’s Hospital Review
-Oct 24, 2018
 See all news and events 
 Pocket Blood Banker™
 An educational reference tool that combines 2 handy tools—the Rh Genotype Calculator and the Antibody Index—into one. Download the Pocket Blood Banker™ app for:

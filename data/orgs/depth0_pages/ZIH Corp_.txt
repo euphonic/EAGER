@@ -284,7 +284,7 @@ See How Our Customers Gain a Performance Edge
 Learn how Zebra solutions help those on the front lines of business. Read their success stories.
 RFID
 RFID
-RFID Handheld
+Handheld RFID Readers & Scanners
 Fixed RFID Tag Readers
 RFID Reader Antennas
 RFID Labels and Tags
@@ -528,7 +528,7 @@ Service and Support
 Help maximize device availability and business operations with Zebra OneCare Support Services.
 RFID
 RFID
-RFID Handheld
+Handheld RFID Readers & Scanners
 Fixed RFID Tag Readers
 RFID Reader Antennas
 RFID Labels and Tags
@@ -801,19 +801,19 @@ Xplore is a part of Zebra Technologies.
 Offering a complete line of rugged tablets is the newest way Zebra delivers a performance edge to the front line of business.
 Visit Xplore
 Learn More
-TC72 and TC77 Touch Computers
+TC52 and TC57 Touch Computers
 
-            Zebra's ultra-rugged TC72 WLAN and TC77 WWAN Touch Computers takes service to the next level providing the ultimate user experience inside the four walls and outdoors.
-        
+            Zebra's TC52 WLAN and TC57 WWAN Touch Computers are the ultimate in enterprise-class touch computing within the four walls and outside of your business.
+Join Us at NRF 2019
+Explore the solutions and products we’ll be showcasing at Retail’s Big Show.
+Zebra Scanners Put Performance in Your Hands
+
+            Fast. Reliable. Durable. Whether you’re scanning at a point of sale, patient’s bedside, production line or warehouse we have a scanner purposefully built to make workers more effective. 
 Zebra Motionworks™ Location Solutions: RTLS Systems
 Get a competitive edge with location solutions  that will automatically sense the location of your assets and inventory, help improve the safety of your people and streamline your production line.
 Patient Safety is Crucial For Any Hospital
 
             Not all wristbands are created equal. Discover why the country’s top hospitals use Zebra wristbands.
-JOIN US AT NRF 2019
-Explore the solutions and products we’ll be showcasing at Retail’s Big Show.
-Give Your Enterprise a Definitive Edge
-Zebra Technologies has been positioned as a Visionary in Gartner’s Magic Quadrant for Indoor Location Services, Worldwide (Jan 2018).
 Voluntary Recall Notice Regarding Power Supplies for Certain Zebra Printers
 See Details
 Connect with our team

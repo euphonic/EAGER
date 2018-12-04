@@ -32,6 +32,9 @@ Resource Center
 Product Selection Tool
 Downloads
 Contact Us
+RSS Transmitter
+rapid shutdown solution with TS4-F (Fire Safety)
+Learn more
 Mesh
 communication architecture
 for the TS4 Platform
@@ -53,6 +56,8 @@ the highest granularity
 & visibility in the market
 Download 3.0
 Latest News:
+Tigo Releases New Rapid Shutdown Transmitter for Integrated NEC 2017 Compliance
+Latest News:
 Tigo Releases State-of-the-art Wireless Technology – Mesh –  as the New Solar Communication Architecture for the TS4 Platform - July 18, 2018
 Latest News:
 Tigo Introduces New Tigo Access Point (TAP) as UL-Certified Communication Device for TS4 Platform - July 11, 2018
@@ -60,8 +65,6 @@ Latest News:
 Tigo Awarded Patent for Flex MLPE Platform - June 19, 2018
 Latest News:
 Tigo Welcomes Babu Jain as Chief Operating Officer - June 11, 2018
-Latest News:
-Tigo Releases New TS4 Rapid Shutdown Solution with Powerline Communication - January 8, 2018
 Monitoring Demo
 View existing installations for free.
 Learn more

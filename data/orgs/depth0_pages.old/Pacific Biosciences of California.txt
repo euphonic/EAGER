@@ -1,0 +1,117 @@
++
+X
+Quality Statement
+Pacific Biosciences is committed to providing high-quality products that meet customer expectations and comply with regulations. We will achieve these goals by adhering to and maintaining an effective quality-management system designed to ensure product quality, performance, and safety.
+X
+Image Use Agreement
+By downloading, copying, or making any use of the images located on this website (“Site”) you acknowledge that you have read and understand, and agree to, the terms of this Image Usage Agreement, as well as the terms provided on the Legal Notices webpage, which together govern your use of the images as provided below. If you do not agree to such terms, do not download, copy or use the images in any way, unless you have written permission signed by an authorized Pacific Biosciences representative.
+Subject to the terms of this Agreement and the terms provided on the Legal Notices  webpage (to the extent they do not conflict with the terms of this Agreement), you may use the images on the Site solely for (a) editorial use by press and/or industry analysts, (b) in connection with a normal, peer-reviewed, scientific publication, book or presentation, or the like. You may not alter or modify any image, in whole or in part, for any reason. You may not use any image in a manner that misrepresents the associated Pacific Biosciences product, service or technology or any associated characteristics, data, or properties thereof. You also may not use any image in a manner that denotes some representation or warranty (express, implied or statutory) from Pacific Biosciences of the product, service or technology. The rights granted by this Agreement are personal to you and are not transferable by you to another party.
+You, and not Pacific Biosciences, are responsible for your use of the images. You acknowledge and agree that any misuse of the images or breach of this Agreement will cause Pacific Biosciences irreparable harm. Pacific Biosciences is either an owner or licensee of the image, and not an agent for the owner. You agree to give Pacific Biosciences a credit line as follows: "Courtesy of Pacific Biosciences of California, Inc., Menlo Park, CA, USA" and also include any other credits or acknowledgments noted by Pacific Biosciences. You must include any copyright notice originally included with the images on all copies.
+IMAGES ARE PROVIDED BY Pacific Biosciences ON AN "AS-IS" BASIS. Pacific Biosciences DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, NON-INFRINGEMENT, OWNERSHIP, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL Pacific Biosciences BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER WITH RESPECT TO THE IMAGES.
+You agree that Pacific Biosciences may terminate your access to and use of the images located on the PacificBiosciences.com website at any time and without prior notice, if it considers you to have violated any of the terms of this Image Use Agreement. You agree to indemnify, defend and hold harmless Pacific Biosciences, its officers, directors, employees, agents, licensors, suppliers and any third party information providers to the Site from and against all losses, expenses, damages and costs, including reasonable attorneys' fees, resulting from any violation by you of the terms of this Image Use Agreement or Pacific Biosciences' termination of your access to or use of the Site. Termination will not affect Pacific Biosciences' rights or your obligations which accrued before the termination.
+I have read and understand, and agree to, the Image Usage Agreement.
+I disagree and would like to return to the Pacific Biosciences home page.
+Pacific Biosciences
+Products + Services
+With innovations in sequencing and data analysis tools, PacBio offers the most advanced suite of products and services available.
+PacBio Sequel System
+Consumables
+Analytical Software
+SMRT Compatible Products
+Certified Service Providers
+Research Focus
+PacBio’s Single Molecule, Real-Time (SMRT) Sequencing offers the most comprehensive view of genomes for a wide range of research areas.
+Human Biomedical Research
+Plant and Animal Sciences
+Microbiology and Infectious Disease
+Applications
+PacBio technologies are ideal for a number of sequencing applications, including whole genome sequencing, targeted sequencing, RNA sequencing, and more.
+Whole Genome Sequencing
+Targeted Sequencing
+Complex Populations
+RNA Sequencing
+Epigenetics
+SMRT Science
+Single Molecule, Real-Time (SMRT) Sequencing technology delivers the highest consensus accuracy with unprecedented read lengths.
+SMRT Sequencing
+SMRT Resources
+SMRT Grants
+Support
+PacBio provides comprehensive support for sequencing projects through training materials, documentation, and software downloads.
+Technical Support
+Training
+Documentation
+Software Downloads
+Company
+Discover more about PacBio, the development of our Single Molecule, Real-Time (SMRT) Sequencing technology, and how we are helping scientists advance the field of genomics.
+About Us
+Leadership
+News + Events
+Investors
+Careers
+Contact:
+Pricing
+Questions
+ Back To Top
+Sequence with Confidence.
+Pacific Biosciences long-read sequencing provides the most comprehensive view of genomes, transcriptomes, and epigenomes.
+Long Reads with High Accuracy
+Accelerate your science with the Sequel System powered by Single Molecule, Real-Time (SMRT) Sequencing technology.
+Get Started
+Discover the Benefits for Your Research Focus
+Human Biomedical
+Research
+Resolve hidden heritability and improve your understanding of genetic disease
+Plant & Animal
+Sciences
+Accelerate basic research, agricultural improvements, and industrial biotechnology
+Microbiology &
+Infectious Disease
+Improve global health, protect agriculture and livestock, and fuel discovery research
+Explore the Range of Applications
+Apply the versatility of SMRT Sequencing to reveal new insights
+Whole Genome Sequencing
+Structural Variation
+RNA
+Sequencing
+Targeted Sequencing
+Complex Populations
+Epigenetics
+See What's New
+Press Release
+Illumina to Acquire Pacific Biosciences for Approximately $1.2 Billion, Broadening Access to Long-Read Sequencing...
+Product Release
+Announcing Sequel System 6.0 Release – Delivering highly accurate, long reads
+Blog
+SMRT Grant Winner: Preventing Infection for Premmies
+Publication
+Nature Biotechnology: 
+De novo
+ Assembly of Haplotype-resolved Genomes with Trio Binning
+Blog
+Genetic Code of All Plants, Animals, Protozoa, and Fungi to be Sequenced with Help of PacBio
+SMRT Grant
+Win SMRT Sequencing to Explore Structural Variation in the Human Genome. Apply Now!
+Blog
+Sequel System 6.0 Release Offers a New Paradigm in DNA Sequencing: Highly Accurate Single-Molecule Long Reads
+In the News
+New Map of Cancer Cell’s Genome Shows 1000s of Previously Missed Variations
+Blog
+Data Release: Highest-Quality, Most Contiguous Individual Human Genome Assembly to Date
+Publications
+PacBio Blog
+News & Events
+Connect with Us
+Contact PacBio
+Find a Service Provider
+Locate a Distributor
+Receive Updates
+Get the latest in SMRT Sequencing news
+Customer Login
+Investors
+Media Resources
+Careers
+Privacy Policy
+Legal & Trademarks
+© 2015-2018, Pacific Biosciences of California, Inc. All rights reserved. For Research Use Only. Not for use in diagnostic procedures.
+var FWP_HTTP = FWP_HTTP || {}; FWP_HTTP.lang = 'en';

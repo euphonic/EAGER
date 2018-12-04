@@ -1,7 +1,7 @@
 Warning
 :  session_start() [
 function.session-start
-]: open(/home/content/97/4659197/tmp/sess_54hm9bna04tdfigg29app2u4n6, O_RDWR) failed: No such file or directory (2) in 
+]: open(/home/content/97/4659197/tmp/sess_sbuugha0c2t2bmvigrm1dllic2, O_RDWR) failed: No such file or directory (2) in 
 /home/content/97/4659197/html/index.php
  on line 
 5
@@ -117,7 +117,7 @@ Magnolia Solar Inc.
 
 				(518) 514-1200 (FAX)
 Warning
-:  Unknown: open(/home/content/97/4659197/tmp/sess_54hm9bna04tdfigg29app2u4n6, O_RDWR) failed: No such file or directory (2) in 
+:  Unknown: open(/home/content/97/4659197/tmp/sess_sbuugha0c2t2bmvigrm1dllic2, O_RDWR) failed: No such file or directory (2) in 
 Unknown
  on line 
 0

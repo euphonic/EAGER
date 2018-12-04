@@ -71,7 +71,7 @@ get directions
 Know before you go.
 Find stations with car washes, promotions or whatever else you need. 
 Winner takes all.
-And by “all” we mean a cup of coffee.
+And by all, we mean a cup of coffee.
 .cls-1{fill:#161314;}
 icon_76_giftcard
 Join Us & Win. 

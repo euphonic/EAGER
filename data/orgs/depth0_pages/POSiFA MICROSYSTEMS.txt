@@ -1,0 +1,38 @@
+Sensors and Transducers
+Mass Air Flow Sensors
+PMF2000 (10 to 2000 sccm)
+PMFc3000 (AWM3000 compatible)
+PMF4000 (50 slm to 300 slm)
+Automotive MAF Modules
+PMA1000 (Custom)
+Pirani Vacuum Sensors
+PVC1000 (10-3 to 30 Torr)
+POSIFA Microsystems Inc
+1925 Zanker Road, 
+ San Jose, CA 95112
+ USA
+Tel:
+ 1-650-646-5788
+Email:
+info@posifamicrosystems.com
+European Distributor
+BS-rep GmbH
+Am Liesenfeld 23, D-41812 Erkelenz Germany
+Tel:
+ +49 (0) 2431 9482-17
+Email: 
+info@sensor-rep.de 
+POSIFA Microsystems Inc. specializes in providing high-performance and economical MEMS sensors to OEM customers worldwide. Utilizing innovative micro-system design and fabrication, Posifa’s MEMS Sensor Dies offer unprecedented levels of performance and robustness to both our off-the-shelf Sensors and Transducers, and our OEM customers’ proprietary systems. Whether your application calls for greater accuracy or sustainability to aggressive environmental challenges, Posifa’s products improve and harden your systems like nothing else.
+Posifa offers MEMS sensing solutions either as packaged and calibrated sensors and transducers, or as bare dies. You can choose the solution that best fits your needs.
+Posifa launched PMF2000 series of Mass Air Flow Sensors
+San Jose, CA May 31, 2012 – Posifa Microsystems, Inc., a leader in Advanced MEMS Sensor Development, today unveiled its new line of Low-flow Mass Air Flow Sensors. The PMF2000 family, which incorporates the latest MEMS and microelectronics innovations, eliminates the field failures associated with pressure shock, humidity and contamination that have for years plagued other manufacturers...
+  MEMS Sensor Dies
+Home
+  l  
+About Us
+  l  
+Contact Us
+  l  
+Order Samples
+  l  
+Get a Quote

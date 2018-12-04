@@ -230,18 +230,18 @@ Investors
 Everything
 <
 >
-Renesas and Mahindra Racing Collaborate To Boost Racing Performance 
- With expanded Formula E technology partnership, system-level EV design and power management expertise continues to be shared for Season 5
-About Mahindra Racing Formula E
-ISL784x4 Automotive-Grade MOSFET Drivers Enable High Current DC/DC Conversion 
- 100V half-bridge driver family is first to combine gate-sensed adaptive dead time control with independent source/sink pins for slew-rate control. 
-About ISL784x4
-RXv3 CPU Core Delivers Industry-Leading Performance at 5.8 CoreMark®/MHz 
- 32-bit RX MCUs address real-time performance and enhanced stability required by motor control and industrial applications
-About RXv3 CPU Core
-High-End 3D Graphics for Large-Scale Display Instrument Clusters 
- R-Car E3 System-On-Chip delivers enhanced 3D graphics rendering performance, as well as safety and security functions essential for connected cars
-About R-Car E3
+RX66T MCU Group Optimized for Motor-Control Applications with Embedded AI 
+ Based on third-generation RXv3 CPU core, new MCUs deliver dramatic performance boost for enhanced system integration and superior motor fault prediction
+About RX66T MCU Group
+Simplify Designs and Reduce BOM for Industrial IoT Sensor Applications 
+ New Renesas Synergy™ ultra-low power S1JA MCUs integrate best-in-class programmable analog and security functions
+About S1JA MCU Group
+RZ/N1S IO-Link Master Solution for Smart Factory Accelerates Sensor Network Gateway Design 
+ One-Chip Solution and Easy-to-Use Development Kit Simplify IO-Link-Based Applications for Industry 4.0
+About RZ/N1S IO-Link Master Solution
+Run Extreme Low-Power Apps from Harvested Ambient Energy – No Batteries Required 
+ Introducing SOTB™ Process Technology – Embedded controller operates on current levels not possible with conventional technology
+About SOTB Process Technology
 Solutions
 Find information about recommended products and solutions created by Renesas and our development partners to help you select the right devices for your design.
 Automotive
@@ -277,14 +277,11 @@ Saving Plant Maintenance Costs Through Reduced Sensor Power Consumption
 Download White Paper
 Smooth, Fast Startup of Sensorless BLDC Motor Using Sensorless Initial Position Detection
 Download White Paper
-Trade Show
-IoT Tech Expo North America 
-
- Santa Clara, CA
-Event Dates: November 28-29, 2018
-Booth #: 492
-Explore the latest innovations within the Internet of Things and its impact on industries such as Manufacturing, Energy, and Automotive.
-Register
+On-Demand Webinar
+	An Overview of the Groundbreaking Renesas Synergy™ Platform
+Original Date: November 1, 2018
+This webinar will show how the revolutionary Renesas Synergy Platform is breaking through the traditional barriers faced by developers.
+Watch Now
 On-Demand Webinar
 Getting Started with Real-Time Operating Systems
 Original Date: October 19, 2018

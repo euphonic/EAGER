@@ -47,10 +47,10 @@ Investor Relations
 Leadership Team
 Newsroom
 Connect
-Contact us
 Events
 Innovation Sites
 Locations
+Contact us
 Search form
 Search
 
@@ -62,22 +62,20 @@ With approximately 200,000 professionals across 30 countries, Flex
 designs,
  develops and delivers solutions to companies of all sizes and industries.
 Explore the possibilities
-Flex at Electronica
-Come
- see us at Electronica in Messe München, Munich, Germany
-Nov 13 – 16, 2018
-View event 
-Q2 FY19 Earnings
-We recently reported our second quarter fiscal 2019 results.
+Intelligence of Things
+®
+We help transform your distribution and logistics into an integrated real-time supply chain solution to improve visibility, velocity and sustainability.
 Learn more
+iENBL: The Ultimate Low Power, Wide Area Network, Rapid Development Platform
+A Development Kit for Rapid IoT Application Prototyping and Field Testing
+Download now 
 Our Unwavering Commitment to Sustainability
 We weave sustainability into our day-to-day operations by using renewable energy, reducing CO
 2
  emissions, decreasing water withdrawals, and volunteering hundreds of thousands of hours. 
 Learn more
-Intelligence of Things
-®
-We help transform your distribution and logistics into an integrated real-time supply chain solution to improve visibility, velocity and sustainability.
+Q2 FY19 Earnings
+We recently reported our second quarter fiscal 2019 results.
 Learn more
 We help companies transform ideas into intelligent solutions that ship worldwide.
 Learn more
@@ -197,14 +195,15 @@ Startups
 Emerging hardware startups and small product teams with big ideas partner with us to turn their concepts into products that are changing the world in virtually every industry. Leverage Flex broad, cross-industry expertise and depth of capabilities to bring your product to market.
 Learn more
 The Latest Stories
-Logistics Warehouse Increases Energy Efficiency by 86% and Saves Operating Costs with Flex Lighting Solutions
+Flex and Allergan Team Up for Solving Dry Eyes 
+Allergan was bringing an entirely new product to market and needed to pilot and build the device to get FDA clearance on an extremely short timeline.
 Read the case study
-How to Effectively Digitize Your Pharma and Medtech Business
-We are on the cusp of a new era in healthcare as four potent forces collide. Learn how the new age of digital health will redefine our expectations.
+How to Speed Your IoT Product Development with Ease
+Learn about our rapid IoT development platform, iENBL, as a low-risk, low-cost and fast way to bring IoT products to market.
 Read more
-#IoT
-November 11, 2018
-Attending @electronicaFair? Visit booth #447 in Hall C5 to learn about our #IoT product development process and hybrid electronic #medicaldevices and b...
+#WideAreaNetwork
+December 2, 2018
+Introducing iENBL, our low power, #WideAreaNetwork, rapid development platform built so you can test your #IoT ideas in the field without spending time...
 View tweet
 sina-weibo
 Footer

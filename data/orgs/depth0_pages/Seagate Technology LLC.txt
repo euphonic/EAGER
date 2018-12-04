@@ -4,7 +4,7 @@
 ␡
 Sign In as
 
-                                    Consumers  
+                                    Consumers 
 
                                     Direct Customers & Suppliers 
 ␡
@@ -64,10 +64,13 @@ ENTERPRISE / DATACENTER
 									                          Systems 
 ▹
 
-									                          Security 
+									                          IT 4.0 - Data Storage Evolution 
 ▹
 
-									                          IT 4.0 
+									                          Lyve Data Labs 
+▹
+
+									                          Data Security 
 ▹
 OUR STORY
 ▾
@@ -139,10 +142,11 @@ Achieve greater capacity.
 	                          Systems 
 Deploy better infrastructure.
 
-	                          Security 
-Harness superior protection.
+	                          IT 4.0 - Data Storage Evolution 
 
-	                          IT 4.0 
+	                          Lyve Data Labs 
+
+	                          Data Security 
 
 	                          Our Story 
 
@@ -157,39 +161,37 @@ Harness superior protection.
 	                          Software Downloads 
 
 	                          Warranty & Replacements 
-Seagate
-®
- Fast SSD
-Jump Ahead.
+BACKUP PLUS ULTRA SLIM
+Thinnest 2TB Drive
+Storage for Your Brilliant Side
 
 			                            LEARN MORE
-14TB GUARDIAN SERIES
-Only the Strongest Thrive
-Only the Strongest Thrive
+IRONWOLF PRO
+THE ULTIMATE GIFT IS TRUST
+Defy limitations with 14TB of confidence.
 
-			                            LEARN MORE
-Game Drive Hub for Xbox
-®
-8TB Game Storage With Dual USB Ports
-
-			                            Learn More
+			                            GIVE ME SPACE
 DJI FLY DRIVE
-Busy Life?
-We Support That.
-Travel,trek.Explore.
-Enjoy a drive that's designed to capture all of it.
+Busy Life?  We Support That.
+Just like we support microSD and USB-C.
+
+			                            LEARN MORE
+	#data-age-sub-banner-master {	background-image: url(/files/www-content/homepage/homepage_2014/_shared/images/banner-tile-data-age-292x228.jpg);	}	
+The Data Age is here.
+Are you ready?
+View the full report now.
+
+										VIEW NOW
+	#gaurdian-campaign-sub-banner-master {	background-image: url(/files/www-content/homepage/homepage_2014/_shared/images/14tb-campaign-guardian-tile-image-292x228.png);	}	
+	14TB GUARDIAN SERIES		
+Only the 
+Strongest
+ Thrive
+Rely on your 14TB drive.
 
 										LEARN MORE
-
-										 	BARRACUDA SSD	
-										
-Rev Up Your Computer
-Soar to new heights of performance!
-
-										Learn More
-
-										 	Game Drive for PS4 | Far Cry® 5	
-										
+	#game-drive-ps-fc-sub-banner-master {	background-image: url(/files/www-content/homepage/homepage_2014/_shared/images/game-drive-ps4-fc5-292x288.jpg);	}	
+	Game Drive for PS4 | Far Cry® 5		
 Store 50+ games along with the Hours of Darkness DLC pack.
 
 										LEARN MORE
@@ -198,7 +200,7 @@ Store 50+ games along with the Hours of Darkness DLC pack.
 	
 NEWS
 
-							Seagate And IBM Work Together To Help Reduce Global Hard Drive Counterfeiting With Blockchain Technology
+							Seagate Launches New Data-Readiness Index Revealing Impact Across Four Global Industries As 30 Percent Of Data Forecasted To Be Real-Time By 2025
 	
 Read More
 ×

@@ -97,6 +97,7 @@ Press Releases & Media Coverage
 Support
 Software Updates & Patches
 Documentation
+Knowledgebase
 Explore Keystroke Biometrics
 Solutions
 Authentication
@@ -192,6 +193,7 @@ Press Releases & Media Coverage
 Support
 Software Updates & Patches
 Documentation
+Knowledgebase
 Explore Keystroke Biometrics
 Search:
 The world identifies with us.
@@ -249,14 +251,15 @@ DigitalPersona
 IAM Category Report
  from Info-Tech.
 READ THE RELEASE
+GET THE SCORECARD
 Customer Story
 Gesa Credit Union
 Increasing data security and simplifying login complexity using a composite authentication approach.
 Watch the video >
 Latest from the Blog
-Like It or Not, Your Face is Your ID
+Multi-factor Authentication is a Must for Keeping Your GDPR Advantage
 By Jeff Carpenter, CISSP, CCSP
- Cybercrime and data protection are on everyone’s mind. From the consumer perspective, more people are choosing to do business with security-conscious companies. Across industries, advanced security solutions are becoming a must-have, increasingly in the form of multifactor authentication (MFA) solutions that go beyond usernames and passwords.
+ We’re now well into the GDPR era. Is your company GDPR compliant? If so, congratulations! You’ve conquered what can be a daunting (and costly) process for companies that handle the personally identifiable information (PII) European Union (EU) residents. If not, you can at least rest in some solace that you are not alone.
 READ MORE
 Solutions
 Authentication Security
@@ -288,7 +291,7 @@ We are pleased to announce
 Read The Press Release
  ×            
 jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
-var wpApiSettings = {"root":"https:\/\/www.crossmatch.com\/wp-json\/","nonce":"be226dc02c","versionString":"wp\/v2\/"};
+var wpApiSettings = {"root":"https:\/\/www.crossmatch.com\/wp-json\/","nonce":"4460902bdf","versionString":"wp\/v2\/"};
 var leadin_wordpress = {"userRole":"visitor","pageType":"home","leadinPluginVersion":"7.0.1"};
 var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
 _linkedin_data_partner_id = "273385";

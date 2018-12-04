@@ -1,288 +1,269 @@
-Navigation
-Skip to Content
-Language Selector
 
-            English
+                                            United States - English
+United States - English
+Canada - English
+Canada - Français
+Mexico - Spanish
+Toggle navigation
+
+Dog Food
+
+Dry Dog Food
+Wet Dog Food
+
+View All Dog Products
+
+>
+
+Dog Food Selector
+
+Nutrition tailored for your dog’s age and size.
+Smart Puppy Small & Toy Breed
+Smart Puppy
+Smart Puppy Large Breed
+Adult Small & Toy Breed
+Adult Minichunks
+Adult Large Breed
+Adult With Beef & Rice
+Adult Chunks
+Adult Lamb and Rice Recipe
+Mature Adult Small & Toy Breed
+Mature Adult
+Mature Adult Large Breed
+Senior Plus
+Senior Plus Large Breed
+Special Need
+Nutrition tailored for your dog’s unique dietary needs.
+Adult Healthy Weight
+Adult Healthy Weight Large Breed
+
+Sensitive Skin & Stomach Grain Free Recipe with Real Chicken & Peas
+
+
+Sensitive Skin & Stomach Grain Free Recipe with Real Salmon & Lentils
+
+Nutrition tailored for your specific breed of dog.
+Yorkshire Terrier
+Chihuahua
+Dachshund
+Labrador Retriever
+Bulldog
+German Shepherd
+Puppy with Chicken and Rice Pate
+Adult with Chicken and Whole Grain Rice Pate
+
+Adult with Turkey, Vegetables and Rice Flavor in Sauce Chunks in Gravy
+
+
+Adult with Beef, Rice, Carrots and Green Beans Flavor in Sauce Chunks in Gravy
+
+
+Adult with Chicken, Spring Vegetables and Rice Flavor in Sauce Chunks in Gravy
+
+Adult with Beef and Rice Pate
+Adult with Lamb and Rice Pate
+Senior with Slow Cooked Chicken and Rice Pate
+
+Cat Food
+
+Dry Cat Food
+Wet Cat Food
+
+View All Cat Products
+
+>
+
+Cat Food Selector
+
+Nutrition tailored for your cat's age and activity.
+Healthy Kitten
+Healthy Senior
+Healthy Adult with Chicken
+Healthy Adult with Salmon & Tuna
+Indoor Weight & Hairball Care
+Special Need
+Nutrition tailored for your cat's individual dietary needs.
+Hairball Care
+Healthy Digestion
+IAMS™ Oral Care Complete
+High Protein with Chicken & Salmon
+Optimal Metabolism
+Urinary Tract Health with Chicken
+IAMS™ Perfect Portions™
+Original Pate Chicken
+IAMS™ Perfect Portions™
+Indoor Pate Turkey
+IAMS™ Perfect Portions™
+Original Pate Tuna
+IAMS™ Perfect Portions™
+Original Pate Salmon
+IAMS™ Perfect Portions™
+Kitten Pate Chicken
+IAMS™ Perfect Portions™
+Indoor Pate Salmon
+IAMS™ Perfect Portions™
+Healthy Metabolism Pate Chicken
+
+Resources
+
+Dog Breed Selector
+
+Find the dog best suited for you with our breed selector guide.
+
+Find your match here
+Dog articles
+
+When to switch your puppy to adult dog food 
+
+>
+
+Tips for bringing a puppy home 
+
+>
+Read More
+Cat Articles
+
+Does your cat have tummy troubles? 
+
+>
+
+When to switch your kitten to adult cat food 
+
+>
+Read More
+NEW Food Selector
+
+Find the best food
+
+
+for your furry friend.
+Dog Food Selector
+Cat Food Selector
+Dog Breed Selector
+Dog Food Selector
+Dog Articles
+Cat Food Selector
+Cat Articles
+
+Why IAMS
+
+™
+We deliver Tailored Nutrition to keep your pet healthy and happy for life.
+Special Need
+
+Bring out your dog's unique best.
+
+LEARN MORE
+Special Need
+Crafted for your cat's unique life.
+LEARN MORE
+Dog Recipes
+
+Cat Recipes
+
+Buy Now
+Nutrition as unique as they are.
+
+Shop
+
+
+Dog Food >
+
+Special Need
+
+Shop
+
+
+Cat Food >
+
+Special Need
+Search Glass
+iams-who-i-am
+Special Need
+
+                Nutrition that’s
+                
+
+                tailored to bring out
+                
+
+                their unique best.
             
-中文
-日本語
-한국어
-English
-Navigation Menu
-Investor
-Careers
-News
-Events
-Contact
- Login 
-Language Selector
- English 
-中文
-日本語
-한국어
-English
- Login 
-Navigation Menu
- Products 
- Products 
- 3D Sensing 
- 3D Sensing 
- All 3D Sensing 
- Structured Light Illumination 
- Stereoscopic Imaging 
- Flood Illumination 
- Audio 
- Audio 
- All Audio 
- Active Noise Cancellation 
- Power Communication Interface 
- CMOS Imaging Sensors 
- CMOS Imaging Sensors 
- All CMOS Imaging Sensors 
- Area Scan Sensors 
- Line Scan Sensors 
- Miniature Camera Modules 
- Environmental Sensors 
- Environmental Sensors 
- All Environmental Sensors 
- Air Quality Sensors 
- Relative Humidity and Temperature Sensors 
- Flow Sensing 
- Flow Sensing 
- All Flow Sensing 
- Ultrasonic Flow Converters 
- LIDAR 
- Light Sensors 
- Light Sensors 
- All Light Sensors 
- Ambient Light Sensors 
- Ambient Light Sensors & Proximity Detection 
- Color Sensors 
- Color Sensors & Proximity Detection 
- Gesture, Color Sensors & Proximity Detection 
- Light-to-Frequency 
- Linear Array 
- Proximity 
- Spectral Sensing 
- Medical & Health Sensing 
- Medical & Health Sensing 
- All Medical & Health Sensing 
- Medical Imaging 
- Vital Sign Sensing 
- Position Sensors 
- Position Sensors 
- All Position Sensors 
- Angle Position On-Axis 
- Linear Position 
- Power Management 
- Power Management 
- All Power Management 
- LED Drivers 
- Flash Drivers 
- Lighting Management Units 
- Smart Notification Light 
- DC-DC Buck-Boost Converters 
- DC-DC Buck Converters 
- DC-DC Charge Pumps 
- DC-DC Boost Converters 
- DC-DC Controllers 
- LDOs 
- Power Management Units 
- Supervisors 
- Analog Switch 
- Operational Amplifiers 
- Precision Time Measurement 
- Precision Time Measurement 
- All Precision Time Measurement 
- Time-to-Digital Converters 
- Sensor Interfaces 
- Sensor Interfaces 
- All Sensor Interfaces 
- PICOCAP Capacitive Sensing 
- PICOSTRAIN Resistive Sensing 
- Signal Converters 
- Bus Systems LIN / CAN 
- Battery Sensor Interfaces 
- Smart Lighting Management 
- Smart Lighting Management 
- All Smart Lighting Management 
- Smart Lighting 
- Wireless Sensor Nodes 
- Wireless Sensor Nodes 
- All Wireless Sensor Nodes 
- Wireless Sensor Connectivity 
- Wireless Sensor Tags & Interfaces 
- ASICs 
- ASICs 
- All ASICs 
- Benefits 
- Development Flow 
- Design Capability 
- Applications 
- Quality & Operations 
- Applications 
- Applications 
- Automotive 
- Automotive 
- All Automotive 
- Position Sensing 
- Health Sensing 
- Health Sensing 
- All Health Sensing 
- Medical Imaging 
- Insulin Pen 
- Machine Vision 
- Mobile 
- Mobile 
- All Mobile 
- Display Management 
- Image Enhancement 
- Technology 
- Technology 
- Structured Light 
- Time-of-Flight 
- VCSEL 
- CMOS Imaging 
- Audio Sensing 
- Advanced Packaging 
- Advanced Packaging 
- All Advanced Packaging 
- System in Package 
- MOX Sensors 
- Position Sensing 
- Position Sensing 
- All Position Sensing 
- Stray Field Immunity 
- Dynamic Angle Error Compensation 
- Peripheral Sensor Interface 5 
- Spectral Sensing 
- Micro Lens Array 
- Full Service Foundry 
- Full Service Foundry 
- All Full Service Foundry 
- Work with us 
- Process technology 
- Services 
- Support 
- Support 
- Technical Support 
- Technical Papers 
- EoL Notifications 
- Product Changes 
- Quality 
- Document Feedback 
- Foundry Design Support 
- About 
-ams
- About 
-ams
- Management Board 
- Management Board 
- All Management Board 
- Alexander Everke 
- Michael Wachsler-Markowitsch 
- Thomas Stockmeier 
- Mark Hamersma 
- Supervisory Board 
- Corporate Responsibility 
- Industry Associations 
- Industry Associations 
- All Industry Associations 
- EU-Projects 
- National Projects 
-Navigation Menu
-Investor
-Careers
-News
-Events
-Contact
-Breadcrumb
- ams Start 
-Sensing is life
-Sensing is life
-Sensors touch every aspect of life and drive the digital transformation
- Read full story 
-Asset Publisher
-Embedded vision comes to space-constrained consumer and industrial systems with launch of new 1mm2 low-power Micro Camera Module from ams
-New NanEyeM Micro Camera Module supports applications in home robotics, smart appliances and smart toys
- All entries 
- Read more 
-Featured Technology - AS6200C
-Temperature sensor designed to fulfill the challenges of cold chain applications
- Read more 
-Electronica 2018
-World's leading trade fair and conference for electronics.
- All entries 
- Read more 
-Corporate Video
-About ams
-ams designs and manufactures high-performance sensor solutions for applications requiring the highest level of miniaturization, integration, accuracy, sensitivity and lower power.
-Our comprehensive solutions take sensing to the next level by providing a seamless interface between humans and technology. Products include sensor solutions, sensor ICs, interfaces and related software for mobile, consumer, communications, industrial, medical, and automotive markets.
-if("function"!==typeof getYoutubeId)var getYoutubeId=function(a){var b="";a=a.replace(/(>|<)/gi,"").split(/(vi\/|v=|\/v\/|youtu\.be\/|\/embed\/)/);void 0!==a[2]?(b=a[2].split(/[^0-9a-z_\-]/i),b=b[0]):b=a;return b};window.ams.ytVideos=window.ams.ytVideos||[];window.ams.ytVideos.push({containerId:"player_180570",videoId:getYoutubeId("https://www.youtube.com/embed/RxhgMiSZxxI?rel\x3d0\x26fs\x3d1")});
-Newsletter subscription
-@
-Join our newsletter
-Subscribe now to the ams sensor newsletter
- Sign up 
-AMS Footer / Address
-ams AG
- Tobelbader Strasse 30
- 8141 Premstaetten
- Austria
-AMS Footer / Contact Info
-Phone 
-+43 3136 500-0
- Fax +43 3136 525-01
-Back to top
- Sensing 
-is life.
-Navigation Menu
- ABOUT 
-ams
- Investor Relations 
- News Center 
- Corporate Responsibility 
-Navigation Menu
- Services 
- Contact Us 
- Sales & Distribution 
- Subscribe ams sensor news 
-Navigation Menu
- Quick Links 
- Quality – Certificates 
- Open Positions 
- © 2018 ams AG. All rights reserved. 
-Navigation Menu
-Disclaimer
-Imprint
-Privacy Policy
-Navigation Menu
-AMS AG Logo
-AMS AG Logo
-User
-User
-Language
-Facebook
-YouTube
-Instagram
-LinkedIn
-Twitter
-Google+
-Search
-Filter
-Annual / Medical Leave
-Career Path
-On-Site Canteen
-On-Site Gym
-Social Events
-Housing Fund
-Transportation Allowance
-Travel Insurance
-Profit Sharing
-Job Training
-Health Benefits
-Pension / Insurance Benefits
-Performance Incentives
-Liferay.BrowserSelectors.run();
-Liferay.currentURL="/";Liferay.currentURLEncoded="%2F";
-AUI().use("aui-base",function(b){var a=window.frameElement;a&&"simulationDeviceIframe"===a.getAttribute("id")&&b.getBody().addClass("lfr-has-simulation-panel")});
+iams-who-i-am
+Special Need
+
+                Nutrition that’s
+                
+
+                tailored to bring out
+                
+
+                their unique best.
+            
+
+                Find your pup's
+                
+
+                perfect food with our
+                
+NEW Food Selector
+GO TO QUIZ
+
+                Find your cat's
+
+                perfect food with our
+NEW Food Selector
+GO TO QUIZ
+Previous
+Next
+Nurture Your Dog’s Uniqueness
+Shop Dog Food
+​Support Your Cat’s Individuality
+Shop Cat Food
+Check out our library and learn more about your pet!
+Dog
+
+Articles
+Cat
+
+Articles
+THE IAMS
+
+STORY
+Learn about our history of pets, passion and love.
+LEARN MORE
+IAMS
+
+TRUTH
+Learn what it takes to ensure our love and respect for pets is put into practice.
+LEARN MORE
+INGREDIENTS
+
+GUIDE
+Learn how IAMS ingredients help your pet.
+LEARN MORE
+BREED
+
+SELECTOR
+Find the perfect match for your home.
+LEARN MORE
+
+CONNECT WITH
+
+United States - English
+United States - English
+Canada - English
+Canada - Français
+Mexico - Spanish
+Privacy
+Legal
+Contact Us
+Our Promise
+AdChoices
+Site Map
+Supply Chain Transparency
+© 2018 Mars or Affiliates. US Patents Pending.
+
+Other trademarks are property of their respective owners.
+svg4everybody()
+globalFn.trackPageView();if(typeof _satellite != 'undefined') _satellite.pageBottom();

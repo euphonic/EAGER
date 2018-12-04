@@ -1,14 +1,15 @@
 Skip Navigation
-Search
-$
-Give Now
-Find a Doctor
 Read disclaimer about translations
-Please note that some translations using Google Translate may not be accurately represented, and image captions and downloaded documents cannot be translated. Dana-Farber assumes no liability for inaccuracies that may result for using this third-party tool, which is for website translation and not clinical interactions. You may request a 
+Please note that some translations using Google Translate may not be accurately represented and downloaded documents cannot be translated. Dana-Farber assumes no liability for inaccuracies that may result from using this third-party tool, which is for website translation and not clinical interactions. You may request a 
 live medical interpreter
  for a discussion about your care.
-menu
+Find a Doctor
+ Give Now
+My Dana-Farber
+Search
+Close Search
 Menu
+ Menu
 For Patients and Families
 For Physicians
 Our Research
@@ -16,6 +17,7 @@ About Us
 Find a Doctor
 Appointments & Second Opinions
 How You Can Help
+close navigation panel
 For Patients and Families
 Why Dana-Farber
 Care & Treatment
@@ -28,11 +30,13 @@ Insurance & Financial Information
 My Dana-Farber
 Events Calendar
 Health Library
+close navigation panel
 For Physicians
 Refer a Patient
 Education & Training
 Clinical Resources
 Physician Gateway
+close navigation panel
 Our Research
 Clinical Trials
 Departments, Centers, & Labs
@@ -41,6 +45,7 @@ Featured Research
 Our Researchers
 Core Facilities
 Search Cancer Types
+close navigation panel
 About Us
 Locations
 Directions
@@ -54,9 +59,11 @@ Insurance & Financial Information
 Insight Blog
 Events Calendar
 Health Library
+close navigation panel
 Appointments & Second Opinions
 Online Second Opinion Program
 International Patients
+close navigation panel
 How You Can Help
 Ways to Give
 Events
@@ -125,86 +132,29 @@ Get Involved
 Shop
 Give Now
 Give Now
+My Dana-Farber
 Read disclaimer about translations
 
-                                    Please note that some translations using Google Translate may not be accurately represented, and image captions and downloaded documents cannot be translated. Dana-Farber assumes no liability for inaccuracies that may result for using this third-party tool, which is for website translation and not clinical interactions. You may request a 
+                                    Please note that some translations using Google Translate may not be accurately represented and downloaded documents cannot be translated. Dana-Farber assumes no liability for inaccuracies that may result from using this third-party tool, which is for website translation and not clinical interactions. You may request a 
 live medical interpreter
  for a discussion about your care.
                                 
  var url = 'https://www.dfbwcc.org/emergency/serve/content.aspx?messageid=27';
-11/12/2018 2:02:43 AM
-Let's Take the Next Steps Together
-Explore Cancer Types
-Adrenocortical Carcinoma
-Anal Cancer
-Biliary Cancer
-Bladder Cancer
-Blood Disorders
-Blood Disorders, Childhood
-Bone Cancers
-Bone Cancers, Childhood
-Bone Marrow Failure, Childhood
-Brain Tumors
-Brain Tumors, Childhood
-Breast Cancer
-Cervical Cancer
-Colon Cancer
-Endometrial (Uterine) Cancer
-Esophageal Cancer
-Gastrointestinal Carcinoid Tumor
-Gastrointestinal Stromal Tumor (GIST)
-Germ Cell Tumors, Childhood
-Gestational Trophoblastic Disease
-Histiocytosis
-Histiocytosis, Childhood
-Kidney Cancer
-Kidney Cancer, Childhood
-Leukemias
-Leukemias, Childhood
-Liver Cancer
-Liver Cancer, Childhood
-Lung Cancers
-Lymphomas
-Lymphomas, Childhood
-Melanoma
-Melanoma, Childhood
-Merkel Cell Carcinoma
-Mesothelioma
-Mouth (Oral Cavity) Cancer
-Multiple Myeloma
-Myelodysplastic/Myeloproliferative Diseases
-Neuroblastoma, Childhood
-Neuroendocrine/Carcinoid Tumors
-Ovarian Cancer
-Pancreatic Cancer
-Penile Cancer
-Prostate Cancer
-Rare Tumors, Childhood
-Rectal Cancer
-Salivary Gland Cancer
-Skin Cancers (Non-melanoma)
-Soft Tissue Sarcomas
-Soft Tissue Sarcomas, Childhood
-Stomach (Gastric) Cancer
-Testicular Cancer
-Throat (Laryngeal) Cancer
-Thymoma/Thymic Tumors
-Thyroid Cancer
-Thyroid Cancer, Childhood
-Vaginal Cancer
-Vulvar Cancer
-Waldenström’s Macroglobulinemia
+12/3/2018 2:00:46 AM
 Make an Appointment
+You may schedule your first appointment for as soon as the next day.
 Adults: 
 877-442-3324
 Pediatric: 
 888-733-4662
-Make an appointment online
 Locations outside of Boston
+International patients
+Find Your Cancer Type
+Learn about our personalized approach to your cancer care.
+Search Our Clinical Trials
+Explore one of the largest cancer clinical trials programs in the country.
 Plan Your Visit
-We'll guide you through every step of planning your visit.
-Seek a Second Opinion
-Explore our Online Second Opinion service to get expert advice from Dana-Farber oncologists.
+Find maps, directions, travel information, and more.
 Discover the Dana-Farber Difference
 For over 70 years, we've led the world by making life-changing breakthroughs in cancer research and patient care, providing the most advanced treatments available.
 Specialists in Your Cancer
@@ -213,7 +163,7 @@ your
 particular type of cancer.
 Alexis' Breast Cancer Journey
 Diagnosed with metastatic breast cancer at age 33, Alexis decided that after treatment she was going to get even stronger than before she got sick.
-Helping Barry’s Body Beat Cancer
+Staff and Patients Connect in New Ads
 Personalized
 for You
 From an individualized treatment plan that recognizes who you are, to specialized therapies based on the genetic profile of your specific cancer — everything we do is centered around your unique needs.
@@ -258,6 +208,40 @@ Teaching Sheets
 Treatments & Procedures
 Video
 News Releases
+12/2/2018
+Dana-Farber researchers report clinical trial results in treatment of leukemia  and lymphoma
+CAR T-Cell Therapy
+Research
+Lymphomas
+Leukemias
+News Releases
+12/1/2018
+New gene therapy strategy for sickle cell disease shows early promise in humans
+News Releases
+12/1/2018
+Moritz Kircher, MD, PhD, named Chair of Dana-Farber Department of Imaging and Radiation
+Insight Blog
+12/1/2018
+New Research Effort Aims to Improve Treatment for Sickle Cell Disease
+Research
+Blood Disorders, Childhood
+Insight Blog
+11/28/2018
+Immunotherapy Shows Benefit in Hard-to-Treat Breast Cancer
+Patient Stories, Adult
+Immunotherapy
+Breast Cancer
+News Releases
+11/20/2018
+Pancreatic Cancer Collective awards Dana-Farber Cancer Institute researchers “New Therapies Challenge” grant
+Research
+Pancreatic Cancer
+News Releases
+11/13/2018
+Dana-Farber Cancer Institute and Deerfield Collaborate to Create the Center for Protein Degradation
+Protein Degradation
+Research
+News Releases
 11/5/2018
 Dana-Farber scientists find new drug targets in aggressive cancers
 Cancer Genetics, Childhood
@@ -267,39 +251,6 @@ News Releases
 Single-cell analysis reveals how melanoma cells resist immunotherapy
 Immunotherapy
 Melanoma
-News Releases
-10/30/2018
-Dana-Farber researcher is a new Allen Distinguished Investigator
-Research
-Lymphomas
-News Releases
-10/30/2018
-Study uncovers key parts of mechanism for activating T cells to fight cancer and other diseases
-News Releases
-10/25/2018
-Melany Duval Named New Senior Vice President, Development at Dana-Farber Cancer Institute
-Insight Blog
-10/25/2018
-From Recurrence to Remission: Lymphoma Patient is Cancer-Free After CAR T-Cell Therapy
-CAR T-Cell Therapy
-Patient Stories, Adult
-Immunotherapy
-Non-Hodgkin lymphoma
-Lymphomas
-Insight Blog
-10/23/2018
-What is a Biomarker?
-Research
-Immunotherapy
-News Releases
-10/22/2018
-Combination immunotherapy yields high survival rate in advanced melanoma
-Immunotherapy
-Melanoma
-News Releases
-10/18/2018
- Researchers, cancer patients, and philanthropists launch Count Me In,  a new model of patient-partnered research  to speed progress against cancer 
-Research
 Innovation Means Better Care Sooner
 Clinical Trials 
 Innovative Care

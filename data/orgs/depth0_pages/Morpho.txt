@@ -117,7 +117,7 @@ Media
 Photos
 Media Library
 Locations
-75
+74
  locations
 Where are we?
 Find a contact by country
@@ -161,7 +161,7 @@ Download our brochure
 0
 Job openings
 Join us !
-November
+December
 »
 
           Mon        
@@ -297,10 +297,14 @@ November
 
   30
 
-14
+
+
+  31
+
+03
 
           
-                      Nov 2018                  
+                      Dec 2018                  
 Load
 More content
 Download The Infographic

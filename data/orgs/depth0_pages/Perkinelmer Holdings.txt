@@ -116,6 +116,7 @@ Cytogenetics Instruments - Research
 High Content Screening Instruments 
 Hyphenated Technology 
 In Vivo Imaging 
+Mass Spectrometry 
 Mass Spectrometry - Clinical Research System 
 Maternal Fetal Health 
 Microplate Readers 
@@ -157,7 +158,7 @@ Western Blotting Reagents
 Image Analysis Software 
 Instrument Control & Upgrades 
 Newborn Screening Software 
-QA/QC 
+QA/QC Software 
 
 													Training
 
@@ -181,11 +182,11 @@ Whole Genome Sequencing
 																					Optimize lab efficiency with a comprehensive suite of scientific services and support 
 Learn More
 Compliance Services
+Education Services
 Information Services
 Instrument Services
 Relocation Services
 Scientific Services
-Training and Education Services
 >
 Contract Research Services
 Custom Products & Research Services
@@ -462,30 +463,31 @@ The chemagic
 ™
  Instrument is a fully automated solution offering hands-free sample transfer, DNA and RNA isolation, normalization (optional), and PCR setup for research applications. This validated, single suppli...                                        
 Learn More
-Harmonising drug-target binding data analytics on a single platform
+PerkinElmer East Coast Nexus 2018
+|
+
+Collegeville, United States    
+
+Connect, Collaborate, Analyze. 5 Reasons why you should register now:. Keynotes by industry thought leaders across pharma, biotech, chemical and other industries Solution case studies centered on Advanced Data Analytics and Collaboration Technology workshops (TIBCO Spotfire® and ELN/Cloud) Interactive product demos focused on new capabilities Network with your peers in R&D Analytics and Informatics    
+The Impact of Data Quality on Analytics
 |
 
 Boston, USA    
 
-In early stage medicines research, measuring in vitro drug-target interaction characteristics is a critical path activity in selecting therapeutic candidates for progression into pre-clinical models. Technologies and instrumentation used in this space are numerous. Bespoke instrument-specific data analysis software make the data handling and result-publishing workflow disjointed. It requires too many manual data handling steps leading to inefficiency and elevated risks to data integrity. In research scenarios such as this, efficient handling, processing and publishing of high volumes of experimental data is critical for objective decision making and selecting optimal therapeutic candidates.. This webinar outlines the fundamentals of a design process where an experimental analytics data workflow is being integrated into a more seamlessly interactive digital platform.. Presenters:. Thil Batuwangala Scientific Leader, Biopharma Molecular Discovery at GlaxoSmithKline . . William J. Yang Global Marketing Leader, Screening Portfolio at PerkinElmer . 11AM EDT / 3PM GMT    
-Buffalo Automation and Mass Spectrometry Seminar
-|
-
-Buffalo, USA    
-
-Join PerkinElmer and our esteemed guest speakers for the latest on mass spectroscopy applications and instrumentation. Presentations will focus on recent advances in workflow solutions to streamline forensic toxicology, disease detection and newborn screening analytical methodologies..    
+The rapid rise in digital data capture and visual analytics platforms has created new possibilities for managing the enterprise in a profitable manner. However, the journey from data to insights from data is unique for each enterprise. The most critical contributor to this experience is data or rather, the quality of data. There is no single definition of data quality since it is tightly linked to the context and purpose of data collection. A higher diversity of contexts within an organization, or project, means an increase in the elasticity of the definition of data quality. The parameters of quality can change from organization to organization or even within an organization, it can vary from business, technical or support functions. This often leads to a disconnect between the data collection and usage objectives, becoming the Achilles’ heel in the implementation of enterprise level analytics projects..    
 You successfully added item(s) to your cart
 Continue Shopping
 Proceed To Checkout
 Suggested Category
-Cancer Research Solutions
-Helping scientists unravel the complexities of cancer with our range of innovative and proven technologies for cancer research.
+OneSource Laboratory Services
+Optimize lab efficiency with a comprehensive suite of scientific services and support
 Learn More
-Genomics Solutions for Cancer Research
-Cell-Based Solutions for Cancer Research
-Animal Imaging Solutions for Cancer Research
-Tissue Imaging Solutions for Cancer Research
-Single Cell ICP-MS for Cancer Research
+Instrument Services
+Compliance Services
+Scientific Services
+Information Services
+Relocation Services
+Education Services
 Popular Searches
 122799
 AL205

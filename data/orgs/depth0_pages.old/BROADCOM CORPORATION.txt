@@ -1,0 +1,1031 @@
+By clicking here, you understand that we use cookies to improve your experience on our website.
+Cookie Policy.
+×
+MENU
+Submit
+Products
+Products Overview
+Wireless Embedded Solutions and RF Components
+Wireless Embedded Solutions and RF Components Overview
+ Amplifiers, Filters, and RF Components
+Amplifiers
+Amplifiers Overview
+GPS/GNSS
+Gain Block & Drivers
+Small Cell Power Amplifiers
+Low Noise
+Variable Gain
+Wafer Scale Packaged
+WiFi/LTE
+Demo Boards Overview
+Diodes 
+Diodes  Overview
+Schottky
+PIN
+PIN Attenuator
+FBAR Devices
+FBAR Devices Overview
+Duplexers
+Filters
+Multiplexers
+Handset Power Amplifiers
+Handset Power Amplifiers Overview
+Multimode Single-band PA
+Multimode Multi-band PA
+Millimeter Wave
+Millimeter Wave Overview
+Amplifiers
+Mixers 
+Multipliers
+Switch
+Transistors
+Transistors Overview
+Silicon Bipolar
+GaAs FET
+ SoCs and Processors
+Bluetooth SoCs Overview
+GNSS/GPS SoCs Overview
+Wireless LAN/Bluetooth Combo Overview
+Wireless LAN Infrastructure Overview
+Storage Adapters, Controllers, and ICs
+Storage Adapters, Controllers, and ICs Overview
+SAS/SATA/NVM
+e
+ Host Bus Adapters
+SAS/SATA/NVM
+e
+ Host Bus Adapters Overview
+12Gb/s SAS/NVMe Adapters
+12Gb/s SAS Adapters
+6Gb/s SAS Adapters
+Cables
+Fibre Channel Host Bus Adapters
+Fibre Channel Host Bus Adapters Overview
+32/16GFC Gen 6 HBAs
+16/8GFC Gen 5 HBAs
+8GFC HBAs
+Advanced Software for FC HBAs
+RAID Controller Cards
+RAID Controller Cards Overview
+12Gb/s SATA + SAS + NVMe RAID
+12Gb/s SATA + SAS RAID
+ 6Gb/s SATA + SAS RAID
+Advanced Software
+Accessories
+RAID-on-Chip ICs (ROCs) Overview
+SAS/SATA Storage I/O Controllers (IOCs) Overview
+Fibre Channel Storage I/O Controllers Overview
+SAS Expanders Overview
+Hard Disk Drives 
+Hard Disk Drives  Overview
+Hard Disk Drive SOCs
+Fibre Channel Networking
+Fibre Channel Networking Overview
+Directors Overview
+Switches Overview
+Extension Overview
+SAN Analytics Monitoring Platform Overview
+SAN I/O Modules Overview
+Software Overview
+Transceivers Overview
+ Brocade Global Support Overview
+Brocade Education Overview
+Broadband: CPE-Gateway, Infrastructure, and Set-top Box
+Broadband: CPE-Gateway, Infrastructure, and Set-top Box Overview
+xDSL Overview
+xPON Overview
+Cable Broadband
+Cable Broadband Overview
+Cable Modems
+CCAP and CMTS
+Set-top Box Solutions Overview
+Reference Designs Overview
+Embedded and Networking Processors
+Embedded and Networking Processors Overview
+Embedded Processors Overview
+Secure Processors Overview
+Communications Processors Overview
+Knowledge-Based Processors Overview
+Multicore Processors Overview
+Evaluation Boards Overview
+Reference Designs Overview
+Ethernet Connectivity, Switching, and PHYs
+Ethernet Connectivity, Switching, and PHYs Overview
+Ethernet Converged Network Adapters - Emulex
+Ethernet Converged Network Adapters - Emulex Overview
+10GbE CNAs
+Advanced Software for CNAs
+Ethernet Network Adapters - NetXtreme Overview
+Ethernet Controller Silicon - NetXtreme Overview
+Ethernet Switches and Switch Fabric Devices
+Ethernet Switches and Switch Fabric Devices Overview
+RoboSwitch™
+StrataConnect®
+StrataXGS®
+StrataDNX™
+Ethernet Switching Software Overview
+Copper PHYs
+Copper PHYs Overview
+PoE
+FE PHY
+Gigabit PHY
+10GBASE-T PHY
+Automotive Ethernet transceivers
+Automotive Switches
+Automotive Microcontrollers
+Optical PHYs Overview
+Reference Designs Overview
+PCIe Switches and Bridges
+PCIe Switches and Bridges Overview
+ExpressFabric PCIe Switches
+ExpressFabric PCIe Switches Overview
+PCIe Gen 3
+PCI Express Switches Overview
+PCI Express Bridges Overview
+USB and PCI I/O Accelerators
+USB and PCI I/O Accelerators Overview
+USB Controllers & Bridges
+I/O Accelerators - Local Bus Master & Target Bridges
+USB Software Resources
+ Software Development Kits Overview
+Fiber Optic Modules and Components
+Fiber Optic Modules and Components Overview
+Fast Ethernet and Industrial Fiber Optics
+Fast Ethernet and Industrial Fiber Optics Overview
+Automotive Products
+Cables, Evaluation Kits and Accessories
+High Galvanic Isolation Link
+Fiber Optics Transceivers
+Industrial Transmitters and Receivers
+Optical Fiber Sensors
+Optical Power Components
+Optical Components for Broadband Networking
+Optical Components for Broadband Networking Overview
+Long Reach InP DIE Components
+Short Reach GaAs DIE Components
+Physical Medium Dependent (PMD) ICs
+Digital Optics
+Optical Transmit and Receive Subassemblies
+TO-Cans
+High-Speed Networking Fiber Optics from FIT Overview
+LEDs and Displays
+LEDs and Displays Overview
+7-Segment LED Displays
+7-Segment LED Displays Overview
+Through-hole
+Surface Mount
+Auto Focus Auxiliary Flash Lamps Overview
+ChipLEDs
+ChipLEDs Overview
+Automotive ChipLEDs
+Multi-color Surface Mount ChipLEDs
+Reverse Surface Mount ChipLEDs
+Right Angle Surface Mount ChipLEDs
+0402 (1.0mm X 0.5mm) Top Mount ChipLEDs
+0603 (1.6mm X 0.8mm) Top Mount ChipLEDs
+0805 (2.0mm X 1.2mm) Top Mount ChipLEDs
+1206 (3.2mm X 1.6mm) Top Mount ChipLEDs
+Dot Matrix LED Displays  Overview
+High Brightness LEDs
+High Brightness LEDs Overview
+Surface Mount
+Oval Through-Hole Lamps
+Round Through-Hole Lamps
+High Power LEDs
+High Power LEDs Overview
+1W LED Emitter
+1W Mini LED Emitter
+3W LED Emitter
+3W Mini LED Emitter
+Moonstone™ 0.5W LED Emitter
+Moonstone™ 1W LED Emitter
+Moonstone™ 3W LED Emitter
+Moonstone™ Collimating Lens
+LED Light Bars
+LED Light Bars Overview
+Bar Graph Arrays 
+Bi-color
+Single Color
+Smart Alphanumeric Displays
+Smart Alphanumeric Displays Overview
+Parallel Interface
+Serial Interface
+Standard Brightness LEDs
+Standard Brightness LEDs Overview
+3mm T-1 LED Lamps 
+5mm T-1 3/4 LED Lamps
+Bicolor LEDs
+Rectangular LEDs
+Resistor LEDs
+Subminiature Lamps
+Subminiature Lamps Overview
+Dome Resistor Subminiature LEDs
+Dome Subminiature LEDs
+Flat-Top Subminature LEDs
+Surface Mount PLCC LEDs
+Surface Mount PLCC LEDs Overview
+DFN LEDs
+Mini PLCC-2 LEDs
+PLCC-2 LEDs
+PLCC-4 LEDs
+PLCC-6 LEDs
+Motion Control Encoders
+Motion Control Encoders Overview
+ Absolute Encoders  Overview
+Encoder Accessories
+Encoder Accessories Overview
+Alignment Tools
+Cables and Connectors
+Evaluation Kits
+ Encoder Code Wheels 
+ Encoder Code Wheels  Overview
+Glass Encoder Code Wheels
+Metal Encoder Code Wheels
+Mylar Encoder Code Wheels
+ Incremental Encoders
+ Incremental Encoders Overview
+Encoder Line Drivers 
+Incremental Encoders and Code Wheels
+Reflective Encoders
+Transmissive Encoders 
+Housed Encoders 
+Housed Encoders  Overview
+ Absolute Encoders 
+ Incremental Encoders
+Integrated Circuits
+Integrated Circuits Overview
+Controller ICs
+Decoder ICs
+Line Driver ICs 
+ Magnetic Encoders Overview
+Rotary Switches Overview
+Optocouplers
+Optocouplers Overview
+Automotive
+Automotive Overview
+Digital Optocouplers
+Isolated Gate Drive Optocouplers
+IPM Interfaces
+Isolation Amplifiers
+Optocoupler with transistor or MOSFET output
+Hermetic
+Hermetic Overview
+Digital Optocouplers
+AC-DC to Logic Interfaces
+High-Speed Logic Gates
+IPM Interfaces
+Isolation Amplifiers
+Isolated Gate Drive Optocouplers
+Power MOSFETs
+Transistor Outputs
+Industrial Plastic
+Industrial Plastic Overview
+Digital Optocouplers
+IPM Interfaces
+Isolation Amplifiers & Modulators
+Isolated Gate Drive Optocouplers
+Specific Function Optocouplers
+Other Products 
+Optical Sensors
+Optical Sensors Overview
+Ambient Light Sensors Overview
+Integrated Ambient Light and Proximity Sensors Overview
+Proximity Sensors Overview
+Time-of-Flight 3D Sensors Overview
+Silicon Photomultiplier (SiPM) Overview
+Spectrometers
+Spectrometers Overview
+Spectrometers Qwave
+Spectrometers Qmini
+Spectrometers Qred
+Custom Silicon
+Custom Silicon Overview
+Application-specific Integrated Circuits (ASICs) Overview
+Preamplifiers Overview
+CA Technologies Products
+CA Technologies Products Overview
+Applications
+Applications Overview
+Data Center Networking
+Data Center Networking Overview
+Software-Defined Networking
+Cloud Scale Networking  
+Data Center Networking Solutions
+Hyperscale Data Center Performance
+Accelerate Cloud Deployments, Reduce Costs
+Streamline Data Centers for Scalable Computing
+Reduce Data Center Costs
+ExpressFabric: Thinking Outside the Box
+Cloud Computing with PCIe Switches
+Enterprise Storage
+Enterprise Storage Overview
+NVMe over Fibre Channel (FC-NVMe)
+Breaking Down Big Data to Drive Data Flow Architecture
+Storage and PCI Express -- A Natural Combination
+SAN Automation
+Fibre Channel in the Enterprise
+The Challenge of Protecting Data with RAID
+Break through Storage Bottlenecks
+End-to-End NVMe
+Storage Fabrics Technology
+Broadband and Wired Networking
+Broadband and Wired Networking Overview
+5G-HD Enterprise Wi-Fi
+Broadband Access Solutions
+Wireless and Mobile Communications
+Wireless and Mobile Communications Overview
+Smartphones
+Innovative Wireless Solutions
+Industrial and Automotive
+Industrial and Automotive Overview
+Industrial Ethernet
+Automotive Solutions
+Industrial Networking
+Medical Systems & Equipment
+Motor Control
+Motor Drive Solutions
+Solar Power
+Wind Power
+Support
+Support
+Documents, Downloads and Support
+Customer Support Portal
+Support Documents and Downloads
+Login to MyBrocade
+Connect
+Ethernet Developer Community
+Fibre Channel Networking Community
+Choose Your Product
+MegaRAID and HBAs
+PCIe Switches and Bridges
+ Brocade Global Support
+Converged Network Adapters Support - UCNA
+Emulex Fibre Channel Support
+Components, SOCs or Custom Products
+CA Technologies - Services & Support
+More Resources
+Document Library
+Video Library
+Product Security Center
+Feedback and Comments
+Company
+About Us
+About Us
+Company History
+Executives
+Industry Standards
+Careers
+Citizenship
+Citizenship
+Governance and Ethics
+Quality 
+Environment
+Contact Us
+Contact Us
+Contact Sales
+Locations
+Manufacturing Rep
+Media Contacts
+Logo Request
+Ask an Expert
+Feedback and Comments
+Investor Center
+Investor Center
+Stock Information
+Financial News Releases
+Historical Results
+Events & Presentations
+SEC Filings
+Proxy Materials
+Governance
+Analyst Coverage
+Transfer Agent
+Restricted Partnership Units
+Blog
+News
+News
+Product News Releases
+Financial News Releases
+Find a Partner
+Find a Partner
+Emulex OEM Partners
+Ethernet Network Adapters
+Brocade OEM Partners
+Brocade Alliance Partners
+Tradeshows & Events
+How to Buy
+Sales
+Distributors
+Portal Access
+Terms and Conditions
+Language
+English
+日本語
+中文
+Login
+myBroadcom Account:
+Login
+Register
+Forgot Username/Password?
+Broadcom
+
+			        	Login
+myBroadcom Account:
+Login
+Register
+Forgot Username/Password?
+English
+日本語
+中文
+Products
+All Products
+Wireless Embedded Solutions and RF Components
+Storage Adapters, Controllers, and ICs
+Fibre Channel Networking
+Broadband: CPE-Gateway, Infrastructure, and Set-top Box
+Embedded and Networking Processors
+Ethernet Connectivity, Switching, and PHYs
+PCIe Switches and Bridges
+Fiber Optic Modules and Components
+LEDs and Displays
+Motion Control Encoders
+Optocouplers
+Optical Sensors
+Custom Silicon
+CA Technologies Products
+Wireless Embedded Solutions and RF Components
+Amplifiers, Filters, and RF Components
+Amplifiers
+Demo Boards
+Diodes 
+FBAR Devices
+Handset Power Amplifiers
+Millimeter Wave
+Transistors
+SoCs and Processors
+Bluetooth SoCs
+GNSS/GPS SoCs
+Wireless LAN/Bluetooth Combo
+Wireless LAN Infrastructure
+All Amplifiers
+GPS/GNSS
+Gain Block & Drivers
+Small Cell Power Amplifiers
+Low Noise
+Variable Gain
+Wafer Scale Packaged
+WiFi/LTE
+All Demo Boards
+All Diodes 
+Schottky
+PIN
+PIN Attenuator
+All FBAR Devices
+Duplexers
+Filters
+Multiplexers
+All Handset Power Amplifiers
+Multimode Single-band PA
+Multimode Multi-band PA
+All Millimeter Wave
+Amplifiers
+Mixers 
+Multipliers
+Switch
+All Transistors
+Silicon Bipolar
+GaAs FET
+All Bluetooth SoCs
+All GNSS/GPS SoCs
+All Wireless LAN/Bluetooth Combo
+All Wireless LAN Infrastructure
+Storage Adapters, Controllers, and ICs
+SAS/SATA/NVM
+e
+ Host Bus Adapters
+Fibre Channel Host Bus Adapters
+RAID Controller Cards
+RAID-on-Chip ICs (ROCs)
+SAS/SATA Storage I/O Controllers (IOCs)
+Fibre Channel Storage I/O Controllers
+SAS Expanders
+Hard Disk Drives 
+All SAS/SATA/NVM
+e
+ Host Bus Adapters
+12Gb/s SAS/NVMe Adapters
+12Gb/s SAS Adapters
+6Gb/s SAS Adapters
+Cables
+All Fibre Channel Host Bus Adapters
+32/16GFC Gen 6 HBAs
+16/8GFC Gen 5 HBAs
+8GFC HBAs
+Advanced Software for FC HBAs
+All RAID Controller Cards
+12Gb/s SATA + SAS + NVMe RAID
+12Gb/s SATA + SAS RAID
+ 6Gb/s SATA + SAS RAID
+Advanced Software
+Accessories
+All RAID-on-Chip ICs (ROCs)
+All SAS/SATA Storage I/O Controllers (IOCs)
+All Fibre Channel Storage I/O Controllers
+All SAS Expanders
+All Hard Disk Drives 
+Hard Disk Drive SOCs
+Fibre Channel Networking
+Directors
+Switches
+Extension
+SAN Analytics Monitoring Platform
+SAN I/O Modules
+Software
+Transceivers
+ Brocade Global Support
+Brocade Education
+All Directors
+All Switches
+All Extension
+All SAN Analytics Monitoring Platform
+All SAN I/O Modules
+All Software
+All Transceivers
+Broadband: CPE-Gateway, Infrastructure, and Set-top Box
+xDSL
+xPON
+Cable Broadband
+Set-top Box Solutions
+Reference Designs
+All xDSL
+All xPON
+All Cable Broadband
+Cable Modems
+CCAP and CMTS
+All Set-top Box Solutions
+All Reference Designs
+Embedded and Networking Processors
+Embedded Processors
+Secure Processors
+Communications Processors
+Knowledge-Based Processors
+Multicore Processors
+Evaluation Boards
+Reference Designs
+All Embedded Processors
+All Secure Processors
+All Communications Processors
+All Knowledge-Based Processors
+All Multicore Processors
+All Evaluation Boards
+All Reference Designs
+Ethernet Connectivity, Switching, and PHYs
+Ethernet Converged Network Adapters - Emulex
+Ethernet Network Adapters - NetXtreme
+Ethernet Controller Silicon - NetXtreme
+Ethernet Switches and Switch Fabric Devices
+Ethernet Switching Software
+Copper PHYs
+Optical PHYs
+Reference Designs
+All Ethernet Converged Network Adapters - Emulex
+10GbE CNAs
+Advanced Software for CNAs
+All Ethernet Network Adapters - NetXtreme
+All Ethernet Controller Silicon - NetXtreme
+All Ethernet Switches and Switch Fabric Devices
+RoboSwitch™
+StrataConnect®
+StrataXGS®
+StrataDNX™
+All Ethernet Switching Software
+All Copper PHYs
+PoE
+FE PHY
+Gigabit PHY
+10GBASE-T PHY
+Automotive Ethernet transceivers
+Automotive Switches
+Automotive Microcontrollers
+All Optical PHYs
+All Reference Designs
+PCIe Switches and Bridges
+ExpressFabric PCIe Switches
+PCI Express Switches
+PCI Express Bridges
+USB and PCI I/O Accelerators
+ Software Development Kits
+All ExpressFabric PCIe Switches
+PCIe Gen 3
+All PCI Express Switches
+All PCI Express Bridges
+All USB and PCI I/O Accelerators
+USB Controllers & Bridges
+I/O Accelerators - Local Bus Master & Target Bridges
+USB Software Resources
+All  Software Development Kits
+Fiber Optic Modules and Components
+Fast Ethernet and Industrial Fiber Optics
+Optical Components for Broadband Networking
+High-Speed Networking Fiber Optics from FIT
+All Fast Ethernet and Industrial Fiber Optics
+Automotive Products
+Cables, Evaluation Kits and Accessories
+High Galvanic Isolation Link
+Fiber Optics Transceivers
+Industrial Transmitters and Receivers
+Optical Fiber Sensors
+Optical Power Components
+All Optical Components for Broadband Networking
+Long Reach InP DIE Components
+Short Reach GaAs DIE Components
+Physical Medium Dependent (PMD) ICs
+Digital Optics
+Optical Transmit and Receive Subassemblies
+TO-Cans
+All High-Speed Networking Fiber Optics from FIT
+LEDs and Displays
+7-Segment LED Displays
+Auto Focus Auxiliary Flash Lamps
+ChipLEDs
+Dot Matrix LED Displays 
+High Brightness LEDs
+High Power LEDs
+LED Light Bars
+Smart Alphanumeric Displays
+Standard Brightness LEDs
+Subminiature Lamps
+Surface Mount PLCC LEDs
+All 7-Segment LED Displays
+Through-hole
+Surface Mount
+All Auto Focus Auxiliary Flash Lamps
+All ChipLEDs
+Automotive ChipLEDs
+Multi-color Surface Mount ChipLEDs
+Reverse Surface Mount ChipLEDs
+Right Angle Surface Mount ChipLEDs
+0402 (1.0mm X 0.5mm) Top Mount ChipLEDs
+0603 (1.6mm X 0.8mm) Top Mount ChipLEDs
+0805 (2.0mm X 1.2mm) Top Mount ChipLEDs
+1206 (3.2mm X 1.6mm) Top Mount ChipLEDs
+All Dot Matrix LED Displays 
+All High Brightness LEDs
+Surface Mount
+Oval Through-Hole Lamps
+Round Through-Hole Lamps
+All High Power LEDs
+1W LED Emitter
+1W Mini LED Emitter
+3W LED Emitter
+3W Mini LED Emitter
+Moonstone™ 0.5W LED Emitter
+Moonstone™ 1W LED Emitter
+Moonstone™ 3W LED Emitter
+Moonstone™ Collimating Lens
+All LED Light Bars
+Bar Graph Arrays 
+Bi-color
+Single Color
+All Smart Alphanumeric Displays
+Parallel Interface
+Serial Interface
+All Standard Brightness LEDs
+3mm T-1 LED Lamps 
+5mm T-1 3/4 LED Lamps
+Bicolor LEDs
+Rectangular LEDs
+Resistor LEDs
+All Subminiature Lamps
+Dome Resistor Subminiature LEDs
+Dome Subminiature LEDs
+Flat-Top Subminature LEDs
+All Surface Mount PLCC LEDs
+DFN LEDs
+Mini PLCC-2 LEDs
+PLCC-2 LEDs
+PLCC-4 LEDs
+PLCC-6 LEDs
+Motion Control Encoders
+ Absolute Encoders 
+Encoder Accessories
+ Encoder Code Wheels 
+ Incremental Encoders
+Housed Encoders 
+Integrated Circuits
+ Magnetic Encoders
+Rotary Switches
+All  Absolute Encoders 
+All Encoder Accessories
+Alignment Tools
+Cables and Connectors
+Evaluation Kits
+All  Encoder Code Wheels 
+Glass Encoder Code Wheels
+Metal Encoder Code Wheels
+Mylar Encoder Code Wheels
+All  Incremental Encoders
+Encoder Line Drivers 
+Incremental Encoders and Code Wheels
+Reflective Encoders
+Transmissive Encoders 
+All Housed Encoders 
+ Absolute Encoders 
+ Incremental Encoders
+All Integrated Circuits
+Controller ICs
+Decoder ICs
+Line Driver ICs 
+All  Magnetic Encoders
+All Rotary Switches
+Optocouplers
+Automotive
+Hermetic
+Industrial Plastic
+All Automotive
+Digital Optocouplers
+Isolated Gate Drive Optocouplers
+IPM Interfaces
+Isolation Amplifiers
+Optocoupler with transistor or MOSFET output
+All Hermetic
+Digital Optocouplers
+AC-DC to Logic Interfaces
+High-Speed Logic Gates
+IPM Interfaces
+Isolation Amplifiers
+Isolated Gate Drive Optocouplers
+Power MOSFETs
+Transistor Outputs
+All Industrial Plastic
+Digital Optocouplers
+IPM Interfaces
+Isolation Amplifiers & Modulators
+Isolated Gate Drive Optocouplers
+Specific Function Optocouplers
+Other Products 
+Optical Sensors
+Ambient Light Sensors
+Integrated Ambient Light and Proximity Sensors
+Proximity Sensors
+Time-of-Flight 3D Sensors
+Silicon Photomultiplier (SiPM)
+Spectrometers
+All Ambient Light Sensors
+All Integrated Ambient Light and Proximity Sensors
+All Proximity Sensors
+All Time-of-Flight 3D Sensors
+All Silicon Photomultiplier (SiPM)
+All Spectrometers
+Spectrometers Qwave
+Spectrometers Qmini
+Spectrometers Qred
+Custom Silicon
+Application-specific Integrated Circuits (ASICs)
+Preamplifiers
+All Application-specific Integrated Circuits (ASICs)
+All Preamplifiers
+CA Technologies Products
+Applications
+All Applications
+Data Center Networking
+Enterprise Storage
+Broadband and Wired Networking
+Wireless and Mobile Communications
+Industrial and Automotive
+Data Center Networking
+Software-Defined Networking
+Cloud Scale Networking  
+Data Center Networking Solutions
+Hyperscale Data Center Performance
+Accelerate Cloud Deployments, Reduce Costs
+Streamline Data Centers for Scalable Computing
+Reduce Data Center Costs
+ExpressFabric: Thinking Outside the Box
+Cloud Computing with PCIe Switches
+Enterprise Storage
+NVMe over Fibre Channel (FC-NVMe)
+Breaking Down Big Data to Drive Data Flow Architecture
+Storage and PCI Express -- A Natural Combination
+SAN Automation
+Fibre Channel in the Enterprise
+The Challenge of Protecting Data with RAID
+Break through Storage Bottlenecks
+End-to-End NVMe
+Storage Fabrics Technology
+Broadband and Wired Networking
+5G-HD Enterprise Wi-Fi
+Broadband Access Solutions
+Wireless and Mobile Communications
+Smartphones
+Innovative Wireless Solutions
+Industrial and Automotive
+Industrial Ethernet
+Automotive Solutions
+Industrial Networking
+Medical Systems & Equipment
+Motor Control
+Motor Drive Solutions
+Solar Power
+Wind Power
+Support
+Documents, Downloads and Support
+Support
+Customer Support Portal
+Support Documents and Downloads
+Login to MyBrocade
+Connect
+Ethernet Developer Community
+Fibre Channel Networking Community
+Choose Your Product
+MegaRAID and HBAs
+PCIe Switches and Bridges
+ Brocade Global Support
+Converged Network Adapters Support - UCNA
+Emulex Fibre Channel Support
+Components, SOCs or Custom Products
+CA Technologies - Services & Support
+More Resources
+Document Library
+Video Library
+Product Security Center
+Feedback and Comments
+Company
+About Us
+Careers
+Citizenship
+Contact Us
+Investor Center
+Blog
+News
+Find a Partner
+Tradeshows & Events
+About Us
+Company History
+Executives
+Industry Standards
+Citizenship
+Governance and Ethics
+Quality 
+Environment
+Contact Us
+Contact Sales
+Locations
+Manufacturing Rep
+Media Contacts
+Logo Request
+Ask an Expert
+Feedback and Comments
+Investor Center
+Stock Information
+Financial News Releases
+Historical Results
+Events & Presentations
+SEC Filings
+Proxy Materials
+Governance
+Analyst Coverage
+Transfer Agent
+Restricted Partnership Units
+News
+Product News Releases
+Financial News Releases
+Find a Partner
+Emulex OEM Partners
+Ethernet Network Adapters
+Brocade OEM Partners
+Brocade Alliance Partners
+How to Buy
+Sales
+Distributors
+Portal Access
+Terms and Conditions
+
+										Broadcom Completes Acquisition of CA Technologies
+
+													Read More
+
+										INDUSTRY 4.0
+Ethernet is embracing the next wave of industrialization as the backbone of the modern, digital era.
+
+													Learn More
+
+										ADVANCING NEXT-GENERATION AUTOMOTIVE ELECTRONICS
+OEMs set their sights on in-vehicle electronics.
+
+													Learn More
+What are you designing Today?
+Cloud Scale Networks
+5G-HD Enterprise WiFi
+Broadband Access Solutions
+Smartphones
+Automotive Solutions
+Customer Support Portal for Broadcom enterprise customers now available via myBroadcom
+Support Portal
+Access our library of product documentation and software downloads
+Documents + Downloads
+
+		        Latest Products
+
+													BCM87400
+
+									            	7 nm 400GbE PAM-4 PHY (8:4)
+
+													BCM6752
+
+									            	Multicore SoC with Gigabit Ethernet and 802.11ax Wi-Fi
+
+													BCM6755
+
+									            	Multicore SoC with Gigabit Ethernet and 802.11ax Wi-Fi
+
+													BCM63178
+
+									            	High-Performance Multimode Tri-Band Wi-Fi Router
+
+													BCM8988X
+
+									            	100BASE-T1 /1000BASE-T1 Single-Port Automotive Ethernet Transceiver
+
+													BCM8910X
+
+									            	Automotive Camera MCU with Image Processing and Ethernet Streaming Pipeline
+Show More Products
+
+			News
+11/05/2018
+
+                	Thoma Bravo to Acquire Veracode Software from Broadcom Inc.
+11/05/2018
+
+                	Broadcom Inc. to Announce Fourth Quarter and Fiscal Year 2018 Financial Results on Thursday, December 6, 2018
+11/05/2018
+
+                	Broadcom Inc. Completes Acquisition of CA Technologies
+
+					More News
+
+            Featured Video
+
+	                    Meet Broadcom, a global infrastructure technology leader with deep roots tracing back to the early days of the microelectronics and software industry. 
+Broadcom Inc. is a global technology leader that designs, develops and supplies a broad range of semiconductor and infrastructure software solutions. Broadcom’s category-leading product portfolio serves critical markets including data center, networking, software, broadband, wireless, storage and industrial. Our solutions include data center networking and storage, enterprise and mainframe software focused on automation, monitoring and security, smartphone components, telecoms and factory automation.
+Products
+Wireless Embedded Solutions and RF Components
+Storage Adapters, Controllers, and ICs
+Fibre Channel Networking
+Broadband: CPE-Gateway, Infrastructure, and Set-top Box
+Embedded and Networking Processors
+Ethernet Connectivity, Switching, and PHYs
+PCIe Switches and Bridges
+Fiber Optic Modules and Components
+LEDs and Displays
+Motion Control Encoders
+Optocouplers
+Optical Sensors
+Custom Silicon
+Applications
+Data Center Networking
+Enterprise Storage
+Broadband and Wired Networking
+Wireless and Mobile Communications
+Industrial and Automotive
+Support
+Documents, Downloads and Support
+Connect
+Choose Your Product
+More Resources
+Company
+About Us
+Careers
+Citizenship
+Contact Us
+Investor Center
+Blog
+News Room
+OEM Partners
+Tradeshows & Events
+How to Buy
+Sales
+Distributors
+Portal Access
+Terms and Conditions
+Products
+Applications
+Support
+Company
+How to Buy
+
+        		Copyright © 2005-2018 Broadcom. All Rights Reserved. The term “Broadcom” refers to Broadcom Inc. and/or its subsidiaries.
+Privacy Policy
+Cookie Policy
+Terms of Use
+Sitemap
+×
+
+                 		Download Agreement
+
+                   Thank you for downloading
+
+                    Document has been expired / UnAuthorized access
+Cancel
+I Agree

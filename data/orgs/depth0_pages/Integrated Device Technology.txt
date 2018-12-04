@@ -214,11 +214,11 @@ Best-in-class performance in a wide array of applications ranging from industria
 Show All Products
 Clocks & Timing
 Application-Specific Clocks 
-(366)
+(368)
 Network Synchronization 
-(45)
+(47)
 IEEE 1588 and Synchronous Ethernet Clocks 
-(30)
+(32)
 PDH and SONET/SDH Clocks 
 (15)
 PCI Express® Clocks 
@@ -256,7 +256,7 @@ Clock Multiplexers (MUX)
 Zero Delay Buffers (ZDB) 
 (84)
 Clock Generation 
-(325)
+(339)
 Clocks - Extreme Performance (<150 fs RMS) 
 (5)
 Clocks - General Purpose 
@@ -264,13 +264,13 @@ Clocks - General Purpose
 Clocks - Low Jitter (<700 fs RMS) 
 (100)
 Clocks - Ultra-Low Jitter (<300 fs RMS) 
-(37)
+(44)
 Programmable Clocks 
-(94)
+(101)
 Crystal Oscillators 
 (19)
 Jitter Attenuators with Frequency Translation 
-(42)
+(49)
 Sensor Products
 6LoWPAN Wireless Modules 
 (2)
@@ -310,15 +310,15 @@ Data Compression
 IO-Link Line Drivers 
 (4)
 Memory Interface Products 
-(38)
+(29)
 DDR Solutions 
-(7)
+(2)
 DDR2 Solutions 
-(11)
+(8)
 DDR3 Solutions 
 (6)
 DDR4 Solutions 
-(11)
+(10)
 DDR5 Solutions 
 (0)
 Memory Multiplexers 
@@ -444,15 +444,15 @@ Queuing FIFOs
 Synchronous FIFOs 
 (102)
 Memory Interface Products 
-(38)
+(29)
 DDR Solutions 
-(7)
+(2)
 DDR2 Solutions 
-(11)
+(8)
 DDR3 Solutions 
 (6)
 DDR4 Solutions 
-(11)
+(10)
 DDR5 Solutions 
 (0)
 Memory Multiplexers 

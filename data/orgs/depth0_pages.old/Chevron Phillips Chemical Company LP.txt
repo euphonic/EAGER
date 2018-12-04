@@ -1,0 +1,76 @@
+Toggle navigation
+Toggle search
+Search this site
+Contact Us
+Credit Inquiry
+SDS
+TDS
+Login
+About Us 
+Leadership Team
+Owner Information
+Diversity & Inclusion
+Community & Sponsorships
+Financial Information
+Business Continuity
+Industry Glossary
+FAQ
+Locations
+HQ Visitors
+Careers
+Environment, Health & Safety 
+Accomplishments
+Product Regulatory Overviews
+Product Summaries
+REACH
+Responsible Care®
+Sustainability
+Operational Excellence Policy
+Newsroom
+Product Lines 
+Aromatics
+Drilling Specialties
+Normal Alpha Olefins
+Olefins
+Performance Pipe
+Polyalphaolefins
+Polyethylene
+Specialty Chemicals
+Technology 
+Licensing
+Chevron Phillips Chemical
+ Print
+                            
+1
+2
+3
+4
+5
+Prev
+Next
+Featured Stories
+Chevron Phillips Chemical will host its 18th annual Regional Odorant Spill Exercise (R.O.S.E.) and Symposioum on November 1, 2018 at The Woodlands Emergency Training Center in Conroe, Texas.
+Senior Vice President of Polymers and Specialties David Morgan spoke with BIC Magazine about the drivers behind the second chapter of petrochemical investment. 
+Chevron Phillips Chemical President and CEO Mark Lashier discussed with Houston Business Journal the business opportunities that have shaped company strategy in the last year and where he sees future growth potential. 
+Worldwide Operations
+Page Content
+Connect with us:
+Copyright © 
+Chevron Phillips Chemical Company
+ (2000-2018) All Rights Reserved. 
+Legal Notice
+Privacy Statement
+California Transparency in Supply Chains Act Disclosure 
+RegisterSod("sp.core.js", "\u002f_layouts\u002fsp.core.js?rev=7ByNlH\u00252BvcgRJg\u00252BRCctdC0w\u00253D\u00253D");
+RegisterSod("sp.res.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=b6\u00252FcRx1a6orhAQ\u00252FcF\u00252B0ytQ\u00253D\u00253D");
+RegisterSod("sp.runtime.js", "\u002f_layouts\u002fsp.runtime.js?rev=IGffcZfunndj0247nOxKVg\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.core.js");RegisterSodDep("sp.runtime.js", "sp.res.resx");
+RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002fsp.ui.dialog.js?rev=Tpcmo1\u00252FSu6R0yewHowDl5g\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.core.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");
+RegisterSod("cui.js", "\u002f_layouts\u002fcui.js?rev=OOyJv78CADNBeet\u00252FvTvniQ\u00253D\u00253D");
+RegisterSod("core.js", "\u002f_layouts\u002f1033\u002fcore.js?rev=SOHb8QpQbDKjMMLcALajZQ\u00253D\u00253D");
+RegisterSod("inplview", "\u002f_layouts\u002finplview.js?rev=WB6Gy8a027aeNCq7koVCUg\u00253D\u00253D");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");
+RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=YhBHGmUAGyJ3lAgSdE4V\u00252Fw\u00253D\u00253D");
+RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=q6nxzZIVVXE5X1SPZIMD3A\u00253D\u00253D");
+RegisterSod("sp.ui.pub.ribbon.js", "\u002f_layouts\u002fsp.ui.pub.ribbon.js?rev=RGQSBI9Dm0E345iq\u00252FxUpHg\u00253D\u00253D");
+RegisterSod("msstring.js", "\u002f_layouts\u002f1033\u002fmsstring.js?rev=QtiIcPH3HV7LgVSO7vONFg\u00253D\u00253D");
+RegisterSod("browserScript", "\u002f_layouts\u002f1033\u002fie55up.js?rev=UgTcwUTI6YcRzTMBxD93Xg\u00253D\u00253D");
+RegisterSodDep("browserScript", "msstring.js");

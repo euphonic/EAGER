@@ -1,0 +1,240 @@
+ixf_target_enabled
+be_ixf; dotnet_sdk; dotnet_sdk_1.4.9
+203 ms
+iy_2018; im_11; id_09; ih_15; imh_42; i_epoch:1541806972243
+ixf-compiler; ixf-compiler_1.0.0.0
+py_2018; pm_10; pd_24; ph_13; pmh_18; p_epoch:1540412281708
+link-block-publisher; link-block-publisher_1.0.0.0; bodystr
+pn_tstr:Wed Oct 24 13:18:01 PDT 2018; pn_epoch:1540412281708
+0 ms
+be_ixf; dotnet_sdk; dotnet_sdk_1.4.9
+https://www.dolby.com/us/en/professional/licensing.html
+https://www.dolby.com/us/en/professional/licensing.html
+DOLBY
+Search
+Popular Searches
+Dolby Atmos
+Speaker Setup Guide
+Dolby Atmos Blu-rays
+Drivers
+AC-3
+Dolby Digital Plus
+Show All Results
+Cinema
+Cinema Experiences
+Dolby 
+Cinema
+Filmmaker 
+Profiles
+Dolby 
+Institute
+2018 
+Oscars
+Dolby Screening 
+Rooms
+Cinema Products for Exhibitors
+Professional 
+Products
+Dolby 
+Atmos
+Dolby 
+3D
+Tools for Content Creators
+Dolby 
+Vision
+Content 
+Services
+Home
+Home Technologies
+Dolby 
+Vision
+Dolby 
+Atmos
+Dolby 
+Audio
+Dolby Digital 
+Plus
+Dolby 
+Access
+How to Get It
+Speaker Setup 
+Guides
+AVRs
+Blu-ray
+Games
+PCs
+Sound 
+Bars
+TVs
+For Professionals
+Broadcast
+Content 
+Creation
+Licensing
+Streaming
+Mobile
+Mobile Technologies
+Dolby 
+Atmos
+Dolby 
+Audio
+Dolby 
+Vision
+Dolby Digital 
+Plus
+Dolby 
+Access
+How To Get It
+Apps
+Smartphones
+Tablets
+PCs
+Games
+For Professionals
+Game 
+Development
+PC and 
+Mobile
+Streaming
+Office
+Conferencing solutions
+Dolby Voice 
+overview
+Dolby Voice software 
+platform
+Dolby Conference 
+Phone
+News and related 
+articles
+Get the Dolby Voice experience
+Dolby Conference Phone 
+resellers
+Dolby Voice service 
+providers
+Case 
+studies
+For professionals
+Become a 
+reseller
+Become a service 
+provider
+Documentation
+Support
+Professionals
+Industry Solutions
+A/V Installers and 
+Retailers
+Broadcast
+Content 
+Creation
+Game 
+Development
+Cinema
+SLS Professional 
+Audio
+PC and 
+Mobile
+Streaming
+Services and Support
+Licensing
+Dolby Customer 
+Portal
+Dolby Conference Phone 
+Support
+Warranty and 
+Maintenance
+Contact 
+Us
+DOLBY
+Cinema
+Home
+Mobile
+Office
+Professionals
+Getting Licensed
+Thank you for your interest in Dolby Laboratories. To apply for a license to include Dolby technologies in your products, please follow these instructions.
+If you are an existing Dolby Licensee, please contact your sales manager.
+If you are unsure who your sales manager is, please reach out to 
+SalesSupport@dolby.com
+Getting Licensed: Step 1
+Complete the following application form to indicate your interest in a Dolby® license.
+Dolby License Application Form
+The license application will ask a series of questions regarding the account and contact information, as well as the technology and product information - taking about 10 minutes to complete.
+Please be prepared to provide financial information about your company.
+
+Step 2
+Dolby will send you a contract to complete—review, sign, and return the contract with the initial license fee. We will then send you the requested technology; marketing, testing, and implementation tools; and other important information about working with Dolby.
+Step 3
+Submit your product or implementation containing Dolby technology for testing to ensure that it meets our quality standards. Upon approval, your company becomes an official Dolby Licensee. You will be added to the Dolby Licensee list so you can work with other Dolby Licensees to buy or sell implementations.
+Windows Licensing Program
+If you would like to license the Dolby Audio™ technologies included in the Microsoft® Windows® operating system, please complete the questionnaire on the 
+Windows Licensing Program
+ page and indicate how many devices your OEM company will be making per year. Based on your response, we will assist you with obtaining a new licensing agreement to support the use of Dolby Audio (supporting Dolby Digital Plus™) in Windows and which will be natively supported by the new Microsoft Edge browser for the playback of web-based content as well as accessible by third-party Windows Store and Universal apps. You must have an agreement with Dolby prior to the shipment of any Windows devices.
+ Agreement for Encoded Content and Media
+If you would like to use Dolby trademarks to indicate that your recorded audio content has been encoded with Dolby technologies, or to use Dolby trailers at the beginning of broadcasts, games, or video programs, you must complete a 
+Dolby Logo Use Agreement Application
+ (trademark agreement).
+Agreement for Motion Pictures
+If you are creating a motion picture and want to release it in Dolby Digital audio, you will need to complete a 
+Motion Picture Service Agreement
+ (MPSA).
+Licensed Dolby Manufacturers
+Use this list to verify that consumer electronics products you purchase bearing the Dolby logo and trademark are genuinely licensed by Dolby Laboratories.
+Licensed Dolby Manufacturers
+Cinema
+Home Theater
+Mobile
+Office
+Professionals
+AV Installers and Retailers
+Broadcast
+Cinema
+Content Creation
+Content Services
+Game Development
+PC
+Streaming
+Who We Are
+Leadership
+Worldwide Offices
+Dolby Cares
+Environmental Commitment
+Brand Identity
+Careers
+Working at Dolby
+News
+Press Releases
+Investors
+Company Financials
+Corporate Governance
+Stock Information
+Investor Resources
+Region :
+Brasil
+中国
+France
+Deutschland
+India
+Italia
+日本
+대한민국
+España
+Latinoamérica
+Россия
+United States
+Support
+|
+EU Funding
+|
+Privacy Policy
+|
+Cookie Policy
+|
+Terms of Use
+Facebook
+Twitter
+LinkedIn
+YouTube
+Instagram
+Vimeo
+Dolby and the double-D symbol are registered trademarks of Dolby Laboratories. All other trademarks remain the property of their respective owners. © 2018 Dolby Laboratories, Inc. All rights reserved.

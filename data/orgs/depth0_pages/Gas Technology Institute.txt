@@ -1,252 +1,165 @@
-Connect With Us:
-Twitter
-Facebook
-Linkedin
-Youtube
-Customer Login
-
-						Top Link Bar
-Home
-Currently selected
-Solutions
-Services
-Expertise
-Training
-Events
-About Us
-Contact
-Working with GTI
-Home
-Minimizing environmental impact and maximizing efficiency of hydraulic fracturing at the HFTS
-Advancing high-efficiency power generation with compact modular systems
-Innovative developments to lower energy consumption, reduce energy costs, and minimize environmental footprint
-GTI and Yangquan partner to build R-GAS coal gasification demonstration plant
-Protecting aboveground meter set assemblies against damage from outside forces with a breakaway fitting
-View in Web Browser
-0x0
-0x1
-FileType
-vdw
-255
-Manage Subscriptions
-/_layouts/images/ReportServer/Manage_Subscription.gif
-0x80
-0x0
-FileType
-rdl
-350
-Manage Data Sources
-0x0
-0x20
-FileType
-rdl
-351
-Manage Shared Datasets
-0x0
-0x20
-FileType
-rdl
-352
-Manage Parameters
-0x0
-0x4
-FileType
-rdl
-353
-Manage Processing Options
-0x0
-0x4
-FileType
-rdl
-354
-Manage Cache Refresh Plans
-0x0
-0x4
-FileType
-rdl
-355
-View Report History
-0x0
-0x40
-FileType
-rdl
-356
-View Dependent Items
-0x0
-0x4
-FileType
-rsds
-350
-Edit Data Source Definition
-0x0
-0x4
-FileType
-rsds
-351
-View Dependent Items
-0x0
-0x4
-FileType
-smdl
-350
-Manage Clickthrough Reports
-0x0
-0x4
-FileType
-smdl
-352
-Manage Model Item Security
-0x0
-0x2000000
-FileType
-smdl
-353
-Regenerate Model
-0x0
-0x4
-FileType
-smdl
-354
-Manage Data Sources
-0x0
-0x20
-FileType
-smdl
-351
-Load in Report Builder
-0x0
-0x2
-FileType
-smdl
-250
-Edit in Report Builder
-/_layouts/images/ReportServer/EditReport.gif
-0x0
-0x4
-FileType
-rdl
-250
-Edit in Report Builder
-0x0
-0x4
-FileType
-rsd
-250
-Manage Caching Options
-0x0
-0x4
-FileType
-rsd
-350
-Manage Cache Refresh Plans
-0x0
-0x4
-FileType
-rsd
-351
-Manage Data Sources
-0x0
-0x20
-FileType
-rsd
-352
-View Dependent Items
-0x0
-0x4
-FileType
-rsd
-353
-Compliance Details
-0x0
-0x1
-ContentType
-0x01
-898
-Edit in Browser
-/_layouts/images/icxddoc.gif
-0x0
-0x1
-FileType
-xsn
-255
-Edit in Browser
-/_layouts/images/icxddoc.gif
-0x0
-0x1
-ProgId
-InfoPath.Document
-255
-Edit in Browser
-/_layouts/images/icxddoc.gif
-0x0
-0x1
-ProgId
-InfoPath.Document.2
-255
-Edit in Browser
-/_layouts/images/icxddoc.gif
-0x0
-0x1
-ProgId
-InfoPath.Document.3
-255
-Edit in Browser
-/_layouts/images/icxddoc.gif
-0x0
-0x1
-ProgId
-InfoPath.Document.4
-255
-View in Browser
-/_layouts/xlviewer.aspx?id={ItemUrl}&DefaultItemOpen=1
-0x0
-0x1
-FileType
-xlsx
-255
-View in Browser
-/_layouts/xlviewer.aspx?id={ItemUrl}&DefaultItemOpen=1
-0x0
-0x1
-FileType
-xlsm
-255
-View in Browser
-/_layouts/xlviewer.aspx?id={ItemUrl}&DefaultItemOpen=1
-0x0
-0x1
-FileType
-xlsb
-255
-View in Browser
-/_layouts/xlviewer.aspx?id={ItemUrl}&DefaultItemOpen=1
-0x0
-0x1
-FileType
-ods
-255
-More
+Careers   
 News
-Events
-STEP Demo: Low-Carbon Power Generation​
-A Step Change in Hydraulic Fracturing
-Update your workforce training programs
-Media
-Careers
-Reports + Software
-Market Results
-Customer Login
-Site Map
-RegisterSod("sp.core.js", "\u002f_layouts\u002fsp.core.js?rev=7ByNlH\u00252BvcgRJg\u00252BRCctdC0w\u00253D\u00253D");
-RegisterSod("sp.res.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=b6\u00252FcRx1a6orhAQ\u00252FcF\u00252B0ytQ\u00253D\u00253D");
-RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002fsp.ui.dialog.js?rev=Tpcmo1\u00252FSu6R0yewHowDl5g\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.core.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");
-RegisterSod("core.js", "\u002f_layouts\u002f1033\u002fcore.js?rev=2cAv29JI6EzPZPYbnTTlQg\u00253D\u00253D");
-RegisterSod("sp.runtime.js", "\u002f_layouts\u002fsp.runtime.js?rev=IGffcZfunndj0247nOxKVg\u00253D\u00253D");RegisterSodDep("sp.runtime.js", "sp.core.js");RegisterSodDep("sp.runtime.js", "sp.res.resx");
-RegisterSod("cui.js", "\u002f_layouts\u002fcui.js?rev=OOyJv78CADNBeet\u00252FvTvniQ\u00253D\u00253D");
-RegisterSod("inplview", "\u002f_layouts\u002finplview.js?rev=WB6Gy8a027aeNCq7koVCUg\u00253D\u00253D");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "sp.js");
-RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=q6nxzZIVVXE5X1SPZIMD3A\u00253D\u00253D");
-RegisterSod("sp.ui.pub.ribbon.js", "\u002f_layouts\u002fsp.ui.pub.ribbon.js?rev=RGQSBI9Dm0E345iq\u00252FxUpHg\u00253D\u00253D");
-RegisterSod("msstring.js", "\u002f_layouts\u002f1033\u002fmsstring.js?rev=QtiIcPH3HV7LgVSO7vONFg\u00253D\u00253D");
-RegisterSod("browserScript", "\u002f_layouts\u002f1033\u002fnon_ie.js?rev=EVTj1bu32\u00252FMla6SDN\u00252FsNTA\u00253D\u00253D");
-RegisterSod("search.js", "\u002f_layouts\u002fsearch.js?rev=KH4kEGeuu3Mv6BpWoFYd\u00252FA\u00253D\u00253D");
-RegisterSodDep("browserScript", "msstring.js");
+Login
+Focus Areas
+Unconventional Gas & Oil
+Gasification
+Gas Conversion & Processing
+Hydrogen
+Renewable Energy
+Infrastructure Asset Management
+Pipeline Integrity
+Carbon Management
+Energy Efficiency
+Power Generation
+Alternative Transportation
+Services & Capabilities
+Research and Development
+Technical Services
+Analytical Services
+Commercialization
+Program Management
+Consulting
+Information Services
+Capabilities
+Training & Events
+Training Overview
+Classroom Training
+Online Training
+Webinars
+Onsite Training
+Certificate Programs
+Events Overview
+About
+Mission, Values & History
+Leadership & Governance
+Laboratories & Facilities
+Subsidiaries
+Corporate Citizenship
+Working with GTI
+Collaborations & Partnerships
+Proposal Solicitations
+Vendor Forms
+Client Agreements
+Contact
+×
+Focus Areas
+Unconventional Gas & Oil
+Gasification
+Gas Conversion & Processing
+Hydrogen
+Renewable Energy
+Infrastructure Asset Management
+Pipeline Integrity
+Carbon Management
+Energy Efficiency
+Power Generation
+Alternative Transportation
+Services & Capabilities
+Research and Development
+Technical Services
+Analytical Services
+Commercialization
+Program Management
+Consulting
+Information Services
+Capabilities
+Training & Events
+Training Overview
+Classroom Training
+Online Training
+Webinars
+Onsite Training
+Certificate Programs
+Events Overview
+About
+Mission, Values & History
+Leadership & Governance
+Laboratories & Facilities
+Subsidiaries
+Corporate Citizenship
+Working with GTI
+Collaborations & Partnerships
+Proposal Solicitations
+Vendor Forms
+Client Agreements
+Contact
+INNOVATIVE TECHNOLOGY SOLUTIONS
+For safe, efficient, and responsible energy
+VIEW SERVICES
+GET TRAINING
+Our Capabilities
+GTI is addressing global energy and environmental challenges across the energy value chain
+Supply
+Expanding the supply of natural gas and renewable energy
+Conversion
+Transforming natural resources into clean fuels, power, and chemicals
+Delivery
+Ensuring a safe and reliable energy delivery infrastructure
+End Use
+Promoting the clean and efficient use of energy resources
+Our Latest Initiatives
+Delivering high-impact, value-added research, technical services, and training
+All
+All
+Alternative Transportation
+Carbon Management
+Energy Efficiency
+Gas Conversion & Processing
+Gasification
+Hydrogen
+Infrastructure Asset Management
+Pipeline Integrity
+Power Generation
+Renewable Energy
+Unconventional Gas & Oil
+
+												Collaborative Supplier Monitoring for Quality Processes									
+
+												Delivering Quantitative Data to Support Natural Gas Standby and Emergency Generators									
+
+												Collaborative Technology Development for Infrastructure Construction, Maintenance, and Rehabilitation									
+
+												Minimizing environmental impacts and increasing recovery rates with the Hydraulic Fracturing Test Site (HFTS) program									
+
+												Preventing Excavation Damage									
+
+												Assessing Hydrogen Compatibility in the Natural Gas Infrastructure									
+1
+2
+3
+…
+9
+Next »
+How can we work together?
+We partner with the energy industry, major industrial firms, government agencies, equipment manufacturers, private investors, and entrepreneurial start-up companies in collaborative projects or proprietary engagements that maximize value and minimize risk
+CURRENT OPPORTUNITIES
+Want a career with a bright future?
+When the work you do impacts the world’s energy future, it’s easy to get excited about working at GTI. We’re a leader in the new energy economy and we’re looking for talented and entrepreneurial employees who can identify meaningful opportunities, develop new technologies, and deliver them to the marketplace.
+JOB OPENINGS
+What can we do for you?
+Solving important energy challenges for more than 75 years
+Research & Development
+Consulting
+Technical Services
+Analytical Services
+Training
+Program Management
+Commercialization
+Information Services
+Learn More
+Contact the energy experts today
+CONTACT US
+GTI
+1-847-768-0500
+1700 S Mount Prospect Rd.
+Des Plaines, IL
+publicrelations@gastechnology.org
+Additional Resources
+Software & Reports
+Privacy policy
+Sitemap
+About Us
+GTI is a leading independent non-profit research, development, and training organization addressing global energy and environmental challenges.
+© 2018 GTI. All Rights Reserved.
+[class*="fa fa-"]{font-family: FontAwesome !important;}

@@ -1,0 +1,157 @@
+Javascript must be enabled to view full functionality of our site.
+EN
+ENGLISH
+Select language
+ENGLISH
+中文
+日本語
+한국어
+Cart
+ PRODUCTS 
+ ARM 
+®
+ PROCESSORS 
+ Kinetis Cortex
+®
+-M Microcontrollers 
+ LPC Cortex-M Microcontrollers 
+ i.MX Applications Processors 
+ QorIQ Arm-based SoCs 
+ POWER ARCHITECTURE 
+®
+ PROCESSORS 
+ MORE PROCESSORS 
+ AUTOMOTIVE PRODUCTS 
+ In-Vehicle Network 
+ MCUs and Processors 
+ Radar 
+ Secure Car Access 
+ ANALOG 
+ IDENTIFICATION & SECURITY 
+ MIFARE 
+ NFC 
+ MEDIA AND AUDIO 
+ POWER MANAGEMENT 
+ RF 
+ SENSORS 
+ WIRELESS CONNECTIVITY 
+ DEVELOPER RESOURCES 
+ REFERENCE DESIGNS 
+ SOFTWARE CENTER 
+ MORE PRODUCT INFORMATION 
+ All Products 
+ Competitor Cross Reference Tool 
+ Packages 
+ Product Longevity Program 
+ Product Selector 
+ APPLICATIONS 
+ AUTOMOTIVE  
+ Connectivity 
+ Driver Replacement 
+ Powertrain & Vehicle Dynamics 
+ Body & Comfort 
+ In-Vehicle Experience 
+ Secure Gateway & In-Vehicle Networking 
+ INDUSTRIAL  
+ Factory Automation 
+ Home and Building Control 
+ Industrial Connectivity 
+ Motion and Motor Control 
+ Power and Energy 
+ Unmanned Aerial Vehicles (UAVs) 
+ INTERNET OF THINGS  
+ Smart Things 
+ Connected Things 
+ Secure Things 
+ NXP REFERENCE DESIGN LIBRARY  
+Technical content and expertise to help jump start your design and get you to production faster.
+ SUPPORT 
+ SUPPORT 
+ Technical Support 
+ Technical Communities 
+ Support Requests 
+ NXP Professional Services 
+ Approved Engineering Consultants 
+ Partner Directory 
+ SAMPLE & BUY 
+ Buy Direct 
+ Order Samples 
+ Distributor Network 
+ TRAINING & EVENTS 
+ Online 
+ Classroom 
+ NXP Connects 
+ NXP Technology Days 
+ Industry Events 
+ DEVELOPER RESOURCES 
+ Hardware and Software Tools 
+ Software Center 
+ Software Support and Services 
+ Reference Designs 
+ Documentation 
+ Videos 
+ ABOUT 
+ ABOUT NXP 
+ Customers 
+ Investor Relations 
+ Media Center 
+ NXP Worldwide 
+ Blogs 
+ Contact Us 
+ CORPORATE RESPONSIBILITY 
+ Environmental Compliance Organization 
+ Statement on Slavery and Human Trafficking 
+ Corporate Responsibility Report 
+ CAREERS 
+ALL
+All
+Products
+Documents
+Software & Tools
+Support
+Solutions
+Videos
+Training
+Community
+Cross Reference
+Package Search
+Chemical Finder
+Product Selector
+ADVANCING THE EDGE
+NXP introduces scalable machine learning solutions for automotive, IoT and industrial markets
+Learn More
+NXP Speeds Electric Vehicle Development with New Power Control Reference Platforms
+Discover how
+Previous
+Next
+Discover a wide range of solutions
+NXP is driving Internet of Things (IoT) innovation in the secure connected vehicle, smart connected solutions, and end-to-end security and privacy markets.
+Automotive
+Industrial
+Internet of Things
+Design Resources
+Software Center
+Search our catalog of commercial-grade software, royalty-free demonstration software and code samples.
+NXP Designs
+Explore reference designs and system solutions to jump start your design and get to production faster.
+Evaluation and Development Boards
+Find quick links to dozens of tools and resources that help you save time and reduce design complexity.
+Training
+Participate in online and in-person training sessions for all levels, from learning basics to building expertise.
+.st0{fill:#4c4c4d}
+Community
+Find quick help through thousands of peer-driven technical questions with answers from NXP support.
+Get answers
+Join Our Team
+As an ambitious team of professionals in an exciting industry, we’re always looking for passionate and talented people to join us.
+Find your role
+.st0{fill:#4c4c4d}
+Corporate Responsibility
+We strive to continuously improve and take actions that positively impact the world around us.
+Read more
+Investor Relations
+Learn about company operations, financial information and opportunities to invest in NXP.
+Read more
+|
+|
+|

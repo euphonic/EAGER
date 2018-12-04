@@ -7,6 +7,20 @@ Developers
 Creators
 Blog
 Login
+ /* Match height and vertically align to carousel-section with video */ .hp-takeover__carousel #rift-hp-takeover, .hp-takeover__carousel #rift-hp-takeover > div, .hp-takeover__carousel .rift-hp-takeover__container { display: flex; height: 100%; align-items: center; z-index: 3; } .hp-takeover__carousel #rift-hp-takeover > div, .hp-takeover__carousel .rift-hp-takeover__container > div { width: 100%; } 
+You haven't seen it until you see it in VR.
+ Oculus Go offers front row tickets, a private theater and more starting at 
+$199 USD
+*
+. 
+Shop Now
+OCULUS RIFT
+Give them the ultimate VR gaming experience for PC.
+*Refer to important terms and conditions below
+$399 USD*
+$349 USD
+*
+Shop Now
 Oculus Rift
 Buy Now
 Oculus Quest
@@ -18,9 +32,14 @@ FEATURED OCULUS GO CONTENT
 Evil Dead: Virtual Nightmare
 FEATURED STORY
 Introducing Oculus Quest, Our First 6DOF All-in-One VR System, Launching Spring 2019
- *Price shown is for shipping to 
-United States of America
-. Applicable tax and shipping costs to be listed prior to checkout based on information you provide. 
+ Offer Terms For Selected Shipping Country. 
+*Offer valid on qualifying purchases at 
+www.oculus.com
+ between 11/30/18 21:00 PST through 12/09/18 23:59 PST. 
+Cannot be combined with other offers or discounts. Discount automatically applied at check out. Not valid on prior purchases. Not valid for cash or cash equivalent. 
+Limited to 3 Oculus Go and 3 Rift devices per transaction.
+ Offer price includes shipping costs and taxes, except for the U.S. where taxes are excluded from the offer price. Facebook Technologies, LLC reserves the right to cancel or modify this offer at any time without notice. 
+Applicable taxes for U.S. purchases will be listed prior to check out based on the information you provide.
 Select your shipping country: 
 Australia
 Austria
@@ -81,12 +100,18 @@ Forums
 Support
 Order History
 Download Rift Setup
+Stay up-to-date with the Oculus newsletter **
+** By signing up you are agreeing to Oculus 
+Terms of Service
+ and 
+Privacy Policy
+.
 ©  Facebook Technologies, LLC.
 Privacy
 Legal
-requireLazy(["InitialJSLoader"], function(InitialJSLoader) {InitialJSLoader.loadOnDOMContentReady(["zeqBt","mWNSg","i4vbm","BZfXC","uY1M7","wLUkc","Iht45","uvPBk","g\/d5Y","k6RvA","B4Hrp","Hse2q","DfbBk","tObdP","Ubr0i","04ct6","G+DFr","R2ozk","5xS\/i","HCPSj","Mgu3f","MYGUi","MIpxX","a9YSO","jnBS7","TL\/NZ","UqVdp","5P\/CM","uCZx4","I6V0D","ZCbnX","Ao6tc","7youC","3kRkE","zQK+V","N9jqx","Uizyr","LI29b","YyBr0","dPPUA"]);});
+requireLazy(["InitialJSLoader"], function(InitialJSLoader) {InitialJSLoader.loadOnDOMContentReady(["JNJBL","2k\/Qv","C55IF","GMcTL","Ec\/2r","wLUkc","Y0eLE","8rKX7","rzRQS","odAyD","qnrAg","uj9FF","zWADw","UXp\/2","kNpqD","jfDvr","S\/NCd","mSvjF","nr4OX","iAK6n","KZwPf","871o\/","XwqlN","Y8D6v","Vmko5","1PXWe","UI0lk","vLBlI","i9bDu","4961o","ejs3l","djedc","TmL96","dSLHb","jaB4X","Eh9le","ZPhsL","\/esQD","XGoXn","BNRzs","1fTPN","6qYFC","dPPUA"]);});
 var bigPipe = new (require("BigPipe"))({"forceFinish":true,"config":null});
 bigPipe.beforePageletArrive("first_response")
-bigPipe.setPageID("6622902407399839747-0");CavalryLogger.setPageID("6622902407399839747-0");
+bigPipe.setPageID("6630679394165733790-0");CavalryLogger.setPageID("6630679394165733790-0");
 bigPipe.beforePageletArrive("pagelet_dock")
 bigPipe.beforePageletArrive("last_response")

@@ -27,7 +27,14 @@ Data Science
 Inference
 Education
 AI Startups
-CUDA
+Autonomous Machines
+Overview
+Industries
+Drones
+Robotics
+Intelligent Video Analytics (IVA)
+Products
+For Developers
 Data Center
 Overview
 Products
@@ -83,14 +90,12 @@ VIRTUAL GPU TECHNOLOGY
 HOLODECK
 For Creators
 FOR DEVELOPERS
-Autonomous Machines
+HEALTHCARE
 Overview
-Industries
-Drones
-Robotics
-Intelligent Video Analytics (IVA)
-Products
-For Developers
+CLARA AGX PLATFORM
+CLARA AGX SYSTEMS
+CLARA SDK
+Deep Learning for Healthcare
 Self-Driving Cars
 Overview
 SOLUTIONS
@@ -178,9 +183,16 @@ Data Science
 Inference
 Education
 AI Startups
-CUDA
-CUDA
+Autonomous Machines
+Autonomous Machines
 Overview
+Industries
+Industries
+Drones
+Robotics
+Intelligent Video Analytics (IVA)
+Products
+For Developers
 Data Center
 Data Center
 Overview
@@ -246,16 +258,13 @@ VIRTUAL GPU TECHNOLOGY
 HOLODECK
 For Creators
 FOR DEVELOPERS
-Autonomous Machines
-Autonomous Machines
+HEALTHCARE
+HEALTHCARE
 Overview
-Industries
-Industries
-Drones
-Robotics
-Intelligent Video Analytics (IVA)
-Products
-For Developers
+CLARA AGX PLATFORM
+CLARA AGX SYSTEMS
+CLARA SDK
+Deep Learning for Healthcare
 Self-Driving Cars
 Self-Driving Cars
 Overview
@@ -323,24 +332,21 @@ Social Responsibility
 ic_arrow-back-to-top
 This site requires Javascript in order to view all its content. Please enable Javascript in order to access all the functionality of this web site. Here are the 
 instructions how to enable JavaScript in your web browser.
-CEO Jensen Huang takes the stage at Supercomputing 2018
-Watch the Live Stream.
-Add to Calendar
+WATCH GTC CHINA 2018 KEYNOTE
+See NVIDIA CEO Jensen Huang's Presentation
+Watch Replay
+NVIDIA T4 CLOUD GPU SEES RECORD ADOPTION
+Flexible Design, Breakthrough Performance.
+Learn More
+Explore NGC
+Powerful containers for AI, machine learning, and HPC.
+Learn More
+THE WORLD'S FASTEST SUPERCOMPUTERS
+Powered by NVIDIA V100 Tensor Core GPUs
+Learn More
 CREATE YOUR BEST WORK IN REAL-TIME
 NVIDIA RTX
 Learn More
-Open-source, GPU-accelerated platform for data science.
-Learn More
-Volvo Selects NVIDIA DRIVE
-™
- AGX
-Infusing AI into next-generation cars.
-Learn More
-GEFORCE RTX
-™
- 2070
-GRAPHICS REINVENTED
-BUY NOW
 SHOP
 GeForce RTX
 This is Graphics Reinvented.
@@ -351,12 +357,12 @@ The Ultimate Volta-Powered PC GPU
 SHIELD TV Smart Home Edition
 4K HDR entertainment. NVIDIA-powered gaming. Smart home ready with the Google Assistant.
 GAMING
+Be The Last One Standing
+Buy GeForce GTX, get the GeForce Fortnite bundle
 THE HUNT BEGINS 
 Buy GeForce® GTX, Get Monster Hunter: World Free.
-Become The Tomb Raider
-Real-time ray tracing with GeForce RTX.
 Battlefield Will Never Be The Same
-Real-time ray tracing with GeForce RTX.
+For a limited time, buy GeForce RTX and get Battlefield V.
 Download GeForce Experience
 The essential companion to your GeForce graphics card.
 AI NEWS
@@ -369,26 +375,22 @@ Agrobot uses AI to make the most of every crop.
 Powering Autonomous Innovation across Japan
 Leading companies are adopting NVIDIA Jetson AGX Xavier across multiple industries.
 AI IN THE DATA CENTER
-NVIDIA GPU Cloud
-Tap into the power of AI and explore GPU-optimized software tools for deep learning and high performance computing.
+NGC-Ready
+NGC containers now available for more users, apps, and platforms.
 NVIDIA Tesla V100
 Now available in 32GB and 16GB HBM2 configurations.
 NVSwitch
 The first on-node switch architecture to support 16 fully-connected GPUs.
-NVIDIA Tesla T4
-NVIDIA
-®
- Tesla
-®
- T4 GPU is the world’s most advanced inference accelerator, designed to deliver state-of-the-art inference in real time.
+NVIDIA T4 Tensor Core GPU
+T4 introduces revolutionary Turing Tensor Core technology with multi-precision computing to handle diverse workloads.
 
     Platforms
    
 AI and Deep Learning
+Autonomous Machines
 Data Center
 Design and Visualization
-NVIDIA GPU Cloud
-Autonomous Machines
+Healthcare
 Self-Driving Cars
 GeForce Gaming
 SHIELD
@@ -397,7 +399,7 @@ SHIELD
    
 DGX Systems
 DRIVE PX
-GeForce GTX 20-Series
+GeForce RTX 20-Series
 NVIDIA Virtual GPU
 Jetson
 Quadro
@@ -423,16 +425,18 @@ Contact Us
 Security
 Platforms
 AI and Deep Learning
+Autonomous Machines
 Data Center
-NVIDIA GPU Cloud
+Design and Visualization
+Healthcare
 Self-Driving Cars
 GeForce Gaming
 SHIELD
 Products
-DGX-1
+DGX Systems
 DRIVE PX
-GeForce GTX 10-Series
-Virtual GPU
+GeForce RTX 20-Series
+NVIDIA Virtual GPU
 Jetson
 Quadro
 SHIELD TV

@@ -48,6 +48,7 @@ Canada
 Europe & North Africa
 Lower 48
 New International Ventures
+Commercial Gas & Power
 LNG Technology & Licensing
 Integrating Sustainability
 Safety, Health & Security
@@ -97,6 +98,7 @@ Canada
 Europe & North Africa
 Lower 48
 New International Ventures
+Commercial Gas & Power
 LNG Technology & Licensing
 Integrating Sustainability
 Safety, Health & Security
@@ -153,18 +155,18 @@ Learn More
 For
  Investors
 NYSE
-11/09/2018
+11/30/2018
 4:03 PM EST
 COP
-66.73
--0.18
--0.27%
+66.18
+-0.69
+-1.03%
 COP
-66.73
--0.18
--0.27%
+66.18
+-0.69
+-1.03%
 NYSE
-11/09/2018
+11/30/2018
 4:03 PM EST
 News & Media
 Highlight
@@ -454,6 +456,7 @@ Canada
 Europe & North Africa
 Lower 48
 New International Ventures
+Commercial Gas & Power
 LNG Technology & Licensing
 Integrating Sustainability
 Safety, Health & Security

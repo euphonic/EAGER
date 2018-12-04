@@ -1,0 +1,562 @@
+Innovation. Quality. Service. Affordability
+Menu
+Home
+Products
+ Close
+Manipulators
+Single Axis
+Two Axis
+Three Axis
+Gimbal Tilt
+Rotary-Linear Magnetic Intro Arms
+Differentially Pumped Rotary Platforms
+Magnetic Rotary Feedthroughs
+Horizontal Linear Translator
+Bi-directional Sample Translator
+Controls & Automation
+Programmable Temperature Controller
+IR-2000 Power Supply
+Motorization
+Ebeam Control Electronics
+Evaporators
+Filament Style
+Crucible Style
+E-Beam
+Gas Sources
+Hydrogen Cracker
+Oxygen Cracker
+Heating & Cooling
+Sample Heating & Cooling
+Bakeout Heating
+Probe Stations
+1″ Sample Size
+2″ Sample Size
+3″-4″ Sample Size
+6″ Sample Size
+Target Sample Holders
+GLAD
+Pulsed Laser Deposition
+Single Target Holders
+Sample Holders–Transfer Devices
+Sample Stages
+Transfer Devices
+Sample Holders
+Chamber Accessories
+Chamber Bakeout
+Port Aligners
+Multi-Port Adaptors
+Differentially Pumped Quick Access Doors
+Vibration Isolator
+Hat Washers
+About Us
+Contact Us
+Quotelists
+ Close
+
+    Please login or register for an account to create a quotelist
+Edit Quotelist
+
+			Home 2		
+Nicky Auten
+
+			2017-01-12T20:45:22+00:00		
+INNOVATION 
+QUALITY 
+SERVICE 
+AFFORDABILITY 
+
+			Manipulators 
+(44)
+
+			Controls & Automation 
+(6)
+
+			Evaporators 
+(4)
+
+			Gas Sources 
+(2)
+
+			Heating & Cooling 
+(2)
+
+			Probe Stations 
+(4)
+
+			Target Sample Holders 
+(3)
+
+			Sample Holders--Transfer Devices 
+(7)
+
+			Chamber Accessories 
+(16)
+
+			Hat Washers 
+(1)
+McAllister Technical Services
+McAllister Technical Services (MTS) was founded in Berkeley, California in 1981. Our goal has been to offer top quality, genuinely innovative scientific equipment, and custom devices at a fair price.
+Product Warranty
+Except as stated below regarding expendable items, products manufactured by McALLISTER TECHNICAL SERVICES (“MTS”) are warranted against defects in materials and workmanship for a period of twelve (12) months from the date of shipment from MTS to the buyer. Expendable items such as heaters, filaments, seals, etc., by their nature may not function for one year. If expendable items fail to give reasonable service for a reasonable period of time, as determined solely by MTS, they will be repaired or replaced by MTS at its election.
+This warranty applies only to valid warranty claims received by MTS within the applicable warranty period regarding parts manufactured, and labor provided, by MTS. The buyer must notify MTS of any defect, malfunction, or nonconformity promptly upon discovery.
+Liability under this warranty is expressly limited to replacement or repair (at MTS’s option) of defective parts returned prepaid to MTS.  MTS may at any time discharge its warranty as to any of its products by refunding the purchase price and taking back the products.
+All warranty replacement or repair of parts shall be limited to equipment malfunctions which, in the sole option of MTS, are due or traceable to defects in original materials or workmanship. Any modification to the product by the buyer or their agent voids this warranty. Malfunctions caused by abuse or neglect of equipment, accident, or by parts not manufactured by MTS are expressly not covered by this warranty.
+MTS expressly disclaims responsibility for any loss or damage caused by the use of its products other than in accordance with proper operating and safety procedures. Reasonable care must be taken by the user to avoid hazards.
+In-warranty repairs or replacement parts are warranted only for the remaining unexpired portion of the original warranty period applicable to the parts which were repaired or replaced.
+After expiration of the applicable warranty period, the buyer shall be charged for any repairs or replacements made by MTS at its then current prices for parts, labor, and transportation.
+This express warranty is in lieu of any and all other warranties. Except as stated herein, MTS makes no warranty, express or implied (either in fact or by operation of law), statutory or otherwise; and MTS shall have no liability for special or consequential damages of any kind or from any cause arising out of the sale, installation, or use of any of its products. Statements made by any person, including representatives of MTS, which are inconsistent or in conflict with the terms of this warranty shall not be binding upon MTS unless reduced to writing and approved by an officer of MTS.
+MTS reserves the right to make changes or improvements in its products without incurring any obligation to similarly alter products previously purchased.
+If the buyer and MTS disagree over either’s performance under the terms of this warranty, the buyer may submit the matter for resolution to arbitration before an arbitrator agreed upon by both parties; and if no agreement is reached, then the dispute shall be submitted to arbitration under the rules of the American Arbitration Association.
+Search for Products
+Search
+Manipulators
+Single Axis
+BLT Series
+Standard
+With Guide Rods
+No Guide Rods
+Slimline Series
+Thimble-Style
+ZA Series
+Two Axis
+MC Series
+Three Axis
+MA Series
+MB Series
+Rotary-Linear Magnetic Intro Arms
+Magnetic Rotary Feedthroughs
+Differentially Pumped Rotary Platforms
+Gimbal Tilt
+McTilt
+Bi-directional Sample Translator
+Horizontal Linear Translator
+HLT Series
+Controls & Automation
+Motorization
+Ebeam Electronics
+IR-2000 Power Supply
+Programmable Temperature Controller
+Evaporators
+E-Beam
+Crucible Style
+Filament Style
+Gas Sources
+Hydrogen Cracker
+Oxygen Cracker
+Heating & Cooling
+Bakeout Heating
+Sample Heating & Cooling
+Probe Stations
+1″ Sample Size
+2″ Sample Size
+3″-4″ Sample Size
+6″ Sample Size
+Target Sample Holders
+GLAD
+Pulsed Laser Deposition
+Single Target Holders
+Sample Holders–Transfer Devices
+Sample Holders
+Sample Stages
+Transfer Devices
+Chamber Accessories
+Chamber Bakeout
+Differentially Pumped Quick Access Doors
+Port Aligners
+Multi-Port Adaptors
+Vibration Isolator
+Hat Washers
+McAllister Technical Services
+1124 E Sherman Ave
+
+Coeur d’Alene, ID 83814
+
+Email: solutions@mcallister.com
+
+Phone 208-772-9527
+
+Toll-Free 800-445-3688
+
+Fax 208-772-3384
+Having trouble finding something on the new site?
+Go to our old site
+©2016 - McAllister Technical Services
+
+Site design by:  
+Circular Pattern vs. Square Pattern
+XY Manipulator motions are defined as either 
+Circular Pattern
+ (sometimes called 
+Vector Sum
+) or as 
+Square Pattern
+.
+For example, a manipulator with a ±0.5″ (±12.5 mm) of XY travel, 
+Circular Pattern
+, will move the center of the translated device anywhere within a 1″ (25 mm) circle, as shown in the graphic, below. Note that the radial offset (the sum of the vectors) will remain constant while the individual X and Y offsets vary. For a manipulator with ±1.0″ (±25 mm) of XY travel, 
+Circular Pattern
+, the values will be twice that of the ±0.5″ (±12.5 mm) values but the relationships will persist.
+Unless specified otherwise, 
+all
+MTS
+ manipulators, as well as 
+all
+ other manufacturer’s manipulators are circular pattern. Also, the minimum bellows ID 
+must
+ equal twice the radial offset 
+plus
+ the diameter of the device to be translated. Be sure to keep this in mind when specifying a manipulator.
+A manipulator with ±0.5″ (±12.5 mm) of XY travel, 
+Square Pattern
+, will move the center of the translated device anywhere within a 1″ 
+square
+ so that when both the X and Y orthogonal offsets are at 0.5″ (12.5 mm), the bellows is 
+actually
+ offset 0.707″ (18 mm). As above, for a manipulator with ±1.0″ (±25 mm) of XY travel, the values will be twice that of the ±0.5″ (±12.5 mm) values, but the relationships will persist.
+Manual (Standard)
+Comes standard with Handwheel.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 23 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+Manual (Standard)
+Comes standard with Handwheel.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 23 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+Manual (Standard)
+Comes standard with Handwheel.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 23 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+Manual (Standard)
+Comes standard with Ratchet.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 23 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+Manual (Standard)
+Comes standard with Ratchet.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 23 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+Manual (Standard)
+Comes standard with Ratchet.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 23 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+Manual (Standard)
+Comes standard with Ratchet.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 23 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+Manual (Standard)
+Comes standard with Ratchet.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 23 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+ Manual (Standard)
+Comes standard with Ratchet.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 34 motor mount.
+Customer supplied motor.
+Consult factory for com
+ Manual (Standard)
+Comes standard with Ratchet.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 23 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+Manual (Standard)
+Comes standard with Ratchet.
+ 4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 34 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+Manual (Standard)
+Comes standard with Ratchet.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 34 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+Manual (Standard)
+Comes standard with manual handwheel.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+I
+ntegrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 23 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+Manual (Standard)
+Comes standard with manual positioning knob.
+Manual (Mic)
+Comes with manual positioning micrometer.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper Motor with DRO
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+With Digital Read Out
+
+Customer supplies communications & wiring.
+Motor Mounts & Limit Switches only (no motor)
+Nema 17 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+Manual (Standard)
+Comes standard with manual handwheel.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Nema 23 motor mount.
+Customer supplied motor.
+Consult factory for compatibility.
+Manual (Standard)
+Comes standard with manual motor.
+4-Wire Stepper Motor w/Flying Leads
+High torque 1.8° 4-wire stepper motor, mounts & limit switches.
+
+Customer supplies all drive electronics & wiring.
+Integrated Motion Control Stepper Motor
+High torque 1.8° stepper motor with Integrated Motion Control and Driver Electronics.
+
+Customer supplies communications & wiring.
+Integrated Motion Control Stepper w/Controller (first axis)
+Includes power supply, Windows PC software, USB communications, motor pre-programming & all wiring and connectors.
+DC Motor
+High torque 12 VDC gearmotor, mounts & limit switches.
+
+Customer supplies all controls & wiring.
+DC Motor w/Pendant & Controller
+Includes 12 VDC power supply, hand held pendant & all wiring and connectors.
+Motor Mounts & Limit Switches only (no motor)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed magna leo, tristique eu nisl vitae, tempus aliquam arcu. Cras vestibulum consequat libero, quis consequat massa.
+Create a new list

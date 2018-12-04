@@ -1,92 +1,18 @@
-中文
-Deutsch
-Search
-Search
-Search
-Search
- 1-800-WATLOW2
- inquiry@watlow.com
-中文
-Deutsch
-Watlow designs and manufactures complete thermal systems using best-in-class technologies covering the full thermal loop. Use the drop-down menus below to browse our selection of thermal solutions.
-Products We Offer
-Heaters
-Air Heaters
-Cartridge Insertion Heaters
-Circulation Heaters
-Flexible Heaters
-Fluid Delivery Heaters
-Heater Selection Guide
-Mineral Insulated Band Heaters
-High Temperature Heaters
-Immersion Heaters
-Nozzle Heaters
-Radiant Heaters
-Specialty Heaters
-Strip Heaters
-Tubular Heaters
-Sensors
-Sensor Selector
-Controllers
-WATCONNECT Control Panels
-Temperature and Process Controllers
-Mobile Applications
-Power Switching Devices
-Integrated Multi Function Controllers
-Data Loggers
-Indicators
-Limits and Scanners
-Operator Interfaces
-Software
-Your Application
-Leverage Watlow's Experience to Find Your Solution
-Don't see your application? OEM that requires a custom solution? Get help now.
-Industries We Serve
-Watlow provides industry specific thermal solutions within a variety of markets.
-Industry Capabilities
-Semiconductor Processing
-Energy Processes
-Foodservice Equipment
-Diesel Emissions
-Clinical Diagnostics
-Don't see your industry? Contact us: 1-800-WATLOW2
-Resources and Support
-Find user manuals, technical documents, quality certificates, and more. Please select an option below:
-Specification Sheets
-User Manuals
-CAD Drawings
-White Papers
-Brochures
-Tutorials and Training
-Software and Demos
-Catalogs
-Patents
-Retrofit Guides
-3Phase Delta Wye Calculator
-Ohms Law Calculator
-Equations
-Knowledge Base
-Reference Data
-Glossary
-Customer Service
-Pay an Invoice
-Request a Publication
-Supplier Requirements
-Quality Certificates
-Environmental Documents
-Agency Approvals
-Copyright and Trademarks
-About Watlow
-About Watlow
-go back to main
-+
 Socialize with us:
  1-800-928-5692
 |
 中文
 Deutsch
-Search
-Search
+CLOSE
+BACK
+CLOSE
+English
+German
+
+                                                Having trouble finding the right product?
+Use our Sales & Distributor locator
+ or 
+contact
 Pay an Invoice
 |
 Sales & Distributor Locator
@@ -94,107 +20,46 @@ Sales & Distributor Locator
 E-Solutions Login
 |
 Policies
-Leverage Watlow's Experience to Find Your Solution
-Application Database
-Industry Specific
-Don't see your application? OEM that requires a custom solution? Get help now.
+Contact Us
++1 800-WATLOW2
+inquiry@watlow.com
+BACK
+CLOSE
+BACK
+CLOSE
+F4T Integrated Controller
+FLUENT® In-Line Heater
+ASPYRE® SCR Power Controllers
+Need help choosing the right product? 
+Click here
+ to find a Watlow representative in your area.
+BACK
+CLOSE
+BACK
+CLOSE
 Watlow provides industry specific thermal solutions within a variety of markets.
-Industry Capabilities
-Semiconductor Processing
-Energy Processes
-Foodservice Equipment
-Diesel Emissions
-Clinical Diagnostics
-Don't see your industry? Contact us: 1-800-WATLOW2
-Sales Office Locator
-Watlow designs and manufactures complete thermal systems using best-in-class technologies covering the full thermal loop. Use the drop-down menus below to browse our selection of thermal solutions.
-Heaters
-Select...
-Air Heaters
-Cartridge Insertion Heaters
-Circulation Heaters
-Flexible Heaters
-Fluid Delivery Heaters
-Heater Selection Guide
-Mineral Insulated Band Heaters
-High Temperature Heaters
-Immersion Heaters
-Nozzle Heaters
-Radiant Heaters
-Specialty Heaters
-Strip Heaters
-Tubular Heaters
-Go
-All Heaters
-Sensors
-Select...
-Sensor Selector
-Go
-Controllers
-Select...
-WATCONNECT Control Panels
-Temperature and Process Controllers
-Mobile Applications
-Power Switching Devices
-Integrated Multi Function Controllers
-Data Loggers
-Indicators
-Limits and Scanners
-Operator Interfaces
-Software
-Go
-Resources and Support
-Technical Library
-User manuals, specification sheets, CAD drawings and more.
-Select...
-Specification Sheets
-User Manuals
-CAD Drawings
-White Papers
-Brochures
-Tutorials and Training
-Software and Demos
-Catalogs
-Patents
-Retrofit Guides
-Go
-Engineering Tools
-Leverage Watlow's growing toolkit of calculators, equations, reference data and more to help design your thermal system
-Select...
-3Phase Delta Wye Calculator
-Ohms Law Calculator
-Equations
-Knowledge Base
-Reference Data
-Glossary
-Go
-Customer Service & Support
-Locate commonly requested documentation or contact customer service
-Select...
-Customer Service
-Pay an Invoice
-Request a Publication
-Supplier Requirements
-Quality Certificates
-Environmental Documents
-Agency Approvals
-Copyright and Trademarks
-Go
-About Watlow
-Looking for a place to call home? Every position at Watlow is an opportunity for a career. Learn more about our culture, business, and openings
-Learn more about Watlow's rich, 90+ year history
-Find more information about Watlow's global facilities: technology centers, manufacturing sites, sales offices and websites
-Stay up to date on the latest Watlow news, press releases, and product annoucements
-Adding Yarbrough’s experience and expertise to Watlow’s suite of thermal system capabilities enhances our ability to provide the best solutions to semiconductor equipment end users.  With this addition we can now service the entire semiconductor fabrication process, from the tool to the scrubber, to ensure thermal optimization of the complete system.
-Watlow SELECT™ enables you to quickly identify, configure and receive your thermal products faster and easier than ever before. Watlow SELECT includes many of our most popular heater, controller and sensor products. Most ship in five days or less.
-Watlow's First Mobile App Now Available for Android and iOS
-Watlow's First Mobile App Now Available for Android and iOS
+BACK
+CLOSE
+BACK
+CLOSE
+User manuals, specification sheets, CAD drawings and more. Leverage Watlow's growing toolkit of calculators, equations, reference data and more to help design your thermal system.
+The World Of Watlow At Your Fingertips
+Watlow’s Visual Designer® uses pictures for product option menus and provides a constantly updated drawing of the product being configured. Users simply click on the features needed and watch them appear in the drawing.
+Read more
 Watlow’s new EZ-LINK™ mobile app allows users to easily set up, monitor and adjust Watlow® EZ-ZONE® PM controllers via Bluetooth® wireless technology.
-Intelligent Power Control
-Intelligent Power Control
+Read more
 For design engineers who are dissatisfied with clunky, component level power switches, Watlow’s ASPYRE® is an intelligent line of power controllers that deliver breakthrough thermal performance. Click to learn more.
+Read more
+Watlow's Adaptive Thermal Systems (ATS™) are a suite of technologies that combine heating, sensing and controlling in innovative ways to improve the thermal performance of a customer's application. Click to learn more about this revolutionary technology.
+Read more
 Tens of thousands of configuration options - two-week standard delivery. The WATCONNECT® line of control panels offer a complete thermal solution, tailored to your application, at an industry-leading delivery time. READ MORE.
+Read more
+Cummins Corporation elevates Watlow to the level of Category Partner which recognizes an elite level of supplier performance.
+Read more
+Couldn't make it to the Grand Opening? Watch the Video
+Read more
 Watlow’s new FLUENT in-line heater is a small, lightweight, high-performance heater that can replace both a traditional immersion type heater or a heater wrapped around a tube as part of a thermal system. Learn more.
+Read more
 Product Configuration Lookup
 Identify standard product configuration details by part number. For custom products, please 
 contact us.

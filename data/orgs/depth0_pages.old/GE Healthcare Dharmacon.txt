@@ -1,0 +1,330 @@
+Horizon
+Dharmacon
+Contact Us
+Sign In
+Register
+Quick Cart
+
+    Cart 
+(
+0
+)
+United States
+Products
+CRISPR-Cas9 Gene Editing
+CRISPR Guide RNA
+Cas9 Nuclease
+CRISPR Controls
+CRISPR Screening Libraries
+CRISPR Design Tool
+HDR Donor Designer
+HDR Donor Templates
+Ready-made Cell Lines
+CRISPR Activation
+CRISPRa Guide RNA
+Edit-R dCas9-VPR
+CRISPRa Controls
+CRISPRa Screening Libraries
+RNA Interference
+siRNA
+shRNA
+microRNA
+RNAi Screening Libraries
+RNAi Controls
+Ancillary Reagents
+cDNAs and ORFs
+Mammalian cDNAs
+Mammalian ORFs
+Non-mammalian cDNAs & ORFs
+cDNA & ORF Libraries
+Transfection 
+Viral Packaging
+Custom Synthesis
+New Products
+Help Me Choose
+Services
+Design Tools
+siDESIGN Center
+CRISPR Design Tool
+Edit-R HDR Donor Designer 
+Custom Libraries
+Cherry-pick Library Plater
+Custom Lentiviral Pools
+Zoonome siRNA Libraries
+Custom siRNA Synthesis
+Order siRNA
+SMARTpool Design & Synthesis
+Custom DNA Synthesis
+Order Single-strand DNA
+Order Multiple Single-strand DNAs
+Custom RNA Synthesis
+Order Single-strand RNA
+Order Multiple Single-strand RNAs
+Custom microRNA Modulation Tools
+Preclinical & OEM RNA & DNA Synthesis
+Applications
+CRISPR-Cas9 Gene Editing
+Synthetic sgRNA for CRISPR-Cas9 Experiments
+CRISPR-Cas9 Guide RNA Functionality
+CRISPR-Cas9 Guide RNA Specificity
+Inducible Lentiviral Cas9 Nuclease
+Homology-directed repair with a DNA donor oligo
+Homology-directed repair with a plasmid donor 
+Multiplex CRISPR-Cas9 knockout
+Engineering a Knockout Cell Line 
+Screening validation and follow-up using engineered cell lines
+RNA Interference 
+siRNA 
+shRNA 
+microRNA 
+Noncoding RNA
+CRISPR Activation
+Custom RNA Synthesis
+Gene Expression 
+Functional Genomic Screening 
+Reverse Transfection for High-throughput CRISPR Studies
+C911 Controls for siRNA Screening 
+Seed sibling controls for RNAi hit validation
+Transfection 
+Brands
+Accell
+Decode
+DharmaFECT
+Edit-R
+GIPZ
+Lincode
+miRIDIAN
+ON-TARGETplus
+Open Biosystems
+shMIMIC
+siGENOME
+siGLO
+siSTABLE
+SMARTchoice
+SMARTvector
+TRIPZ
+Zoonome
+Resources
+Application Notes
+Brochures and Flyers
+Certificates of Analysis
+Featured Articles
+Posters and Presentations
+Product and Technical Manuals
+Product Inserts
+Product Selection Guides
+Protocols
+Quick Protocols
+Recommended Reading
+Safety Data Sheets
+Technical Notes
+Technical Resources
+Tools and Calculators
+Videos
+Webinars
+Frequently Asked Questions
+Contact Us
+About Us
+Dharmacon Events
+Social Hub
+Genomics Discovery Initiative
+Subscribe Today!
+Home
+Edit-R™ Human Genome crRNA Library 
+Unleash the power of arrayed CRISPR screening!
+The first arrayed synthetic crRNA library targeting over 18,000 human genes for CRISPR-Cas9 knockout screens is here! 
+Browse all libraries »
+Learn more
+On-demand CRISPR screening webinar 
+Request pricing
+Edit-R™ CRISPRa reagents and libraries
+Synthetic and lentiviral reagents for endogenous gene overexpression
+Straightforward, efficient tools to perform gain-of-function studies on a few genes, or the whole human genome! Our predesigned reagents for human and mouse genes make it easy! 
+Get started »
+Accell™ siRNA knockdown guarantee 
+Guaranteed silencing in 3 easy steps 
+Accell siRNA reagents are guaranteed to silence target gene expression by at least 75% at the mRNA level when used under optimized conditions!
+See details »
+Let us be your guide!
+Synthetic sgRNAs for CRISPR-Cas9 gene editing
+Synthetic single guide RNAs are easy to design and order through the CRISPR Design Tool!
+            Ideal for development of therapeutic gene editing applications. 
+Learn more »
+Cherry-pick Libraries
+Create a custom library of pre-designed reagents for RNAi, CRISPR, or Over-expression
+When Dharmacon pre-defined libraries do not match your experimental requirements, you can make your own custom library with ease, speed and economy.
+Turn your gene list into a custom library »
+Learn more
+Cherry-pick Library Loader
+Video: How to use the Cherry-pick RNAi library plater 
+Creating vector-based libraries
+HDR Donor Templates
+Online design & ordering tools for precise CRISPR-mediated genome editing 
+ Design custom ssDNA donor oligos.
+
+            Generate donor plasmids to insert mKate2, EGFP, or a custom sequence. 
+Get started »
+Learn more
+HDR designer workflow
+Video: CRISPR Design Tool for HDR 
+Edit-R™
+CRISPR-Cas9 Gene Editing - Guaranteed! 
+Accelerate your path to high-confidence gene knockdown results with the Edit-R CRISPR-Cas9 platform. All Edit-R predesigned DNA and synthetic RNA reagents are GUARANTEED to cleave their genomic target site! Whether you are working with a few genes or the whole human genome, your choice for high-quality guide RNA is clear. 
+Change the future now »
+Learn more
+Download the brochure
+Watch the video
+Read the technical manual
+CRISPR-Cas9 Gene Editing
+CRISPR Guide RNA
+Cas9 Nuclease
+CRISPR Screening Libraries
+See all
+CRISPR Activation
+CRISPRa Guide RNA
+dCas9-VPR
+CRISPRa Controls
+See all
+RNA Interference
+siRNA
+shRNA
+microRNA
+See all
+cDNAs & ORFs
+Mammalian cDNAs 
+Mammalian ORFs 
+Non-mammalian cDNAs & ORFs 
+See all
+Transfection Reagents
+DharmaFECT Transfection Reagent
+DharmaFECT Duo
+DharmaFECT kb
+See all
+Viral Packaging
+Trans-Lentiviral shRNA Packaging
+Trans-Lentiviral ORF Packaging
+Other resources
+See all
+Services
+Design tools
+Custom products
+Preclinical scale and OEM RNA & DNA synthesis 
+See all
+Resources
+Application Notes
+Product and Technical Manuals
+Recommended Reading
+See all
+ Customer & Technical Support
+Find contact information for your region.
+eProcurement Solutions
+Customized online ordering solutions.
+Social Hub
+Like, Follow, and Watch us as we find new ways to support your research goals.
+Subscribe Today!
+Stay informed with the latest news and offers.
+What's New @Dharmacon
+Catch up with the latest featured articles and news items
+Webinar: High-throughput CRISPR gene editing in Primary T Cells
+Dr. Judd Hultquist reviews his successful strategies for CRISPR-Cas9 gene knockout in primary T cells using synthetic guide RNAs and Cas9 protein. 
+Considerations for T7 Endonuclease I (T7EI) mismatch assays
+Guidelines for assay design, benefits, and drawbacks associated with using T7EI assay to detect your gene editing. 
+Video: Advantages of Horizon’s CRISPR-Cas9 Tools for Gene Editing 
+Learn the benefits of using Horizon’s CRISPR-Cas9 reagents for your gene editing experiments.
+Products
+Gene Editing
+CRISPRa
+RNA Interference
+Services
+cDNAs and ORFs
+Transfection
+Viral Packaging
+Applications
+RNA Interference
+Gene Editing
+CRISPR Activation
+Custom RNA Synthesis
+Gene Expression
+Transfection
+Functional Genomic Screening
+Tools & Design
+Cherry-pick Library Plater
+CRISPR Design Tool
+Edit-R HDR Donor Designer
+Services
+siDESIGN Center
+BLAST Search
+Search For Your Gene
+Brands
+Accell siRNA
+Decode Pooled Lentiviral shRNA
+DharmaFECT transfection reagents
+Edit-R CRISPR-Cas9 Genome Engineering
+GIPZ Lentiviral shRNA
+Lincode siRNA
+miRIDIAN microRNA
+ON-TARGETplus siRNA
+Open Biosystems
+shMIMIC Lentiviral microRNA
+siGENOME siRNA
+siGLO RNAi Controls
+siSTABLE Controls
+SMARTchoice Platform 
+SMARTvector Lentiviral shRNA 
+TRIPZ Inducible Lentiviral shRNA
+Zoonome Custom siRNA Libraries 
+Resources
+Application Notes
+Brochures and Flyers
+Certificates of Analysis
+Featured Articles
+FAQs
+Posters and Presentations
+Product and Technical Manuals
+Product Inserts
+Product Selection Tools
+Protocols
+Quick Protocols
+Recommended Reading
+Safety Data Sheets
+Technical Notes
+Technical Resources
+Tools and Calculators
+Videos
+Webinars
+Highlights
+About Us
+ISO 9001:2015 Certification
+Events
+New Products
+Social Hub
+Subscribe Today!
+My Account
+Request an Invoice
+Profile
+Forgot My Password
+Change Language Selection
+Ordering Forms & Information
+Product Terms & Conditions
+Licensing Statements
+Quick Order
+Cart
+Contact Us
+Legal Entity Name Change Information
+Customer & Technical Support
+eProcurement Solutions
+Feedback
+Feedback
+Visit Our Corporate Site
+|
+Sitemap
+|
+Gene Map
+|
+Careers
+|
+Terms
+|
+Privacy Policy
+|
+©2018 - Dharmacon, a Horizon Discovery Group Co. All rights reserved

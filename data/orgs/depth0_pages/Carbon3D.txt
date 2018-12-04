@@ -15,7 +15,7 @@ Contact Us
 Stop prototyping.
 
 Start producing.
-Grown from liquid. Formed with light. Carbon + Vitamix + TTH are rethinking possible.
+Grown from liquid, crafted by light + oxygen. With our revolutionary Digital Light Synthesis™ technology, Carbon and adidas are shaping the future of how footwear is being made with adidas 4d.
 Learn More
 Introducing the Carbon SpeedCell™
 The SpeedCell™ is a system of connected manufacturing unit operations that enables repeatable production of end-use parts at any scale. The M Series printers and the automated Smart Part Washer are the first in a series of modular offerings that allow a wide range of industries to design, engineer, make and deliver end-use parts with one common manufacturing workflow.
@@ -27,14 +27,6 @@ With a build volume measuring 7.4" x 4.6" x 12.8" (189mm x 118mm x326mm), manufa
 The M2 features twice the build volume as the M1, allowing for larger parts, higher throughput, and lower part cost, all with the same high resolution pixels (75 µm) and isotropic prints as Carbon’s pioneering M1 printer.
 Manufacturing Ready & Extensible
 M2 features high reliability hardware, the Carbon Connector expansion port for smart accessories, and compatibility with workflow automation.
-Next-Gen Software & Predictive Service
-Carbon’s modern software brings our hardware and materials together into a powerful, easy-to-use system and enables our industry-leading predictive service.
-M1 Printer
-M1 was the first printer to employ Carbon’s Digital Light Synthesis™ technology, delivering layerless, high resolution end-use parts with exceptional surface finish and resolution.
-Build Volume
-Featuring a 5.6" x 3.1" x 12.8" (141mm x 79mm x 326mm) build volume and high resolution 75 µm pixels, the M1 is ideal for functional prototyping and low volume manufacturing.
-User Friendly Design
-From our hands-free door to components designed for easy cleaning, M1 was designed to make adopting Digital Light Synthesis™ technology easy.
 Next-Gen Software & Predictive Service
 Carbon’s modern software brings our hardware and materials together into a powerful, easy-to-use system and enables our industry-leading predictive service.
 Smart Part Washer
@@ -80,7 +72,7 @@ Interested in learning more about Carbon? 
 Contact our sales team
 Email Address
 *
-Name
+Email
 This field is for validation purposes and should be left unchanged.
  jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [2, 1]) } ); 
  or sign up for the newsletter

@@ -1,0 +1,90 @@
+Menu
+About Us
+About Us
+Executive Team
+Board of Directors
+Business Development
+Compliance Program
+Product Portfolio
+Product Portfolio
+Product Pipeline
+Patient Savings
+Arbor E-Z RX
+Arbor Patient Direct
+Co-Pay Savings
+Patient Assistance Program
+News
+Employment
+Grants
+Contact Us
+Improving 
+ Lives
+by Advancing Medicine
+People Make the Difference
+Arbor Pharmaceuticals is led by a team of skilled pharmaceutical veterans, many of whom have experience as healthcare practitioners. Our people fully understand the pharmaceutical development process and value our products can bring to the lives of patients. 
+Read More
+Research and Development
+Arbor Pharmaceuticals and its partners have multiple projects under various stages of development. We develop both new chemical entities as well as already approved molecules for new indications or in improved dosage forms. Our research scientists have extensive experience in clinical development and work collaboratively with the FDA to obtain market approval.
+Read More
+Improving Lives by Advancing Medicine
+Arbor Pharmaceuticals is an Atlanta, Georgia based specialty pharmaceutical company which markets prescription products for the cardiovascular, hospital, neuroscience and pediatric markets. Arbor also has several branded prescription products in late-stage development.
+Read More
+Product Portfolio
+Click 
+here
+ for ISI and Prescribing Information including Boxed Warning
+Click 
+here
+ for ISI and Prescribing Information including Boxed Warning
+Click 
+here
+ for ISI and Prescribing Information including Boxed Warning
+Click 
+here
+ for ISI and Prescribing Information including Boxed Warning
+Click 
+here
+ for ISI and Prescribing Information including Boxed Warning
+Find a Pharmacy
+The Arbor E-Z Rx Program is a network of local contracted pharmacies partnering with Arbor to increase patient access and affordability of certain Arbor products.
+Address / Zip
+Within
+10 miles
+25 miles
+50 miles
+100 miles
+200 miles
+500 miles
+Enter an address or zip code and click the find locations button.
+News
+From Arbor Pharmaceuticals
+VIEW ALL NEWS
+Oct 3, 2017			
+Arbor Pharmaceuticals, LLC Announces the Commercial Availability of Triptodur™, Triptorelin 6-month Formulation, for the Treatment of Central Precocious Puberty
+Read More 
+→
+Sep 20, 2017			
+Arbor Pharmaceuticals, LLC Launches New Nymalize® (nimodipine) Oral Solution 10 mL (30 mg) Unit Dose for the Treatment of Subarachnoid Hemorrhage
+Read More 
+→
+Aug 7, 2017			
+New Online Survey Reveals Some Health Care Providers Continue to Recommend OTC Head Lice Treatment Despite Reporting Cases of Ineffectiveness
+Read More 
+→
+Jun 30, 2017			
+Arbor Pharmaceuticals, LLC Announces FDA Approval for Triptodur™
+Read More 
+→
+Product Pipeline
+Arbor Pharmaceuticals has multiple projects under various stages of development.
+Read More
+Arbor Pharmaceuticals
+Atlanta Georgia
+ © Copyright 2018 · 
+Privacy Policy
+ PP-BDL-US-0507
+[class*="fa fa-"]{font-family: FontAwesome !important;}
+
+/* <![CDATA[ */
+var slplus = {"options":{"bubblelayout":"<div id=\"slp_info_bubble_[slp_location id]\" class=\"slp_info_bubble [slp_location featured]\">\n    <span id=\"slp_bubble_name\"><strong>[slp_location name  suffix  br]<\/strong><\/span>\n    <span id=\"slp_bubble_address\">[slp_location address       suffix  br]<\/span>\n    <span id=\"slp_bubble_address2\">[slp_location address2      suffix  br]<\/span>\n    <span id=\"slp_bubble_city\">[slp_location city          suffix  comma]<\/span>\n    <span id=\"slp_bubble_state\">[slp_location state suffix    space]<\/span>\n    <span id=\"slp_bubble_zip\">[slp_location zip suffix  br]<\/span>\n    <span id=\"slp_bubble_country\"><span id=\"slp_bubble_country\">[slp_location country       suffix  br]<\/span><\/span>\n    <span id=\"slp_bubble_directions\">[html br ifset directions]\n    [slp_option label_directions wrap directions]<\/span>\n    <span id=\"slp_bubble_website\">[html br ifset url][slp_location web_link][html br ifset url]<\/span>\n    <span id=\"slp_bubble_email\">[slp_location email         wrap    mailto ][slp_option label_email ifset email][html closing_anchor ifset email][html br ifset email]<\/span>\n    <span id=\"slp_bubble_phone\">[html br ifset phone]\n    <span class=\"location_detail_label\">[slp_option   label_phone   ifset   phone]<\/span>[slp_location phone         suffix    br]<\/span>\n    <span id=\"slp_bubble_fax\"><span class=\"location_detail_label\">[slp_option   label_fax     ifset   fax  ]<\/span>[slp_location fax           suffix    br]<span>\n    <span id=\"slp_bubble_description\"><span id=\"slp_bubble_description\">[html br ifset description]\n    [slp_location description raw]<\/span>[html br ifset description]<\/span>\n    <span id=\"slp_bubble_hours\">[html br ifset hours]\n    <span class=\"location_detail_label\">[slp_option   label_hours   ifset   hours]<\/span>\n    <span class=\"location_detail_hours\">[slp_location hours         suffix    br]<\/span><\/span>\n    <span id=\"slp_bubble_img\">[html br ifset img]\n    [slp_location image         wrap    img]<\/span>\n    <span id=\"slp_tags\">[slp_location tags]<\/span>\n<\/div>","distance_unit":"miles","dropdown_style":"base","ignore_radius":"0","immediately_show_locations":"0","initial_radius":"5","label_directions":"Directions","label_email":"Email","label_fax":"Fax","label_phone":"Phone","0":"\/>","label_website":"Website","loading_indicator":"","map_center":"United States","map_center_lat":"37.09024","map_center_lng":"-95.712891","map_domain":"maps.google.com","map_end_icon":"https:\/\/arborpharma.wpengine.com\/wp-content\/plugins\/store-locator-le\/images\/icons\/bulb_azure.png","map_home_icon":"https:\/\/arborpharma.wpengine.com\/wp-content\/plugins\/store-locator-le\/images\/icons\/bulb_yellow.png","map_region":"us","map_type":"roadmap","message_bad_address":"Could not locate this address. Please try a different location.","message_no_results":"No locations found.","no_autozoom":"0","resultslayout":"<div id=\"slp_results_[slp_location id]\" class=\"results_entry location_primary [slp_location featured]\">\n    <div class=\"results_row_left_column\"   id=\"slp_left_cell_[slp_location id]\"   >\n        [slp_addon section=primary position=first]\n        <span class=\"location_name\">[slp_location name] [slp_location uml_buttons] [slp_location gfi_buttons]<\/span>\n        <span class=\"location_distance\">[slp_location distance format=\"decimal1\"] [slp_option distance_unit]<\/span>\n        [slp_addon section=primary position=last]\n    <\/div>\n    <div class=\"results_row_center_column location_secondary\" id=\"slp_center_cell_[slp_location id]\" >\n        [slp_addon section=secondary position=first]\n        <span class=\"slp_result_address slp_result_street\">[slp_location address]<\/span>\n        <span class=\"slp_result_address slp_result_street2\">[slp_location address2]<\/span>\n        <span class=\"slp_result_address slp_result_citystatezip\">[slp_location city_state_zip]<\/span>\n        <span class=\"slp_result_address slp_result_country\">[slp_location country]<\/span>\n        <span class=\"slp_result_address slp_result_phone\">[slp_location phone]<\/span>\n        <span class=\"slp_result_address slp_result_fax\">[slp_location fax]<\/span>\n        [slp_addon section=secondary position=last]\n    <\/div>\n    <div class=\"results_row_right_column location_tertiary\"  id=\"slp_right_cell_[slp_location id]\"  >\n        [slp_addon section=tertiary position=first]\n        <span class=\"slp_result_contact slp_result_website\">[slp_location web_link raw]<\/span>\n        <span class=\"slp_result_contact slp_result_email\">[slp_location email_link]<\/span>\n        <span class=\"slp_result_contact slp_result_directions\"><a href=\"https:\/\/[slp_option map_domain]\/maps?saddr=[slp_location search_address]&amp;daddr=[slp_location location_address]\" target=\"_blank\" class=\"storelocatorlink\">[slp_option label_directions]<\/a><\/span>\n        <span class=\"slp_result_contact slp_result_hours\">[slp_location hours format text]<\/span>\n        [slp_location pro_tags raw]\n        [slp_location iconarray wrap=\"fullspan\"]\n        [slp_location eventiconarray wrap=\"fullspan\"]\n        [slp_location socialiconarray wrap=\"fullspan\"]\n        [slp_addon section=tertiary position=last]\n    <\/div>\n<\/div>","use_sensor":"0","zoom_level":"12","zoom_tweak":"0"},"environment":{"addons":[],"slp_version":"4.9.21","network_active":"no","network_sites":"1","php_version":"5.6.36-1+wpengine16","wp_debug":false,"jquery_version":"1.12.4"},"plugin_url":"http:\/\/arborpharma.com\/wp-content\/plugins\/store-locator-le","ajaxurl":"http:\/\/arborpharma.com\/wp-admin\/admin-ajax.php","nonce":"a5f9ecdacf","rest_url":"http:\/\/arborpharma.com\/wp-json\/store-locator-plus\/v2\/","messages":{"no_api_key":"This site most likely needs a <a href=\"https:\/\/developers.google.com\/maps\/documentation\/javascript\/get-api-key\" target=\"store_locator_plus\">Google Maps JavaScript API<\/a> key. <br\/>Save it under Store Locator Plus\u00ae | General | Server | Map Services in the Google Browser Key setting.","script_not_loaded":"The Store Locator Plus\u00ae script did not loaded properly.","slp_system_message":"Store Locator Plus\u00ae System Message"}};
+/* ]]> */

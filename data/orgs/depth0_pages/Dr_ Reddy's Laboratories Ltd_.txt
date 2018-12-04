@@ -31,7 +31,7 @@ Generics
 Over-the-counter
 Biologics
 Differentiated Formulations
-Services
+Services (CPS)
 APIs
 Quality
 Therapeutic Focus
@@ -77,7 +77,6 @@ Presentations
 Presentations
 Earnings Call
 Shares
-Closure of Buyback
 Share Price
 Stock Updates
 Equity & Dividend History
@@ -104,7 +103,6 @@ Data Privacy Notice
 Investor Services
 Statutory Communication
 Shareholder’s Contacts 
-Management Call Notification
 Shareholder Information
 Investor Meeting Details 
 Other Stock Exchange Intimations
@@ -185,6 +183,8 @@ Our
  Science
 Our 
  World
+Earnings Call Transcript – Q2 FY19
+ | 
 Earnings Call Audio - Q2 FY 19 
  | 
 Q2 FY19: Financial Performance Press Release

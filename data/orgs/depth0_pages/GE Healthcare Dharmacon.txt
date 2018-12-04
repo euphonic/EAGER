@@ -73,6 +73,7 @@ Homology-directed repair with a plasmid donor
 Multiplex CRISPR-Cas9 knockout
 Engineering a Knockout Cell Line 
 Screening validation and follow-up using engineered cell lines
+Synthetic lethality 
 RNA Interference 
 siRNA 
 shRNA 
@@ -130,51 +131,20 @@ Social Hub
 Genomics Discovery Initiative
 Subscribe Today!
 Home
-Edit-R™ Human Genome crRNA Library 
-Unleash the power of arrayed CRISPR screening!
-The first arrayed synthetic crRNA library targeting over 18,000 human genes for CRISPR-Cas9 knockout screens is here! 
-Browse all libraries »
+CRISPR Design Tool 
+Custom guide RNA designs made simple!
+When your CRISPR needs go beyond our 
+guaranteed predesigned gRNAs
+, this intuitive tool provides multiple design options to support your application! Choose any gene, input a known sequence, or enter your own guide to begin.
+Get Started »
 Learn more
-On-demand CRISPR screening webinar 
-Request pricing
+Article
+Workflow
+Video
 Edit-R™ CRISPRa reagents and libraries
 Synthetic and lentiviral reagents for endogenous gene overexpression
 Straightforward, efficient tools to perform gain-of-function studies on a few genes, or the whole human genome! Our predesigned reagents for human and mouse genes make it easy! 
 Get started »
-Accell™ siRNA knockdown guarantee 
-Guaranteed silencing in 3 easy steps 
-Accell siRNA reagents are guaranteed to silence target gene expression by at least 75% at the mRNA level when used under optimized conditions!
-See details »
-Let us be your guide!
-Synthetic sgRNAs for CRISPR-Cas9 gene editing
-Synthetic single guide RNAs are easy to design and order through the CRISPR Design Tool!
-            Ideal for development of therapeutic gene editing applications. 
-Learn more »
-Cherry-pick Libraries
-Create a custom library of pre-designed reagents for RNAi, CRISPR, or Over-expression
-When Dharmacon pre-defined libraries do not match your experimental requirements, you can make your own custom library with ease, speed and economy.
-Turn your gene list into a custom library »
-Learn more
-Cherry-pick Library Loader
-Video: How to use the Cherry-pick RNAi library plater 
-Creating vector-based libraries
-HDR Donor Templates
-Online design & ordering tools for precise CRISPR-mediated genome editing 
- Design custom ssDNA donor oligos.
-
-            Generate donor plasmids to insert mKate2, EGFP, or a custom sequence. 
-Get started »
-Learn more
-HDR designer workflow
-Video: CRISPR Design Tool for HDR 
-Edit-R™
-CRISPR-Cas9 Gene Editing - Guaranteed! 
-Accelerate your path to high-confidence gene knockdown results with the Edit-R CRISPR-Cas9 platform. All Edit-R predesigned DNA and synthetic RNA reagents are GUARANTEED to cleave their genomic target site! Whether you are working with a few genes or the whole human genome, your choice for high-quality guide RNA is clear. 
-Change the future now »
-Learn more
-Download the brochure
-Watch the video
-Read the technical manual
 CRISPR-Cas9 Gene Editing
 CRISPR Guide RNA
 Cas9 Nuclease
@@ -225,12 +195,12 @@ Subscribe Today!
 Stay informed with the latest news and offers.
 What's New @Dharmacon
 Catch up with the latest featured articles and news items
-Webinar: High-throughput CRISPR gene editing in Primary T Cells
-Dr. Judd Hultquist reviews his successful strategies for CRISPR-Cas9 gene knockout in primary T cells using synthetic guide RNAs and Cas9 protein. 
+Successful CRISPR gene editing in primary T cells
+An expert outlines his protocol and results from a high-throughput CRISPR knockout screen in primary T cells.
+All-in-one sgRNA for CRISPR experiments
+Edit-R All-in-one Lentiviral sgRNA is a single vector system for complete delivery of CRISPR-Cas9 gene editing reagents to cells
 Considerations for T7 Endonuclease I (T7EI) mismatch assays
 Guidelines for assay design, benefits, and drawbacks associated with using T7EI assay to detect your gene editing. 
-Video: Advantages of Horizon’s CRISPR-Cas9 Tools for Gene Editing 
-Learn the benefits of using Horizon’s CRISPR-Cas9 reagents for your gene editing experiments.
 Products
 Gene Editing
 CRISPRa

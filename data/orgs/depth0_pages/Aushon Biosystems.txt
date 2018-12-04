@@ -32,6 +32,7 @@ SR-X
 Resources & News
 In The News
 Press Releases
+Videos and Recordings
 Conferences
 Webinars
 Publications & Posters
@@ -90,6 +91,7 @@ SR-X
 Resources & News
 In The News
 Press Releases
+Videos and Recordings
 Conferences
 Webinars
 Publications & Posters
@@ -119,14 +121,12 @@ Investor FAQ
 Information Request
 Email Alerts
 IR Contacts
-The  SP-X™ imaging and analysis system
+www.quanterix.com
 
-        INTRODUCING THE NEW SP-X™ IMAGING AND ANALYSIS SYSTEM
+        INTRODUCING THE NEW SP-X IMAGING AND ANALYSIS SYSTEM
             
-Featuring Simoa® Planar Technology
-
-Multiplex up to 10 analytes at ultra-low, even baseline, levels
-Learn More about the New SP-X!
+An easy-to-use, complete benchtop system that offers true multiplex biomarker detection at acute and baseline levels.
+LEARN MORE ABOUT THE SP-X! 
 We are on a mission to change the way in which healthcare is provided by giving researchers the ability to closely examine the continuum from health to disease. Click on one of the therapeutic category icons below to learn how our revolutionary technology is helping researchers advance the science of precision health.
 Oncology
 ​​​​​​
@@ -140,58 +140,25 @@ Simoa assays can measure inflammatory and anti-inflammatory molecules in serum a
 Infectious Disease
 The ability to detect infectious disease biomarkers before the onset of an immune response, while a virus is most contagious and multiplying rapidly, is critical for controlling the spread of disease. Infectious disease is one of the hottest areas of research today and researchers continue to seek ways to detect and diagnose infections earlier and more accurately. Simoa assays can have a significant impact in reducing the spread of the disease by making early stage detection more widely available.
 
-        Bloomberg Radio Interview
+        Quanterix Sponsors Powering Precision Health Summit 2018 in Amsterdam 
             
 
-        September 25, 2018
+        December 12, 2018
             
-In a recent interview with Baystate Business, Quanterix Chairman and CEO and founder of Powering Precision Health, Kevin Hrusovsky explains the fundamentals of Quanterix technology and how it's disrupting the way healthcare is practiced. 
+Join industry leaders for a day of discussion on the latest in medical research and how we can transform the approach of healthcare. 
+Reserve your spot today
 
-        WEBINAR: September 19, 2018 
+        Simoa Planar Technology
             
+Watch how our new planar technology and the elegant simplicity of the new SP-X Imaging and Analysis system enable ultra-sensitive biomarker detection of up to 10 analytes per sample.
 
-        Disrupting Drug Development with Biomarkers and the Power of Precision Health 
-            
-This presentation contains “forward-looking” statements that are based on our beliefs and assumptions and on information available to us as of the date of this presentation. Forward-looking statements include all statements that are not historical facts. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements. Forward-looking statements involve known and unknown risks, uncertainties, assumptions and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. The risks and uncertainties that we face are described in our most recent filings with the Securities and Exchange Commission. Except as required by law, we assume no obligation to update these forward-looking statements, even if new information becomes available in the future. 
-
-        Digital Biotech Podcast
-            
-
-        Interview with Kevin Hrusovsky, Chairman and CEO of Quanterix
-            
-Kevin Hrusovsky, Quanterix Chairman and CEO and Founder of Powering Precision Health, recently sat down with TetraScience CEO Alok Tayi to talk about the exciting work that Quanterix is doing in the area of clinical biomarkers and the business of diagnostics as well as a broader view of healthcare in the United States.
-Listen to the podcast here!
-
-        Simoa Technology
+        Simoa Bead Technology
             
 
         Watch our one minute video
             
-Quanterix' proprietary Simoa™ technology is based on the isolation of individual immunocomplexes on paramagnetic beads using standard ELISA reagents.
+Quanterix' proprietary Simoa Bead Technology is based on the isolation of individual immunocomplexes on paramagnetic beads using standard ELISA reagents.
 Learn More About Our Technology
-
-        A Message From Kevin Hrusovsky
-            
-
-        President, CEO & Chairman of Quanterix
-            
-We're passionate about the work we do and believe we can transform today’s sick care into tomorrow’s precision healthcare. The future of healthy living is being realized by uncovering novel biomarkers with the power to transform medicine, allowing for prevention, early diagnosis and nextgen treatments. 
-
-        Report by Dr. Mallika Marshall 
-            
-CBS Boston
-According to the Centers for Disease Control, up to four million concussions occur each year. A big challenge is trying to figure out whether someone has actually had one or not. Lexington-based Quanterix may have a solution.
-“It’s like rocket science on the blood,” says Quanterix CEO and Executive Chairman, Kevin Hrusovsky.
-Read the full report on 
-boston.cbslocal.com
-
-        Panel Discussion
-            
-
-        Early Diagnosis Through Predictive Biomarkers, NonInvasive Testing
-            
-In an excerpt from a panel discussion which took place at MedCity CONVERGE on July 11, 2018, Quanterix Chairman and CEO Kevin Hrusovsky joins other key innovators
- to discuss game-changing biotech advancements and the future of healthcare.
 
         Neurology Interactive Toolkit
             
@@ -199,26 +166,35 @@ In an excerpt from a panel discussion which took place at MedCity CONVERGE on Ju
         Explore critical biomarkers in the detection of brain injury and neurodegenerative disease
             
 START EXPLORING
+
+        Bloomberg Radio Interview
+            
+
+        September 25, 2018
+            
+In a recent interview with Baystate Business, Quanterix Chairman and CEO and founder of Powering Precision Health, Kevin Hrusovsky explains the fundamentals of Quanterix technology and how it's disrupting the way healthcare is practiced. 
 Latest Publications
+Scientific Reports
+November 26, 2018
+Levels of plasma neurofilament light chain and cognitive function in patients with Alzheimer's or Parkinson disease
+Read More
 PLOS ONE
 October 29, 2018
 No change in plasma tau and serum neurofilament light concentrations in adolescent athletes following sport-related concussion
 Read More
-JAMA Neurology
-October 29, 2018
-Serum neurofilament light chain for prognosis of outcome after cardiac arrest.
-Read More
 See All Publications
 Latest News
 view
-Nov 08 
-Quanterix Targets Oncology Research Market With New Platform
-Nov 07, 2018 | Adam Bonislawski
+Nov 19 
+Molecular diagnostic firm Quanterix moves into oncology research with benchtop imager
+by Conor Hale
 Read More
 view
-Nov 08 
-Quanterix Q3 Revenues Up 85 Percent
-NEW YORK (GenomeWeb) – Quanterix reported after the close of the market on Thursday that its third quarter revenues rose 85 percent year-over-year, thanks largely to an 82 percent increase in quarterly product revenues.
+Nov 16 
+Trend: Advanced Diagnostics and Precision Medicine
+Contributed by:
+
+Denise Myshko
 Read More
 Read the Blog
 See All Resources
@@ -230,37 +206,51 @@ info@quanterix.com
 
 Lexington, MA 02421 USA 
 Latest Tweets
-11.07.2018
-Big news! We're arming  
+11.26.2018
+Thanks to everyone who visited our booth last week at  
+@
+eubioanalysis
+ to learn more about our ultra-sensitive  
 #
-scientists
- with a new way to find and attack  
+biomarker
+ detection platforms & how we're revolutionizing  
 #
-cancer
-. Proud to announce we are launching a test bed for our latest Simoa-powered system, the SP-X™, with major implications for  
+pharma
+ and  
 #
-cancer
- research and  
+biotech
+ research for  
 #
-Immunology
-! Learn more here:   
-https://bit.ly/2F6iL2M 
-pic.twitter.com/zkfKwEN2oX
-11.06.2018
-Blood  
+neurology
+,  
+#
+cardiology
+,  
+#
+oncology
+ and more. 
+pic.twitter.com/6jlbBFGo6M
+11.19.2018
+Our CEO  
+@
+KevinHrusovsky
+ weighs in on the major trends that will drive  
+#
+healthcare
+ &  
+#
+precisionmedicine
+ innovation in 2019, including  
 #
 biomarkers
- could help  
+ which are proving integral for major advancements in  
 #
-doctors
- determine  
-#
-ZikaVirus
- related birth defects earlier and more safely than imaging or ultrasound, according to new research from  
+pharma
+. More via  
 @
-KeckMedUSC
-.  
-https://twitter.com/GENbio/status/1059187303002882049 …
+PharmaVOICE
+:   
+https://bit.ly/2DFHfOx 
 Subscribe to Our Newsletter
 The Science of Precision Health
 © Copyright 2018 Quanterix. All rights reserved.

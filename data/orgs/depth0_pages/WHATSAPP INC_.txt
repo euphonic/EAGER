@@ -171,8 +171,8 @@ Twitter
 Facebook
 2018 © WhatsApp Inc.
 Privacy & Terms
-requireLazy(["InitialJSLoader"], function(InitialJSLoader) {InitialJSLoader.loadOnDOMContentReady(["ne+Ol","tObdP","i4vbm","Ubr0i","uY1M7","Iht45","04ct6","wLUkc","5xS\/i","HCPSj","Mgu3f","MYGUi","MIpxX","B4Hrp","a9YSO","jnBS7","BZfXC","TL\/NZ","g\/d5Y"]);});
+requireLazy(["InitialJSLoader"], function(InitialJSLoader) {InitialJSLoader.loadOnDOMContentReady(["C55IF","8rKX7","Y0eLE","hR5yQ","lGj9v","kNpqD","jfDvr","Ec\/2r","S\/NCd","wLUkc","mSvjF","nr4OX","rzRQS","iAK6n","KZwPf","871o\/","XwqlN","Y8D6v","Vmko5","odAyD"]);});
 var bigPipe = new (require("BigPipe"))({"forceFinish":true,"config":null});
 bigPipe.beforePageletArrive("first_response")
-bigPipe.setPageID("6622433096439771563-0");CavalryLogger.setPageID("6622433096439771563-0");
+bigPipe.setPageID("6630694610419546366-0");CavalryLogger.setPageID("6630694610419546366-0");
 bigPipe.beforePageletArrive("last_response")

@@ -1,3 +1,6 @@
+X
+By browsing this website, you accept the use of cookies, which helps us provide you with services and offers matching your centers of interest and compile visitor statistics. 
+More on cookies
 Up
 fr
 
@@ -12,6 +15,8 @@ fr
 			Finance
 
 			Careers
+3D Printing Solutions by Arkema
+A market leading product portfolio
 Design and modeling of innovative materials
 Arkema and École polytechnique found an International Chair
 Third-quarter 2018 results
@@ -34,29 +39,24 @@ See the video of the open house day
 			News
 News
 November
-08
-Arkema and École Polytechnique join forces to found a Chair dedicated to Innovative Materials
-Press release
+27
+Biocatalysis at the service of green chemistry
+Short news
 November
-06
-Third-quarter 2018 results
-Press release
+15
+Route du Rhum–Destination Guadeloupe: Reassuring news from our skipper, Lalou Roucayrol
+Short news
 November
-05
-Arkema is launching a new hydrogen peroxide range for aseptic packaging spray technologies
-Press release
+14
+Arkema announces a price increase of its Ensoline
+®
+ PHE and its Ensoline
+®
+ PHP
+Short news
 
 			See all events
 Next events
-November
-13
-
-                      Formnext
- Francfort, Germany
-
-                    11/13/2018 to 11/16/2018
-A world leader in high performance polymers, Arkema now offers a diverse range of materials for the manufacture of prototypes and functional technical short runs, using the laser sintering technology, the 3D printing/UV curing process, or molding for high-tech parts.
-
 December
 04
 
@@ -66,6 +66,21 @@ December
                     12/04/2018 to 12/06/2018
 To address the fast growing coatings market in China, Arkema develops a wide and comprehensive range of resins with outstanding performances, the result of the latest innovations of its laboratories. These product ranges have been developed with environmental protection in mind, and for some, from biosourced raw materials. Arkema Coatings portfolio is unique in the market through a diversified choice of materials and technologies, covering the entire spectrum of requirements for industrial coatings, architectural coatings, decorative paints, specialty coatings and adhesives.
 
+January
+15
+
+                      Cosmetagora
+ Paris, France
+
+                    01/15/2019 to 01/16/2019
+Arkema present its full Orgasol® microporous powder range.
+February
+03
+
+                      ISPO
+ Munich, Germany
+
+                    02/03/2019 to 02/06/2019
 
 			Stock chart
 Quick links
@@ -167,6 +182,8 @@ fr
 
 			Coating resins
 
+			Electroactive polymers
+
 			Fluorochemicals
 
 			Fluoropolymers
@@ -187,11 +204,11 @@ fr
 
 			UV, LED, EB curable resins, specialty (meth)acrylates
 
+			PEKK Polyetherketoneketone
+
 			Plastic additives
 
 			PMMA resins & sheets
-
-			R&D products
 
 			Rheology additives
 
@@ -619,3 +636,6 @@ Finance
 Media
 Products
 Human resources
+
+        if(DEBUG) console.log('-- main.jsp -- CNIL cookie not found and referer not in same domain => CNIL_ALLOWED=' + CNIL_ALLOWED);
+        

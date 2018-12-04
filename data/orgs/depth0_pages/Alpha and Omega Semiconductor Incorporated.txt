@@ -19,7 +19,6 @@ MOSFETs
 Power ICs
 IPMs
 TVS
-HVICs
 Select Subcategory...
 Select Manufacturer...
 Select Manufacturer

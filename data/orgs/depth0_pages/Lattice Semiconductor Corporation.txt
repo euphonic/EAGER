@@ -256,7 +256,7 @@ iCE40 UltraPlus breakout board
 
 Limited Time Offer: Embedded Vision Development Kit available for $199
 Discover Lattice
-New NIST Standard Tackles Latest Attack Vector for Servers
+System Architecture Options for On-Device AI
 Lattice Expands Ultra-Low Power sensAI Stack with Optimized Solutions ... 
 Your browser does not support video playback.
 

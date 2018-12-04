@@ -42,7 +42,7 @@ kpi-time
         
 BHGE
 $
-25.51
+22.82
 My recent searches
 Clear
 Home
@@ -70,18 +70,12 @@ Multilateral Systems
 Packers
 View all 
 19
-Subsea
-Subsea Production Systems
-Flexible Pipe Systems
-Subsea Projects
-View all 
-6
 Production & Optimization
+Aeroderivative Gas Turbines 
 Artificial Lift
-Production Chemicals
-Production Logging
+Heavy Duty Gas Turbines
 View all 
-5
+8
 Well Intervention
 Coiled Tubing Systems and Services
 Wellbore Cleanup
@@ -92,15 +86,21 @@ Decommissioning
 Turnkey Plug & Abandonment
 Well Access Equipment Rental
 Downhole Services
+Subsea
+Subsea Production Systems
+Flexible Pipe Systems
+Subsea Projects
+View all 
+6
 Midstream
 back
 Midstream
 LNG
+Aeroderivative Gas Turbines 
 Heavy Duty Gas Turbines
 Modular Solutions
-Control Valves
 View all 
-6
+7
 Pipeline & Storage
 Pipeline Integrity Services
 Pipeline Maintenance Services and Decommissioning
@@ -125,7 +125,7 @@ View all
 Digital
 back
 Digital
-Field Planning Optimization
+Field Development and Planning 
 JewelSuite Geomechanics
 MFrac™ Suite
 JewelSuite™ Viewer
@@ -208,8 +208,8 @@ Recruitment Fraud
 Contact
 BHGE
 $
-25.51
-BHGE Announces Third Quarter 2018 Results
+22.82
+Introducing Subsea Connect
 Learn more
 ShopBakerHughes.com
 Shop Now
@@ -299,17 +299,17 @@ Baker Hughes Rig Count
 01
 /03
 USA
-1081
+1076
 Change from last week
-14
+3
 Change from last year
-174
+147
 Canada
-196
+199
 Change from last week
-2
+5
 Change from last year
-7
+23
 International
 1017
 Change from last month
@@ -324,7 +324,7 @@ Brent
 WTI
 Stock Info
 BHGE
-26.75
+23.11
 See more on the rig count page
         
 Would you like to learn more?

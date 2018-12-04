@@ -29,9 +29,9 @@ Products
 Extreme Storage
 Storage Platforms Overview
 XVS 8
-FSP 7650
-FSP 7450
-FSP 7700
+XIO G4
+FSP 7650 | 7450 | 7700
+XIO 700 | XIO 200
 Enterprise Software
 Concerto OS
 Symphony - Array Management
@@ -107,14 +107,14 @@ Eric Burgener, Research Director, Enterprise Storage at IDC
  Not only are we exceeding our business service levels, we project a return on investment of 11 months with the Violin platform.”
 Derek Cornwell, IT infrastructure services manager at BlueScope
 Latest News
+ Nov 12, 2018
+Violin Systems Closes X-IO Storage Acquisition   
+Read More >
  Oct 16, 2018
 Violin Systems Signs Agreement to Acquire X-IO Storage Strengthening Leadership in Extreme Performance Storage Solutions   
 Read More >
  Oct 2, 2018
 Violin Debuts New Extreme Performance Storage Solution that Maximizes Application Performance while Reducing IT Costs   
-Read More >
- Jul 24, 2018
-Violin Systems’ CEO Named to Forbes Technology Council   
 Read More >
 More News
 Recent Posts

@@ -209,7 +209,7 @@ Email
 CAPTCHA
 Consent
 I agree to my personal data being stored and used to receive the newsletter.
-Email
+Phone
 This field is for validation purposes and should be left unchanged.
  jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [12, 1]) } ); 
 Connect with k-Space

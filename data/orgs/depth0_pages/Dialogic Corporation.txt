@@ -27,18 +27,6 @@ About
 Contact
 Developer
 Login
-Dialogic
-®
- BUZZ
-™
- wins for Best Unified Communications Innovation award at the Capacity Europe 2018 Global Carrier Awards ceremony
-READ THE PRESS RELEASE!
-
-Learn why leading global communication companies are deploying the cloud-native BorderNet SBC solution
-COME MEET WITH
-US IN 
-BOOTH 39
-The Diplomat Beach Resort, Miami, FL Nov. 12-14, 2018
 An application orchestration and integration platform
  that helps CSPs create new value
 View the product 
@@ -162,7 +150,6 @@ read more
                             by 
 Peter Kuciak
 VIEW ALL BLOGS
-news
 News & Events
 PRESS RELEASES
 EVENTS

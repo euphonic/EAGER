@@ -1337,9 +1337,6 @@ Featured Courses
                                                             Joules Power Calculator
                                                         
 
-                                                            Low-Power Synthesis Flow with Encounter RTL Compiler
-                                                        
-
                                                             Low-Power Synthesis Flow with Genus Synthesis Solution
                                                         
 
@@ -2020,29 +2017,27 @@ SoC Test Generation with Perspec
 Supporting portable stimulus specification 1.0 across the Cadence Verification Suite
 LEARN MORE
 Latest News
+20 Nov
+Cadence Announces Tapeout of GDDR6 IP on Samsung's 7LPP Process, Enabling Complete GDDR6 IP Solution
+13 Nov
+Cadence Delivers Advanced Packaging Reference Flow for Samsung Foundry Customers
 31 Oct
 Cadence Introduces the Tensilica HiFi 5 DSP, the First DSP Optimized for AI Speech and Audio Processing 
-23 Oct
-Cadence Custom/AMS Flow Certified on Samsung 7LPP Process Technology
-22 Oct
-Cadence Accelerates Next-Generation Cloud Datacenter Infrastructure with Industry's First Silicon-Proven, Long-Reach 7nm 112G SerDes IP
 Events
 VIEW ALL
-Automotive Summit 2018
-Don’t miss this exciting event!
-
-November 14 in San Jose
+CDNLive 2018
+Attend our events around the world!
 
 LEARN MORE
 Upcoming Events
-16 Oct - 16 Nov
-Technology on Tour: Innovation for the Next Wave of Mixed-Signal IC and System Design 2018
-13 Nov - 14 Nov
-Technology on Tour: Full-Flow Digital Design Verification and Signoff Solutions 2018
-14 Nov
-Automotive Summit 2018
-15 Nov - 16 Nov
-Technology on Tour: Innovation for the Next Wave of Mixed-Signal IC and System Design India  2018
+05 Dec - 06 Dec
+D&R IP SoC Days 2018
+11 Dec
+Vietnam Technology on Tour 2018
+12 Dec
+Multi-Engine Coverage: Formal and Simulation Metrics in vManager Platform
+08 Jan - 11 Jan
+CES 2019
 Blogs
 VIEW ALL 
 Paul McLellan's Breakfast Bytes
@@ -2051,7 +2046,7 @@ LEARN MORE
 Latest Blogs
 Cadence Cloud – The Future of Electronic Design
 Enabling Complex Electronic Systems
-Emulating Nvidia GPUs
+From TensorFlow to RTL in Three Months
 The Innovus Implementation System routing capability enables us to drive those defects even lower for our automotive customers.
 Dragomir Nikolic, Worldwide CAD Director, Cypress Semiconductor
 Read More

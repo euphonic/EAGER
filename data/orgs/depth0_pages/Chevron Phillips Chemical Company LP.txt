@@ -17,6 +17,7 @@ Industry Glossary
 FAQ
 Locations
 HQ Visitors
+Sustainability
 Careers
 Environment, Health & Safety 
 Accomplishments
@@ -24,7 +25,6 @@ Product Regulatory Overviews
 Product Summaries
 REACH
 Responsible Care®
-Sustainability
 Operational Excellence Policy
 Newsroom
 Product Lines 
@@ -49,9 +49,9 @@ Chevron Phillips Chemical
 Prev
 Next
 Featured Stories
-Chevron Phillips Chemical will host its 18th annual Regional Odorant Spill Exercise (R.O.S.E.) and Symposioum on November 1, 2018 at The Woodlands Emergency Training Center in Conroe, Texas.
-Senior Vice President of Polymers and Specialties David Morgan spoke with BIC Magazine about the drivers behind the second chapter of petrochemical investment. 
-Chevron Phillips Chemical President and CEO Mark Lashier discussed with Houston Business Journal the business opportunities that have shaped company strategy in the last year and where he sees future growth potential. 
+Chevron Phillips Chemical has provided 4,250 middle school students access to science, technology, engineering and math (STEM) activities through its sponsorship of the Texas Alliance for Minorities in Engineering (TAME) Trailblazer.
+Supply Chain General Manager Bob Rhoades spoke with S&P Global Platts about what export operators may expect as the next phase of petrochemical investments unfolds.
+What can you do as a business to retain your customer base, and make them feel appreciated?  Jace Drew, Sales for Drilling Specialties Company weighed in with some ideas and strategies for worldwide customer retention and overall appreciation. 
 Worldwide Operations
 Page Content
 Connect with us:
@@ -71,6 +71,4 @@ RegisterSod("inplview", "\u002f_layouts\u002finplview.js?rev=WB6Gy8a027aeNCq7koV
 RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=YhBHGmUAGyJ3lAgSdE4V\u00252Fw\u00253D\u00253D");
 RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=q6nxzZIVVXE5X1SPZIMD3A\u00253D\u00253D");
 RegisterSod("sp.ui.pub.ribbon.js", "\u002f_layouts\u002fsp.ui.pub.ribbon.js?rev=RGQSBI9Dm0E345iq\u00252FxUpHg\u00253D\u00253D");
-RegisterSod("msstring.js", "\u002f_layouts\u002f1033\u002fmsstring.js?rev=QtiIcPH3HV7LgVSO7vONFg\u00253D\u00253D");
-RegisterSod("browserScript", "\u002f_layouts\u002f1033\u002fie55up.js?rev=UgTcwUTI6YcRzTMBxD93Xg\u00253D\u00253D");
 RegisterSodDep("browserScript", "msstring.js");
