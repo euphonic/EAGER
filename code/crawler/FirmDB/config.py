@@ -1,4 +1,4 @@
-connection_string = 'mongodb://ec2-18-221-193-53.us-east-2.compute.amazonaws.com'
+connection_string = 'mongodb://localhost'
 username = "scrapy"
 password = "eager"
 authSource = "FirmDB"

@@ -8,17 +8,22 @@ import pymongo
 import traceback
 from time import sleep
 import requests
+from config import connection_string
+from config import username
+from config import password
+from config import authSource
+from config import authMechanism
 
-mdbc = pymongo.MongoClient("mongodb://localhost:27017/")
+mdbc = pymongo.MongoClient(connection_string, username=username, password=password, authSource=authSource, authMechanism=authMechanism)
 db = mdbc["EAGER"]
-col = db["bingResults_finalTest"]
+col = db["bingResults"]
 
 pp = pprint.PrettyPrinter(indent=4)
 
-f_in = open('/Users/sarora/dev/EAGER/data/modeling/urls/final_test/companies.csv')
+f_in = open('/home/eager/EAGER/data/orgs/workshop/all_demo.csv')
 csv_in = csv.reader(f_in)
 
-e_out = open('/Users/sarora/dev/EAGER/data/error_out.csv', 'w')
+e_out = open('/home/eager/EAGER/data/error_out.csv', 'w')
 ecsv_out = csv.writer(e_out)
 
 subscription_key = "b955f2b5212a44589d84e7b1b7e9bb6b"

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 from scrapy.loader import ItemLoader
-from scrapy.spiders import CrawlSpider, Rule
+from scrapy.spiders import CrawlSpider, Rule, Spider
 from scrapy.linkextractors import LinkExtractor
 from FirmDB.items import Page
 from FirmDB import settings
@@ -24,7 +24,7 @@ def url_to_filepath(url, prefix):
     filepath = url.rstrip('.html').rstrip('.htm') + ".html"
     return prefix + '/' + filepath
 
-class HTMLSpider(CrawlSpider):
+class HTMLSpider(Spider):
 
     name = "HTML"
     firms = read_urls.read_firms_csv(settings.INPUT_DATA)
@@ -47,9 +47,9 @@ class HTMLSpider(CrawlSpider):
     df = pd.DataFrame(start_urls)
     df.to_csv('Output/start_urls.csv', index=False, header=False)
     # Starting with the start_urls, follow all pages recursively. Parse each page for links with parse_links()
-    rules = (Rule(LinkExtractor(allow=()), callback='parse_links', follow=True),)
+    # rules = (Rule(LinkExtractor(allow=()), callback='parse_links', follow=True),)
 
-    def parse_links(self, response):
+    def parse(self, response):
         options = Options()
         options.headless = True
 
