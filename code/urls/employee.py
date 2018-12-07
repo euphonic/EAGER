@@ -13,11 +13,16 @@ import pprint
 from googleapiclient.discovery import build
 import textdistance
 import collections
+from config import connection_string
+from config import username
+from config import password
+from config import authSource
+from config import authMechanism
 
-f_in = open('/Users/sarora/dev/EAGER/data/linkedin/urls-for-linkedin_acacia.csv')
+f_in = open('/home/eager/EAGER/data/orgs/workshop/co_urls.csv')
 csv_in = csv.reader(f_in)
 
-f_out = open('/Users/sarora/dev/EAGER/data/linkedin/linkedin-out_all_20181206.csv', 'w')
+f_out = open('/home/eager/EAGER/data/orgs/workshop/co_urls+emps.csv', 'w')
 csv_out = csv.writer(f_out)
 
 service = build("customsearch", "v1",

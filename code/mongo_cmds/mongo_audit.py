@@ -8,7 +8,6 @@
 
 # Input: Requires an input collection number, e.g., 1
 # Output: A list of missing firms that need to be recrawled 
-
 import csv
 import pprint
 import sys

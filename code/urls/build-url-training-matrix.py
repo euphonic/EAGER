@@ -9,6 +9,11 @@ import traceback
 from time import sleep
 import requests
 import getopt
+from config import connection_string
+from config import username
+from config import password
+from config import authSource
+from config import authMechanism
 
 options, remainder = getopt.getopt(sys.argv[1:], 'tv')
 
@@ -23,16 +28,16 @@ for opt, arg in options:
     elif opt in ('-v'):
         test_mode = False
 
-mdbc = pymongo.MongoClient("mongodb://localhost:27017/")
+mdbc = pymongo.MongoClient(connection_string, username=username, password=password, authSource=authSource, authMechanism=authMechanism)
 db = mdbc["EAGER"]
-col = db["bingResults_finalTest"]
+col = db["bingResults"]
 
 pp = pprint.PrettyPrinter(indent=4)
 
-f_in = open('/Users/sarora/dev/EAGER/data/modeling/urls/final_test/companies.csv')
+f_in = open('/home/eager/EAGER/data/orgs/workshop/all_demo.csv')
 csv_in = csv.reader(f_in)
 
-f_out = open('/Users/sarora/dev/EAGER/data/modeling/urls/final_test/bing-final-test-matrix.csv', 'w')
+f_out = open('/home/eager/EAGER/data/orgs/workshop/bing-final-test-matrix.csv', 'w')
 csv_out = csv.writer(f_out)
 
 if not test_mode:
