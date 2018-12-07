@@ -14,10 +14,10 @@ from googleapiclient.discovery import build
 import textdistance
 import collections
 
-f_in = open('/Users/sarora/dev/EAGER/data/linkedin/urls-for-linkedin_v2.csv')
+f_in = open('/Users/sarora/dev/EAGER/data/linkedin/urls-for-linkedin_acacia.csv')
 csv_in = csv.reader(f_in)
 
-f_out = open('/Users/sarora/dev/EAGER/data/linkedin/linkedin-out_v2.csv', 'w')
+f_out = open('/Users/sarora/dev/EAGER/data/linkedin/linkedin-out_all_20181206.csv', 'w')
 csv_out = csv.writer(f_out)
 
 service = build("customsearch", "v1",
@@ -51,8 +51,8 @@ for row in csv_in:
         cx='007721750960636651249:ad5w3ishg9q',
     ).execute()
 
-    # pp = pprint.PrettyPrinter()
-    # pp.pprint (res)
+    pp = pprint.PrettyPrinter()
+    pp.pprint (res)
 
     li_dict = collections.defaultdict(dict)
 
@@ -69,8 +69,9 @@ for row in csv_in:
         if "/showcase/" in formattedUrl or "/in/" in formattedUrl or "/.../" in formattedUrl:
             # print ("\tContinuing on ", formattedUrl)
             continue
-        # else:
-        #     print("\tProcessing ", formattedUrl)
+        else:
+            # print("\tProcessing ", formattedUrl)
+            pass
 
         snippet = items[i].get("snippet", None)
         title = items[i].get("title", None) # formatted "company name | LinkedIn"
@@ -80,15 +81,18 @@ for row in csv_in:
         snippet_clnd = re.sub("[,.]", "", snippet)
         emps = re.findall(p, snippet_clnd)
         if emps:
-            li_dict[li_firm]["emps"] = emps[0]
+            li_dict[li_firm]["emps"] = int(emps[0])
         else:
-            li_dict[li_firm]["emps"] = ''
+            li_dict[li_firm]["emps"] = 0
+        print (li_firm + ': ' + str(li_dict[li_firm]["emps"]))
 
         li_dict[li_firm]["formattedUrl"] = formattedUrl
         li_dict[li_firm]["rank"] = rank
         rank = rank + 1
 
-    srtd_keys = sorted(li_dict, key=lambda x: (li_dict[x]['rank']))
+    srtd_keys = sorted(li_dict, key=lambda x: (li_dict[x]['emps']), reverse=True)
+    # pp.pprint (li_dict)
+    print(srtd_keys)
     if not srtd_keys:
         write_null_result(firm, url)
     else:
