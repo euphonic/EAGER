@@ -1,17 +1,19 @@
 library("msm")
-setwd("/Users/sarora/dev/EAGER/data/orgs/depth0_pages/")
+library("dplyr")
+setwd("/home/eager/EAGER/data/orgs/workshop/depth0_pages/")
 
 in.depth0_topics <- read.csv("out_topics.csv", header = TRUE, stringsAsFactors = FALSE)
 head(in.depth0_topics)
 nrow(in.depth0_topics)
+unique(in.depth0_topics$main_topic)
 in.depth0_topics$main_topic <- in.depth0_topics$main_topic + 1
 num_topics <- length(unique(in.depth0_topics$main_topic))
 num_topics
-unique(in.depth0_topics$main_topic)
+
 
 groups <- in.depth0_topics %>% group_indices(firm_key)
 in.depth0_topics$gid <- groups
-# View(in.depth0_topics)
+View(in.depth0_topics)
 
 head(in.depth0_topics)
 statetable.msm(main_topic, gid, data = in.depth0_topics)
