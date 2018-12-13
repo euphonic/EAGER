@@ -26,7 +26,7 @@ csv_in = csv.reader(f_in)
 e_out = open('/home/eager/EAGER/data/error_out.csv', 'w')
 ecsv_out = csv.writer(e_out)
 
-subscription_key = "b955f2b5212a44589d84e7b1b7e9bb6b"
+subscription_key = "" # insert key here in empty quotes
 assert subscription_key
 search_url = "https://api.cognitive.microsoft.com/bing/v7.0/search"
 HITNUM = 8 # the number of search results to process for a given firm

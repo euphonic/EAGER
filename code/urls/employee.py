@@ -26,7 +26,7 @@ f_out = open('/home/eager/EAGER/data/orgs/workshop/co_urls+emps.csv', 'w')
 csv_out = csv.writer(f_out)
 
 service = build("customsearch", "v1",
-                developerKey="AIzaSyCGSAZr9pYt_ALZBryuVwwpOjxCR4k8-TQ")
+                developerKey="") # insert key here in empty quotes
 
 p = re.compile(r'\b\d+\b')
 
