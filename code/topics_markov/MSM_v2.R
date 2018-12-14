@@ -5,7 +5,7 @@ library("diffusr")
 setwd("/home/eager/EAGER/data/orgs/workshop/depth0_boilerpipe/")
 
 # copy the label vector from jupyter notebook
-labels <- c("power|technolog|system", "thermoplast|use|long", "technolog|develop|new", "technolog|energi|celanes", "power|use|high")
+labels <- c("technolog|power|use", "thermoplast|cooki|technolog", "warn|technolog|energi", "energi|technolog|system", "cancer|develop|diagnost")
 
 # load data and clean
 in.depth0_topics <- read.csv("out_topics.csv", header = TRUE, stringsAsFactors = FALSE)
@@ -39,19 +39,19 @@ net=graph.adjacency(st,mode="directed",weighted=TRUE,diag=FALSE)
 deg <- degree(net, mode="all")
 V(net)$size <- deg*3
 E(net)$width <- E(net)$weight * 2
-E(net)$arrow.size <- 3
+E(net)$arrow.size <- 2
 graph_attr(net, "layout") <- layout_with_lgl
 plot.igraph(net,vertex.label=V(net)$name,layout=layout_with_lgl, edge.curved=.4, vertex.label.color="black", edge.color="gray80",
             vertex.color="light blue", vertex.frame.color="light blue", rescale=TRUE)
 
 
-## stationary distribution of a Markov chain (igraph)
+# stationary distribution of a Markov chain (igraph)
 w <- random_walk(net, start = 3, steps = 1000, mode = "out")
 ec <- eigen_centrality(net, directed = TRUE)$vector
 pg <- page_rank(net, damping = 0.999)$vector
-## these are similar, but not exactly the same
+
+# correlations
 cor(table(w), ec)
-## but these are (almost) the same
 cor(table(w), pg)
 
 # msm

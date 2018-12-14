@@ -1,22 +1,22 @@
 firm,firm_length,name_clnd,name_length,hit_url,hit_url_length,rank,matches,public,acquired_merged
 ACACIA RESEARCH GROUP LLC,21,Acacia Research - Official Site,31,acaciaresearch.com/,26,1,2,1,0
 ACACIA RESEARCH GROUP LLC,21,Acacia Research Group LLC: Private Company Information ...,58,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=118743619,82,3,3,1,0
-ACACIA RESEARCH GROUP LLC,21,Acacia Research Group LLC - Company Profile,43,corporationwiki.com/Texas/Frisco/acacia-research-group-llc/67337832.aspx,84,5,3,2,0
+ACACIA RESEARCH GROUP LLC,21,Acacia Research Group LLC - Company Profile,43,corporationwiki.com/Texas/Frisco/acacia-research-group-llc/67337832.aspx,84,7,3,2,0
 ACACIA RESEARCH GROUP LLC,21,Acacia Research Group LLC: Board of Directors - Bloomberg,57,bloomberg.com/research/stocks/private/board.asp?privcapId=118743619,79,8,3,2,0
 ACACIA RESEARCH GROUP LLC,21,Acacia Research seeks to profit from patents - latimes,54,articles.latimes.com/2014/apr/06/business/la-fi-stock-spotlight-acacia-research-20140407,95,9,2,2,0
 Ablexis,7,"Ablexis A superior, next generation transgenic mouse ...",56,ablexis.com/,23,1,1,0,0
 Ablexis,7,"Ablexis, LLC: Private Company Information - Bloomberg",53,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=106896773,82,2,1,0,0
 Ablexis,7,Ablexis | Crunchbase,20,crunchbase.com/organization/ablexis,47,3,1,0,0
-Ablexis,7,Ablexis Targets Market Expansion Opportunities for ...,54,prnewswire.com/news-releases/ablexis-targets-market-expansion-opportunities-for-alivamab-mouse-following-acquisition-by-deerfield-management-and-the-founding-of-alivamab-discovery-services-300669893.html,215,4,1,1,0
-Ablexis,7,Ablexis Announces Licensing Agreement with Voyager ...,54,businesswire.com/news/home/20181023005025/en/Ablexis-Announces-Licensing-Agreement-Voyager-Therapeutics,115,5,1,2,0
-Ablexis,7,Ablexis Announces Antibody Discovered Using AlivaMab Mouse ...,62,businesswire.com/news/home/20181105005020/en/,57,6,1,2,0
+Ablexis,7,Ablexis Announces Antibody Discovered Using AlivaMab Mouse ...,62,businesswire.com/news/home/20181105005020/en/Ablexis-Announces-Antibody-Discovered-AlivaMab-Mouse-Platform,118,4,1,0,0
+Ablexis,7,Ablexis Announces Licensing Agreement with Allogene ...,55,wfmj.com/story/39597839/ablexis-announces-licensing-agreement-with-allogene-therapeutics,99,5,1,0,0
+Ablexis,7,Ablexis Targets Market Expansion Opportunities for ...,54,prnewswire.com/news-releases/ablexis-targets-market-expansion-opportunities-for-alivamab-mouse-following-acquisition-by-deerfield-management-and-the-founding-of-alivamab-discovery-services-300669893.html,215,6,1,1,0
+Ablexis,7,Ablexis Announces Licensing Agreement with Voyager ...,54,businesswire.com/news/home/20181023005025/en/Ablexis-Announces-Licensing-Agreement-Voyager-Therapeutics,115,7,1,2,0
 Ablexis,7,"Ablexis Cuts Deal With Pfizer Inc., Four Other Pharmas ...",58,biospace.com/article/releases/ablexis-cuts-deal-with-pfizer-inc-four-other-pharmas-for-antibody-drug-discovery-tool-in-deal-worth-up-to-50-million-/,160,8,1,2,0
-Ablexis,7,ALXN Stock Price - Alexion Pharmaceuticals Inc. Stock ...,57,marketwatch.com/investing/stock/alxn,48,9,0,3,0
 Alliance for Sustainable Energy,31,Alliance for Sustainable Energy - Official Site,47,allianceforsustainableenergy.org/,44,1,4,0,0
-Alliance for Sustainable Energy,31,"Alliance for Sustainable Energy, LLC: Private Company ...",57,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=48759764,81,2,4,0,0
-Alliance for Sustainable Energy,31,Alliance for Sustainable Energy LLC/National Renewable ...,58,ase.org/profile/alliance-sustainable-energy-llcnational-renewable-energy-laboratory,95,3,4,0,0
+Alliance for Sustainable Energy,31,Alliance for Sustainable Energy LLC/National Renewable ...,58,ase.org/profile/alliance-sustainable-energy-llcnational-renewable-energy-laboratory,95,2,4,0,0
+Alliance for Sustainable Energy,31,"Alliance for Sustainable Energy, LLC: Private Company ...",57,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=48759764,81,3,4,0,0
 Alliance for Sustainable Energy,31,Index - Alliance for Sustainability,35,allianceforsustainability.com/,37,4,2,0,0
-Alliance for Sustainable Energy,31,Alliance for Sustainable Energy Salaries | Glassdoor,52,glassdoor.com/Salary/Alliance-for-Sustainable-Energy-Salaries-E421483.htm,85,5,4,0,0
+Alliance for Sustainable Energy,31,Alliance for Sustainable Energy Salaries | Glassdoor,52,glassdoor.com/Salary/Alliance-for-Sustainable-Energy-Salaries-E421483.htm,85,6,4,0,0
 Alliance for Sustainable Energy,31,Alliance for Sustainable Energy LLC - Bloomberg.com,51,bloomberg.com/profiles/companies/4131621Z:US-alliance-for-sustainable-energy-llc,92,7,4,0,0
 Alliance for Sustainable Energy,31,Alliance for Sustainable Energy LLC - GuideStar Profile,55,guidestar.org/profile/26-1939342,44,8,4,0,0
 CyboEnergy,10,CyboEnergy,10,cyboenergy.com/,26,1,1,0,0
@@ -24,72 +24,75 @@ CyboEnergy,10,CyboInverter Product Family - CyboEnergy,40,cyboenergy.com/product
 CyboEnergy,10,CyboEnergy debuts AC assisted off-grid inverters,48,solarpowerworldonline.com/2018/09/cyboenergy-debuts-ac-assisted-off-grid-inverters/,95,5,1,0,0
 CyboEnergy,10,"Frost & Sullivan Applauds the CyboInverter, a ...",49,frost.com/prod/servlet/press-release.pag?docid=287997114,67,6,0,0,0
 CyboEnergy,10,CyboEnergy receives Frost & Sullivan solar inverter ...,55,solarpowerworldonline.com/2018/01/cyboenergy-receives-frost-sullivan-solar-inverter-innovation-award/,113,7,1,0,0
-CyboEnergy,10,CyboEnergy Releases On/Off-Grid CyboInverter and Will ...,57,prnewswire.com/news-releases/cyboenergy-releases-onoff-grid-cyboinverter-and-will-demonstrate-at-intersolar-300097070.html,134,8,1,0,0
+CyboEnergy,10,CyboSoft - The Provider of Model-Free Adaptive Control,54,cybosoft.com/,20,8,0,0,0
 EMD Technologies Inc.,16,EMD Technologies  EMD Technologies is a leading designer ...,60,emd-technologies.com/,29,1,2,0,0
-EMD Technologies Inc.,16,eMD Technologies - Your healthcare solution provider ...,56,e-md.co.za/,19,2,2,0,0
-EMD Technologies Inc.,16,About Us  EMD Technologies,26,emd-technologies.com/about-emd/,39,3,2,0,0
-EMD Technologies Inc.,16,HEICO - EMD Technologies,24,heico.com/about-us/subsidiaries/emd/,48,4,2,0,0
-EMD Technologies Inc.,16,eMD Technologies - Technology,29,e-md.co.za/about/technology,35,5,2,0,0
+EMD Technologies Inc.,16,EMD - Complete Innovation ... Innovation Completed ...,54,emdtech.com/,24,2,1,0,0
+EMD Technologies Inc.,16,eMD Technologies,16,e-md.co.za/,18,3,2,0,0
+EMD Technologies Inc.,16,"EMD Technologies, Inc.: Private Company Information ...",55,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=36824604,81,4,2,0,0
+EMD Technologies Inc.,16,HEICO - EMD Technologies - Contact Us,37,heico.com/about-us/subsidiaries/emd/contact-us.php,62,5,2,0,0
 EMD Technologies Inc.,16,EMD Technologies LLC - Home,27,emdtechs.com/,20,6,2,0,0
-EMD Technologies Inc.,16,HEICO - EMD Technologies - Contact Us,37,heico.com/about-us/subsidiaries/emd/contact-us.php,62,7,2,0,0
-Energen,7,Energen - Official Site,23,energen.com/,23,1,1,0,0
-Energen,7,"Diamondback Energy, Inc. (FANG)",31,diamondbackenergy.com/,34,2,0,0,0
-Energen,7,EGN Stock Price - Energen Corp. Stock Quote (U.S.: NYSE ...,59,marketwatch.com/investing/stock/egn,47,4,1,1,0
-Energen,7,Energen  Portable Drone Battery Charger for DJI Mavic ...,57,myenergen.com/,22,5,1,1,0
-Energen,7,Energen: A Bit About The Potential Sale - Energen ...,53,seekingalpha.com/article/4186672-energen-bit-potential-sale,67,6,1,1,0
-Energen,7,"Diamondback Energy, Inc. to Acquire Energen Corporation in ...",62,ir.diamondbackenergy.com/news-releases/news-release-details/diamondback-energy-inc-acquire-energen-corporation-all-stock,127,8,1,2,1
+EMD Technologies Inc.,16,HEICO - EMD Technologies,24,heico.com/about-us/subsidiaries/emd/,48,7,2,0,0
+EMD Technologies Inc.,16,EMD Technologies Inc: Company Profile - Bloomberg,49,bloomberg.com/profiles/companies/2235273Z:CN-emd-technologies-inc,77,9,2,0,0
+Energen,7,"Diamondback Energy, Inc. (FANG)",31,diamondbackenergy.com/,34,1,0,0,0
+Energen,7,Investor Relations | Energen,28,ir.energen.com/,22,2,1,0,0
+Energen,7,Energen  Portable Drone Battery Charger for DJI Mavic ...,57,myenergen.com/,22,4,1,0,0
+Energen,7,Energen Corp. - NYSE:EGN - Stock Quote & News - TheStreet,57,thestreet.com/quote/EGN.html,40,5,1,1,0
+Energen,7,EGN Stock Price - Europa Oil & Gas (Holdings) PLC Stock ...,59,marketwatch.com/investing/stock/egn,47,6,0,2,0
+Energen,7,"Diamondback Energy, Inc. to Acquire Energen Corporation in ...",62,ir.diamondbackenergy.com/news-releases/news-release-details/diamondback-energy-inc-acquire-energen-corporation-all-stock,127,7,1,3,1
 FULL CIRCLE BIOCHAR,19,Full Circle Biochar | Full Circle Biochar,41,fullcirclebiochar.com/,29,1,3,1,0
-FULL CIRCLE BIOCHAR,19,Full Circle Biochar | Crunchbase,32,crunchbase.com/organization/full-circle-biochar,59,3,3,1,0
-FULL CIRCLE BIOCHAR,19,Lyrics containing the term: full circle biochar,47,lyrics.com/lyrics/full%20circle%20biochar,53,4,3,1,0
-FULL CIRCLE BIOCHAR,19,Full Circle Biochar Company Profile: Valuation & Investors ...,62,pitchbook.com/profiles/company/123051-07,48,5,3,1,0
-FULL CIRCLE BIOCHAR,19,Virgin Earth Challenge : Full Circle Biochar,44,virginearth.com/finalists/full-circle-biochar/,57,7,3,1,0
-FULL CIRCLE BIOCHAR,19,Full Circle  Circle Carbon S.L.,31,circlecarbon.com/fullcircle/,36,8,2,1,0
-FULL CIRCLE BIOCHAR,19,Full Circle Biochar: Private Company Information - Bloomberg,60,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=183780422,82,9,3,1,0
+FULL CIRCLE BIOCHAR,19,Lyrics containing the term: full circle biochar,47,lyrics.com/lyrics/full%20circle%20biochar,53,3,3,1,0
+FULL CIRCLE BIOCHAR,19,Full Circle Biochar | Crunchbase,32,crunchbase.com/organization/full-circle-biochar,59,4,3,1,0
+FULL CIRCLE BIOCHAR,19,Full Circle Biochar: Private Company Information - Bloomberg,60,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=183780422,82,5,3,1,0
+FULL CIRCLE BIOCHAR,19,Virgin Earth Challenge : Full Circle Biochar,44,virginearth.com/finalists/full-circle-biochar/,57,6,3,1,0
+FULL CIRCLE BIOCHAR,19,Full Circle Biochar Company Profile: Valuation & Investors ...,62,pitchbook.com/profiles/company/123051-07,48,7,3,1,0
+FULL CIRCLE BIOCHAR,19,"Biochar Market 2025 | Industry Analysis, Size, Share ...",56,utilitydive.com/press-release/20180705-biochar-market-2025-industry-analysis-size-share-growth-trends-and-f/,120,8,1,1,0
+FULL CIRCLE BIOCHAR,19,"FULL CIRCLE BIOCHAR, INC. Top Holdings - WhaleWisdom",52,whalewisdom.com/filer/full-circle-biochar-inc,53,9,3,1,1
 Ferro Corporation,5,Ferro - Official Site,21,ferro.com/,22,1,1,0,0
 Ferro Corporation,5,Ferro- | Define Ferro- at Dictionary.com,40,dictionary.com/browse/ferro-,40,2,1,0,0
 Ferro Corporation,5,Ferro- - definition of ferro- by The Free Dictionary,52,thefreedictionary.com/ferro-,40,5,1,0,0
 Ferro Corporation,5,ferro - Wiktionary,18,en.wiktionary.org/wiki/ferro,36,6,1,0,0
-Ferro Corporation,5,Ferro | Spanish to English Translation - SpanishDict,52,spanishdict.com/translate/ferro,42,7,1,0,0
-Ferro Corporation,5,FERRO - 313 Photos & 335 Reviews - Italian - 25840 Cedar ...,60,yelp.com/biz/ferro-idyllwild,40,9,1,0,0
+Ferro Corporation,5,Ferro- | definition of ferro- by Medical dictionary,51,medical-dictionary.thefreedictionary.com/ferro-,55,9,1,0,0
 Ferro Corporation,5,PRODUCTS & SERVICES - Ferro,27,ferro.com/Products,30,10,1,0,0
 GOAL ZERO LLC,9,Goal Zero - Official Site,25,goalzero.com/,25,1,2,0,0
 GOAL ZERO LLC,9,Amazon.com: goal zero,21,amazon.com/goal-zero/s?page=1&rh=i%3Aaps%2Ck%3Agoal%20zero,70,2,2,0,0
 GOAL ZERO LLC,9,GOAL ZERO (@goalzero)  Instagram photos and videos,50,instagram.com/GoalZero/,35,3,2,0,0
 GOAL ZERO LLC,9,Goal Zero | REI Co-op,21,rei.com/b/goal-zero,31,4,2,0,0
-GOAL ZERO LLC,9,Goal Zero Solar Charger Kits - Earthtech Products,49,earthtechproducts.com/goal-zero-solar-chargers.html,63,5,2,0,0
-GOAL ZERO LLC,9,Amazon.com: GOAL ZERO,21,amazon.com/stores/GOAL+ZERO/GOAL+ZERO/page/21725527-030B-490D-B866-10492C8C485E,91,7,2,0,1
-Genesco Inc.,7,Genesco Window & Building Products Corp.,40,genescowindowproducts.com/,37,2,1,0,0
+GOAL ZERO LLC,9,Amazon.com: GOAL ZERO,21,amazon.com/stores/GOAL+ZERO/GOAL+ZERO/page/21725527-030B-490D-B866-10492C8C485E,91,6,2,0,1
+GOAL ZERO LLC,9,Goal Zero - The Home Depot,26,homedepot.com/b/Goal-Zero/N-5yc1vZckk,49,7,2,0,1
+GOAL ZERO LLC,9,Goal Zero Solar Charger Kits - Earthtech Products,49,earthtechproducts.com/goal-zero-solar-chargers.html,63,8,2,0,1
+GOAL ZERO LLC,9,goal zero | eBay,16,ebay.com/sch/i.html?_nkw=goal+zero,46,9,2,0,1
+Genesco Inc.,7,Investor Overview | Genesco,27,genesco.gcs-web.com/,27,2,1,0,0
 Genesco Inc.,7,Genesco Corporate Office Headquarters,37,corporateofficeheadquarters.com/2012/04/genesco-corporate-office-headquarters.html,94,3,1,0,0
-Genesco Inc.,7,Genesco Careers and Employment | Indeed.com,43,indeed.com/cmp/Genesco,34,4,1,0,0
-Genesco Inc.,7,lids.com,8,lids.com/help-desk/corporate/employee,49,5,0,0,0
-Genesco Inc.,7,SUNY Geneseo - Official Site,28,geneseo.edu/,24,7,0,1,0
-Genesco Inc.,7,Genesco Inc. - The New York Times,33,nytimes.com/topic/company/genesco-inc,49,8,1,1,0
-Genesco Inc.,7,News Releases | Genesco,23,genesco.gcs-web.com/news-releases,40,10,1,2,0
+Genesco Inc.,7,GENSCO | Home,13,gensco.com/,19,4,0,0,0
+Genesco Inc.,7,Genesco Window & Building Products Corp.,40,genescowindowproducts.com/,37,5,1,0,0
+Genesco Inc.,7,lids.com,8,lids.com/help-desk/corporate/employee,49,6,0,0,0
+Genesco Inc.,7,Genesco Careers and Employment | Indeed.com,43,indeed.com/cmp/Genesco,34,7,1,0,0
+Genesco Inc.,7,SUNY Geneseo - Official Site,28,geneseo.edu/,24,10,0,1,0
 Gilead Connecticut,18,Gilead Community Services - Official Site,41,gileadcs.org/,20,1,1,0,0
 Gilead Connecticut,18,"Gilead Connecticut, Inc.: Private Company Information ...",57,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=253921355,82,4,2,0,0
 Gilead Connecticut,18,Gilead Congregational Church United Church of Christ - Official Site,68,gileadchurchucc.org/,31,5,1,0,0
 Gilead Connecticut,18,"Gilead, CT - A Walk Down Memory Lane - Rockvillemama",52,rockvillemama.com/gileadct.htm,41,6,1,0,0
-Gilead Connecticut,18,The Buell Farm in Gilead CT - Rockvillemama,43,rockvillemama.com/buellfarm.htm,42,8,1,0,0
+Gilead Connecticut,18,Gilead Sciences - Official Site,31,gilead.com/,23,7,1,0,0
+Gilead Connecticut,18,"Gilead-Connecticut in Branford, CT | Whitepages",47,whitepages.com/business/CT/Branford/Gilead-Connecticut,66,8,2,0,0
 Glucan Biorenewables LLC,20,GlucanBio,9,glucanbio.com/,21,1,1,0,0
 Glucan Biorenewables LLC,20,Glucan Biorenewables: The Digests 2018 5-Minute Guide ...,57,biofuelsdigest.com/bdigest/2018/01/21/glucan-biorenewables-the-digests-2015-5-minute-guide/,102,2,2,0,0
-Glucan Biorenewables LLC,20,"Glucan Biorenewables, LLC: Private Company Information ...",58,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=222913180,82,3,2,0,0
-Glucan Biorenewables LLC,20,"Glucan Biorenewables, LLC | F6S",31,f6s.com/glucanbio.com#!,35,4,2,0,0
-Glucan Biorenewables LLC,20,"Glucan Biorenewables, LLC: CEO and Executives - Bloomberg",57,bloomberg.com/research/stocks/private/people.asp?privcapId=222913180,80,5,2,0,0
-Glucan Biorenewables LLC,20,Glucan Biorenewables LLC,24,biotechprofiles.com/companyprofile/GlucanBio.aspx,60,6,2,0,0
-Glucan Biorenewables LLC,20,Glucan Biorenewables Wins ... - Clean Energy Trust,50,cleanenergytrust.org/glucan-biorenewables-wins-international-renewable-chemistry-contest/,96,7,2,0,0
+Glucan Biorenewables LLC,20,"Glucan Biorenewables, LLC | F6S",31,f6s.com/glucanbio.com#!,35,3,2,0,0
+Glucan Biorenewables LLC,20,Glucan Biorenewables LLC,24,biotechprofiles.com/companyprofile/GlucanBio.aspx,60,4,2,0,0
+Glucan Biorenewables LLC,20,"Glucan Biorenewables, LLC: Private Company Information ...",58,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=222913180,82,5,2,0,0
+Glucan Biorenewables LLC,20,Glucan Biorenewables Wins ... - Clean Energy Trust,50,cleanenergytrust.org/glucan-biorenewables-wins-international-renewable-chemistry-contest/,96,6,2,0,0
+Glucan Biorenewables LLC,20,"Glucan Biorenewables, LLC: CEO and Executives - Bloomberg",57,bloomberg.com/research/stocks/private/people.asp?privcapId=222913180,80,7,2,0,0
 Glucan Biorenewables LLC,20,"Glucan Biorenewables LLC | Clayton, MO, USA Startup",51,gust.com/companies/glucan_biorenewables_llc,51,8,2,0,0
-Glucan Biorenewables LLC,20,Renewable Chemistry Start-up Award | Sofinnova,46,sofinnova.fr/en/renewable-chemistry-start-up-award-2/,64,9,0,0,0
 Immunolight,11,"Immunolight | Illumination, Innovation, Transformation",54,immunolight.com/,27,1,1,0,0
 Immunolight,11,"Technology | Illumination, Innovation, Transformation",53,immunolight.com/technology/,38,2,0,0,0
 Immunolight,11,1. Immunolight LLC - crainsdetroit.com,38,crainsdetroit.com/article/20161111/AWARDS1316/161119975/1-immunolight-llc,85,3,1,0,0
-Immunolight,11,Immunolight LLC - Intellectual Property Law Firm,48,oblon.com/our-clients/immunolight-llc/,49,5,1,0,0
-Immunolight,11,Duke Clinical & Translational Science Institute,47,ctsi.duke.edu/news/shedding-light-cancer,52,6,0,0,0
+Immunolight,11,Immunolight LLC - Intellectual Property Law Firm,48,oblon.com/our-clients/immunolight-llc/,49,4,1,0,0
+Immunolight,11,Light-based cancer therapy moves through clinical trials,56,medicalxpress.com/news/2017-09-light-based-cancer-therapy-clinical-trials.html,86,6,0,0,0
 Immunolight,11,Preferred Cell Systems -- ImmunoLight,37,preferred-cell-systems.com/ImmunoLight.php,49,8,1,0,0
 Intel Corporation,5,Intel - Official Site,21,intel.com/content/us/en/homepage.html,53,1,1,0,0
-Intel Corporation,5,Amazon.com: intel,17,amazon.com/intel/s?page=1&rh=i%3Aaps%2Ck%3Aintel,60,6,1,0,0
-Intel Corporation,5,Intel Product Specifications,28,ark.intel.com/,22,7,1,0,0
-Intel Corporation,5,INTC Stock Price - Intel Corp. Stock Quote (U.S.: Nasdaq ...,60,marketwatch.com/investing/stock/intc,48,8,1,1,0
-Intel Corporation,5,Intel Newsroom | Intel Official News and Information,52,newsroom.intel.com/,27,9,1,1,0
+Intel Corporation,5,INTC Stock Price - Intel Corp. Stock Quote (U.S.: Nasdaq ...,60,marketwatch.com/investing/stock/intc,48,3,1,1,0
+Intel Corporation,5,Intel Product Specifications,28,ark.intel.com/,22,7,1,1,0
+Intel Corporation,5,Intel Newsroom | Intel Official News and Information,52,newsroom.intel.com/,27,8,1,1,0
+Intel Corporation,5,Intel | Definition of Intel by Merriam-Webster,46,merriam-webster.com/dictionary/intel,48,9,1,1,0
 Iogen Corporation,5,Iogen Corporation - Official Site,33,iogen.ca/,20,1,1,0,0
 Iogen Corporation,5,Inogen - Official Site,22,inogen.com/,23,2,0,0,0
 Iogen Corporation,5,Inogen One G3 Portable Oxygen Concentrator System,49,store.mainclinicsupply.com/inogen-one-g3-portable-oxygen-concentrator-p/inogen-g4.htm,93,4,0,0,0
@@ -99,97 +102,102 @@ Iogen Corporation,5,Iogen Corporation,17,iogen.ca/about-iogen/index.html,38,8,1,
 Iogen Corporation,5,Biogen - Official Site,22,biogen.com/,23,9,1,0,0
 Iogen Corporation,5,Careers - Biogen,16,biogen.com/en_us/careers.html,41,10,1,0,0
 Kinetech Power Company LLC,22,"Kinetech Power Systems - Energy Storage, Flywheel",49,kinetechpower.com/,26,1,2,0,0
-Kinetech Power Company LLC,22,Kinetech Power Company | Crunchbase,35,crunchbase.com/organization/kinetech-power-company,62,4,3,0,1
+Kinetech Power Company LLC,22,Kinetech Power Company | Crunchbase,35,crunchbase.com/organization/kinetech-power-company,62,3,3,0,1
 Kinetech Power Company LLC,22,Kinetech Power Company - crunchbase.com,39,crunchbase.com/organization/kinetech-power-company/timeline/timeline,80,5,3,0,1
-Kinetech Power Company LLC,22,Kinetech Power Company Flywheel - SlideShare,44,slideshare.net/oceanexchange/kinetech-power-company-flywheel,72,6,3,0,1
-Kinetech Power Company LLC,22,Kinetech Power Company - Breakthrough Patented Flywheel ...,59,pinterest.com/pin/336714509613094217/,49,8,3,0,1
+Kinetech Power Company LLC,22,Kinetech,8,kinetechcloud.com/,30,6,1,0,1
+Kinetech Power Company LLC,22,About Us - Kinetech Philippines Incorporated,44,kinetech.com.ph/about-us/,37,8,1,1,1
 King Electric Vehicles Inc.,22,B&Z Electra King: The Jalopnik Classic Review,45,jalopnik.com/5922514/bz-electra-king-the-jalopnik-classic-review,72,1,1,0,0
-King Electric Vehicles Inc.,22,Electric Car Company (B&Z Electric Car Company),47,3wheelers.com/electra.html,37,2,1,0,0
-King Electric Vehicles Inc.,22,The King of Electric Vehicles,29,speegovehicles.com/pdf/E-rick-Features.pdf,53,3,3,0,0
-King Electric Vehicles Inc.,22,King Motor RC 1/5 Scale Electric Vehicles,41,kingmotorrc.com/1/5-electric/,41,4,3,0,0
+King Electric Vehicles Inc.,22,"King Electric Vehicles, Inc. in Schenectady, NY | Company ...",61,bizapedia.com/ny/king-electric-vehicles-inc.html,60,2,3,0,0
+King Electric Vehicles Inc.,22,Electric Car Company (B&Z Electric Car Company),47,3wheelers.com/electra.html,37,3,1,0,0
+King Electric Vehicles Inc.,22,The King of Electric Vehicles,29,speegovehicles.com/pdf/E-rick-Features.pdf,53,4,3,0,0
 King Electric Vehicles Inc.,22,King Electric - Official Site,29,king-electric.com/,26,5,2,0,0
 King Electric Vehicles Inc.,22,"Electric Car,Van Cargo Truck",28,tkingtruck.com/Product.html,38,6,1,0,0
 King Electric Vehicles Inc.,22,"Electric Car,Tking Small Electric Car,China Electric Car",56,tkingtruck.com/Electric-Car.html,43,7,2,0,0
-King Electric Vehicles Inc.,22,"King Electric Vehicles, Inc. in Schenectady, NY | Company ...",61,bizapedia.com/ny/king-electric-vehicles-inc.html,60,9,3,0,0
-King Electric Vehicles Inc.,22,King Motor RC 1/5 Scale Vehicles,32,kingmotorrc.com/vehicles/,37,10,2,0,0
+King Electric Vehicles Inc.,22,King Motor RC 1/5 Scale Vehicles,32,kingmotorrc.com/vehicles/,37,8,2,0,0
+King Electric Vehicles Inc.,22,King Electric | Garage Heater Sizing Chart,42,king-electric.com/pro-tips/garage-heater-sizing-chart/,62,9,2,0,0
+King Electric Vehicles Inc.,22,"Electric - Pricing, MPG, and Expert Reviews | Kelley Blue Book",62,kbb.com/electric-car/,33,10,1,0,0
 Livetv,6,"Live Sport Streams, Football, Soccer, Ice Hockey, Tennis ...",60,livetv.sx/enx/,21,1,0,0,0
 Livetv,6,"Live Sport Streams, Football, Soccer, Ice Hockey, Tennis ...",60,livetv.sx/enx/license/,29,2,0,0,0
 Livetv,6,Live Video Streams / LiveTV,27,m.livetv.sx/en/,22,3,1,0,0
 Livetv,6,Livetv,6,livesx.eu/,18,4,1,0,0
 Livetv,6,LiveTV - LiveTV Sports Live Stream,34,livetv.video/,21,5,1,0,0
 Livetv,6,Livetv,6,liveru.eu/,17,6,1,0,0
-Livetv,6,Sign In - LiveTV,16,portal.livetv.net/_forms/default.aspx,45,7,1,0,0
-Livetv,6,Live NetTV - Official Site,26,livenettv.to/,25,8,0,0,0
+Livetv,6,LiveTV - Football Live Stream,29,livetv.video/football-stream,36,7,1,0,0
+Livetv,6,Sign In - LiveTV,16,portal.livetv.net/_forms/default.aspx,45,8,1,0,0
 Lux Bio Group,13,Lux Bio Group,13,luxbiogroup.com/,23,1,3,0,0
 Lux Bio Group,13,"Lux Bio Group, Inc.: Private Company Information - Bloomberg",60,bloomberg.com/research/stocks/private/snapshot.asp?privcapid=144402093,82,2,3,0,0
-Lux Bio Group,13,"LUX BIO GROUP, INC. Top Holdings - WhaleWisdom",46,whalewisdom.com/filer/lux-bio-group-inc,47,4,3,0,1
-Lux Bio Group,13,What does lux bio group mean? - Definitions.net,47,definitions.net/definition/lux%20bio%20group,56,5,3,0,1
+Lux Bio Group,13,What does lux bio group mean? - Definitions.net,47,definitions.net/definition/lux%20bio%20group,56,4,3,0,0
+Lux Bio Group,13,"LUX BIO GROUP, INC. Top Holdings - WhaleWisdom",46,whalewisdom.com/filer/lux-bio-group-inc,47,5,3,0,1
 Lux Bio Group,13,Lyrics containing the term: lux bio group,41,lyrics.com/lyrics/lux%20bio%20group,47,6,3,0,1
-Lux Bio Group,13,Lux Bio Group Synonyms & Antonyms | Synonyms.com,48,synonyms.com/synonym/lux%20bio%20group,50,7,3,0,1
+Lux Bio Group,13,Lux Bio Group Synonyms & Antonyms | Synonyms.com,48,synonyms.com/synonym/lux%20bio%20group,50,8,3,0,1
 Lux Bio Group,13,NorthShore Bio | Crunchbase,27,crunchbase.com/organization/lux-bio-group,53,9,1,0,1
 Magnolia Solar,14,Magnolia Solar - Home Page,26,magnoliasolar.com/,25,1,2,0,0
-Magnolia Solar,14,"Magnolia | Home Decor, Design Tips, Silos & More | Chip ...",59,magnolia.com/,21,2,1,0,0
-Magnolia Solar,14,Magnolia Solar Corporation: Private Company Information ...,59,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=84202521,81,3,2,0,0
-Magnolia Solar,14,Stock | MAGNOLIA SOLAR Stock Price Today | Markets Insider,58,markets.businessinsider.com/stocks/magnolia_solar_1-stock,65,4,2,1,0
-Magnolia Solar,14,Magnolia Solar - Technology Notes,33,magnoliasolar.com/resources/technote_2.html,50,5,2,1,0
-Magnolia Solar,14,Magnolia Solar (3MBSV.) - Law Insider,37,lawinsider.com/company/1437491/magnolia-solar,57,7,2,1,0
-Magnolia Solar,14,Magnolia 'Solar Flair' - Gardenia.net,37,gardenia.net/plant/Magnolia-Solar-Flair,51,8,2,1,0
+Magnolia Solar,14,Magnolia Solar Corporation: Private Company Information ...,59,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=84202521,81,2,2,0,0
+Magnolia Solar,14,Stock | MAGNOLIA SOLAR Stock Price Today | Markets Insider,58,markets.businessinsider.com/stocks/magnolia_solar_1-stock,65,3,2,1,0
+Magnolia Solar,14,Magnolia Solar (3MBSV.) - Law Insider,37,lawinsider.com/company/1437491/magnolia-solar,57,4,2,1,0
+Magnolia Solar,14,"Magnolia | Home Decor, Design Tips, Silos & More | Chip ...",59,magnolia.com/,21,5,1,1,0
+Magnolia Solar,14,"Magnolia Solar, Inc.. United States,Massachusetts,Woburn ...",60,oilmonster.com/company/magnolia-solar-inc/58004,59,6,2,1,0
+Magnolia Solar,14,Magnolia Solar awarded U.S. patent for flexible thin-film ...,61,solarpowerworldonline.com/2017/04/magonlia-solar-awarded-u-s-patent-flexible-thin-film-solar-cells/,111,8,2,1,0
+Magnolia Solar,14,Magnolia 'Solar Flair' - Plant Finder,37,missouribotanicalgarden.org/PlantFinder/PlantFinderDetails.aspx?kempercode=c189,90,9,2,1,0
 Matrix Genetics,15,"Lumen Bioscience, Inc.",22,lumenbioscience.com/,32,1,0,0,0
 Matrix Genetics,15,"Matrix Genetics, LLC: Private Company Information - Bloomberg",61,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=128234419,82,2,2,0,0
-Matrix Genetics,15,"Matrix genetics, part 1: permutations of positions in ...",57,arxiv.org/pdf/0803.0888,31,3,2,0,0
-Matrix Genetics,15,Matrix Genetics: Cyanobacterial biofuel program Company,55,depts.washington.edu/epglab/source/news/matrix_genetics_pos.pdf,70,4,2,0,0
-Matrix Genetics,15,Human Design - Home,19,geneticmatrix.com/,30,6,0,0,0
-Matrix Genetics,15,"Matrix Genetics, LLC in Bellevue, WA - (206) 258-8999 ...",57,"buzzfile.com/business/Matrix-Genetics,-LLC-206-258-8999",66,7,2,0,0
-Matrix Genetics,15,Matrix | DNAeXplained  Genetic Genealogy,40,dna-explained.com/category/matrix/,42,8,1,0,0
+Matrix Genetics,15,Computer Science Matrix_genetics_part_1_permutations_of_p ...,61,coursehero.com/file/36245757/Computer-Science-Matrix-genetics-part-1-permutations-of-ppdf/,102,3,2,0,0
+Matrix Genetics,15,Human Design - Home,19,geneticmatrix.com/,30,4,0,0,0
+Matrix Genetics,15,"Matrix genetics, part 1: permutations of positions in ...",57,arxiv.org/pdf/0803.0888,31,5,2,0,0
+Matrix Genetics,15,"Matrix Genetics, LLC in Bellevue, WA - (206) 258-8999 ...",57,"buzzfile.com/business/Matrix-Genetics,-LLC-206-258-8999",66,6,2,0,0
+Matrix Genetics,15,Matrix Genetics: Cyanobacterial biofuel program Company,55,depts.washington.edu/epglab/source/news/matrix_genetics_pos.pdf,70,8,2,0,0
 Matrix Genetics,15,Matrix Genetics LLC: Company Profile - Bloomberg,48,bloomberg.com/profiles/companies/0600587D:US-matrix-genetics-llc,76,10,2,0,0
 Mattson Technology,18,Mattson Technology - Official Site,34,mattson.com/,24,1,2,0,0
-Mattson Technology,18,Mattson Technology Inc. Soars on Acquisition by Chinese PE ...,62,fool.com/investing/general/2015/12/02/mattson-technology-inc-soars-on-acquisition-by-chi.aspx,105,2,2,0,1
-Mattson Technology,18,Mattson Technology Reviews | Glassdoor,38,glassdoor.com/Reviews/Mattson-Technology-Reviews-E3689.htm,70,4,2,0,1
-Mattson Technology,18,Working at Mattson Technology | Glassdoor,41,"glassdoor.com/Overview/Working-at-Mattson-Technology-EI_IE3689.11,29.htm",84,5,2,0,1
-Mattson Technology,18,Mattson Technology Inc - :MTSN - Stock Quote & News ...,55,thestreet.com/quote/MTSN.html,41,7,2,1,1
-Mattson Technology,18,"Mattson Technology, Inc. Company Profile | Key Contacts ...",59,hoovers.com/company-information/cs/company-profile.mattson_technology_inc.1099b961ed217325.html,106,8,2,1,1
-Mattson Technology,18,"Mattson Technology, Inc.: Private Company Information ...",57,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=335883,79,9,2,1,1
+Mattson Technology,18,Mattson Technology Reviews | Glassdoor,38,glassdoor.com/Reviews/Mattson-Technology-Reviews-E3689.htm,70,3,2,0,0
+Mattson Technology,18,Mattson Technology Inc. Soars on Acquisition by Chinese PE ...,62,fool.com/investing/general/2015/12/02/mattson-technology-inc-soars-on-acquisition-by-chi.aspx,105,4,2,0,1
+Mattson Technology,18,Mattson Technology Inc - :MTSN - Stock Quote & News ...,55,thestreet.com/quote/MTSN.html,41,5,2,1,1
+Mattson Technology,18,Working at Mattson Technology | Glassdoor,41,"glassdoor.com/Overview/Working-at-Mattson-Technology-EI_IE3689.11,29.htm",84,6,2,1,1
+Mattson Technology,18,Mattson Technology | Crunchbase,31,crunchbase.com/organization/mattson-technology,58,8,2,1,1
+Mattson Technology,18,Mattson Technology Employee Reviews - Indeed.com,48,indeed.com/cmp/Mattson-Technology/reviews,53,9,2,1,1
 NanoOncology,12,NanoOncology - International Institute for Nanotechnology,57,iinano.org/nanooncology,35,1,1,0,0
 NanoOncology,12,NanoOncology - MOLECULAR BIONICS LABS,37,molecularbionics.org/nanooncology.html,50,2,1,0,0
 NanoOncology,12,Nanooncology: The future of cancer diagnosis and therapy ...,60,onlinelibrary.wiley.com/doi/10.3322/caac.21199/full,58,3,1,0,0
-NanoOncology,12,Nanooncology - Engineering nanomaterials for cancer ...,55,springer.com/us/book/9783319898773,46,4,1,0,0
-NanoOncology,12,Nanooncology | SpringerLink,27,link.springer.com/chapter/10.1007/978-1-4939-6966-1_8,61,5,1,0,0
-NanoOncology,12,Nanooncology: The future of cancer diagnosis and therapy ...,60,onlinelibrary.wiley.com/doi/abs/10.3322/caac.21199,58,6,1,0,0
-NanoOncology,12,"NanoOncology, An Issue of Clinics in Laboratory Medicine ...",60,kobo.com/us/en/ebook/nanooncology-an-issue-of-clinics-in-laboratory-medicine-e-book-3,97,7,1,1,0
-NanoOncology,12,Nano-Oncology: Clinical Application for Cancer Therapy and ...,62,hindawi.com/journals/jnm/2011/164506/,49,8,0,1,0
-NanoOncology,12,"NANO-ONCOLOGY - University of California, Davis",47,ucdmc.ucdavis.edu/synthesis/Archives/spring_summer_05/features/first_steps.html,91,9,0,1,0
+NanoOncology,12,Nanooncology | SpringerLink,27,link.springer.com/chapter/10.1007/978-1-4939-6966-1_8,61,4,1,0,0
+NanoOncology,12,Nanooncology - Engineering nanomaterials for cancer ...,55,springer.com/us/book/9783319898773,46,5,1,0,0
+NanoOncology,12,Nanooncology Engineering nanomaterials for cancer therapy ...,61,pcvolcan.com/2018/12/06/nanooncology-engineering-nanomaterials-for-cancer-therapy-and-diagnosis/,107,6,1,0,0
+NanoOncology,12,Nanooncology: The future of cancer diagnosis and therapy ...,60,onlinelibrary.wiley.com/doi/abs/10.3322/caac.21199,58,7,1,0,0
+NanoOncology,12,Nano-Oncology: Clinical Application for Cancer Therapy and ...,62,hindawi.com/journals/jnm/2011/164506/,49,8,0,0,0
+NanoOncology,12,"Synthesis, a UC Davis Cancer Center Publication - Nano ...",58,ucdmc.ucdavis.edu/synthesis/issues/spring_summer_05/features/first_steps.html,89,9,0,1,0
+NanoOncology,12,Somanautics - MOLECULAR BIONICS LABS,36,molecularbionics.org/somanautics.html,49,10,0,1,0
 Nanoquantum Sciences,20,NanoQuantum: Home,17,nanoquantum.com/,23,1,1,0,0
 Nanoquantum Sciences,20,Nanoquantum Sciences Inc: Company Profile - Bloomberg,53,bloomberg.com/profiles/companies/0148821D:US-nanoquantum-sciences-inc,81,2,2,0,0
 Nanoquantum Sciences,20,"Nanoquantum Sciences, Inc - BuzzFile",36,buzzfile.com/business/Nanoquantum-425-462-2516,57,6,2,0,0
 Nanoquantum Sciences,20,"Nanoquantum Sciences, Inc - Bellevue , WA - Business Page",57,dandb.com/businessdirectory/nanoquantumsciencesinc-bellevue-wa-24886438.html,88,7,2,0,0
-Nanoquantum Sciences,20,"NANOQUANTUM SCIENCES, INC. - Bizapedia.com",42,bizapedia.com/wa/nanoquantum-sciences-inc.html,58,9,2,0,0
+Nanoquantum Sciences,20,"NANOQUANTUM SCIENCES, INC. - Bizapedia.com",42,bizapedia.com/wa/nanoquantum-sciences-inc.html,58,8,2,0,0
 Pharmatrophix,13,"Pharmatrophix, Inc.",19,pharmatrophix.com/,29,1,1,0,0
 Pharmatrophix,13,PharmatrophiX | Crunchbase,26,crunchbase.com/organization/pharmatrophix,53,2,1,0,0
 Pharmatrophix,13,"PharmatrophiX, Inc.: Private Company Information - Bloomberg",60,bloomberg.com/research/stocks/private/snapshot.asp?privcapid=61176732,81,3,1,0,0
 Pharmatrophix,13,"PharmatrophiX, Inc.: CEO and Executives - Bloomberg",51,bloomberg.com/research/stocks/private/people.asp?privcapId=61176732,79,4,1,0,0
 Pharmatrophix,13,Promising New Alzheimers Drug Featured in Time Magazine ...,59,smithlaw.com/news-2045,33,5,0,0,0
-Pharmatrophix,13,Tags: PharmatrophiX - Alzheimer's Drug Discovery Foundation,59,alzdiscovery.org/news-room/tags/PharmatrophiX/,58,6,1,0,0
+Pharmatrophix,13,Tags: PharmatrophiX - Alzheimer's Drug Discovery Foundation,59,alzdiscovery.org/news-room/tags/PharmatrophiX/,58,7,1,0,0
 Pharmatrophix,13,PharmatrophiX | EquityNet,25,equitynet.com/c/pharmatrophix,41,8,1,0,0
 Pharmatrophix,13,"PharmatrophiX, Inc. - Relationship Science",42,relationshipscience.com/organization/pharmatrophix-inc-184700,69,9,1,0,0
 Plant Sensory Systems,21,Plant Sensory Systems,21,plantsensorysystems.com/,36,1,3,0,0
 Plant Sensory Systems,21,Plant Sensory Systems - University of Arizona,45,eebweb.arizona.edu/courses/182-spring2009-Bonine/182-KEB-PlantSensory-lect6-CH38-40-sp2009postx2.pdf,111,2,3,0,0
-Plant Sensory Systems,21,Plant Sensory Systems and Responses  Biology,44,philschatz.com/biology-book/contents/m44711.html,56,3,3,0,0
-Plant Sensory Systems,21,Plant Sensory Systems and Responses | Biology for Majors II,59,courses.lumenlearning.com/suny-wmopen-biology2/chapter/plant-sensory-systems-and-responses/,99,4,3,0,0
-Plant Sensory Systems,21,plant sensory systems Flashcards and Study Sets | Quizlet,57,quizlet.com/subject/plant-sensory-systems/,50,5,3,0,0
+Plant Sensory Systems,21,Plant Sensory Systems and Responses | Biology for Majors II,59,courses.lumenlearning.com/suny-wmopen-biology2/chapter/plant-sensory-systems-and-responses/,99,3,3,0,0
+Plant Sensory Systems,21,plant sensory systems Flashcards and Study Sets | Quizlet,57,quizlet.com/subject/plant-sensory-systems/,50,4,3,0,0
+Plant Sensory Systems,21,Plant Sensory Systems and Responses  Biology,44,philschatz.com/biology-book/contents/m44711.html,56,5,3,0,0
 Plant Sensory Systems,21,Plant Hormones and Sensory Systems | Biology 1520,49,bio1520.biology.gatech.edu/chemical-and-electrical-signals/plant-hormones-and-sensory-systems/,101,6,3,0,0
-Plant Sensory Systems,21,Plant Sensory Systems Receives Notice of Allowance from ...,59,synbiobeta.com/news/plant-sensory-systems-taurine-production/,69,7,3,0,0
-Plant Sensory Systems,21,Biology - Plant Sensory Systems and Responses,45,cooljargon.com/ebooks/biology/m44711/index.cnxml.html,61,8,3,0,0
-Senga Advisors,14,"Senga 2018: Best of Senga, Malawi Tourism - TripAdvisor",55,tripadvisor.com/Tourism-g3210305-Senga_Central_Region-Vacations.html,80,3,1,0,0
-Senga Advisors,14,THE BEST Hotels in Senga for 2018 (from $23) - TripAdvisor,58,tripadvisor.com/Hotels-g3210305-Senga_Central_Region-Hotels.html,76,4,1,0,0
+Plant Sensory Systems,21,Biology - Plant Sensory Systems and Responses,45,cooljargon.com/ebooks/biology/m44711/index.cnxml.html,61,7,3,0,0
+Plant Sensory Systems,21,30.6: Plant Sensory Systems and Responses - Biology LibreTexts,62,bio.libretexts.org/TextMaps/Introductory_and_General_Biology/Book%3A_General_Biology_(OpenStax)/6%3A_Plant_Structure_and_Function/30%3A_Plant_Form_and_Physiology/30.6%3A_Plant_Sensory_Systems_and_Responses,213,8,3,0,0
+Plant Sensory Systems,21,Plant Sensory Systems Receives Notice of Allowance from ...,59,synbiobeta.com/plant-sensory-systems-taurine-production/,64,9,3,0,0
+Senga Advisors,14,"Senga 2018: Best of Senga, Malawi Tourism - TripAdvisor",55,tripadvisor.com/Tourism-g3210305-Senga_Central_Region-Vacations.html,80,2,1,0,0
+Senga Advisors,14,"MWALA COTTAGE - Reviews (Senga, Malawi) - TripAdvisor",53,tripadvisor.com/Hotel_Review-g3210305-d13234262-Reviews-Mwala_Cottage-Senga_Central_Region.html,107,3,1,0,0
+Senga Advisors,14,Senga Bay Capital,17,sengabaycapital.com/,31,4,1,0,0
 Senga Advisors,14,"Senga Architects | Chicago, IL 60607 - HomeAdvisor",50,homeadvisor.com/rated.SengaArchitects.47322068.html,63,5,1,0,0
-Senga Advisors,14,Senga Bay Capital,17,sengabaycapital.com/,31,6,1,0,0
+Senga Advisors,14,Pru Life UK Investment Packages | The Foodie Geek,49,thefoodiegeek.net/pru-life-uk-investment-packages/,58,6,0,0,0
 Senga Advisors,14,IRIS IMAGE DATA PROCESSING FOR USE WITH IRIS RECOGNITION ...,60,freepatentsonline.com/y2008/0159600.html,51,7,0,0,1
 Senga Advisors,14,CoEng Advisors,14,coengadvisors.com/,30,8,1,0,1
-Senga Advisors,14,Pru Life UK Investment Packages | The Foodie Geek,49,thefoodiegeek.net/pru-life-uk-investment-packages/,58,9,0,0,1
+Senga Advisors,14,Zeraki,6,zeraki.co.ke/,21,9,0,0,1
 Ticona LLC,6,Celanese - The chemistry inside innovation,42,celanese.com/engineered-materials.aspx,50,1,0,0,0
 Ticona LLC,6,"Ticona Polymers, Inc.: Private Company Information - Bloomberg",62,bloomberg.com/research/stocks/private/snapshot.asp?privcapId=7913203,80,3,1,0,0
 Ticona LLC,6,Ticona - Materials Database,27,tools.ticona.com/,24,4,1,0,0
-Ticona LLC,6,Ticona Careers and Employment | Indeed.com,42,indeed.com/cmp/Ticona,33,6,1,0,0
-Ticona LLC,6,"Celanese Irving, Texas, TX 75039 - ThomasNet",44,thomasnet.com/profile/10080205/celanese.html,56,8,0,0,0
-Ticona LLC,6,"Ticona 1301 Halifax Dr, Mundelein, IL 60060 - YP.com",52,yellowpages.com/mundelein-il/mip/ticona-8379404,59,9,1,0,0
-Ticona LLC,6,"Julia Ticona, Ph.D. | Annenberg School for Communication",56,asc.upenn.edu/people/faculty/julia-ticona-phd,57,10,1,0,0
+Ticona LLC,6,Ticona Careers and Employment | Indeed.com,42,indeed.com/cmp/Ticona,33,5,1,0,0
+Ticona LLC,6,Tikona Infinet Limited - Official Site,38,tikona.in/,17,8,0,0,0
+Ticona LLC,6,"Celanese Irving, Texas, TX 75039 - ThomasNet",44,thomasnet.com/profile/10080205/celanese.html,56,9,0,0,0
+Ticona LLC,6,Celanese Corporation Technical Data Sheets - MatWeb.com,55,matweb.com/search/GetMatlsByManufacturer.aspx?manID=145,66,10,0,0,0

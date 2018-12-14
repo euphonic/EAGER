@@ -1,6 +1,5 @@
 import csv
 import sys
-from pws import Bing
 import requests
 import re
 import pprint

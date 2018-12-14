@@ -19,3 +19,14 @@ SEASON OF SAVINGS
 Tackle your holiday shopping list with up to 40% off power banks, solar panels, and kits.
 Shop
 Find a Store
+Chat Icon
+three small dots to indicate that an agent is available to chat
+0
+We're not around, but we'd love to chat another time.
+Paper Airplane Icon
+a paper airplane to indicate sending a file
+Hi! Let’s get some quick info so we can better serve you:
+Name
+Email
+Can you tell us a bit about what we can help you with?
+Start chatting
