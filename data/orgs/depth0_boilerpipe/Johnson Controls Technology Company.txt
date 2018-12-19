@@ -1,0 +1,36 @@
+X Close
+This site uses cookies to offer you a better browsing experience. By continuing to navigate through this site or by clicking Approve, you consent to the use of cookies on your device as described in our privacy notice .
+Learn about Johnson Controls
+The future is being built today, and Johnson Controls is making that future more productive, more secure and more sustainable.  We create intelligent buildings, efficient energy solutions, integrated infrastructure and next generation transportation systems that work seamlessly together to deliver on the promise of smart cities and communities.  At its core, that promise is about delivering innovation that make people’s lives – and the world – better.
+Johnson Controls is a global diversified technology and multi industrial leader serving a wide range of customers in more than 150 countries. Our commitment to sustainability dates back to our roots in 1885, with the invention of the first electric room thermostat.  We are committed to helping our customers win and creating greater value for all of our stakeholders through strategic focus on our buildings and energy growth platforms.
+Explore our site to learn how our innovative solutions are driving the future of urban efficiency.
+120,000
+Worldwide Locations
+Our Values
+Integrity First
+We promise honesty and transparency.  We uphold the highest standards of integrity and honor the commitments we make.
+Customer Driven
+We win when our customers win. Our long-term strategic relationships provide unique insights and the ability to deliver exceptional customer experiences and solutions.
+Purpose Led
+We believe in doing well by doing good and hold ourselves accountable to make the world a better place through the solutions we provide, our engagement in society, the way we do business, and our commitment to protect people and the environment.
+Future Focused
+Our culture of innovation and continuous improvement drives us to solve today’s challenges while constantly asking ‘what’s next.'
+One Team
+We are one team, dedicated to working collaboratively together to create the purposeful solutions that propel the world forward.
+JCI
+NYSE
+TEMPLATE—3 devices- Usabilla Live JS code (Different feedback button for desktop, mobile & tablet devices) ---------------------------------------------------------------------------------------------------------
+//Button ID Order  //Mobile //Tablet //Tablet //Mobile //Desktop
+Feedback
+Help us improve by sharing your feedback. Thank you for sharing your feedback with us!
+How would you rate your experience?
+Hate
+Dislike
+Neutral
+Like
+Love
+false
+Thank you for sharing your feedback with us!
+Connecting your feedback with data related to your visits (device-specific, usage data, cookies, behavior and interactions) will help us improve faster. Do you give us your consent to do so for your previous and future visits?  More information
+Skip
+Send

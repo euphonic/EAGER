@@ -1,0 +1,39 @@
+Clean Energy Labs is a research group focused on the development of high efficiency devices.
+Past Projects
+A multifunction graphene sensor.
+A graphene membrane pump.
+The electrode structure of a graphene membrane sensor.
+Substructure of a graphene-based pump.
+Zinc-oxide nanowire (102) and carbon nanotube (104) thermal to electrical energy conversion device.
+A graphene micro-bubble array.
+A free-standing graphene membrane is probed with needle.
+A graphene membrane is actuated with an AC voltage to produce sound.
+Patents
+9,516,426 - Electrostatic membrane pump/transducer and methods to make and use same
+9,515,580 - Membrane-based nano-electromechanical systems device and methods to make and use same
+9,467,073 - Piezoelectric energy conversion assemblies
+9,353,740 - Graphene-drum pump and engine systems
+9,313,580 - Audio speaking having an electrostatic membrane pump and methods to use same
+9,278,502 - Encapsulated micro-bubble materials and methods to make and use same
+9,264,796 - Electrically conductive membrane pump/transducer and methods to make and use same
+9,264,795 - Electrically conductive membrane pump/transducer and methods to make and use same
+9,167,353 - Electrically conductive membrane pump/transducer and methods to make and use same
+9,143,868 - Electrically conductive membrane pump/transducer and methods to make and use same
+9,100,754 - Electrically conductive membrane pump/transducer and methods to make and use same
+8,778,197 - Graphene windows, methods for making same, and devices containing same
+8,755,212 - Non-volatile graphene-drum memory chip
+8,482,087 - Nanoelectromechanical tunneling current switch systems
+8,432,212 - Switching element having an electromechanical switch and methods for making and using same
+8,338,728 - Nanoelectromechanical tunneling current switch systems
+Principals
+Joe Pinkerton, CEO
+Mr. Pinkerton is the founder of several technology companies, has taken one company public and is a named inventor on over 100 issued/pending patents.  His patented products have generated sales in excess of $500 million and reduced the carbon footprint of customers by approximately 1 million tons.  He has raised over $100 million and closed distribution agreements with Caterpillar and General Electric.  Mr. Pinkerton is a recipient of the EY Entrepreneur of the Year Award for central Texas.  He studied physics at Albion College and Columbia University.
+Dr. William M. Lackowski, CTO
+Prior to joining Clean Energy Labs, Dr. Lackowski was the Chief Scientist at the Center for Nano and Molecular Science and Technology at the University of Texas at Austin. In that position, he provided internal scientific consulting to over 300 center users, was instrumental in securing external funding (including a recently awarded $15 million Department of Energy Frontier research center) and managed the operation of a shared $50 million nanoscience instrumentation facility. Dr. Lackowski also held scientific positions at Sandia National Laboratories and Texas A&M University.
+Dr. Lackowski received his PhD and MS degrees from Northwestern University in physical chemistry. He received his BS degree from the University of Illinois at Urbana-Champaign in chemistry. He has authored or co-authored 19 papers on various aspects of surface nanotechnology including developing novel scanning probe microscopic techniques and has served as a reviewer of nanotechnology grants submitted to the National Science Foundation.
+David A. Badger, VP Engineering
+Prior to joining Clean Energy Labs, Mr. Badger was the Principal Controls Engineer at Active Power (NASDAQ: ACPW, acquired by Langley Holdings). In this capacity he developed novel control methods for the company's core technologies including partial magnetic bearings for energy-storage flywheels, line-interactive utility voltage regulation and electromechanical energy conversion. He is a named inventor on ten patents.
+Mr. Badger received a BS in electrical engineering from the University of Texas at Austin where he also worked as a research assistant at the UT Center for Electromechanics. After graduation, he worked for Texas Memory Systems in Houston, developing high bandwidth, multi-ported memory systems and high speed array processors.
+Dr. W. Neil Everett, Director of Research
+Prior to joining Clean Energy Labs, Dr. Everett held a research position at the University of Texas at Austin as a post-doctoral associate in a biophotonics and non-linear optics lab. Previous to that, he held a post-doctoral research position at Texas A&M University where he worked in the field of surface and interfacial science devising methods for dispersing and stabilizing nanoscale materials, such as quantum dots and carbon nanotubes, for optical, materials, and electronics applications. Additionally, he worked in the Micro and Nano Systems Cluster at the Institute for Materials Research and Engineering in Singapore as a Research Scientist designing, fabricating, and testing BioMEMS devices.
+Dr. Everett received his PhD in Materials Science and Engineering and BS and MS degrees in Biomedical Engineering from Texas A&M University. His PhD research centered on the development of experimental techniques for measuring weak biomolecular interactions using diffusing colloidal probes. Aside from his biophysical research, he has nine publications related to nanotechnology and materials/device fabrication.

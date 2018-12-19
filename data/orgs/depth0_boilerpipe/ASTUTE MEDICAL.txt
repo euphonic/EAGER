@@ -1,0 +1,32 @@
+®
+, the AM logo, 
+Astute140
+®
+, 
+NephroCheck
+®
+, the 
+NephroCheck
+®
+ logo, and 
+AKIRisk
+®
+ are registered trademarks of Astute Medical, Inc. in the United States. For information regarding trademarks and other intellectual property applicable to this product, including international trademarks, please see 
+. PN 0094 Rev C 2015/07/28             
+Visual
+Text
+
+tinymce.addI18n( 'en', {"Ok":"OK","Bullet list":"Bulleted list","Insert\/Edit code sample":"Insert\/edit code sample","Url":"URL","Spellcheck":"Check Spelling","Row properties":"Table row properties","Cell properties":"Table cell properties","Paste row before":"Paste table row before","Paste row after":"Paste table row after","Cut row":"Cut table row","Copy row":"Copy table row","Merge cells":"Merge table cells","Split cell":"Split table cell","Paste is now in plain text mode. Contents will now be pasted as plain text until you toggle this option off.":"Paste is now in plain text mode. Contents will now be pasted as plain text until you toggle this option off.\n\nIf you\u2019re looking to paste rich content from Microsoft Word, try turning this option off. The editor will clean up text pasted from Word automatically.","Rich Text Area. Press ALT-F9 for menu. Press ALT-F10 for toolbar. Press ALT-0 for help":"Rich Text Area. Press Alt-Shift-H for help.","You have unsaved changes are you sure you want to navigate away?":"The changes you made will be lost if you navigate away from this page.","Your browser doesn't support direct access to the clipboard. Please use the Ctrl+X\/C\/V keyboard shortcuts instead.":"Your browser does not support direct access to the clipboard. Please use keyboard shortcuts or your browser\u2019s edit menu instead.","Edit ":"Edit"});
+tinymce.ScriptLoader.markDone( 'http://www.astutemedical.com/wp-includes/js/tinymce/langs/en.js' );
+
+Insert/edit link
+Close
+Enter the destination URL
+URL
+Link Text
+ Open link in a new tab
+Or link to existing content
+Search
+No search term specified. Showing recent items.
+Search or use up and down arrow keys to select an item.
+Cancel

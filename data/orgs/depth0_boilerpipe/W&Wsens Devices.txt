@@ -1,0 +1,186 @@
+Home
+Technology
+About
+Market Outlook
+Intelectual Property
+Publications
+More...
+W&Wsens Devices Inc 
+Revolutionizing
+Optical Connectivity
+​
+OUR TECHNOLOGY
+Photon Trapping
+Enhanced external quantum efficiency from 850nm - 950nm wavelength in thin layer silicon with high data rate of 25Gb/s or more
+Enhanced EQE and speed for Ge on Si Photodetectors from 1300nm -1600nm
+Monolithic Integration
+& Cost Reduction 
+Enable high density 1D and 2D photodiode monolithic integration with CMOS / BiCMOS application specific integrated circuits
+Monolithic integration of photodetectors with integrated circuits allow high performance and reduced packaging cost
+Key Applications
+Data Center Interconnect 
+​
+LiDAR Systems
+W&W Key Applications
+Surface Illuminated Microstructure Hole Photodiodes
+Si PIN Photodiode 
+Ge on Si PIN Photodiode
+Scanning Electron Microscope Images
+Optical Field Distribution in Microstructure Hole PD using FDTD Simulation
+Microstructure Hole PD / APD Results
+Si PIN 850nm Impulse
+Ge on Si PIN 1300nm Impulse
+EQE Si PIN PD
+Si Absorption layer thickness < 2um
+Responsivity Si APD
+Multiplication M=1026 @ 850nm, 8.5uW
+About W&W
+Over a cup of cappuccino at a cafe in Palo Alto, W&Wsens Devices was conceived and in a few months grew to over 100 years of aggregated knowledge and experience in photonic devices, optical systems , innovation, IP,manufacturing, and start-ups. All team members come from Fortune 500 companies and / or start ups.
+SP Bob Wang - CEO & Co-Founder 
+BS RPI, MS MIT
+Founder & Chairman of:
+R2 (sold to Hologic), 
+U-Systems (sold to GE),
+EndoSee (sold to Cooper)
+QView, and UroViu.
+​
+Shih-Yuan Wang - CTO & Co-Founder
+BS, PhD UC Berkeley
+HP Labs 200+ Patents
+High speed photodetectors
+Co-Inventor of Multimode VCSELS 
+USPTO : 5,359,447 A
+for Datacenter interconnect
+​
+Saif Islam - Professor UCD
+UCD Collaboration
+PhD UCLA 
+JDSU, HP Labs
+High speed photonic devices
+​
+​
+Aly F. Elrefaie - Chief Scientist
+BS Ain Shams University
+MS & PhD NYU Engineering
+Bellcore, HP Labs, Boeing,  
+Optical communication systems
+​
+Toshishige Yamada - Principal Scentist
+Physics for advanced materials and devices
+BS, MS University of Tokyo
+Ph.D Arizona State University 
+NEC Labs, Japan
+Semiconductor transport theory
+​
+Ekaterina (Katya) Ponizovskaya Devine
+Principal Scientist, Theory
+MS & PhD Moscow Institue of Physics and Technology 
+HP Labs
+Theory, numerical modeling
+​
+Lihan Wang -Vice President Strategy
+& Business Development 
+BA University of Michigan, Ann Arbor
+MSc University of Leeds
+Agora Labs, UBS 
+​
+Market Outlook
+W&W Total Addressable Market Size for Data Center Interconnect = $3.7 Billion
+Short Reach (Si, 850nm) = 40% ($1.48B)
+Long Reach (Ge on Si, 1350nm) = 47% ($1.74B)
+Passive Optical Network (Ge on Si, 1550nm) = 13% ($0.48B)
+​
+​
+Total Optical Component Forecast 40-200g
+Other Significant Sectors for W&W PD Applications                                                                         Source: Ovum
+LiDAR (Advanced Driver Assist Systems) Current Market Size = $18.6B 
+Plastic Optical Fiber (POF) Automotive & Aeronautics
+Active Optical Cable (Consumer Electronics) 
+Intellectual Property
+W&Wsens Devices Inc IP Portfolio
+Enhancement of light detection efficiency with microstructure holes in high speed photodetectors with reverse bias
+​
+Monolithic integration of microstructure holes photodetector with CMOS electronics for silicon & germanium on silicon structures.
+​
+Monolithic integration of microstructure holes avalanche PD with CMOS electronics for silicon & germanium on silicon structures.
+​
+USPTO   
+Patent No: 9,496,435 B2
+Patent No: 9,525,084 B2
+Patent No: 9,530,905 B2
+Patent No: 9,818,893 B2
+Several other patents pending
+​
+China: One allowed, more pending 
+Japan: Pending
+South Korea: Pending
+European Union: Pending
+​
+​
+​
+​
+​
+​
+Publications & Media
+Publications
+Photon-Trapping Microstructures Enable High-Speed Efficiency Silicon Photodiodes ; Nature Photonics 2017
+​
+High Speed Surface Illuminated Si Photodiode Using Microstructured Holes for Absorption Enhancements at 900-1000nm Wavelength; ACS Photonics 2017
+​
+A New Paradigm in High-Speed and High-Efficiency Silicon Photodiodes for Communication Part I: Enhancing Photon-Material Interactions via Low-Dimensional Structures ; IEEE TED 2017
+​
+A New Paradigm in High-Speed and High-Efficiency Silicon Photodiodes for Communication Part II: Device and VLSI Integration Challenges for Low-Dimensional Structures ; IEEE TED 2017
+​
+High-Speed High-Efficiency Broadband Silicon Photodiodes for Short-Reach Optical Interconnects in Data Centers; OFC 2018
+​
+Surface Passivation of Silicon Photonic Devices with High Surface-to-Volume-Ratio Nanostructures ; Journal of the Optical Society of America B 2018
+​
+Surface-illuminated photon-trapping high-speed Ge-on-Si photodiodes with improved efficiency up to 1700nm ; Photonics Research OSA 2018
+​
+​
+Media
+​
+Fast Silicon Photodiodes ; Nature Photonics
+​
+Silicon Nanostructures Bend Light to Make Faster Photodiodes ; IEEE Spectrum
+​
+Tiny Black Holes Enable a New Type of Photodetector for High Speed Data ; Phys.org
+​
+​
+" Black Holes" in Silicon Enable High-Speed Photodetector ; Photonicsonline.com
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+Slides / Presentations
+​
+W&Wsens Devices - W&W LiDAR
+​
+SPIE San Diego 2018 
+...Coming Soon...
+Product
+About
+Featured
+Contact
+Demo
+LINKS
+Home
+Technology
+About
+Market Outlook
+Intelectual Property
+Publications
+Contact
+W&Wsens Devices Inc.
+4546 El Camino, Suite 215
+Los Altos, Ca. 94022

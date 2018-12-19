@@ -1,0 +1,278 @@
+Skip to content
+Fighting Cancer, One Slide at a Time
+About Us
+Testimonials
+Awards
+Events
+History
+News
+Careers
+Toll Free   800 · 799 · 9499
+$
+0.00
+0
+No products in the cart.
+0
+Cart
+No products in the cart.
+Immunohistochemistry
+New Products
+Primary Antibodies
+Antibodies by Tissue
+Antibodies by Letter
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Multiplex IHC
+Uniplex™
+Supernova
+intelliPATH
+Oncore
+VP Antibodies
+Detection
+MACH 4™
+MACH 3™
+MACH 2™
+MACH 1™
+Multiplex Detection
+PromARK
+intelliPATH™
+ONCORE™
+Fluorescence
+Chromogens
+Starr Trek™
+4plus Detection
+Human-on-Human
+MM HRP Dig System
+Ancillaries
+Decalcification
+Antigen Retrieval
+Enzymes
+Blocking Reagents
+Antibody Diluents
+Negative Controls
+Hematoxylin & Eosin
+Wash Buffers
+Mounting Media
+Misc. Supplies
+Molecular
+RISH™
+FISH Probes
+FISH Copy Control Probes
+ISH
+ISH Detection
+Instrumentation
+ONCORE™
+intelliPATH FLX®
+Decloaking Chamber™
+Nemesis™
+Desert Chamber Pro™
+IQ Slide Stainer™
+Instrument Service & Maintenance
+Education
+Education Overview
+Training Courses
+Lab Services
+Media
+Catalog & Brochures
+Product Manuals
+Abstracts
+Contact
+Technical Support
+Shipping & Ordering Policies
+International Distributors
+FIND exactly what you’re looking for.
+Learn More
+Learn More
+Learn More
+READ ABOUT OUR PDL1 (CAL10)
+Learn More
+Looking for Clinical?
+Learn about our clinical product lines
+Research Scientist?
+Explore OUR Research Product lines
+Antibodies
+Detection
+Automation
+Support
+Testimonials
+“I just want to say thank you for spending the day with us yesterday and helping with our protocol. I cannot tell you how invaluable that is for people just starting out with IHC!!!…”
+Testimonials
+Only the Highest Quality
+We only believe in the highest quality products and you should too; At Biocare it’s been our promise to you and the patient since 1997 as we Fight Cancer, One slide at a Time.
+Learn About Us
+Not a Member? Join us!
+Register your account today for exclusive offers, online ordering and access to a wealth of Biocare knowledge. Join us in the Fight Against Cancer, One Slide at a Time.
+Register Now
+All prices presented are US list price for sale to clients in the Domestic US only. Please see your international distributor for country specific pricing. For a full list of international distributors, 
+click here.
+Products
+Decloaking Chamber™ NxGen
+$
+MSH6 [BC19]
+$
+ – 
+$
+CD10 [UMAB236]
+$
+News
+09
+Oct
+Biocare Medical Excellence in Patient Care Award at NSH 2018
+30
+Aug
+E-COMMERCE Now Live!
+Quick LInks
+Primary Antibodies
+Instrumentation
+Detection
+Multiplex IHC
+Molecular
+Home
+Products
+Education
+Support
+Media
+Contact Us
+About Us
+News
+Careers
+Terms & Conditions
+Privacy Policy
+Immunohistochemistry
+New Products
+Primary Antibodies
+Antibodies by Tissue
+Antibodies by Letter
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Multiplex IHC
+Uniplex™
+Supernova
+intelliPATH
+Oncore
+VP Antibodies
+Detection
+MACH 4™
+MACH 3™
+MACH 2™
+MACH 1™
+Multiplex Detection
+PromARK
+intelliPATH™
+ONCORE™
+Fluorescence
+Chromogens
+Starr Trek™
+4plus Detection
+Human-on-Human
+MM HRP Dig System
+Ancillaries
+Decalcification
+Antigen Retrieval
+Enzymes
+Blocking Reagents
+Antibody Diluents
+Negative Controls
+Hematoxylin & Eosin
+Wash Buffers
+Mounting Media
+Misc. Supplies
+Molecular
+RISH™
+FISH Probes
+FISH Copy Control Probes
+ISH
+ISH Detection
+Instrumentation
+ONCORE™
+intelliPATH FLX®
+Decloaking Chamber™
+Nemesis™
+Desert Chamber Pro™
+IQ Slide Stainer™
+Instrument Service & Maintenance
+Education
+Education Overview
+Training Courses
+Lab Services
+Media
+Catalog & Brochures
+Product Manuals
+Abstracts
+Contact
+Technical Support
+Shipping & Ordering Policies
+International Distributors
+About Us
+Testimonials
+Awards
+Events
+History
+News
+Careers
+Toll Free   800 · 799 · 9499
+Login
+Username or email address 
+*
+Password 
+*
+Log in
+Remember me
+Lost your password?
+Register
+Email address 
+*
+Subscribe to our newsletter
+Register
+
+/* <![CDATA[ */
+var sv_wc_payment_gateway_payment_form_params = {"card_number_missing":"Card number is missing","card_number_invalid":"Card number is invalid","card_number_digits_invalid":"Card number is invalid (only digits allowed)","card_number_length_invalid":"Card number is invalid (wrong length)","cvv_missing":"Card security code is missing","cvv_digits_invalid":"Card security code is invalid (only digits are allowed)","cvv_length_invalid":"Card security code is invalid (must be 3 or 4 digits)","card_exp_date_invalid":"Card expiration date is invalid","check_number_digits_invalid":"Check Number is invalid (only digits are allowed)","check_number_missing":"Check Number is missing","drivers_license_state_missing":"Drivers license state is missing","drivers_license_number_missing":"Drivers license number is missing","drivers_license_number_invalid":"Drivers license number is invalid","account_number_missing":"Account Number is missing","account_number_invalid":"Account Number is invalid (only digits are allowed)","account_number_length_invalid":"Account number is invalid (must be between 5 and 17 digits)","routing_number_missing":"Routing Number is missing","routing_number_digits_invalid":"Routing Number is invalid (only digits are allowed)","routing_number_length_invalid":"Routing number is invalid (must be 9 digits)"};
+/* ]]> */

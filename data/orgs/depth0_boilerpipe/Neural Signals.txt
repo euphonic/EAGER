@@ -1,0 +1,38 @@
+Dr. Philip R. Kennedy
+MD, Ph.D
+Mission Statement
+The mission of Neural Signals Inc. is to provide a link to the outside world for people who are locked in their bodies - alert and intelligent but unable to communicate. This mission is embodied in our icon above.
+The icon attempts to illustrate the facial profile of a person locked in a box. The opening in the box to the right shows neural signals escaping, implying that the person's thoughts can be carried out into the world on these signals, something we have already achieved.
+Our emphasis is on invasive brain computer / machine interfacing, but we also are involved with non-invasive systems with our collaborators. Our aim is personal communication especially with regards to speech restoration. We are developing a Speech Prosthetic. In future we intend to apply our technology to restoration of movement, as well as eventually to enhance brain function.
+Press Coverage
+There are several excellent reviews of Dr. Kennedy's self implantation.
+A radio broadcast summarizes very well:
+US News & World Report, 2000
+"A significant contribution for individuals with severely debilitating diseases, such as ALS or high-level spine injury."
+National Institutes of Health, 2002
+"Gives completely paralyzed people a new way to communicate."
+Discover Magazine, 1999
+Neural Signals Culture and Values
+I should be impeccable with my word: I speak with integrity. I say only what I mean. I avoid using the word to speak against myself or to gossip about others. I use the power of the word in the direction of truth and love.
+I don't take anything personally: Nothing others do is because of me. What others say and do is a projection of their own reality, their own dream. When you are immune to the opinions and actions of others you won't be the victim of needless suffering.
+I don't make assumptions: I will find the courage to ask questions and to express what I really want. Communicate with others as clearly as I can to avoid misunderstandings, sadness and drama. With just this one agreement, I can completely transform my life.
+I will always do my best: My best is going to change from moment to moment; it will be different when I am healthy as opposed to sick. Under any circumstances, I simply will do my best. I will avoid self-judgement, self-abuse and regret.
+NSI News and Developments
+NSI Timeline:
+2015: Implant removed for safety. All electrodes and electronic devices were removed for his safety in January since the incision was slow to close due to the bulk of the devices. The data is being analyzed. The results were presented at the SFN meeting in 2014 and further results will be presented at SFN in 2015. Phonemes are associated with specific patterns of single unit firings, and reverse engineering is underway to reproduce the phoneme audibly.
+2014:  Implant Dr. Kennedy's speech motor area On June 21 2014, four electrodes were implanted in his speech motor area located just lateral to the Sylvian fissure. In October 2014 three electronic devices were implanted to carry the signals transcutaneously to a receiver and computer for analysis.
+2013: Successful Implant: We replaced ER's electronics on May 4th 2013 in Belize City, Belize. We are now recording successfully from 21 single units and using LFPs also. Our efforts are directed towards restoring speech. The specific aim on ER is to allow him to produce a few useful short words. Units are undergoing conditioning at the moment and results will be presented at the SFN meeting on Saturday afternoon, 9th November 2013. Also see www.neuralsignalsdonate.com for more details on the story of ER.
+2013: Lectures at Oxford University, University of New Castle, England, and Tyndall Institute, Ireland, in February.
+2012 : Society for Neuroscience, three posters due October 13th to 17th.
+2012 : Lecture at Oxford University England on the Speech Prosthesis, due September 21st.
+2012 : Engineering in Medicine and Biology Society, Panel Member presentation, San Diego, August 30th.
+2012 : Neural Prosthesis Meeting, Salt Lake City, Utah, June
+2011: Society for Neuroscience, two poster presentations, Sunday and Wednesday. November 12th to 16th.
+2010 : A new Power Point presentation named "NSI - Speech Study", narrated by Dr. Kennedy is now available for download. To obtain download instructions, please email Info@NeuralSignals.com.
+2009: Speech Prosthesis work by Neural Signals and Frank Guenther featured in articles in Scientific American Mind, Esquire, and Discover magazines during September 2008.
+2008: Online production of speech with audio feedback to the subject was achieved on Feb 14, 2008. Video and report linked at Boston University lab website here. See references underResearch Tab
+2007: Feedback of speech to the subject has been achieved offline using simple phonemes with the help of our collaborators from Boston University, Prof. Frank Guenther and Jonathan Brumberg. November 2007. CNN highlights this work, report and video linked here.
+2007: Speech Restoration work by Neural Signals to be featured in the PBS documentary 22nd Century, on January 17, 2007.
+2006: Speech Restoration Project featured in the BBC documentary Horizon, Oct 24, 2006 on BBC Two.
+2005: Featured in Neurotech Business Report July 2005.
+2004: World’s first implant for speech restoration Dec. 2004.

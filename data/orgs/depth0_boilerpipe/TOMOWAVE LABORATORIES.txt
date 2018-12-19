@@ -1,0 +1,7 @@
+TomoWave develops proprietary optoacoustic tomography and laser ultrasound systems for combined functional/molecular and anatomical imaging with applications in detection of cancer and image-guided interventions
+TomoWave technology employs the principles of optoacoustic (photoacoustic or thermoacoustic) tomography. Laser Optoacoustic imaging System illuminates tissues by short laser pulses with dark red color. Absorption of laser energy specifically by tissue molecules selected by the wavelength of laser light increases tissue temperature to a small fraction of one degree, simultaneously generating local pressure. Thermal expansion of the heated voxels of tissue launches acoustic pressure waves (ultrasound). By measuring these ultrasound waves at different locations using arrays of transducers we obtain images of internal tissue structures and distribution of hemoglobin and other molecules of medical interest. By listening to the sound of light, TomoWave systems can help doctors to detect and diagnose cancer and potentially other notorious diseases using functional and molecular information.
+Let there be light that sounds!
+LOIS-3D
+imaging system for pre-clinical research
+LOIS 3D combines light and sound to produce a three dimensional image of tissue-simulating phantoms, small animals, and other types of tissue submerged in the imaging module.
+Non-invasive clinical breast imaging that produces three-dimensional volumetric images of the breast, along with two-dimensional ultrasonic images for image co-registration.

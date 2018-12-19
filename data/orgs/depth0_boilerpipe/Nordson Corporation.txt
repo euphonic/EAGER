@@ -1,0 +1,252 @@
+This website uses cookies
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Unclassified (7)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+ASP.NET_SessionId
+nordson.com
+Session
+HTTP
+CookieConsent
+nordson.com
+Stores the user's cookie consent state for the current domain
+1 year
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+s_cc
+gcs-web.com
+Session
+HTTP
+s_sq
+gcs-web.com
+Saves information of the previous link that the user clicked on to read the current page.
+Session
+HTTP
+_ga
+nordson.com
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+2 years
+Session
+HTTP
+_gid
+nordson.com
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+Session
+HTTP
+SC_ANALYTICS_GLOBAL_COOKIE
+nordson.com
+Used by Sitecore Engagement Analytics to identify the visitor on repeat visits to the website.
+10 years
+HTTP
+s_vi
+thomsonreuterscorporategroupweb.d2.sc.omtrdc.net
+Registers a unique ID that identifies the user's device for return visits.
+2 years
+HTTP
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+loc
+addthis.com
+Geolocation, which is used to help providers determine how users who share information with each other are geographically located (state level).
+1 year
+HTTP
+uvc
+addthis.com
+Detects how often the social sharing service, AddThis, encounters the same user.
+1 year
+1 year
+HTTP
+IDE
+doubleclick.net
+Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+1 year
+HTTP
+r/collect
+doubleclick.net
+This cookie is used to send data to Google Analytics about the visitor's device and behavior. It tracks the visitor across devices and marketing channels.
+Session
+Pixel
+test_cookie
+doubleclick.net
+Session
+HTTP
+fr
+facebook.com
+Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
+3 months
+hsadspixel.net
+hs-analytics.net
+hscta.net
+hs-scripts.com
+hubapi.com
+hubspot.com
+Used by the content network, Cloudflare, to identify trusted web traffic.
+1 year
+Persistent
+HTML
+hubspotutk
+nordson.com
+Keeps track of a visitor's identity. This cookie is passed to the marketing platform HubSpot on form submission and used when de-duplicating contacts.
+10 years
+HTTP
+__ptq.gif
+hubspot.com
+Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+lidc
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+Session
+HTTP
+__atuvc
+nordson.com
+1 year
+HTTP
+__atuvs
+nordson.com
+Ensures that the updated counter is displayed to the user if a page is shared with the social sharing service, AddThis.
+Session
+HTTP
+__hssrc
+nordson.com
+Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
+Session
+HTTP
+_at.cww
+nordson.com
+Persistent
+HTML
+at-lojson-cache-#
+nordson.com
+Persistent
+HTML
+GPS
+youtube.com
+Registers a unique ID on mobile devices to enable tracking based on geographical GPS location.
+Session
+HTTP
+PREF
+youtube.com
+Registers a unique ID that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+8 months
+HTTP
+VISITOR_INFO1_LIVE
+youtube.com
+Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+179 days
+HTTP
+YSC
+youtube.com
+Registers a unique ID to keep statistics of what videos from YouTube the user has seen.
+Session
+HTTP
+yt-remote-cast-installed
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML
+yt-remote-connected-devices
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Persistent
+HTML
+yt-remote-device-id
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Persistent
+HTML
+yt-remote-fast-check-period
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML
+yt-remote-session-app
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML
+yt-remote-session-name
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML
+tr
+facebook.com
+Pending
+Session
+Pixel
+cna
+mmstat.com
+Pending
+HTTP
+yt.innertube::nextId
+youtube.com
+Pending
+Persistent
+HTML
+yt.innertube::requests
+youtube.com
+Pending
+Persistent
+HTML
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+HTTP
+_fbp
+nordson.com
+Pending
+Session
+HTTP
+DrupalVisitorMobile
+nordson.gcs-web.com
+Pending
+Session
+HTTP
+APLUS_CNA
+player.youku.com
+Pending
+Persistent
+HTML
+APLUS_LS_KEY
+player.youku.com
+Pending
+Persistent
+HTML
+APLUS_S_CORE_0.20.27_20181030142705_11062a67
+player.youku.com
+Pending
+Persistent
+HTML
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+Cookie declaration last updated on 04/11/2018 by Cookiebot
+Nordson Corporation
+Find Products:
+Nordson's 4Q & FY18 Results Webcast will be broadcast on Thursday, December 13, 2018
+20 Nov 2018
+Events
+4-5  Dec 2018
+Come talk to us about our Plasma Systems!
+Dispensing Equipment & Industrial Coating Equipment

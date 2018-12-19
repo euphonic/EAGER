@@ -1,0 +1,30 @@
+MicroContinuum  is an advanced materials company that delivers next generation materials utilizing our roll-to-roll (R2R) manufacturing technology that can be applied to the production of a broad range of useful materials and devices.
+By applying our innovative R2R technology to fields such as flexible electronics, displays, solar energy, photonics, optics and data storage, we can offer competitive advantages through lower cost, higher throughput and larger area production. We work closely with leading technology firms, Fortune 500 companies, universities and the U.S. Government to dramatically improve products and manufacturing processes.
+These are some of the technologies we're involved in. Please click on images in the slideshow to see more.
+Transparent Conductors Low-cost patterned films for electronic devices and OLED lighting.
+Flexible Electronics Thin-film transistors and circuit components on plastic films for rollable displays, electronics and sensor networks.
+Photovoltaics Use of nanopatterned substrates in solar cells for improved efficiency and reduced costs.
+Nanoantenna Fabrication of nano-scale antennas and terahertz electronics for energy harvesting and THz-wave detection.
+Optical Data Storage Roll-to-roll nanoforming and thin-film vacuum coating to produce extreme capacity archival data storage media.
+In-Line R2R Processing Growth and harvesting of arrays of custom-shaped particles for chemical, biological and sensor/detection applications.
+Transparent Conductors
+Flexible Electronics
+Thin-film transistors and circuit components on plastic films for rollable displays, electronics and sensor networks.
+Photovoltaics
+Use of nanopatterned substrates in solar cells for improved efficiency and reduced costs.
+Nanoantenna
+Optical Data Storage
+In-Line R2R Processing
+Growth and harvesting of arrays of custom-shaped particles for chemical, biological and sensor/detection applications.
+Transparent Conductors
+Flexible Electronics
+Optical Data Storage
+In-Line R2R Processing
+This jQuery slider was created with the free EasyRotator software from DWUser.com.
+News at MicroContinuum
+Dr. Dennis Slafer, presenter at 2016 OLED Stakeholder Meeting on October 18-19, 2016
+Partner, Iowa State University, is the recipient of an EERE grant for “Enhanced Light Extraction from Low Cost White OLEDs (WOLEDs) Fabricated on Novel Patterned Substrates”
+Partner, RedWave Energy, Inc., is the recipient of an ARPA-E grant for “High Speed Diode and Rectenna for Waste Heat to Electricity Harvesting”
+Dr. Dennis Slafer, R2R Manufacturing panelist at The Sixth Annual DOE Solid-State Lighting Manufacturing R&D Workshop on May 7–8, 2014
+Rectenna Solar Cells
+edited by Garret Moddel, Sachit Grover: 2013, Springer Chapter 16 W. Dennis Slafer “Techniques for Roll-to-Roll Manufacturing of Flexible Rectenna Solar Cells.”
