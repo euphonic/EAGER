@@ -7,7 +7,10 @@ library(extrafont)
 loadfonts(device = "pdf")
 library (ggplot2)
 
+# MacOS
 setwd("/Users/sarora/dev/EAGER/data/patents/measures")
+# Windows
+# setwd("C:\\Users\\sarora\\Documents\\GitHub\\EAGER\\data\\patents\\measures")
 
 # load data
 in.ass_all <- read.csv("assignees_overall.csv", header = TRUE, stringsAsFactors = FALSE)
@@ -67,10 +70,10 @@ mean_assignees_all_by_size
 
 # average number of assignees 3 industries
 head (in.ass_3)
-mean_assignees_all_by_size <- in.ass_3 %>% inner_join(in.lookup, by = c("patent_id" = "id")) %>% group_by(organization_clnd)  %>%  
+mean_assignees_3_by_size <- in.ass_3 %>% inner_join(in.lookup, by = c("patent_id" = "id")) %>% group_by(organization_clnd)  %>%  
   summarize(mean = mean( count.pa.assignee_id., na.rm=TRUE)) %>% inner_join(in.eager_assignee, by = c("organization_clnd")) %>% group_by(sme) %>% 
   summarize(mean = mean(mean, na.rm=TRUE))
-mean_assignees_all_by_size
+mean_assignees_3_by_size
 
 # average number of inventors all  
 head (in.inv_all)

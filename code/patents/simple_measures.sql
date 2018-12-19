@@ -37,7 +37,7 @@ SET SQL_SAFE_UPDATES = 1;
 
 select * from eager_assignee where id is null;
 
--- FOURTH: produce measures
+-- FOURTH: produce measures (remove count and group by to produce output files)
 -- count number of patents (overall), group by organization in study
 select count(p.id), ea.organization_clnd -- or number?
 from patent p, temp_patent_assignee_backup pa, eager_assignee ea
@@ -84,136 +84,48 @@ group by pa.patent_id;
 -- employee data come from LinkedIn
 
 -- first year of patent for assignees in study
-select year(min(p.`date`)), ea.organization -- need to get year
+select year(min(p.`date`)), ea.organization_clnd -- need to get year
 from patent p, eager_assignee ea, patent_assignee pa
 where p.id = pa.patent_id
 and pa.assignee_id = ea.id
-group by ea.organization; -- could also segment by industry if needed
+group by ea.organization_clnd; -- could also segment by industry if needed
 
 
--- FIFTH: export patent and assignee numbers
+-- FIFTH: export patent and assignee numbers (all)
 select ea.organization_clnd, p.id from 
 eager_assignee ea, patent_assignee pa, patent p
 where ea.id = pa.assignee_id
 and p.id = pa.patent_id;
 
--- FIFTH: not written yet
+select distinct(year(`date`)) from patent 
+where id in (select id from eager_patent_all);
+
+select * from eager_patent_all;
+
+-- SIXTH:
 /*For each patent, create the 5 year citation counts and weighted citation counts
-Uses only the government relationships in the government interest table (not government assignees)
 Does not require any other new tables to be pre-generated
  */
  
--- --------------------------------------------------------------------------------
--- All Patents
--- --------------------------------------------------------------------------------
- 
- -- table with all patents and any citations within 5 years
+
+-- table with all patents and any citations within 5 years
 -- table has the id and date of both cited and citing patent ids
-
-
--- sarora@air.org modified code originally authored by skelley@air.org
--- march 5, 2018
-
--- table with each government interest patent and any citations within 5 years -- for each year 1 thru 5 (changed by ska)
--- patent_20180528_restored.eager_updated_gi is the table with all the government interest and government assignee patents
-drop table patent_20180528_restored.eager_5yr_citations_by_cite_yr5;
-create table patent_20180528_restored.eager_5yr_citations_by_cite_yr5 as 
+drop table patent_20180528_restored.eager_5yr_citations_by_cite;
+create table patent_20180528_restored.eager_5yr_citations_by_cite as 
 select * from (
 select b.cited_patent_id, p2.date as cited_patent_date, b.citing_patent_id,b.citing_patent_date, b.num_times_cited_by_us_patents from (
 select a.cited_patent_id, a.citing_patent_id, p.date as citing_patent_date, p.num_times_cited_by_us_patents from (
-select * from PatentsView_20170808.uspatentcitation  where cited_patent_id in 
-(select distinct(patent_id) from patent_20180528_restored.eager_patent_all)) as a
-left join PatentsView_20170808.patent p on a.citing_patent_id = p.patent_id) as b
-left join PatentsView_20170808.patent p2 on b.cited_patent_id = p2.patent_id) as c
-where datediff(c.citing_patent_date, c.cited_patent_date) <=365*5 and datediff(c.citing_patent_date, c.cited_patent_date) > 365*4;
+select * from PatentsView_20180528.uspatentcitation  where cited_patent_id in 
+(select distinct(id) from patent_20180528_restored.eager_patent_all)) as a
+left join PatentsView_20180528.patent p on a.citing_patent_id = p.patent_id) as b
+left join PatentsView_20180528.patent p2 on b.cited_patent_id = p2.patent_id) as c
+where datediff(c.citing_patent_date, c.cited_patent_date) <=365*5;
 
 -- derivative table with citation counts and weighted citation count
-a
-drop table patent_20180528_restored.eager_5yr_citations_yr5;
-create table patent_20180528_restored.eager_5yr_citations_yr5 as
-select cited_patent_id as patent_id, count(citing_patent_id) as num_citations_5, sum(num_times_cited_by_us_patents) as weighted_cites_5yrs from 
-patent_20180528_restored.eager_5yr_citations_by_cite_yr5 group by cited_patent_id;
+drop table patent_20180528_restored.eager_5yr_citations;
+create table patent_20180528_restored.eager_5yr_citations as
+select cited_patent_id as patent_id, count(citing_patent_id) as num_citations, sum(num_times_cited_by_us_patents) as weighted_cites_5yrs from 
+patent_20180528_restored.eager_5yr_citations_by_cite group by cited_patent_id;
 
-
-drop table patent_20180528_restored.eager_5yr_citations_by_cite_yr4;
-create table patent_20180528_restored.eager_5yr_citations_by_cite_yr4 as 
-select * from (
-select b.cited_patent_id, p2.date as cited_patent_date, b.citing_patent_id,b.citing_patent_date, b.num_times_cited_by_us_patents from (
-select a.cited_patent_id, a.citing_patent_id, p.date as citing_patent_date, p.num_times_cited_by_us_patents from (
-select * from PatentsView_20170808.uspatentcitation  where cited_patent_id in 
-(select distinct(patent_id) from patent_20180528_restored.eager_patent_all)) as a
-left join PatentsView_20170808.patent p on a.citing_patent_id = p.patent_id) as b
-left join PatentsView_20170808.patent p2 on b.cited_patent_id = p2.patent_id) as c
-where datediff(c.citing_patent_date, c.cited_patent_date) <=365*4 and datediff(c.citing_patent_date, c.cited_patent_date) > 365*3;
-
-drop table patent_20180528_restored.eager_5yr_citations_yr4;
-create table patent_20180528_restored.eager_5yr_citations_yr4 as
-select cited_patent_id as patent_id, count(citing_patent_id) as num_citations_4, sum(num_times_cited_by_us_patents) as weighted_cites_5yrs from 
-patent_20180528_restored.eager_5yr_citations_by_cite_yr4 group by cited_patent_id;
-
-drop table patent_20180528_restored.eager_5yr_citations_by_cite_yr3;
-create table patent_20180528_restored.eager_5yr_citations_by_cite_yr3 as 
-select * from (
-select b.cited_patent_id, p2.date as cited_patent_date, b.citing_patent_id,b.citing_patent_date, b.num_times_cited_by_us_patents from (
-select a.cited_patent_id, a.citing_patent_id, p.date as citing_patent_date, p.num_times_cited_by_us_patents from (
-select * from PatentsView_20170808.uspatentcitation  where cited_patent_id in 
-(select distinct(patent_id) from patent_20180528_restored.eager_patent_all)) as a
-left join PatentsView_20170808.patent p on a.citing_patent_id = p.patent_id) as b
-left join PatentsView_20170808.patent p2 on b.cited_patent_id = p2.patent_id) as c
-where datediff(c.citing_patent_date, c.cited_patent_date) <=365*3 and datediff(c.citing_patent_date, c.cited_patent_date) > 365*2;
-
-
-drop table patent_20180528_restored.eager_5yr_citations_yr3;
-create table patent_20180528_restored.eager_5yr_citations_yr3 as
-select cited_patent_id as patent_id, count(citing_patent_id) as num_citations_3, sum(num_times_cited_by_us_patents) as weighted_cites_5yrs from 
-patent_20180528_restored.eager_5yr_citations_by_cite_yr3 group by cited_patent_id;
-
-drop table patent_20180528_restored.eager_5yr_citations_by_cite_yr2;
-create table patent_20180528_restored.eager_5yr_citations_by_cite_yr2 as 
-select * from (
-select b.cited_patent_id, p2.date as cited_patent_date, b.citing_patent_id,b.citing_patent_date, b.num_times_cited_by_us_patents from (
-select a.cited_patent_id, a.citing_patent_id, p.date as citing_patent_date, p.num_times_cited_by_us_patents from (
-select * from PatentsView_20170808.uspatentcitation  where cited_patent_id in 
-(select distinct(patent_id) from patent_20180528_restored.eager_patent_all)) as a
-left join PatentsView_20170808.patent p on a.citing_patent_id = p.patent_id) as b
-left join PatentsView_20170808.patent p2 on b.cited_patent_id = p2.patent_id) as c
-where datediff(c.citing_patent_date, c.cited_patent_date) <=365*2 and datediff(c.citing_patent_date, c.cited_patent_date) > 365*1;
-
-
-drop table patent_20180528_restored.eager_5yr_citations_yr2;
-create table patent_20180528_restored.eager_5yr_citations_yr2 as
-select cited_patent_id as patent_id, count(citing_patent_id) as num_citations_2, sum(num_times_cited_by_us_patents) as weighted_cites_5yrs from 
-patent_20180528_restored.eager_5yr_citations_by_cite_yr2 group by cited_patent_id;
-
-
-drop table patent_20180528_restored.eager_5yr_citations_by_cite_yr1;
-create table patent_20180528_restored.eager_5yr_citations_by_cite_yr1 as 
-select * from (
-select b.cited_patent_id, p2.date as cited_patent_date, b.citing_patent_id,b.citing_patent_date, b.num_times_cited_by_us_patents from (
-select a.cited_patent_id, a.citing_patent_id, p.date as citing_patent_date, p.num_times_cited_by_us_patents from (
-select * from PatentsView_20170808.uspatentcitation  where cited_patent_id in 
-(select distinct(patent_id) from patent_20180528_restored.eager_patent_all)) as a
-left join PatentsView_20170808.patent p on a.citing_patent_id = p.patent_id) as b
-left join PatentsView_20170808.patent p2 on b.cited_patent_id = p2.patent_id) as c
-where datediff(c.citing_patent_date, c.cited_patent_date) <=365*1;
-
-drop table patent_20180528_restored.eager_5yr_citations_yr1;
-create table patent_20180528_restored.eager_5yr_citations_yr1 as
-select cited_patent_id as patent_id, count(citing_patent_id) as num_citations_1, sum(num_times_cited_by_us_patents) as weighted_cites_5yrs from 
-patent_20180528_restored.eager_5yr_citations_by_cite_yr1 group by cited_patent_id;
-
-select * from patent_20180528_restored.eager_5yr_citations_yr1;
-
-select * from patent_20180528_restored.eager_5yr_citations_yr2;
-
-select * from patent_20180528_restored.eager_5yr_citations_yr3;
-
-select * from patent_20180528_restored.eager_5yr_citations_yr4;
-
-select * from patent_20180528_restored.eager_5yr_citations_yr5;
-
-
-select count(distinct(patent_id)) from patent_20180528_restored.government_interest;
-
-select patent_id from patent_20180528_restored.government_interest where patent_id 
-not in (select distinct(patent_id) from patent_20180528_restored.patent_inventor); 
+select * from patent_20180528_restored.eager_5yr_citations_by_cite;
+select * from patent_20180528_restored.eager_5yr_citations;
