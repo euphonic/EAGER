@@ -1,285 +1,0 @@
- 
-						    Seagate	
-
-␡
-Sign In as
-
-                                    Consumers  
-
-                                    Direct Customers & Suppliers 
-␡
-My Dashboard
-My Profile
-Logout
-␡
-EXTERNAL / CONSUMER
-▾
-▴
-
-									                          EMPower 
-▹
-
-									                          Backup & Explore 
-▹
-
-									                          Play 
-▹
-
-									                          Upgrade 
-▹
-
-									                          Recover 
-▹
-INTERNAL / SPECIALIZED
-▾
-▴
-
-									                          Hard Drives 
-▹
-
-									                          SSD 
-▹
-
-									                          Rescue 
-▹
-
-									                          Choose the Right Drive 
-▹
-
-									                          Surveillance Center 
-▹
-
-									                          Creative Professionals 
-▹
-ENTERPRISE / DATACENTER
-▾
-▴
-
-									                          Nytro 
-▹
-
-									                          Exos 
-▹
-
-									                          Systems 
-▹
-
-									                          Security 
-▹
-
-									                          IT 4.0 
-▹
-OUR STORY
-▾
-▴
-
-									                          Our Story 
-▹
-PARTNERS
-▾
-▴
-
-									                          Indirect Partners & Resellers 
-▹
-
-									                          Seagate Champions 
-▹
-
-									                          Seagate Direct & Suppliers 
-▹
-SUPPORT
-▾
-▴
-
-									                          Products 
-▹
-
-									                          Software Downloads 
-▹
-
-									                          Warranty & Replacements 
-▹
-
-	                          EMPower 
-Get portable power.
-
-	                          Backup & Explore 
-Protect your data.
-
-	                          Play 
-Enhance your gameplay.
-
-	                          Upgrade 
-Improve your storage.
-
-	                          Recover 
-Recover your files.
-
-	                          Hard Drives 
-Browse internal drives.
-
-	                          SSD 
-Boost your performance.
-
-	                          Rescue 
-Rescue your data.
-
-	                          Choose the Right Drive 
-
-	                          Surveillance Center 
-
-	                          Creative Professionals 
-
-	                          Nytro 
-Leverage flash storage.
-
-	                          Exos 
-Achieve greater capacity.
-
-	                          Systems 
-Deploy better infrastructure.
-
-	                          Security 
-Harness superior protection.
-
-	                          IT 4.0 
-
-	                          Our Story 
-
-	                          Indirect Partners & Resellers 
-
-	                          Seagate Champions 
-
-	                          Seagate Direct & Suppliers 
-
-	                          Products 
-
-	                          Software Downloads 
-
-	                          Warranty & Replacements 
-Seagate
-®
- Fast SSD
-Jump Ahead.
-
-			                            LEARN MORE
-14TB GUARDIAN SERIES
-Only the Strongest Thrive
-Only the Strongest Thrive
-
-			                            LEARN MORE
-Game Drive Hub for Xbox
-®
-8TB Game Storage With Dual USB Ports
-
-			                            Learn More
-DJI FLY DRIVE
-Busy Life?
-We Support That.
-Travel,trek.Explore.
-Enjoy a drive that's designed to capture all of it.
-
-										LEARN MORE
-
-										 	BARRACUDA SSD	
-										
-Rev Up Your Computer
-Soar to new heights of performance!
-
-										Learn More
-
-										 	Game Drive for PS4 | Far Cry® 5	
-										
-Store 50+ games along with the Hours of Darkness DLC pack.
-
-										LEARN MORE
- NEED TO REGISTER YOUR PRODUCT?
-	REGISTER NOW
-	
-NEWS
-
-							Seagate And IBM Work Together To Help Reduce Global Hard Drive Counterfeiting With Blockchain Technology
-	
-Read More
-×
-Back
-ASEAN
-(English)
-Australia / New Zealand
-(English)
-India
-(English)
-Singapore
-(English)
-Indonesia
-(Indonesian)
-日本
-(日本語)
-대한민국
-(한국어)
-台灣
-(繁體中文)
-中国
-(简体中文)
-France
-(Français)
-Deutschland
-(Deutsch)
-Italia
-(Italiano)
-Nederland
-(Nederlands)
-Polska
-(Polski)
-Россия
-(Pусский)
-España
-(Español)
-United Kingdom
-(English)
-België
-(Nederlands)
-Belgique
-(Français)
-Portugal
-(Português)
-Türkiye
-(Türkçe)
-Middle East/North Africa
-(English)
-Brasil
-(Português)
-Latinoamérica
-(Español)
-United States
-(English)
-Canada
-(English)
-Canada
-(Français)
-Site Map
-About Seagate
-Seagate Brand Portal
-News
-Partner Login
-Jobs at Seagate
-Investors
-Blog
-Global Citizenship
-Product Finder
-Where To Buy
-Contact Us
-LaCie.com
-Seagategov.com
-Facebook
-LinkedIn
-YouTube
-Twitter
-©2018 Seagate Technology LLC
-|
-Legal & Privacy
-
-×
-
-
-$('#prime-day-hero-banner-master').find("a").attr("target","_blank");

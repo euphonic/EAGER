@@ -1,3 +1,0 @@
-Watch how we are changing the world.
-Enter
-Squarespace.afterBodyLoad(Y);

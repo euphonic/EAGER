@@ -1,287 +1,0 @@
- 
-						    Seagate	
-
-␡
-Sign In as
-
-                                    Consumers 
-
-                                    Direct Customers & Suppliers 
-␡
-My Dashboard
-My Profile
-Logout
-␡
-EXTERNAL / CONSUMER
-▾
-▴
-
-									                          EMPower 
-▹
-
-									                          Backup & Explore 
-▹
-
-									                          Play 
-▹
-
-									                          Upgrade 
-▹
-
-									                          Recover 
-▹
-INTERNAL / SPECIALIZED
-▾
-▴
-
-									                          Hard Drives 
-▹
-
-									                          SSD 
-▹
-
-									                          Rescue 
-▹
-
-									                          Choose the Right Drive 
-▹
-
-									                          Surveillance Center 
-▹
-
-									                          Creative Professionals 
-▹
-ENTERPRISE / DATACENTER
-▾
-▴
-
-									                          Nytro 
-▹
-
-									                          Exos 
-▹
-
-									                          Systems 
-▹
-
-									                          IT 4.0 - Data Storage Evolution 
-▹
-
-									                          Lyve Data Labs 
-▹
-
-									                          Data Security 
-▹
-OUR STORY
-▾
-▴
-
-									                          Our Story 
-▹
-PARTNERS
-▾
-▴
-
-									                          Indirect Partners & Resellers 
-▹
-
-									                          Seagate Champions 
-▹
-
-									                          Seagate Direct & Suppliers 
-▹
-SUPPORT
-▾
-▴
-
-									                          Products 
-▹
-
-									                          Software Downloads 
-▹
-
-									                          Warranty & Replacements 
-▹
-
-	                          EMPower 
-Get portable power.
-
-	                          Backup & Explore 
-Protect your data.
-
-	                          Play 
-Enhance your gameplay.
-
-	                          Upgrade 
-Improve your storage.
-
-	                          Recover 
-Recover your files.
-
-	                          Hard Drives 
-Browse internal drives.
-
-	                          SSD 
-Boost your performance.
-
-	                          Rescue 
-Rescue your data.
-
-	                          Choose the Right Drive 
-
-	                          Surveillance Center 
-
-	                          Creative Professionals 
-
-	                          Nytro 
-Leverage flash storage.
-
-	                          Exos 
-Achieve greater capacity.
-
-	                          Systems 
-Deploy better infrastructure.
-
-	                          IT 4.0 - Data Storage Evolution 
-
-	                          Lyve Data Labs 
-
-	                          Data Security 
-
-	                          Our Story 
-
-	                          Indirect Partners & Resellers 
-
-	                          Seagate Champions 
-
-	                          Seagate Direct & Suppliers 
-
-	                          Products 
-
-	                          Software Downloads 
-
-	                          Warranty & Replacements 
-BACKUP PLUS ULTRA SLIM
-Thinnest 2TB Drive
-Storage for Your Brilliant Side
-
-			                            LEARN MORE
-IRONWOLF PRO
-THE ULTIMATE GIFT IS TRUST
-Defy limitations with 14TB of confidence.
-
-			                            GIVE ME SPACE
-DJI FLY DRIVE
-Busy Life?  We Support That.
-Just like we support microSD and USB-C.
-
-			                            LEARN MORE
-	#data-age-sub-banner-master {	background-image: url(/files/www-content/homepage/homepage_2014/_shared/images/banner-tile-data-age-292x228.jpg);	}	
-The Data Age is here.
-Are you ready?
-View the full report now.
-
-										VIEW NOW
-	#gaurdian-campaign-sub-banner-master {	background-image: url(/files/www-content/homepage/homepage_2014/_shared/images/14tb-campaign-guardian-tile-image-292x228.png);	}	
-	14TB GUARDIAN SERIES		
-Only the 
-Strongest
- Thrive
-Rely on your 14TB drive.
-
-										LEARN MORE
-	#game-drive-ps-fc-sub-banner-master {	background-image: url(/files/www-content/homepage/homepage_2014/_shared/images/game-drive-ps4-fc5-292x288.jpg);	}	
-	Game Drive for PS4 | Far Cry® 5		
-Store 50+ games along with the Hours of Darkness DLC pack.
-
-										LEARN MORE
- NEED TO REGISTER YOUR PRODUCT?
-	REGISTER NOW
-	
-NEWS
-
-							Seagate Launches New Data-Readiness Index Revealing Impact Across Four Global Industries As 30 Percent Of Data Forecasted To Be Real-Time By 2025
-	
-Read More
-×
-Back
-ASEAN
-(English)
-Australia / New Zealand
-(English)
-India
-(English)
-Singapore
-(English)
-Indonesia
-(Indonesian)
-日本
-(日本語)
-대한민국
-(한국어)
-台灣
-(繁體中文)
-中国
-(简体中文)
-France
-(Français)
-Deutschland
-(Deutsch)
-Italia
-(Italiano)
-Nederland
-(Nederlands)
-Polska
-(Polski)
-Россия
-(Pусский)
-España
-(Español)
-United Kingdom
-(English)
-België
-(Nederlands)
-Belgique
-(Français)
-Portugal
-(Português)
-Türkiye
-(Türkçe)
-Middle East/North Africa
-(English)
-Brasil
-(Português)
-Latinoamérica
-(Español)
-United States
-(English)
-Canada
-(English)
-Canada
-(Français)
-Site Map
-About Seagate
-Seagate Brand Portal
-News
-Partner Login
-Jobs at Seagate
-Investors
-Blog
-Global Citizenship
-Product Finder
-Where To Buy
-Contact Us
-LaCie.com
-Seagategov.com
-Facebook
-LinkedIn
-YouTube
-Twitter
-©2018 Seagate Technology LLC
-|
-Legal & Privacy
-
-×
-
-
-$('#prime-day-hero-banner-master').find("a").attr("target","_blank");
