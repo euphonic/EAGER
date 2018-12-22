@@ -4,21 +4,26 @@ library("igraph")
 library("diffusr")
 
 # mac os or linux
-# setwd("/home/eager/EAGER/data/")
+setwd("/Users/sarora/dev/EAGER/data/")
 # windows
-setwd("C:\\Users\\sarora\\Documents\\GitHub\\EAGER\\data")
+# setwd("C:\\Users\\sarora\\Documents\\GitHub\\EAGER\\data")
 
 # copy the label vector from jupyter notebook
-labels <- c("product|use|develop", "new|product|2018", "product|system|new", "product|support|manag", "technolog|product|solut", "servic|technolog|product")
+labels <- 
+  c("product|2018|materi", "system|servic|technolog", "servic|technolog|solut", "inform|product|polici", "solut|technolog|use", "product|2018|busi")
 
 # load firm patent data
-in.patent_data <- read.csv("patents\\measures\\firm_level_patent_measures.csv", header = TRUE, stringsAsFactors = FALSE)
+# patent_data.file = "patents\\measures\\firm_level_patent_measures.csv"
+patent_data.file = "patents/measures/firm_level_patent_measures.csv"
+in.patent_data <- read.csv(patent_data.file, header = TRUE, stringsAsFactors = FALSE)
 head(in.patent_data)
 nrow (in.patent_data)
 in.patent_data[grep("\\/", in.patent_data$organization_clnd, perl=TRUE),]
 
 # load data and clean
-in.depth0_topics <- read.csv("orgs\\depth0_boilerpipe\\out_topics.csv", header = TRUE, stringsAsFactors = FALSE)
+# depth0_topics.file <- "orgs\\depth0_boilerpipe\\out_topics.csv"
+depth0_topics.file <- "orgs/depth0_boilerpipe/out_topics.csv"
+in.depth0_topics <- read.csv(depth0_topics.file, header = TRUE, stringsAsFactors = FALSE)
 head(in.depth0_topics)
 nrow(in.depth0_topics)
 in.depth0_topics$main_topic <- in.depth0_topics$main_topic + 1
@@ -34,7 +39,7 @@ p0 <- cnt_by_topic$n / sum(cnt_by_topic$n)
 p0
 
 # assign groups and view
-groups <- in.depth0_topics %>% group_indices(firm_key)
+groups <- in.depth0_topics %>% group_indices(firm)
 in.depth0_topics$gid <- groups
 View(in.depth0_topics)
 
@@ -73,7 +78,7 @@ rownames(qm) <- colnames(qm) <- labels
 qm
 
 # join firm-level patent variables with topic panel variables
-joined.patents_topics <- in.depth0_topics %>% inner_join (in.patent_data, by=c("firm" = "organization_clnd"))
+joined.patents_topics <- in.depth0_topics %>% left_join (in.patent_data, by=c("firm" = "organization_clnd"))
 nrow(joined.patents_topics)
 View(joined.patents_topics )
 

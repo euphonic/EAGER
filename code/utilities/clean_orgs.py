@@ -10,4 +10,4 @@ csv_out = csv.writer(f_out)
 for row in csv_in:
     firm = row[0]
     firm_clnd = re.sub('(\.|,| corporation| incorporated| llc| inc| international| gmbh| ltd)', '', firm, flags=re.IGNORECASE).rstrip()
-    csv_out.writerow(firm_clnd])
+    csv_out.writerow(firm_clnd)

@@ -7,12 +7,12 @@ loadfonts(device = "pdf")
 library (ggplot2)
 
 # MacOS
-# setwd("/Users/sarora/dev/EAGER/data/patents/measures")
+setwd("/Users/sarora/dev/EAGER/data/patents/measures")
 # Windows
-setwd("C:\\Users\\sarora\\Documents\\GitHub\\EAGER\\data\\patents\\measures")
+# setwd("C:\\Users\\sarora\\Documents\\GitHub\\EAGER\\data\\patents\\measures")
 
 # load data
-in.eager_patents <- read.csv("..\\eager_patent_all.csv", header = TRUE, stringsAsFactors = FALSE)
+in.eager_patents <- read.csv("../eager_patent_all.csv", header = TRUE, stringsAsFactors = FALSE)
 in.eager_citations <- read.csv("citations_3industries.csv", header = TRUE, stringsAsFactors = FALSE)
 in.eager_citations$patent_id <- as.character(in.eager_citations$patent_id)
 in.ass_all <- read.csv("assignees_overall.csv", header = TRUE, stringsAsFactors = FALSE)
@@ -95,7 +95,7 @@ nrow(firm_level_patent_measures)
 firm_level_patent_measures[is.na(firm_level_patent_measures)] <- 0
 firm_level_patent_measures[firm_level_patent_measures == ""] <- 0
 View(firm_level_patent_measures)
-write.csv(firm_level_patent_measures, "firm_level_patent_measures.csv")
+write.csv(firm_level_patent_measures, "firm_level_patent_measures.csv", row.names = FALSE)
 
 # grab cd5 data from a non-git directory (too large to store there)
 # you can find these files at http://russellfunk.org/cdindex/data.html 
