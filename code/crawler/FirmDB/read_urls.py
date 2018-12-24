@@ -1,6 +1,6 @@
 import csv
 # import settings
-import FirmDB.settings
+import FirmDB.settings as settings
 import pprint
 from urllib.parse import urlparse
 import requests
@@ -100,7 +100,14 @@ def read_firms_csv (filename):
             # Parse the website domain from the full URL
             firms.append(firm)
 
-    firms_fixed = fix_urls (firms)
+    firms_fixed = []
+    if settings.FIX_URLS:
+        firms_fixed = fix_urls (firms)
+    else:
+        for f in firms:
+            f['domain'] = urlparse(f['url']).netloc
+        firms_fixed = firms
+
     firm_names_fixed = [firm_fixed['firm_name'] for firm_fixed in firms_fixed]
     firm_names = [firm['firm_name'] for firm in firms]
 
