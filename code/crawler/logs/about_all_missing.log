@@ -1,0 +1,3550 @@
+nohup: ignoring input
+[{'domain': 'weccamerica.com',
+  'firm_name': 'Wave Energy Conversion Corporation of America',
+  'url': 'https://weccamerica.com/about/'},
+ {'domain': 'www.sysmex.com.vn',
+  'firm_name': 'Sysmex Corporation',
+  'url': 'http://www.sysmex.com.vn/'},
+ {'domain': 'www.wca-group.com',
+  'firm_name': 'WCA Group LLC',
+  'url': 'https://www.wca-group.com/about-us/'},
+ {'domain': 'www.res-usa.com',
+  'firm_name': 'RES USA',
+  'url': 'https://www.res-usa.com/about-res-contractors/'},
+ {'domain': 'www.neuralsignals.com',
+  'firm_name': 'Neural Signals',
+  'url': 'http://www.neuralsignals.com/?page_id=29'},
+ {'domain': 'morpho.com',
+  'firm_name': 'Morpho',
+  'url': 'https://morpho.com/en/about-us'},
+ {'domain': 'morpho.com',
+  'firm_name': 'Morpho',
+  'url': 'https://morpho.com/en/about-us#1'},
+ {'domain': 'morpho.com',
+  'firm_name': 'Morpho',
+  'url': 'https://morpho.com/en/about-us#2'},
+ {'domain': 'morpho.com',
+  'firm_name': 'Morpho',
+  'url': 'https://morpho.com/en/about-us#3'},
+ {'domain': 'morpho.com',
+  'firm_name': 'Morpho',
+  'url': 'https://morpho.com/en/about-us#4'},
+ {'domain': 'morpho.com',
+  'firm_name': 'Morpho',
+  'url': 'https://morpho.com/en/about-us#5'},
+ {'domain': 'morpho.com',
+  'firm_name': 'Morpho',
+  'url': 'https://morpho.com/en/about-us#6'},
+ {'domain': 'www.morpho.com',
+  'firm_name': 'Morpho',
+  'url': 'http://www.morpho.com/en/about-us#2'},
+ {'domain': 'latitudepharma.com',
+  'firm_name': 'LATITUDE PHARMACEUTICALS INC.',
+  'url': 'http://latitudepharma.com/the-latitude-team/'},
+ {'domain': 'discoverybiomed.com',
+  'firm_name': 'DISCOVERYBIOMED INC.',
+  'url': 'https://discoverybiomed.com/about/'},
+ {'domain': 'corporate.dentsplysirona.com',
+  'firm_name': 'Dentsply International',
+  'url': 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona.html'},
+ {'domain': 'corporate.dentsplysirona.com',
+  'firm_name': 'Dentsply International',
+  'url': 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/history.html'},
+ {'domain': 'corporate.dentsplysirona.com',
+  'firm_name': 'Dentsply International',
+  'url': 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/education.html'},
+ {'domain': 'corporate.dentsplysirona.com',
+  'firm_name': 'Dentsply International',
+  'url': 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/innovation.html'},
+ {'domain': 'corporate.dentsplysirona.com',
+  'firm_name': 'Dentsply International',
+  'url': 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/mission-vision.html'},
+ {'domain': 'corporate.dentsplysirona.com',
+  'firm_name': 'Dentsply International',
+  'url': 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/executive-team.html'},
+ {'domain': 'corporate.dentsplysirona.com',
+  'firm_name': 'Dentsply International',
+  'url': 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/compliance-ethics.html'},
+ {'domain': 'corporate.dentsplysirona.com',
+  'firm_name': 'Dentsply International',
+  'url': 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/board-of-directors.html'},
+ {'domain': 'corporate.dentsplysirona.com',
+  'firm_name': 'Dentsply International',
+  'url': 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/innovation/certifications.html'},
+ {'domain': 'corporate.dentsplysirona.com',
+  'firm_name': 'Dentsply International',
+  'url': 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/executive-team/nick-alexos.html'},
+ {'domain': 'corporate.dentsplysirona.com',
+  'firm_name': 'Dentsply International',
+  'url': 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/executive-team/donald-casey.html'},
+ {'domain': 'www.golfdigest.co.jp',
+  'firm_name': 'G.D.O. Inc',
+  'url': 'https://www.golfdigest.co.jp/company/privacy.html'},
+ {'domain': 'www.golfdigest.co.jp',
+  'firm_name': 'G.D.O. Inc',
+  'url': 'https://www.golfdigest.co.jp/company/recruit/index.html?car=top_hr_b'},
+ {'domain': 'www.ofsoptics.com',
+  'firm_name': 'OFS Fitel',
+  'url': 'https://www.ofsoptics.com/about/'},
+ {'domain': 'www.ofsoptics.com',
+  'firm_name': 'OFS Fitel',
+  'url': 'https://www.ofsoptics.com/our-values/'},
+ {'domain': 'www.ofsoptics.com',
+  'firm_name': 'OFS Fitel',
+  'url': 'https://www.ofsoptics.com/dispersion-management/'},
+ {'domain': 'www.ofsoptics.com',
+  'firm_name': 'OFS Fitel',
+  'url': 'https://www.ofsoptics.com/executive-leadership-team/'},
+ {'domain': 'www.dowagro.com',
+  'firm_name': 'Dow AgroSciences LLC',
+  'url': 'http://www.dowagro.com/en-us/about-dow-agrosciences'},
+ {'domain': 'www.dowagro.com',
+  'firm_name': 'Dow AgroSciences LLC',
+  'url': 'http://www.dowagro.com/en-us/about-dow-agrosciences/commitment'},
+ {'domain': 'www.dowagro.com',
+  'firm_name': 'Dow AgroSciences LLC',
+  'url': 'http://www.dowagro.com/en-us/newsroom/pressreleases/2018/02/dowdupont-agriculture-division-to-become-corteva-agriscience'},
+ {'domain': 'www.crestovo.com',
+  'firm_name': 'Crestovo LLC',
+  'url': 'http://www.crestovo.com/about/#contact-us'},
+ {'domain': 'www.clearsign.com',
+  'firm_name': 'CLEARSIGN COMBUSTION CORPORATION',
+  'url': 'https://www.clearsign.com/our-team/'},
+ {'domain': 'agriculture.basf.com',
+  'firm_name': 'BASF Plant Science GmbH',
+  'url': 'https://agriculture.basf.com/content/bws/north-america/us/en/company.html'},
+ {'domain': 'en.tdk-electronics.tdk.com',
+  'firm_name': 'EPCOS AG',
+  'url': 'https://en.tdk-electronics.tdk.com/tdk-en/373402/company'},
+ {'domain': 'en.tdk-electronics.tdk.com',
+  'firm_name': 'EPCOS AG',
+  'url': 'https://en.tdk-electronics.tdk.com/tdk-en/1191210/company/about-us'},
+ {'domain': 'en.tdk-electronics.tdk.com',
+  'firm_name': 'EPCOS AG',
+  'url': 'https://en.tdk-electronics.tdk.com/tdk-en/2302164/careers/about-us'},
+ {'domain': 'en.tdk-electronics.tdk.com',
+  'firm_name': 'EPCOS AG',
+  'url': 'https://en.tdk-electronics.tdk.com/tdk-en/1192046/company/tdk-group'},
+ {'domain': 'en.tdk-electronics.tdk.com',
+  'firm_name': 'EPCOS AG',
+  'url': 'https://en.tdk-electronics.tdk.com/tdk-en/1190708/company/tdk-europe'},
+ {'domain': 'en.tdk-electronics.tdk.com',
+  'firm_name': 'EPCOS AG',
+  'url': 'https://en.tdk-electronics.tdk.com/tdk-en/373394/company/press-center'},
+ {'domain': 'en.tdk-electronics.tdk.com',
+  'firm_name': 'EPCOS AG',
+  'url': 'https://en.tdk-electronics.tdk.com/tdk-en/180286/company/trade-fairs-events'},
+ {'domain': 'en.tdk-electronics.tdk.com',
+  'firm_name': 'EPCOS AG',
+  'url': 'https://en.tdk-electronics.tdk.com/tdk-en/519514/company/customer-news-service'},
+ {'domain': 'en.tdk-electronics.tdk.com',
+  'firm_name': 'EPCOS AG',
+  'url': 'https://en.tdk-electronics.tdk.com/tdk-en/180414/contact/company-related-inquiry'},
+ {'domain': 'en.tdk-electronics.tdk.com',
+  'firm_name': 'EPCOS AG',
+  'url': 'https://en.tdk-electronics.tdk.com/tdk-en/180314/company/environmental-protection'},
+ {'domain': 'en.tdk-electronics.tdk.com',
+  'firm_name': 'EPCOS AG',
+  'url': 'https://en.tdk-electronics.tdk.com/tdk-en/180332/company/tdk-electronics-worldwide'},
+ {'domain': 'allurausa.com',
+  'firm_name': 'PLYCEM USA',
+  'url': 'https://allurausa.com/about'},
+ {'domain': 'www.perkinelmer.com',
+  'firm_name': 'Perkinelmer Holdings',
+  'url': 'http://www.perkinelmer.com/corporate'},
+ {'domain': 'www.perkinelmer.com',
+  'firm_name': 'Perkinelmer Holdings',
+  'url': 'http://www.perkinelmer.com/corporate/training'},
+ {'domain': 'www.perkinelmer.com',
+  'firm_name': 'Perkinelmer Holdings',
+  'url': 'http://www.perkinelmer.com/corporate/stories/'},
+ {'domain': 'www.perkinelmer.com',
+  'firm_name': 'Perkinelmer Holdings',
+  'url': 'http://www.perkinelmer.com/company/index.html'},
+ {'domain': 'www.perkinelmer.com',
+  'firm_name': 'Perkinelmer Holdings',
+  'url': 'http://www.perkinelmer.com/corporate/policies/'},
+ {'domain': 'www.perkinelmer.com',
+  'firm_name': 'Perkinelmer Holdings',
+  'url': 'http://www.perkinelmer.com/corporate/investors/'},
+ {'domain': 'www.perkinelmer.com',
+  'firm_name': 'Perkinelmer Holdings',
+  'url': 'http://www.perkinelmer.com/corporate/press-room/'},
+ {'domain': 'www.perkinelmer.com',
+  'firm_name': 'Perkinelmer Holdings',
+  'url': 'http://www.perkinelmer.com/category/gas-management'},
+ {'domain': 'www.perkinelmer.com',
+  'firm_name': 'Perkinelmer Holdings',
+  'url': 'http://www.perkinelmer.com/corporate/events/index.html'},
+ {'domain': 'www.perkinelmer.com',
+  'firm_name': 'Perkinelmer Holdings',
+  'url': 'http://www.perkinelmer.com/corporate/careers/index.html'},
+ {'domain': 'www.perkinelmer.com',
+  'firm_name': 'Perkinelmer Holdings',
+  'url': 'http://www.perkinelmer.com/corporate/what-we-do/markets/'},
+ {'domain': 'taurx.com',
+  'firm_name': 'Tau Therapeutics LLC',
+  'url': 'http://taurx.com/about-us/'},
+ {'domain': 'lrri.org',
+  'firm_name': 'Lovelace Respiratory Research Institute',
+  'url': 'https://lrri.org/about-our-companies'},
+ {'domain': 'lrri.org',
+  'firm_name': 'Lovelace Respiratory Research Institute',
+  'url': 'https://lrri.org/about-our-companies/rpoc'},
+ {'domain': 'lrri.org',
+  'firm_name': 'Lovelace Respiratory Research Institute',
+  'url': 'https://lrri.org/about-our-companies/our-board'},
+ {'domain': 'lrri.org',
+  'firm_name': 'Lovelace Respiratory Research Institute',
+  'url': 'https://lrri.org/about-our-companies/our-history'},
+ {'domain': 'www.gliknik.com',
+  'firm_name': 'GLIKNIK INC.',
+  'url': 'http://www.gliknik.com/about/'},
+ {'domain': 'www.gliknik.com',
+  'firm_name': 'GLIKNIK INC.',
+  'url': 'http://www.gliknik.com/how-we-work/'},
+ {'domain': 'www.gliknik.com',
+  'firm_name': 'GLIKNIK INC.',
+  'url': 'http://www.gliknik.com/about/our-board/'},
+ {'domain': 'www.gliknik.com',
+  'firm_name': 'GLIKNIK INC.',
+  'url': 'http://www.gliknik.com/about/investors/'},
+ {'domain': 'www.gliknik.com',
+  'firm_name': 'GLIKNIK INC.',
+  'url': 'http://www.gliknik.com/about/how-we-work/'},
+ {'domain': 'www.gliknik.com',
+  'firm_name': 'GLIKNIK INC.',
+  'url': 'http://www.gliknik.com/about/our-leadership-team/'},
+ {'domain': 'www.gliknik.com',
+  'firm_name': 'GLIKNIK INC.',
+  'url': 'http://www.gliknik.com/clinical-programs/gl-2045/'},
+ {'domain': 'www.gliknik.com',
+  'firm_name': 'GLIKNIK INC.',
+  'url': 'http://www.gliknik.com/about/message-from-the-ceo/'},
+ {'domain': 'www.gliknik.com',
+  'firm_name': 'GLIKNIK INC.',
+  'url': 'http://www.gliknik.com/clinical-programs/biropepimut-s-gl-0817/'},
+ {'domain': 'acinter.com',
+  'firm_name': 'AC International Inc.',
+  'url': 'http://acinter.com/aboutus.htm'},
+ {'domain': 'canon-biomedical.com',
+  'firm_name': 'Canon U.S. Life Sciences',
+  'url': 'https://canon-biomedical.com/online/portal/vp7/bio/aboutus'},
+ {'domain': 'canon-biomedical.com',
+  'firm_name': 'Canon U.S. Life Sciences',
+  'url': 'https://canon-biomedical.com/online/portal/vp7/bio/aboutus/business'},
+ {'domain': 'canon-biomedical.com',
+  'firm_name': 'Canon U.S. Life Sciences',
+  'url': 'https://canon-biomedical.com/online/portal/vp7/bio/aboutus/leadership'},
+ {'domain': 'canon-biomedical.com',
+  'firm_name': 'Canon U.S. Life Sciences',
+  'url': 'https://canon-biomedical.com/online/portal/vp7/bio/aboutus/newsandevents'},
+ {'domain': '2blades.org',
+  'firm_name': 'Two Blades Foundation',
+  'url': 'http://2blades.org/our-team/'},
+ {'domain': '2blades.org',
+  'firm_name': 'Two Blades Foundation',
+  'url': 'http://2blades.org/2bf/about/'},
+ {'domain': '2blades.org',
+  'firm_name': 'Two Blades Foundation',
+  'url': 'http://2blades.org/about-2blades/'},
+ {'domain': '2blades.org',
+  'firm_name': 'Two Blades Foundation',
+  'url': 'http://2blades.org/our-team/#1-management-and-directors'},
+ {'domain': '2blades.org',
+  'firm_name': 'Two Blades Foundation',
+  'url': 'http://2blades.org/our-team/#3-scientific-advisory-board'},
+ {'domain': '2blades.org',
+  'firm_name': 'Two Blades Foundation',
+  'url': 'http://2blades.org/our-team/#2-blades-group-the-sainsbury-laboratory'},
+ {'domain': 'www.brewerscience.com',
+  'firm_name': 'Brewer Science Inc.',
+  'url': 'https://www.brewerscience.com/about-us/'},
+ {'domain': 'www.brewerscience.com',
+  'firm_name': 'Brewer Science Inc.',
+  'url': 'https://www.brewerscience.com/about-us/awards/'},
+ {'domain': 'www.brewerscience.com',
+  'firm_name': 'Brewer Science Inc.',
+  'url': 'https://www.brewerscience.com/about-us/privacy/'},
+ {'domain': 'www.brewerscience.com',
+  'firm_name': 'Brewer Science Inc.',
+  'url': 'https://www.brewerscience.com/about-us/company/'},
+ {'domain': 'www.brewerscience.com',
+  'firm_name': 'Brewer Science Inc.',
+  'url': 'https://www.brewerscience.com/about-us/newsroom/'},
+ {'domain': 'www.brewerscience.com',
+  'firm_name': 'Brewer Science Inc.',
+  'url': 'https://www.brewerscience.com/about-us/locations/'},
+ {'domain': 'www.brewerscience.com',
+  'firm_name': 'Brewer Science Inc.',
+  'url': 'https://www.brewerscience.com/about-us/what-we-do/'},
+ {'domain': 'www.brewerscience.com',
+  'firm_name': 'Brewer Science Inc.',
+  'url': 'https://www.brewerscience.com/about-us/partnerships/'},
+ {'domain': 'www.brewerscience.com',
+  'firm_name': 'Brewer Science Inc.',
+  'url': 'https://www.brewerscience.com/about-us/community-giving/'},
+ {'domain': 'www.brewerscience.com',
+  'firm_name': 'Brewer Science Inc.',
+  'url': 'https://www.brewerscience.com/about-us/partnerships/itri'},
+ {'domain': 'www.brewerscience.com',
+  'firm_name': 'Brewer Science Inc.',
+  'url': 'https://www.brewerscience.com/about-us/partnerships/nist/'},
+ {'domain': 'www.ibm.com',
+  'firm_name': 'International Business Machines Corporation',
+  'url': 'http://www.ibm.com/ibm/us/en/?lnk=fab'},
+ {'domain': 'www.ibm.com',
+  'firm_name': 'International Business Machines Corporation',
+  'url': 'http://www.ibm.com/ibm/responsibility/?lnk=fab'},
+ {'domain': 'www.ibm.com',
+  'firm_name': 'International Business Machines Corporation',
+  'url': 'https://www.ibm.com/collaboration?lnk=hpmpr_buso&lnk2=learn'},
+ {'domain': 'www.ibm.com',
+  'firm_name': 'International Business Machines Corporation',
+  'url': 'https://www.ibm.com/talent-management?lnk=hmhpmpr_buta&lnk2=learn'},
+ {'domain': 'www.ibm.com',
+  'firm_name': 'International Business Machines Corporation',
+  'url': 'https://www.ibm.com/analytics/us/en/data-management/?lnk=hpmpr_bua&lnk2=learn'},
+ {'domain': 'www.ibm.com',
+  'firm_name': 'International Business Machines Corporation',
+  'url': 'https://www.ibm.com/automation/software/content-management?lnk=hpmpr_buau&lnk2=learn'},
+ {'domain': 'www.ibm.com',
+  'firm_name': 'International Business Machines Corporation',
+  'url': 'https://www.ibm.com/talent-management/ai-in-hr-business-case?lnk=ushpv18l1&lnk2=learn'},
+ {'domain': 'www.ibm.com',
+  'firm_name': 'International Business Machines Corporation',
+  'url': 'https://www.ibm.com/thought-leadership/smart/?lnk=ushpv18s1&lnk2=learn#tab_plasticbank'},
+ {'domain': 'www.ibm.com',
+  'firm_name': 'International Business Machines Corporation',
+  'url': 'https://www.ibm.com/analytics/us/en/enterprise-content-management/?lnk=hpmpr_bua&lnk2=learn'},
+ {'domain': 'www.ibm.com',
+  'firm_name': 'International Business Machines Corporation',
+  'url': 'https://www.ibm.com/automation/software/business-rules-management?lnk=hpmpr_buau&lnk2=learn'},
+ {'domain': 'www.ibm.com',
+  'firm_name': 'International Business Machines Corporation',
+  'url': 'https://www.ibm.com/analytics/us/en/financial-performance-management/?lnk=hpmpr_bua&lnk2=learn'},
+ {'domain': 'www.accessbusinessgroup.com',
+  'firm_name': 'Access Business Group International LLC',
+  'url': 'https://www.accessbusinessgroup.com/about-abg/'},
+ {'domain': 'global-sei.com',
+  'firm_name': 'Sumitomo Electric Industries',
+  'url': 'https://global-sei.com/rss/'},
+ {'domain': 'global-sei.com',
+  'firm_name': 'Sumitomo Electric Industries',
+  'url': 'https://global-sei.com/company/'},
+ {'domain': 'global-sei.com',
+  'firm_name': 'Sumitomo Electric Industries',
+  'url': 'https://global-sei.com/company/120th'},
+ {'domain': 'global-sei.com',
+  'firm_name': 'Sumitomo Electric Industries',
+  'url': 'https://global-sei.com/company/news/'},
+ {'domain': 'global-sei.com',
+  'firm_name': 'Sumitomo Electric Industries',
+  'url': 'https://global-sei.com/csr/risk.html'},
+ {'domain': 'global-sei.com',
+  'firm_name': 'Sumitomo Electric Industries',
+  'url': 'https://global-sei.com/company/press/'},
+ {'domain': 'global-sei.com',
+  'firm_name': 'Sumitomo Electric Industries',
+  'url': 'https://global-sei.com/company/group/'},
+ {'domain': 'global-sei.com',
+  'firm_name': 'Sumitomo Electric Industries',
+  'url': 'https://global-sei.com/ir/management/'},
+ {'domain': 'global-sei.com',
+  'firm_name': 'Sumitomo Electric Industries',
+  'url': 'https://global-sei.com/company/office/'},
+ {'domain': 'global-sei.com',
+  'firm_name': 'Sumitomo Electric Industries',
+  'url': 'https://global-sei.com/company/brand.html'},
+ {'domain': 'global-sei.com',
+  'firm_name': 'Sumitomo Electric Industries',
+  'url': 'https://global-sei.com/company/vision.html'},
+ {'domain': 'www.advancedsilicongroup.com',
+  'firm_name': 'Advanced Silicon Group',
+  'url': 'http://www.advancedsilicongroup.com/our-team.html'},
+ {'domain': 'www.zygo.com',
+  'firm_name': 'Zygo Corporation',
+  'url': 'https://www.zygo.com/?/met/profilers/'},
+ {'domain': 'www.zygo.com',
+  'firm_name': 'Zygo Corporation',
+  'url': 'https://www.zygo.com/?/aboutus/shows/'},
+ {'domain': 'www.zygo.com',
+  'firm_name': 'Zygo Corporation',
+  'url': 'https://www.zygo.com/?/aboutus/news/20181017.htm'},
+ {'domain': 'www.zygo.com',
+  'firm_name': 'Zygo Corporation',
+  'url': 'https://www.zygo.com/?/aboutus/privacy-cookie-policy.htm'},
+ {'domain': 'www.zygo.com',
+  'firm_name': 'Zygo Corporation',
+  'url': 'https://www.zygo.com/?/blog/facts-and-statistics-about-zygo/'},
+ {'domain': 'www.zygo.com',
+  'firm_name': 'Zygo Corporation',
+  'url': 'https://www.zygo.com/?/met/profilers/zegagepro/&utm_source=zygo&utm_medium=HomePageBanner&utm_campaign=ZeGagePro'},
+ {'domain': 'www.pg.com',
+  'firm_name': 'The Procter & Gamble Company',
+  'url': 'http://www.pg.com/who-we-are/'},
+ {'domain': 'www.pg.com',
+  'firm_name': 'The Procter & Gamble Company',
+  'url': 'http://www.pg.com/leadership-team/'},
+ {'domain': 'jsr.vccs.edu',
+  'firm_name': 'JSR Corporation',
+  'url': 'http://jsr.vccs.edu/#'},
+ {'domain': 'jsr.vccs.edu',
+  'firm_name': 'JSR Corporation',
+  'url': 'http://jsr.vccs.edu/who_we_are/locations.aspx'},
+ {'domain': 'jsr.vccs.edu',
+  'firm_name': 'JSR Corporation',
+  'url': 'http://jsr.vccs.edu/who_we_are/workforce.aspx'},
+ {'domain': 'jsr.vccs.edu',
+  'firm_name': 'JSR Corporation',
+  'url': 'http://jsr.vccs.edu/who_we_are/hr/default.aspx'},
+ {'domain': 'jsr.vccs.edu',
+  'firm_name': 'JSR Corporation',
+  'url': 'http://jsr.vccs.edu/who_we_are/about/access.aspx'},
+ {'domain': 'jsr.vccs.edu',
+  'firm_name': 'JSR Corporation',
+  'url': 'http://jsr.vccs.edu/who_we_are/about/default.aspx'},
+ {'domain': 'jsr.vccs.edu',
+  'firm_name': 'JSR Corporation',
+  'url': 'http://jsr.vccs.edu/who_we_are/hr/employment.aspx'},
+ {'domain': 'jsr.vccs.edu',
+  'firm_name': 'JSR Corporation',
+  'url': 'http://jsr.vccs.edu/who_we_are/about/mission.aspx'},
+ {'domain': 'jsr.vccs.edu',
+  'firm_name': 'JSR Corporation',
+  'url': 'http://jsr.vccs.edu/who_we_are/about/privacy.aspx'},
+ {'domain': 'jsr.vccs.edu',
+  'firm_name': 'JSR Corporation',
+  'url': 'http://jsr.vccs.edu/who_we_are/outreach/tours.aspx'},
+ {'domain': 'jsr.vccs.edu',
+  'firm_name': 'JSR Corporation',
+  'url': 'http://jsr.vccs.edu/who_we_are/about/copyright.aspx'},
+ {'domain': 'aadvancedaqua.com',
+  'firm_name': 'Advanced Aqua Group',
+  'url': 'http://aadvancedaqua.com/About-Us.html'},
+ {'domain': 'www.exxonmobilchemical.com',
+  'firm_name': 'ExxonMobil Chemical Patents Inc.',
+  'url': 'https://www.exxonmobilchemical.com/#mm-1'},
+ {'domain': 'www.exxonmobilchemical.com',
+  'firm_name': 'ExxonMobil Chemical Patents Inc.',
+  'url': 'https://www.exxonmobilchemical.com/en/exxonmobil-chemical/about-us'},
+ {'domain': 'cellprintbiotechnology.com',
+  'firm_name': 'CellPrint IP Holding',
+  'url': 'https://cellprintbiotechnology.com/#'},
+ {'domain': 'cellprintbiotechnology.com',
+  'firm_name': 'CellPrint IP Holding',
+  'url': 'https://cellprintbiotechnology.com/about/company/'},
+ {'domain': 'cellprintbiotechnology.com',
+  'firm_name': 'CellPrint IP Holding',
+  'url': 'https://cellprintbiotechnology.com/scientific-team/'},
+ {'domain': 'cellprintbiotechnology.com',
+  'firm_name': 'CellPrint IP Holding',
+  'url': 'https://cellprintbiotechnology.com/about/leadership/'},
+ {'domain': 'cellprintbiotechnology.com',
+  'firm_name': 'CellPrint IP Holding',
+  'url': 'https://cellprintbiotechnology.com/about/collaborations/'},
+ {'domain': 'king-electric.com',
+  'firm_name': 'King Electric Vehicles Inc.',
+  'url': 'https://king-electric.com/about/company-bio/'},
+ {'domain': 'king-electric.com',
+  'firm_name': 'King Electric Vehicles Inc.',
+  'url': 'https://king-electric.com/about/king-difference/'},
+ {'domain': 'king-electric.com',
+  'firm_name': 'King Electric Vehicles Inc.',
+  'url': 'https://king-electric.com/about/vision-statement/'},
+ {'domain': 'king-electric.com',
+  'firm_name': 'King Electric Vehicles Inc.',
+  'url': 'https://king-electric.com/about/career-opportunities/'},
+ {'domain': 'biocare.net',
+  'firm_name': 'Biocare Medical',
+  'url': 'https://biocare.net/about-us/'},
+ {'domain': 'biocare.net',
+  'firm_name': 'Biocare Medical',
+  'url': 'https://biocare.net/about-us/awards/'},
+ {'domain': 'biocare.net',
+  'firm_name': 'Biocare Medical',
+  'url': 'https://biocare.net/about-us/events/'},
+ {'domain': 'biocare.net',
+  'firm_name': 'Biocare Medical',
+  'url': 'https://biocare.net/about-us/careers/'},
+ {'domain': 'biocare.net',
+  'firm_name': 'Biocare Medical',
+  'url': 'https://biocare.net/about-us/testimonials/'},
+ {'domain': 'biocare.net',
+  'firm_name': 'Biocare Medical',
+  'url': 'https://biocare.net/about-us/company-history/'},
+ {'domain': 'www.apple.com',
+  'firm_name': 'Apple Inc.',
+  'url': 'https://www.apple.com/#ac-gf-directory-column-section-state-about'},
+ {'domain': 'www.bestwaycorp.us',
+  'firm_name': 'Bestway',
+  'url': 'http://www.bestwaycorp.us/aboutus'},
+ {'domain': 'www.bhge.com',
+  'firm_name': 'Baker Hughes Incorporated',
+  'url': 'https://www.bhge.com/#'},
+ {'domain': 'www.bhge.com',
+  'firm_name': 'Baker Hughes Incorporated',
+  'url': 'https://www.bhge.com/our-company'},
+ {'domain': 'www.bhge.com',
+  'firm_name': 'Baker Hughes Incorporated',
+  'url': 'https://www.bhge.com/our-company%20'},
+ {'domain': 'www.bhge.com',
+  'firm_name': 'Baker Hughes Incorporated',
+  'url': 'https://www.bhge.com/corporate-responsibility%20'},
+ {'domain': 'www.bhge.com',
+  'firm_name': 'Baker Hughes Incorporated',
+  'url': 'https://www.bhge.com/digital/asset-performance-management%20'},
+ {'domain': 'www.bhge.com',
+  'firm_name': 'Baker Hughes Incorporated',
+  'url': 'https://www.bhge.com/digital/asset-performance-management/apm-health%20'},
+ {'domain': 'www.bhge.com',
+  'firm_name': 'Baker Hughes Incorporated',
+  'url': 'https://www.bhge.com/digital/asset-performance-management/apm-integrity%20'},
+ {'domain': 'www.bhge.com',
+  'firm_name': 'Baker Hughes Incorporated',
+  'url': 'https://www.bhge.com/digital/asset-performance-management/predictive-corrosion-management-pcm%20'},
+ {'domain': 'www.bhge.com',
+  'firm_name': 'Baker Hughes Incorporated',
+  'url': 'https://www.bhge.com/annualreport/company-portfolio.html?utm_campaign=AR&utm_content=Dig&utm_medium=card&utm_source=bhge'},
+ {'domain': 'www.swagelok.com:443',
+  'firm_name': 'Swagelok Company',
+  'url': 'https://www.swagelok.com:443/en/About'},
+ {'domain': 'www.swagelok.com:443',
+  'firm_name': 'Swagelok Company',
+  'url': 'https://www.swagelok.com:443/en/About/Newsroom'},
+ {'domain': 'www.swagelok.com:443',
+  'firm_name': 'Swagelok Company',
+  'url': 'https://www.swagelok.com:443/en/About/Our-Values'},
+ {'domain': 'www.swagelok.com:443',
+  'firm_name': 'Swagelok Company',
+  'url': 'https://www.swagelok.com:443/en/About/Our-Founder'},
+ {'domain': 'www.swagelok.com:443',
+  'firm_name': 'Swagelok Company',
+  'url': 'https://www.swagelok.com:443/en/About/Our-Business'},
+ {'domain': 'www.swagelok.com:443',
+  'firm_name': 'Swagelok Company',
+  'url': 'https://www.swagelok.com:443/en/About/Our-Leadership'},
+ {'domain': 'www.swagelok.com:443',
+  'firm_name': 'Swagelok Company',
+  'url': 'https://www.swagelok.com:443/en/About/Global-Coverage'},
+ {'domain': 'www.swagelok.com:443',
+  'firm_name': 'Swagelok Company',
+  'url': 'https://www.swagelok.com:443/en/My-Account/QuoteSummary'},
+ {'domain': 'www.swagelok.com:443',
+  'firm_name': 'Swagelok Company',
+  'url': 'https://www.swagelok.com:443/en/About/Our-Business/Quality'},
+ {'domain': 'www.swagelok.com:443',
+  'firm_name': 'Swagelok Company',
+  'url': 'https://www.swagelok.com:443/en/About/Our-Business/Services'},
+ {'domain': 'www.swagelok.com:443',
+  'firm_name': 'Swagelok Company',
+  'url': 'https://www.swagelok.com:443/en/About/Our-Business/Inventory'},
+ {'domain': 'www.basf.com',
+  'firm_name': 'BASF',
+  'url': 'https://www.basf.com/us/en/company/career.html'},
+ {'domain': 'www.basf.com',
+  'firm_name': 'BASF',
+  'url': 'https://www.basf.com/us/en/company/about-us.html'},
+ {'domain': 'www.basf.com',
+  'firm_name': 'BASF',
+  'url': 'https://www.basf.com/us/en/company/innovation.html'},
+ {'domain': 'www.basf.com',
+  'firm_name': 'BASF',
+  'url': 'https://www.basf.com/us/en/company/news-and-media.html'},
+ {'domain': 'www.basf.com',
+  'firm_name': 'BASF',
+  'url': 'https://www.basf.com/us/en/company/sustainability.html'},
+ {'domain': 'www.basf.com',
+  'firm_name': 'BASF',
+  'url': 'https://www.basf.com/us/en/company/about-us/Locations.html'},
+ {'domain': 'www.basf.com',
+  'firm_name': 'BASF',
+  'url': 'https://www.basf.com/us/en/company/about-us/publications.html'},
+ {'domain': 'www.basf.com',
+  'firm_name': 'BASF',
+  'url': 'https://www.basf.com/us/en/company/news-and-media/multimedia.html'},
+ {'domain': 'www.basf.com',
+  'firm_name': 'BASF',
+  'url': 'https://www.basf.com/us/en/company/news-and-media/news-releases.html'},
+ {'domain': 'www.basf.com',
+  'firm_name': 'BASF',
+  'url': 'https://www.basf.com/us/en/company/about-us/strategy-and-organization.html'},
+ {'domain': 'www.basf.com',
+  'firm_name': 'BASF',
+  'url': 'https://www.basf.com/en/company/news-and-media/events/2018/press-conference-181120.html'},
+ {'domain': 'solarreserve.com',
+  'firm_name': 'SolarReserve Technology',
+  'url': 'https://solarreserve.com/en/about'},
+ {'domain': 'solarreserve.com',
+  'firm_name': 'SolarReserve Technology',
+  'url': 'https://solarreserve.com/en/about/board'},
+ {'domain': 'solarreserve.com',
+  'firm_name': 'SolarReserve Technology',
+  'url': 'https://solarreserve.com/en/about/careers'},
+ {'domain': 'solarreserve.com',
+  'firm_name': 'SolarReserve Technology',
+  'url': 'https://solarreserve.com/en/about/contact'},
+ {'domain': 'solarreserve.com',
+  'firm_name': 'SolarReserve Technology',
+  'url': 'https://solarreserve.com/en/about/community'},
+ {'domain': 'solarreserve.com',
+  'firm_name': 'SolarReserve Technology',
+  'url': 'https://solarreserve.com/en/about/management'},
+ {'domain': 'solarreserve.com',
+  'firm_name': 'SolarReserve Technology',
+  'url': 'https://solarreserve.com/en/about/about-us-overview'},
+ {'domain': 'www.prg.com',
+  'firm_name': 'Production Resource Group',
+  'url': 'https://www.prg.com/about-prg/company'},
+ {'domain': 'www.birdbgone.com',
+  'firm_name': 'Bird-B-Gone',
+  'url': 'https://www.birdbgone.com/#'},
+ {'domain': 'www.birdbgone.com',
+  'firm_name': 'Bird-B-Gone',
+  'url': 'https://www.birdbgone.com/about.html'},
+ {'domain': 'www.birdbgone.com',
+  'firm_name': 'Bird-B-Gone',
+  'url': 'https://www.birdbgone.com/pest-bird-profiles.html'},
+ {'domain': 'www.birdbgone.com',
+  'firm_name': 'Bird-B-Gone',
+  'url': 'https://www.birdbgone.com/choose-by-industry/property-management.html'},
+ {'domain': 'bruinbiometrics.com',
+  'firm_name': 'Bruin Biometrics',
+  'url': 'http://bruinbiometrics.com/us/about-us'},
+ {'domain': 'bruinbiometrics.com',
+  'firm_name': 'Bruin Biometrics',
+  'url': 'http://bruinbiometrics.com/us/about-us/team'},
+ {'domain': 'bruinbiometrics.com',
+  'firm_name': 'Bruin Biometrics',
+  'url': 'http://bruinbiometrics.com/us/about-us/careers'},
+ {'domain': 'bruinbiometrics.com',
+  'firm_name': 'Bruin Biometrics',
+  'url': 'http://bruinbiometrics.com/us/about-us/about-us-2'},
+ {'domain': 'bruinbiometrics.com',
+  'firm_name': 'Bruin Biometrics',
+  'url': 'http://bruinbiometrics.com/us/about-us/mission-values'},
+ {'domain': 'bruinbiometrics.com',
+  'firm_name': 'Bruin Biometrics',
+  'url': 'http://bruinbiometrics.com/us/sem/pressure-ulcers-dtis'},
+ {'domain': 'bruinbiometrics.com',
+  'firm_name': 'Bruin Biometrics',
+  'url': 'http://bruinbiometrics.com/us/about-us/board-of-directors'},
+ {'domain': 'www.oneearthdesigns.com',
+  'firm_name': 'One Earth Designs Inc.',
+  'url': 'https://www.oneearthdesigns.com/about-us/'},
+ {'domain': 'usa.healthcare.siemens.com',
+  'firm_name': 'Siemens Medical Solutions USA',
+  'url': 'https://usa.healthcare.siemens.com/about'},
+ {'domain': 'usa.healthcare.siemens.com',
+  'firm_name': 'Siemens Medical Solutions USA',
+  'url': 'https://usa.healthcare.siemens.com/about-us'},
+ {'domain': 'usa.healthcare.siemens.com',
+  'firm_name': 'Siemens Medical Solutions USA',
+  'url': 'https://usa.healthcare.siemens.com/about-us/about'},
+ {'domain': 'usa.healthcare.siemens.com',
+  'firm_name': 'Siemens Medical Solutions USA',
+  'url': 'https://usa.healthcare.siemens.com/corporate-info'},
+ {'domain': 'usa.healthcare.siemens.com',
+  'firm_name': 'Siemens Medical Solutions USA',
+  'url': 'https://usa.healthcare.siemens.com/about-us/compliance'},
+ {'domain': 'usa.healthcare.siemens.com',
+  'firm_name': 'Siemens Medical Solutions USA',
+  'url': 'https://usa.healthcare.siemens.com/healthineers-population-health-management'},
+ {'domain': 'usa.healthcare.siemens.com',
+  'firm_name': 'Siemens Medical Solutions USA',
+  'url': 'https://usa.healthcare.siemens.com/about-us/leading-the-way-in-pama-readiness'},
+ {'domain': 'usa.healthcare.siemens.com',
+  'firm_name': 'Siemens Medical Solutions USA',
+  'url': 'https://usa.healthcare.siemens.com/point-of-care-testing/chronic-disease-management'},
+ {'domain': 'magnoliaoptical.com',
+  'firm_name': 'Magnolia Optical Technologies',
+  'url': 'http://magnoliaoptical.com/index.php?rt=about/mgt'},
+ {'domain': 'magnoliaoptical.com',
+  'firm_name': 'Magnolia Optical Technologies',
+  'url': 'http://magnoliaoptical.com/index.php?rt=about/index'},
+ {'domain': 'magnoliaoptical.com',
+  'firm_name': 'Magnolia Optical Technologies',
+  'url': 'http://magnoliaoptical.com/index.php?rt=about/vision'},
+ {'domain': 'magnoliaoptical.com',
+  'firm_name': 'Magnolia Optical Technologies',
+  'url': 'http://magnoliaoptical.com/index.php?rt=about/contact'},
+ {'domain': 'magnoliaoptical.com',
+  'firm_name': 'Magnolia Optical Technologies',
+  'url': 'http://magnoliaoptical.com/index.php?rt=about/strategy'},
+ {'domain': 'www.smartplanettech.com',
+  'firm_name': 'Smart Planet Technologies',
+  'url': 'https://www.smartplanettech.com/about-us/'},
+ {'domain': 'www.adhesivesresearch.com',
+  'firm_name': 'Adhesives Research',
+  'url': 'http://www.adhesivesresearch.com/about/'},
+ {'domain': 'www.adhesivesresearch.com',
+  'firm_name': 'Adhesives Research',
+  'url': 'http://www.adhesivesresearch.com/capabilities/custom-manufacturing-project-management/'},
+ {'domain': 'www.adhesivesresearch.com',
+  'firm_name': 'Adhesives Research',
+  'url': 'http://www.adhesivesresearch.com/learn-about-the-benefits-of-arx-thin-films-and-transdermal-patches-at-drug-delivery-partnerships-2017/'},
+ {'domain': 'elenion.com',
+  'firm_name': 'Elenion Technologies',
+  'url': 'https://elenion.com/team/'},
+ {'domain': 'elenion.com',
+  'firm_name': 'Elenion Technologies',
+  'url': 'https://elenion.com/summary/'},
+ {'domain': 'elenion.com',
+  'firm_name': 'Elenion Technologies',
+  'url': 'https://elenion.com/company/'},
+ {'domain': 'www.asurion.com',
+  'firm_name': 'Aurrion',
+  'url': 'https://www.asurion.com/about/'},
+ {'domain': 'www.asurion.com',
+  'firm_name': 'Aurrion',
+  'url': 'https://www.asurion.com/about/smb/'},
+ {'domain': 'www.asurion.com',
+  'firm_name': 'Aurrion',
+  'url': 'https://www.asurion.com/about/awards/'},
+ {'domain': 'www.asurion.com',
+  'firm_name': 'Aurrion',
+  'url': 'https://www.asurion.com/about/careers/'},
+ {'domain': 'www.asurion.com',
+  'firm_name': 'Aurrion',
+  'url': 'https://www.asurion.com/about/newsroom/'},
+ {'domain': 'www.asurion.com',
+  'firm_name': 'Aurrion',
+  'url': 'https://www.asurion.com/about/leadership/'},
+ {'domain': 'www.asurion.com',
+  'firm_name': 'Aurrion',
+  'url': 'https://www.asurion.com/about/contact-us/'},
+ {'domain': 'www.asurion.com',
+  'firm_name': 'Aurrion',
+  'url': 'https://www.asurion.com/extended-warranty/'},
+ {'domain': 'www.asurion.com',
+  'firm_name': 'Aurrion',
+  'url': 'https://www.asurion.com/about/partner-with-us/'},
+ {'domain': 'www.asurion.com',
+  'firm_name': 'Aurrion',
+  'url': 'https://www.asurion.com/about/business-insights/'},
+ {'domain': 'www.asurion.com',
+  'firm_name': 'Aurrion',
+  'url': 'https://www.asurion.com/about/reviews-and-ratings/'},
+ {'domain': 'poet.com',
+  'firm_name': 'POET Research',
+  'url': 'https://poet.com/about'},
+ {'domain': 'www.coolplanet.com',
+  'firm_name': 'Cool Planet Energy Systems',
+  'url': 'https://www.coolplanet.com/about/careers/'},
+ {'domain': 'www.coolplanet.com',
+  'firm_name': 'Cool Planet Energy Systems',
+  'url': 'https://www.coolplanet.com/about/corporate/'},
+ {'domain': 'www.coolplanet.com',
+  'firm_name': 'Cool Planet Energy Systems',
+  'url': 'https://www.coolplanet.com/about/investors/'},
+ {'domain': 'www.coolplanet.com',
+  'firm_name': 'Cool Planet Energy Systems',
+  'url': 'https://www.coolplanet.com/about/management/'},
+ {'domain': 'www.coolplanet.com',
+  'firm_name': 'Cool Planet Energy Systems',
+  'url': 'https://www.coolplanet.com/about/associations/'},
+ {'domain': 'www.coolplanet.com',
+  'firm_name': 'Cool Planet Energy Systems',
+  'url': 'https://www.coolplanet.com/about/advisory-board/'},
+ {'domain': 'www.coolplanet.com',
+  'firm_name': 'Cool Planet Energy Systems',
+  'url': 'https://www.coolplanet.com/about/board-of-directors/'},
+ {'domain': 'gswps.com',
+  'firm_name': 'Global Solar Water Power Systems',
+  'url': 'http://gswps.com/AboutUs.aspx'},
+ {'domain': 'atomera.com',
+  'firm_name': 'ATOMERA INCORPORATED',
+  'url': 'http://atomera.com/overview/'},
+ {'domain': 'atomera.com',
+  'firm_name': 'ATOMERA INCORPORATED',
+  'url': 'http://atomera.com/management/'},
+ {'domain': 'altarockenergy.com',
+  'firm_name': 'AltaRock Energy',
+  'url': 'http://altarockenergy.com/about-us/'},
+ {'domain': 'altarockenergy.com',
+  'firm_name': 'AltaRock Energy',
+  'url': 'http://altarockenergy.com/about-us/partners/'},
+ {'domain': 'sionpower.com',
+  'firm_name': 'Sion Power Corporation',
+  'url': 'https://sionpower.com/about/'},
+ {'domain': 'sionpower.com',
+  'firm_name': 'Sion Power Corporation',
+  'url': 'https://sionpower.com/#scrollNav-2'},
+ {'domain': 'www.aerogen.com',
+  'firm_name': 'Aerogen',
+  'url': 'https://www.aerogen.com/about/our-story/#awards'},
+ {'domain': 'www.aerogen.com',
+  'firm_name': 'Aerogen',
+  'url': 'https://www.aerogen.com/about/our-story/#history'},
+ {'domain': 'www.aerogen.com',
+  'firm_name': 'Aerogen',
+  'url': 'https://www.aerogen.com/about/our-story/#our-values'},
+ {'domain': 'www.aerogen.com',
+  'firm_name': 'Aerogen',
+  'url': 'https://www.aerogen.com/about/our-story/#our-awards'},
+ {'domain': 'www.aerogen.com',
+  'firm_name': 'Aerogen',
+  'url': 'https://www.aerogen.com/about/our-story/#sponsorship'},
+ {'domain': 'www.aerogen.com',
+  'firm_name': 'Aerogen',
+  'url': 'https://www.aerogen.com/about/respiratory-care/#copd'},
+ {'domain': 'www.aerogen.com',
+  'firm_name': 'Aerogen',
+  'url': 'https://www.aerogen.com/about/our-story/#sponsorships'},
+ {'domain': 'www.aerogen.com',
+  'firm_name': 'Aerogen',
+  'url': 'https://www.aerogen.com/about/respiratory-care/#asthma'},
+ {'domain': 'www.aerogen.com',
+  'firm_name': 'Aerogen',
+  'url': 'https://www.aerogen.com/about/technology/#aerogen-inside'},
+ {'domain': 'www.aerogen.com',
+  'firm_name': 'Aerogen',
+  'url': 'https://www.aerogen.com/about/technology/#aerogen-at-home'},
+ {'domain': 'www.aerogen.com',
+  'firm_name': 'Aerogen',
+  'url': 'https://www.aerogen.com/about/our-story/#board-of-director'},
+ {'domain': 'www.noble.org',
+  'firm_name': 'The Samuel Roberts Noble Foundation',
+  'url': 'https://www.noble.org/about/'},
+ {'domain': 'www.noble.org',
+  'firm_name': 'The Samuel Roberts Noble Foundation',
+  'url': 'https://www.noble.org/news/publications/ag-news-and-views/2018/november/pecan-management-calendar-november-to-january/'},
+ {'domain': 'www.sony.com',
+  'firm_name': 'Sony Corporation',
+  'url': 'https://www.sony.com/en_us/SCA/index.html'},
+ {'domain': 'www.sony.com',
+  'firm_name': 'Sony Corporation',
+  'url': 'https://www.sony.com/electronics/about-sony'},
+ {'domain': 'www.sony.com',
+  'firm_name': 'Sony Corporation',
+  'url': 'https://www.sony.com/en_us/SCA/company-news/press-releases.html'},
+ {'domain': 'eink.com',
+  'firm_name': 'E Ink Corporation',
+  'url': 'https://eink.com/about-us.html'},
+ {'domain': 'eink.com',
+  'firm_name': 'E Ink Corporation',
+  'url': 'https://eink.com/about-our-logo.html'},
+ {'domain': 'eink.com',
+  'firm_name': 'E Ink Corporation',
+  'url': 'https://eink.com/csr.html?type=vision'},
+ {'domain': 'www.idealab.com',
+  'firm_name': 'IDEALAB',
+  'url': 'https://www.idealab.com/#team_anchor'},
+ {'domain': 'www.idealab.com',
+  'firm_name': 'IDEALAB',
+  'url': 'https://www.idealab.com/#about_anchor'},
+ {'domain': 'www.idealab.com',
+  'firm_name': 'IDEALAB',
+  'url': 'https://www.idealab.com/bio/management/bill_gross.php'},
+ {'domain': 'www.idealab.com',
+  'firm_name': 'IDEALAB',
+  'url': 'https://www.idealab.com/bio/management/debbie_chen.php'},
+ {'domain': 'www.idealab.com',
+  'firm_name': 'IDEALAB',
+  'url': 'https://www.idealab.com/bio/management/wes_ferrari.php'},
+ {'domain': 'www.idealab.com',
+  'firm_name': 'IDEALAB',
+  'url': 'https://www.idealab.com/bio/management/alex_maleki.php'},
+ {'domain': 'www.idealab.com',
+  'firm_name': 'IDEALAB',
+  'url': 'https://www.idealab.com/bio/management/jason_atzert.php'},
+ {'domain': 'www.idealab.com',
+  'firm_name': 'IDEALAB',
+  'url': 'https://www.idealab.com/bio/management/tom_mcgovern.php'},
+ {'domain': 'www.idealab.com',
+  'firm_name': 'IDEALAB',
+  'url': 'https://www.idealab.com/bio/management/craig_chrisney.php'},
+ {'domain': 'www.idealab.com',
+  'firm_name': 'IDEALAB',
+  'url': 'https://www.idealab.com/bio/management/yeran_melelian.php'},
+ {'domain': 'www.idealab.com',
+  'firm_name': 'IDEALAB',
+  'url': 'https://www.idealab.com/bio/management/marcia_goodstein.php'},
+ {'domain': 'www.netapp.com',
+  'firm_name': 'NetApp',
+  'url': 'https://www.netapp.com/us/company/index.aspx'},
+ {'domain': 'www.netapp.com',
+  'firm_name': 'NetApp',
+  'url': 'https://www.netapp.com/us/company/news/index.aspx'},
+ {'domain': 'www.netapp.com',
+  'firm_name': 'NetApp',
+  'url': 'https://www.netapp.com/us/company/events/index.aspx'},
+ {'domain': 'www.netapp.com',
+  'firm_name': 'NetApp',
+  'url': 'https://www.netapp.com/us/company/about-netapp/dvc-ebc/index.aspx'},
+ {'domain': 'www.netapp.com',
+  'firm_name': 'NetApp',
+  'url': 'https://www.netapp.com/us/solutions/unstructured-data/rich-media.aspx'},
+ {'domain': 'www.netapp.com',
+  'firm_name': 'NetApp',
+  'url': 'https://www.netapp.com/us/company/corporate-social-responsibility.aspx'},
+ {'domain': 'www.netapp.com',
+  'firm_name': 'NetApp',
+  'url': 'https://www.netapp.com/us/solutions/devops/configuration-management.aspx'},
+ {'domain': 'www.netapp.com',
+  'firm_name': 'NetApp',
+  'url': 'https://www.netapp.com/us/solutions/data-insights/performance-management.aspx'},
+ {'domain': 'www.netapp.com',
+  'firm_name': 'NetApp',
+  'url': 'https://www.netapp.com/us/solutions/unstructured-data/distributed-content.aspx'},
+ {'domain': 'www.netapp.com',
+  'firm_name': 'NetApp',
+  'url': 'https://www.netapp.com/us/solutions/data-insights/capacity-management-analytics.aspx'},
+ {'domain': 'cellularresearchinstitute.com',
+  'firm_name': 'Cellular Research',
+  'url': 'https://cellularresearchinstitute.com/about.html'},
+ {'domain': 'appliedmembranetech.com',
+  'firm_name': 'Applied Membrane Technologies',
+  'url': 'http://appliedmembranetech.com/leadership-team/'},
+ {'domain': 'www.bosch.com',
+  'firm_name': 'Robert Bosch GmbH',
+  'url': 'https://www.bosch.com/our-company/'},
+ {'domain': 'www.bosch.com',
+  'firm_name': 'Robert Bosch GmbH',
+  'url': 'https://www.bosch.com/stories/vision-2030/'},
+ {'domain': 'www.bosch.com',
+  'firm_name': 'Robert Bosch GmbH',
+  'url': 'https://www.bosch.com/corporate-information/'},
+ {'domain': 'www.bosch.com',
+  'firm_name': 'Robert Bosch GmbH',
+  'url': 'https://www.bosch.com/our-company/our-people/'},
+ {'domain': 'www.bosch.com',
+  'firm_name': 'Robert Bosch GmbH',
+  'url': 'https://www.bosch.com/our-company/our-figures/'},
+ {'domain': 'www.bosch.com',
+  'firm_name': 'Robert Bosch GmbH',
+  'url': 'https://www.bosch.com/our-company/our-history/'},
+ {'domain': 'www.bosch.com',
+  'firm_name': 'Robert Bosch GmbH',
+  'url': 'https://www.bosch.com/research/about-research/'},
+ {'domain': 'www.bosch.com',
+  'firm_name': 'Robert Bosch GmbH',
+  'url': 'https://www.bosch.com/our-company/sustainability/'},
+ {'domain': 'www.bosch.com',
+  'firm_name': 'Robert Bosch GmbH',
+  'url': 'https://www.bosch.com/research/about-research/roots/'},
+ {'domain': 'www.bosch.com',
+  'firm_name': 'Robert Bosch GmbH',
+  'url': 'https://www.bosch.com/our-company/our-figures/#brands'},
+ {'domain': 'www.bosch.com',
+  'firm_name': 'Robert Bosch GmbH',
+  'url': 'https://www.bosch.com/research/about-research/purpose/'},
+ {'domain': 'www.hamamatsu.com',
+  'firm_name': 'HAMAMATSU PHOTONICS K.K.',
+  'url': 'https://www.hamamatsu.com/jp/en/our-company/index.html'},
+ {'domain': 'www.hamamatsu.com',
+  'firm_name': 'HAMAMATSU PHOTONICS K.K.',
+  'url': 'https://www.hamamatsu.com/all/en/our-company/index.html'},
+ {'domain': 'www.hamamatsu.com',
+  'firm_name': 'HAMAMATSU PHOTONICS K.K.',
+  'url': 'https://www.hamamatsu.com/jp/en/our-company/csr/index.html'},
+ {'domain': 'www.hamamatsu.com',
+  'firm_name': 'HAMAMATSU PHOTONICS K.K.',
+  'url': 'https://www.hamamatsu.com/all/en/our-company/csr/index.html'},
+ {'domain': 'www.hamamatsu.com',
+  'firm_name': 'HAMAMATSU PHOTONICS K.K.',
+  'url': 'https://www.hamamatsu.com/jp/en/our-company/history/index.html'},
+ {'domain': 'www.hamamatsu.com',
+  'firm_name': 'HAMAMATSU PHOTONICS K.K.',
+  'url': 'https://www.hamamatsu.com/all/en/our-company/history/index.html'},
+ {'domain': 'www.hamamatsu.com',
+  'firm_name': 'HAMAMATSU PHOTONICS K.K.',
+  'url': 'https://www.hamamatsu.com/jp/en/our-company/about-crl/index.html'},
+ {'domain': 'www.hamamatsu.com',
+  'firm_name': 'HAMAMATSU PHOTONICS K.K.',
+  'url': 'https://www.hamamatsu.com/all/en/our-company/about-crl/index.html'},
+ {'domain': 'www.hamamatsu.com',
+  'firm_name': 'HAMAMATSU PHOTONICS K.K.',
+  'url': 'https://www.hamamatsu.com/jp/en/our-company/at-a-glance/index.html'},
+ {'domain': 'www.hamamatsu.com',
+  'firm_name': 'HAMAMATSU PHOTONICS K.K.',
+  'url': 'https://www.hamamatsu.com/all/en/our-company/at-a-glance/index.html'},
+ {'domain': 'www.hamamatsu.com',
+  'firm_name': 'HAMAMATSU PHOTONICS K.K.',
+  'url': 'https://www.hamamatsu.com/jp/en/our-company/our-philosophy/index.html'},
+ {'domain': 'www.gsk.com',
+  'firm_name': 'GlaxoSmithKline Biologicals',
+  'url': 'https://www.gsk.com/en-gb/about-us/'},
+ {'domain': 'www.gsk.com',
+  'firm_name': 'GlaxoSmithKline Biologicals',
+  'url': 'https://www.gsk.com/en-gb/about-us/vaccines/'},
+ {'domain': 'www.gsk.com',
+  'firm_name': 'GlaxoSmithKline Biologicals',
+  'url': 'https://www.gsk.com/en-gb/about-us/key-facts/'},
+ {'domain': 'www.gsk.com',
+  'firm_name': 'GlaxoSmithKline Biologicals',
+  'url': 'https://www.gsk.com/en-gb/about-us/governance/'},
+ {'domain': 'www.gsk.com',
+  'firm_name': 'GlaxoSmithKline Biologicals',
+  'url': 'https://www.gsk.com/en-gb/investors/about-gsk/'},
+ {'domain': 'www.gsk.com',
+  'firm_name': 'GlaxoSmithKline Biologicals',
+  'url': 'https://www.gsk.com/en-gb/about-us/our-history/'},
+ {'domain': 'www.gsk.com',
+  'firm_name': 'GlaxoSmithKline Biologicals',
+  'url': 'https://www.gsk.com/en-gb/about-us/pharmaceuticals/'},
+ {'domain': 'www.gsk.com',
+  'firm_name': 'GlaxoSmithKline Biologicals',
+  'url': 'https://www.gsk.com/en-gb/careers/culture-and-values/'},
+ {'domain': 'www.gsk.com',
+  'firm_name': 'GlaxoSmithKline Biologicals',
+  'url': 'https://www.gsk.com/en-gb/about-us/board-of-directors/'},
+ {'domain': 'www.gsk.com',
+  'firm_name': 'GlaxoSmithKline Biologicals',
+  'url': 'https://www.gsk.com/en-gb/about-us/consumer-healthcare/'},
+ {'domain': 'www.gsk.com',
+  'firm_name': 'GlaxoSmithKline Biologicals',
+  'url': 'https://www.gsk.com/en-gb/investors/corporate-reporting/'},
+ {'domain': 'travisindustries.com',
+  'firm_name': 'Travis Industries',
+  'url': 'http://travisindustries.com/news-items.aspx#history'},
+ {'domain': 'www.bemis.com',
+  'firm_name': 'Bemis Company',
+  'url': 'http://www.bemis.com/careers'},
+ {'domain': 'www.bemis.com',
+  'firm_name': 'Bemis Company',
+  'url': 'http://www.bemis.com/about-bemis'},
+ {'domain': 'www.bemis.com',
+  'firm_name': 'Bemis Company',
+  'url': 'http://www.bemis.com/about-bemis/about-us'},
+ {'domain': 'www.bemis.com',
+  'firm_name': 'Bemis Company',
+  'url': 'http://www.bemis.com/about-bemis/citizenship'},
+ {'domain': 'www.bemis.com',
+  'firm_name': 'Bemis Company',
+  'url': 'http://www.bemis.com/about-bemis/sustainability'},
+ {'domain': 'www.bemis.com',
+  'firm_name': 'Bemis Company',
+  'url': 'http://www.bemis.com/about-bemis/bemis-graphics'},
+ {'domain': 'www.bemis.com',
+  'firm_name': 'Bemis Company',
+  'url': 'http://www.bemis.com/about-bemis/corporate-governance'},
+ {'domain': 'www.bemis.com',
+  'firm_name': 'Bemis Company',
+  'url': 'http://www.bemis.com/about-bemis/about-us/our-leadership'},
+ {'domain': 'www.bemis.com',
+  'firm_name': 'Bemis Company',
+  'url': 'http://www.bemis.com/about-bemis/bemis-innovation-center'},
+ {'domain': 'www.bemis.com',
+  'firm_name': 'Bemis Company',
+  'url': 'http://www.bemis.com/about-bemis/about-us/our-work-matters'},
+ {'domain': 'www.bemis.com',
+  'firm_name': 'Bemis Company',
+  'url': 'http://www.bemis.com/about-bemis/citizenship/bemis-company-foundation'},
+ {'domain': 'acorntech.com',
+  'firm_name': 'Acorn Technologies',
+  'url': 'http://acorntech.com/company/'},
+ {'domain': 'acorntech.com',
+  'firm_name': 'Acorn Technologies',
+  'url': 'http://acorntech.com/news/press/'},
+ {'domain': 'acorntech.com',
+  'firm_name': 'Acorn Technologies',
+  'url': 'http://acorntech.com/company/careers/'},
+ {'domain': 'acorntech.com',
+  'firm_name': 'Acorn Technologies',
+  'url': 'http://acorntech.com/company/leadership/'},
+ {'domain': 'acorntech.com',
+  'firm_name': 'Acorn Technologies',
+  'url': 'http://acorntech.com/company/innovation/'},
+ {'domain': 'www.microsemi.com',
+  'firm_name': 'Microsemi SoC Corporation',
+  'url': 'https://www.microsemi.com/company/awards'},
+ {'domain': 'www.microsemi.com',
+  'firm_name': 'Microsemi SoC Corporation',
+  'url': 'https://www.microsemi.com/company/quality'},
+ {'domain': 'www.microsemi.com',
+  'firm_name': 'Microsemi SoC Corporation',
+  'url': 'https://www.microsemi.com/company/about-us'},
+ {'domain': 'www.microsemi.com',
+  'firm_name': 'Microsemi SoC Corporation',
+  'url': 'https://www.microsemi.com/corporate-contacts'},
+ {'domain': 'www.microsemi.com',
+  'firm_name': 'Microsemi SoC Corporation',
+  'url': 'https://www.microsemi.com/company/technology'},
+ {'domain': 'www.microsemi.com',
+  'firm_name': 'Microsemi SoC Corporation',
+  'url': 'https://www.microsemi.com/company/in-the-news'},
+ {'domain': 'www.microsemi.com',
+  'firm_name': 'Microsemi SoC Corporation',
+  'url': 'https://www.microsemi.com/company/acquisitions'},
+ {'domain': 'www.microsemi.com',
+  'firm_name': 'Microsemi SoC Corporation',
+  'url': 'https://www.microsemi.com/company/terms-of-use'},
+ {'domain': 'www.microsemi.com',
+  'firm_name': 'Microsemi SoC Corporation',
+  'url': 'https://www.microsemi.com/company/cookie-policy'},
+ {'domain': 'www.microsemi.com',
+  'firm_name': 'Microsemi SoC Corporation',
+  'url': 'https://www.microsemi.com/company/privacy-policy'},
+ {'domain': 'www.microsemi.com',
+  'firm_name': 'Microsemi SoC Corporation',
+  'url': 'https://www.microsemi.com/company/careers/careers'},
+ {'domain': 'www.atum.bio',
+  'firm_name': 'DNA Twopointo',
+  'url': 'https://www.atum.bio/company'},
+ {'domain': 'www.atum.bio',
+  'firm_name': 'DNA Twopointo',
+  'url': 'https://www.atum.bio/company?mi=82'},
+ {'domain': 'www.atum.bio',
+  'firm_name': 'DNA Twopointo',
+  'url': 'https://www.atum.bio/company?mi=6454'},
+ {'domain': 'www.atum.bio',
+  'firm_name': 'DNA Twopointo',
+  'url': 'https://www.atum.bio/company/careers'},
+ {'domain': 'www.atum.bio',
+  'firm_name': 'DNA Twopointo',
+  'url': 'https://www.atum.bio/company/contact'},
+ {'domain': 'www.atum.bio',
+  'firm_name': 'DNA Twopointo',
+  'url': 'https://www.atum.bio/company/partners'},
+ {'domain': 'www.atum.bio',
+  'firm_name': 'DNA Twopointo',
+  'url': 'https://www.atum.bio/company/news-events'},
+ {'domain': 'www.atum.bio',
+  'firm_name': 'DNA Twopointo',
+  'url': 'https://www.atum.bio/company/news-events/events'},
+ {'domain': 'www.atum.bio',
+  'firm_name': 'DNA Twopointo',
+  'url': 'https://www.atum.bio/company/terms-and-conditions'},
+ {'domain': 'www.atum.bio',
+  'firm_name': 'DNA Twopointo',
+  'url': 'https://www.atum.bio/company/news-events/in-the-news'},
+ {'domain': 'www.atum.bio',
+  'firm_name': 'DNA Twopointo',
+  'url': 'https://www.atum.bio/company/news-events/newsletters'},
+ {'domain': 'daylightsolutions.com',
+  'firm_name': 'Daylight Solutions',
+  'url': 'http://daylightsolutions.com/about-us/'},
+ {'domain': 'daylightsolutions.com',
+  'firm_name': 'Daylight Solutions',
+  'url': 'http://daylightsolutions.com/about-us/blog/'},
+ {'domain': 'daylightsolutions.com',
+  'firm_name': 'Daylight Solutions',
+  'url': 'http://daylightsolutions.com/about-us/events/'},
+ {'domain': 'daylightsolutions.com',
+  'firm_name': 'Daylight Solutions',
+  'url': 'http://daylightsolutions.com/about-us/awards/'},
+ {'domain': 'daylightsolutions.com',
+  'firm_name': 'Daylight Solutions',
+  'url': 'http://daylightsolutions.com/about-us/news-room/'},
+ {'domain': 'daylightsolutions.com',
+  'firm_name': 'Daylight Solutions',
+  'url': 'http://daylightsolutions.com/about-us/contact-us/'},
+ {'domain': 'daylightsolutions.com',
+  'firm_name': 'Daylight Solutions',
+  'url': 'http://daylightsolutions.com/about-us/leadership/'},
+ {'domain': 'daylightsolutions.com',
+  'firm_name': 'Daylight Solutions',
+  'url': 'http://daylightsolutions.com/about-us/contact-us/distributors/'},
+ {'domain': 'daylightsolutions.com',
+  'firm_name': 'Daylight Solutions',
+  'url': 'http://daylightsolutions.com/about-us/contact-us/customer-support/'},
+ {'domain': 'daylightsolutions.com',
+  'firm_name': 'Daylight Solutions',
+  'url': 'http://daylightsolutions.com/home/technology/about-mid-ir-quantum-cascade-lasers/'},
+ {'domain': 'bionanogenomics.com',
+  'firm_name': 'BioNano Genomics',
+  'url': 'https://bionanogenomics.com/company/'},
+ {'domain': 'bionanogenomics.com',
+  'firm_name': 'BioNano Genomics',
+  'url': 'https://bionanogenomics.com/company/distributors/'},
+ {'domain': 'bionanogenomics.com',
+  'firm_name': 'BioNano Genomics',
+  'url': 'https://bionanogenomics.com/company/legal-notices/'},
+ {'domain': 'bionanogenomics.com',
+  'firm_name': 'BioNano Genomics',
+  'url': 'https://bionanogenomics.com/company/senior-management/'},
+ {'domain': 'bionanogenomics.com',
+  'firm_name': 'BioNano Genomics',
+  'url': 'https://bionanogenomics.com/company/board-of-directors/'},
+ {'domain': 'bionanogenomics.com',
+  'firm_name': 'BioNano Genomics',
+  'url': 'https://bionanogenomics.com/company/certified-service-providers/'},
+ {'domain': 'livetv.sx',
+  'firm_name': 'Livetv',
+  'url': 'http://livetv.sx/enx/myteams/'},
+ {'domain': 'www.agcbio.com',
+  'firm_name': 'CMC ICOS BIOLOGICS',
+  'url': 'http://www.agcbio.com/about_us'},
+ {'domain': 'www.agcbio.com',
+  'firm_name': 'CMC ICOS BIOLOGICS',
+  'url': 'http://www.agcbio.com/join_our_team'},
+ {'domain': 'www.agcbio.com',
+  'firm_name': 'CMC ICOS BIOLOGICS',
+  'url': 'http://www.agcbio.com/about/our_history'},
+ {'domain': 'www.agcbio.com',
+  'firm_name': 'CMC ICOS BIOLOGICS',
+  'url': 'http://www.agcbio.com/joinourteam/usa_careers'},
+ {'domain': 'www.agcbio.com',
+  'firm_name': 'CMC ICOS BIOLOGICS',
+  'url': 'http://www.agcbio.com/joinourteam/our_benefits'},
+ {'domain': 'www.agcbio.com',
+  'firm_name': 'CMC ICOS BIOLOGICS',
+  'url': 'http://www.agcbio.com/about/executive_management'},
+ {'domain': 'www.agcbio.com',
+  'firm_name': 'CMC ICOS BIOLOGICS',
+  'url': 'http://www.agcbio.com/about/environmental_policy'},
+ {'domain': 'www.agcbio.com',
+  'firm_name': 'CMC ICOS BIOLOGICS',
+  'url': 'http://www.agcbio.com/joinourteam/copenhagen_careers'},
+ {'domain': 'www.agcbio.com',
+  'firm_name': 'CMC ICOS BIOLOGICS',
+  'url': 'http://www.agcbio.com/joinourteam/heidelberg_careers_agc'},
+ {'domain': 'ag.energy',
+  'firm_name': 'AG ENERGY SOLUTIONS',
+  'url': 'https://ag.energy/about/'},
+ {'domain': 'ag.energy',
+  'firm_name': 'AG ENERGY SOLUTIONS',
+  'url': 'https://ag.energy/about-2/'},
+ {'domain': 'www.glycon.com',
+  'firm_name': 'GLYCON LLC',
+  'url': 'http://www.glycon.com/history'},
+ {'domain': 'www.glycon.com',
+  'firm_name': 'GLYCON LLC',
+  'url': 'http://www.glycon.com/history/what-s-new'},
+ {'domain': 'www.glycon.com',
+  'firm_name': 'GLYCON LLC',
+  'url': 'http://www.glycon.com/history/terms-and-conditions'},
+ {'domain': 'www.atonometrics.com',
+  'firm_name': 'Atonometrics',
+  'url': 'http://www.atonometrics.com/about/'},
+ {'domain': 'www.atonometrics.com',
+  'firm_name': 'Atonometrics',
+  'url': 'http://www.atonometrics.com/atonometrics-has-shipped-over-600-soiling-measurement-systems-worldwide-ask-us-about-our-new-mars-optical-soiling-sensor/'},
+ {'domain': 'www.nanotechbio.com',
+  'firm_name': 'Nanotech Biomachines',
+  'url': 'http://www.nanotechbio.com/team/'},
+ {'domain': 'www.nanotechbio.com',
+  'firm_name': 'Nanotech Biomachines',
+  'url': 'http://www.nanotechbio.com/support/'},
+ {'domain': 'www.dow.com',
+  'firm_name': 'Dow Global Technologies Inc.',
+  'url': 'https://www.dow.com/en-us/about-dow/locations?region=%7Bc1e574c8-092c-4d78-bbbf-839c8ae13c4d%7D'},
+ {'domain': 'www.dow.com',
+  'firm_name': 'Dow Global Technologies Inc.',
+  'url': 'https://www.dow.com/en-us/about-dow/locations?region=%7Bc1246c44-a166-4876-b3ea-d07e58979cd9%7D'},
+ {'domain': 'www.dow.com',
+  'firm_name': 'Dow Global Technologies Inc.',
+  'url': 'https://www.dow.com/en-us/about-dow/locations?region=%7B6228b4b7-9cbb-4c7c-b64e-f4317f16bad7%7D'},
+ {'domain': 'www.dow.com',
+  'firm_name': 'Dow Global Technologies Inc.',
+  'url': 'https://www.dow.com/en-us/about-dow/locations?region=%7Bdf3ae7db-9b29-49c9-a9d9-2841a7eb638b%7D'},
+ {'domain': 'www.dow.com',
+  'firm_name': 'Dow Global Technologies Inc.',
+  'url': 'https://www.dow.com/en-us/about-dow/locations?region=%7Bc89a10b2-135e-404c-9ae7-11814eb94ed4%7D'},
+ {'domain': 'www.dow.com',
+  'firm_name': 'Dow Global Technologies Inc.',
+  'url': 'https://www.dow.com/en-us/about-dow/locations?region=%7Bbdf04b3f-f624-4eb9-9e33-978b33d9e1b6%7D'},
+ {'domain': 'www.oracle.com',
+  'firm_name': 'Oracle International Corporation',
+  'url': 'https://www.oracle.com/#open'},
+ {'domain': 'www.oracle.com',
+  'firm_name': 'Oracle International Corporation',
+  'url': 'https://www.oracle.com/#back'},
+ {'domain': 'www.oracle.com',
+  'firm_name': 'Oracle International Corporation',
+  'url': 'https://www.oracle.com/cloud/'},
+ {'domain': 'www.oracle.com',
+  'firm_name': 'Oracle International Corporation',
+  'url': 'https://www.oracle.com/corporate/'},
+ {'domain': 'www.oracle.com',
+  'firm_name': 'Oracle International Corporation',
+  'url': 'https://www.oracle.com/corporate/#info'},
+ {'domain': 'www.oracle.com',
+  'firm_name': 'Oracle International Corporation',
+  'url': 'https://www.oracle.com/corporate/press/'},
+ {'domain': 'www.oracle.com',
+  'firm_name': 'Oracle International Corporation',
+  'url': 'https://www.oracle.com/corporate/pricing/'},
+ {'domain': 'www.oracle.com',
+  'firm_name': 'Oracle International Corporation',
+  'url': 'https://www.oracle.com/corporate/careers/'},
+ {'domain': 'www.oracle.com',
+  'firm_name': 'Oracle International Corporation',
+  'url': 'https://www.oracle.com/corporate/cvc.html'},
+ {'domain': 'www.oracle.com',
+  'firm_name': 'Oracle International Corporation',
+  'url': 'https://www.oracle.com/corporate/contact/'},
+ {'domain': 'www.oracle.com',
+  'firm_name': 'Oracle International Corporation',
+  'url': 'https://www.oracle.com/enterprise-manager/'},
+ {'domain': 'www.thermofisher.com',
+  'firm_name': 'Life Technologies Corporation',
+  'url': 'https://www.thermofisher.com/us/en/home/about-us/events.html'},
+ {'domain': 'www.thermofisher.com',
+  'firm_name': 'Life Technologies Corporation',
+  'url': 'https://www.thermofisher.com/us/en/home/about-us/partnering-licensing.html'},
+ {'domain': 'www.thermofisher.com',
+  'firm_name': 'Life Technologies Corporation',
+  'url': 'https://www.thermofisher.com/us/en/home/life-science/sample-storage-management.html'},
+ {'domain': 'www.thermofisher.com',
+  'firm_name': 'Life Technologies Corporation',
+  'url': 'https://www.thermofisher.com/us/en/home/about-us/corporate-social-responsibility.html'},
+ {'domain': 'www.thermofisher.com',
+  'firm_name': 'Life Technologies Corporation',
+  'url': 'https://www.thermofisher.com/us/en/home/life-science/lab-data-management-analysis-software.html'},
+ {'domain': 'www.thermofisher.com',
+  'firm_name': 'Life Technologies Corporation',
+  'url': 'https://www.thermofisher.com/us/en/home/about-us/partnering-licensing/oem-commercial-supply.html'},
+ {'domain': 'www.thermofisher.com',
+  'firm_name': 'Life Technologies Corporation',
+  'url': 'https://www.thermofisher.com/us/en/home/life-science/lab-data-management-analysis-software/lab-apps.html'},
+ {'domain': 'www.thermofisher.com',
+  'firm_name': 'Life Technologies Corporation',
+  'url': 'https://www.thermofisher.com/us/en/home/life-science/lab-data-management-analysis-software/lab-apps/cell-staining-tool.html'},
+ {'domain': 'www.thermofisher.com',
+  'firm_name': 'Life Technologies Corporation',
+  'url': 'https://www.thermofisher.com/us/en/home/life-science/lab-data-management-analysis-software/enterprise-level-lab-informatics.html'},
+ {'domain': 'inanobio.com',
+  'firm_name': 'iNanoBio LLC',
+  'url': 'http://inanobio.com/team.php'},
+ {'domain': 'inanobio.com',
+  'firm_name': 'iNanoBio LLC',
+  'url': 'http://inanobio.com/aboutus.php'},
+ {'domain': 'www.armageddonenergy.com',
+  'firm_name': 'Armageddon Energy Inc.',
+  'url': 'https://www.armageddonenergy.com/company/'},
+ {'domain': 'www.unity-sc.com',
+  'firm_name': 'Unity Semiconductor Corporation',
+  'url': 'http://www.unity-sc.com/company/'},
+ {'domain': 'www.unity-sc.com',
+  'firm_name': 'Unity Semiconductor Corporation',
+  'url': 'http://www.unity-sc.com/company/network/'},
+ {'domain': 'www.unity-sc.com',
+  'firm_name': 'Unity Semiconductor Corporation',
+  'url': 'http://www.unity-sc.com/company/contact/'},
+ {'domain': 'www.unity-sc.com',
+  'firm_name': 'Unity Semiconductor Corporation',
+  'url': 'http://www.unity-sc.com/company/services/'},
+ {'domain': 'www.unity-sc.com',
+  'firm_name': 'Unity Semiconductor Corporation',
+  'url': 'http://www.unity-sc.com/company/missionvision/'},
+ {'domain': 'www.unity-sc.com',
+  'firm_name': 'Unity Semiconductor Corporation',
+  'url': 'http://www.unity-sc.com/company/legal-statement/'},
+ {'domain': 'www.unity-sc.com',
+  'firm_name': 'Unity Semiconductor Corporation',
+  'url': 'http://www.unity-sc.com/unity-sc-fogale-nanotech-company-disclosed-two-new-metrology-solutions-advanced-packaging-applications/'},
+ {'domain': 'www.acer.com',
+  'firm_name': 'Acer Incorporated',
+  'url': 'https://www.acer.com/ac/en/US/content/en/US/content/csr'},
+ {'domain': 'www.acer.com',
+  'firm_name': 'Acer Incorporated',
+  'url': 'https://www.acer.com/ac/en/US/content/en/US/content/my-profile'},
+ {'domain': 'elementonescreens.com',
+  'firm_name': 'Element One',
+  'url': 'http://elementonescreens.com/element-one/team/'},
+ {'domain': 'elementonescreens.com',
+  'firm_name': 'Element One',
+  'url': 'http://elementonescreens.com/element-one/vision/'},
+ {'domain': 'elementonescreens.com',
+  'firm_name': 'Element One',
+  'url': 'http://elementonescreens.com/unser-vertriebsteam-sucht-verstaerkung/'},
+ {'domain': 'www.saint-gobain-abrasives.com',
+  'firm_name': 'SAINT-GOBAIN ABRASIFS',
+  'url': 'https://www.saint-gobain-abrasives.com/en-us/about-us'},
+ {'domain': 'www.saint-gobain-abrasives.com',
+  'firm_name': 'SAINT-GOBAIN ABRASIFS',
+  'url': 'https://www.saint-gobain-abrasives.com/en-us/proud-our-history'},
+ {'domain': 'www.saint-gobain-abrasives.com',
+  'firm_name': 'SAINT-GOBAIN ABRASIFS',
+  'url': 'https://www.saint-gobain-abrasives.com/en-us/corporate-social-responsibility'},
+ {'domain': 'www.saint-gobain-abrasives.com',
+  'firm_name': 'SAINT-GOBAIN ABRASIFS',
+  'url': 'https://www.saint-gobain-abrasives.com/en-us/newsroom/news/norton-primary-sponsor-usa-luge-team'},
+ {'domain': 'www.saint-gobain-abrasives.com',
+  'firm_name': 'SAINT-GOBAIN ABRASIFS',
+  'url': 'https://www.saint-gobain-abrasives.com/en-us/newsroom/news/abrasives-supply-tool-sharpening-company'},
+ {'domain': 'www.saint-gobain-abrasives.com',
+  'firm_name': 'SAINT-GOBAIN ABRASIFS',
+  'url': 'https://www.saint-gobain-abrasives.com/en-us/newsroom/press_releases/saint-gobain-recognized-%C2%A02018-corporate-equality-index'},
+ {'domain': 'www.broadcom.com',
+  'firm_name': 'BROADCOM CORPORATION',
+  'url': 'https://www.broadcom.com/#'},
+ {'domain': 'www.broadcom.com',
+  'firm_name': 'BROADCOM CORPORATION',
+  'url': 'https://www.broadcom.com/company/'},
+ {'domain': 'www.broadcom.com',
+  'firm_name': 'BROADCOM CORPORATION',
+  'url': 'https://www.broadcom.com/#company-0'},
+ {'domain': 'www.broadcom.com',
+  'firm_name': 'BROADCOM CORPORATION',
+  'url': 'https://www.broadcom.com/#company-2'},
+ {'domain': 'www.broadcom.com',
+  'firm_name': 'BROADCOM CORPORATION',
+  'url': 'https://www.broadcom.com/#company-3'},
+ {'domain': 'www.broadcom.com',
+  'firm_name': 'BROADCOM CORPORATION',
+  'url': 'https://www.broadcom.com/#company-4'},
+ {'domain': 'www.broadcom.com',
+  'firm_name': 'BROADCOM CORPORATION',
+  'url': 'https://www.broadcom.com/#company-6'},
+ {'domain': 'www.broadcom.com',
+  'firm_name': 'BROADCOM CORPORATION',
+  'url': 'https://www.broadcom.com/#company-7'},
+ {'domain': 'www.broadcom.com',
+  'firm_name': 'BROADCOM CORPORATION',
+  'url': 'https://www.broadcom.com/company/news/'},
+ {'domain': 'www.broadcom.com',
+  'firm_name': 'BROADCOM CORPORATION',
+  'url': 'https://www.broadcom.com/company/careers/'},
+ {'domain': 'www.broadcom.com',
+  'firm_name': 'BROADCOM CORPORATION',
+  'url': 'https://www.broadcom.com/company/contact/'},
+ {'domain': 'www.dictionary.com',
+  'firm_name': 'DIC Corporation',
+  'url': 'https://www.dictionary.com/e/about/'},
+ {'domain': 'grampower.com',
+  'firm_name': 'Gram Power',
+  'url': 'https://grampower.com/about-us/join-us.html'},
+ {'domain': 'grampower.com',
+  'firm_name': 'Gram Power',
+  'url': 'https://grampower.com/about-us/about-us.html'},
+ {'domain': 'grampower.com',
+  'firm_name': 'Gram Power',
+  'url': 'https://grampower.com/about-us/our-team.html'},
+ {'domain': 'esolar.solar',
+  'firm_name': 'Esolar',
+  'url': 'http://esolar.solar/about'},
+ {'domain': 'www.ormat.com',
+  'firm_name': 'Ormat Technologies Inc.',
+  'url': 'https://www.ormat.com/en/company/contact/main'},
+ {'domain': 'www.ormat.com',
+  'firm_name': 'Ormat Technologies Inc.',
+  'url': 'https://www.ormat.com/en/company/careers/main/'},
+ {'domain': 'www.ormat.com',
+  'firm_name': 'Ormat Technologies Inc.',
+  'url': 'https://www.ormat.com/en/company/welcome/history'},
+ {'domain': 'www.ormat.com',
+  'firm_name': 'Ormat Technologies Inc.',
+  'url': 'https://www.ormat.com/en/company/welcome/profile/'},
+ {'domain': 'www.ormat.com',
+  'firm_name': 'Ormat Technologies Inc.',
+  'url': 'https://www.ormat.com/en/company/welcome/leadership'},
+ {'domain': 'www.ormat.com',
+  'firm_name': 'Ormat Technologies Inc.',
+  'url': 'https://www.ormat.com/en/company/welcome/governance/'},
+ {'domain': 'www.ormat.com',
+  'firm_name': 'Ormat Technologies Inc.',
+  'url': 'https://www.ormat.com/en/company/welcome/manufacturing/'},
+ {'domain': 'www.ormat.com',
+  'firm_name': 'Ormat Technologies Inc.',
+  'url': 'https://www.ormat.com/en/company/general/view/?ContentID=140'},
+ {'domain': 'www.ormat.com',
+  'firm_name': 'Ormat Technologies Inc.',
+  'url': 'https://www.ormat.com/en/company/welcome/mission-and-values/'},
+ {'domain': 'www.ormat.com',
+  'firm_name': 'Ormat Technologies Inc.',
+  'url': 'https://www.ormat.com/en/company/general/view/?ContentID=289'},
+ {'domain': 'www.ormat.com',
+  'firm_name': 'Ormat Technologies Inc.',
+  'url': 'https://www.ormat.com/en/company/general/view/?ContentID=290'},
+ {'domain': 'ci4.us',
+  'firm_name': 'CI4 Technologies',
+  'url': 'http://ci4.us/about'},
+ {'domain': 'ci4.us',
+  'firm_name': 'CI4 Technologies',
+  'url': 'http://ci4.us/infosci-cautions-federal-lawmakers-about-security-vulnerabilities-in-distributed-ledger-technology/'},
+ {'domain': 'www.lintec-global.com',
+  'firm_name': 'Lintec Corporation',
+  'url': 'http://www.lintec-global.com/about/'},
+ {'domain': 'www.lintec-global.com',
+  'firm_name': 'Lintec Corporation',
+  'url': 'http://www.lintec-global.com/about/motto/'},
+ {'domain': 'www.lintec-global.com',
+  'firm_name': 'Lintec Corporation',
+  'url': 'http://www.lintec-global.com/about/message/'},
+ {'domain': 'www.lintec-global.com',
+  'firm_name': 'Lintec Corporation',
+  'url': 'http://www.lintec-global.com/about/history/'},
+ {'domain': 'www.lintec-global.com',
+  'firm_name': 'Lintec Corporation',
+  'url': 'http://www.lintec-global.com/about/network/'},
+ {'domain': 'www.lintec-global.com',
+  'firm_name': 'Lintec Corporation',
+  'url': 'http://www.lintec-global.com/ir/management/'},
+ {'domain': 'www.lintec-global.com',
+  'firm_name': 'Lintec Corporation',
+  'url': 'http://www.lintec-global.com/about/overview/'},
+ {'domain': 'www.lintec-global.com',
+  'firm_name': 'Lintec Corporation',
+  'url': 'http://www.lintec-global.com/about/brochure/book/'},
+ {'domain': 'www.lintec-global.com',
+  'firm_name': 'Lintec Corporation',
+  'url': 'http://www.lintec-global.com/about/country/japan.html'},
+ {'domain': 'www.lintec-global.com',
+  'firm_name': 'Lintec Corporation',
+  'url': 'http://www.lintec-global.com/about/country/americas.html'},
+ {'domain': 'www.lintec-global.com',
+  'firm_name': 'Lintec Corporation',
+  'url': 'http://www.lintec-global.com/about/country/eme.html#anc04'},
+ {'domain': 'nanotekinstruments.com',
+  'firm_name': 'Nanotek Instruments',
+  'url': 'http://nanotekinstruments.com/about-us/'},
+ {'domain': 'www.angaza.com',
+  'firm_name': 'Angaza Design',
+  'url': 'https://www.angaza.com/about/'},
+ {'domain': 'amberwave.com',
+  'firm_name': 'Amberwave Inc.',
+  'url': 'http://amberwave.com/about.html'},
+ {'domain': 'www.kulite.com',
+  'firm_name': 'Kulite Semiconductor Products',
+  'url': 'https://www.kulite.com/company/'},
+ {'domain': 'www.kulite.com',
+  'firm_name': 'Kulite Semiconductor Products',
+  'url': 'https://www.kulite.com/company/news/'},
+ {'domain': 'www.kulite.com',
+  'firm_name': 'Kulite Semiconductor Products',
+  'url': 'https://www.kulite.com/company/events/'},
+ {'domain': 'www.kulite.com',
+  'firm_name': 'Kulite Semiconductor Products',
+  'url': 'https://www.kulite.com/company/history/'},
+ {'domain': 'www.kulite.com',
+  'firm_name': 'Kulite Semiconductor Products',
+  'url': 'https://www.kulite.com/company/contact-info/'},
+ {'domain': 'www.kulite.com',
+  'firm_name': 'Kulite Semiconductor Products',
+  'url': 'https://www.kulite.com/company/mission-statement/'},
+ {'domain': 'www.kulite.com',
+  'firm_name': 'Kulite Semiconductor Products',
+  'url': 'https://www.kulite.com/company/customer-resources/'},
+ {'domain': 'www.kulite.com',
+  'firm_name': 'Kulite Semiconductor Products',
+  'url': 'https://www.kulite.com/company/community-engagement/'},
+ {'domain': 'www.kulite.com',
+  'firm_name': 'Kulite Semiconductor Products',
+  'url': 'https://www.kulite.com/company/corporate-responsibility/'},
+ {'domain': 'www.kulite.com',
+  'firm_name': 'Kulite Semiconductor Products',
+  'url': 'https://www.kulite.com/company/supplier-code-of-conduct/'},
+ {'domain': 'www.capsugel.com',
+  'firm_name': 'Bend Research',
+  'url': 'https://www.capsugel.com/about-capsugel'},
+ {'domain': 'www.capsugel.com',
+  'firm_name': 'Bend Research',
+  'url': 'https://www.capsugel.com/now-a-lonza-company'},
+ {'domain': 'www.christiedigital.com',
+  'firm_name': 'Christie Digital Systems',
+  'url': 'https://www.christiedigital.com/'},
+ {'domain': 'www.christiedigital.com',
+  'firm_name': 'Christie Digital Systems',
+  'url': 'https://www.christiedigital.com/en-us/about-christie'},
+ {'domain': 'www.christiedigital.com',
+  'firm_name': 'Christie Digital Systems',
+  'url': 'https://www.christiedigital.com/en-us/about-christie/careers'},
+ {'domain': 'www.christiedigital.com',
+  'firm_name': 'Christie Digital Systems',
+  'url': 'https://www.christiedigital.com/en-us/about-christie/news-room'},
+ {'domain': 'www.christiedigital.com',
+  'firm_name': 'Christie Digital Systems',
+  'url': 'https://www.christiedigital.com/en-us/about-christie/contact-us'},
+ {'domain': 'www.christiedigital.com',
+  'firm_name': 'Christie Digital Systems',
+  'url': 'https://www.christiedigital.com/en-us/about-christie/cookie-notice'},
+ {'domain': 'www.christiedigital.com',
+  'firm_name': 'Christie Digital Systems',
+  'url': 'https://www.christiedigital.com/en-us/about-christie/privacy-policy'},
+ {'domain': 'www.christiedigital.com',
+  'firm_name': 'Christie Digital Systems',
+  'url': 'https://www.christiedigital.com/en-us/about-christie/sustainability'},
+ {'domain': 'www.christiedigital.com',
+  'firm_name': 'Christie Digital Systems',
+  'url': 'https://www.christiedigital.com/en-us/about-christie/executive-profiles'},
+ {'domain': 'www.christiedigital.com',
+  'firm_name': 'Christie Digital Systems',
+  'url': 'https://www.christiedigital.com/en-us/about-christie/christie-locations'},
+ {'domain': 'www.christiedigital.com',
+  'firm_name': 'Christie Digital Systems',
+  'url': 'https://www.christiedigital.com/en-us/about-christie/terms-and-conditions'},
+ {'domain': 'pidc.com',
+  'firm_name': 'Pacific Industrial Development Corporation',
+  'url': 'http://pidc.com/our-company'},
+ {'domain': 'pidc.com',
+  'firm_name': 'Pacific Industrial Development Corporation',
+  'url': 'http://pidc.com/our-company/news'},
+ {'domain': 'pidc.com',
+  'firm_name': 'Pacific Industrial Development Corporation',
+  'url': 'http://pidc.com/our-company/careers'},
+ {'domain': 'pidc.com',
+  'firm_name': 'Pacific Industrial Development Corporation',
+  'url': 'http://pidc.com/our-company/locations'},
+ {'domain': 'pidc.com',
+  'firm_name': 'Pacific Industrial Development Corporation',
+  'url': 'http://pidc.com/our-company/media-kit'},
+ {'domain': 'pidc.com',
+  'firm_name': 'Pacific Industrial Development Corporation',
+  'url': 'http://pidc.com/our-company/management-team'},
+ {'domain': 'pidc.com',
+  'firm_name': 'Pacific Industrial Development Corporation',
+  'url': 'http://pidc.com/our-company/corporate-overview'},
+ {'domain': 'pidc.com',
+  'firm_name': 'Pacific Industrial Development Corporation',
+  'url': 'http://pidc.com/our-company/news/pacific-industrial-development-corp-expanding-pittsfield-township-investing-172'},
+ {'domain': 'www.wikipad.com',
+  'firm_name': 'Wikipad',
+  'url': 'http://www.wikipad.com/'},
+ {'domain': 'trucent.com',
+  'firm_name': 'Valicor',
+  'url': 'http://trucent.com/'},
+ {'domain': 'www.zon.si', 'firm_name': 'ZON', 'url': 'https://www.zon.si/'},
+ {'domain': 'www.verliantenergy.com',
+  'firm_name': 'Verliant Energy',
+  'url': 'http://www.verliantenergy.com/'},
+ {'domain': 'www.xyleco.com',
+  'firm_name': 'Xyleco',
+  'url': 'https://www.xyleco.com/'},
+ {'domain': 'www.tessera.com',
+  'firm_name': 'Tessera',
+  'url': 'https://www.tessera.com/'},
+ {'domain': 'www.thorlabs.com',
+  'firm_name': 'Thorlabs',
+  'url': 'http://www.thorlabs.com/'},
+ {'domain': 'suganit.com',
+  'firm_name': 'Suganit Systems',
+  'url': 'http://suganit.com/'},
+ {'domain': 'www.starlightenergy.us',
+  'firm_name': 'Starlight Energy Holdings LLC',
+  'url': 'http://www.starlightenergy.us/'},
+ {'domain': 'stablcor.com',
+  'firm_name': 'Stablcor Technology',
+  'url': 'http://stablcor.com/'},
+ {'domain': 'www.solight.com',
+  'firm_name': 'Solight Solar',
+  'url': 'http://www.solight.com/'},
+ {'domain': 'solazyme.com',
+  'firm_name': 'SOLAZYME',
+  'url': 'http://solazyme.com/'},
+ {'domain': 'www.ako2.us.army.mil',
+  'firm_name': 'Kao Corporation',
+  'url': 'https://www.ako2.us.army.mil/local/pre-acceptance.html'},
+ {'domain': 'www.singularbio.com',
+  'firm_name': 'Singular Bio',
+  'url': 'https://www.singularbio.com/'},
+ {'domain': 'selmanlog.com',
+  'firm_name': 'SELMAN AND ASSOCIATES',
+  'url': 'https://selmanlog.com/Default.aspx'},
+ {'domain': 'www.sigmaaldrich.com',
+  'firm_name': 'Sigma-Aldrich Co. LLC',
+  'url': 'https://www.sigmaaldrich.com/'},
+ {'domain': 'www.shoals.com',
+  'firm_name': 'Shoals Technologies Group',
+  'url': 'https://www.shoals.com/'},
+ {'domain': 'www.rockwellautomation.com',
+  'firm_name': 'Rockwell Automation Technologies',
+  'url': 'https://www.rockwellautomation.com/site-selection.html'},
+ {'domain': 'quantapore.com',
+  'firm_name': 'Quantapore',
+  'url': 'https://quantapore.com/'},
+ {'domain': 'nanotechlubricantsinc.com',
+  'firm_name': 'NanoTech Lubricants',
+  'url': 'http://nanotechlubricantsinc.com/Home.html'},
+ {'domain': 'research.synaptic.co.uk',
+  'firm_name': 'Synaptic Research',
+  'url': 'https://research.synaptic.co.uk/SynapticResearch/login.asp?t=98266&page=/Default.asp?'},
+ {'domain': 'new.sirnaomics.com',
+  'firm_name': 'Sirnaomics',
+  'url': 'http://new.sirnaomics.com/'},
+ {'domain': 'plasmatherm.com',
+  'firm_name': 'Plasma-Therm',
+  'url': 'http://plasmatherm.com/index.html'},
+ {'domain': 'www.pelliontech.com',
+  'firm_name': 'PELLION TECHNOLOGIES',
+  'url': 'http://www.pelliontech.com/'},
+ {'domain': 'www.ostendo.com',
+  'firm_name': 'Ostendo Technologies',
+  'url': 'https://www.ostendo.com/'},
+ {'domain': 'kinetechpower.com',
+  'firm_name': 'Kinetech Power Company LLC',
+  'url': 'https://kinetechpower.com/'},
+ {'domain': 'www.oculus.com',
+  'firm_name': 'Oculus VR',
+  'url': 'https://www.oculus.com/'},
+ {'domain': 'neumedicines.com',
+  'firm_name': 'Neumedicines',
+  'url': 'http://neumedicines.com/'},
+ {'domain': 'www.nanogram.com',
+  'firm_name': 'NanoGram Corporation',
+  'url': 'http://www.nanogram.com/home/'},
+ {'domain': 'www.mci.com',
+  'firm_name': 'MCI',
+  'url': 'http://www.mci.com/mcihome.jsp'},
+ {'domain': 'port-a-fire.ca',
+  'firm_name': 'PortaFire',
+  'url': 'http://port-a-fire.ca/'},
+ {'domain': 'www.sunspecialtyproducts.com',
+  'firm_name': 'Sun Drilling Products Corporation',
+  'url': 'https://www.sunspecialtyproducts.com/'},
+ {'domain': 'opelinc.com',
+  'firm_name': 'Opel Solar',
+  'url': 'http://opelinc.com/'},
+ {'domain': 'www.proterra.com',
+  'firm_name': 'Proterra Inc.',
+  'url': 'https://www.proterra.com/'},
+ {'domain': 'medport.com',
+  'firm_name': 'MEDport',
+  'url': 'https://medport.com/'}]
+Missing  in the fixed urls list
+Pages to scrape: ['https://weccamerica.com/about/', 'http://www.sysmex.com.vn/', 'https://www.wca-group.com/about-us/', 'https://www.res-usa.com/about-res-contractors/', 'http://www.neuralsignals.com/?page_id=29', 'https://morpho.com/en/about-us', 'https://morpho.com/en/about-us#1', 'https://morpho.com/en/about-us#2', 'https://morpho.com/en/about-us#3', 'https://morpho.com/en/about-us#4', 'https://morpho.com/en/about-us#5', 'https://morpho.com/en/about-us#6', 'http://www.morpho.com/en/about-us#2', 'http://latitudepharma.com/the-latitude-team/', 'https://discoverybiomed.com/about/', 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona.html', 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/history.html', 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/education.html', 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/innovation.html', 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/mission-vision.html', 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/executive-team.html', 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/compliance-ethics.html', 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/board-of-directors.html', 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/innovation/certifications.html', 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/executive-team/nick-alexos.html', 'https://corporate.dentsplysirona.com/en/about-dentsply-sirona/executive-team/donald-casey.html', 'https://www.golfdigest.co.jp/company/privacy.html', 'https://www.golfdigest.co.jp/company/recruit/index.html?car=top_hr_b', 'https://www.ofsoptics.com/about/', 'https://www.ofsoptics.com/our-values/', 'https://www.ofsoptics.com/dispersion-management/', 'https://www.ofsoptics.com/executive-leadership-team/', 'http://www.dowagro.com/en-us/about-dow-agrosciences', 'http://www.dowagro.com/en-us/about-dow-agrosciences/commitment', 'http://www.dowagro.com/en-us/newsroom/pressreleases/2018/02/dowdupont-agriculture-division-to-become-corteva-agriscience', 'http://www.crestovo.com/about/#contact-us', 'https://www.clearsign.com/our-team/', 'https://agriculture.basf.com/content/bws/north-america/us/en/company.html', 'https://en.tdk-electronics.tdk.com/tdk-en/373402/company', 'https://en.tdk-electronics.tdk.com/tdk-en/1191210/company/about-us', 'https://en.tdk-electronics.tdk.com/tdk-en/2302164/careers/about-us', 'https://en.tdk-electronics.tdk.com/tdk-en/1192046/company/tdk-group', 'https://en.tdk-electronics.tdk.com/tdk-en/1190708/company/tdk-europe', 'https://en.tdk-electronics.tdk.com/tdk-en/373394/company/press-center', 'https://en.tdk-electronics.tdk.com/tdk-en/180286/company/trade-fairs-events', 'https://en.tdk-electronics.tdk.com/tdk-en/519514/company/customer-news-service', 'https://en.tdk-electronics.tdk.com/tdk-en/180414/contact/company-related-inquiry', 'https://en.tdk-electronics.tdk.com/tdk-en/180314/company/environmental-protection', 'https://en.tdk-electronics.tdk.com/tdk-en/180332/company/tdk-electronics-worldwide', 'https://allurausa.com/about', 'http://www.perkinelmer.com/corporate', 'http://www.perkinelmer.com/corporate/training', 'http://www.perkinelmer.com/corporate/stories/', 'http://www.perkinelmer.com/company/index.html', 'http://www.perkinelmer.com/corporate/policies/', 'http://www.perkinelmer.com/corporate/investors/', 'http://www.perkinelmer.com/corporate/press-room/', 'http://www.perkinelmer.com/category/gas-management', 'http://www.perkinelmer.com/corporate/events/index.html', 'http://www.perkinelmer.com/corporate/careers/index.html', 'http://www.perkinelmer.com/corporate/what-we-do/markets/', 'http://taurx.com/about-us/', 'https://lrri.org/about-our-companies', 'https://lrri.org/about-our-companies/rpoc', 'https://lrri.org/about-our-companies/our-board', 'https://lrri.org/about-our-companies/our-history', 'http://www.gliknik.com/about/', 'http://www.gliknik.com/how-we-work/', 'http://www.gliknik.com/about/our-board/', 'http://www.gliknik.com/about/investors/', 'http://www.gliknik.com/about/how-we-work/', 'http://www.gliknik.com/about/our-leadership-team/', 'http://www.gliknik.com/clinical-programs/gl-2045/', 'http://www.gliknik.com/about/message-from-the-ceo/', 'http://www.gliknik.com/clinical-programs/biropepimut-s-gl-0817/', 'http://acinter.com/aboutus.htm', 'https://canon-biomedical.com/online/portal/vp7/bio/aboutus', 'https://canon-biomedical.com/online/portal/vp7/bio/aboutus/business', 'https://canon-biomedical.com/online/portal/vp7/bio/aboutus/leadership', 'https://canon-biomedical.com/online/portal/vp7/bio/aboutus/newsandevents', 'http://2blades.org/our-team/', 'http://2blades.org/2bf/about/', 'http://2blades.org/about-2blades/', 'http://2blades.org/our-team/#1-management-and-directors', 'http://2blades.org/our-team/#3-scientific-advisory-board', 'http://2blades.org/our-team/#2-blades-group-the-sainsbury-laboratory', 'https://www.brewerscience.com/about-us/', 'https://www.brewerscience.com/about-us/awards/', 'https://www.brewerscience.com/about-us/privacy/', 'https://www.brewerscience.com/about-us/company/', 'https://www.brewerscience.com/about-us/newsroom/', 'https://www.brewerscience.com/about-us/locations/', 'https://www.brewerscience.com/about-us/what-we-do/', 'https://www.brewerscience.com/about-us/partnerships/', 'https://www.brewerscience.com/about-us/community-giving/', 'https://www.brewerscience.com/about-us/partnerships/itri', 'https://www.brewerscience.com/about-us/partnerships/nist/', 'http://www.ibm.com/ibm/us/en/?lnk=fab', 'http://www.ibm.com/ibm/responsibility/?lnk=fab', 'https://www.ibm.com/collaboration?lnk=hpmpr_buso&lnk2=learn', 'https://www.ibm.com/talent-management?lnk=hmhpmpr_buta&lnk2=learn', 'https://www.ibm.com/analytics/us/en/data-management/?lnk=hpmpr_bua&lnk2=learn', 'https://www.ibm.com/automation/software/content-management?lnk=hpmpr_buau&lnk2=learn', 'https://www.ibm.com/talent-management/ai-in-hr-business-case?lnk=ushpv18l1&lnk2=learn', 'https://www.ibm.com/thought-leadership/smart/?lnk=ushpv18s1&lnk2=learn#tab_plasticbank', 'https://www.ibm.com/analytics/us/en/enterprise-content-management/?lnk=hpmpr_bua&lnk2=learn', 'https://www.ibm.com/automation/software/business-rules-management?lnk=hpmpr_buau&lnk2=learn', 'https://www.ibm.com/analytics/us/en/financial-performance-management/?lnk=hpmpr_bua&lnk2=learn', 'https://www.accessbusinessgroup.com/about-abg/', 'https://global-sei.com/rss/', 'https://global-sei.com/company/', 'https://global-sei.com/company/120th', 'https://global-sei.com/company/news/', 'https://global-sei.com/csr/risk.html', 'https://global-sei.com/company/press/', 'https://global-sei.com/company/group/', 'https://global-sei.com/ir/management/', 'https://global-sei.com/company/office/', 'https://global-sei.com/company/brand.html', 'https://global-sei.com/company/vision.html', 'http://www.advancedsilicongroup.com/our-team.html', 'https://www.zygo.com/?/met/profilers/', 'https://www.zygo.com/?/aboutus/shows/', 'https://www.zygo.com/?/aboutus/news/20181017.htm', 'https://www.zygo.com/?/aboutus/privacy-cookie-policy.htm', 'https://www.zygo.com/?/blog/facts-and-statistics-about-zygo/', 'https://www.zygo.com/?/met/profilers/zegagepro/&utm_source=zygo&utm_medium=HomePageBanner&utm_campaign=ZeGagePro', 'http://www.pg.com/who-we-are/', 'http://www.pg.com/leadership-team/', 'http://jsr.vccs.edu/#', 'http://jsr.vccs.edu/who_we_are/locations.aspx', 'http://jsr.vccs.edu/who_we_are/workforce.aspx', 'http://jsr.vccs.edu/who_we_are/hr/default.aspx', 'http://jsr.vccs.edu/who_we_are/about/access.aspx', 'http://jsr.vccs.edu/who_we_are/about/default.aspx', 'http://jsr.vccs.edu/who_we_are/hr/employment.aspx', 'http://jsr.vccs.edu/who_we_are/about/mission.aspx', 'http://jsr.vccs.edu/who_we_are/about/privacy.aspx', 'http://jsr.vccs.edu/who_we_are/outreach/tours.aspx', 'http://jsr.vccs.edu/who_we_are/about/copyright.aspx', 'http://aadvancedaqua.com/About-Us.html', 'https://www.exxonmobilchemical.com/#mm-1', 'https://www.exxonmobilchemical.com/en/exxonmobil-chemical/about-us', 'https://cellprintbiotechnology.com/#', 'https://cellprintbiotechnology.com/about/company/', 'https://cellprintbiotechnology.com/scientific-team/', 'https://cellprintbiotechnology.com/about/leadership/', 'https://cellprintbiotechnology.com/about/collaborations/', 'https://king-electric.com/about/company-bio/', 'https://king-electric.com/about/king-difference/', 'https://king-electric.com/about/vision-statement/', 'https://king-electric.com/about/career-opportunities/', 'https://biocare.net/about-us/', 'https://biocare.net/about-us/awards/', 'https://biocare.net/about-us/events/', 'https://biocare.net/about-us/careers/', 'https://biocare.net/about-us/testimonials/', 'https://biocare.net/about-us/company-history/', 'https://www.apple.com/#ac-gf-directory-column-section-state-about', 'http://www.bestwaycorp.us/aboutus', 'https://www.bhge.com/#', 'https://www.bhge.com/our-company', 'https://www.bhge.com/our-company%20', 'https://www.bhge.com/corporate-responsibility%20', 'https://www.bhge.com/digital/asset-performance-management%20', 'https://www.bhge.com/digital/asset-performance-management/apm-health%20', 'https://www.bhge.com/digital/asset-performance-management/apm-integrity%20', 'https://www.bhge.com/digital/asset-performance-management/predictive-corrosion-management-pcm%20', 'https://www.bhge.com/annualreport/company-portfolio.html?utm_campaign=AR&utm_content=Dig&utm_medium=card&utm_source=bhge', 'https://www.swagelok.com:443/en/About', 'https://www.swagelok.com:443/en/About/Newsroom', 'https://www.swagelok.com:443/en/About/Our-Values', 'https://www.swagelok.com:443/en/About/Our-Founder', 'https://www.swagelok.com:443/en/About/Our-Business', 'https://www.swagelok.com:443/en/About/Our-Leadership', 'https://www.swagelok.com:443/en/About/Global-Coverage', 'https://www.swagelok.com:443/en/My-Account/QuoteSummary', 'https://www.swagelok.com:443/en/About/Our-Business/Quality', 'https://www.swagelok.com:443/en/About/Our-Business/Services', 'https://www.swagelok.com:443/en/About/Our-Business/Inventory', 'https://www.basf.com/us/en/company/career.html', 'https://www.basf.com/us/en/company/about-us.html', 'https://www.basf.com/us/en/company/innovation.html', 'https://www.basf.com/us/en/company/news-and-media.html', 'https://www.basf.com/us/en/company/sustainability.html', 'https://www.basf.com/us/en/company/about-us/Locations.html', 'https://www.basf.com/us/en/company/about-us/publications.html', 'https://www.basf.com/us/en/company/news-and-media/multimedia.html', 'https://www.basf.com/us/en/company/news-and-media/news-releases.html', 'https://www.basf.com/us/en/company/about-us/strategy-and-organization.html', 'https://www.basf.com/en/company/news-and-media/events/2018/press-conference-181120.html', 'https://solarreserve.com/en/about', 'https://solarreserve.com/en/about/board', 'https://solarreserve.com/en/about/careers', 'https://solarreserve.com/en/about/contact', 'https://solarreserve.com/en/about/community', 'https://solarreserve.com/en/about/management', 'https://solarreserve.com/en/about/about-us-overview', 'https://www.prg.com/about-prg/company', 'https://www.birdbgone.com/#', 'https://www.birdbgone.com/about.html', 'https://www.birdbgone.com/pest-bird-profiles.html', 'https://www.birdbgone.com/choose-by-industry/property-management.html', 'http://bruinbiometrics.com/us/about-us', 'http://bruinbiometrics.com/us/about-us/team', 'http://bruinbiometrics.com/us/about-us/careers', 'http://bruinbiometrics.com/us/about-us/about-us-2', 'http://bruinbiometrics.com/us/about-us/mission-values', 'http://bruinbiometrics.com/us/sem/pressure-ulcers-dtis', 'http://bruinbiometrics.com/us/about-us/board-of-directors', 'https://www.oneearthdesigns.com/about-us/', 'https://usa.healthcare.siemens.com/about', 'https://usa.healthcare.siemens.com/about-us', 'https://usa.healthcare.siemens.com/about-us/about', 'https://usa.healthcare.siemens.com/corporate-info', 'https://usa.healthcare.siemens.com/about-us/compliance', 'https://usa.healthcare.siemens.com/healthineers-population-health-management', 'https://usa.healthcare.siemens.com/about-us/leading-the-way-in-pama-readiness', 'https://usa.healthcare.siemens.com/point-of-care-testing/chronic-disease-management', 'http://magnoliaoptical.com/index.php?rt=about/mgt', 'http://magnoliaoptical.com/index.php?rt=about/index', 'http://magnoliaoptical.com/index.php?rt=about/vision', 'http://magnoliaoptical.com/index.php?rt=about/contact', 'http://magnoliaoptical.com/index.php?rt=about/strategy', 'https://www.smartplanettech.com/about-us/', 'http://www.adhesivesresearch.com/about/', 'http://www.adhesivesresearch.com/capabilities/custom-manufacturing-project-management/', 'http://www.adhesivesresearch.com/learn-about-the-benefits-of-arx-thin-films-and-transdermal-patches-at-drug-delivery-partnerships-2017/', 'https://elenion.com/team/', 'https://elenion.com/summary/', 'https://elenion.com/company/', 'https://www.asurion.com/about/', 'https://www.asurion.com/about/smb/', 'https://www.asurion.com/about/awards/', 'https://www.asurion.com/about/careers/', 'https://www.asurion.com/about/newsroom/', 'https://www.asurion.com/about/leadership/', 'https://www.asurion.com/about/contact-us/', 'https://www.asurion.com/extended-warranty/', 'https://www.asurion.com/about/partner-with-us/', 'https://www.asurion.com/about/business-insights/', 'https://www.asurion.com/about/reviews-and-ratings/', 'https://poet.com/about', 'https://www.coolplanet.com/about/careers/', 'https://www.coolplanet.com/about/corporate/', 'https://www.coolplanet.com/about/investors/', 'https://www.coolplanet.com/about/management/', 'https://www.coolplanet.com/about/associations/', 'https://www.coolplanet.com/about/advisory-board/', 'https://www.coolplanet.com/about/board-of-directors/', 'http://gswps.com/AboutUs.aspx', 'http://atomera.com/overview/', 'http://atomera.com/management/', 'http://altarockenergy.com/about-us/', 'http://altarockenergy.com/about-us/partners/', 'https://sionpower.com/about/', 'https://sionpower.com/#scrollNav-2', 'https://www.aerogen.com/about/our-story/#awards', 'https://www.aerogen.com/about/our-story/#history', 'https://www.aerogen.com/about/our-story/#our-values', 'https://www.aerogen.com/about/our-story/#our-awards', 'https://www.aerogen.com/about/our-story/#sponsorship', 'https://www.aerogen.com/about/respiratory-care/#copd', 'https://www.aerogen.com/about/our-story/#sponsorships', 'https://www.aerogen.com/about/respiratory-care/#asthma', 'https://www.aerogen.com/about/technology/#aerogen-inside', 'https://www.aerogen.com/about/technology/#aerogen-at-home', 'https://www.aerogen.com/about/our-story/#board-of-director', 'https://www.noble.org/about/', 'https://www.noble.org/news/publications/ag-news-and-views/2018/november/pecan-management-calendar-november-to-january/', 'https://www.sony.com/en_us/SCA/index.html', 'https://www.sony.com/electronics/about-sony', 'https://www.sony.com/en_us/SCA/company-news/press-releases.html', 'https://eink.com/about-us.html', 'https://eink.com/about-our-logo.html', 'https://eink.com/csr.html?type=vision', 'https://www.idealab.com/#team_anchor', 'https://www.idealab.com/#about_anchor', 'https://www.idealab.com/bio/management/bill_gross.php', 'https://www.idealab.com/bio/management/debbie_chen.php', 'https://www.idealab.com/bio/management/wes_ferrari.php', 'https://www.idealab.com/bio/management/alex_maleki.php', 'https://www.idealab.com/bio/management/jason_atzert.php', 'https://www.idealab.com/bio/management/tom_mcgovern.php', 'https://www.idealab.com/bio/management/craig_chrisney.php', 'https://www.idealab.com/bio/management/yeran_melelian.php', 'https://www.idealab.com/bio/management/marcia_goodstein.php', 'https://www.netapp.com/us/company/index.aspx', 'https://www.netapp.com/us/company/news/index.aspx', 'https://www.netapp.com/us/company/events/index.aspx', 'https://www.netapp.com/us/company/about-netapp/dvc-ebc/index.aspx', 'https://www.netapp.com/us/solutions/unstructured-data/rich-media.aspx', 'https://www.netapp.com/us/company/corporate-social-responsibility.aspx', 'https://www.netapp.com/us/solutions/devops/configuration-management.aspx', 'https://www.netapp.com/us/solutions/data-insights/performance-management.aspx', 'https://www.netapp.com/us/solutions/unstructured-data/distributed-content.aspx', 'https://www.netapp.com/us/solutions/data-insights/capacity-management-analytics.aspx', 'https://cellularresearchinstitute.com/about.html', 'http://appliedmembranetech.com/leadership-team/', 'https://www.bosch.com/our-company/', 'https://www.bosch.com/stories/vision-2030/', 'https://www.bosch.com/corporate-information/', 'https://www.bosch.com/our-company/our-people/', 'https://www.bosch.com/our-company/our-figures/', 'https://www.bosch.com/our-company/our-history/', 'https://www.bosch.com/research/about-research/', 'https://www.bosch.com/our-company/sustainability/', 'https://www.bosch.com/research/about-research/roots/', 'https://www.bosch.com/our-company/our-figures/#brands', 'https://www.bosch.com/research/about-research/purpose/', 'https://www.hamamatsu.com/jp/en/our-company/index.html', 'https://www.hamamatsu.com/all/en/our-company/index.html', 'https://www.hamamatsu.com/jp/en/our-company/csr/index.html', 'https://www.hamamatsu.com/all/en/our-company/csr/index.html', 'https://www.hamamatsu.com/jp/en/our-company/history/index.html', 'https://www.hamamatsu.com/all/en/our-company/history/index.html', 'https://www.hamamatsu.com/jp/en/our-company/about-crl/index.html', 'https://www.hamamatsu.com/all/en/our-company/about-crl/index.html', 'https://www.hamamatsu.com/jp/en/our-company/at-a-glance/index.html', 'https://www.hamamatsu.com/all/en/our-company/at-a-glance/index.html', 'https://www.hamamatsu.com/jp/en/our-company/our-philosophy/index.html', 'https://www.gsk.com/en-gb/about-us/', 'https://www.gsk.com/en-gb/about-us/vaccines/', 'https://www.gsk.com/en-gb/about-us/key-facts/', 'https://www.gsk.com/en-gb/about-us/governance/', 'https://www.gsk.com/en-gb/investors/about-gsk/', 'https://www.gsk.com/en-gb/about-us/our-history/', 'https://www.gsk.com/en-gb/about-us/pharmaceuticals/', 'https://www.gsk.com/en-gb/careers/culture-and-values/', 'https://www.gsk.com/en-gb/about-us/board-of-directors/', 'https://www.gsk.com/en-gb/about-us/consumer-healthcare/', 'https://www.gsk.com/en-gb/investors/corporate-reporting/', 'http://travisindustries.com/news-items.aspx#history', 'http://www.bemis.com/careers', 'http://www.bemis.com/about-bemis', 'http://www.bemis.com/about-bemis/about-us', 'http://www.bemis.com/about-bemis/citizenship', 'http://www.bemis.com/about-bemis/sustainability', 'http://www.bemis.com/about-bemis/bemis-graphics', 'http://www.bemis.com/about-bemis/corporate-governance', 'http://www.bemis.com/about-bemis/about-us/our-leadership', 'http://www.bemis.com/about-bemis/bemis-innovation-center', 'http://www.bemis.com/about-bemis/about-us/our-work-matters', 'http://www.bemis.com/about-bemis/citizenship/bemis-company-foundation', 'http://acorntech.com/company/', 'http://acorntech.com/news/press/', 'http://acorntech.com/company/careers/', 'http://acorntech.com/company/leadership/', 'http://acorntech.com/company/innovation/', 'https://www.microsemi.com/company/awards', 'https://www.microsemi.com/company/quality', 'https://www.microsemi.com/company/about-us', 'https://www.microsemi.com/corporate-contacts', 'https://www.microsemi.com/company/technology', 'https://www.microsemi.com/company/in-the-news', 'https://www.microsemi.com/company/acquisitions', 'https://www.microsemi.com/company/terms-of-use', 'https://www.microsemi.com/company/cookie-policy', 'https://www.microsemi.com/company/privacy-policy', 'https://www.microsemi.com/company/careers/careers', 'https://www.atum.bio/company', 'https://www.atum.bio/company?mi=82', 'https://www.atum.bio/company?mi=6454', 'https://www.atum.bio/company/careers', 'https://www.atum.bio/company/contact', 'https://www.atum.bio/company/partners', 'https://www.atum.bio/company/news-events', 'https://www.atum.bio/company/news-events/events', 'https://www.atum.bio/company/terms-and-conditions', 'https://www.atum.bio/company/news-events/in-the-news', 'https://www.atum.bio/company/news-events/newsletters', 'http://daylightsolutions.com/about-us/', 'http://daylightsolutions.com/about-us/blog/', 'http://daylightsolutions.com/about-us/events/', 'http://daylightsolutions.com/about-us/awards/', 'http://daylightsolutions.com/about-us/news-room/', 'http://daylightsolutions.com/about-us/contact-us/', 'http://daylightsolutions.com/about-us/leadership/', 'http://daylightsolutions.com/about-us/contact-us/distributors/', 'http://daylightsolutions.com/about-us/contact-us/customer-support/', 'http://daylightsolutions.com/home/technology/about-mid-ir-quantum-cascade-lasers/', 'https://bionanogenomics.com/company/', 'https://bionanogenomics.com/company/distributors/', 'https://bionanogenomics.com/company/legal-notices/', 'https://bionanogenomics.com/company/senior-management/', 'https://bionanogenomics.com/company/board-of-directors/', 'https://bionanogenomics.com/company/certified-service-providers/', 'http://livetv.sx/enx/myteams/', 'http://www.agcbio.com/about_us', 'http://www.agcbio.com/join_our_team', 'http://www.agcbio.com/about/our_history', 'http://www.agcbio.com/joinourteam/usa_careers', 'http://www.agcbio.com/joinourteam/our_benefits', 'http://www.agcbio.com/about/executive_management', 'http://www.agcbio.com/about/environmental_policy', 'http://www.agcbio.com/joinourteam/copenhagen_careers', 'http://www.agcbio.com/joinourteam/heidelberg_careers_agc', 'https://ag.energy/about/', 'https://ag.energy/about-2/', 'http://www.glycon.com/history', 'http://www.glycon.com/history/what-s-new', 'http://www.glycon.com/history/terms-and-conditions', 'http://www.atonometrics.com/about/', 'http://www.atonometrics.com/atonometrics-has-shipped-over-600-soiling-measurement-systems-worldwide-ask-us-about-our-new-mars-optical-soiling-sensor/', 'http://www.nanotechbio.com/team/', 'http://www.nanotechbio.com/support/', 'https://www.dow.com/en-us/about-dow/locations?region=%7Bc1e574c8-092c-4d78-bbbf-839c8ae13c4d%7D', 'https://www.dow.com/en-us/about-dow/locations?region=%7Bc1246c44-a166-4876-b3ea-d07e58979cd9%7D', 'https://www.dow.com/en-us/about-dow/locations?region=%7B6228b4b7-9cbb-4c7c-b64e-f4317f16bad7%7D', 'https://www.dow.com/en-us/about-dow/locations?region=%7Bdf3ae7db-9b29-49c9-a9d9-2841a7eb638b%7D', 'https://www.dow.com/en-us/about-dow/locations?region=%7Bc89a10b2-135e-404c-9ae7-11814eb94ed4%7D', 'https://www.dow.com/en-us/about-dow/locations?region=%7Bbdf04b3f-f624-4eb9-9e33-978b33d9e1b6%7D', 'https://www.oracle.com/#open', 'https://www.oracle.com/#back', 'https://www.oracle.com/cloud/', 'https://www.oracle.com/corporate/', 'https://www.oracle.com/corporate/#info', 'https://www.oracle.com/corporate/press/', 'https://www.oracle.com/corporate/pricing/', 'https://www.oracle.com/corporate/careers/', 'https://www.oracle.com/corporate/cvc.html', 'https://www.oracle.com/corporate/contact/', 'https://www.oracle.com/enterprise-manager/', 'https://www.thermofisher.com/us/en/home/about-us/events.html', 'https://www.thermofisher.com/us/en/home/about-us/partnering-licensing.html', 'https://www.thermofisher.com/us/en/home/life-science/sample-storage-management.html', 'https://www.thermofisher.com/us/en/home/about-us/corporate-social-responsibility.html', 'https://www.thermofisher.com/us/en/home/life-science/lab-data-management-analysis-software.html', 'https://www.thermofisher.com/us/en/home/about-us/partnering-licensing/oem-commercial-supply.html', 'https://www.thermofisher.com/us/en/home/life-science/lab-data-management-analysis-software/lab-apps.html', 'https://www.thermofisher.com/us/en/home/life-science/lab-data-management-analysis-software/lab-apps/cell-staining-tool.html', 'https://www.thermofisher.com/us/en/home/life-science/lab-data-management-analysis-software/enterprise-level-lab-informatics.html', 'http://inanobio.com/team.php', 'http://inanobio.com/aboutus.php', 'https://www.armageddonenergy.com/company/', 'http://www.unity-sc.com/company/', 'http://www.unity-sc.com/company/network/', 'http://www.unity-sc.com/company/contact/', 'http://www.unity-sc.com/company/services/', 'http://www.unity-sc.com/company/missionvision/', 'http://www.unity-sc.com/company/legal-statement/', 'http://www.unity-sc.com/unity-sc-fogale-nanotech-company-disclosed-two-new-metrology-solutions-advanced-packaging-applications/', 'https://www.acer.com/ac/en/US/content/en/US/content/csr', 'https://www.acer.com/ac/en/US/content/en/US/content/my-profile', 'http://elementonescreens.com/element-one/team/', 'http://elementonescreens.com/element-one/vision/', 'http://elementonescreens.com/unser-vertriebsteam-sucht-verstaerkung/', 'https://www.saint-gobain-abrasives.com/en-us/about-us', 'https://www.saint-gobain-abrasives.com/en-us/proud-our-history', 'https://www.saint-gobain-abrasives.com/en-us/corporate-social-responsibility', 'https://www.saint-gobain-abrasives.com/en-us/newsroom/news/norton-primary-sponsor-usa-luge-team', 'https://www.saint-gobain-abrasives.com/en-us/newsroom/news/abrasives-supply-tool-sharpening-company', 'https://www.saint-gobain-abrasives.com/en-us/newsroom/press_releases/saint-gobain-recognized-%C2%A02018-corporate-equality-index', 'https://www.broadcom.com/#', 'https://www.broadcom.com/company/', 'https://www.broadcom.com/#company-0', 'https://www.broadcom.com/#company-2', 'https://www.broadcom.com/#company-3', 'https://www.broadcom.com/#company-4', 'https://www.broadcom.com/#company-6', 'https://www.broadcom.com/#company-7', 'https://www.broadcom.com/company/news/', 'https://www.broadcom.com/company/careers/', 'https://www.broadcom.com/company/contact/', 'https://www.dictionary.com/e/about/', 'https://grampower.com/about-us/join-us.html', 'https://grampower.com/about-us/about-us.html', 'https://grampower.com/about-us/our-team.html', 'http://esolar.solar/about', 'https://www.ormat.com/en/company/contact/main', 'https://www.ormat.com/en/company/careers/main/', 'https://www.ormat.com/en/company/welcome/history', 'https://www.ormat.com/en/company/welcome/profile/', 'https://www.ormat.com/en/company/welcome/leadership', 'https://www.ormat.com/en/company/welcome/governance/', 'https://www.ormat.com/en/company/welcome/manufacturing/', 'https://www.ormat.com/en/company/general/view/?ContentID=140', 'https://www.ormat.com/en/company/welcome/mission-and-values/', 'https://www.ormat.com/en/company/general/view/?ContentID=289', 'https://www.ormat.com/en/company/general/view/?ContentID=290', 'http://ci4.us/about', 'http://ci4.us/infosci-cautions-federal-lawmakers-about-security-vulnerabilities-in-distributed-ledger-technology/', 'http://www.lintec-global.com/about/', 'http://www.lintec-global.com/about/motto/', 'http://www.lintec-global.com/about/message/', 'http://www.lintec-global.com/about/history/', 'http://www.lintec-global.com/about/network/', 'http://www.lintec-global.com/ir/management/', 'http://www.lintec-global.com/about/overview/', 'http://www.lintec-global.com/about/brochure/book/', 'http://www.lintec-global.com/about/country/japan.html', 'http://www.lintec-global.com/about/country/americas.html', 'http://www.lintec-global.com/about/country/eme.html#anc04', 'http://nanotekinstruments.com/about-us/', 'https://www.angaza.com/about/', 'http://amberwave.com/about.html', 'https://www.kulite.com/company/', 'https://www.kulite.com/company/news/', 'https://www.kulite.com/company/events/', 'https://www.kulite.com/company/history/', 'https://www.kulite.com/company/contact-info/', 'https://www.kulite.com/company/mission-statement/', 'https://www.kulite.com/company/customer-resources/', 'https://www.kulite.com/company/community-engagement/', 'https://www.kulite.com/company/corporate-responsibility/', 'https://www.kulite.com/company/supplier-code-of-conduct/', 'https://www.capsugel.com/about-capsugel', 'https://www.capsugel.com/now-a-lonza-company', 'https://www.christiedigital.com/', 'https://www.christiedigital.com/en-us/about-christie', 'https://www.christiedigital.com/en-us/about-christie/careers', 'https://www.christiedigital.com/en-us/about-christie/news-room', 'https://www.christiedigital.com/en-us/about-christie/contact-us', 'https://www.christiedigital.com/en-us/about-christie/cookie-notice', 'https://www.christiedigital.com/en-us/about-christie/privacy-policy', 'https://www.christiedigital.com/en-us/about-christie/sustainability', 'https://www.christiedigital.com/en-us/about-christie/executive-profiles', 'https://www.christiedigital.com/en-us/about-christie/christie-locations', 'https://www.christiedigital.com/en-us/about-christie/terms-and-conditions', 'http://pidc.com/our-company', 'http://pidc.com/our-company/news', 'http://pidc.com/our-company/careers', 'http://pidc.com/our-company/locations', 'http://pidc.com/our-company/media-kit', 'http://pidc.com/our-company/management-team', 'http://pidc.com/our-company/corporate-overview', 'http://pidc.com/our-company/news/pacific-industrial-development-corp-expanding-pittsfield-township-investing-172', 'http://www.wikipad.com/', 'http://trucent.com/', 'https://www.zon.si/', 'http://www.verliantenergy.com/', 'https://www.xyleco.com/', 'https://www.tessera.com/', 'http://www.thorlabs.com/', 'http://suganit.com/', 'http://www.starlightenergy.us/', 'http://stablcor.com/', 'http://www.solight.com/', 'http://solazyme.com/', 'https://www.ako2.us.army.mil/local/pre-acceptance.html', 'https://www.singularbio.com/', 'https://selmanlog.com/Default.aspx', 'https://www.sigmaaldrich.com/', 'https://www.shoals.com/', 'https://www.rockwellautomation.com/site-selection.html', 'https://quantapore.com/', 'http://nanotechlubricantsinc.com/Home.html', 'https://research.synaptic.co.uk/SynapticResearch/login.asp?t=98266&page=/Default.asp?', 'http://new.sirnaomics.com/', 'http://plasmatherm.com/index.html', 'http://www.pelliontech.com/', 'https://www.ostendo.com/', 'https://kinetechpower.com/', 'https://www.oculus.com/', 'http://neumedicines.com/', 'http://www.nanogram.com/home/', 'http://www.mci.com/mcihome.jsp', 'http://port-a-fire.ca/', 'https://www.sunspecialtyproducts.com/', 'http://opelinc.com/', 'https://www.proterra.com/', 'https://medport.com/']2018-12-25 20:31:32 [scrapy.utils.log] INFO: Scrapy 1.5.1 started (bot: FirmDB)
+2018-12-25 20:31:32 [scrapy.utils.log] INFO: Versions: lxml 4.2.5.0, libxml2 2.9.8, cssselect 1.0.3, parsel 1.5.1, w3lib 1.19.0, Twisted 18.9.0, Python 3.6.6 (default, Sep 12 2018, 18:26:19) - [GCC 8.0.1 20180414 (experimental) [trunk revision 259383]], pyOpenSSL 18.0.0 (OpenSSL 1.1.0i  14 Aug 2018), cryptography 2.3.1, Platform Linux-4.15.0-1023-aws-x86_64-with-Ubuntu-18.04-bionic
+2018-12-25 20:31:32 [scrapy.crawler] INFO: Overridden settings: {'BOT_NAME': 'FirmDB', 'CONCURRENT_REQUESTS_PER_DOMAIN': 4, 'LOG_LEVEL': 'INFO', 'NEWSPIDER_MODULE': 'FirmDB.spiders', 'ROBOTSTXT_OBEY': 'False', 'SPIDER_MODULES': ['FirmDB.spiders'], 'USER_AGENT': 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36'}
+2018-12-25 20:31:32 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2018-12-25 20:31:32 [py.warnings] WARNING: /home/ubuntu/.local/lib/python3.6/site-packages/scrapy/utils/deprecate.py:156: ScrapyDeprecationWarning: `scrapy.contrib.downloadermiddleware.useragent.UserAgentMiddleware` class is deprecated, use `scrapy.downloadermiddlewares.useragent.UserAgentMiddleware` instead
+  ScrapyDeprecationWarning)
+
+2018-12-25 20:31:32 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'random_useragent.RandomUserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2018-12-25 20:31:32 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2018-12-25 20:31:32 [scrapy.middleware] INFO: Enabled item pipelines:
+['FirmDB.pipelines.FirmDBPipeline']
+2018-12-25 20:31:32 [scrapy.core.engine] INFO: Spider opened
+2018-12-25 20:31:32 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2018-12-25 20:31:32 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <503 http://www.sysmex.com.vn/>: HTTP status code is not handled or not allowed
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:31:39 [scrapy.core.scraper] ERROR: Error downloading <GET http://latitudepharma.com/the-latitude-team/>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/scrapy/core/downloader/middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+twisted.web._newclient.ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionDone: Connection was closed cleanly.>]
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:32:12 [root] ERROR: Unable to find match for url: https://www.idemia.com/our-journey
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:32:20 [root] ERROR: Unable to find match for url: https://www.dentsplysirona.com/en/about-dentsply-sirona/history.html
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:32:27 [root] ERROR: Unable to find match for url: https://www.dentsplysirona.com/en/about-dentsply-sirona.html
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:32:38 [root] ERROR: Unable to find match for url: https://www.dentsplysirona.com/en/about-dentsply-sirona/innovation.html
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:32:43 [root] ERROR: Unable to find match for url: https://www.idemia.com/our-journey
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:32:49 [root] ERROR: Unable to find match for url: https://www.idemia.com/our-journey
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:32:56 [root] ERROR: Unable to find match for url: https://www.idemia.com/our-journey
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:33:02 [root] ERROR: Unable to find match for url: https://www.idemia.com/our-journey
+2018-12-25 20:33:02 [scrapy.extensions.logstats] INFO: Crawled 16 pages (at 16 pages/min), scraped 13 items (at 13 items/min)
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:33:09 [root] ERROR: Unable to find match for url: https://www.idemia.com/our-journey
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:33:14 [root] ERROR: Unable to find match for url: https://www.idemia.com/our-journey
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:33:27 [root] ERROR: Unable to find match for url: https://www.dentsplysirona.com/en/about-dentsply-sirona/education.html
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:33:35 [root] ERROR: Unable to find match for url: https://www.dentsplysirona.com/en/about-dentsply-sirona/mission-vision.html
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:33:46 [root] ERROR: Unable to find match for url: https://www.dentsplysirona.com/en/about-dentsply-sirona/executive-team.html
+2018-12-25 20:33:46 [scrapy.extensions.logstats] INFO: Crawled 19 pages (at 3 pages/min), scraped 18 items (at 5 items/min)
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:33:52 [root] ERROR: Unable to find match for url: https://www.idemia.com/our-journey
+2018-12-25 20:33:52 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 http://www.crestovo.com/about/>: HTTP status code is not handled or not allowed
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:34:04 [root] ERROR: Unable to find match for url: https://www.dentsplysirona.com/en/about-dentsply-sirona/compliance-ethics.html
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:34:12 [scrapy.core.scraper] ERROR: Error downloading <GET https://www.ofsoptics.com/executive-leadership-team/>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/scrapy/core/downloader/middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+twisted.web._newclient.ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:34:17 [root] ERROR: Unable to find match for url: https://www.corteva.com/who-we-are/our-purpose-and-values.html
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:34:23 [root] ERROR: Unable to find match for url: https://www.corteva.com/who-we-are/our-purpose-and-values.html
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:34:30 [root] ERROR: Unable to find match for url: https://www.corteva.com/resources/media-center/dow-dupont-agriculture-division-to-become-corteva-agriscience.html
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:35:08 [root] ERROR: Unable to find match for url: https://www.dentsplysirona.com/en/about-dentsply-sirona/board-of-directors.html
+2018-12-25 20:35:08 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://agriculture.basf.com/content/bws/north-america/us/en/company.html>: HTTP status code is not handled or not allowed
+2018-12-25 20:35:08 [scrapy.extensions.logstats] INFO: Crawled 32 pages (at 13 pages/min), scraped 28 items (at 10 items/min)
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:35:19 [root] ERROR: Unable to find match for url: https://www.dentsplysirona.com/en/about-dentsply-sirona/innovation/certifications.html
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:35:25 [root] ERROR: Unable to find match for url: https://www.dentsplysirona.com/en/about-dentsply-sirona/executive-team/nick-alexos.html
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:35:31 [root] ERROR: Unable to find match for url: https://www.dentsplysirona.com/en/about-dentsply-sirona/executive-team/donald-casey.html
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:35:51 [root] ERROR: Unable to find match for url: https://www.tdk-electronics.tdk.com/en/2302164/careers/about-us
+2018-12-25 20:35:51 [scrapy.extensions.logstats] INFO: Crawled 40 pages (at 8 pages/min), scraped 34 items (at 6 items/min)
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:35:57 [root] ERROR: Unable to find match for url: https://www.tdk-electronics.tdk.com/en/519514/company/customer-news-service
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:36:03 [root] ERROR: Unable to find match for url: https://www.tdk-electronics.tdk.com/en/180286/company/trade-fairs-events
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:36:18 [root] ERROR: Unable to find match for url: https://www.tdk-electronics.tdk.com/en/1190708/company/tdk-europe
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:36:38 [scrapy.extensions.logstats] INFO: Crawled 53 pages (at 13 pages/min), scraped 40 items (at 6 items/min)
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:36:43 [root] ERROR: Unable to find match for url: https://www.tdk-electronics.tdk.com/en/180414/contact/company-related-inquiry
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:37:37 [root] ERROR: Unable to find match for url: https://company.golfdigest.co.jp/kiyaku/id=20
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:37:50 [root] ERROR: Unable to find match for url: https://company.golfdigest.co.jp/recruit/?car=top_hr_b
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:37:56 [root] ERROR: Unable to find match for url: https://www.tdk-electronics.tdk.com/en/373402/company
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:38:18 [scrapy.extensions.logstats] INFO: Crawled 56 pages (at 3 pages/min), scraped 50 items (at 10 items/min)
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:38:24 [root] ERROR: Unable to find match for url: https://www.tdk-electronics.tdk.com/en/180332/company/tdk-electronics-worldwide
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:38:34 [scrapy.extensions.logstats] INFO: Crawled 58 pages (at 2 pages/min), scraped 52 items (at 2 items/min)
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:38:38 [root] ERROR: Unable to find match for url: https://www.tdk-electronics.tdk.com/en/373394/company/press-center
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:38:50 [root] ERROR: Unable to find match for url: https://www.tdk-electronics.tdk.com/en/180314/company/environmental-protection
+2018-12-25 20:38:50 [scrapy.core.downloader.tls] WARNING: Remote certificate is not valid for hostname "canon-biomedical.com"; VerificationError(errors=[DNSMismatch(mismatched_id=DNS_ID(hostname=b'canon-biomedical.com'))])
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:38:58 [scrapy.core.downloader.tls] WARNING: Remote certificate is not valid for hostname "canon-biomedical.com"; VerificationError(errors=[DNSMismatch(mismatched_id=DNS_ID(hostname=b'canon-biomedical.com'))])
+2018-12-25 20:38:58 [scrapy.core.downloader.tls] WARNING: Remote certificate is not valid for hostname "canon-biomedical.com"; VerificationError(errors=[DNSMismatch(mismatched_id=DNS_ID(hostname=b'canon-biomedical.com'))])
+2018-12-25 20:38:58 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.tdk-electronics.tdk.com/en/1191210/company/about-us>: HTTP status code is not handled or not allowed
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:39:28 [root] ERROR: Unable to find match for url: https://www.tdk-electronics.tdk.com/en/1192046/company/tdk-group
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:39:41 [scrapy.extensions.logstats] INFO: Crawled 81 pages (at 23 pages/min), scraped 65 items (at 13 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:40:36 [scrapy.extensions.logstats] INFO: Crawled 85 pages (at 4 pages/min), scraped 77 items (at 12 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:42:09 [scrapy.extensions.logstats] INFO: Crawled 101 pages (at 16 pages/min), scraped 88 items (at 11 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:42:37 [scrapy.extensions.logstats] INFO: Crawled 102 pages (at 1 pages/min), scraped 90 items (at 2 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:43:46 [scrapy.extensions.logstats] INFO: Crawled 103 pages (at 1 pages/min), scraped 97 items (at 7 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+
+Crawling page: https://www.res-usa.com/about-res-contractors/       valid
+Crawling page: http://www.neuralsignals.com/?page_id=29       valid
+Crawling page: https://discoverybiomed.com/about/       valid
+Crawling page: https://weccamerica.com/about/       valid
+Crawling page: https://www.wca-group.com/about-us/       valid
+Crawling page: https://www.idemia.com/our-journey       valid
+Crawling page: https://www.dentsplysirona.com/en/about-dentsply-sirona/history.html       valid
+Crawling page: https://www.dentsplysirona.com/en/about-dentsply-sirona.html       valid
+Crawling page: https://www.dentsplysirona.com/en/about-dentsply-sirona/innovation.html       valid
+Crawling page: https://www.idemia.com/our-journey       valid
+Crawling page: https://www.idemia.com/our-journey       valid
+Crawling page: https://www.idemia.com/our-journey       valid
+Crawling page: https://www.idemia.com/our-journey       valid
+Crawling page: https://www.idemia.com/our-journey       valid
+Crawling page: https://www.idemia.com/our-journey       valid
+Crawling page: https://www.dentsplysirona.com/en/about-dentsply-sirona/education.html       valid
+Crawling page: https://www.dentsplysirona.com/en/about-dentsply-sirona/mission-vision.html       valid
+Crawling page: https://www.dentsplysirona.com/en/about-dentsply-sirona/executive-team.html       valid
+Crawling page: https://www.idemia.com/our-journey       valid
+Crawling page: https://www.dentsplysirona.com/en/about-dentsply-sirona/compliance-ethics.html       valid
+Crawling page: https://www.clearsign.com/our-team/       valid
+Crawling page: https://www.corteva.com/who-we-are/our-purpose-and-values.html       valid
+Crawling page: https://www.corteva.com/who-we-are/our-purpose-and-values.html       valid
+Crawling page: https://www.corteva.com/resources/media-center/dow-dupont-agriculture-division-to-become-corteva-agriscience.html       valid
+Crawling page: https://www.ofsoptics.com/about/       valid
+Crawling page: https://www.ofsoptics.com/dispersion-management/       valid
+Crawling page: https://www.ofsoptics.com/our-values/       valid
+Crawling page: https://www.dentsplysirona.com/en/about-dentsply-sirona/board-of-directors.html       valid
+Crawling page: https://www.dentsplysirona.com/en/about-dentsply-sirona/innovation/certifications.html       valid
+Crawling page: https://www.dentsplysirona.com/en/about-dentsply-sirona/executive-team/nick-alexos.html       valid
+Crawling page: https://www.dentsplysirona.com/en/about-dentsply-sirona/executive-team/donald-casey.html       valid
+Crawling page: https://allurausa.com/about       valid
+Crawling page: http://www.perkinelmer.com/corporate/training       valid
+Crawling page: https://www.tdk-electronics.tdk.com/en/2302164/careers/about-us       valid
+Crawling page: https://www.tdk-electronics.tdk.com/en/519514/company/customer-news-service       valid
+Crawling page: https://www.tdk-electronics.tdk.com/en/180286/company/trade-fairs-events       valid
+Crawling page: http://www.perkinelmer.com/corporate/stories/       valid
+Crawling page: https://www.tdk-electronics.tdk.com/en/1190708/company/tdk-europe       valid
+Crawling page: http://www.perkinelmer.com/corporate/investors/       valid
+Crawling page: http://www.perkinelmer.com/       valid
+Crawling page: https://www.tdk-electronics.tdk.com/en/180414/contact/company-related-inquiry       valid
+Crawling page: http://www.perkinelmer.com/corporate/press-room/       valid
+Crawling page: http://www.perkinelmer.com/corporate/policies/       valid
+Crawling page: http://www.perkinelmer.com/category/gas-management       valid
+Crawling page: http://www.perkinelmer.com/company/index.html       valid
+Crawling page: https://company.golfdigest.co.jp/kiyaku/id=20       valid
+Crawling page: https://company.golfdigest.co.jp/recruit/?car=top_hr_b       valid
+Crawling page: https://www.tdk-electronics.tdk.com/en/373402/company       valid
+Crawling page: http://www.perkinelmer.com/corporate/events/index.html       valid
+Crawling page: http://www.perkinelmer.com/corporate/careers/index.html       valid
+Crawling page: https://www.tdk-electronics.tdk.com/en/180332/company/tdk-electronics-worldwide       valid
+Crawling page: http://www.perkinelmer.com/corporate/what-we-do/markets/       valid
+Crawling page: https://www.tdk-electronics.tdk.com/en/373394/company/press-center       valid
+Crawling page: http://taurx.com/about-us/       valid
+Crawling page: https://www.tdk-electronics.tdk.com/en/180314/company/environmental-protection       valid
+Crawling page: http://acinter.com/aboutus.htm       valid
+Crawling page: https://canon-biomedical.com/online/portal/vp7/bio/aboutus       valid
+Crawling page: https://lrri.org/about-our-companies/rpoc       valid
+Crawling page: https://lrri.org/about-our-companies/our-board       valid
+Crawling page: https://lrri.org/about-our-companies/our-history       valid
+Crawling page: https://lrri.org/about-our-companies       valid
+Crawling page: https://www.tdk-electronics.tdk.com/en/1192046/company/tdk-group       valid
+Crawling page: http://www.gliknik.com/about/       valid
+Crawling page: http://www.gliknik.com/about/our-board/       valid
+Crawling page: http://www.gliknik.com/about/investors/       valid
+Crawling page: https://canon-biomedical.com/online/portal/vp7/bio/aboutus/business       valid
+Crawling page: http://www.gliknik.com/clinical-programs/gl-2045/       valid
+Crawling page: http://www.gliknik.com/about/how-we-work/       valid
+Crawling page: http://www.gliknik.com/about/our-leadership-team/       valid
+Crawling page: http://www.gliknik.com/about/message-from-the-ceo/       valid
+Crawling page: https://canon-biomedical.com/online/portal/vp7/bio/aboutus/leadership       valid
+Crawling page: https://canon-biomedical.com/online/portal/vp7/bio/aboutus/newsandevents       valid
+Crawling page: http://2blades.org/about-2blades/       valid
+Crawling page: http://2blades.org/our-team/       valid
+Crawling page: http://2blades.org/our-team/       valid
+Crawling page: http://www.gliknik.com/clinical-programs/biropepimut-s-gl-0817/       valid
+Crawling page: http://www.gliknik.com/about/how-we-work/       valid
+Crawling page: http://2blades.org/our-team/       valid
+Crawling page: http://2blades.org/our-team/       valid
+Crawling page: http://2blades.org/about-2blades/       valid
+Crawling page: https://www.brewerscience.com/about-us/       valid
+Crawling page: https://www.brewerscience.com/about-us/awards/       valid
+Crawling page: https://www.brewerscience.com/about-us/company/       valid
+Crawling page: https://www.brewerscience.com/about-us/privacy/       valid
+Crawling page: https://www.ibm.com/talent-management?lnk=hmhpmpr_buta&lnk2=learn       valid
+Crawling page: https://www.ibm.com/collaboration?lnk=hpmpr_buso&lnk2=learn       valid
+Crawling page: https://www.ibm.com/automation/software/content-management?lnk=hpmpr_buau&lnk2=learn       valid
+Crawling page: https://www.brewerscience.com/about-us/locations/       valid
+Crawling page: https://www.ibm.com/thought-leadership/smart/?lnk=ushpv18s1&lnk2=learn       valid
+Crawling page: https://www.ibm.com/ibm/responsibility/?lnk=fab       valid
+Crawling page: https://www.brewerscience.com/about-us/what-we-do/       valid
+Crawling page: https://www.brewerscience.com/about-us/community-giving/       valid
+Crawling page: https://www.brewerscience.com/about-us/partnerships/       valid
+Crawling page: https://www.ibm.com/ibm/us/en/?lnk=fab       valid
+Crawling page: https://www.ibm.com/analytics/data-management       valid
+Crawling page: https://www.ibm.com/automation/software/business-rules-management?lnk=hpmpr_buau&lnk2=learn       valid
+Crawling page: https://www.ibm.com/cloud/automation-software/enterprise-content-management       valid
+Crawling page: https://www.ibm.com/talent-management/ai-in-hr-business-case/?lnk=ushpv18l1&lnk2=learn       valid
+Crawling page: https://www.ibm.com/analytics/financial-performance-management       valid
+Crawling page: https://www.brewerscience.com/about-us/partnerships/nist/       valid
+Crawling page: https://www.brewerscience.com/newsroom/       valid
+Crawling page: https://global-sei.com/rss/       valid
+Crawling page: /bin/sh: 1: kill: No such process
+
+2018-12-25 20:44:43 [scrapy.extensions.logstats] INFO: Crawled 110 pages (at 7 pages/min), scraped 103 items (at 6 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:46:33 [scrapy.extensions.logstats] INFO: Crawled 125 pages (at 15 pages/min), scraped 116 items (at 13 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:47:41 [scrapy.core.scraper] ERROR: Error downloading <GET https://www.pg.com/who-we-are/>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/scrapy/core/downloader/middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+twisted.web._newclient.ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+2018-12-25 20:47:41 [scrapy.extensions.logstats] INFO: Crawled 136 pages (at 11 pages/min), scraped 128 items (at 12 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:48:38 [scrapy.extensions.logstats] INFO: Crawled 148 pages (at 12 pages/min), scraped 136 items (at 8 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:49:32 [scrapy.extensions.logstats] INFO: Crawled 153 pages (at 5 pages/min), scraped 145 items (at 9 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:50:37 [scrapy.extensions.logstats] INFO: Crawled 157 pages (at 4 pages/min), scraped 153 items (at 8 items/min)
+2018-12-25 20:50:37 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.bhge.com/our-company%20>: HTTP status code is not handled or not allowed
+2018-12-25 20:50:37 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.bhge.com/corporate-responsibility%20>: HTTP status code is not handled or not allowed
+2018-12-25 20:50:37 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.bhge.com/digital/asset-performance-management/apm-health%20>: HTTP status code is not handled or not allowed
+2018-12-25 20:50:37 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.bhge.com/digital/asset-performance-management%20>: HTTP status code is not handled or not allowed
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:51:35 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.bhge.com/digital/asset-performance-management/apm-integrity%20>: HTTP status code is not handled or not allowed
+2018-12-25 20:51:35 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.bhge.com/digital/asset-performance-management/predictive-corrosion-management-pcm%20>: HTTP status code is not handled or not allowed
+2018-12-25 20:51:35 [scrapy.extensions.logstats] INFO: Crawled 176 pages (at 19 pages/min), scraped 162 items (at 9 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:52:09 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.basf.com/us/en/who-we-are/Locations.html>: HTTP status code is not handled or not allowed
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:52:14 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.basf.com/us/en/media/publications.html>: HTTP status code is not handled or not allowed
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:52:56 [scrapy.extensions.logstats] INFO: Crawled 193 pages (at 17 pages/min), scraped 174 items (at 12 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:53:56 [scrapy.extensions.logstats] INFO: Crawled 199 pages (at 6 pages/min), scraped 186 items (at 12 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:54:56 [scrapy.extensions.logstats] INFO: Crawled 213 pages (at 14 pages/min), scraped 197 items (at 11 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:55:33 [scrapy.extensions.logstats] INFO: Crawled 221 pages (at 8 pages/min), scraped 203 items (at 6 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+https://global-sei.com/company/       valid
+Crawling page: https://www.brewerscience.com/about-us/partnerships/itri/       valid
+Crawling page: https://global-sei.com/company/news/       valid
+Crawling page: https://www.accessbusinessgroup.com/about-abg/       valid
+Crawling page: https://www.zygo.com/?/aboutus/shows/       valid
+Crawling page: https://www.zygo.com/?/met/profilers/       valid
+Crawling page: http://www.advancedsilicongroup.com/our-team.html       valid
+Crawling page: https://www.zygo.com/?/blog/facts-and-statistics-about-zygo/       valid
+Crawling page: https://www.zygo.com/?/met/profilers/zegagepro/&utm_source=zygo&utm_medium=HomePageBanner&utm_campaign=ZeGagePro       valid
+Crawling page: https://global-sei.com/csr/risk.html       valid
+Crawling page: https://www.zygo.com/?/aboutus/news/20181017.htm       valid
+Crawling page: https://www.zygo.com/?/aboutus/privacy-cookie-policy.htm       valid
+Crawling page: http://jsr.vccs.edu/       valid
+Crawling page: https://global-sei.com/company/press/       valid
+Crawling page: https://global-sei.com/company/group/       valid
+Crawling page: https://global-sei.com/ir/management/       valid
+Crawling page: http://jsr.vccs.edu/who_we_are/locations.aspx       valid
+Crawling page: http://jsr.vccs.edu/who_we_are/hr/default.aspx       valid
+Crawling page: http://jsr.vccs.edu/who_we_are/workforce.aspx       valid
+Crawling page: http://jsr.vccs.edu/who_we_are/about/default.aspx       valid
+Crawling page: http://jsr.vccs.edu/who_we_are/about/access.aspx       valid
+Crawling page: http://jsr.vccs.edu/who_we_are/about/mission.aspx       valid
+Crawling page: http://jsr.vccs.edu/who_we_are/hr/employment.aspx       valid
+Crawling page: https://global-sei.com/company/office/       valid
+Crawling page: https://global-sei.com/company/brand.html       valid
+Crawling page: http://jsr.vccs.edu/who_we_are/outreach/tours.aspx       valid
+Crawling page: https://global-sei.com/company/vision.html       valid
+Crawling page: http://jsr.vccs.edu/who_we_are/about/privacy.aspx       valid
+Crawling page: http://jsr.vccs.edu/who_we_are/about/copyright.aspx       valid
+Crawling page: https://global-sei.com/company/120th/       valid
+Crawling page: http://aadvancedaqua.com/About-Us.html       valid
+Crawling page: https://cellprintbiotechnology.com/       valid
+Crawling page: https://cellprintbiotechnology.com/about/leadership/       valid
+Crawling page: https://cellprintbiotechnology.com/scientific-team/       valid
+Crawling page: https://cellprintbiotechnology.com/about/company/       valid
+Crawling page: https://cellprintbiotechnology.com/about/collaborations/       valid
+Crawling page: https://www.exxonmobilchemical.com/en/exxonmobil-chemical/about-us       valid
+Crawling page: https://www.exxonmobilchemical.com/en/       valid
+Crawling page: https://biocare.net/about-us/       valid
+Crawling page: https://biocare.net/about-us/careers/       valid
+Crawling page: https://biocare.net/about-us/awards/       valid
+Crawling page: https://biocare.net/about-us/events/       valid
+Crawling page: https://www.apple.com/       valid
+Crawling page: https://king-electric.com/about/career-opportunities/       valid
+Crawling page: https://king-electric.com/about/company-bio/       valid
+Crawling page: https://king-electric.com/about/vision-statement/       valid
+Crawling page: https://king-electric.com/about/king-difference/       valid
+Crawling page: http://www.bestwaycorp.us/AboutUs/Page       valid
+Crawling page: https://biocare.net/about-us/company-history/       valid
+Crawling page: https://biocare.net/about-us/testimonials/       valid
+Crawling page: https://www.bhge.com/our-company       valid
+Crawling page: https://www.bhge.com/annualreport/company-portfolio.html?utm_campaign=AR&utm_content=Dig&utm_medium=card&utm_source=bhge       valid
+Crawling page: https://www.bhge.com/       valid
+Crawling page: https://www.swagelok.com:443/en/About/Global-Coverage       valid
+Crawling page: https://www.swagelok.com:443/en/About/Our-Business       valid
+Crawling page: https://www.swagelok.com:443/en/About/Our-Leadership       valid
+Crawling page: https://www.swagelok.com:443/en/About/Our-Values       valid
+Crawling page: https://www.swagelok.com:443/en/About/Our-Founder       valid
+Crawling page: https://www.swagelok.com:443/en/About/Newsroom       valid
+Crawling page: https://www.swagelok.com:443/en/About       valid
+Crawling page: https://www.swagelok.com:443/en/About/Our-Business/Quality       valid
+Crawling page: https://www.swagelok.com:443/en/About/Our-Business/Services       valid
+Crawling page: https://www.swagelok.com:443/en/About/Our-Business/Inventory       valid
+Crawling page: https://www.swagelok.com:443/en       valid
+Crawling page: https://www.basf.com/us/en/media/multimedia.html       valid
+Crawling page: https://www.basf.com/us/en/who-we-are/sustainability.html       valid
+Crawling page: https://www.basf.com/us/en/media/news-releases.html       valid
+Crawling page: https://www.basf.com/us/en/media.html       valid
+Crawling page: https://solarreserve.com/en/about/contact       valid
+Crawling page: https://solarreserve.com/en/about       valid
+Crawling page: https://solarreserve.com/en/about/careers       valid
+Crawling page: https://solarreserve.com/en/about/board       valid
+Crawling page: https://www.basf.com/us/en/careers.html       valid
+Crawling page: https://www.basf.com/us/en/who-we-are.html       valid
+Crawling page: https://www.basf.com/us/en/who-we-are.html       valid
+Crawling page: https://www.basf.com/us/en/who-we-are/innovation.html       valid
+Crawling page: https://solarreserve.com/en/about/management       valid
+Crawling page: https://solarreserve.com/en/about/community       valid
+Crawling page: https://solarreserve.com/en/about       valid
+Crawling page: https://www.prg.com/about-prg/company       valid
+Crawling page: http://bruinbiometrics.com/us/about-us/careers       valid
+Crawling page: http://bruinbiometrics.com/us/about-us/team       valid
+Crawling page: http://bruinbiometrics.com/us/about-us       valid
+Crawling page: https://www.basf.com/global/en/media/events/2018/strategy-press-conference.html       valid
+Crawling page: http://bruinbiometrics.com/us/about-us/about-us-2       valid
+Crawling page: http://bruinbiometrics.com/us/about-us/mission-values       valid
+Crawling page: http://bruinbiometrics.com/us/sem/pressure-ulcers-dtis       valid
+Crawling page: http://bruinbiometrics.com/us/about-us/board-of-directors       valid
+Crawling page: https://usa.healthcare.siemens.com/about       valid
+Crawling page: http://magnoliaoptical.com/index.php?rt=about/index       valid
+Crawling page: http://magnoliaoptical.com/index.php?rt=about/mgt       valid
+Crawling page: http://magnoliaoptical.com/index.php?rt=about/vision       valid
+Crawling page: https://www.birdbgone.com/       valid
+Crawling page: https://usa.healthcare.siemens.com/corporate-info       valid
+Crawling page: https://www.oneearthdesigns.com/about-us/       valid
+Crawling page: https://usa.healthcare.siemens.com/healthineers-population-health-management       valid
+Crawling page: https://usa.healthcare.siemens.com/about-us/leading-the-way-in-pama-readiness       valid
+Crawling page: https://usa.healthcare.siemens.com/point-of-care-testing/chronic-disease-management       valid
+Crawling page: https://usa.healthcare.siemens.com/about-us/compliance       valid
+Crawling page: https://usa.healthcare.siemens.com/about       valid
+Crawling page: https://usa.healthcare.siemens.com/about       valid
+Crawling page: http://magnoliaoptical.com/index.php?rt=about/strategy       valid
+Crawling page: http://magnoliaoptical.com/index.php?rt=about/contact       valid
+Crawling page: https://www.birdbgone.com/bird/       valid
+Crawling page: http://www.adhesivesresearch.com/about/       valid
+Crawling page: http://www.adhesivesresearch.com/learn-about-the-benefits-of-arx-thin-films-and-transdermal-patches-at-drug-delivery-partnerships-2017/       valid
+Crawling page: http://www.adhesivesresearch.com/capabilities/custom-manufacturing-project-management/       valid
+Crawling page: https://www.smartplanettech.com/about-us/       valid
+Crawling page:/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:57:32 [scrapy.extensions.logstats] INFO: Crawled 238 pages (at 17 pages/min), scraped 219 items (at 16 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:58:22 [scrapy.extensions.logstats] INFO: Crawled 239 pages (at 1 pages/min), scraped 223 items (at 4 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 20:58:51 [scrapy.extensions.logstats] INFO: Crawled 239 pages (at 0 pages/min), scraped 226 items (at 3 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:00:18 [scrapy.extensions.logstats] INFO: Crawled 254 pages (at 15 pages/min), scraped 238 items (at 12 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:00:56 [scrapy.extensions.logstats] INFO: Crawled 254 pages (at 0 pages/min), scraped 242 items (at 4 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:01:56 [scrapy.extensions.logstats] INFO: Crawled 262 pages (at 8 pages/min), scraped 249 items (at 7 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:02:28 [root] ERROR: Unable to find match for url: https://www.sony.net/
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:02:56 [scrapy.extensions.logstats] INFO: Crawled 275 pages (at 13 pages/min), scraped 258 items (at 9 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:03:54 [scrapy.extensions.logstats] INFO: Crawled 285 pages (at 10 pages/min), scraped 269 items (at 11 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:04:34 [scrapy.extensions.logstats] INFO: Crawled 291 pages (at 6 pages/min), scraped 273 items (at 4 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:05:43 [scrapy.extensions.logstats] INFO: Crawled 304 pages (at 13 pages/min), scraped 283 items (at 10 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:06:38 [scrapy.extensions.logstats] INFO: Crawled 306 pages (at 2 pages/min), scraped 292 items (at 9 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:07:45 [scrapy.extensions.logstats] INFO: Crawled 319 pages (at 13 pages/min), scraped 301 items (at 9 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:08:51 [scrapy.extensions.logstats] INFO: Crawled 324 pages (at 5 pages/min), scraped 311 items (at 10 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+ https://elenion.com/team/       valid
+Crawling page: https://elenion.com/summary/       valid
+Crawling page: https://elenion.com/summary/       valid
+Crawling page: https://www.birdbgone.com/about/       valid
+Crawling page: https://www.asurion.com/about/leadership/       valid
+Crawling page: https://www.asurion.com/about/contact-us/       valid
+Crawling page: https://www.asurion.com/extended-warranty/       valid
+Crawling page: https://www.asurion.com/about/newsroom/       valid
+Crawling page: https://www.birdbgone.com/industry/property-management/       valid
+Crawling page: https://www.asurion.com/about/partner-with-us/       valid
+Crawling page: https://www.asurion.com/about/awards/       valid
+Crawling page: https://www.asurion.com/about/       valid
+Crawling page: https://www.asurion.com/about/careers/       valid
+Crawling page: https://www.asurion.com/about/smb/       valid
+Crawling page: https://www.asurion.com/about/business-insights/       valid
+Crawling page: https://www.asurion.com/about/reviews-and-ratings/       valid
+Crawling page: https://poet.com/about       valid
+Crawling page: https://sionpower.com/       valid
+Crawling page: https://sionpower.com/about/       valid
+Crawling page: http://gswps.com/AboutUs.aspx       valid
+Crawling page: http://altarockenergy.com/about-us/       valid
+Crawling page: http://altarockenergy.com/about-us/partners/       valid
+Crawling page: http://atomera.com/overview/       valid
+Crawling page: http://atomera.com/management/       valid
+Crawling page: https://www.coolplanet.com/about/advisory-board/       valid
+Crawling page: https://www.coolplanet.com/about/management/       valid
+Crawling page: https://www.coolplanet.com/about/investors/       valid
+Crawling page: https://www.coolplanet.com/about/associations/       valid
+Crawling page: https://www.aerogen.com/our-story/       valid
+Crawling page: https://www.aerogen.com/our-story/       valid
+Crawling page: https://www.coolplanet.com/about/careers/       valid
+Crawling page: https://www.coolplanet.com/about/board-of-directors/       valid
+Crawling page: https://www.sony.com/en_us/SCA/index.html       valid
+Crawling page: https://www.sony.com/en_us/SCA/company-news/press-releases.html       valid
+Crawling page: https://www.coolplanet.com/about/corporate/       valid
+Crawling page: https://www.noble.org/about/       valid
+Crawling page: https://www.aerogen.com/respiratory-care/       valid
+Crawling page: https://www.aerogen.com/our-story/       valid
+Crawling page: https://www.noble.org/news/publications/ag-news-and-views/2018/november/pecan-management-calendar-november-to-january/       valid
+Crawling page: https://eink.com/about-us.html       valid
+Crawling page: https://eink.com/about-our-logo.html       valid
+Crawling page: https://eink.com/csr.html?type=vision       valid
+Crawling page: https://www.sony.net/       valid
+Crawling page: https://www.idealab.com/       valid
+Crawling page: https://www.idealab.com/bio/management/debbie_chen.php       valid
+Crawling page: https://www.idealab.com/bio/management/bill_gross.php       valid
+Crawling page: https://www.idealab.com/       valid
+Crawling page: https://www.aerogen.com/our-story/       valid
+Crawling page: https://www.aerogen.com/our-story/       valid
+Crawling page: https://www.idealab.com/bio/management/wes_ferrari.php       valid
+Crawling page: https://www.idealab.com/bio/management/alex_maleki.php       valid
+Crawling page: https://www.idealab.com/bio/management/jason_atzert.php       valid
+Crawling page: https://www.idealab.com/bio/management/tom_mcgovern.php       valid
+Crawling page: https://www.idealab.com/bio/management/craig_chrisney.php       valid
+Crawling page: https://www.idealab.com/bio/management/yeran_melelian.php       valid
+Crawling page: https://www.idealab.com/bio/management/marcia_goodstein.php       valid
+Crawling page: https://www.netapp.com/us/company/news/index.aspx       valid
+Crawling page: https://www.netapp.com/us/company/events/index.aspx       valid
+Crawling page: https://www.netapp.com/us/company/about-netapp/dvc-ebc/index.aspx       valid
+Crawling page: https://www.netapp.com/us/solutions/unstructured-data/rich-media.aspx       valid
+Crawling page: https://www.netapp.com/us/company/corporate-social-responsibility.aspx       valid
+Crawling page: https://www.netapp.com/us/solutions/devops/configuration-management.aspx       valid
+Crawling page: https://www.netapp.com/us/solutions/data-insights/performance-management.aspx       valid
+Crawling page: https://www.netapp.com/us/solutions/data-insights/capacity-management-analytics.aspx       valid
+Crawling page: https://www.netapp.com/us/company/about-netapp/index.aspx       valid
+Crawling page: https://www.netapp.com/us/solutions/unstructured-data/distributed-content.aspx       valid
+Crawling page: https://www.aerogen.com/our-story/       valid
+Crawling page: https://www.aerogen.com/technology/       valid
+Crawling page: https://www.aerogen.com/respiratory-care/       valid
+Crawling page: http://appliedmembranetech.com/leadership-team/       valid
+Crawling page: https://www.bosch.com/stories/vision-2030/       valid
+Crawling page: https://www.bosch.com/our-company/       valid
+Crawling page: https://www.bosch.com/our-company/our-people/       valid
+Crawling page: https://www.bosch.com/our-company/our-figures/       valid
+Crawling page: https://www.bosch.com/our-company/our-history/       valid
+Crawling page: https://www.bosch.com/research/about-research/       valid
+Crawling page: https://www.bosch.com/our-company/sustainability/       valid
+Crawling page: https://cellularresearchinstitute.com/about.html       valid
+Crawling page: https://www.aerogen.com/technology/       valid
+Crawling page: https://www.bosch.com/research/about-research/roots/       valid
+Crawling page: https://www.bosch.com/our-company/our-figures/       valid
+Crawling page: https://www.bosch.com/research/about-research/purpose/       valid
+Crawling page: https://www.aerogen.com/our-story/       valid
+Crawling page: https://www.bosch.com/corporate-information/?prevent-auto-open-privacy-settings=1       valid
+Crawling page: https://www.hamamatsu.com/jp/en/our-company/history/index.html       valid
+Crawling page: https://www.hamamatsu.com/jp/en/our-company/about-crl/index.html       valid
+Crawling page: https://www.gsk.com/en-gb/about-us/governance/       valid
+Crawling page: https://www.gsk.com/en-gb/about-us/       valid
+Crawling page: https://www.gsk.com/en-gb/about-us/key-facts/       valid
+Crawling page: https://www.gsk.com/en-gb/about-us/vaccines/       valid
+Crawling page: https://www.hamamatsu.com/jp/en/our-company/at-a-glance/index.html       valid
+Crawling page: https://www.hamamatsu.com/jp/en/our-company/index.html       valid
+Crawling page: https://www.hamamatsu.com/jp/en/our-company/csr/index.html       valid
+Crawling page: https://www.gsk.com/en-gb/careers/culture-and-values/       valid
+Crawling page: https://www.gsk.com/en-gb/about-us/pharmaceuticals/       valid
+Crawling page: https://www.gsk.com/en-gb/investors/about-gsk/       valid
+Crawling page: https://www.gsk.com/en-gb/about-us/our-history/       valid
+Crawling page: https://www.hamamatsu.com/jp/en/our-company/our-philosophy/index.html       valid
+Crawling page: https://www.gsk.com/en-gb/about-us/board-of-directors/       valid
+Crawling page: https://www.gsk.com/en-gb/about-us/consumer-healthcare/       valid
+Crawling page: https://www.gsk.com/en-gb/investors/corporate-reporting/       valid
+Crawling page: http://travisindustries.com/news-items.aspx       valid
+Crawling page: http://www.bemis.com/careers       valid
+Crawling page: http://www.bemis.com/about-bemis       valid
+Crawling page: https://www.hamamatsu.com/jp/en/our-company/at-a-glance/index.html       valid
+Crawling page: https://www.hamamatsu.com/jp/en/our-company/csr/index.html       valid
+Crawling page: https://www.hamamatsu.com/jp/en/our-company/history/index.html       valid
+Crawling page: https://www.hamamatsu.com/jp/en/our-company/index.html       valid
+Crawling page: https://www.hamamatsu.com/jp/en/our-company/about-crl/index.html       valid
+Crawling page: http://www.bemis.com/about-bemis/sustainability/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:10:25 [scrapy.extensions.logstats] INFO: Crawled 343 pages (at 19 pages/min), scraped 323 items (at 12 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:10:51 [scrapy.extensions.logstats] INFO: Crawled 344 pages (at 1 pages/min), scraped 327 items (at 4 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:12:10 [scrapy.extensions.logstats] INFO: Crawled 344 pages (at 0 pages/min), scraped 331 items (at 4 items/min)
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:12:36 [scrapy.extensions.logstats] INFO: Crawled 345 pages (at 1 pages/min), scraped 332 items (at 1 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:13:35 [scrapy.extensions.logstats] INFO: Crawled 353 pages (at 8 pages/min), scraped 337 items (at 5 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:14:41 [scrapy.extensions.logstats] INFO: Crawled 362 pages (at 9 pages/min), scraped 345 items (at 8 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:16:10 [scrapy.extensions.logstats] INFO: Crawled 376 pages (at 14 pages/min), scraped 361 items (at 16 items/min)
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:16:19 [root] ERROR: Unable to find match for url: https://careers.microchip.com/
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:16:32 [scrapy.extensions.logstats] INFO: Crawled 376 pages (at 0 pages/min), scraped 364 items (at 3 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:17:56 [scrapy.extensions.logstats] INFO: Crawled 395 pages (at 19 pages/min), scraped 378 items (at 14 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:18:38 [scrapy.extensions.logstats] INFO: Crawled 400 pages (at 5 pages/min), scraped 386 items (at 8 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:18:50 [scrapy.core.scraper] ERROR: Error downloading <GET https://ag.energy/about/>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/scrapy/core/downloader/middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+twisted.web._newclient.ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+2018-12-25 21:18:50 [scrapy.core.scraper] ERROR: Error downloading <GET https://ag.energy/about-2/>
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/scrapy/core/downloader/middleware.py", line 43, in process_request
+    defer.returnValue((yield download_func(request=request,spider=spider)))
+twisted.web._newclient.ResponseNeverReceived: [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:19:46 [scrapy.extensions.logstats] INFO: Crawled 411 pages (at 11 pages/min), scraped 397 items (at 11 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:21:02 [scrapy.extensions.logstats] INFO: Crawled 428 pages (at 17 pages/min), scraped 405 items (at 8 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:21:59 [root] ERROR: Unable to find match for url: https://corporate.dow.com/en-us/about/locations
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:22:04 [root] ERROR: Unable to find match for url: https://corporate.dow.com/en-us/about/locations
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:22:08 [root] ERROR: Unable to find match for url: https://corporate.dow.com/en-us/about/locations
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:22:13 [root] ERROR: Unable to find match for url: https://corporate.dow.com/en-us/about/locations
+2018-12-25 21:22:13 [scrapy.extensions.logstats] INFO: Crawled 432 pages (at 4 pages/min), scraped 414 items (at 9 items/min)
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:22:17 [root] ERROR: Unable to find match for url: https://corporate.dow.com/en-us/about/locations
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:22:22 [root] ERROR: Unable to find match for url: https://corporate.dow.com/en-us/about/locations
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:22:44 [scrapy.extensions.logstats] INFO: Crawled 432 pages (at 0 pages/min), scraped 420 items (at 6 items/min)
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:22:50 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.acer.com/ac/en/US/content/en/US/content/my-profile>: HTTP status code is not handled or not allowed
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:23:03 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <404 https://www.acer.com/ac/en/US/content/en/US/content/csr>: HTTP status code is not handled or not allowed
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+       valid
+Crawling page: http://www.bemis.com/about-bemis/citizenship       valid
+Crawling page: http://www.bemis.com/about-bemis/about-us       valid
+Crawling page: http://www.bemis.com/about-bemis/bemis-graphics       valid
+Crawling page: http://www.bemis.com/about-bemis/corporate-governance       valid
+Crawling page: http://www.bemis.com/about-bemis/about-us/our-leadership       valid
+Crawling page: http://www.bemis.com/about-bemis/bemis-innovation-center       valid
+Crawling page: http://www.bemis.com/about-bemis/about-us/our-work-matters       valid
+Crawling page: http://www.bemis.com/about-bemis/citizenship/bemis-company-foundation       valid
+Crawling page: http://acorntech.com/company/       valid
+Crawling page: http://acorntech.com/company/careers/       valid
+Crawling page: http://acorntech.com/news/press/       valid
+Crawling page: http://acorntech.com/company/leadership/       valid
+Crawling page: http://acorntech.com/company/innovation/       valid
+Crawling page: https://www.microsemi.com/company/in-the-news       valid
+Crawling page: https://www.microsemi.com/corporate-contacts       valid
+Crawling page: https://www.microsemi.com/company/acquisitions       valid
+Crawling page: https://www.microsemi.com/company/technology       valid
+Crawling page: https://www.microsemi.com/company/awards       valid
+Crawling page: https://www.microsemi.com/company/about-us       valid
+Crawling page: https://www.microsemi.com/company/quality       valid
+Crawling page: https://www.microsemi.com/company/terms-of-use       valid
+Crawling page: https://www.atum.bio/company?mi=6454       valid
+Crawling page: https://www.atum.bio/company?mi=82       valid
+Crawling page: https://www.atum.bio/company/careers       valid
+Crawling page: https://www.atum.bio/company       valid
+Crawling page: https://www.microsemi.com/company/privacy-policy       valid
+Crawling page: https://www.microsemi.com/company/cookie-policy       valid
+Crawling page: http://daylightsolutions.com/about-us/       valid
+Crawling page: http://daylightsolutions.com/about-us/blog/       valid
+Crawling page: http://daylightsolutions.com/about-us/events/       valid
+Crawling page: http://daylightsolutions.com/about-us/news-room/       valid
+Crawling page: http://daylightsolutions.com/about-us/contact-us/       valid
+Crawling page: http://daylightsolutions.com/about-us/leadership/       valid
+Crawling page: http://daylightsolutions.com/about-us/awards/       valid
+Crawling page: https://www.atum.bio/company/news-events/events       valid
+Crawling page: https://www.atum.bio/company/partners       valid
+Crawling page: https://www.atum.bio/company/news-events       valid
+Crawling page: https://www.atum.bio/company/contact       valid
+Crawling page: http://daylightsolutions.com/about-us/contact-us/distributors/       valid
+Crawling page: http://daylightsolutions.com/about-us/contact-us/customer-support/       valid
+Crawling page: http://daylightsolutions.com/home/technology/about-mid-ir-quantum-cascade-lasers/       valid
+Crawling page: https://careers.microchip.com/       valid
+Crawling page: https://www.atum.bio/company/news-events/in-the-news       valid
+Crawling page: https://www.atum.bio/company/news-events/newsletters       valid
+Crawling page: http://www.agcbio.com/about/our_history       valid
+Crawling page: http://www.agcbio.com/about_us       valid
+Crawling page: http://livetv.sx/enx/myteams/       valid
+Crawling page: http://www.agcbio.com/joinourteam/usa_careers       valid
+Crawling page: http://www.agcbio.com/joinourteam/our_benefits       valid
+Crawling page: http://www.agcbio.com/about/environmental_policy       valid
+Crawling page: http://www.agcbio.com/joinourteam/copenhagen_careers       valid
+Crawling page: http://www.agcbio.com/about/executive_management       valid
+Crawling page: http://www.agcbio.com/join_our_team       valid
+Crawling page: https://www.atum.bio/company/terms-and-conditions       valid
+Crawling page: https://bionanogenomics.com/company/certified-service-providers/       valid
+Crawling page: https://bionanogenomics.com/company/legal-notices/       valid
+Crawling page: https://bionanogenomics.com/company/       valid
+Crawling page: https://bionanogenomics.com/company/distributors/       valid
+Crawling page: http://www.agcbio.com/joinourteam/heidelberg_careers_agc       valid
+Crawling page: https://bionanogenomics.com/company/senior-management/       valid
+Crawling page: https://bionanogenomics.com/company/board-of-directors/       valid
+Crawling page: http://www.glycon.com/history       valid
+Crawling page: http://www.glycon.com/history/what-s-new       valid
+Crawling page: http://www.glycon.com/history/terms-and-conditions       valid
+Crawling page: http://www.atonometrics.com/about/       valid
+Crawling page: http://www.atonometrics.com/atonometrics-has-shipped-over-600-soiling-measurement-systems-worldwide-ask-us-about-our-new-mars-optical-soiling-sensor/       valid
+Crawling page: http://www.nanotechbio.com/support/       valid
+Crawling page: http://www.nanotechbio.com/team/       valid
+Crawling page: https://www.oracle.com/cloud/       valid
+Crawling page: https://www.oracle.com/corporate/       valid
+Crawling page: https://www.oracle.com/corporate/       valid
+Crawling page: https://www.oracle.com/corporate/press/       valid
+Crawling page: https://www.oracle.com/corporate/pricing/       valid
+Crawling page: https://www.oracle.com/corporate/careers/       valid
+Crawling page: https://www.oracle.com/corporate/cvc.html       valid
+Crawling page: https://www.oracle.com/corporate/contact/       valid
+Crawling page: https://www.oracle.com/index.html       valid
+Crawling page: https://www.oracle.com/enterprise-manager/       valid
+Crawling page: https://www.oracle.com/index.html       valid
+Crawling page: https://www.thermofisher.com/us/en/home/life-science/lab-data-management-analysis-software/lab-apps/cell-staining-tool.html       valid
+Crawling page: https://www.thermofisher.com/us/en/home/about-us/partnering-licensing/oem-commercial-supply.html       valid
+Crawling page: https://www.thermofisher.com/us/en/home/life-science/lab-data-management-analysis-software.html       valid
+Crawling page: https://www.thermofisher.com/us/en/home/life-science/lab-data-management-analysis-software/lab-apps.html       valid
+Crawling page: http://inanobio.com/team.php       valid
+Crawling page: https://www.thermofisher.com/us/en/home/life-science/lab-data-management-analysis-software/enterprise-level-lab-informatics.html       valid
+Crawling page: https://www.thermofisher.com/us/en/home/about-us/events.html       valid
+Crawling page: https://www.thermofisher.com/us/en/home/about-us/partnering-licensing.html       valid
+Crawling page: http://inanobio.com/aboutus.php       valid
+Crawling page: https://www.thermofisher.com/us/en/home/about-us/corporate-social-responsibility.html       valid
+Crawling page: https://www.thermofisher.com/us/en/home/life-science/sample-storage-management.html       valid
+Crawling page: https://corporate.dow.com/en-us/about/locations       valid
+Crawling page: https://corporate.dow.com/en-us/about/locations       valid
+Crawling page: https://corporate.dow.com/en-us/about/locations       valid
+Crawling page: https://corporate.dow.com/en-us/about/locations       valid
+Crawling page: https://corporate.dow.com/en-us/about/locations       valid
+Crawling page: https://corporate.dow.com/en-us/about/locations       valid
+Crawling page: http://www.unity-sc.com/company/services/       valid
+Crawling page: http://www.unity-sc.com/company/contact/       valid
+Crawling page: http://www.unity-sc.com/company/network/       valid
+Crawling page: http://www.unity-sc.com/company/       valid
+Crawling page: http://www.unity-sc.com/company/missionvision/       valid
+Crawling page: https://www.broadcom.com/       valid
+Crawling page: https://www.broadcom.com/       valid
+Crawling page: https://www.broadcom.com/       valid
+Crawling page: https://www.armageddonenergy.com/company/       valid
+Crawling page: http://www.unity-sc.com/unity-sc-fogale-nanotech-company-disclosed-two-new-metrology-solutions-advanced-packaging-applications/       valid
+Crawling page: http://www.unity-sc.com/company/legal-statement//bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:23:44 [scrapy.extensions.logstats] INFO: Crawled 447 pages (at 15 pages/min), scraped 430 items (at 10 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:24:34 [scrapy.extensions.logstats] INFO: Crawled 452 pages (at 5 pages/min), scraped 438 items (at 8 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:26:35 [scrapy.extensions.logstats] INFO: Crawled 473 pages (at 21 pages/min), scraped 454 items (at 16 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:28:15 [scrapy.extensions.logstats] INFO: Crawled 492 pages (at 19 pages/min), scraped 469 items (at 15 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:28:43 [scrapy.extensions.logstats] INFO: Crawled 495 pages (at 3 pages/min), scraped 472 items (at 3 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:29:38 [scrapy.extensions.logstats] INFO: Crawled 499 pages (at 4 pages/min), scraped 481 items (at 9 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:31:02 [scrapy.extensions.logstats] INFO: Crawled 523 pages (at 24 pages/min), scraped 495 items (at 14 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:31:51 [scrapy.extensions.logstats] INFO: Crawled 524 pages (at 1 pages/min), scraped 503 items (at 8 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:32:35 [scrapy.extensions.logstats] INFO: Crawled 524 pages (at 0 pages/min), scraped 510 items (at 7 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:33:41 [scrapy.extensions.logstats] INFO: Crawled 538 pages (at 14 pages/min), scraped 522 items (at 12 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:33:54 [scrapy.spidermiddlewares.httperror] INFO: Ignoring response <406 http://neumedicines.com/>: HTTP status code is not handled or not allowed
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:34:01 [scrapy.core.scraper] ERROR: Spider error processing <GET https://kinetechpower.com/> (referer: None)
+Traceback (most recent call last):
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/scrapy/utils/defer.py", line 102, in iter_errback
+    yield next(it)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/scrapy/spidermiddlewares/offsite.py", line 30, in process_spider_output
+    for x in result:
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/scrapy/spidermiddlewares/referer.py", line 339, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/scrapy/spidermiddlewares/urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/scrapy/spidermiddlewares/depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "/home/ubuntu/EAGER/code/crawler/FirmDB/spiders/HTMLSpider.py", line 58, in parse
+    browser.get(response.url)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/ubuntu/.local/lib/python3.6/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: Reached error page: about:neterror?e=nssFailure2&u=https%3A//kinetechpower.com/&c=UTF-8&f=regular&d=The%20connection%20to%20kinetechpower.com%20was%20interrupted%20while%20the%20page%20was%20loading.
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+2018-12-25 21:35:00 [root] ERROR: Unable to find match for url: http://sirnaomics.wixsite.com/english
+2018-12-25 21:35:00 [scrapy.extensions.logstats] INFO: Crawled 554 pages (at 16 pages/min), scraped 536 items (at 14 items/min)
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+/bin/sh: 1: kill: No such process
+
+       valid
+Crawling page: http://elementonescreens.com/element-one/team/       valid
+Crawling page: http://elementonescreens.com/element-one/vision/       valid
+Crawling page: http://elementonescreens.com/unser-vertriebsteam-sucht-verstaerkung/       valid
+Crawling page: https://www.broadcom.com/company/about-us/       valid
+Crawling page: https://www.broadcom.com/       valid
+Crawling page: https://www.broadcom.com/       valid
+Crawling page: https://www.broadcom.com/       valid
+Crawling page: https://www.broadcom.com/company/news/       valid
+Crawling page: https://www.broadcom.com/company/careers/       valid
+Crawling page: https://www.broadcom.com/company/contact/       valid
+Crawling page: https://www.broadcom.com/       valid
+Crawling page: https://www.ormat.com/en/company/welcome/profile/       valid
+Crawling page: https://www.ormat.com/en/company/contact/main/       valid
+Crawling page: https://www.ormat.com/en/company/careers/main/       valid
+Crawling page: https://www.ormat.com/en/company/welcome/history/       valid
+Crawling page: https://grampower.com/about-us/about-us.html       valid
+Crawling page: https://grampower.com/about-us/join-us.html       valid
+Crawling page: https://www.ormat.com/en/company/welcome/leadership/       valid
+Crawling page: https://www.saint-gobain-abrasives.com/en-us/newsroom/press_releases/saint-gobain-recognized-%C2%A02018-corporate-equality-index       valid
+Crawling page: https://www.saint-gobain-abrasives.com/en-us/about-us       valid
+Crawling page: https://www.saint-gobain-abrasives.com/en-us/newsroom/news/abrasives-supply-tool-sharpening-company       valid
+Crawling page: http://esolar.solar/about       valid
+Crawling page: https://www.dictionary.com/e/about/       valid
+Crawling page: https://www.saint-gobain-abrasives.com/en-us/newsroom/news/norton-primary-sponsor-usa-luge-team       valid
+Crawling page: https://www.ormat.com/en/company/welcome/governance/       valid
+Crawling page: https://www.ormat.com/en/company/general/view/?ContentID=140       valid
+Crawling page: https://www.ormat.com/en/company/welcome/manufacturing/       valid
+Crawling page: https://grampower.com/about-us/our-team.html       valid
+Crawling page: https://www.saint-gobain-abrasives.com/en-us/corporate-social-responsibility       valid
+Crawling page: https://www.saint-gobain-abrasives.com/en-us/proud-our-history       valid
+Crawling page: https://www.ormat.com/en/company/welcome/mission-and-values/       valid
+Crawling page: https://www.ormat.com/en/company/general/view/?ContentID=289       valid
+Crawling page: https://www.ormat.com/en/company/general/view/?ContentID=290       valid
+Crawling page: http://ci4.us/infosci-cautions-federal-lawmakers-about-security-vulnerabilities-in-distributed-ledger-technology/       valid
+Crawling page: http://ci4.us/about       valid
+Crawling page: http://amberwave.com/about.html       valid
+Crawling page: http://www.lintec-global.com/about/message/       valid
+Crawling page: http://www.lintec-global.com/about/motto/       valid
+Crawling page: http://www.lintec-global.com/about/history/       valid
+Crawling page: http://www.lintec-global.com/about/       valid
+Crawling page: https://www.angaza.com/about/       valid
+Crawling page: http://nanotekinstruments.com/about-us/       valid
+Crawling page: http://www.lintec-global.com/ir/management/       valid
+Crawling page: http://www.lintec-global.com/about/overview/       valid
+Crawling page: http://www.lintec-global.com/about/brochure/book/       valid
+Crawling page: https://www.kulite.com/company/       valid
+Crawling page: https://www.kulite.com/company/news/       valid
+Crawling page: http://www.lintec-global.com/about/country/japan.html       valid
+Crawling page: http://www.lintec-global.com/about/country/americas.html       valid
+Crawling page: http://www.lintec-global.com/about/country/eme.html       valid
+Crawling page: http://www.lintec-global.com/about/network/       valid
+Crawling page: https://www.kulite.com/company/events/       valid
+Crawling page: https://www.kulite.com/company/contact-info/       valid
+Crawling page: https://www.kulite.com/company/mission-statement/       valid
+Crawling page: https://www.kulite.com/company/customer-resources/       valid
+Crawling page: https://www.kulite.com/company/community-engagement/       valid
+Crawling page: https://www.kulite.com/company/corporate-responsibility/       valid
+Crawling page: https://www.kulite.com/company/history/       valid
+Crawling page: https://www.kulite.com/company/supplier-code-of-conduct/       valid
+Crawling page: https://www.capsugel.com/now-a-lonza-company       valid
+Crawling page: https://www.capsugel.com/about-capsugel       valid
+Crawling page: http://pidc.com/our-company       valid
+Crawling page: http://pidc.com/our-company/news       valid
+Crawling page: http://pidc.com/our-company/careers       valid
+Crawling page: https://www.christiedigital.com/en-us/about-christie/contact-us       valid
+Crawling page: https://www.christiedigital.com/en-us/about-christie       valid
+Crawling page: https://www.christiedigital.com/en-us/about-christie/news-room       valid
+Crawling page: https://www.christiedigital.com/en-us/about-christie/careers       valid
+Crawling page: https://www.christiedigital.com/en-us/about-christie/executive-profiles       valid
+Crawling page: http://pidc.com/our-company/corporate-overview       valid
+Crawling page: http://pidc.com/our-company/locations       valid
+Crawling page: http://pidc.com/our-company/media-kit       valid
+Crawling page: http://pidc.com/our-company/management-team       valid
+Crawling page: https://www.christiedigital.com/en-us/about-christie/privacy-policy       valid
+Crawling page: https://www.christiedigital.com/en-us/about-christie/cookie-notice       valid
+Crawling page: https://www.christiedigital.com/en-us/about-christie/sustainability       valid
+Crawling page: http://trucent.com/       valid
+Crawling page: http://www.wikipad.com/       valid
+Crawling page: http://www.verliantenergy.com/       valid
+Crawling page: https://www.christiedigital.com/en-us/about-christie/christie-locations       valid
+Crawling page: https://www.christiedigital.com/en-us/about-christie/terms-and-conditions       valid
+Crawling page: https://www.christiedigital.com/en-us       valid
+Crawling page: http://pidc.com/our-company/news/pacific-industrial-development-corp-expanding-pittsfield-township-investing-172       valid
+Crawling page: http://suganit.com/       valid
+Crawling page: http://stablcor.com/       valid
+Crawling page: http://solazyme.com/       valid
+Crawling page: https://www.xyleco.com/       valid
+Crawling page: https://www.tessera.com/       valid
+Crawling page: http://www.starlightenergy.us/       valid
+Crawling page: http://nanotechlubricantsinc.com/Home.html       valid
+Crawling page: https://www.thorlabs.com/       valid
+Crawling page: http://www.solight.com/       valid
+Crawling page: https://www.shoals.com/       valid
+Crawling page: https://www.singularbio.com/       valid
+Crawling page: https://www.zon.si/       valid
+Crawling page: http://www.pelliontech.com/       valid
+Crawling page: http://plasmatherm.com/index.html       valid
+Crawling page: http://www.mci.com/mcihome.jsp       valid
+Crawling page: https://selmanlog.com/Default.aspx       valid
+Crawling page: https://kinetechpower.com/       Crawling page: https://www.sigmaaldrich.com/       valid
+Crawling page: https://www.rockwellautomation.com/site-selection.html       valid
+Crawling page: https://www.ostendo.com/       valid
+Crawling page: http://port-a-fire.ca/       valid
+Crawling page: https://quantapore.com/       valid
+Crawling page: http://www.nanogram.com/home/       valid
+Crawling page: https://www.ako2.us.army.mil/local/acceptance.html       valid
+Crawling page: https://research.synaptic.co.uk/SynapticResearch/login.asp?t=98266&page=/Default.asp?       valid
+Crawling page: https://www.proterra.com/       valid
+Crawling page: http://sirnaomics.wixsite.com/english       valid
+Crawling page: https://www.sunspecialtyproducts.com/       valid
+Crawling page: http://opelinc.com/       valid
+Crawling page: https://www.oculus.com/       valid
+Crawling page:/bin/sh: 1: kill: No such process
+
+2018-12-25 21:35:31 [scrapy.core.engine] INFO: Closing spider (finished)
+2018-12-25 21:35:31 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 120,
+ 'downloader/exception_type_count/twisted.internet.error.ConnectError': 4,
+ 'downloader/exception_type_count/twisted.web._newclient.ResponseNeverReceived': 116,
+ 'downloader/request_bytes': 257999,
+ 'downloader/request_count': 816,
+ 'downloader/request_method_count/GET': 816,
+ 'downloader/response_bytes': 18858689,
+ 'downloader/response_count': 696,
+ 'downloader/response_status_count/200': 542,
+ 'downloader/response_status_count/301': 126,
+ 'downloader/response_status_count/302': 11,
+ 'downloader/response_status_count/404': 13,
+ 'downloader/response_status_count/406': 1,
+ 'downloader/response_status_count/503': 3,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2018, 12, 25, 21, 35, 31, 58374),
+ 'httperror/response_ignored_count': 15,
+ 'httperror/response_ignored_status_count/404': 13,
+ 'httperror/response_ignored_status_count/406': 1,
+ 'httperror/response_ignored_status_count/503': 1,
+ 'item_scraped_count': 540,
+ 'log_count/ERROR': 49,
+ 'log_count/INFO': 83,
+ 'log_count/WARNING': 4,
+ 'memusage/max': 188936192,
+ 'memusage/startup': 97259520,
+ 'response_received_count': 556,
+ 'retry/count': 117,
+ 'retry/max_reached': 6,
+ 'retry/reason_count/503 Service Unavailable': 2,
+ 'retry/reason_count/twisted.internet.error.ConnectError': 4,
+ 'retry/reason_count/twisted.web._newclient.ResponseNeverReceived': 111,
+ 'scheduler/dequeued': 816,
+ 'scheduler/dequeued/memory': 816,
+ 'scheduler/enqueued': 816,
+ 'scheduler/enqueued/memory': 816,
+ 'spider_exceptions/WebDriverException': 1,
+ 'start_time': datetime.datetime(2018, 12, 25, 20, 31, 32, 562651)}
+2018-12-25 21:35:31 [scrapy.core.engine] INFO: Spider closed (finished)
+ https://medport.com/       valid
