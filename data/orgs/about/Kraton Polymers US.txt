@@ -1,0 +1,375 @@
+This website uses cookies
+We use cookies as set out in our Privacy Statement . You consent to our cookies if you continue to use our website.
+Unclassified (2)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+kraton.com
+Stores the user's cookie consent state for the current domain
+1 year
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+s_cc
+adobe.com
+Session
+HTTP
+s_fid
+adobe.com
+Saves the current Flash version that is available in the user's browser.
+5 years
+HTTP
+s_vi
+adobe.com
+Registers a unique ID that identifies the user's device for return visits.
+2 years
+HTTP
+__utm.gif
+google-analytics.com
+Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+Session
+Pixel
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+__utma
+kraton.com
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+2 years
+HTTP
+__utmb
+kraton.com
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+1 day
+HTTP
+__utmc
+kraton.com
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Session
+HTTP
+__utmt
+kraton.com
+Used to throttle the speed of requests to the server.
+1 day
+HTTP
+__utmz
+kraton.com
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+6 months
+HTTP
+_ga
+kraton.com
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+HTTP
+_gid
+kraton.com
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+p.gif
+typekit.net
+Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+mbox
+adobe.com
+This cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency.
+1 day
+HTTP
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+sat_domain
+adobe.com
+Pending
+HTTP
+sjSE
+kraton.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 24/11/2018 by Cookiebot
+Toggle navigation
+Who We Are
+Kraton develops, manufactures and markets biobased  chemicals  and specialty polymers that deliver exceptional value and enhance the lives of  people all over the world. As  a leading global producer of styrenic block copolymers (SBC) and pine  chemicals, we manufacture high-performance materials that differentiate our customers’ products and meet multi-market needs.  Our global footprint, reliable supply, extensive  expertise and integrated portfolio of high-quality products enable our customers to push the boundaries of  performance to power the future of innovation.
+Kraton has more than 800 customers across a diverse range of  end markets in over 70 countries worldwide. We are committed to providing the  superior product development, exceptional technical service, sustainable  solutions and reliable quality supply that gives you the innovation edge.
+Vision
+To be an admired  Fortune 500 specialty chemical company delivering exceptional value to our  shareholders, customers and employees.
+Our vision sets the stage for us to continue redefining the specialty  chemical industry, just as we did over 50 years ago when we invented SBC – and  the SBC industry. Today, through our unique chemistry and commitment to  R&D, we are addressing market needs that include increasing  demand for higher performance and solving health  and environmental concerns. We are up to the challenge as we continue to  deliver compelling, innovative solutions that help our customers  differentiate their products, drive value for our shareholders and enrich the lives  of our employees – all of which are essential to our company’s continued growth.  Because at Kraton, we believe  a win-win strategy is the right way to do business.
+companyThis website uses cookies
+We use cookies as set out in our Privacy Statement . You consent to our cookies if you continue to use our website.
+Unclassified (2)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+kraton.com
+Stores the user's cookie consent state for the current domain
+1 year
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+s_cc
+adobe.com
+Session
+HTTP
+s_fid
+adobe.com
+Saves the current Flash version that is available in the user's browser.
+5 years
+HTTP
+s_vi
+adobe.com
+Registers a unique ID that identifies the user's device for return visits.
+2 years
+HTTP
+__utm.gif
+google-analytics.com
+Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+Session
+Pixel
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+__utma
+kraton.com
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+2 years
+HTTP
+__utmb
+kraton.com
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+1 day
+HTTP
+__utmc
+kraton.com
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Session
+HTTP
+__utmt
+kraton.com
+Used to throttle the speed of requests to the server.
+1 day
+HTTP
+__utmz
+kraton.com
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+6 months
+HTTP
+_ga
+kraton.com
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+HTTP
+_gid
+kraton.com
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+p.gif
+typekit.net
+Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+mbox
+adobe.com
+This cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency.
+1 day
+HTTP
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+sat_domain
+adobe.com
+Pending
+HTTP
+sjSE
+kraton.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 24/11/2018 by Cookiebot
+Toggle navigation
+Integrity
+Verve
+Relationships
+Creativity
+OwnershipThis website uses cookies
+We use cookies as set out in our Privacy Statement . You consent to our cookies if you continue to use our website.
+Unclassified (2)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+kraton.com
+Stores the user's cookie consent state for the current domain
+1 year
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+s_cc
+adobe.com
+Session
+HTTP
+s_fid
+adobe.com
+Saves the current Flash version that is available in the user's browser.
+5 years
+HTTP
+s_vi
+adobe.com
+Registers a unique ID that identifies the user's device for return visits.
+2 years
+HTTP
+__utm.gif
+google-analytics.com
+Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+Session
+Pixel
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+__utma
+kraton.com
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+2 years
+HTTP
+__utmb
+kraton.com
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+1 day
+HTTP
+__utmc
+kraton.com
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Session
+HTTP
+__utmt
+kraton.com
+Used to throttle the speed of requests to the server.
+1 day
+HTTP
+__utmz
+kraton.com
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+6 months
+HTTP
+_ga
+kraton.com
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+HTTP
+_gid
+kraton.com
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+p.gif
+typekit.net
+Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+mbox
+adobe.com
+This cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency.
+1 day
+HTTP
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+sat_domain
+adobe.com
+Pending
+HTTP
+sjSE
+kraton.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 24/11/2018 by Cookiebot
+Toggle navigation
+Pioneering Innovation
+Kraton’s legacy of innovations began in the 1950s, since we  were founded as part of Shell Chemical Company. Today, Kraton continues to  provide high-performance, sustainable solutions that deliver exceptional value  to customers, enabling them to make products that enhance the lives of people  all over the world. After more than half a century of innovation, Kraton  remains committed to redefining the industry through better chemistry.

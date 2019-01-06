@@ -1,0 +1,209 @@
+Community
+Blog
+Contact Us
+Login
+Header Navigation
+Products
+Explore Products
+Greenlight
+Static Analysis (SAST)
+Software Composition Analysis (SCA)
+Dynamic Analysis (DAST)
+Developer Training
+Vendor Application Security Testing
+Key Topics
+DevSecOps
+Security Certifications
+Veracode Integrations
+Web Application Scanning
+Mobile Application Security Testing
+Get Started 
+Greenlight Free Trial
+Sourceclear Free Trial
+Request a Quote
+Contact Sales
+Services
+Services & Support
+Application Security Consulting 
+Technical Support
+Manual Penetration Testing
+Developer Training
+Security Program Management
+Veracode Services Packages
+Veracode Verified
+Verified
+Get Verified
+Verified Directory
+Solutions
+By Business Need
+Compliance
+Veracode Integrations
+Third-Party Security
+By Organization Type
+Global Enterprise
+Midsize Enterprise
+Independent Software Vendor
+Resources
+Resource Center
+Intro to AppSec
+Managing AppSec
+Secure Development
+Regulation
+Getting Internal Buy In
+Third Party Software
+Product Documentation
+Explore More
+Get a Demo
+Common Vulnerabilities
+State Of Software Security
+Veracode Integrations
+About
+Our Company
+Work For Us
+Careers
+Leadership
+News & Events
+FAQs
+Partners
+Apply to Become a Partner
+Find a Partner
+Partner Community Login
+Connect With Us
+Contact Us
+Blog
+Facebook
+Twitter
+LinkedIn
+YouTube
+GET A DEMO
+GET A DEMO
+Blog
+Contact Us
+Community
+Login
+Transforming 
+Application Security
+Watch 2 Min Explainer
+Our Vision
+Who We Are
+Careers
+News & Blog
+Leadership
+Get a Demo
+Our Vision
+Veracode envisions a world where secure software is synonymous with great software, and where applications that matter are made to be secure from the start.
+ABOUT - DRAG TO SCROLL WIDGET
++25 LANGUAGES SUPPORTED
+45 INTEGRATIONS
+30 PATENTS
+FOUNDED IN 2006
+700 EMPLOYEES
+2 OFFICES
+77 FRAMEWORKS SUPPORTED
+ABOUT - PERSONA SET
+People
+Process
+Technology
+People
+OUR 
+PEOPLE
+Working with Veracode you gain access to some of the top security experts in the industry. These experts can offer strategic advice for building a scalable program, help executing your program, and remediation coaching for when flaws are found.
+Process
+OUR 
+PROCESS
+Our goal is to work with your security and development teams to create an advanced program – one that reduces risk across your entire application landscape, and accelerates your business. By embedding into your existing software development workflow, Veracode is able to ensure assessments and vulnerability remediation are completed during logical points throughout your distinct process.
+Technology
+OUR 
+TECHNOLOGY
+The power of the Veracode Platform is in its scalability, integrations with development tools and its ability to ensure security policies are consistently enforced across the enterprise. While some companies talk about scanning 10,000 applications overall, we scanned that many applications for a single customer.
+Careers
+SECURING THE SOFTWARE THAT POWERS YOUR WORLD IS A BIG JOB. We're focused on that mission every day. Application security isn't part of our business, it's our only business. And it's the driving force behind everything we do. At Veracode, we inspire a culture of innovation and infuse creativity into all our initiatives.
+Learn More
+News & Events
+ Government systems need better IT security
+Blog
+Carnegie Mellon’s Software Engineering Institute Report Shows Efficacy of Static Application Security Testing
+Learn More About Veracode
+Download Now
+Leadership
+When you work at Veracode, you become part of community of professionals dedicated to solving problems and helping each other reach their fullest potential.
+Learn More
+Get a Demo
+Get a Quote
+Contact Us
+Chat Now
+US:
+ 1-888-937-0329
+EMEA:
+ +44-(0)20-3761-5501
+[email protected]
+Visit the community >
+Cookie Use
+We use cookies to collect information to help us personalise your experience and improve the functionality and performance of our site. By continuing to use our site [without first changing your browser setting], you consent to our use of cookies. For more information see our 
+cookies policy
+.
+OK
+Products
+Greenlight
+Static Analysis (SAST)
+Software Composition Analysis (SCA)
+Dynamic Analysis (DAST)
+Developer Training
+Vendor Application Security Testing
+Services
+Application Security Consulting
+Technical Support
+Penetration Testing
+Developer Training
+Veracode Services Packages
+Solutions
+By Business Need:
+Compliance
+Veracode Integrations
+Third-Party Security 
+By Organization Type:
+Global Enterprise
+Midsize Enterprise
+Independent Software Vendor
+Resources
+AppSec Knowledge Base
+Intro to AppSec
+Managing AppSec
+Secure Development
+Regulation
+Getting Internal Buy In
+Third Party Software
+Product Documentation
+About
+Work For Us
+Careers
+Leadership
+News & Events
+FAQs
+Contact Us
+Follow us
+Quick links
+Services
+Solutions
+Our company
+Resources
+Partners
+Careers
+Get a demo
+Blog
+Contact us
+Sales : 
++1-888-937-0329
+Support: 
++1-877-837-2203
+UK: 
++44-(0)-20-3761-5501
+Site Map
+ | 
+Privacy Policy
+ | 
+Terms of Use
+ | 
+Cloud Certifications
+© 2018 VERACODE, All Rights Reserved 65 Network Drive, Burlington MA 01803
+Veracode is a leading provider of enterprise-class application security, seamlessly integrating agile security solutions for organizations around the globe. In addition to application security services and secure devops services, Veracode provides a full security assessment to ensure your website and applications are secure, and ensures full enterprise data protection. Application protection services from Veracode include white box testing, and mobile application security testing, with customized solutions that eliminate vulnerabilities at all points along the development life cycle.

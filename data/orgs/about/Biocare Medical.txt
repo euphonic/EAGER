@@ -1,0 +1,894 @@
+Skip to content
+Fighting Cancer, One Slide at a Time
+About Us
+Testimonials
+Awards
+Events
+History
+Media Releases
+News & Press
+Blog
+Careers
+Toll Free   800 · 799 · 9499
+$
+0.00
+0
+No products in the cart.
+0
+Cart
+No products in the cart.
+Immunohistochemistry
+New Products
+Primary Antibodies
+Antibodies by Tissue
+Antibodies by Letter
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Multiplex IHC
+Uniplex™
+Supernova
+intelliPATH
+Oncore
+VP Antibodies
+Detection
+MACH 4™
+MACH 3™
+MACH 2™
+MACH 1™
+Multiplex Detection
+PromARK
+intelliPATH™
+ONCORE™
+Fluorescence
+Chromogens
+Starr Trek™
+4plus Detection
+Human-on-Human
+MM HRP Dig System
+Ancillaries
+Decalcification
+Antigen Retrieval
+Enzymes
+Blocking Reagents
+Antibody Diluents
+Negative Controls
+Hematoxylin & Eosin
+Wash Buffers
+Mounting Media
+Misc. Supplies
+Molecular
+RISH™
+FISH Probes
+FISH Copy Control Probes
+ISH
+ISH Detection
+Instrumentation
+ONCORE™
+intelliPATH FLX®
+Decloaking Chamber™
+Nemesis™
+Desert Chamber Pro™
+IQ Slide Stainer™
+Instrument Service & Maintenance
+Education
+Education Overview
+Training Courses
+Lab Services
+Media
+Printed Media
+Catalog & Brochures
+Product Manuals
+Abstracts
+Media Releases
+News & Press
+Blog
+Cancer Awareness
+Tech Talks
+Events
+Contact
+Technical Support
+Shipping & Ordering Policies
+International Distributors
+About Us
+Company Profile
+Biocare Medical, LLC is an innovator in developing and supplying world class automated immunohistochemistry instrumentation, and the full range of reagents for IHC lab testing. Biocare is the market leader in simultaneous Multiplex IHC tests which provide increased confidence at critical diagnostic decision points, impacting patient therapy while accelerating turnaround time. Biocare’s advanced micro-polymer™ detection enables unsurpassed specificity and sensitivity. PROMARK™ and “mouse on mouse” IHC detection kits are optimized for rat and mouse tissues and feature proprietary blocking and retrieval reagents, resulting in virtually background free IHC staining.
+The company’s customers include clinical histology laboratories, pharmaceutical companies, CROs, and biotechnology companies as well as academic, government, military, and other non-profit laboratories. Biocare Medical offers an expanding portfolio of integrated products to address the rapidly growing cancer and infectious disease diagnostic and research markets with novel tissue immunohistochemistry and in situ hybridization methods. Biocare medical is headquartered and has manufacturing facilities in California., and has a global distribution network.
+Biocare Medical provides an expanding portfolio of integrated tissue diagnostic products for cancer and infectious disease. Biocare’s full line of immunohistochemistry (IHC) and molecular pathology products include a wide array of primary antibodies and detection kits used by hospitals, reference and research laboratories worldwide. Biocare is the leader in simultaneous Multiplex IHC™ tests which provide increased diagnostic confidence at critical decision points, impacting patient therapy while accelerating turnaround time and reducing costs. Biocare Medical has received multiple awards for product quality, service and support.
+intelliPATH FLX® is the only IHC instrument that unites a fully open reagent system with continuous random access.
+PROMARK™ IHC detection kits for mouse and rat tissues
+Biocare’s RISH™ product line offers a growing menu of simplified 
+in situ
+ hybridization kits
+About Us
+Company History
+Awards
+Careers
+Testimonials
+Events
+All prices presented are US list price for sale to clients in the Domestic US only. Please see your international distributor for country specific pricing. For a full list of international distributors, 
+click here.
+Products
+Decloaking Chamber™ NxGen
+$
+MSH6 [BC19]
+$
+ – 
+$
+CD10 [UMAB236]
+$
+News
+19
+Dec
+Cancer Awareness – Early Detection and Tumors of Unknown Origin
+09
+Oct
+Biocare Medical Excellence in Patient Care Award at NSH 2018
+Quick LInks
+Primary Antibodies
+Instrumentation
+Detection
+Multiplex IHC
+Molecular
+Home
+Products
+Education
+Support
+Media
+Contact Us
+About Us
+News
+Careers
+Terms & Conditions
+Privacy Policy
+Immunohistochemistry
+New Products
+Primary Antibodies
+Antibodies by Tissue
+Antibodies by Letter
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Multiplex IHC
+Uniplex™
+Supernova
+intelliPATH
+Oncore
+VP Antibodies
+Detection
+MACH 4™
+MACH 3™
+MACH 2™
+MACH 1™
+Multiplex Detection
+PromARK
+intelliPATH™
+ONCORE™
+Fluorescence
+Chromogens
+Starr Trek™
+4plus Detection
+Human-on-Human
+MM HRP Dig System
+Ancillaries
+Decalcification
+Antigen Retrieval
+Enzymes
+Blocking Reagents
+Antibody Diluents
+Negative Controls
+Hematoxylin & Eosin
+Wash Buffers
+Mounting Media
+Misc. Supplies
+Molecular
+RISH™
+FISH Probes
+FISH Copy Control Probes
+ISH
+ISH Detection
+Instrumentation
+ONCORE™
+intelliPATH FLX®
+Decloaking Chamber™
+Nemesis™
+Desert Chamber Pro™
+IQ Slide Stainer™
+Instrument Service & Maintenance
+Education
+Education Overview
+Training Courses
+Lab Services
+Media
+Printed Media
+Catalog & Brochures
+Product Manuals
+Abstracts
+Media Releases
+News & Press
+Blog
+Cancer Awareness
+Tech Talks
+Events
+Contact
+Technical Support
+Shipping & Ordering Policies
+International Distributors
+About Us
+Testimonials
+Awards
+Events
+History
+Media Releases
+News & Press
+Blog
+Careers
+Toll Free   800 · 799 · 9499
+Login
+Username or email address 
+*
+Password 
+*
+Log in
+Remember me
+Lost your password?
+Register
+Email address 
+*
+Subscribe to our newsletter
+Register
+
+/* <![CDATA[ */
+var sv_wc_payment_gateway_payment_form_params = {"card_number_missing":"Card number is missing","card_number_invalid":"Card number is invalid","card_number_digits_invalid":"Card number is invalid (only digits allowed)","card_number_length_invalid":"Card number is invalid (wrong length)","cvv_missing":"Card security code is missing","cvv_digits_invalid":"Card security code is invalid (only digits are allowed)","cvv_length_invalid":"Card security code is invalid (must be 3 or 4 digits)","card_exp_date_invalid":"Card expiration date is invalid","check_number_digits_invalid":"Check Number is invalid (only digits are allowed)","check_number_missing":"Check Number is missing","drivers_license_state_missing":"Drivers license state is missing","drivers_license_number_missing":"Drivers license number is missing","drivers_license_number_invalid":"Drivers license number is invalid","account_number_missing":"Account Number is missing","account_number_invalid":"Account Number is invalid (only digits are allowed)","account_number_length_invalid":"Account number is invalid (must be between 5 and 17 digits)","routing_number_missing":"Routing Number is missing","routing_number_digits_invalid":"Routing Number is invalid (only digits are allowed)","routing_number_length_invalid":"Routing number is invalid (must be 9 digits)"};
+/* ]]> */
+Skip to content
+Fighting Cancer, One Slide at a Time
+About Us
+Testimonials
+Awards
+Events
+History
+Media Releases
+News & Press
+Blog
+Careers
+Toll Free   800 · 799 · 9499
+$
+0.00
+0
+No products in the cart.
+0
+Cart
+No products in the cart.
+Immunohistochemistry
+New Products
+Primary Antibodies
+Antibodies by Tissue
+Antibodies by Letter
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Multiplex IHC
+Uniplex™
+Supernova
+intelliPATH
+Oncore
+VP Antibodies
+Detection
+MACH 4™
+MACH 3™
+MACH 2™
+MACH 1™
+Multiplex Detection
+PromARK
+intelliPATH™
+ONCORE™
+Fluorescence
+Chromogens
+Starr Trek™
+4plus Detection
+Human-on-Human
+MM HRP Dig System
+Ancillaries
+Decalcification
+Antigen Retrieval
+Enzymes
+Blocking Reagents
+Antibody Diluents
+Negative Controls
+Hematoxylin & Eosin
+Wash Buffers
+Mounting Media
+Misc. Supplies
+Molecular
+RISH™
+FISH Probes
+FISH Copy Control Probes
+ISH
+ISH Detection
+Instrumentation
+ONCORE™
+intelliPATH FLX®
+Decloaking Chamber™
+Nemesis™
+Desert Chamber Pro™
+IQ Slide Stainer™
+Instrument Service & Maintenance
+Education
+Education Overview
+Training Courses
+Lab Services
+Media
+Printed Media
+Catalog & Brochures
+Product Manuals
+Abstracts
+Media Releases
+News & Press
+Blog
+Cancer Awareness
+Tech Talks
+Events
+Contact
+Technical Support
+Shipping & Ordering Policies
+International Distributors
+San Francisco Business Times
+100 Fastest-Growing Private Companies in the Bay Area
+*Ranked by percent net revenue growth FY2007-FY2009
+INC 5000
+Biocare Medical ranks among the nation’s 5000 fastest growing companies – Inc. magazine has ranked Biocare Medical No. 2984 on the 2009 Inc. 5000 list of the fastest-growing private companies in the nation. The company’s sales growth was 93.1% from 2005-2008. “We are thrilled to have achieved this prestigious recognition”, said Roy Paxton Yih, co-founder and CEO of Biocare Medical. “It is exciting to see that our key mission to advance patient care, by providing innovative and high-quality products and world-class customer service, is contributing to our company’s rapid success and growth.
+Inc. 5000 – Biocare Medical ranks among the nation’s 5000 fastest growing companies
+
+Voted “Top of the Class” for histology vendors by readers of Advance for Administrators of the Laboratory in 2005 
+[1]
+, 2006 
+[2]
+ and 2008 
+[3]
+.
+	“High quality IHC antibodies and reagents” 
+[2]
+
+	“Products perform exactly as described at an unmatched price and quality” 
+[2]
+[2]
+[1] Advance for Administrators of the Laboratory, 4th Annual ‘Top of the Class’ Survey, Results, November, 2005
+[2] Advance for Administrators of the Laboratory, 5th Annual ‘Top of the Class’ Survey, Results, pg 42-43, November, 2006
+[3] Advance for Administrators of the Laboratory, 7th Annual ‘Top of the Class’ Survey, Results, November, 2008
+About Us
+Company History
+Awards
+Careers
+Testimonials
+Events
+All prices presented are US list price for sale to clients in the Domestic US only. Please see your international distributor for country specific pricing. For a full list of international distributors, 
+click here.
+Products
+Decloaking Chamber™ NxGen
+$
+MSH6 [BC19]
+$
+ – 
+$
+CD10 [UMAB236]
+$
+News
+19
+Dec
+Cancer Awareness – Early Detection and Tumors of Unknown Origin
+09
+Oct
+Biocare Medical Excellence in Patient Care Award at NSH 2018
+Quick LInks
+Primary Antibodies
+Instrumentation
+Detection
+Multiplex IHC
+Molecular
+Home
+Products
+Education
+Support
+Media
+Contact Us
+About Us
+News
+Careers
+Terms & Conditions
+Privacy Policy
+Immunohistochemistry
+New Products
+Primary Antibodies
+Antibodies by Tissue
+Antibodies by Letter
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Multiplex IHC
+Uniplex™
+Supernova
+intelliPATH
+Oncore
+VP Antibodies
+Detection
+MACH 4™
+MACH 3™
+MACH 2™
+MACH 1™
+Multiplex Detection
+PromARK
+intelliPATH™
+ONCORE™
+Fluorescence
+Chromogens
+Starr Trek™
+4plus Detection
+Human-on-Human
+MM HRP Dig System
+Ancillaries
+Decalcification
+Antigen Retrieval
+Enzymes
+Blocking Reagents
+Antibody Diluents
+Negative Controls
+Hematoxylin & Eosin
+Wash Buffers
+Mounting Media
+Misc. Supplies
+Molecular
+RISH™
+FISH Probes
+FISH Copy Control Probes
+ISH
+ISH Detection
+Instrumentation
+ONCORE™
+intelliPATH FLX®
+Decloaking Chamber™
+Nemesis™
+Desert Chamber Pro™
+IQ Slide Stainer™
+Instrument Service & Maintenance
+Education
+Education Overview
+Training Courses
+Lab Services
+Media
+Printed Media
+Catalog & Brochures
+Product Manuals
+Abstracts
+Media Releases
+News & Press
+Blog
+Cancer Awareness
+Tech Talks
+Events
+Contact
+Technical Support
+Shipping & Ordering Policies
+International Distributors
+About Us
+Testimonials
+Awards
+Events
+History
+Media Releases
+News & Press
+Blog
+Careers
+Toll Free   800 · 799 · 9499
+Login
+Username or email address 
+*
+Password 
+*
+Log in
+Remember me
+Lost your password?
+Register
+Email address 
+*
+Subscribe to our newsletter
+Register
+
+/* <![CDATA[ */
+var sv_wc_payment_gateway_payment_form_params = {"card_number_missing":"Card number is missing","card_number_invalid":"Card number is invalid","card_number_digits_invalid":"Card number is invalid (only digits allowed)","card_number_length_invalid":"Card number is invalid (wrong length)","cvv_missing":"Card security code is missing","cvv_digits_invalid":"Card security code is invalid (only digits are allowed)","cvv_length_invalid":"Card security code is invalid (must be 3 or 4 digits)","card_exp_date_invalid":"Card expiration date is invalid","check_number_digits_invalid":"Check Number is invalid (only digits are allowed)","check_number_missing":"Check Number is missing","drivers_license_state_missing":"Drivers license state is missing","drivers_license_number_missing":"Drivers license number is missing","drivers_license_number_invalid":"Drivers license number is invalid","account_number_missing":"Account Number is missing","account_number_invalid":"Account Number is invalid (only digits are allowed)","account_number_length_invalid":"Account number is invalid (must be between 5 and 17 digits)","routing_number_missing":"Routing Number is missing","routing_number_digits_invalid":"Routing Number is invalid (only digits are allowed)","routing_number_length_invalid":"Routing number is invalid (must be 9 digits)"};
+/* ]]> */
+Skip to content
+Fighting Cancer, One Slide at a Time
+About Us
+Testimonials
+Awards
+Events
+History
+Media Releases
+News & Press
+Blog
+Careers
+Toll Free   800 · 799 · 9499
+$
+0.00
+0
+No products in the cart.
+0
+Cart
+No products in the cart.
+Immunohistochemistry
+New Products
+Primary Antibodies
+Antibodies by Tissue
+Antibodies by Letter
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Multiplex IHC
+Uniplex™
+Supernova
+intelliPATH
+Oncore
+VP Antibodies
+Detection
+MACH 4™
+MACH 3™
+MACH 2™
+MACH 1™
+Multiplex Detection
+PromARK
+intelliPATH™
+ONCORE™
+Fluorescence
+Chromogens
+Starr Trek™
+4plus Detection
+Human-on-Human
+MM HRP Dig System
+Ancillaries
+Decalcification
+Antigen Retrieval
+Enzymes
+Blocking Reagents
+Antibody Diluents
+Negative Controls
+Hematoxylin & Eosin
+Wash Buffers
+Mounting Media
+Misc. Supplies
+Molecular
+RISH™
+FISH Probes
+FISH Copy Control Probes
+ISH
+ISH Detection
+Instrumentation
+ONCORE™
+intelliPATH FLX®
+Decloaking Chamber™
+Nemesis™
+Desert Chamber Pro™
+IQ Slide Stainer™
+Instrument Service & Maintenance
+Education
+Education Overview
+Training Courses
+Lab Services
+Media
+Printed Media
+Catalog & Brochures
+Product Manuals
+Abstracts
+Media Releases
+News & Press
+Blog
+Cancer Awareness
+Tech Talks
+Events
+Contact
+Technical Support
+Shipping & Ordering Policies
+International Distributors
+Biocare Medical was founded in the summer of 1997 by Roy Paxton Yih-CEO, Gene Castagnini-CFO, and Dr. David Tacha – Chief Scientific Officer.
+2000
+2003
+
+Mach Series Polymer Detection & Multiplex IHC Antibody line launched
+2006
+2007
+2008
+2009
+
+19 New Antibodies with 2 New Multiplex IHC products – URO-3 (Bladder) and ADH-5 (Breast)
+2010
+
+15 New Antibodies with 4 New Multiplex IHC products: CD4/CD8, GPC3/CK19, TTF1/Napsin A, P63/CK5
+in situ
+ hybridization simplified (MRNA) Launched
+2011
+2012
+
+p120 + E-cadherin, ERG + CK5, ERG + AMACR Multiplex IHC launched
+
+USDA accredited to distribute an anti-Prion IHC kit and protocol
+2013
+2014
+About Us
+Company History
+Awards
+Careers
+Testimonials
+Events
+All prices presented are US list price for sale to clients in the Domestic US only. Please see your international distributor for country specific pricing. For a full list of international distributors, 
+click here.
+Products
+Decloaking Chamber™ NxGen
+$
+MSH6 [BC19]
+$
+ – 
+$
+CD10 [UMAB236]
+$
+News
+19
+Dec
+Cancer Awareness – Early Detection and Tumors of Unknown Origin
+09
+Oct
+Biocare Medical Excellence in Patient Care Award at NSH 2018
+Quick LInks
+Primary Antibodies
+Instrumentation
+Detection
+Multiplex IHC
+Molecular
+Home
+Products
+Education
+Support
+Media
+Contact Us
+About Us
+News
+Careers
+Terms & Conditions
+Privacy Policy
+Immunohistochemistry
+New Products
+Primary Antibodies
+Antibodies by Tissue
+Antibodies by Letter
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Multiplex IHC
+Uniplex™
+Supernova
+intelliPATH
+Oncore
+VP Antibodies
+Detection
+MACH 4™
+MACH 3™
+MACH 2™
+MACH 1™
+Multiplex Detection
+PromARK
+intelliPATH™
+ONCORE™
+Fluorescence
+Chromogens
+Starr Trek™
+4plus Detection
+Human-on-Human
+MM HRP Dig System
+Ancillaries
+Decalcification
+Antigen Retrieval
+Enzymes
+Blocking Reagents
+Antibody Diluents
+Negative Controls
+Hematoxylin & Eosin
+Wash Buffers
+Mounting Media
+Misc. Supplies
+Molecular
+RISH™
+FISH Probes
+FISH Copy Control Probes
+ISH
+ISH Detection
+Instrumentation
+ONCORE™
+intelliPATH FLX®
+Decloaking Chamber™
+Nemesis™
+Desert Chamber Pro™
+IQ Slide Stainer™
+Instrument Service & Maintenance
+Education
+Education Overview
+Training Courses
+Lab Services
+Media
+Printed Media
+Catalog & Brochures
+Product Manuals
+Abstracts
+Media Releases
+News & Press
+Blog
+Cancer Awareness
+Tech Talks
+Events
+Contact
+Technical Support
+Shipping & Ordering Policies
+International Distributors
+About Us
+Testimonials
+Awards
+Events
+History
+Media Releases
+News & Press
+Blog
+Careers
+Toll Free   800 · 799 · 9499
+Login
+Username or email address 
+*
+Password 
+*
+Log in
+Remember me
+Lost your password?
+Register
+Email address 
+*
+Subscribe to our newsletter
+Register
+
+/* <![CDATA[ */
+var sv_wc_payment_gateway_payment_form_params = {"card_number_missing":"Card number is missing","card_number_invalid":"Card number is invalid","card_number_digits_invalid":"Card number is invalid (only digits allowed)","card_number_length_invalid":"Card number is invalid (wrong length)","cvv_missing":"Card security code is missing","cvv_digits_invalid":"Card security code is invalid (only digits are allowed)","cvv_length_invalid":"Card security code is invalid (must be 3 or 4 digits)","card_exp_date_invalid":"Card expiration date is invalid","check_number_digits_invalid":"Check Number is invalid (only digits are allowed)","check_number_missing":"Check Number is missing","drivers_license_state_missing":"Drivers license state is missing","drivers_license_number_missing":"Drivers license number is missing","drivers_license_number_invalid":"Drivers license number is invalid","account_number_missing":"Account Number is missing","account_number_invalid":"Account Number is invalid (only digits are allowed)","account_number_length_invalid":"Account number is invalid (must be between 5 and 17 digits)","routing_number_missing":"Routing Number is missing","routing_number_digits_invalid":"Routing Number is invalid (only digits are allowed)","routing_number_length_invalid":"Routing number is invalid (must be 9 digits)"};
+/* ]]> */

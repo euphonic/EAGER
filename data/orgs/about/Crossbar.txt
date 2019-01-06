@@ -1,0 +1,32 @@
+ReThink Innovation of Storage
+The light bulb. The car. The telephone. All of these inventions had profound impacts on the world and people’s lives. So what’s next? Natural Human-Machine interfaces, autonomous car, artificial intelligence will bringing yet another wave of invention that will shift the trajectory of society in stunning and positive ways. These systems require instant, ubiquitous access to Data.Data is becoming the “New Air”, wherever, whenever, always available. But to make Data truly ubiquitous, inventors have to rethink the status quo. New technologies are needed to architect systems with no latency, high energy efficiency, high capacity and screaming fast performance. That’s where Crossbar ReRAM comes in.
+Crossbar was founded in 2010 to commercialize a radically different approach to non-volatile memory called ReRAM. A unique memory technology that can be integrated inside a system-on-chip or produced as a standalone memory chip, Crossbar ReRAM is playing an important role in enabling this new world.
+ReRAM makes tightly integrated compute/storage subsystems possible, freeing designers from the traditional bus-based storage architectures.
+With ReRAM, designers can create entirely new subsystems from “persistent computing” where integrated data pods never shut down to “smart memory” that learns from every interaction, and autonomously retrieves, filters, computes data without the intervention of the CPU.
+Crossbar ReRAM is now ready at 40nm and is moving to 2x nm, enabling even higher density and more tightly integrated devices. Crossbar licenses its technology to SoC and memory companies as off-the-shelf or custom IP cores. Crossbar is also actively growing its ecosystem of hardware and software partners to help rethink how new ReRAM-centric architectures can usher in the next wave of world transformation.
+Leader in patented filament-based non-volatile ReRAM technology
+IP cores licensed for 40nm ready
+2x nm and below process node IP cores under development
+Licensed embedded memory IPs forSoC, MCU, FPGA from Kbytes, Mbytes to Gbytes
+Licensed storage memory IPs for standalone memory chips from Mbytes, Gbytes to Terabytes.
+290 patents are filed, with 145 patents already issued.
+Collaborative engagements in process to develop custom, ReRAM centric architectures
+Proven scalability below 10nm process node
+100x lower read latency, 20x better energy efficiency and 1000x faster write performance than NAND Flash
+No erase needed, bit/byte level overwrite capability
+Manufactured on standard CMOS production lines
+Capacities of 1TB/chip and more possibleResistive random-access memory (ReRAM) is based on a simple three-layer structure of top electrode, switching medium and bottom electrode ( FIGURE 1 ). The resistance switching mechanism is based on the formation of a filament in the switching material when a voltage is applied between the two electrodes. There are different approaches to implementing ReRAM, based on different switching materials and memory cell organization. Those variables drive significant performance differences depending upon the switching materials being used.
+FIGURE 1. The resistance switching mechanism of Crossbar’s technology is based on the formation of a filament in the silicon based switching material when a voltage is applied between the two electrodes.
+Crossbar ReRAM technology uses a silicon-based switching material as the host for a metallic filament formation. When a voltage is applied between the two electrodes, a nanofilament is formed. Because the resistance switching mechanism is based on an electric field, the Crossbar ReRAM cell is very stable, capable of withstanding temperature swings from -40°C to 125°C, 1M+ write cycles, and a retention of 10 years at 85°C.
+Crossbar’s technology will deliver 1,000x faster write performance;
+20x lower power consumption; and 1,000x the endurance at half the die size.
+FIGURE 2. Crossbar’s simple and scalable memory cell structure enables a new class of 3D ReRAM which can be incorporated into the back end of line of any standard CMOS manufacturing fab.
+Crossbar ReRAM technology can be stacked in 3D, delivering multiple terabytes of storage on a single chip. Its simplicity, stackability and CMOS compatibility enable logic and memory to be integrated onto a single chip at the latest technology node ( FIGURE 2 ).
+Crossbar’s patented built-in selector allows various memory array configurations in which a single transistor can drive one or thousands of memory cells. This enables Crossbar cells to be organized in super dense 3D cross-point arrays, stackable with the capability to scale below 10nm, paving the way for terabytes on a single die.
+The approach is also CMOS compatible. Designers can put logic, controllers and microprocessors next to memory in the same die, simplifying packaging and increasing performance. ReRAM’s simple structure and CMOS compatibility enable any foundry – CMOS or logic – to enter the ReRAM business by licensing Crossbar ReRAM technology for Systems-on-Chip (SoC) or standalone memory devices.
+Read the “Crossbar ReRAM Technology” white paper to learn more:
+We're ready to send you documentations
+Tell us a bit about your project so we can help you ReThink your design with ReRAM.
+Gah. Something went wrong.
+Your message couldn't be sent.
+We're sorry about this. Can you please try submitting your message one more time? If it still doesn't work, please tell us by email .

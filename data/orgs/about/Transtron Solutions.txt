@@ -1,0 +1,214 @@
+Purpose
+As a member of the Fujitsu Group, we must pursue management efficiency and control the risks that arise from our business activities in order to continually improve the corporate value of the Transtron Group. With this basic understanding, the directors, who have been entrusted with the Company’s management by the shareholders, shall implement and instill the FUJITSU Way, which is the fundamental principle of the Fujitsu Group’s activities. At the same time, they shall present the basic policy on what system and rules will be used in pursuit of management efficiency and to control the risks arising from business activities in our approach to management to the shareholders.
+System for Ensuring Efficient Performance of Director Duties
+（１）Decisions on business and affairs of the corporation and business operation system
+The Company shall have executive officers (hereinafter, representative directors and executive officers are referred to collectively as “the management”) sharing authority over business execution with the president and representative director, and these executive officers shall engage in decision-making and business execution according to the segregation of duties.
+The Company shall establish a management meeting comprised of representative directors and executive officers in order to assist the president and representative director in decision-making.
+The president and representative director shall establish the system and rules (management meeting rules, various decision/request systems, etc.) necessary for the management or employees to whom the management has delegated authority to make decisions.
+The president and representative director shall provide financial and business reports at every ordinary meeting of the board of directors and shall report regularly to the board of directors on the implementation status of the “Basic Policy on Establishment of Internal Control System” to obtain confirmation that it is being implemented appropriately.
+（２）System for promoting business efficiency
+The Company shall establish an organization for promoting improved productivity and cost and expense reduction through reform of the Transtron Group’s business processes and shall pursue management efficiency.
+Rules and Other Systems Related to Management of Risk of Loss
+（１）System for managing general risk of loss
+The Company shall establish a target of achieving business continuity, improvement of corporate value and sustainable development of business activities of the Transtron Group. In order to address the risks that may impede achievement of this target, the Company shall establish a Risk Management and Compliance Committee to preside over risk management throughout the Transtron Group and specify departments in charge of each risk in order to establish a system for implementing appropriate risk management.
+The Risk Management and Compliance Committee shall continuously evaluate and verify the risks that may cause the Transtron Group to suffer loss. Accordingly, the committee shall implement risk control such as the establishment of preventive measures for recognized risks to business execution and carry out activities to minimize loss.
+In order to keep losses arising out of manifestation of risks to a minimum, the Risk Management and Compliance Committee shall regularly analyze risks that have manifested through the system described in 1. above, report to the board of directors and engage in activities to prevent the recurrence of similar risks.
+（２）System for managing individual risks of loss
+In addition to the Risk Management and Compliance Committee, the Company shall establish a risk management system including the systems below in order to address individual risks of loss recognized by the Company in the execution of business.
+Risk management system related to product and service defects or deficiencies
+Develop a quality assurance system for verifying product and service defects or deficiencies in the Transtron Group and preventing recurrence.
+OEM project management system
+Develop a system for managing the promotion of business talks and execution of projects in order to prevent the occurrence of unprofitable OEM projects.
+Security system
+Establish an organization to deal with cyberterrorism, unauthorized use and leaks of various confidential information held by the Company.
+（３）Addressing of management risks
+Financial risk management system
+The vice president and representative director shall oversee financial risks.
+Management system for other management risks
+Each division shall handle market trends, price competition and other management risks according to the segregation of duties set forth in the Regulations Concerning the Disposition of Business.
+System for Ensuring Director and Employee Conduct Complies with Applicable Laws and Articles of Incorporation
+（１）Compliance system
+The management shall observe the Code of Conduct set forth in the FUJITSU Way as the basic principles of compliance, including compliance with the law and the Articles of Incorporation, and actively work to promote compliance throughout the Group based on management ethics.
+The Risk Management and Compliance Committee shall oversee compliance within the Transtron Group and perform the following duties.
+Promote thorough compliance with the Code of Conduct set forth in the FUJITSU Way among employees of the Transtron Group through the implementation of continuous education.
+Clarify the legal regulations related to business activities of the Transtron Group, establish the internal rules, education and monitoring system necessary for compliance with such regulations and promote compliance throughout the Group.
+In the event that an actual or potential material compliance violation is recognized in relation to the performance of duties, the management and employees are to report it to the Risk Management and Compliance Committee immediately through the normal business lines.
+A whistleblower system that includes a system for protecting whistleblowers shall be established and operated in order to enable early discovery of compliance problems and proper response through a communication route that is separate from the normal business lines.
+The Risk Management and Compliance Committee shall report to the board of directors immediately in the event that an actual or potential material compliance violation is discovered.
+（２）System for ensuring the appropriateness of financial reporting
+In addition to an organization for preparing financial reports under the vice president and representative director, the Company shall establish an organization for overseeing the preparation, implementation and assessment of internal controls related to the financial reporting of the Transtron Group in order to ensure the effectiveness and reliability of financial reporting.
+Establish rules for the preparation, implementation and assessment of internal controls related to the Fujitsu Group’s uniform accounting policy and financial reporting at each applicable organization.
+The organization overseeing the preparation, implementation and assessment of internal controls related to financial reporting of the Transtron Group shall regularly report the results of assessments regarding the effectiveness of internal controls to the board of directors.
+（３）Internal audit system
+The Company shall establish an organization (hereinafter, “internal audit organization”) that conducts internal audits in relation to business execution and ensure its independence.
+The internal audit organization shall establish internal audit rules and conduct audits based on those rules.
+The internal audit organization shall conduct internal audits of the entire Transtron Group.
+The results of the internal audits shall be reported regularly to the presidents and corporate auditors of the Company and the audited group companies.
+System for Storing and Managing Information Related to Execution of Duties by Directors
+The management shall assign a person responsible for storage and engage in appropriate storage and management of the documents below related to the execution of duties (including electromagnetic records; the same applies hereinafter) and other important information based on the internal rules.
+Meeting minutes of the general meeting of shareholders and related documents
+Meeting minutes of the board of directors and related documents
+Meeting minutes of other important decision-making meetings and related documents
+Approval-granting documents approved by the management and related documents
+Other important documents related to the execution of duties by the management
+The documents set forth in 1. above are to be accessible at any time so that board members and corporate auditors can verify the status of execution of duties, and the persons responsible for storing each document shall establish a system allowing anytime access by request of board members and corporate auditors.
+System for Ensuring Appropriateness of Operations Within Transtron Group
+The Company shall develop and establish the aforementioned systems and rules for the Transtron Group and establish a system for accepting reports from the management of each group company related to the execution of duties. The Company shall also provide guidance, support and supervision for the establishment of a system for the efficient, lawful and appropriate execution of group company business operations.
+The Company shall establish common rules for decision-making authority and processes related to important matters at group companies and other delegation of authority by the president and representative director to group companies.
+The president and representative director shall assign responsibility for divisions at each group company, and the executive officers in charge of the execution of business operations by the divisions to which they are assigned shall verify implementation and compliance related to 1. and 2. above through the president, CEO, etc. of the group company in question.
+The management of the Company and each group company shall share issues with each other and collaborate to achieve the targets of the Transtron Group’s management policy through regular coordination meetings and other means.
+System for Ensuring Appropriateness of Operations Within Fujitsu Group
+The management shall check issues related to achievement of the targets of the Fujitsu Group’s management policy through regular coordination meetings and other means. Corporate auditors verify issues in the Fujitsu Group from an auditing perspective through Fujitsu Group corporate auditor coordination meetings and other means.
+The management shall implement the measures necessary to solve issues related to achieving management targets identified through the above after engaging in sufficient discussions and report to Fujitsu or obtain approval procedures as necessary.
+System for Ensuring Appropriateness of Audits by Corporate Auditors
+（１）Matters related to ensuring independence
+When requested by corporate auditors to assign staff to assist with their duties, the board of directors shall make a decision following discussion with the corporate auditors, and appropriate human resources shall be considered that possess the knowledge and skills required by the corporate auditors.
+In order to ensure the independence of corporate auditor staff and the effectiveness of instructions given by corporate auditors to the staff, the management shall obtain consent of the corporate auditors for human resources-related matters like assignments, transfers and pay for corporate auditor staff.
+In principle, the management shall not assign corporate auditor staff to concurrent positions with other organizations.
+However, in the event that it is necessary to have an employee possessing specialist knowledge serve in concurrent capacities at the request of corporate auditors, consideration shall be made to ensure the independence of 2. above.
+（２）Matters related to reporting system
+The management of the Company and group companies shall provide corporate auditors with the opportunity to attend important meetings.
+In the event that a risk arises that will impact management or business performance or an actual or potential material compliance violation related to the execution of duties is recognized, the management of the Company and group companies shall immediately report the matter to the corporate auditors.
+The management of the Company and group companies shall report to the corporate auditors regularly on the status of the execution of duties.
+The management of the Company and group companies shall not treat members of the management or employees unfavorably on the ground that they make reports on 2. or 3. above.
+（３）Matters related to ensuring effectiveness
+The management of the Company and group companies shall exchange information with the corporate auditors regularly.
+Costs arising from the execution of corporate auditor duties shall be based on Article 388 of the Corporations Act, and the management shall establish procedures related to claims made in accordance with the article.
+The internal audit organization shall report to the corporate auditors regularly on the results of audits.
+END
+2018BUSINESS POLICY
+We utilize electronic control and information technology to supply products useful for improving vehicle environmental performance and safety.
+MANAGEMENT SYSTEM
+As a member of the Fujitsu Group, the spirit of the “FUJITSU Way” forms the basis of our management as we contribute to social development.
+We use vehicle electronics technology we have built over many years to develop and manufacture the "brains of the vehicle" to help the industry move forward. Also, we use this technology as a base for information system equipment and IT solutions to support the logistics industry.
+2018Yokohama-shi, Kanagawa 222-0033
+Fujisawa-shi, Kanagawa 252-0816
+TEL :  +81-45-943-7521 FAX : +81-45-943-7520
+TEL : +81-55-924-7282 FAX : +81-55-924-6184
+TEL : +66-2501-1100-1 FAX : +66-2501-3356
+Capital
+Shinano Fujitsu Limited 5%
+Certifications
+ISO/TS 16949 (the global quality management system standard for the automobile industry)
+ISO 9001 (the global quality management system standard)
+CMMIR (Capability Maturity Model Integration) v 1.2 Maturity Level 3
+ISO 14001 (the global environmental management system standard)
+TRANSTRON (SUZHOU) AUTOMOBILE ELECTRONICS TECHNOLOGY Inc. Room No. 302, 101 Park Building 20, 158 Jin Feng Road,New District, Suzhou 215163, P.R. CHINA
+TEL : +86-512-6689-1800 FAX : +86-512-6832-0117
+Capital
+ISO 9001 (the global quality management system standard)
+TRANSTRON AMERICA, Inc. 6500 Emerald Parkway Suite 375, Dublin, OH 43016, USA
+TEL : +1-614-793-8284 FAX : +1-614-793-8243
+20181991
+November
+Obtains certification as a direct supplier from Isuzu Motors Limited
+1992
+June
+Starts production of control units for hill start assist (HSA) systems
+August
+Starts production of control units for diesel engine start assist systems
+September
+Starts production of control units for exhaust gas recirculation (EGR) systems
+1994
+August
+Reaches 1 million units produced of electronic devices for automotive control
+1995
+March
+Starts production of integrated control units for the Elf light truck
+1996
+August
+September
+1998
+September
+Starts joint development of engine control units with Isuzu Motors Limite
+November
+2000
+January
+Obtains type approval for the digital tachograph in the MBCD in-vehicle station
+March
+May
+Reaches 5 million units produced of electronic devices for automotive control
+November
+Starts production of engine control units for the Elf light truck
+2002
+February
+April
+Assumes sole responsibility as the commercial vehicle in-vehicle device business of the Fujitsu brand
+May
+Starts production of engine control units for common rail systems
+July
+August
+Launches in-vehicle fleet management and monitoring package software in the market
+2004
+January
+Secures an in-vehicle deal for 10,000 vehicles with Nippon Express involving ASP data service
+February
+Starts production of communication devices for Isuzu Motors's MIMAMORIKUN Online Service
+September
+2006
+January
+2007
+May
+2008
+October
+Transtron (Thailand) Co., Ltd. obtains ISO 9001 and ISO/TS 16949 certification
+December
+2009
+August
+2010
+September
+Starts sales of the DTS-C1 networked in-vehicle station with 3G support
+2011
+October
+Starts sales of the DTS-C1D model with a built-in video event data recorder (video event data recorder)
+2012
+April
+April
+Starts sales of the Mobile Tracer-G high-cost-performance in-vehicle station for overseas
+October
+Starts sales of the Mobile Tracer-G2 high-performance in-vehicle station for overseas
+2013
+August
+Starts sales of the Mobile Tracer-G2M low-cost in-vehicle station for overseas
+2014
+April
+June
+Starts sales of the DTS-C1W in-vehicle station for wireless LAN and the DTS-C1DW model with a video event data recorder
+November
+2015
+March
+August
+Starts sales of the DTS-D1A networked in-vehicle station with LTE support and the DTS-D1D model with a video event data recorder
+2018Capital
+Business lines
+Development, design, manufacture and sale of electronics products as well as related products and services, including:
+Products designed to enhance vehicle safety as well as environmental and driving performance
+Products made for industrial machinery and vehicles employing state-of-the-art information technology
+Mobile products employing automotive technologies
+Amount of sales
+Certi?cations
+IATF 16949 (the global quality management system standard for the automobile industry)
+ISO 9001 (the global quality management system standard)
+CMMI® (Capability Maturity Model Integration) v 1.3 Maturity Level 3
+ISO 14001 (the global environmental management system standard)
+2018Trading Partner Compliance Line
+In the event that a director or employee of the Transtron Group commits a compliance violation in relation to procurement activities or suspicion of such arises, please enter the requested information on the Trading Partner Compliance Line Report Form and submit it to us.
+We do not accept reports of slander of individuals under any circumstances.
+Division responsible：
+External contact information：Sakura Law Firm
+※External contact information: The report will be delivered to the Fujitsu Group after information identifying the whistleblower is removed by the law firm.
+Notes：
+Provide the name, division and workplace of the whistleblower.
+If you do not want to provide your name or workplace, let the external contact know, and it will be reported to the internal contact in such a way as to not identify the whistleblower.
+The personal information of the whistleblower will not be disclosed to other divisions than the division in charge without the consent of the individual.
+How reports are handled：
+We will confirm and investigate the facts related to the report and take prompt action.
+The division in charge may contact the whistleblower to verify the facts related to the report or request documents/data to back up the authenticity of the report.
+The whistleblower will be notified of the results of action taken as necessary.
+Prohibition of unfavorable treatment：
+It is prohibited to treat whistleblowers or their workplaces unfavorably in response to their use of the Trading Partner Compliance Line.
+＜their use of the Trading Partner Compliance Line.＞
+Compliance Line
+We apply Fujitsu Group’s compliance line as a system to accept the reports and offers from all Transtron employees.
+This system is intended to be used by employees who are uncertain about what is the right decision or suspect a violation of the Code of Conduct in the Fujitsu Way, and prepares to receive a wide range of reports and consultations, from harassment to legal violations, which may occur in any country. At Transtron, we will continuously take measures to raise awareness of the system thoughout the Gropu via posters and websites.
+2018

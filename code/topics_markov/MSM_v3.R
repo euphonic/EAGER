@@ -78,8 +78,9 @@ rownames(qm) <- colnames(qm) <- labels
 qm
 
 # join firm-level patent variables with topic panel variables
-joined.patents_topics <- in.depth0_topics %>% left_join (in.patent_data, by=c("firm" = "organization_clnd"))
+joined.patents_topics <- in.depth0_topics %>% inner_join (in.patent_data, by=c("firm" = "organization_clnd"))
 nrow(joined.patents_topics)
+head(joined.patents_topics)
 View(joined.patents_topics )
 
 # base model
@@ -88,12 +89,19 @@ eager.msm1
 pmatrix.msm(eager.msm1, t = 2, ci = "normal")
 
 # introduce covariates
-eager.msm2 <- msm(main_topic ~ para_order, covariates = ~ num_words + prob ,subject = gid, data = in.depth0_topics, qmatrix = qm, exacttimes = TRUE, gen.inits=TRUE, control = list(fnscale = 4000, maxit = 10000))
+eager.msm2 <- msm(main_topic ~ para_order, covariates = ~ mean_citations_3,subject = gid, data = joined.patents_topics, qmatrix = qm, exacttimes = TRUE, gen.inits=TRUE, control = list(fnscale = 4000, maxit = 10000))
 eager.msm2
 hazard.msm(eager.msm2)
 
+# more covariates
+eager.msm3 <- msm(main_topic ~ para_order, covariates = ~ mean_citations_3 + first_year + num_patents_all + mean_assignees_all + mean_inventors_3, subject = gid, data = joined.patents_topics, qmatrix = qm, exacttimes = TRUE, gen.inits=TRUE, control = list(fnscale = 4000, maxit = 10000))
+eager.msm3
+hazard.msm(eager.msm3)
+
 # compare models
 lrtest.msm(eager.msm1, eager.msm2)
+lrtest.msm(eager.msm1, eager.msm3)
+lrtest.msm(eager.msm2, eager.msm3)
 
 # diffusr random walk -- not appropriate because diagnols coerced to 0 
 st.matrix <- matrix(st, nrow=num_topics, ncol=num_topics, dimnames=list(labels, labels))

@@ -1,0 +1,79 @@
+Floadia provides scalable, cost effective and high quality eNVM IPs.
+All Floadia products share the concept of “LEE”, which stands for Low cost and Easily Embedded.
+Products
+Floadia products all use “FN tunneling” mechanism for program and erase operation, which will result in very low power therefore very short test time as you can program the whole memory area at once.
+They also allow very short baking time to further cut cost down.
+All of Floadia products are capable of handling high temperature for automotive grade requirement.
+Low Cost MTP solution for a few KBytes requirement.
+Simple Low Cost SONOS Flash. Available in affordable 90nm foundry process.
+Few masks and short test/bake.
+Our expertise!
+We are a team of engineers that have been developing NVM for more than 3 decades.
+CTO：Yasuhiro Taniguchi
+Our Mission!
+Our mission is to make embedded Flash technology affordable and easy to use, so that every chip on earth will benefit from this great technology.
+CEO & President：Kosuke Okuyama
+Our Innovation!
+We’ve developed a new embedded FLASH that could change modern chip design approach & computer architecture, yet very simple and easy to manufacture.
+Chairman：Koichi Nagasawa
+Our expertise!
+We are a team of engineers that have been developing NVM for more than 3 decades.
+CTO：Yasuhiro Taniguchi
+Our Mission!
+Our mission is to make embedded Flash technology affordable and easy to use, so that every chip on earth will benefit from this great technology.
+CEO & President：Kosuke Okuyama
+The Beauty of SONOS
+Floadia’s G1 and G2 are based on SONOS memory architecture, which has many advantages over widely used Split Gate memory architecture.
+High Speed NV-RAM
+Like no other embedded Flash solutions available today, Floadia’s G2 has very unique feature supporting “read operation” with VCC, where normally high voltage is required.
+3. Targeting zero defect in Mass Production
+Floadia's eNVM products cover wide range of applications, from where the highest quality is required to the lowest power consumption is mandatory.
+About Floadia
+Floadia is a team of experienced engineers who were developing embedded memory for more than 20 years.
+Floadia’s development team comprises not only with memory engineers and circuit designers
+but also people with deep knowledge in the manufacturing process and quality assurance to provide full range of service, like no other IP vendors.
+2018.9.25
++81-42-346-5510
+Floadia Taiwan Branch
+R612/ R618, Center of Innovative Incubator, NTHU No. 101, Section 2, Guangfu Road, Hsinchu, Taiwan 30013, R.O.C.
++886-3-5613922Floadia, the NVM experts
+In 2011, 7 engineers left Renesas and established Floadia to provide the best Non-Volatile Memory technology to the world.
+The company licenses its intellectual property (IP), including manufacturing process and circuit designs, necessary for embedded memory production.
+Floadia is a team of experienced engineers who were developing embedded memory for more than 20 years. Floadia’s development team comprises not only with memory engineers and circuit designers but also people with deep knowledge in the manufacturing process and quality assurance to provide full range of service.
+Corporate Milestone
+2014
+LEE Flash-G1 and G2 implementation started at Powerchip Technology Corporation
+2015
+Board of Directors
+Chairman Koichi Nagasawa
+Chairman
+Floadia Tokyo HQ
++81-42-346-5510
+Floadia Taiwan Branch
+R612/ R618, Center of Innovative Incubator, NTHU No. 101, Section 2, Guangfu Road, Hsinchu, Taiwan 30013, R.O.C.
++886-3-5613922
+Corporate Social Responsibility
+Floadia is committed to take responsibility to the society, the environment and the stakeholders.
+Management Philosophy
+Floadia’s basic philosophy is to contribute to the advancement of society, through continuous pursuit of necessary technology for the convenience of humanity, with challenge spirit, wisdom and efforts of all employees. We will work at fair and modest heart, recognize customer first as the starting point of our business activities, honor the nature, love people and work hard as a sensible citizen to realize truly affluent society.
+Compliance
+Floadia prohibits anti-social transactions by employee in accordance with the “Basic Rules on Anti-Social Transaction Prevention (Draft)” and has also established a mechanism to prevent anti-social transactions, such as contract review, internal audit and employment rules.
+Security Export Control
+Since its business domain extends all over the world, Floadia make sure we comply with “Laws and regulations related to security export control”. Floadia implements periodical education for all of its employees.
+Managing Confidential and Privacy Information
+Floadia pays highest attention to protect customer information to secure their interest, as well as that of internal private information. Floadia enforce it through “Sales Confidential Management Rule”, “Specific Personal Information Protection Rule”, and “Non-Disclosure Agreement” with employees, to cover not only domestic but laws and regulations all over the world.
+Consultation and Reporting Desk
+Due to the size of the company still in development, Floadia’s auditor plays the role of consultation and reporting desk, whenever we have compliance issue. Our auditor has meeting with all of our employees periodically to secure opportunity for communication.
+Floadia Tokyo HQ
++81-42-346-5510
+Floadia Taiwan Branch
+R612/ R618, Center of Innovative Incubator, NTHU No. 101, Section 2, Guangfu Road, Hsinchu, Taiwan 30013, R.O.C.
++886-3-5613922Tokyo, Japan June 25 th, 2016 – Floadia Corporation (Floadia), a leading provider of embedded flash semiconductor intellectual property (IP), has been selected as one of the Innovation Showcase Companies for 2016, which are young, rapidly growing companies founded in Japan around exciting technologies and highly innovative business ideas that have the potential for major worldwide impact. Innovation Showcase Companies are firms that show outstanding promise and are beginning to gain international traction.
+Floadia was established in 2011 and a spin-out of experienced engineers who were developing embedded non-volatile memory at Hitachi/Renesas for more than 20 years. Floadia licenses its intellectual property (IP), including manufacturing process and circuit designs, necessary for the embedded memory production. Floadia’s development team comprises not only circuit designers but also engineers with expertise in the manufacturing process. Currently Floadia has over 85 patents, filed and pending.
+About Japan – U.S. Innovation Awards
+Japan – U.S. Innovation Awards is held since 2011 by the Japan Society of Northern California in cooperation with the Stanford University US-Asia Technology Management Center, with the vision to organize timely and interesting programs that focus on Japan – U.S. innovation and entrepreneurship. The signature activity is an intensive year–long process to identify companies with a Japan – U.S. connection that have achieved highly noteworthy innovations in business or technology. The Awards are presented each year at the public “Japan – U.S. Innovation Awards Symposium” held at Stanford University and publicized widely through the media.
+2018.9.25
++81-42-346-5510
+Floadia Taiwan Branch
+R612/ R618, Center of Innovative Incubator, NTHU No. 101, Section 2, Guangfu Road, Hsinchu, Taiwan 30013, R.O.C.
++886-3-5613922

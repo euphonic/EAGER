@@ -1,0 +1,960 @@
+Toggle navigation
+×
+Contact Us
+Investors
+Español
+Products
+Overview
+Long-Haul and Subsea
+DTN-X Family
+XT Series
+XTC Series
+XTS Series
+DTN
+FlexILS
+Coriant
+Metro Networks
+DTN-X XTC
+XTM Series
+XTG Series
+Coriant
+Data Center Interconnect
+Cloud Xpress
+XT Series
+XTM Series
+Coriant
+Software
+Infinera Management Suite
+Xceed Software Suite
+Coriant
+Solutions
+Overview
+Cable Networks
+Enterprise Networks
+Government Networks
+Internet Content Providers
+Mobile Transport
+Mobile Backhaul
+Mobile Fronthaul
+Research & Education Networks
+Submarine Networks
+Telecom Networks
+Wholesale Networks
+Coriant
+Technology
+Intelligent Transport Network
+Ethernet/MPLS Packet
+Packet-Optical Technology
+Packet Super-channel
+FastSMP™
+Metro & Access
+Auto-Lambda
+High Density Design
+iSync
+Low Power Design
+Programmability
+Instant Bandwidth
+Instant Network
+Transport SDN
+Security
+Technology Primers
+WDM (CWDM & DWDM)
+WDM
+Coherent & SD-FEC
+Infinite Capacity Engine
+iWDM™
+Photonic Integrated Circuit (PIC)
+Super-channels
+Coriant
+Support
+Technical Assistance Center
+Technical Assistance Center
+Services Overview
+Deploy Services
+Operate Services
+Optimize Services
+Coriant
+Company
+Overview
+About Infinera
+Awards
+Board of Directors
+Careers
+Corporate Social Responsibility
+Customers
+Investor Relations
+Management
+Mission, Vision & Values
+Partners
+Press Releases
+Awards
+
+Infinera (NASDAQ: INFN) Intelligent Transport Networks enable carriers, cloud operators, governments and enterprises to scale network bandwidth, accelerate service innovation and automate optical network operations. Infinera’s end-to-end packet-optical portfolio is designed for long-haul, subsea, data center interconnect and metro applications for the most demanding networks. We are proud and humbled that others are taking notice. Here is a partial list of the awards Infinera has received:
+
+NGON & DCI Awards – Best Photonics Innovation – ICE5
+Blog
+Telecom Asia’s Readers’ Choice Awards – Optical Network Innovation of the Year Award
+IHS Ranks Infinera as Global Optical Network Equipment Leader
+Award Excerpts
+Next Generation Optical Networking Awards – Best Optical Product – Ultra Long-Haul for DTN-X XT Series Meshponder
+Magyar Telekom’s TOP3 Sustainable Supplier
+Blog
+Next-Gen Technology for University Research Network
+IHS Names Infinera Market Momentum Leader in Global Optical Equipment
+Press release
+White Paper
+2016 LightWave Innovation Reviews for Infinera Datacenter Interconnect Solution, 4.5
+Article
+Telecom Asia’s Readers’ Choice Awards – Optical Innovation Award
+Article
+ (page 23)
+Infinera PT-Fabric received Broadband Technology Report’s 5 Diamonds/Innovation Award
+Article
+IHS Names Infinera Leader in Optical Networking and Datacenter Interconnect Market
+Press Release
+Leading Lights Company of the Year (Public) – For the 2nd Consecutive Year!
+Blog
+Fierce Innovation Awards Finalist – Data Centers
+Article
+Metro 100G Solution – Broadband Technology Report’s 4.5 Diamonds Award
+Article
+Company of the Year (Public)
+Press Release
+Website
+Wholesale Service Innovation – Terabyte Network Upgrade Project (with BICS)
+Press Release
+Website
+Leading Lights 2014 Best New Product (Telecom)
+Article
+Infonetics Research 2014 Optical Scorecards: #1 Optical Hardware Vendor
+Blog
+Website
+2013 Capacity Global Carrier Awards: Best Technology Innovation
+Website
+Press Release
+Website
+Wholesale Service Innovation – Guinness World Record for Multi-Terabit Optical Capacity on GÉANT Network (with DANTE)
+Press Release
+Website
+2013 Best Optical Component Product Beyond 100G: 500 Gb/s PIC
+Press Release
+Website
+2013 Best Technology Innovation (with DANTE)
+Blog
+Website
+International Network Innovation: Europe-Persia Express Gateway (with Cable&Wireless Worldwide)
+Website
+2012 Best First: Infinera DTN-X
+Press Release
+Website
+2012 Best Optical Component Product – 100G PIC
+Press Release
+Website
+2011 Wholesale Service Innovation (with Interoute)
+Press Release
+Website
+Waster Reduction (WRAP) Award
+Press Release
+Second Fastest-growing Technology Company in North America
+Website
+Most Promising Vendor in Asia Telecom Market
+Website
+4-Diamond Rating
+Website
+Best Backbone/Core Network (with XO Communications)
+Share
+Contact Us
+Related PDFs
+Infinera Corporate Backgrounder
+Areas of Interest
+Cable Networks
+Government Networks
+Internet Content Providers
+Investors & Shareholders
+Partners
+Research & Education
+Submarine Networks
+Telecom Networks
+Resources
+Analyst Reports
+Anti-Human Trafficking Statement
+Case Studies
+Data Sheets
+Product Literature
+Technical Papers
+Terms of Sale
+Video/Podcasts
+Webinars
+White Papers
+News & Events
+Blog
+Events
+Infinera Express
+Media Coverage
+Press Releases
+Press Room
+Connect With Us
+About Us
+Careers
+Contact Us
+Partners
+Support
+Site Map
+  | 
+Legal 
+  |  
+Privacy policy
+Infinera uses cookies to help give you the best experience on our site. By continuing, you consent to the use of these cookies. To learn more, view our 
+privacy policy
+.
+OkToggle navigation
+×
+Contact Us
+Investors
+Español
+Products
+Overview
+Long-Haul and Subsea
+DTN-X Family
+XT Series
+XTC Series
+XTS Series
+DTN
+FlexILS
+Coriant
+Metro Networks
+DTN-X XTC
+XTM Series
+XTG Series
+Coriant
+Data Center Interconnect
+Cloud Xpress
+XT Series
+XTM Series
+Coriant
+Software
+Infinera Management Suite
+Xceed Software Suite
+Coriant
+Solutions
+Overview
+Cable Networks
+Enterprise Networks
+Government Networks
+Internet Content Providers
+Mobile Transport
+Mobile Backhaul
+Mobile Fronthaul
+Research & Education Networks
+Submarine Networks
+Telecom Networks
+Wholesale Networks
+Coriant
+Technology
+Intelligent Transport Network
+Ethernet/MPLS Packet
+Packet-Optical Technology
+Packet Super-channel
+FastSMP™
+Metro & Access
+Auto-Lambda
+High Density Design
+iSync
+Low Power Design
+Programmability
+Instant Bandwidth
+Instant Network
+Transport SDN
+Security
+Technology Primers
+WDM (CWDM & DWDM)
+WDM
+Coherent & SD-FEC
+Infinite Capacity Engine
+iWDM™
+Photonic Integrated Circuit (PIC)
+Super-channels
+Coriant
+Support
+Technical Assistance Center
+Technical Assistance Center
+Services Overview
+Deploy Services
+Operate Services
+Optimize Services
+Coriant
+Company
+Overview
+About Infinera
+Awards
+Board of Directors
+Careers
+Corporate Social Responsibility
+Customers
+Investor Relations
+Management
+Mission, Vision & Values
+Partners
+Press Releases
+Infinera Mission, Vision and Values
+Infinera Vision Statement
+To enable an infinite pool of intelligent bandwidth that the next communications infrastructure is built upon.
+Infinera Mission Statement
+Earn a superior return by enabling our customers to build and operate the world’s best optical networks.
+Infinera Values
+Drive for Results
+We expect to win and we hate to lose. We are aggressive in the pursuit of our goals and we value achievement. We’re focused, we’re resilient and we’re persistent. We solve problems using the best data and resources available to us and we get things done in the smartest possible way.
+Customer-centric Focus
+The success of our customers is paramount, and we will do everything necessary to earn our customers’ business honestly. We believe we must re-earn this business with every subsequent transaction.
+Pioneering Spirit
+We are courageous and take risks. We solve problems others are afraid to solve, or can’t even see. We invent solutions that are smart, economical and meet our customers’ real needs.
+Honesty and Humility
+We are committed to, and hold ourselves accountable for, the highest standards of conduct and behavior in every action, interaction and aspect of our work.
+World-class Quality
+We are committed to ensuring the highest standards of quality, at all times and in all ways, in our products, our services and our approach to doing business.
+Teamwork
+We are a team of “doers.” We don’t wait to be asked or told. We roll up our sleeves and we get stuff done. We are comfortable with cross-functional structures, regardless of title or level, and we work as a team to make things happen. Meaningful and difficult work can only be accomplished through collaborative team effort.
+Share
+Contact Us
+Watch Infinera
+Video/Podcasts
+Areas of Interest
+Cable Networks
+Government Networks
+Internet Content Providers
+Investors & Shareholders
+Partners
+Research & Education
+Submarine Networks
+Telecom Networks
+Resources
+Analyst Reports
+Anti-Human Trafficking Statement
+Case Studies
+Data Sheets
+Product Literature
+Technical Papers
+Terms of Sale
+Video/Podcasts
+Webinars
+White Papers
+News & Events
+Blog
+Events
+Infinera Express
+Media Coverage
+Press Releases
+Press Room
+Connect With Us
+About Us
+Careers
+Contact Us
+Partners
+Support
+Site Map
+  | 
+Legal 
+  |  
+Privacy policy
+Infinera uses cookies to help give you the best experience on our site. By continuing, you consent to the use of these cookies. To learn more, view our 
+privacy policy
+.
+OkToggle navigation
+×
+Contact Us
+Investors
+Español
+Products
+Overview
+Long-Haul and Subsea
+DTN-X Family
+XT Series
+XTC Series
+XTS Series
+DTN
+FlexILS
+Coriant
+Metro Networks
+DTN-X XTC
+XTM Series
+XTG Series
+Coriant
+Data Center Interconnect
+Cloud Xpress
+XT Series
+XTM Series
+Coriant
+Software
+Infinera Management Suite
+Xceed Software Suite
+Coriant
+Solutions
+Overview
+Cable Networks
+Enterprise Networks
+Government Networks
+Internet Content Providers
+Mobile Transport
+Mobile Backhaul
+Mobile Fronthaul
+Research & Education Networks
+Submarine Networks
+Telecom Networks
+Wholesale Networks
+Coriant
+Technology
+Intelligent Transport Network
+Ethernet/MPLS Packet
+Packet-Optical Technology
+Packet Super-channel
+FastSMP™
+Metro & Access
+Auto-Lambda
+High Density Design
+iSync
+Low Power Design
+Programmability
+Instant Bandwidth
+Instant Network
+Transport SDN
+Security
+Technology Primers
+WDM (CWDM & DWDM)
+WDM
+Coherent & SD-FEC
+Infinite Capacity Engine
+iWDM™
+Photonic Integrated Circuit (PIC)
+Super-channels
+Coriant
+Support
+Technical Assistance Center
+Technical Assistance Center
+Services Overview
+Deploy Services
+Operate Services
+Optimize Services
+Coriant
+Company
+Overview
+About Infinera
+Awards
+Board of Directors
+Careers
+Corporate Social Responsibility
+Customers
+Investor Relations
+Management
+Mission, Vision & Values
+Partners
+Press Releases
+Customers
+Infinera empowers network operators to scale network bandwidth, accelerate service innovation and simplify optical network operations. Network operators across the globe rely on Infinera Intelligent Transport Networks to create rich end-user experiences based on efficient, high-bandwidth optical networking.
+Infinera is unique in its use of breakthrough semiconductor technology to deliver large-scale photonic integrated circuits (PIC), and in the application of PICs to vertically integrated optical networking solutions that deliver the industry’s only commercially available terabit FlexCoherent super-channels.
+Meeting customers’ specific deployment needs and providing industry-leading customer support is in our DNA. Our commitment is to develop innovative 
+Intelligent Transport Networks
+ and to provide the 
+Infinera Experience
+ to all of our customers.
+Below is a partial list comprising publicly announced customers.
+Regions:
+Americas
+ | 
+APAC
+ | 
+EMEA
+ |  
+All
+Select Product:
+All
+ATN
+CX
+DTN
+DTN-X
+XTM
+SDN
+Americas
+ATN
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+CX
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+DTN
+Website
+Case Study
+Website
+Case Study
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+DTN-X
+Website
+Press Release
+Website
+Press Release
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Press Release
+Website
+Press Release
+Website
+Press Release
+Case Study
+Website
+Press Release
+Video
+Website
+Press Release
+XTM
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+No matching results at this time.
+Asia Pacific (APAC)
+CX
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+DTN
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+DTN-X
+Website
+Press Release
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Press Release
+SDN
+Website
+Press Release
+XTM
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+No matching results at this time.
+Europe/Middle East/Africa (EMEA)
+ATN
+Website
+Press Release
+Website
+Press Release
+Case Study
+Website
+Press Release
+Website
+Press Release
+CX
+Website
+Press Release
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+DTN
+Website
+Press Release
+Website
+Press Release
+Case Study
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+DTN-X
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Case Study
+Video
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Video
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Case Study
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Case Study
+Website
+Press Release
+Video
+XTM
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Website
+Press Release
+Case Study
+No matching results at this time.
+Share
+Contact Us
+Related PDFs
+Infinera Corporate Backgrounder
+Customers in Action
+Case Studies
+Watch Infinera
+Video/Podcasts
+Areas of Interest
+Cable Networks
+Government Networks
+Internet Content Providers
+Investors & Shareholders
+Partners
+Research & Education
+Submarine Networks
+Telecom Networks
+Resources
+Analyst Reports
+Anti-Human Trafficking Statement
+Case Studies
+Data Sheets
+Product Literature
+Technical Papers
+Terms of Sale
+Video/Podcasts
+Webinars
+White Papers
+News & Events
+Blog
+Events
+Infinera Express
+Media Coverage
+Press Releases
+Press Room
+Connect With Us
+About Us
+Careers
+Contact Us
+Partners
+Support
+Site Map
+  | 
+Legal 
+  |  
+Privacy policy
+Infinera uses cookies to help give you the best experience on our site. By continuing, you consent to the use of these cookies. To learn more, view our 
+privacy policy
+.
+OkToggle navigation
+×
+Contact Us
+Investors
+Español
+Products
+Overview
+Long-Haul and Subsea
+DTN-X Family
+XT Series
+XTC Series
+XTS Series
+DTN
+FlexILS
+Coriant
+Metro Networks
+DTN-X XTC
+XTM Series
+XTG Series
+Coriant
+Data Center Interconnect
+Cloud Xpress
+XT Series
+XTM Series
+Coriant
+Software
+Infinera Management Suite
+Xceed Software Suite
+Coriant
+Solutions
+Overview
+Cable Networks
+Enterprise Networks
+Government Networks
+Internet Content Providers
+Mobile Transport
+Mobile Backhaul
+Mobile Fronthaul
+Research & Education Networks
+Submarine Networks
+Telecom Networks
+Wholesale Networks
+Coriant
+Technology
+Intelligent Transport Network
+Ethernet/MPLS Packet
+Packet-Optical Technology
+Packet Super-channel
+FastSMP™
+Metro & Access
+Auto-Lambda
+High Density Design
+iSync
+Low Power Design
+Programmability
+Instant Bandwidth
+Instant Network
+Transport SDN
+Security
+Technology Primers
+WDM (CWDM & DWDM)
+WDM
+Coherent & SD-FEC
+Infinite Capacity Engine
+iWDM™
+Photonic Integrated Circuit (PIC)
+Super-channels
+Coriant
+Support
+Technical Assistance Center
+Technical Assistance Center
+Services Overview
+Deploy Services
+Operate Services
+Optimize Services
+Coriant
+Company
+Overview
+About Infinera
+Awards
+Board of Directors
+Careers
+Corporate Social Responsibility
+Customers
+Investor Relations
+Management
+Mission, Vision & Values
+Partners
+Press Releases
+About Infinera
+Video: Infinera Instant Bandwidth
+Shorten provisioning time, accelerate service delivery and reduce time to revenue with software defined capacity
+Infinera – Redefining Optical Networking
+Infinera empowers network operators to scale bandwidth while accelerating service innovation and automating optical network operations. Service providers, cloud operators, governments and enterprises across the globe rely on Infinera Intelligent Transport Networks to create rich end-user experiences based on efficient, high-bandwidth optical networks.
+Infinera was founded with the vision of enabling an infinite pool of intelligent bandwidth that the next communications infrastructure is built upon.
+Infinera offers an end-to-end portfolio of packet-optical solutions for the long-haul, metro and cloud. We believe that when our customers win, we win. Meeting customers’ specific deployment needs and providing industry-leading customer support is in our DNA.
+Infinera Intelligent Transport Network Solutions
+Long-haul and Subsea Networks
+Infinera DTN-X Family 
+Infinera DTN Platform 
+Infinera FlexILS
+Cloud Networks and Metro Data Center Interconnection
+Infinera Cloud Xpress 2
+Infinera Cloud Xpress
+Infinera XTM Series
+Metro Networks
+Infinera DTN-X Family 
+Infinera XTM Series
+Infinera XTG Series
+Software
+Xceed Software Suite
+Infinera Management Suite
+Support Services
+Infinera Support Services
+Share
+Contact Us
+Related PDFs
+Infinera Corporate Backgrounder
+Areas of Interest
+Cable Networks
+Government Networks
+Internet Content Providers
+Investors & Shareholders
+Partners
+Research & Education
+Submarine Networks
+Telecom Networks
+Resources
+Analyst Reports
+Anti-Human Trafficking Statement
+Case Studies
+Data Sheets
+Product Literature
+Technical Papers
+Terms of Sale
+Video/Podcasts
+Webinars
+White Papers
+News & Events
+Blog
+Events
+Infinera Express
+Media Coverage
+Press Releases
+Press Room
+Connect With Us
+About Us
+Careers
+Contact Us
+Partners
+Support
+Site Map
+  | 
+Legal 
+  |  
+Privacy policy
+Infinera uses cookies to help give you the best experience on our site. By continuing, you consent to the use of these cookies. To learn more, view our 
+privacy policy
+.
+Ok

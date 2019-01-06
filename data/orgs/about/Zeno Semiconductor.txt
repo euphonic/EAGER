@@ -1,0 +1,27 @@
+© 2018 by Zeno Semiconductor
+(βoosted) Transistor Trick Beats Moore  (EE Times)
+Zeno 1-transistor Bi-SRAM (bi-stable, BiCMOS) provides a static memory cell with 5x smaller cell size. It is bi-stable, hence does not require refresh operation, and is compatible with CMOS logic process.
+Zeno βoosted transistor technology results in 4x gain in power-performance product within the same technology node.
+Dr. Widjaja graduated with Ph.D. in Chemical Engineering with minor in Electrical Engineering from Stanford University. He held engineering and management positions at Silicon Storage Technology upon graduation, most recently served as Program Manager in Technology Development. He currently holds more than 50 patents.
+Zvi Or-Bach 
+Executive Chairman
+Serial entrepreneurs with over 30 years of experience. Mr. Or-Bach is the founder of Chip Express, eASIC, and MonolithIC 3D Inc. He received the EETimes Innovator of the Award in 2005 for his invention of the first Structured ASIC architecture, as well as a finalist for the award in 2011 and 2012 for his pioneering work on monolithic 3D-IC.
+Stefan K.Lai, Ph.D.
+Member of Technical Advisory Board
+Dr. Lai is the co-inventor of EPROM tunnel oxide (ETOX) flas memory cell, which has become the industry standard. He was appointed Vice President of Intel’s Technology and Manufacturing Group in 2000, where he led the development of non-volatile memory technology including phase change memory, and retired from Intel at the end of 2006. He was the VP, Business Development of Ovonyx, Inc. from February 2007 to July 2008.
+Paul Lui
+Member of Advisory Board
+Paul is the President and GM of Silicon Storage Technology (SST) China. He is the CEO of Linvex Technology, Inc. (acquired by SST) and Pesident (USA) of Macronix, a Taiwan-based company engaged in the design, manufacture and distribution of memory ICs (2337.Taiwan). Paul received his MSEE from UC Berkeley. 
+Prof. Yoshio Nishi
+Professor, Electrical Engineering (research) and Materials Science and Engineering (courtesy), Stanford University
+Prof. Nishi is a Fellow of the IEEE, a member of the Japan Society of Applied Physics and the Electrochemical Society, and recipients of the 1995 IEEE Jack Morton Award and the 2002 IEEE Robert Noyce Medal.
+Dinesh Maheshwari
+Member of Technical Advisory Board
+Technologist, strategist, and entrepreneur with ~30 years of experience in semiconductors, systems & softward, most recently as the CTO, Memory Division of Cypress (CY), Board of Directors of JEDEC. Prior to CY, he held senior technical positions at Silicon Light Machines, Synopsys, and several startups (two acquired by Mentor Graphics and Cadence). He has been awarded 49 US patents in software, optical communication and ICs for networking, handsets, SRAMs & MEMs. Has authored invited papers for ISSCC and CICC. He is also a Member of Advisory Board of Kandou Bas, Switzerland and Deca Tech (CY subsidiary), and a Parter at Silicon Catalyst.
+Serguei Okhonin, Ph.D.
+Member of Technical Advisory Board
+Dr. Okhonin is the co-founder of Innovative Silicon, where he co-invented SOI-based floating-body memory cell (Z-RAM). He received his M.Sc. in Physics from Novosibirsk State University in 1980 and his Ph.D. degree from Swiss Federal Institute of Technology (EPFL) in 2001. He has authored or co-authored more than 50 papers and more than 20 patents. He is currently the CEO of ActLight
+Pieter Vorenkamp
+Member of Advisory Board
+Pieter previously served as Senior Vice President and General Manager of IP Group at Cadence Design Systems Inc. Prior to joining Cadence, he served for eighteen years at Broadcom as Senior Vice President of Operations Engineering, and at Philips Semiconductors (now NXP Semiconductors) as the Manager of the Converters and Imaging Systems business
+Contact

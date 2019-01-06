@@ -1,0 +1,25 @@
+OVERVIEW
+History
+Renewable Power Conversion, Inc. was founded in March 2011 with the acquisition of Schneider Electric,  Renewable Business Unit R&D facilities, in San Luis Obispo, California, by Rick West, former Director of Engineering and Engineering  Fellow with Schneider Electric.   RPC is an independent company, wholly owned by U.S. citizens.
+Capabilities
+The RPC team has extensive experience in bringing advanced power inverters to market.  Previous advanced products developed by the current project team members/employees at our San Luis Obispo facility under previous owners/employers include:
+The first 97% CEC efficient three phase inverter approximately ten years prior to the next  manufacturer attaining this level of performance. (UPG Model 18U)
+A 250kW bipolar inverter with multiple bridges running with skewed pulse width modulation. (US Patent 7,046,527 West)
+An advanced 500kW 3LNP clamp liquid cooled inverter.
+A high reliability, off-grid inverter power core, the first to use a high current power assembly based on an Insulated Metal Substrate. (US Patent 7,248,483 West)
+The development of a universal, high frequency, bi-directional multiport power conversion system. (US Patent 7,102,251 West)
+Six other commercial single-phase and three-phase PV inverter products from 1kW to 20kW for various clients.
+RPC will utilize an established contract manufacturer in the US to provide all PCB manufacturing and product assembly and testing operations. This capital efficient approach is used by companies ranging from Apple to Nike for products that do not require unique or specialized capital equipment for manufacturing.
+Our Mission
+RPC develops photovoltaic power converter and balance-of-system technologies  that will transform the way photovoltaic power systems are designed, constructed and maintained.
+FACILITIES
+RPC's facilities include laboratory and office space designed to support the development of high power PV power conversion products.      Resources include a 60kW DC power supply, multiple personnel protected 3-phase grid interfaces, photovoltaic rooftop array, power analyzers,   Rogowski coils, RF spectrum analyzer, thermal mapping equipment.
+LEADERSHIP
+Richard West |  Chief Technology Officer
+Our President and CTO, Richard West, has been directly involved with the design and development of advanced PV power conversion products since 1986.   Rick  was formerly the Director of Engineering with Schneider Electric, Renewable Energy Business Unit and prior to that,  Director of Engineering for Xantrex, Trace and Utility Power Group.  He has worked extensively with NREL, DOE and SNL to  develop and commercialize high-impact PV power converter products.  Rick is the named inventor on 39 issued and pending US  Patents related primarily to PV power conversion, and he has engineered, constructed and commissioned some of the largest  PV power plants built in the 1990s.
+Gary Fourer | Director of Engineering
+Gary Fourer has 30 years of direct experience with design, manufacturing and test of advanced power converters for the photovoltaic and aerospace industries.  Formerly Gary was Vice President of the Power Component Division at Utility Power Group, and prior to that he was Senior Staff Engineer at EG&G Power Systems.    Considered a subject matter expert, Gary has worked with Rick West for 25 years. He attended California Polytechnic State University at San Luis Obispo.
+Michael J. Stern | Business Development Consultant
+Michael Stern has over 30 years of experience managing engineering and construction of grid-tied solar electricity generating systems.  He has served as President of Utility Power Group and Silicon Energy Corp,  a Vice-President at Kyocera Solar; Board Director of Schott Applied Power Corp.; President of Western Gas & Electric Company;   COO of Solar Electric Solutions;  and he is currently COO of Solar Electric Solutions, LLC.  Mr. Stern earned a BS in Materials Engineering from the University of  California, Los Angeles, and is the named Inventor on several U.S. Patents for his work in commercializing PV technology.
+San Luis Obispo, CA  93401
+805-544-3547

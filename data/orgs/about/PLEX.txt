@@ -1,0 +1,124 @@
+Hey!
+Our website is available in , would you like to switch to that? Yes No
+About
+Plex is a collection of software and apps handcrafted by passionate employees from all around this amazing planet. Our mission is to give you the best way to discover and enjoy the media you care about—beautifully, on every screen, anywhere.
+The Team
+Many of us joined after already being members of the Plex community—a community very near and dear to our hearts. Some of us are movie buffs. Some are news junkies. Some are addicted to podcasts. Some are passionate about music and some are budding photographers. The one thing we all share is that we love our media, and we love the ubiquity afforded by the product we get to work on! And we really love that the constantly evolving landscape of mobile and connected devices gives us the opportunity to improve the way you consume your media, making it easier than ever to discover, enjoy, and share all of your media on all of your devices.
+Previous
+Adam L
+Adriana S
+Content Junkie
+Alex S
+Christopher H
+Javascript Wrangler
+Christopher R
+Cory L
+Craig H
+Dean M
+Dorothy C
+Duncan B
+Web Witch
+Elan F
+The Sheriff
+Emilio T
+Radar's Human
+Emily B
+Eric M
+Eric P
+Graham B
+James C
+Keith S
+Keith V
+El Jefe
+Kevin W
+Matt S
+Michael W
+Michal S
+Muhammad A
+Nicholas R
+Rodger C
+Simon R
+Steve L
+Adam L
+Adriana S
+Content Junkie
+Alex S
+Christopher H
+Javascript Wrangler
+Christopher R
+Cory L
+Craig H
+Dean M
+Dorothy C
+Duncan B
+Web Witch
+Elan F
+The Sheriff
+Emilio T
+Radar's Human
+Emily B
+Eric M
+Eric P
+Graham B
+James C
+Keith S
+Keith V
+El Jefe
+Kevin W
+Matt S
+Michael W
+Michal S
+Muhammad A
+Nicholas R
+Rodger C
+Simon R
+Steve L
+Next
+fingers-victory
+Humility
+Being humble about who we are and what we accomplish
+Helpfulness
+Passion
+heart-care
+Charity
+The top brass
+The investors
+We appreciate all of the support we get from our world-class group of investors, led by Kleiner Perkins Caufield & Byers.
+The Best of Plex
+Plex Pass gives you exclusive access to awesome new features and apps.
+About is a premium feature and requires a Plex Pass subscription.
+Plex Media Server
+Plex Media Server (PMS) is the software that allows you to stream your content to all of your devices, anywhere.
+Chief Executive Officer
+Keith Valory is CEO of Plex, the streaming media app that organizes your favorite content and streams it to all your devices. Keith and his team are working to provide consumers an easier way to discover, organize, and enjoy the content they love. Keith has nearly two decades of experience in executive and founding member positions spanning several industries. Prior to Plex, Keith was COO of Bracket Computing where he was responsible for corporate strategy and all business operations, including finance, business development, legal, operations, human resources, and information technology. Previously Keith spent five years at Cisco in various executive positions including running strategy and operations for the $2B Security Group, where he was responsible for business acquisition planning and execution, go-to-market planning and strategy, program management, business operations, and acquisition integration. Keith was the Vice President of Corporate Development and General Counsel at IronPoint Systems, Inc., which was acquired by Cisco for $830M. Keith was also an associate at Venture Law Group where he represented technology companies on venture financings, mergers and acquisitions, public offerings, licensing transactions and regulatory compliance.
+Scott Olechowski
+Chief Product Officer & Co-founder
+Scott Olechowski is Chief Product Officer and Co-founder of Plex. He is responsible for driving the product strategy, product management and business development for Plex’s suite of personal media software and services.
+Over the past fifteen years, Scott has applied his entrepreneurial know-how and spirit to a number of software & Internet focused start-ups. His professional experience includes executive positions in product strategy, business development, marketing, and international sales for a number of established brands such as Cisco, PostX and IronPort. He is an expert in cryptography with six issued encryption and authentication patents, and was a technical and thought leader in Cisco’s global threat intelligence operations. Fresh out of college, he co-founded a video software company that pioneered the synchronization of video testimony and official transcripts, which dramatically improved conviction rates for trial lawyers.
+Scott holds degrees in both Marketing and Management from DePaul University.
+Elan Feingold
+Chief Technology Officer & Co-Founder
+Elan has been involved with the creation of innovative technology for over a decade. As Vice President of Technology of MusicStream, he lead the creation of a sophisticated Internet music platform which integrated music and social networking. Prior to that, Elan managed a team at Aravox Technologies responsible for developing software for Aravox’s proprietary VoIP firewall platform, and later assisted in the transfer of technology after Aravox was purchased by Alcatel. Before Aravox, Elan worked as Director of Engineering at AetherWorks creating a groundbreaking VoIP platform which unified ATM, ISDN, and other telephony protocols. Additionally, he was responsible for the design and creation of a cross-platform universal messaging client. During his time there, AetherWorks was acquired by Nx Networks.
+Elan holds a B.S. in Computer Science from Cornell University.
+Scott Hancock
+Vice President of Marketing
+Scott Hancock is the vice president of marketing at Plex. He is responsible for developing and executing marketing strategies and plans and managing all marketing functions including advertising, influencer and media relations, events and creative services. Prior to joining Plex, Scott was the Director of Worldwide Channel Marketing at Hewlett-Packard Company. He also served as the Director of Marketing Communications at Palm Inc. until it was acquired by HP. Previously, he held account management positions at advertising and marketing agencies AKQA, the Beeline Group, and Goldberg Moser O’Neill.
+Scott holds a Bachelor of Science degree in Business from Cal Poly San Luis Obispo.
+Simon Rabe-Hesketh
+Vice President of Engineering
+Prior to Plex, Simon held several management positions in his three years at Twitter, most recently Senior Director, responsible for direct messages, photos, videos, VIT and TweetDeck, in the consumer engineering organization. Prior to joining Twitter, he held several positions at Palm, initially as Principal Engineer, working on the core webOS frameworks and web browser application, and eventually as Director of webOS Core Applications. He moved to the Bay Area in 2000 and has over 20+ years experience in software engineering. He’s worked at small and large companies, in multiple roles as an engineer and manager.
+Shawn Eldridge
+Vice President of Strategic Alliances
+Shawn Eldridge is the vice president of strategic alliances at Plex. He is responsible for building strategies, forming alliances and product distribution with partners. Prior to joining Plex, Shawn was Vice President of Products, Business Development, and Marketing at DeepNines Technologies. In this role, he was responsible for managing worldwide strategic development, marketing and product management, public relations, business development and associated duties. Eldridge also held management positions in business development, products, and strategy at BorderWare Technologies, IronPort (a Cisco Systems business unit) and PostX Corporation.
+Shawn holds a Bachelor of Arts degree in English from Texas Tech University in Lubbock.
+Dean Mayer
+VP, Finance & Corporate Controller
+Dean Mayer is Vice President of Finance and Corporate Controller for Plex and is responsible for leading the accounting, finance, legal and other administrative functions for the company. Over the past 30 years, he has held executive positions at a variety of technology start-ups and Fortune 500 companies. Prior to joining Plex, Dean was CFO at Alpine Data Labs, a data analytics software start-up based in San Francisco.  He previously served as Director of Finance at ParAccel, a database analytics start-up, and PostX, a secure email start-up, helping to lead both companies through successful acquisitions.  Prior to that, Dean served as Director-Global Risk Management Solutions at PricewaterhouseCoopers LLP and held a number of key management positions at Lockheed Martin Corporation, most recently as Regional Audit Manager.
+Dean holds a B.S. in Business Administration from California State University, Northridge and is a Certified Public Accountant, Chartered Global Management Accountant and Certified Information Systems Auditor.
+Plex is like mission control for your content
+With our easy-to-install Plex Media Server software and Plex apps on the devices of your choosing, you can stream your video, music, and photo collections any time, anywhere, to whatever you want.
+Quick Start Video
+Get Started
+Getting started is easy, download Plex Media Server and we'll walk you through the rest.
+Level up your music library with 59 million high-quality songs.
+TIDAL is seamlessly integrated with your existing music library — beautifully organized right in Plex.

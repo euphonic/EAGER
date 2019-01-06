@@ -1,0 +1,208 @@
+US
+1-877-486-9273
+ Company
+About Us
+Contact Us
+We Are VMware
+ At VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our software forms a digital foundation that powers the apps, services and experiences that are transforming the world. 
+Celebrating 20 Years of Innovation
+This year, VMware celebrates 20 years as an industry pioneer. When the company launched in February 1998, we transformed the data center forever by mainstreaming virtualization, the core principle of cloud computing. Twenty years later, we remain just as focused on innovating in everything we do, and committed to solving the most difficult technology problems for our customers. We apply the same principles of virtualization and software innovation to securely connect, manage and automate the world's complex digital infrastructure. And there's so much more to come.
+We see opportunity to apply those principles to growing technology areas like IoT, edge computing, and AI, amongst others. We are optimistic about the power of technology to be a force for good, with the potential to solve the big societal problems of today and tomorrow. Software, as we see it, has the power to transform business and humanity. We're here to make that happen.
+Explore Our Interactive Timeline
+The VMware Story
+LIFE AT VMWARE 
+Working at VMware
+Are you passionate about virtualization technology innovation and collaboration? Join the VMware team and help us drive the new era of IT.
+Search Jobs 
+(1:50)
+VMware Shared Values. It's EPIC2
+VMware people share a strong set of shared values. This is the story of how we found them within ourselves, how they inform what we do, and how we will use them in our journey together.
+Watch Now 
+NEWS
+View All News 
+EVENTS
+Aug
+26
+VMworld 2018 US 
+View All Events >
+EXECUTIVE LEADERSHIP
+Pat Gelsinger
+Chief Executive Officer
+View Profile 
+Maurizio Carli
+Executive Vice President, Worldwide Sales
+View Profile 
+Zane Rowe
+Chief Financial Officer
+View Profile 
+ view all executive profiles 
+ADDITIONAL INFO 
+Acquisitions
+See the complete list of our strategic acquisitions that help us expand and enhance our product lines. 
+Company Merchandise
+Buy VMware apparel and gifts.
+Briefing Center
+Visit one of our global centers to realize new possibilities to solve your business challenges.
+Sustainability
+We strive to reduce our carbon footprint outside the data center, too, including food composting, reducing power and water usage and using reclaimed materials in our buildings.
+Inner Circle
+Be part of an elite group of people who are influencing our future. Go behind the scenes at VMware to share your thoughts and experiences. 
+Office Locations
+Find out the locations of our offices around the world. 
+RADIUS
+Get news, insights, perspectives and thought leadership that keep you ahead of the curve. 
+Supplier Diversity
+Learn about VMware’s commitment to Supplier Diversity and how to register your certified diverse company with us.
+VMware Foundation
+Learn about the VMware Foundation and how we help amplify the contributions of our employees.  
+Contact Us
+VMware Inc.
+Email Us
+Visit the VMware Briefing Center
+Office Locations
+INVESTOR RELATIONS 
+Stock Information
+See current stock quotes and see historical trends, including volume and prices. 
+SEC Filings
+Download or view SEC filings. 
+Financial Information
+Review quarterly reports, income statements and earnings release reconciliations. 
+© 2016 VMware, Inc
+Terms of Use
+Privacy
+Accessibility
+Site Map
+Trademarks
+Glossary
+HelpCloud Operation Services
+VMware Research and the VMware Academic Program bring industry researchers, university faculty and students together to explore new directions for the industry. Together, we develop extraordinary ideas and build tomorrow’s transformative technologies today.
+RESEARCH PROGRAMS
+Innovative Research with a Global Footprint
+At VMware Research, we develop ideas that push the boundaries of technology. We fuel innovations that influence our company, our customers, and our world.
+Shaping the World of Tomorrow
+Disruptive thinking needs to be nurtured. VMware collaborates with the world’s leading faculty to develop and incubate innovative research approaches, and to accelerate the transformation of ideas into world-class technology solutions.
+Explore Your Future with Us
+Build Your IT Skills
+VMware IT Academy allows university faculty, technical instructors and secondary education teachers to deliver authorized VMware courses. Students can jump-start their career and VMware knowledge by taking courses from authorized IT Academies. Courses are offered through:
+A global network of colleges and universities
+Online certification opportunities
+Explore Our Resources
+Enrich your technical knowledge and stay ahead of the curve by taking advantage of VMware free resources and opportunities – developer tools, open source projects, apps, and more.Cloud Operation Services
+Scaling out Rapidly with VMware Cloud
+VMware Cloud on AWS helps ACI manage its global solutions and infrastructure at a much faster rate.
+Krungthai leverages VMware SDDC to offer digital banking and customer service.
+IHS Markit
+IHS Markit deployed VMware NSX and vRealize to create a frictionless IT environment.
+VMware Cloud on AWS Does the Heavy Lifting for Customers
+ACI leverages AWS for VMware technology with vRealize Business Suite to help the company stay ahead of the curve and integrate the technologies they’re choosing.
+“We were integrating a lot of solutions or our own with AWS. With VMware cloud, we're going to allow VMware to do a lot of the heavy lifting for us. We're going to be able to transition those workloads to VMware cloud to ensure that now it doesn't matter if we're in a private cloud or a public cloud, VMware is going to be that constant layer that's going to allow us to scale out rapidly. We no longer have to worry about the nuances of what API's are in use because VMware is going to worry about that for us now.”
+- Ryan Fay, CIO, ACI Specialty Benefits
+Industry:
+Technology
+Products:
+Delighting Customer and Employees with Future-Ready Infrastructure
+Krungthai Card Public Company is staying ahead of changing customer expectations by offering digital banking services and faster customer service, both made possible by VMware Software-Defined Data Center and Workspace ONE. Working with Tangerine, VMware has enabled the credit-card issuer to serve their customers quicker and more securely while reducing operational costs.
+“Ultimately, we want to use technology to benefit our customers and our employees. We want to improve customer experience, data security and ease of work. And VMware has helped us to achieve all that.”
+- Woottichai Jar ernpol, Senior Executive Vice President, Information Technology, Krungthai Card Public Company
+Industry:
+Global Information Powerhouse Automates IT for a Competitive Edge
+Following its merger, IHS Markit, a provider of information, analytics and solutions to 85% of the Fortune Global 500, needed to combine the IT operations of its two component companies and introduce a more automated IT infrastructure. As part of this alignment, it wanted the ability to better handle the billions of gigabits of data it processes every day and support its thousands of developers working to bring innovative products to market quickly; both key elements of maintaining a competitive edge.
+“Markit was a big VMware shop and, as IHS had already started the private cloud journey, we were able to leapfrog ourselves over that process. That meant we could quickly roll out virtual machines and software-defined data centre (SDDC) technologies into Markit and IHS, building one unified private cloud for the company,”
+- Ben Tanner, Director, Head of Cloud Enablement, IHS Markit
+Industry:
+Berliner Stadtreinigung
+For a more flexible, secure and mobile working environment for employees, Berlin’s waste management company chose VMware solutions.
+Berliner Stadtreinigung
+Berlin: Due to mobile working, a clean capital city can be realized
+The Berliner Stadtreinigungsbetriebe contributes to turning Berlin into a Smart City. Every day, the company is tasked with not only keeping roads, bridges and paths clean, but also disposing of the waste of the approximately 3.7 million inhabitants. It’s a logistical and organisational masterpiece – but it must have appropriate infrastructure created behind the scenes, for example within the IT department. In order to achieve a more flexible and mobile working environment for office workplaces and the street cleaning teams, Berliner Stadtreinigungsbetriebe decided to implement VMware Workspace ONE, powered by AirWatch technology; VMware Horizon; VMware vSAN, and VMware App Volumes.
+“We placed our trust with regard to desktop virtualization in VMware vSAN 6.5, because it runs trouble-free, is cost-effective and has a high performance at the same time. That’s why we want to find out, if we could virtualize our servers based on this solution as well.”
+- Ronald Scheer, Organisational and Information Technology, client-server operation, Berliner Stadtreinigung
+Industry:
+Leading construction company reduces branch CapEx and OpEx costs while improving WAN reliability and performance for remote branch users.
+Devcon
+Devcon, the largest general contractor in Silicon Valley, maintains a significant regional presence with offices throughout the western United States. Before deploying SD-WAN, many of Devcon's offices lacked access to high-bandwidth and reliable connectivity. The company’s previous WAN solution provided very little visibility into network and application performance.
+Devcon chose VMware NSX SD-WAN by VeloCloud to replace its aging branch infrastructure. They get a cloud-delivered WAN that provides virtualized services to remote sites with enterprise-grade performance, visibility and control. With NSX SD-WAN, the company achieved its core goals while preserving its existing network design and equipment.
+“Devcon reduced its WAN bandwidth costs by 75% per month. Also, VeloCloud’s integrated Wi-Fi access point at the edge is great. With integrated Wi-Fi, we could deploy a wireless network that lets all remote users connect their mobile devices to the WAN. That feature alone allowed us to reduce our hardware footprint in each location.”
+- JOE TAN, DIRECTOR OF IT, DEVCON CONSTRUCTION
+Industry:
+By using NSX SD-WAN, a worldwide organization changed from an active-passive to active-active network and introduced packet-by-packet prioritization.
+ABC Inc.
+SD-WAN Used to Expand Global Footprint and Support a Remote Workforce
+After implementing VMware NSX SD-WAN by VeloCloud, ABC Inc. gained a flexible and scalable network infrastructure to support its existing and long-term goals.
+“VeloCloud SD-WAN is enabling us to expand our business, hire the best and brightest, and support all of our employees and customers so that user satisfaction becomes a key differentiator for us.”
+- Rosa Lear, Sr. Marketing Manager of NSX SD-WAN by VeloCloud Content and Social Media
+Industry:
+The Bay Club
+Deliver Business Agility and Rapid Branch Deployment with SD-WAN
+With SD-WAN at the forefront of its applications, The Bay Club operations team is able to expedite the IT portion of acquisitions. With prompt service delivery, members see the improvement in the quality of the new Bay Club experience, which ultimately makes it easier for the sales and marketing team to attract new customers.
+“When it comes to our goals of reducing cost of ownership, accelerating acquisitions, and delivering a high-quality member experience, VeloCloud enabled us to achieve them all. Bring on the growth—we’re ready to handle it.”
+- Rosa Lear, Sr. Marketing Manager of NSX SD-WAN by VeloCloud Content and Social Media
+Industry:
+Travel-Leisure
+Solutions:
+Stolt-Nielsen Limited
+Future-proofing the Network with SD-WAN
+Global transportation, storage and distribution company Stolt-Nielsen has a highly dispersed organization with over 2,200 people, distributed in over 40 branch offices in more than 30 countries. The company must deliver a high-quality experience to every user in every branch company-wide. Stolt-Nielsen needed to make fundamental changes to its WAN infrastructure to support current and future demands.  Within a three-month period, working with network services company Videns IT Services, Stolt-Nielsen was able to migrate over 40 locations from a traditional MPLS to VMware NSX SD-WAN by VeloCloud solution, a process that previously would have taken about a year. For new branches where all network prerequisites were in place, migration to the SD-WAN platform took only a few hours.
+“With the new network and dynamic routing, we now provide local breakout to the internet. In the future we also may consume application and content much closer to the user. This can easily be achieved with NSX SD-WAN.”
+- Daan Muizer, Global Service Delivery Manager, Stolt-Nielsen
+Moving to vCloud Air solutions was "a no-brainer" because it increased data speed, cut costs and led to "rock solid" reliability in the cloud.
+Peirce College
+College Delivers Reliable Online Classes with VMware vCloud Air Solution
+Peirce College is a leader in online education, and it offers nationally ranked online bachelor’s degree programs. As it expanded its online classes, Peirce needed a stronger technology infrastructure. Its previous colocation facility was expensive and prone to crashes, and its data-transfer rate was limited to 2GB an hour. When Peirce implemented VMware vCloud® Air™ Virtual Private Cloud for its data center, it increased data speed, cut costs, and achieved rock-solid reliability in the cloud.
+"Moving to VMware was a no-brainer. I know VMware works and works well. Everything has been rock-solid and easy to manage."
+- Michael Mozeliak, Director of IT, Peirce College
+Phoenix  Software is a UK Solution Provider partner which owns a traditional software company, an ISV, called License Dashboard.  License Dashboard...
+Phoenix Software
+Phoenix Software Delivers SaaS on VMware vCloud Air
+Phoenix  Software is a UK Solution Provider partner which owns a traditional software company, an ISV, called License Dashboard.  License Dashboard wants to deliver a SaaS service and as the software already runs on VMware the easiest way forward is to deliver this software from vCloud Air.  A further advantage is that License Dashboard will be able to deliver SaaS services around the world by using vCloud Air’s datacenters across the globe.
+Industry:
+Technology
+Solutions:
+Simplicity and flexibility were a "massive factor" in choosing vSAN. Now the cloud team easily manages storage along with their VMware environment.
+Zettagrid
+Zettagrid Improves Availability with VMware Virtual SAN Solution
+Operating the easiest, fastest, and most highly available public cloud in its market, Zettagrid is constantly looking for ways to improve the infrastructure and services it provides to customers. When it came time to future-proof its architecture to ensure performance and service delivery, it turned to the VMware Virtual SAN™ solution to increase storage capacity. In the process it gained operational efficiencies, lowered operating costs, and became agile enough to grow its IT environment with the business.
+“Virtual SAN allows us to have the best-of-breed HCI technology. The simplicity and flexibility is such a massive factor. It makes it easy for our cloud operations team to manage storage along with our VMware environment, and it also allows us to scale as and when we need it.”
+- Anthony Spiteri, Lead Architect, Zettagrid
+Industry:
+Technology
+Solutions:
+ESC Lab Sciences
+At a leading large environmental testing lab that operates 24/7, vCloud Air Disaster Recovery protects data against natural or man-made catastrophes.
+ESC Lab Sciences
+vCloud Air Disaster Recovery Keeps Business Operational Under Any Circumstances
+ESC Lab Sciences provides environmental testing, analysis, and data to public and private- sector customers nationwide.  As one of the largest and busiest environmental testing labs in the country, ESC Lab Sciences needed a reliable disaster recovery plan that would minimize the possibility of operations grinding to a halt due to natural or human disasters. VMware vCloud Air Disaster Recovery serves as the basis of that plan, integrating seamlessly with the company’s VMware vSphere environment.
+“It took just a few weeks to implement VMware vCloud Air Disaster Recovery and replicate our mission-critical applications and servers. Within a month, I was able to turn on those services and start doing isolated tests.”
+- Tom White, Enterprise Infrastructure Director, ESC Lab Sciences
+Industry:
+Pharmaceutical
+Solutions:
+Comfoor B.V.
+Solutions with vCloud Air Network partner DLA ICT provide robust and reliable disaster recovery that the customer only pays for when they use it.
+Comfoor B.V.
+vCloud Air Enabled DLA ICT/ Comfoor to Deliver Reliable Service to Customers
+Comfoor explains how it works with vCloud Air Network partner DLA ICT to equip itself with a robust and reliable Disaster Recovery solution in the form of vCloud Air.
+“Working with DLA, together with vCloud Air, has been very important for Comfoor. It means that we can make our data recovery more efficient, and we don’t have to pay for a redundant service when we don’t use it.”
+“Using vCloud Air, we can deliver a more reliable service to our customers.”
+- Koen De Winkel, Operations Manager, Comfoor
+Industry:
+Technology
+Solutions:Cloud Operation Services
+(2:58)
+20 Years of VMware Innovation
+Watch how VMware became an industry pioneer. Today, we remain focused on Innovating in Everything We Do, and committed to solving the most difficult technology problems for our customers.
+THE OFFICE OF THE CTO
+VMware’s Office of the CTO (OCTO) charter is to look over the horizon – exploring, inspiring, and innovating to impact the future. OCTO is driving innovation programs and research, while connecting technologists from academia, to our field, to our customer and partner communities. In addition, we are focused on how VMware relates to the Open Source community and our Sustainability initiatives to positively impact and shape the future.
+RESEARCH & ACADEMIC PROGRAMS
+Inventing the Future Together
+Extraordinary ideas that will transform tomorrow are born today. VMware Research and its Academic Program are home to industry researchers, university faculty, and students from around the world who are collaborating to develop ideas that will influence the future of technology.
+Inspiring Innovation Everywhere
+Inspired by the drive, passion and intellectual curiosity our teams have for technology, we are committed to providing diverse innovation programs that inspire members of the VMware community to explore the possibilities. VMware team members are encouraged and empowered to constantly challenge the status quo, ask "what if" and explore new technologies.
+Collaboration Is Core to Our Values
+Collaboration and a keen interest in technical excellence are core to VMware’s values. VMware actively engages with the open-source community through contributions to exiting projects, as well as developing, releasing and leading new open-source projects and initiatives.
+We Are a Force for Good
+Our mission is to leave ahead a better future—to put back more into the environment, society and the global economy than we take—and to inspire our employees, customers and partners to do the same. To us, the seemingly impossible is possible. And we work to provide it every day.
+VMware Innovation Zone: A Glimpse into the Future
+To celebrate VMware's 20th anniversary at VMworld 2018 US this year, the Office of the CTO (OCTO) showcased cultural and historic artifacts and featured some advanced development projects.
+Building a BeyondCorp/Zero Trust solution using only VMware products
+The backdrop to BeyondCorp is that you can’t trust devices just because they are connected to your internal network. Security reports often state that many attacks originate from the internal network. 

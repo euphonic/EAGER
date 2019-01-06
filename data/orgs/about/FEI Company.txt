@@ -1,0 +1,174 @@
+Detailed reconstructions are now available with modern cryo-EM.
+5N8Y. KaiCBA circadian clock backbone model based on a Cryo-EM density
+The History of Cryo-EM
+Cryo-EM possesses a long history that includes many groups of researchers who contributed to the evolution and revolution of cryo-EM in equally important ways. It has taken 40+ years of dedicated work for the structural biology community to develop the myriad technological advancements—detectors, automation, software and more—that have made modern cryo-EM possible. 
+An Introduction to Cryo-EM
+Cryo-Electron Microscopy (Cryo-EM) begins with vitrification, in which the protein solution is cooled so rapidly that water molecules do not have time to crystallize, forming an amorphous solid that does little or no damage to the sample structure (a process known as vitrification). The sample is then screened for particle concentration, distribution and orientation. Next, a series of images is acquired, and two-dimensional classes are computationally extracted. In the final step, the data is processed by reconstruction software, yielding accurate, detailed, 3D models of intricate biological structures at the sub-cellular and molecular scales. These models can reveal interactions that were impossible to visualize previously, a key to scientific results.
+Play Video
+captions off, selected
+This is a modal window.
+This video is either unavailable or not supported in this browser
+Error Code: MEDIA_ERR_SRC_NOT_SUPPORTED
+No compatible source was found for this media.
+If you are using an older browser please try upgrading or installing Flash.
+Session ID: 2018-12-25:c53dc13150fe9e6278a5b Player ID: vjs_video_3
+OK
+Close Modal Dialog
+Caption Settings Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Text
+Color
+Transparency
+Background
+Color
+Transparency
+Window
+Color
+Transparency
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Cryo-EM structures of tau filaments from Alzheimer's disease.
+The Rise of Cryo-EM
+One of the greatest advantages of cryo-EM relative to conventional structural biology techniques is its ability to analyze large, complex and flexible structures. Oftentimes these cannot be crystallized for X-ray crystallography (XRD) or are too large and complex for nuclear magnetic resonance (NMR) spectroscopy. These include many biologically important proteins, especially those with variable or flexible structures like membrane proteins. The established methods for structure determination, XRD and NMR, are now routinely integrated with cryo-EM density maps to achieve atomic-resolution models of complex, dynamic molecular assemblies.
+Since the first model based on cryo-EM reconstruction was deposited with the PDB (Protein Data Bank) in 1997, the number of deposited structures has grown exponentially. Cryo-EM was responsible for entries to the EMDB surpassing 1,000 in 2016, with a quarter of all entries deposited that year alone. Many of these most recent depositions include critical macromolecular assemblies previously thought impervious to structure determination.
+2017 Nobel Peace Prize for Chemistry
+The Nobel Prize in Chemistry 2017 was awarded to three researchers who had spent decades advancing cryo-EM:
+In 1975, Joachim Frank began work on the algorithms that would analyze fuzzy 2D images and reconstruct them into sharp 3D structures. 
+In the early 1980s, Jacques Dubochet succeeded in vitrifying water, which allowed the biomolecules to retain their shape in a vacuum.
+In 1990, Richard Henderson was the first to use an electron microscope to generate a 3D image of a protein at atomic resolution.
+Congratulations to Dr. Jacques Dubochet, Dr. Joachim Frank, and Dr. Richard Henderson.  We are extremely proud of what these researchers and the structural biology community have achieved.
+Resolution Revolution
+Cryo-EM now regularly breaks the 3Å barrier, allowing for high-resolution solving of structures that are impossible (or nearly so) with the traditional techniques of XRD and NMR. Thermo Fisher Scientific pioneered this modern “ Resolution Revolution ” era of cryo-EM with its introduction of the Titan Krios™ transmission electron microscope in 2008. Recent technological advancements in the microscope design and imaging hardware, along with     enhanced image processing and automation, have helped to catapult the technique’s success. Many leading scientists have recently adopted the technique as one of the most critical tools in their laboratory. This increase in adoption, along with an     unprecedented sharp rise in associated publications, led to Nature Methods naming cryo-EM as its Method of the Year for 2015 .
+Data courtesy of National University of Singapore.
+Scientific Results
+Cryo-EM has enabled researchers to define the world’s first protein structures for human ataxia telangiectasia mutated (ATM). ATM is a key trigger protein in the DNA damage response and a prime therapeutic target in cancer research. The research could     prove invaluable in developing new cancer drugs. Science Advances, May 10, 2017 .
+Researchers have used cryo-EM to determine the ternary complex structure of the calcitonin receptor for a class B G protein-coupled receptor (GPCR), an important membrane protein complex that has been difficult to analyze by other means. Nature, June 1, 2017 .
+The Thermo Scientific™ Krios Cryo-TEM and SPA Workflow have enabled researchers to more clearly resolve the structure of several viruses, including HIV, Zika, Ebola and rhinovirus C. PNA, August 9, 2016
+Thermo Fisher Scientific's Solutions for Cryo-EM
+Single Particle Analysis Workflow
+The Challenges of Protein Complex Analysis
+Drug development at the pace requested by today's society requires the study of molecular mechanisms as close as possible to in vivo at high resolution. Until recently, the main technique available to achieve high resolution structures of biological molecules     was crystallography.
+Cryo-EM, the Nature 2015 Method of the Year, is now able to solve near-atomic-resolution structures with volume and clarity. Using Cryo-EM to understand molecular structures such as proteins, protein complexes, and protein-ribonucleic acid associations-the     fundamental building blocks of life-will lead to wide scale pharmaceutical solutions for treating diseases and disorders.
+The new Thermo Scientific™ Krios™ G3i Cryo Transmission Electron Microscope (Cryo-TEM) enables life science researchers to unravel life at the molecular level—easier, faster, and more reliably than ever before. Its highly stable 300 kV TEM platform and     industry-leading Autoloader (cryogenic sample manipulation robot) are designed for automated applications, such as single particle analysis (SPA) and cryo-tomography. Designed-in connectivity ensures a robust and risk-free pathway throughout the entire     workflow, from sample preparation and optimization to image acquisition and data processing.
+1.
+A. Heuer, M. Gerovac, C. Schmidt, S. Trowitzsch, A. Preis, P. Kötter, O. Berninghausen, T. Becker, R. Beckmann, R. Tampé   (2017)   Structure of the 40S-ABCE1 post-splitting complex in ribosome recycling and translation initiation.   Nature structural & molecular biology   
+Structure of the 40S-ABCE1 post-splitting complex in ribosome recycling and translation initiation.
+A. Heuer, M. Gerovac, C. Schmidt, S. Trowitzsch, A. Preis, P. Kötter, O. Berninghausen, T. Becker, R. Beckmann, R. Tampé
+The essential ATP-binding cassette protein ABCE1 splits 80S ribosomes into 60S and 40S subunits after canonical termination or quality-control-based mRNA surveillance processes. However, the underlying splitting mechanism remains enigmatic. Here, we present a cryo-EM structure of the yeast 40S-ABCE1 post-splitting complex at 3.9-Å resolution. Compared to the pre-splitting state, we observe repositioning of ABCE1's iron-sulfur cluster domain, which rotates 150° into a binding pocket on the 40S subunit. This repositioning explains a newly observed anti-association activity of ABCE1. Notably, the movement implies a collision with A-site factors, thus explaining the splitting mechanism. Disruption of key interactions in the post-splitting complex impairs cellular homeostasis. Additionally, the structure of a native post-splitting complex reveals ABCE1 to be part of the 43S initiation complex, suggesting a coordination of termination, recycling, and initiation.
+2.
+K. van Pee, A. Neuhaus, E. D'Imprima, D. Mills, W. Kühlbrandt, Ö. Yildiz   (2017)   CryoEM structures of membrane pore and prepore complex reveal cytolytic mechanism of Pneumolysin.   eLife   6
+CryoEM structures of membrane pore and prepore complex reveal cytolytic mechanism of Pneumolysin.
+K. van Pee, A. Neuhaus, E. D'Imprima, D. Mills, W. Kühlbrandt, Ö. Yildiz
+Many pathogenic bacteria produce pore-forming toxins to attack and kill human cells. We have determined the 4.5 Å structure of the ~2.2 MDa pore complex of pneumolysin, the main virulence factor of Streptococcus pneumoniae, by cryoEM. The pneumolysin pore is a 400 Å ring of 42 membrane-inserted monomers. Domain D3 of the soluble toxin refolds into two ~85 Å β-hairpins that traverse the lipid bilayer and assemble into a 168-strand β-barrel. The pore complex is stabilized by salt bridges between β-hairpins of adjacent subunits and an internal α-barrel. The apolar outer barrel surface with large sidechains is immersed in the lipid bilayer, while the inner barrel surface is highly charged. Comparison of the cryoEM pore complex to the prepore structure obtained by electron cryo-tomography and the x-ray structure of the soluble form reveals the detailed mechanisms by which the toxin monomers insert into the lipid bilayer to perforate the target membrane.
+3.
+K. Škubník, J. Nováček, T. Füzik, A. Přidal, R. Paxton, P. Plevka   (2017)   Structure of deformed wing virus, a major honey bee pathogen.   Proceedings of the National Academy of Sciences of the United States of America   114
+Structure of deformed wing virus, a major honey bee pathogen.
+K. Škubník, J. Nováček, T. Füzik, A. Přidal, R. Paxton, P. Plevka
+The worldwide population of western honey bees (Apis mellifera) is under pressure from habitat loss, environmental stress, and pathogens, particularly viruses that cause lethal epidemics. Deformed wing virus (DWV) from the family Iflaviridae, together with its vector, the mite Varroa destructor, is likely the major threat to the world's honey bees. However, lack of knowledge of the atomic structures of iflaviruses has hindered the development of effective treatments against them. Here, we present the virion structures of DWV determined to a resolution of 3.1 Å using cryo-electron microscopy and 3.8 Å by X-ray crystallography. The C-terminal extension of capsid protein VP3 folds into a globular protruding (P) domain, exposed on the virion surface. The P domain contains an Asp-His-Ser catalytic triad that is, together with five residues that are spatially close, conserved among iflaviruses. These residues may participate in receptor binding or provide the protease, lipase, or esterase activity required for entry of the virus into a host cell. Furthermore, nucleotides of the DWV RNA genome interact with VP3 subunits. The capsid protein residues involved in the RNA binding are conserved among honey bee iflaviruses, suggesting a putative role of the genome in stabilizing the virion or facilitating capsid assembly. Identifying the RNA-binding and putative catalytic sites within the DWV virion structure enables future analyses of how DWV and other iflaviruses infect insect cells and also opens up possibilities for the development of antiviral treatments.
+4.
+C. Engel, T. Gubbey, S. Neyer, S. Sainsbury, C. Oberthuer, C. Baejen, C. Bernecky, P. Cramer   (2017)   Structural Basis of RNA Polymerase I Transcription Initiation.   Cell   169
+Structural Basis of RNA Polymerase I Transcription Initiation.
+C. Engel, T. Gubbey, S. Neyer, S. Sainsbury, C. Oberthuer, C. Baejen, C. Bernecky, P. Cramer
+Transcription initiation at the ribosomal RNA promoter requires RNA polymerase (Pol) I and the initiation factors Rrn3 and core factor (CF). Here, we combine X-ray crystallography and cryo-electron microscopy (cryo-EM) to obtain a molecular model for basal Pol I initiation. The three-subunit CF binds upstream promoter DNA, docks to the Pol I-Rrn3 complex, and loads DNA into the expanded active center cleft of the polymerase. DNA unwinding between the Pol I protrusion and clamp domains enables cleft contraction, resulting in an active Pol I conformation and RNA synthesis. Comparison with the Pol II system suggests that promoter specificity relies on a distinct "bendability" and "meltability" of the promoter sequence that enables contacts between initiation factors, DNA, and polymerase.
+5.
+J. Gu, M. Wu, R. Guo, K. Yan, J. Lei, N. Gao, M. Yang   (2016)   The architecture of the mammalian respirasome.   Nature   537
+The architecture of the mammalian respirasome.
+J. Gu, M. Wu, R. Guo, K. Yan, J. Lei, N. Gao, M. Yang
+Prefusion structure of MERS-CoV spike glycoprotein, conformation 2
+Author: Yuan, Y. et al.
+Taken on a FEI TITAN KRIOS at 3.2 Å resolution
+Structure of SARS-CoV spike glycoprotein
+Author: Gui, M. et al.
+Taken on a FEI TITAN KRIOS at 3.8 Å resolution
+Nucleosome : Class 1
+Taken on a FEI TITAN at 3.7 Å resolution
+Life in the extremes: atomic structure of Sulfolobus Turreted Icosahedral Virus
+Author: Veesler, D. et al.
+Taken on a FEI TITAN KRIOS at 4.5 Å resolution
+Cryo-EM structure of Dengue virus serotype 3 at 28 degrees C
+Author: Fibriansah, G. et al.
+Taken on a FEI TITAN KRIOS at 6.0 Å resolution
+Structure of beta-galactosidase at 3.2-A resolution obtained by cryo-electron microscopy
+Author: Bartesaghi, A. et al.
+Taken on a FEI TITAN KRIOS at 3.2 Å resolution
+CryoEM single particle reconstruction of anthrax toxin protective antigen pore at 2.9 Angstrom resolution
+Author: Jiang, J. et al.
+Taken on a FEI TITAN KRIOS at 2.9 Å resolution
+Atomic structure of a non-enveloped virus reveals pH sensors for a coordinated process of cell entry
+Author: Zhang, X. et al.
+Taken on a FEI TITAN KRIOS at 3.3 Å resolution
+Structure of alpha-1 glycine receptor by single particle electron cryo-microscopy, strychnine-bound state
+Author: Du, J. et al.
+Taken on a FEI TITAN KRIOS at 3.9 Å resolution
+Electron cryo-microscopy of the IST1-CHMP1B ESCRT-III copolymer
+Author: McCullough, J. et al.
+Taken on a FEI TITAN KRIOS at 4.0 Å resolution
+Structure of Escherichia coli EF4 in posttranslocational ribosomes (Post EF4)
+Author: Zhang, D. et al.
+Taken on a FEI TITAN KRIOS at 3.700 Å resolution
+Cryo-EM structure of the magnesium channel CorA in the closed symmetric magnesium-bound state
+Author: Matthies, D. et al.
+Taken on a FEI TITAN KRIOS at 3.8 Å resolution
+Structure of the yeast 60S ribosomal subunit in complex with Arx1, Alb1 and C-terminally tagged Rei1
+Author: Greber, B.J. et al.
+Taken on a FEI TITAN KRIOS at 3.410 Å resolution
+Structure of a Chaperone-Usher pilus reveals the molecular basis of rod uncoilin
+Author: Hospenthal, M.K. et al.
+Taken on a FEI TITAN KRIOS at 3.8 Å resolution
+Cryo-EM structure of the flagellar hook of Campylobacter jejuni
+Author: Matsunami, H. et al.
+Taken on a FEI TITAN KRIOS at 3.5 Å resolution
+Structure of F-ATPase from Pichia angusta, state1
+Author: Vinothkumar, K.R. et al.
+Taken on a FEI TITAN KRIOS at 7 Å resolution
+Cryo-EM structure of a BG505 Env-sCD4-17b-8ANC195 complex
+Author: Wang, H. et al.
+Taken on a FEI TITAN KRIOS at 8.9 Å resolution
+Ca2+ bound aplysia Slo1
+Taken on a FEI TITAN KRIOS at 3.8 Å resolution
+Dephosphorylated, ATP-free cystic fibrosis transmembrane conductance regulator (CFTR) from zebrafish
+Author: Zhang, Z. et al.
+Taken on a FEI TITAN KRIOS at 3.73 Å resolution
+The 2.8 A Electron Microscopy Structure of Adeno-Associated Virus-DJ Bound by a Heparanoid Pentasaccharide
+Author: Xie, Q. et al.
+Taken on a FEI TITAN KRIOS at 2.8 Å resolution
+Volta phase plate cryo-electron microscopy structure of a calcitonin receptor-heterotrimeric Gs protein complex
+Author: Liang, Y.L. et al.
+Taken on a FEI TITAN KRIOS at 4.1 Å resolution
+Cryo-EM structure of the human ether-a-go-go related K+ channel
+Author: Wang, W.W. et al.
+Taken on a FEI TITAN KRIOS at 3.7 Å resolution
+CryoEM structure of type II secretion system secretin GspD in E.coli K12
+Author: Yan, Z. et al.
+Taken on a FEI TITAN KRIOS at 3.04 Å resolution
+Structure of a Pancreatic ATP-sensitive Potassium Channel
+Author: Li, N. et al.
+Taken on a FEI TITAN KRIOS at 5.6 Å resolution
+The resting state of yeast proteasome
+Author: Ding, Z. et al.
+Taken on a FEI TITAN KRIOS at 6.3 Å resolution
+Structure of a eukaryotic voltage-gated sodium channel at near atomic resolution
+Author: Shen, H. et al.
+Taken on a FEI TITAN KRIOS at 3.8 Å resolution
+Prefusion structure of MERS-CoV spike glycoprotein, three-fold symmetry
+Author: Yuan, Y. et al.
+Taken on a FEI TITAN KRIOS at 3.2 Å resolution
+Prefusion structure of MERS-CoV spike glycoprotein, conformation 2
+Author: Yuan, Y. et al.
+Taken on a FEI TITAN KRIOS at 3.2 Å resolution
+Structure of SARS-CoV spike glycoprotein
+Author: Gui, M. et al.
+Taken on a FEI TITAN KRIOS at 3.8 Å resolution
+Nucleosome : Class 1
+Taken on a FEI TITAN at 3.7 Å resolution
+Life in the extremes: atomic structure of Sulfolobus Turreted Icosahedral Virus
+Author: Veesler, D. et al.
+Taken on a FEI TITAN KRIOS at 4.5 Å resolution
+Cryo-EM structure of Dengue virus serotype 3 at 28 degrees C
+Author: Fibriansah, G. et al.
+Taken on a FEI TITAN KRIOS at 6.0 Å resolution
+Structure of beta-galactosidase at 3.2-A resolution obtained by cryo-electron microscopy
+Author: Bartesaghi, A. et al.
+Taken on a FEI TITAN KRIOS at 3.2 Å resolution

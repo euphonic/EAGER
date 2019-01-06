@@ -1,0 +1,120 @@
+About PARC
+Revered experience and unlimited ambition
+Located in Silicon Valley, PARC is a renowned Open Innovation company that’s been at the heart of some of the most important technological breakthroughs of our time. We bring leading scientists, engineers and designers together to form bespoke teams across a series of Focus Areas that we believe are the future of technology, science and innovation.
+Creativity and science are core to PARC’s mission to reduce the time and risk attached to innovation. We draw on our revered history and our energy for the future to create technologies that improve our world and solve complex challenges.
+Working with PARC means benefiting from something unique. Because every technological challenge is different, the team you work with will assemble and grow organically, based on your innovation goals. It’s this approach to combining expertise and capabilities that has led to some of our most interesting and exciting R&D, technology and IP projects with startups, government agencies and Fortune 500 partners.
+Find out more working with us or even for us.
+Expertise
+Focus Areas
+At PARC, we concentrate our thinking on a series of Focus Areas that we believe are the future of technology. From AI to digital design and manufacturing, novel printing to microsystems, IoT to the workplace, our Focus Areas sit at the center of our innovation. In turn, each individual Focus Area is enabled by a set of core Competencies where our collective expertise and capabilities come to life.
+About PARC
+PARC History
+PARC was founded in 1970 as Xerox PARC. In 2002, PARC was incorporated, creating a wholly owned, independent subsidiary of Xerox Corporation. Since its inception, PARC has created $1 trillion in new industries, $60 billion in startups and spin-offs, and almost 6,000 patents and patent applications.
+About PARC
+PARC People
+Our people are integral to how we help organizations respond to a rapidly changing technology landscape. With over 150 scientists, engineers and designers, we are able to create new teams for every project we work on, combining creative thinkers and innovators from a variety of backgrounds.
+Find out how we help organizations explore scientific frontiers.
+“The mission of PARC is essentially to create the Open Innovation center of the 21st century. We’re in the business of breakthrough innovation. That requires the ability to translate science into market impact. And that’s what we’ve been doing for many years.”
+Tolga Kurtoglu, CEO, PARC
+JapanPARC History
+A legacy of inventing the future
+If you’re reading this on a computer, it’s more than likely we’ve played a part in making that happen. This is because at PARC, we’ve been pioneering developments, creating systems and devising solutions that improve the human experience of technology for almost half a century. We’re proud of our history of creative innovation, and we’re always looking to a future where our Focus Areas can be applied and achieved.
+Today, PARC provides custom R&D services, technology, expertise, best practice and intellectual property to a whole range of companies, from Fortune 500 and Global 1000 firms to startups and government agencies all over the world. With our help, organizations can reduce risk, accelerate their time to market and create new opportunities that would otherwise not exist.
+If you would like to know more about how you can benefit from our history and future, visit Working with PARC .
+PARC History Timeline
+1970: Xerox PARC Founded
+Xerox Corporation assembles a team of world-class experts in information and physical sciences to become what is known as ‘The Architects of Information.’ The company establishes the Xerox Palo Alto Research Center (Xerox PARC) under the direction of Dr. George Pake. The charter for Xerox PARC is to create ‘The Office of the Future.’
+1971: Laser printing
+Xerox PARC modulates a laser to create a bit-mapped electronic image on a xerographic copier drum. Not only does this demonstrate a novel way to print documents, but this invention of laser printing enables seamless rendering of digital documents onto paper, creating a multibillion dollar printing business for Xerox.
+1972: Object-oriented programming
+1973: Alto PC
+The Xerox Alto personal workstation is created. Its client-server architecture means computing is no longer restricted to the hierarchical world of large, centralized mainframes. This evolving PC will subsequently employ the world’s first bit-mapped display, graphical user interface with windows and icons, WYSIWYG (What You See is What You Get) editor, local area network/file storage, and commercial mouse.
+1973: Ethernet
+An internal memo proposes a system of linking workstations, files, and printers together using a coaxial cable within a local area network. The benefit is that components can join or leave the network without disturbing data traffic. The memo’s author coins the term “Ethernet” to describe the network. Ethernet grows into a global standard.
+1973: Superpaint frame buffer
+Xerox PARC computer scientists record the first video image on the first computer paint system – a graphics program and framebuffer computer. This paves the way for the earliest computer animations and later earns its inventors an Emmy and an Academy Award.
+1974: WYSIWYG
+Xerox PARC coins the phrase to describe cut-and-paste bit-mapped editing: What You See Is What You Get (also known as ‘wizzy-wig’). This year, Xerox PARC also demonstrates the seminal Bravo word processing program (which leads to Microsoft Word) and device-independent imaging (which leads to Page Description Languages and influences subsequent design of Postscript).
+1975: Graphical user interface (GUI)
+Xerox PARC debuts the first GUI, which uses icons, pop-up menus, and overlapping windows that can be controlled easily using a point-and-click technique. The GUI famously (or infamously) influences the development of all subsequent personal computer interfaces.
+1977: VLSI circuit design
+Xerox PARC (with Caltech) defines a new representation of Very Large Scale Integration (VLSI) circuit design. This allows for greater computing power in more compact machines, reduces design time, and leads to a new generation of computer-aided design tools.
+1979: Corporate ethnography
+PARC pioneers the use of ethnography for human-centered technology design, work practice redesign, and more. It requires initiating collaboration among computer scientists, engineers, anthropologists, sociologists, psychologists, and other social scientists. This approach leads to improvements in many workspaces, office products, and processes.
+1979: Natural language processing
+To enable spell-checking, dictionary, and other tools, Xerox PARC invents computational linguistic technologies based on understanding the structure of language. These lead to computer-automated visual recall, intelligent retrieval, and linguistic compression…and later enable deep meaning-based language parsing systems for search, text analytics, and more.
+1980: Optical storage
+Non-erasable, magneto-optical storage device technology is developed at Xerox PARC. Initially, its purpose is to enable high-speed data access on the Palo Alto campus. Eventually, it becomes commercialized through Optimem (which evolves into Cipher Data Products).
+1980: Programming languages
+Xerox files the software copyright for Smalltalk-80. It’s one of only three software copyrights in existence. Meanwhile, Interlisp (the Mesa programming environment) and its successor, Cedar, are implemented in Xerox systems, in turn enhancing its reliability and supporting its rapid development.
+1982: Fiber optics
+The first optical cable-based local area network is operational. Eventually, it will enable commercial, fiber optic media for Ethernet, marketed through Synoptics (later acquired by Bay Networks, then Nortel Networks).
+1983: a-Si for printing
+A one-inch array of amorphous silicon (a-Si), thin-film transistors is used to drive a small Corjet ionographic printhead. This technology enables Xerox to offer lower cost multifunction machines. Evolving expertise in a-Si thin-film transistors and sensors will become the backbone for many large-area electronic technologies.
+1986: Multi-beam lasers
+Xerox PARC is home to the world’s first dual-beam lasers. These print twice as fast as single beams. Multi-beam lasers become a key enabler for high-speed, high-resolution production printing systems.
+1987: Unicode/multilingual computing
+Xerox PARC designs a 16-bit coding system to represent any world script – in documents, user names, file names, or network services – in any combination with a single encoding. These scripts lead to the ISO/IEC 10646 and the corresponding Unicode industry standard that allow computers to consistently represent text.
+1988: Ubiquitous computing
+The term ‘ubiquitous computing’ is coined at Xerox PARC to describe a future where people seamlessly access resources and control environments using mobile devices. Xerox PARC invents and builds fundamental devices that enables this to happen. Examples include the palm-sized PARCTab, notebook-sized PARCPad, lightweight portable document reader, and flexible computational infrastructure.
+1989: Embedded data glyphs
+After inventing data glyphs, Xerox PARC pioneers the development of embedded data schemes that transform paper, and other surfaces, into computer-readable interfaces. Applications evolve to include check verification, smart paper, tracking codes, and much more.
+1989: Information visualization
+Taking a unique approach to the visualization of information, Xerox PARC invents techniques that use human perceptual and cognitive capacities to help people make sense of large amounts of diverse information. The approach results in 3D rooms, the hyperbolic browser, and other ‘Focus+Context’ visualization techniques that present 3D views of information databases.
+1990: a-Si displays and digital x-ray imaging
+Xerox PARC builds the first x-ray imager using amorphous silicon. Continuing research will result in the formation of the company dpiX, which will market the world’s highest resolution active matrix, liquid crystal, flat-panel display and a digital x-ray system for medical imaging – thereby eliminating the reliance on traditional film.
+1990: Multi-user virtual world
+Xerox PARC creates LamdaMOO, one of the oldest continuously operating real-time multi-user ‘dungeons’ or online environments. LamdaMOO provides a foundation for the U.S. Department of Defense’s collaborative computing systems, and later results in a company that provides live, web-based meeting and presentation solutions (and ultimately becomes Microsoft Live Meeting).
+1992: Collaborative filtering
+Collaborative filtering is implemented at Xerox PARC, inspired by the idea to involve human input (such as past user preferences and collaborators’ feedback) in helping information systems auto-filter content. Today, this approach enables recommender systems.
+1992: Internet standards
+The MBone Multicast backbone is co-founded and first implemented at Xerox PARC to deliver real-time multimedia over the Internet. Xerox PARC scientists will also play a key role in co-designing the IPv6 protocols that govern and define how the Internet works, as well as help develop the HTTP-NG protocol based on Inter-language Unification (ILU) from Xerox PARC.
+1997: Blue laser
+Xerox becomes the first printing company to create a blue laser. The reduced wavelength of a blue laser ultimately allows much higher resolution printing than is possible with the standard red and infrared lasers.
+2000: Electronic reusable paper
+A thin, flexible and portable document display technology invented at Xerox PARC. It looks and feels like paper; however, it can display different text and graphics when an electric charge is applied to it.
+2000 Digital Rights Management (DRM)
+Xerox PARC’s concepts for trusted systems and digital property rights lead to the joint venture called ContentGuard. This DRM software offers content owners greater control and flexibility over the distribution of their material. To enable authorization of content access in a universal language, Xerox PARC develops eXtensible rights Markup Language (XrML).
+2001: Biomedical systems
+Xerox PARC partners with The Scripps Research Institute to develop instrumentation and information systems for accelerating discovery in the life sciences. In 2002, PARC demonstrates an operational prototype of the Fiber Array Scanning Technology Cytometer for screening blood samples about 1,000 times faster than automated digital microscopy.
+2002: PARC, a Xerox Company
+To broaden PARC’s ability to innovate, build breakthrough technology platforms, and develop business concepts for many different organizations, PARC is established as an independent company.
+2007: Powerset deal
+PARC and language search company Powerset sign an exclusive deal to commercialize breakthrough technology in consumer search. After three decades of research, PARC’s natural language technology becomes ready to work with.
+2010: PARC spins out PowerCloud systems
+Walden Venture Capital and Javelin Venture Partners join with PARC to spin-out PowerCloud Systems, focused on offering cloud-managed networking solutions for small and medium-sized businesses.
+2010: Thinfilm works with PARC
+Advanced printed memory provider, Thinfilm, partners with PARC to develop next-generation printed memory solutions. Together, we use low-cost printed electronics to enable high-capacity and compact form-factor memory.
+2013: PARC expands Japan presence
+PARC announces its new office in Tokyo, expanding its presence in Japan. The new Tokyo-based team works with clients including Hitachi, Panasonic Corporation, Honda and Sony, among others.
+2016: PARC and East Japan Railway Company
+JR East chooses to work with PARC on the development and deployment of a new condition-based maintenance solution. PARC’s hybrid approach is proven to be a more effective way to maintain railways than a schedule-based approach.
+2017: PARC spins off Metawave
+PARC reveals its intention to spin off wireless technology startup, Metawave, which builds technology solutions based on engineered metamaterials and Artificial Intelligence (AI) to commercialize smart beamsteering antenna systems for autonomous vehicles and 5G markets.
+Quis, unde? Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Additional information
+Focus Areas
+Our work is centered around a series of Focus Areas that we believe are the future of science and technology.
+Commercialization Opportunities
+We’re continually developing new technologies, many of which are available for Commercialization.
+News
+PARC scientists and staffers are active members and contributors to the science and technology communities.
+JapanCleanroom Services
+about parc
+PARC Cleanroom
+A key PARC asset is our unique set of Cleanroom facilities for prototyping, growth and processing services, and transitioning technologies to the manufacturing stage. The breadth of our Cleanroom capabilities, which encompass silicon, III-V and MEMS, and our dedicated scientists set us apart from other research and design companies. We can work with you on a variety of exploratory, design and process-driven projects.
+Scientific expertise
+We have a team of experienced Cleanroom staff members and multiple scientists with expert knowledge of our full range of thin-film processing and epiwafer growth and processing tools.
+Working to your technology needs
+We work with external customers to develop new processes, build prototypes, and transition processes to manufacturing. Our clients benefit from our experience in working with semiconductor thin film materials including amorphous silicon, metal oxides, low temperature poly-silicon and III-V nitrides. Within these technologies, we have fully-developed processes and designs for building a wide variety of active devices. Our Cleanroom is one of the only facilities in the world that can work with external clients to prototype low temperature poly-silicon devices.
+Breakthrough innovation
+We excel in creative and flexible process development on unique substrates, including glass, plastic and silicon. We also have expertise in optical emitter device design, as well as in growing and processing high-quality epiwafer and device packaging.
+If you’d like to know more about our Cleanroom and how we can work with you, please contact us below.
+Additional information
+Focus Areas
+Our work is centered around a series of Focus Areas that we believe are the future of science and technology.
+Commercialization Opportunities
+We’re continually developing new technologies, many of which are available for Commercialization.
+News
+PARC scientists and staffers are active members and contributors to the science and technology communities.
+Japan

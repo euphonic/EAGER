@@ -1,0 +1,267 @@
+Integrated Device Technology, Inc. (IDT)
+Search
+Directions
+Smart Search
+Cross Reference
+Package Lookup
+Full Search
+Standard search with a direct link to product, package, and page content when applicable.
+Enter a competitor's part number for list of IDT-compatible parts.
+Enter a package ID or package type to search IDT's database.
+Display a full list of search results and content types (no auto-redirect).
+Cancel
+User account
+Language
+Language
+English
+中文
+日本語
+Cart
+Secure Portal
+Log in
+Products
+Clocks & Timing
+Application-Specific Clocks
+Network Synchronization
+IEEE 1588 and Synchronous Ethernet Clocks
+PDH and SONET/SDH Clocks
+PCI Express® Clocks
+PCI Express® Clock Buffers and Multiplexers
+PCI Express® Clock Generators
+Processor Clocks
+Processor Clock Buffers
+Processor Clock Generators
+RF & JESD204B Timing
+RF Buffers and Dividers
+RF Converter Clocks
+RF Synthesizers & PLLs
+Real-Time Clocks
+Spread-Spectrum Clocks
+Clock Distribution
+Clock Buffers & Drivers
+Clock Dividers
+Clock Multiplexers (MUX)
+Zero Delay Buffers (ZDB)
+Clock Generation
+Clocks - General Purpose
+Clocks - Low Jitter (<700 fs RMS)
+Clocks - Ultra-Low Jitter (<300 fs RMS)
+Clocks - Extreme Performance (<150 fs RMS)
+Programmable Clocks
+Crystal Oscillators
+Jitter Attenuators with Frequency Translation
+Memory & Logic
+Bus Switch
+3.3V CBTLV (General Purpose Bus Switch)
+3.3V CBTLV Double Density (General Purpose Bus Switch)
+3.3V QuickSwitch (High Bandwidth Bus Switch)
+5.0V QuickSwitch
+Analog Multiplexers and Demultiplexers
+Analog Switches
+EHB (Embedded Host Bridges)
+FIFO Products
+Asynchronous FIFOs
+Queuing FIFOs
+Synchronous FIFOs
+Memory Interface Products
+DDR Solutions
+DDR2 Solutions
+DDR3 Solutions
+DDR4 Solutions
+Memory Multiplexers
+SDR Solutions
+Multi-Port Memory
+Asynchronous Dual-Port RAMs
+Asynchronous Low-Power Dual-Port RAMs
+Bank-Switchable Dual-Port RAMs
+FourPort RAMs
+Synchronous Dual-Port RAMs
+SRAMs
+Asynchronous SRAMs
+Synchronous Burst
+Zero Bus Turnaround (ZBT)
+Standard Logic
+Advanced Low-Voltage CMOS (ALVC)
+Fast CMOS TTL-Compatible (FCT)
+Low-Voltage CMOS (LVC)
+Interface & Connectivity
+6LoWPAN Wireless Modules
+AS-Interface Products
+Data Compression
+IO-Link Line Drivers
+Memory Interface Products
+DDR Solutions
+DDR2 Solutions
+DDR3 Solutions
+DDR4 Solutions
+SDR Solutions
+Millimeter and Microwave Solutions (mmWave)
+Optical Interconnect - Datacom
+Laser Drivers
+Optical CDR and Retimers
+Optical Transimpedance Amplifiers (TIA) - Datacom
+Optical Interconnect - Telecom
+Optical Modulator Drivers
+Optical Transimpedance Amplifiers (TIA) - Telecom
+PCI Express® Solutions
+PCI / X Bridges
+PCI Express® Bridges
+PCI Express® Clocks
+PCI Express® Clock Buffers and Multiplexers
+PCI Express® Clock Generators
+PCI Express® Gen2 Repeaters
+PCI Express® Gen3 Retimers
+PCI Express® Switches
+Physical Layer Products
+Serial RapidIO® Solutions
+PCI Express® to Serial RapidIO® Bridges
+RapidIO Switches
+Serial RapidIO® 2.1 Repeaters
+Signal Integrity Products
+Multiprotocol Repeaters
+PCI Express® Gen2 Repeaters
+PCI Express® Gen3 Retimers
+SAS / SATA 6G Repeaters
+Serial RapidIO® 2.1 Repeaters
+USB 3.0 Repeaters
+XAUI Repeaters
+Telecom Interface Products
+PCM CODECs
+T1/J1/E1 Interface Products
+Time Slot Interchange (TSI) Digital Switches
+VME
+Video Broadcast Software & ASICs
+Power Management
+Motor Control ICs
+Power Management ICs (PMIC) and PMUs
+Wireless Power
+Wireless Power Receivers
+Wireless Power Transmitters
+RF Products
+Millimeter and Microwave Solutions (mmWave)
+Modulators & Demodulators
+RF Amplifiers
+RF Attenuators
+RF Mixers
+RF Switches
+RF Synthesizers & PLLs
+Variable Gain Amplifiers (VGA)
+Sensor Products
+Flow Sensors
+Gas Sensors
+Humidity Sensors
+Position Sensors
+Sensor Signal Conditioners
+Wireless Power
+Wireless Power Receivers
+Wireless Power Transmitters
+Parametric Search
+Applications
+Automotive
+High-performance Computing
+Industrial & Embedded
+Mobile & Personal Electronics
+Network Communications
+Wireless Infrastructure
+Tools & Support
+Technical Support
+Quality / Reliability
+Package Information
+Frequently Asked Questions
+Docs & Tools Search
+Cross-Reference
+Clock Tree Design Service
+Reference Designs
+Calculators
+X-Microwave Modular Blocks
+Partner Directory
+Buy & Sample
+Sales Support
+Free Sample Request
+Check Product Availability
+Sales and Distributor Directory
+About IDT
+Company Overview
+Contact IDT
+Executive Team
+Investors
+Careers
+Corporate Responsibility & Citizenship
+IDT Acts of Giving
+✕
+Company Overview
+Integrated Device Technology, Inc. develops system-level solutions that optimize its customers’ applications. IDT’s market-leading products in RF, high performance timing, memory interface, real-time interconnect, optical interconnect, wireless power, and smart sensors are among the company’s broad array of complete mixed-signal solutions for the communications, computing, consumer, automotive and industrial segments. Headquartered in San Jose, Calif., IDT has design, manufacturing, sales facilities and distribution partners throughout the world. IDT stock is traded on the NASDAQ Global Select Stock Market® under the symbol “IDTI.”
+Company Facts
+Founded: 1980
+Employees: Approximately 1,700 worldwide
+Headquarters: San Jose, California
+Financials: Revenue – $728 M (FY17)
+Core Expertise: RF, high-performance timing, memory interface, real-time interconnect, optical interconnect, wireless power, and SmartSensors
+Stock: Traded on NASDAQ [symbol: IDTI]
+For more information see 
+Corporate Snapshot
+.
+About IDT
+Company Overview
+Contact IDT
+Executive Team
+Investors
+Careers
+Corporate Responsibility & Citizenship
+IDT Acts of Giving
+Videos
+Moving Ahead with IDT
+Introduction to Integrated Device Technology
+Featured Items
+IDT
+Newsletter
+Join thousands of engineers who never miss out on learning about the latest product technology from IDT. Enter your email below and click go!
+Email address
+Topics of Interest
+Please select your topics of interest:
+Clocks & Timing
+Stay current on the broadest and deepest silicon timing portfolio in the industry. Learn about IDT’s advanced timing products and how they can solve timing challenges in wireless infrastructure, networking, data centers and consumer applications.
+RF Products
+Subscribe to learn how IDT’s full-featured RF products help address unwanted interference in an increasingly crowded radio spectrum. IDT’s RF solutions address the evolving needs of 4G/5G base stations, communications systems, microwave, industrial, and more.
+Sensors
+Leveraging 20+ years of industry experience, IDT's sensor technologies offer best-in-class performance in a wide array of applications ranging from industrial to automotive. Stay informed about the latest news and differentiated sensor offerings from a proven, trusted partner in the sensor space.
+Wireless Power
+Stay on the cutting edge with IDT's wireless power solutions. Learn how IDT leads the way with an innovative SoC architecture, industry-leading efficiency, and hardware/algorithm implementations.
+Submit and close
+Topics of interest
+clocks
+rf
+sensors
+wireless
+Social
+Facebook
+Twitter
+LinkedIn
+YouTube
+Corporate
+About IDT
+Careers
+Contact IDT
+Corporate Responsibility
+Investors
+Press Room
+Blogs
+Videos
+Legal
+Privacy Policy
+Terms of Use
+Trademarks
+Language
+English
+中文
+日本語
+©2018 Integrated Device Technology, Inc.
+X
+Please Log In
+Username or email address
+Password
+Or Register
+Before you submit a part request, we kindly ask that you login or 
+register
+ to validate your email account. Once completed, you will be returned to your part request form. Don't worry, it's quick!
+Register

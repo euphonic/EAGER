@@ -1,0 +1,21 @@
+Search
+Vadient Optics was created by former technical and management staff of the Hewlett Packard (HP) product development division in Corvallis, OR, specifically to commercialize Volumetric Index of Refraction Gradient Optics (VIRGO) lens technology.
+Name *
+Email *
+Website
+Comment
+You may use these HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>Search
+The basic principles of opticshave remained unchanged for some time:
+Euclid developed the principles used in modern optical design by 300 BC
+Newton rounded out modern optical design by describing refraction in the latter half of the 16th century.
+Other than the advent of modern computing, which allows for more efficient design optimization, and plastic injection molding, which allows low-cost reproduction of aspheric lenses, the field of classical optics has largely remained unchanged for almost a half millennium.
+Today’s optical systems use lens materials that are homogeneous, like glass, with a uniform refractive index throughout. For centuries, the conventional approach to lens design has been to grind the surfaces of a uniform material in such a manner that the paths that rays of light follow as they transit through the interfaces is altered, abruptly changing only when encountering large refractive index changes at interfaces.However, since the trajectory of light is altered only upon entering or exiting the lens’ surfaces, light is otherwise left to travel in a straight line within the volume of the lens, making it difficult to create an ideal optical device.
+The geometrical and wave aberrations, inherent to the manner in which light refracts at the interface between two materials, limits optical lens performance as a function of the light’s color and location within the lens’ pupil. These aberrations are unavoidable with common refractive optics and additional optical elements are required to correct for aberration and achieve high quality optical performance.
+Each additional spherical lens element also introduces its own aberrations. As a result, demanding optical designs, such as high-performance, wide-angle and low f-number optical imaging systems, use stacks of many lens elements, driving up system cost, size and weight.
+A more natural approach to lens design would be to vary the refractive index throughout an entire volume of the optical element so that greater control over the light ray trajectories can be achieved, and aberrations can be eliminated. Vadient’s Volumetric Index of Refraction Gradient Optics (VIRGO) lens technology  (link to tech and applications page) takes this approach.
+Leave a Reply
+Name *
+Email *
+Website
+Comment
+You may use these HTML tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>

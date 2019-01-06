@@ -1,0 +1,256 @@
+Skip to main content
+Ordering
+immunoSEQ
+clonoSEQ
+Sign-In
+immunoSEQ Analyzer
+clonoSEQ Secure Portal
+For Patients
+For Payers
+Careers
+Contact
+Search
+IMMUNOSEQ
+immunoSEQ Overview
+immunoSEQ Service
+immunoSEQ Kit
+immunoSEQ Analyzer
+immunoSEQ Applications
+Technology
+Ordering
+Knowledge Center
+CLONOSEQ
+clonoSEQ Overview
+The Importance of MRD
+How clonoSEQ Works
+clonoSEQ Report
+Clinical Data
+For Patients
+Product Inquiry
+PIPELINE
+INSIGHTS
+PUBLICATIONS
+Research
+Diagnostics
+NEWS
+Press Releases
+News Features
+Events & Speakers
+Stay Up-to-Date
+Archive
+ABOUT US
+Our Company
+Careers
+Leadership
+Advisors
+Contact
+About Us
+Newsroom
+Publications
+Research
+We are seeking contributions of sample sets in the TCR Antigen Map Project. Submit a proposal now.
+MORE
+Learn about our assays, download technical documents, and find helpful answers for troubleshooting.
+MORE
+Diagnostics
+Ordering clonoSEQ
+Learn about the ordering process, access resources, and contact our team.
+MORE
+Patient Support
+Learn more about Adaptive Assist, our new Patient Support Program.
+MORE
+Home
+Overview
+Adaptive is pioneering the use of immunosequencing to revolutionize patient care. We translate the scale and precision of the adaptive immune system into products to diagnose and treat disease.
+We believe in the power and brilliance of the adaptive immune system and its potential to cure. Our knowledge, passion, and willingness to challenge assumptions–and each other–will make a difference for patients and change the course of medicine.
+HISTORY
+It was in a cafeteria at Fred Hutchinson Cancer Research Center in Seattle, where Dr. Harlan Robins, Dr. Chris Carlson 
+and
+ Dr. Edus Warren were collaborating on a research project. Over lunch one day, they started asking questions related to isolating and amplifying T-cell receptors from the human genome when they had an “aha!” moment.
+Shortly after, in 2009, Adaptive Biotechnologies was born. The brain-child of two brothers (Chad and Harlan Robins) with one mission - to change the course of medicine and improve patient care worldwide. Over the years Adaptive has successfully gained the interest of strong investors, academic organizations 
+and
+ customers who understand the importance of sequencing the immune system in order to revolutionize the way we discover, diagnose and treat diseases.
+To further the momentum, in 2015, Adaptive acquired Sequenta, Inc., a South San Francisco-based company dedicated to improving patient care in diseases mediated by immune cells through the discovery and development of novel clinical diagnostics. The company also launched its therapeutic effort to become a leading TCR discovery company to enable TCR-based cellular therapy development.
+In 2018, Adaptive announced a partnership with Microsoft Research’s Healthcare NexT initiative to combine high-throughput 
+immunosequencing
+ and expert bioinformatics with machine learning and artificial intelligence, to map the entire human immune system and change the way diseases are diagnosed. By combining Adaptive’s powerful immune sequencing technologies with Microsoft’s research and large-scale machine learning and cloud computing capabilities, the partners aim to create individual disease diagnostics and ultimately a universal diagnostic – all from a simple blood test. 
+Now with over 200 employees, three locations, and products and services in both the research and diagnostics segments, Adaptive is not just a pioneer but also a leader in 
+immunosequencing
+ that will change the course of medicine worldwide.
+Check out the latest 
+Adaptive News
+!
+About Us
+Our Company
+Newsroom
+Contact Us
+Careers
+Products
+immunoSEQ
+clonoSEQ
+Legal, Terms of use & Privacy
+Terms of Use
+Online Privacy Policy
+Privacy Shield Policy
+HIPAA Policy
+Code of Conduct
+Patents & Trademarks
+Licenses
+Follow Us
+Twitter
+YouTube
+Facebook
+LinkedIn
+© 2018 Adaptive Biotechnologies. All rights reserved.
+Corporate/Research
+(855) 466-8667
+Diagnostics
+(888) 552-8988
+Back to TopLearn more about Adaptive Assist, our new Patient Support Program.
+Assistant Professor, Genome Sciences, University of Washington
+Dr. Shendure is an Assistant Professor in the Department of Genome Sciences at the University of Washington. Dr. Shendure’s research group is interested in developing new experimental methods and computational tools for the parallelized interrogation of biological systems. In 2009, his group and their collaborators were the first to demonstrate that the massively parallel sequencing of the 1% of the human genome that is protein coding could be used to cost-effectively identify genetic mutations causing human disease. Dr. Shendure conducted his undergraduate studies at Princeton University and received his PhD and MD from Harvard Medical School.
+Read More
+Scientific Advisors
+Director, Benaroya Research Institute at Virginia Mason, Seattle; and Professor (Affiliate), Department of Immunology, University of Washington School of Medicine
+Dr. Nepom received his Bachelors degree from Harvard, and his PhD and MD from the University of Washington. After post-doctoral work in immunogenetics at Harvard Medical School, he joined the Fred Hutchinson Cancer Research Center and the University of Washington Medical School Faculty in 1982. In 1985, he founded the Immunology and Diabetes Research Programs at the Benaroya Research Institute at Virginia Mason. Dr. Nepom is past president of the Federation of Clinical Immunology Societies (FOCIS), which is the international federation of 40,000 scientists and physicians created to understand and treat immune-based diseases.
+Read More
+Scientific Advisors
+Associate Professor, University of Washington; and Associate Member, Program in Immunology, Clinical Research Division, Fred Hutchinson Cancer Research Center
+Dr. Warren’s clinical interest is the cellular and molecular dissection of antitumor immune responses. Specifically, his laboratory is focused on the mechanisms and target molecules associated with the graft-versus-tumor (GVT) reaction that occurs after allogeneic hematopoietic cell transplantation. Dr. Warren has served as the Principal Investigator on an IRB- and FDA-approved Phase I clinical trial of adoptive therapy with CD8+ minor histocompatibility antigen-specific CTL clones for the treatment of acute leukemia or high-grade myelodysplasia that recurs after HLA-identical allogeneic hematopoietic cell transplantation. He is an Attending Physician on the Allogeneic Transplant Service at the Seattle Cancer Care Alliance.
+Read More
+Scientific Advisors
+Hematology Board
+Director, Clinical Research Division, Fred Hutchinson Cancer Research  Center Head, Division of Oncology, University of Washington School of Medicine President, Seattle Cancer Care Alliance
+Dr. Frederick R. Appelbaum is director, Clinical Research Division at the Fred Hutchinson Cancer Research Center, head, Division of Oncology at the University of Washington School of Medicine, and president, Seattle Cancer Care Alliance. Dr. Appelbaum graduated from Dartmouth College and Tufts University School of Medicine. He completed internal medicine training at the University of Michigan and medical oncology fellowship training at the National Cancer Institute. He remained at the National Cancer Institute as an investigator until 1978, when he moved to Seattle to join the faculty of the Fred Hutchinson Cancer Research Center and the University of Washington.
+Dr. Appelbaum’s research focuses on the biology and treatment of acute myeloid leukemia, with a particular emphasis on hematopoietic cell transplantation. He was the lead author of the first paper describing the successful use of autologous marrow transplantation.
+Dr. Appelbaum is a past chair of the Board of Scientific Advisors of the National Cancer Institute. He has been a board member of a number of scientific societies, including the American Society of Hematology, the American Society of Clinical Oncology and the American Society for Blood and Marrow Transplantation. He is a member of the National Cancer Policy Forum and serves on the NCI Steering Committees for both pediatric and adult leukemia. He heads the Clinical Transplant Research Program at the Fred Hutchinson Cancer Research Center and chairs the Leukemia Committee of the Southwest Oncology Group.
+Read More
+Hematology Board
+Scientific Advisors
+Medical Oncologist, Memorial Sloan-Kettering Cancer Center
+Dr. Marco Davila is a medical oncologist who specializes in the treatment of patients with cancer.  Dr. Davila has a particular interest in patients with hematologic malignancies such as chronic lymphocytic leukemia (CLL), B cell Acute Lymphoblastic Leukemia (B-ALL), and Acute Myeloid Leukemia (AML). As a translational physician-scientist, he is engaged in both clinical and laboratory research involving these malignancies.   Dr. Davila's laboratory develops gene-engineered cell therapies that target cancer cells in animal models of hematologic malignancies.  The goal of this laboratory research is to identify optimal cell therapies that can then be evaluated in patients with cancer.  As a former Principal Investigator of a clinical trial using genetically engineered T cells targeted against malignant B cells, he witnessed the potential for this as a cancer immunotherapy.  It's Dr. Davila's hope that his innovative laboratory and clinical research here at Vanderbilt will lead to similar therapeutic options for patients with other cancers that are not responsive to standard chemotherapy.
+Read More
+Hematology Board
+Scientific Advisors
+Site Director, Hematological Malignancies, Mayo Clinic Arizona
+Dr. Fonseca’s research concentrates on the genetic and cytogenetic nature of the clonal cells of the plasma cell disorders. To achieve this, Dr. Fonseca's lab uses a variety of tools, including next-generation sequencing, single-cell analysis molecular genetics, fluorescence in situ hybridization (FISH), polymerase chain reaction (PCR), gene expression profiling, array-based comparative genomic hybridization (aCGH) and others. The laboratory is currently composed of five full-time technologists and three postdoctoral fellows. Dr. Fonseca's research is of importance in the clinic because it's now better understood what the subtypes of myeloma are and how that relates to outcomes. Dr. Fransesca earned an M.D. degree from the Universidad Anahuac. He completed his residency at the University of Miami and his fellowship at the Mayo Graduate School of Medicine, Mayo Clinic College of Medicine. PhD in Biological Structure, University of Washington, Seattle, 1977
+Read More
+Hematology Board
+Scientific Advisors
+Paolo Ghia, MD, PhD
+Assistant Professor, San Raffaele University Scientific Coordinator of the Lymphoma Unit, Department of Oncology, and principal investigator in the Laboratory of Lymphoid Malignancies at the San Raffaele Scientific Institute Chairman, Basic & Translational Committee of the European Research Initiative on CLL (ERIC) Member, The Advisory Board for the Scientific Programme Committee of the European Hematology Association (EHA)
+Paolo Ghia received his M.D. from the University in Torino, Italy, followed by a residency in Internal Medicine. He received his Ph.D. working at the Basel Institute for Immunology in Basel, Switzerland, where he studied the development of normal human B lymphocytes. He then moved to the Dana-Farber Cancer Institute, Harvard Medical School, in Boston, where he studied the molecular mechanisms responsible for the pathogenesis of chronic lymphoproliferative disorders, aiming at transferring his immunological knowledge into the hematological arena.
+He is now working in Milano, as assistant professor at the San Raffaele University, Scientific Coordinator of the Lymphoma Unit, Department of Oncology, and principal investigator in the Laboratory of Lymphoid Malignancies at the San Raffaele Scientific Institute. His research interests include the study of the molecular and cellular mechanisms leading to the onset of Chronic Lymphocytic Leukemia, of the role played by MBL (Monoclonal B-cell Lymphocytosis, which is the precursor stage of CLL) in the pathogenesis of the disease, and of the relevance of biological factors (e.g Immunoglobulin genes mutational status) in defining CLL prognosis. He is chairman of the basic and translational committee of the European Research Initiative on CLL (ERIC) and member, as CLL expert, of the Advisory Board for the Scientific Programme Committee of the European Hematology Association (EHA).
+Read More
+Hematology Board
+Scientific Advisors
+Thomas S. Kupper, MD
+Thomas B. Fitzpatrick Professor of Dermatology, Harvard Medical School Chairman of Dermatology, Dermatologist in Chief Brigham and Women's Hospital Dana Farber Cancer Institute
+Dr. Kupper is the Fitzpatrick Professor of Dermatology at Harvard Medical School, the Chairman of the Departments of Dermatology at Brigham and Women's Hospital and the Dana Farber Cancer Institute, and the Director of the Cutaneous Oncology Program at the Dana Farber Brigham and Women's Cancer Center. He received his BS at UCLA, and his MD at Yale Medical School, where he trained as a resident and fellow in Surgery and Dermatology. After completing his clinical training in 1989, he moved to Washington University, St. Louis, as an Associate Professor of Medicine and Pathology, and then to Harvard and the BWH in 1992, where he rose to the rank of Professor and Chief of Dermatology in 1995. Dr. Kupper has a long track record of outstanding research accomplishments and extramural funding. He has more than 200 scientific publications, and has won numerous awards, including a MERIT award from the National Institute of Allergy and Infectious Diseases, the William Montagna Award (Society of Investigative Dermatologists), the Henry Christian Award (American Federation for Clinical Research), election to the American Society for Clinical Investigation, and has delivered numerous named lectureships, both nationally and internationally. He serves as an Associate Editor for several journals, including the Journal of Clinical Investigation, and has chaired and participated in multiple NIH study sections. His research has focused on cellular and molecular mechanisms in innate and adaptive immunity, focusing on cytokines, dendritic cells, and T cells, and includes the study of inflammatory diseases of skin and other epithelial tissues, vaccine development and bioterrorism, wound healing, and cancers of the skin and lymphoid organs, including translational research in cutaneous lymphomas and melanoma. He has been funded by the National Institutes of Health for more than 20 years, and is currently the Principal Investigator on 5 NIH grants, including R37 and R01 awards from NIAID, as is a co-investigator/project leader on 2 other NIH grants. He serves as PI of large inter-institutional grants at Harvard, including a Specialized Program of Research Excellence in Skin Cancer grant (P50, SPORE Program, National Cancer Institute), and the Harvard Skin Disease Research Center Grant (P30, National Institute for Arthritis, Musculoskeletal and Skin Diseases), and the Harvard Department of Dermatology Institutional training grant (T32, NIAMS). He also leads the Melanoma and Cutaneous Oncology Program at the Dana Farber Harvard Cancer Center, directs the Cutaneous Lymphoma Clinic at the DFBWCC, and is a Principal Faculty member of the Harvard Stem Cell Institute, where he sits on the Executive Committee.
+Read More
+Hematology Board
+Scientific Advisors
+Professor of Medicine, Section of Hematology/Oncology Director of the Hematologic Malignancies Clinical Research Program Chairman of The Leukemia Committee of The Cancer and Leukemia Group B, University of Chicago
+Dr. Richard A. Larson is a Professor of Medicine in the Section of Hematology/Oncology and Director of the Hematologic Malignancies Clinical Research Program at the University of Chicago. He received his medical degree from the Stanford University School of Medicine in 1977, and completed his postdoctoral training in internal medicine, hematology, and oncology at the University of Chicago. He was a Fellow of the Leukemia Society of America and was granted a Clinical Oncology Career Development Award from the American Cancer Society. He has been a member of the faculty in the Section of Hematology/Oncology and the Comprehensive Cancer Center at the University of Chicago since 1983. He was Director of the Leukemia Clinical Research Program from 1983 to 2000, during which time he established the adult allogeneic bone marrow transplant program at the University of Chicago Medical Center in 1986. He is board certified in internal medicine, hematology, and medical oncology, and has served as a member of the Hematology Subspecialty Board of the American Board of Internal Medicine.
+Read More
+Hematology Board
+Scientific Advisors
+Chair of the Department of Oncology at St. Jude
+Dr. Ching-Hon Pui, is a renowned leader in the research and treatment of childhood leukemia. Dr. Pui has devoted 30 years to the fight against childhood cancer and is credited for innovations that have driven cure rates for pediatric leukemia. Implementing pharmacodynamics and pharmacogenetics to individualize chemotherapy and to optimize the use of existing drugs, Pui and colleagues have achieved cure rates of 90 percent at St. Jude for pediatric ALL, the most common childhood cancer. Pui and colleagues also made inroads in understanding the pathogenesis of leukemia and in identifying mechanisms of drug resistance and molecular targets for treatment using genome-wide analyses. Dr. Pui is chair of the Department of Oncology at St. Jude; co-leader of the hospital’s Hematological Malignancies Program; medical director of the St. Jude International Outreach China Program; and holder of the Fahad Nassar Al-Rashid Chair of Leukemia Research. He is also an American Cancer Society Professor. Dr. Pui has authored approximately 800 original articles and chapters, edited nine books and monographs, and serves as section editor or editorial board member for several esteemed journals. He is also one of the most highly cited authors in clinical medicine research. Dr. Pui earned his M.D. degree from the National Taiwan University
+Read More
+Hematology Board
+Scientific Advisors
+Jerry Radich, MD
+Member of the Clinical Research Division at the Fred Hutchinson Cancer Research Center Professor of Medicine at the University of Washington
+Dr. Radich is a Member of the Clinical Research Division at the Fred Hutchinson Cancer Research Center and is Professor of Medicine at the University of Washington.  He is the Medical Director of the Research Trials Office at the FHCRC, the co-chair of Leukemia Biology for the Southwest Oncology Group, and is the co-chair of the NCI/Cooperartive Group Leukemia Steering Committee. He belongs to the National Cancer Care Network and EuroLeukemiaNet CML committees. His research interests include the molecular genetics of leukemia and the detection of minimal residual disease. His work falls into three major categories studying the molecular genetics of response, progression, and relapse, signal transduction abnormalities and gene expression profiles of response and progression in human leukemia. The Radich Lab works in close collaboration with the clinical research performed at the Center, as well as collaborations with large clinical trials of the Southwest Oncology Group. Dr. Radich earned his M.D. degree from the University of California School of Medicine – Davis.
+Read More
+Hematology Board
+Scientific Advisors
+Vice Chair for Medical Informatics, Department of Medicine, Memorial Sloan-Kettering Cancer Center
+Dr. Zelenetz is a medical oncologist with a practice focused on the management of malignant lymphoma. His focus on lymphoma dates to 1985 beginning during his post-graduate fellowship in medical oncology at Stanford Hospital and his post-doctoral fellowship in the Laboratory of Ronald Levy at Stanford University Medical Center. His research interests are in the areas of drug therapy, biomarkers, and functional imaging.
+Dr. Zelenetz is involved in several national organizations that provide information about lymphoma treatment and fund laboratory and clinical research. He is the chairperson of the Non-Hodgkin Lymphoma Guidelines panel of the National Comprehensive Cancer Network and vice chairperson of the Lymphoma Core Committee of the Cancer and Leukemia Group B. He is also a member of the scientific advisory board of the Lymphoma Research Foundation.
+Read More
+Hematology Board
+Scientific Advisors
+Immuno-Oncology Board
+Robert Anders
+Associate Professor, Pathology, Johns Hopkins University School of Medicine
+My laboratory's interests focus on the basic processes that lead to liver cell death and division. We approach these questions through the use of both experimental models and examination of human tissues. We are specifically interested in how the Hippo pathway controls the livers response to injury and malignant transformation. We have uncovered this pathway as a key mediator of hepatocyte and cholangiocyte biology. 
+Read More
+Immuno-Oncology Board
+Scientific Advisors
+Ludwig Institute for Cancer Research in Brussels
+Dr. van der Bruggen studies the interactions between cancer cells and our immune system, with a particular focus on understanding why tumor-infiltrating lymphocytes are unable to kill tumor cells, and finding strategies to overcome this blockage.
+After completion of a PhD thesis in plant phytopathology, Dr. van der Bruggen joined the Ludwig Institute for Cancer Research in Brussels. He identified the first antigen recognized by a cytolytic T lymphocyte on human cancer cells, as well as genes with the same expression profiles, such MAGE, BAGE and GAGE families. Dr. van der Bruggen also designed new approaches to identify antigenic peptides encoded by these genes. Several of them were used in clinical trials. Working with collaborators, Dr. van der Bruggen also set up approaches to detect anti-vaccine T cell responses in vaccinated patients. He believes that progress in cancer therapeutic approaches, including vaccines, will depend on unraveling the different blockages for efficient tumor destruction. One of the blockages could be the immunosuppressive environment of the tumor.  Dr. van der Bruggen has published more than 100 primary research papers and reviews.
+Read More
+Immuno-Oncology Board
+Scientific Advisors
+Mac Cheever
+Director of Solid Tumor Research, Fred Hutchinson Cancer Research Center Professor of Medicine/Oncology, University of Washington
+Dr Cheever is Member and Director of Solid Tumor Research for the Fred Hutchinson Cancer Research Center (FHCRC) and Professor of Medicine and Associate Director of Medical Oncology for the University of Washington (UW). Dr. Cheever is a consultant to the National Cancer Institute on the Cancer Immunotherapy Trials Network (CITN) to design and conduct cancer therapy trials with the most promising immunotherapy agents. He has been involved on the clinical development of breast cancer vaccines. He co-founded Corixa Corporation in October 1994 and served as its Vice President of Medical Affairs since December 1997. From 1987 to December 1997, Dr. Cheever was a clinical professor of medicine and a member of the division of oncology at the University of Washington School of Medicine. He has been a Member of Advisory Board at TapImmune, Inc. since 2010. Dr. Cheever graduated from the University of Michigan and received his M.D. from the University of Michigan School of Medicine.
+Read More
+Immuno-Oncology Board
+Scientific Advisors
+Elizabeth Jaffee
+Co-Director of the Division of Immunology, and Co-leader of the Gastrointestinal Cancers Program in the Department of Oncology and the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins Associate Director for Translational Research at the Sidney Kimmel Cancer Center at Johns Hopkins
+Dr. Jaffee currently serves as the Co-Director of the Division of Immunology, and Co-leader of the Gastrointestinal Cancers Program in the Department of Oncology and the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins. She is also the Associate Director for Translational Research at the Sidney Kimmel Cancer Center at Johns Hopkins. After graduating Magna cum laude from Brandeis University, Dr. Jaffee received her M.D. from New York Medical College. She completed her internship and residency at University of Pittsburgh, Presbyterian-University Hospital, then received NIH Research funding as a Research Fellow at the University of Pittsburgh under the guidance of Fran Finn, Ph.D., Research Director. Dr. Jaffee subsequently completed a three Medical Oncology postdoctoral fellowship came at The Johns Hopkins University School of Medicine in Baltimore, M.D. Dr. Jaffee is currently serving a 5-year term as a member of the NCI Board of Scientific Counselors, and is also a member of the RAID NCI Program Oversight Committee. 
+Read More
+Immuno-Oncology Board
+Scientific Advisors
+Eric Pamer
+Chief of the Infectious Diseases Service at Memorial Sloan-Kettering Cancer Center
+Dr. Eric G. Pamer, M.D. serves as the Chief of the Infectious Diseases Service at Memorial Sloan-Kettering Cancer Center and holds the Enid A. Haupt Chair in Clinical Investigation. Dr. Pamer serves as a Member of the Scientific Advisory Board at Inimex Pharmaceuticals, Inc., St. Jude Children's Research Hospital, Inc. and Trudeau Institute, Inc. Dr. Pamer is an Infectious Diseases physician specializing in immunology and cancer-related infections that can occur when chemotherapy or bone marrow transplantation compromises the body's immune system. His research focuses on how the immune system combats infection and how the commensal microbial flora protects against infection. Dr. Pamer's laboratory is also investigating mechanisms that prevent invasive fungal infections and the role of T lymphocytes in defense against bacterial infections. He was the recipient of an NIH Clinical Investigator Award and an Arthritis Investigator Award. He was a Smith-Kline Beecham Young Investigator and a Pew Scholar in the Biomedical Sciences in 1994. In 1998, Dr. Pamer was selected as a Member of the American Society for Clinical Investigation and in 1999 he received a Donaghue Investigator Award. Dr. Pamer is an associate editor of Immunity, an editor of The Journal of Experimental Medicine and on the editorial committee of Annual Review of Immunology. Dr. Pamer investigates T lymphocyte response to infection by pathogenic organisms in mouse models, focused on intracellular bacteria and opportunistic fungal infections.
+Read More
+Immuno-Oncology Board
+Scientific Advisors
+Stan Riddell
+Professor of Oncology at the University of Washington School of Medicine
+Stan Riddell is a member of the Clinical Research Division at Fred Hutchinson Cancer Research Center (FHCRC) and Professor of Oncology at the University of Washington School of Medicine. Dr. Riddell is a leader in developing therapies that harness the immune system to fight cancer and infectious diseases. His research led to patented technologies that rapidly expand the number of disease fighting T cells used in adoptive immunotherapy. He also isolated a rare subset of disease-fighting T cells that survive in patients for an extraordinary amount of time. In 2010, Dr. Riddell received the International Society for Biological Therapy of Cancer’s first Team Science Award for major contributions to research and the clinical translation of cancer immunotherapy. Dr. Riddell received his M.D. from the University of Manitoba in Winnipeg. He joined FHCRC Faculty in 1991 after training in medical oncology and immunology. Dr. Riddell was recently elected to the Association of American Physicians, an organization honoring those who have achieved excellence in biomedical science.
+Read More
+Immuno-Oncology Board
+Scientific Advisors
+Ton Schumacher
+Group Leader, The Netherlands Cancer Institute
+Dr. Ton Schumacher performed his Ph.D. research from 1988-1992 at The Netherlands Cancer Institute where he studied the interactions of MHC class I molecules with antigenic peptides in the laboratory of Hidde Ploegh.  After a brief stint as a post-doc in the laboratory of Hidde Ploegh at the Massachusetts Institute of Technology, he joined the group of Peter Kim at the Whitehead Institute in Cambridge, USA in 1994. In 1996 he joined The Netherlands Cancer Institute, where he is currently Senior Member, to study the development of T cell immunity through biotechnological approaches. Ton Schumacher is recipient of amongst others a Pioneer Award and Amsterdam Inventor Award, is EMBO member, and is recipient of an ERC AdG and SU2C Dream Team Award.
+Read More
+Immuno-Oncology Board
+Scientific Advisors
+Mario Sznol
+Professor of Medicine (Medical Oncology); Clinical Research Program Leader, Melanoma Program, Yale Cancer Center; Co-Director, Yale SPORE in Skin Cancer
+Dr. Mario Sznol, M.D. served as Vice President of Clinical Affairs at of Vion Pharmaceuticals Inc. from September 1999 to October 15, 2004. From 1987 to 1999, Dr. Sznol worked for the National Cancer Institute, or NCI, an institute of the National Institutes of Health. He was Head of the Biologics Evaluation Section, Investigational Drug Branch, Cancer Therapy Evaluation Program. From March 1997 to October 1998, he served as acting Chief of NCI's Investigational Drug Branch, Cancer Therapy Evaluation Program. He serves as a Member of Scientific & Medical Advisory Board at Lion Biotechnologies, Inc. He serves as Member of Scientific Advisors at Anaeropharma Science, Inc. He serves as Member of Scientific Advisory Board at Symphogen A/S. He was a Director of Vion Pharmaceuticals Inc. since October 15, 2004. He is a Professor of Internal Medicine and Co-Director of the Melanoma Program of the Yale Cancer Center. Prior to joining the NCI, he conducted his fellowship in Medical Oncology, Department of Neoplastic Diseases, at Mt. Sinai School of Medicine, and his residency in Internal Medicine at Baylor College of Medicine in Houston. Dr. Sznol received his BA from Rice University and his MD from the Baylor College of Medicine.
+Read More
+Immuno-Oncology Board
+Scientific Advisors
+Jedd Wolchok
+Chief, Melanoma and Immunotherapeutics Service at Memorial Sloan Kettering Cancer Center Associate Director, Ludwig Center for Cancer Immunotherapy at MSKCC
+Dr. Wolchok is chief of the Melanoma and Immunotherapeutics Service at Memorial Sloan Kettering Cancer Center (MSKCC); an associate director of the Ludwig Center for Cancer Immunotherapy at MSKCC, an associate member of Ludwig Cancer Research, and the Lloyd J. Old/Virginia and Daniel K. Ludwig Chair in Clinical Investigation at MSKCC. He is director of the CRI/Ludwig Cancer Vaccine Collaborative TrialsNetwork, and is an associate director of the CRI Scientific Advisory Council. He is also the co-director of the Swim Across America laboratory at MSKCC, one of the foremost immunotherapy and melanoma research groups in the country.
+Dr. Wolchok has authored numerous articles concerning DNA vaccines, cytokine biology, and clinical care of melanoma and co-authored two chapters in the definitive textbook, Cutaneous Melanoma. Dr. Wolchok is also co-editor of the journal Cytotherapy.
+Read More
+Immuno-Oncology Board
+Scientific Advisors
+Cassian Yee
+Professor at the MD Anderson Cancer Center, University of Texas
+Dr. Yee received his MD from the University of Manitoba and has gone on to evaluate immunotherapy for melanoma and ovarian cancers. He holds memberships in the American Association for Cancer Research, the American Association of Immunologists and the Society for Biological Therapy. He has won the Burroughs Wellcome Fund Career Award, the Cancer Research Institute Investigator Award, the Cancer Research Institute Melanoma Initiative Clinical Trials Grant, the Howard Hughes Medical Institute Pilot Research Grant, and the Damon Runyon Walter Winchell (Eli Lilly) Clinical Investigator Award. His research was among the first to show that adoptive T-cell therapy holds great promise for treating melanoma.
+Read More
+Immuno-Oncology Board
+Scientific Advisors
+About Us
+Our Company
+Corporate/Research (855) 466-8667
+Diagnostics (888) 552-8988
+Back to TopLearn more about Adaptive Assist, our new Patient Support Program.
+Adaptive Biotechnologies is at the forefront of immune-based discoveries.  We believe that a better understanding of the adaptive immune system is transforming the course of medicine, and impacting therapeutic areas such as oncology, autoimmunity and infectious diseases among others.
+Adaptive Biotechnologies combines high-throughput sequencing and expert bioinformatics to profile T-cell and B-cell receptors. Adaptive is bringing the accuracy and sensitivity of its immunosequencing platform into laboratories around the world to drive groundbreaking research in cancer and other immune-mediated diseases. Adaptive also translates immunosequencing discoveries into clinical diagnostics and therapeutic development to improve patient care.
+QUANTIFYING TUMOR INFILTRATING LYMPHOCYTES IN SOLID TUMORS
+Adaptive is validating a novel clinical diagnostic to quantify the presence and clonality of tumor infiltrating lymphocytes (TILs) that is a reliable measure of “immunocompetence” to predict and monitor response to immune-modulating cancer therapies.
+Preliminary data in variety of tumor types including colorectal cancer, ovarian cancer and glioblastoma suggest that a higher level of clonally expanded TILs may correlate with better patient outcomes. Adaptive is invested in research and development to validate and incorporate into clinical practice this potentially new and meaningful immune molecular diagnostic for better prognostic staging of patients with solid tumors.
+The TIL assay is also actively being validated as a potential predictive diagnostic to monitor response to immune-modulating cancer therapeutics. Several human and mouse studies are assessing response to a variety of cancer immunotherapies including anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) and anti-programmed cell death-1 (PD-1). Preliminary results suggest that greater TIL clonal expansion and percent tumor infiltration in tumor tissue prior to treatment may be predictive biomarkers of response.
+MEASURING IMMUNE RECONSTITUTION POST-TRANSPLANT
+The immunoSEQ® Assay is also being used to characterize immune reconstitution post-cord blood transplantation. A key complication of cord blood transplantation is the high risk and rate of infection associated with non-relapse mortality. Today, the only predictive measure of infection risk is a cluster of differentiation 3 (CD3) count of total T-cells present. In several research studies using the immunoSEQ Assay, T-cell diversity correlated with infection risk, whereas CD3 count does not.
+DIAGNOSING CUTANEOUS T-CELL LYMPHOMA (CTCL)
+CTCL is a sub-type of non-Hodgkin lymphoma that begins in the white blood cells and attacks the skin. There are several types of CTCLs, including mycosis fungoides and Sézary syndrome. Some CTCL patients develop progressive lethal disease, characterized by malignant T cells that accumulate in the blood, skin and lymph nodes. Patients with these aggressive forms of CTCL are typically refractory to therapy and have a median survival of a mere three years.
+THERAPEUTICS
+Adaptive is expanding its immunosequencing capabilities to include a new proprietary pairSEQ™ Assay that employs a pioneering process to combine Adaptive’s foundational immunoSEQ® Platform for sequencing each TCR chain independently with a sophisticated bioinformatics framework to facilitate pairing of these chains. The identification of true alpha and beta chain pairs that form a specific TCR has tremendous applications in ascribing TCR functionality and therapeutic potential beyond current TCR drug discovery approaches. The pairSEQ Assay enables highly accurate, rapid and scalable pairing of up to hundreds of thousands of TCR alpha or beta sequences in a single experiment and can be applied to the process of therapeutic discovery, including the identification of highly promising TCRs for adoptive T-cell therapy.
+Corporate/Research (855) 466-8667
+Diagnostics (888) 552-8988
+Back to Top

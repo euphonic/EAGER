@@ -1,0 +1,2225 @@
+Site Map
+ALL
+Diodes
+MOSFETs
+Bipolar Transistors
+Optical Semiconductor Devices
+Logic ICs
+Linear ICs
+Microcomputer
+Automotive Devices
+ASSPs
+Wireless Communications Equipment ICs
+Sensors
+Part Number Search
+Cross Reference Search
+Keyword Search
+Parametric Search
+Select other search
+Cross Reference Search
+Keyword Search
+Parametric Search
+Home
+Products
+Storage Products (HDD)
+MOSFETs
+Bipolar Transistors / IGBTs / IEGT
+Diodes
+Optical Semiconductor Devices
+Linear ICs
+Logic ICs
+Updated
+Sensors
+Microcomputer
+Custom SoCs
+Wireless Communications Equipment ICs
+Automotive Devices
+ASSPs
+Radio-Frequency Devices
+Amorphous
+Materials
+Microwave
+Enterprise HDD (eHDD)
+Updated
+Client HDD (cHDD)
+Updated
+Specialty
+Updated
+Trends & Technology
+TOSHIBA REVIEW
+Case Studies – HDDs
+White Papers
+Advanced Format
+Video Clip
+Technical Support
+Product Archive
+Meaning of Model Number
+About Toshiba Storage Products
+Milestones
+Manufacturing Site
+Press Center
+Press Reviews
+Awards
+12V - 300V MOSFETs
+Updated
+400V - 900V MOSFETs 
+Updated
+Automotive MOSFETs
+Updated
+Small Low-On-Resistance MOSFETs
+Bipolar Transistors
+Bias Resistor Built-in Transistors (BRT)
+IGBTs
+IEGT (PPI & PMI）
+Multi-Chip Discrete Devices
+Junction FETs
+RF Bipolar Transistors
+SiC Schottky Barrier Diodes
+Schottky Barrier Diodes
+TVS Diodes (ESD Protection Diodes)
+Rectifier Diodes
+Switching Diodes
+Zener Diodes
+RF Diodes
+Photocouplers
+Photorelays
+Fiber-Coupler (TOSLINK™)
+Motor Drivers
+Brushed Motor Drivers
+Brushless Motor Drivers
+Stepping Motor Drivers
+LDO Regulators
+Low dropout voltage
+Fast load transient response
+High Ripple Rejection
+LED Drivers
+Transistor Arrays
+Updated
+Power Supply ICs
+Load Switch ICs
+PFC Control ICs
+Battery Charger ICs
+Level Shifter Arrays
+Intelligent Power Devices (IPDs)
+IPDs (60V series)
+IPDs (250V / 500V series)
+Wireless Power Charger ICs
+Operational Amplifier ICs and Comparator ICs
+Operational Amplifier ICs
+Comparator ICs
+CMOS Logic ICs
+One-Gate Logic (L-MOS)
+Bus Switches
+Dual-Supply Level Shifters
+Linear Image Sensors
+Magnetic Sensors
+Recommended Products
+Products Lineup
+Arm Core-Based Microcontrollers
+- TXZ3 Series
+- TXZ4 Series
+- TX00 Series
+- TX03 Series
+- TX04 Series
+- TX09 Series
+Product Introduction Guide
+Toshiba Original Core-Based Microcontrollers
+- TLCS-870/C1 Series
+- TLCS-900/H1 Series
+- TX19A/H1 Series
+Microcontrollers for Automotive
+TX19A/H1 Series
+TLCS-870/C1 Series
+TLCS-900/H1 Series
+Design / Support
+Important Notices
+Development Environment
+Evaluation Kits and Reference Boards
+Application Notes / Sample Programs
+Partner Information
+Partner Information
+Toshiba MCUpark
+SNS Library
+Toshiba Solutions
+IP Support
+IP Lineup
+IP Alliance
+Design Methodologies
+Low-Power Design
+High-Performance SoC Design
+Package Technology
+High-Bandwidth Memory Assembly Technology
+Development Support Solutions
+Front-End Design Support
+FPGA prototyping support (Easy Prototyping)
+Subsystems
+Development Platforms
+ASICs
+FFSA™
+Updated
+Bluetooth® wireless communication IC
+Updated
+NFC-enabled LSI (CLF)
+RF ICs for IoT/Extremely Low-Power Radio Applications
+Image Recognition Processor
+Automotive Video Processors
+Power Amplifier ICs
+Text-To-Speech Middleware
+Microcontrollers for Automotive
+Analog Devices
+Motor Drivers
+System Power Supply for Automotive
+RF Devices for Automotive
+RF ICs for Vehicle Communication Service
+Automotive MOSFETs
+Updated
+Automotive IPDs
+Storage Solutions for Automotive Information & Entertainment Systems
+Updated
+Bluetooth Compliant ICs
+Automotive Interface Bridge ICs
+Automotive Devices in Small Packages
+Automotive Photocouplers / Photorelays
+Smartwatch Solution
+HMI Solutions
+Power Amplifier ICs
+Other Product ICs
+Interface Bridges (Mobile Peripheral Devices)
+Display Interface Bridge
+Camera Interface Bridge
+HDMI® Interface Bridge
+I/O Expander
+RF Switch ICs
+RF MOSFETs
+RF Bipolar Transistors
+RF Diodes
+Variable Capacitance Diodes
+RF Switching Diodes
+RF Schottky Barrier Diodes
+Simulation Model (RF ICs)
+Noise Suppression - AMOBEADS®
+High Permeability Cores
+Noise Suppression - SMD-Type AMOBEADS®
+Noise Suppression - SPIKE KILLER® Cores
+Noise Suppression - AMOBEADS® with Lead
+Low Loss Saturable Cores
+Saturable Cores
+Electronic Ceramic Substrates
+Silicon Nitride
+Tungsten and Molybdenum Wire
+X-ray Intensifying Screens & Crystals
+Sputtering Targets
+C-Band Power GaAs IMFETs
+X and Ku-Band Power GaAs IMFETS
+X-Band Internally Matched Power GaN HEMTs
+Applications
+Automotive
+Industrial
+Office and Personal 
+Consumer
+Motor Control
+Wireless Communications
+Power Management
+Application Block Diagrams 
+Safety
+Advanced Driver Assistance Systems (ADAS)
+Parking Assist Systems
+Brake Control (ABS / ESC)
+Electric Control Suspension
+Tire Pressure Monitoring System
+Airbags
+Pre-Crash Seatbelt
+Functional Safety Technologies
+Information
+Instrument Cluster and Head-up Display
+Center Information Display
+Hands-free
+Remote Keyless Entry (RKE)
+Environment 
+HEV / EV System
+Automotive Drive System (Inverter)
+DC-DC Converter
+Battery Management System
+Direct Injection
+Transmission Control
+Start-Stop Systems
+Pump Control
+Electronic Power Steering System
+Cooling Fan
+Heating, Ventilation and Air-Conditioning (HVAC)
+Electric parking brake (EPB), power sliding doors, precrash seat belt tensioners
+Power Slide Door
+HID Light System
+LED Head Lamp
+Junction Box
+Energy systems
+Micro Inverters
+Solar Power
+Solar Inverters
+Smart Meters
+Security and Surveillance
+Surveillance camera
+Barcode reader
+Cloud storage
+Server
+NEW
+Human Machine Interface
+PLC
+Cordless electric power tool
+Welders
+Base Station
+NEW
+PC Peripheral
+Printers
+Copiers
+Scaners
+Note PC
+Desktop PC
+Mobile
+Smart Phone / Tablets
+Cell Phone
+FRS, GMRS
+Portable Information Devices
+Wearable Device Solutions
+VR Head Mounted Display
+Smartwatches
+Healthcare
+Fitness Trackers
+White goods
+Air Conditioners
+Refrigerators
+Washing Machines
+Induction Cooktops
+Induction Rice Cookers
+Dishwashers
+Microwave Ovens
+Bidet Toilets
+Water Heaters
+LED Lighting
+Image & Audio visual
+Digital TVs
+Digital Still Cameras
+Digital Video Cameras
+Audio
+AM Tuners
+FM Tuners
+Amusement Equipment
+Drone (Multi-rotor helicopter) 
+Power Supply
+Battery Management
+Other Power Management
+Design / Support
+Search
+Cross Reference Search
+Parametric Search
+Package & Packing Information
+Halogen-free Activities
+Reliability Information
+Part Naming Conventions
+Reference Design Center
+NEW
+Security Advisories
+Frequently Asked Questions (FAQs)
+Documents
+General Catalog
+Updated
+Application Notes
+Updated
+Catalogs
+Product Brief
+White Papers
+Certifications
+FAB Sheets
+Simulation
+Web Simulator
+Motor Drivers
+Power Supply ICs / LED Drivers
+Video Clips
+Updated
+Automotive
+Power Management
+Updated
+Motor Solutions
+Wireless Communications
+Storage Products 
+Updated
+ASSPs and the others
+Updated
+e-Learning
+e-Learning
+Service
+Special
+Interview of motor solutions
+Interview of Power MOSFETs
+Social Media
+Sample / Purchase
+Corporate Information
+Toshiba America Electronic Components, Inc.
+About Us
+Sales Contacts
+News Center
+Product Inquiries
+Careers
+Events
+TAEC Social Media
+Toshiba Management
+Corporate Information
+Basic Corporate Data
+Message from the President
+The Toshiba Commitment
+Procurement
+Management Structure , Officers
+Business Outline
+Overseas Manufacturing Companies
+Subsidiaries and Affiliates
+Global Sales
+Technical Review
+Updated
+Environmental Activities
+Current Status of Environmental Impact and Environmental Targets and Outcomes
+Commendation
+Acquisition of ISO14001 Certification
+Terms and Conditions of Use 
+Weibo QR Description
+Popup QR Description
+WeChat QR Description
+Popup QR Description
+Toshiba America Electronic Components, Inc.
+Sales Contacts
+News Center
+TAEC Social Media
+Community
+Environment
+Six Sigma
+Careers
+Quality
+Toshiba Management
+Corporate Information
+Basic Corporate Data
+Message from the President
+The Toshiba Commitment
+Procurement
+Management Structure , Officers
+Business Outline
+Overseas Manufacturing Companies
+Subsidiaries and Affiliates
+Global Sales
+Environmental Activities
+Top Management Commitment / Statement of Environmental Philosophy
+Technical Review
+Updated
+Trends in and Future Outlook for Semiconductor Devices with Enhanced Energy Efficiency 
+LDO Regulator ICs Enhancing Sophistication of Mobile Devices
+PPI Switching Devices for HVDC Systems
+Evolution of Wide-Bandgap Semiconductors for Power Devices Expanding Fields of Application
+Power Management IC for cSSDs Realizing Space Saving and Low Power Consumption
+PMMCD Series Ics with Motor Control and Power Management Functions
+SIMO DC-DC Converter with High Efficiency over Wide Load Range for IoT Devices
+Data Selection and De-noising Based on Reliability for Long-Range and High-Pixel Resolution LiDAR
+A 20ch TDC/ADC hybrid SoC for 240×96-pixel 10%-reflection <0.125%-precision 200m-range imaging LiDAR with smart accumulation technique
+Toshiba EMC Testing Laboratory Receives ISO/IEC 17025 Certification
+NEW
+Low noise superjunction MOSFET with integrated snubber structure
+NEW
+Breakthrough of Drain Current Capability and On-Resistance Limits by Gate-Connected Superjunction MOSFET
+NEW
+News Center
+Media Contacts
+Fast Facts
+Product Overview
+Site Map
+Weibo QR Description
+Popup QR Description
+WeChat QR Description
+Popup QR Description
+Privacy Policy
+Terms and Conditions
+Top Page
+Search
+Part Number Search
+Cross Reference Search
+Parametric Search
+Documents
+General Catalog
+Catalog
+Application Notes
+Products
+Storage Products (HDD)
+MOSFETs / Junction FETs
+Bipolar Transistors
+Diodes
+Optical Semiconductor Devices
+Linear ICs
+Logic ICs
+Sensors
+Microcomputer
+Custom SoC
+Wireless Communications Equipment ICs
+Automotive Devices
+ASSPs
+Radio-Frequency Devices
+Contact Us
+Inquiries on our product
+Global Sales
+Select your region
+Asia-Pacific
+日本語
+English
+简体中文
+繁體中文
+한국어
+Americas
+English
+Português
+Español
+Europe (EMEA)
+English
+Deutsch
+Français
+Italiano
+русский
+CloseSite Map
+ALL
+Diodes
+MOSFETs
+Bipolar Transistors
+Optical Semiconductor Devices
+Logic ICs
+Linear ICs
+Microcomputer
+Automotive Devices
+ASSPs
+Wireless Communications Equipment ICs
+Sensors
+Part Number Search
+Cross Reference Search
+Keyword Search
+Parametric Search
+Select other search
+Cross Reference Search
+Keyword Search
+Parametric Search
+Home
+Products
+Storage Products (HDD)
+MOSFETs
+Bipolar Transistors / IGBTs / IEGT
+Diodes
+Optical Semiconductor Devices
+Linear ICs
+Logic ICs
+Updated
+Sensors
+Microcomputer
+Custom SoCs
+Wireless Communications Equipment ICs
+Automotive Devices
+ASSPs
+Radio-Frequency Devices
+Amorphous
+Materials
+Microwave
+Enterprise HDD (eHDD)
+Updated
+Client HDD (cHDD)
+Updated
+Specialty
+Updated
+Trends & Technology
+TOSHIBA REVIEW
+Case Studies – HDDs
+White Papers
+Advanced Format
+Video Clip
+Technical Support
+Product Archive
+Meaning of Model Number
+About Toshiba Storage Products
+Milestones
+Manufacturing Site
+Press Center
+Press Reviews
+Awards
+12V - 300V MOSFETs
+Updated
+400V - 900V MOSFETs 
+Updated
+Automotive MOSFETs
+Updated
+Small Low-On-Resistance MOSFETs
+Bipolar Transistors
+Bias Resistor Built-in Transistors (BRT)
+IGBTs
+IEGT (PPI & PMI）
+Multi-Chip Discrete Devices
+Junction FETs
+RF Bipolar Transistors
+SiC Schottky Barrier Diodes
+Schottky Barrier Diodes
+TVS Diodes (ESD Protection Diodes)
+Rectifier Diodes
+Switching Diodes
+Zener Diodes
+RF Diodes
+Photocouplers
+Photorelays
+Fiber-Coupler (TOSLINK™)
+Motor Drivers
+Brushed Motor Drivers
+Brushless Motor Drivers
+Stepping Motor Drivers
+LDO Regulators
+Low dropout voltage
+Fast load transient response
+High Ripple Rejection
+LED Drivers
+Transistor Arrays
+Updated
+Power Supply ICs
+Load Switch ICs
+PFC Control ICs
+Battery Charger ICs
+Level Shifter Arrays
+Intelligent Power Devices (IPDs)
+IPDs (60V series)
+IPDs (250V / 500V series)
+Wireless Power Charger ICs
+Operational Amplifier ICs and Comparator ICs
+Operational Amplifier ICs
+Comparator ICs
+CMOS Logic ICs
+One-Gate Logic (L-MOS)
+Bus Switches
+Dual-Supply Level Shifters
+Linear Image Sensors
+Magnetic Sensors
+Recommended Products
+Products Lineup
+Arm Core-Based Microcontrollers
+- TXZ3 Series
+- TXZ4 Series
+- TX00 Series
+- TX03 Series
+- TX04 Series
+- TX09 Series
+Product Introduction Guide
+Toshiba Original Core-Based Microcontrollers
+- TLCS-870/C1 Series
+- TLCS-900/H1 Series
+- TX19A/H1 Series
+Microcontrollers for Automotive
+TX19A/H1 Series
+TLCS-870/C1 Series
+TLCS-900/H1 Series
+Design / Support
+Important Notices
+Development Environment
+Evaluation Kits and Reference Boards
+Application Notes / Sample Programs
+Partner Information
+Partner Information
+Toshiba MCUpark
+SNS Library
+Toshiba Solutions
+IP Support
+IP Lineup
+IP Alliance
+Design Methodologies
+Low-Power Design
+High-Performance SoC Design
+Package Technology
+High-Bandwidth Memory Assembly Technology
+Development Support Solutions
+Front-End Design Support
+FPGA prototyping support (Easy Prototyping)
+Subsystems
+Development Platforms
+ASICs
+FFSA™
+Updated
+Bluetooth® wireless communication IC
+Updated
+NFC-enabled LSI (CLF)
+RF ICs for IoT/Extremely Low-Power Radio Applications
+Image Recognition Processor
+Automotive Video Processors
+Car Audio
+Power Amplifier ICs
+Text-To-Speech Middleware
+Microcontrollers for Automotive
+Analog Devices
+Motor Drivers
+System Power Supply for Automotive
+RF Devices for Automotive
+RF ICs for Vehicle Communication Service
+Automotive MOSFETs
+Updated
+Automotive IPDs
+Storage Solutions for Automotive Information & Entertainment Systems
+Updated
+Bluetooth Compliant ICs
+Automotive Interface Bridge ICs
+Automotive Devices in Small Packages
+Automotive Photocouplers / Photorelays
+Smartwatch Solution
+HMI Solutions
+OFDM Demodulation and Error Correction ICs
+Car Audio
+Power Amplifier ICs
+Other Product ICs
+Interface Bridges (Mobile Peripheral Devices)
+Display Interface Bridge
+Camera Interface Bridge
+HDMI® Interface Bridge
+I/O Expander
+RF Switch ICs
+RF MOSFETs
+RF Bipolar Transistors
+RF Diodes
+Variable Capacitance Diodes
+RF Switching Diodes
+RF Schottky Barrier Diodes
+Simulation Model (RF ICs)
+Noise Suppression - AMOBEADS®
+High Permeability Cores
+Noise Suppression - SMD-Type AMOBEADS®
+Noise Suppression - SPIKE KILLER® Cores
+Noise Suppression - AMOBEADS® with Lead
+Low Loss Saturable Cores
+Saturable Cores
+Electronic Ceramic Substrates
+Silicon Nitride
+Tungsten and Molybdenum Wire
+X-ray Intensifying Screens & Crystals
+Sputtering Targets
+C-Band Power GaAs IMFETs
+X and Ku-Band Power GaAs IMFETS
+X-Band Internally Matched Power GaN HEMTs
+Applications
+Automotive
+Industrial
+Office and Personal 
+Consumer
+Motor Control
+Wireless Communications
+Power Management
+Application Block Diagrams 
+Safety
+Advanced Driver Assistance Systems (ADAS)
+Parking Assist Systems
+Brake Control (ABS / ESC)
+Electric Control Suspension
+Tire Pressure Monitoring System
+Airbags
+Pre-Crash Seatbelt
+Functional Safety Technologies
+Information
+Instrument Cluster and Head-up Display
+Center Information Display
+Car Audio Systems
+Hands-free
+Remote Keyless Entry (RKE)
+Environment 
+HEV / EV System
+Automotive Drive System (Inverter)
+DC-DC Converter
+Battery Management System
+Direct Injection
+Transmission Control
+Start-Stop Systems
+Pump Control
+Electronic Power Steering System
+Cooling Fan
+Heating, Ventilation and Air-Conditioning (HVAC)
+Electric parking brake (EPB), power sliding doors, precrash seat belt tensioners
+Power Slide Door
+HID Light System
+LED Head Lamp
+Junction Box
+Energy systems
+Micro Inverters
+Solar Power
+Solar Inverters
+Smart Meters
+Security and Surveillance
+Surveillance camera
+Barcode reader
+Cloud storage
+Server
+NEW
+Human Machine Interface
+PLC
+Cordless electric power tool
+Welders
+Base Station
+NEW
+PC Peripheral
+Printers
+Copiers
+Scaners
+Note PC
+Desktop PC
+Mobile
+Smart Phone / Tablets
+Cell Phone
+FRS, GMRS
+Portable Information Devices
+Wearable Device Solutions
+VR Head Mounted Display
+Smartwatches
+Healthcare
+Fitness Trackers
+White goods
+Air Conditioners
+Refrigerators
+Washing Machines
+Induction Cooktops
+Induction Rice Cookers
+Dishwashers
+Microwave Ovens
+Bidet Toilets
+Water Heaters
+LED Lighting
+Image & Audio visual
+Digital TVs
+Digital Still Cameras
+Digital Video Cameras
+Audio
+AM Tuners
+FM Tuners
+Amusement Equipment
+Drone (Multi-rotor helicopter) 
+Power Supply
+Battery Management
+Other Power Management
+Design / Support
+Search
+Cross Reference Search
+Parametric Search
+Package & Packing Information
+Halogen-free Activities
+Reliability Information
+Part Naming Conventions
+Reference Design Center
+NEW
+Security Advisories
+Frequently Asked Questions (FAQs)
+Documents
+General Catalog
+Updated
+Application Notes
+Updated
+Catalogs
+Product Brief
+White Papers
+Certifications
+FAB Sheets
+Simulation
+Web Simulator
+Motor Drivers
+Power Supply ICs / LED Drivers
+Video Clips
+Updated
+Automotive
+Power Management
+Updated
+Motor Solutions
+Wireless Communications
+Storage Products 
+Updated
+ASSPs and the others
+Updated
+e-Learning
+e-Learning
+Service
+Special
+Interview of motor solutions
+Interview of Power MOSFETs
+Social Media
+Sample / Purchase
+Corporate Information
+Toshiba America Electronic Components, Inc.
+About Us
+Sales Contacts
+News Center
+Product Inquiries
+Careers
+Events
+TAEC Social Media
+Toshiba Management
+Corporate Information
+Basic Corporate Data
+Message from the President
+The Toshiba Commitment
+Procurement
+Management Structure , Officers
+Business Outline
+Overseas Manufacturing Companies
+Subsidiaries and Affiliates
+Global Sales
+Technical Review
+Updated
+Environmental Activities
+Current Status of Environmental Impact and Environmental Targets and Outcomes
+Commendation
+Acquisition of ISO14001 Certification
+Terms and Conditions of Use 
+Corporate Information
+Weibo QR Description
+Popup QR Description
+WeChat QR Description
+Popup QR Description
+Basic Corporate Data
+Procurement
+Overseas Manufacturing Companies
+Message from the President
+Management Structure , Officers
+Subsidiaries and Affiliates 
+The Toshiba Commitment
+Business Outline
+Global Sales
+Site Map
+Weibo QR Description
+Popup QR Description
+WeChat QR Description
+Popup QR Description
+Privacy Policy
+Terms and ConditionsSite Map
+ALL
+Diodes
+MOSFETs
+Bipolar Transistors
+Optical Semiconductor Devices
+Logic ICs
+Linear ICs
+Microcomputer
+Automotive Devices
+ASSPs
+Wireless Communications Equipment ICs
+Sensors
+Part Number Search
+Cross Reference Search
+Keyword Search
+Parametric Search
+Select other search
+Cross Reference Search
+Keyword Search
+Parametric Search
+Home
+Products
+Storage Products (HDD)
+MOSFETs
+Bipolar Transistors / IGBTs / IEGT
+Diodes
+Optical Semiconductor Devices
+Linear ICs
+Logic ICs
+Updated
+Sensors
+Microcomputer
+Custom SoCs
+Wireless Communications Equipment ICs
+Automotive Devices
+ASSPs
+Radio-Frequency Devices
+Amorphous
+Materials
+Microwave
+Enterprise HDD (eHDD)
+Updated
+Client HDD (cHDD)
+Updated
+Specialty
+Updated
+Trends & Technology
+TOSHIBA REVIEW
+Case Studies – HDDs
+White Papers
+Advanced Format
+Video Clip
+Technical Support
+Product Archive
+Meaning of Model Number
+About Toshiba Storage Products
+Milestones
+Manufacturing Site
+Press Center
+Press Reviews
+Awards
+12V - 300V MOSFETs
+Updated
+400V - 900V MOSFETs 
+Updated
+Automotive MOSFETs
+Updated
+Small Low-On-Resistance MOSFETs
+Bipolar Transistors
+Bias Resistor Built-in Transistors (BRT)
+IGBTs
+IEGT (PPI & PMI）
+Multi-Chip Discrete Devices
+Junction FETs
+RF Bipolar Transistors
+SiC Schottky Barrier Diodes
+Schottky Barrier Diodes
+TVS Diodes (ESD Protection Diodes)
+Rectifier Diodes
+Switching Diodes
+Zener Diodes
+RF Diodes
+Photocouplers
+Photorelays
+Fiber-Coupler (TOSLINK™)
+Motor Drivers
+Brushed Motor Drivers
+Brushless Motor Drivers
+Stepping Motor Drivers
+LDO Regulators
+Low dropout voltage
+Fast load transient response
+High Ripple Rejection
+LED Drivers
+Transistor Arrays
+Updated
+Power Supply ICs
+Load Switch ICs
+PFC Control ICs
+Battery Charger ICs
+Level Shifter Arrays
+Intelligent Power Devices (IPDs)
+IPDs (60V series)
+IPDs (250V / 500V series)
+Wireless Power Charger ICs
+Operational Amplifier ICs and Comparator ICs
+Operational Amplifier ICs
+Comparator ICs
+CMOS Logic ICs
+One-Gate Logic (L-MOS)
+Bus Switches
+Dual-Supply Level Shifters
+Linear Image Sensors
+Magnetic Sensors
+Recommended Products
+Products Lineup
+Arm Core-Based Microcontrollers
+- TXZ3 Series
+- TXZ4 Series
+- TX00 Series
+- TX03 Series
+- TX04 Series
+- TX09 Series
+Product Introduction Guide
+Toshiba Original Core-Based Microcontrollers
+- TLCS-870/C1 Series
+- TLCS-900/H1 Series
+- TX19A/H1 Series
+Microcontrollers for Automotive
+TX19A/H1 Series
+TLCS-870/C1 Series
+TLCS-900/H1 Series
+Design / Support
+Important Notices
+Development Environment
+Evaluation Kits and Reference Boards
+Application Notes / Sample Programs
+Partner Information
+Partner Information
+Toshiba MCUpark
+SNS Library
+Toshiba Solutions
+IP Support
+IP Lineup
+IP Alliance
+Design Methodologies
+Low-Power Design
+High-Performance SoC Design
+Package Technology
+High-Bandwidth Memory Assembly Technology
+Development Support Solutions
+Front-End Design Support
+FPGA prototyping support (Easy Prototyping)
+Subsystems
+Development Platforms
+ASICs
+FFSA™
+Updated
+Bluetooth® wireless communication IC
+Updated
+NFC-enabled LSI (CLF)
+RF ICs for IoT/Extremely Low-Power Radio Applications
+Image Recognition Processor
+Automotive Video Processors
+Car Audio
+Power Amplifier ICs
+Text-To-Speech Middleware
+Microcontrollers for Automotive
+Analog Devices
+Motor Drivers
+System Power Supply for Automotive
+RF Devices for Automotive
+RF ICs for Vehicle Communication Service
+Automotive MOSFETs
+Updated
+Automotive IPDs
+Storage Solutions for Automotive Information & Entertainment Systems
+Updated
+Bluetooth Compliant ICs
+Automotive Interface Bridge ICs
+Automotive Devices in Small Packages
+Automotive Photocouplers / Photorelays
+Smartwatch Solution
+HMI Solutions
+OFDM Demodulation and Error Correction ICs
+Car Audio
+Power Amplifier ICs
+Other Product ICs
+Interface Bridges (Mobile Peripheral Devices)
+Display Interface Bridge
+Camera Interface Bridge
+HDMI® Interface Bridge
+I/O Expander
+RF Switch ICs
+RF MOSFETs
+RF Bipolar Transistors
+RF Diodes
+Variable Capacitance Diodes
+RF Switching Diodes
+RF Schottky Barrier Diodes
+Simulation Model (RF ICs)
+Noise Suppression - AMOBEADS®
+High Permeability Cores
+Noise Suppression - SMD-Type AMOBEADS®
+Noise Suppression - SPIKE KILLER® Cores
+Noise Suppression - AMOBEADS® with Lead
+Low Loss Saturable Cores
+Saturable Cores
+Electronic Ceramic Substrates
+Silicon Nitride
+Tungsten and Molybdenum Wire
+X-ray Intensifying Screens & Crystals
+Sputtering Targets
+C-Band Power GaAs IMFETs
+X and Ku-Band Power GaAs IMFETS
+X-Band Internally Matched Power GaN HEMTs
+Applications
+Automotive
+Industrial
+Office and Personal 
+Consumer
+Motor Control
+Wireless Communications
+Power Management
+Application Block Diagrams 
+Safety
+Advanced Driver Assistance Systems (ADAS)
+Parking Assist Systems
+Brake Control (ABS / ESC)
+Electric Control Suspension
+Tire Pressure Monitoring System
+Airbags
+Pre-Crash Seatbelt
+Functional Safety Technologies
+Information
+Instrument Cluster and Head-up Display
+Center Information Display
+Car Audio Systems
+Hands-free
+Remote Keyless Entry (RKE)
+Environment 
+HEV / EV System
+Automotive Drive System (Inverter)
+DC-DC Converter
+Battery Management System
+Direct Injection
+Transmission Control
+Start-Stop Systems
+Pump Control
+Electronic Power Steering System
+Cooling Fan
+Heating, Ventilation and Air-Conditioning (HVAC)
+Electric parking brake (EPB), power sliding doors, precrash seat belt tensioners
+Power Slide Door
+HID Light System
+LED Head Lamp
+Junction Box
+Energy systems
+Micro Inverters
+Solar Power
+Solar Inverters
+Smart Meters
+Security and Surveillance
+Surveillance camera
+Barcode reader
+Cloud storage
+Server
+NEW
+Human Machine Interface
+PLC
+Cordless electric power tool
+Welders
+Base Station
+NEW
+PC Peripheral
+Printers
+Copiers
+Scaners
+Note PC
+Desktop PC
+Mobile
+Smart Phone / Tablets
+Cell Phone
+FRS, GMRS
+Portable Information Devices
+Wearable Device Solutions
+VR Head Mounted Display
+Smartwatches
+Healthcare
+Fitness Trackers
+White goods
+Air Conditioners
+Refrigerators
+Washing Machines
+Induction Cooktops
+Induction Rice Cookers
+Dishwashers
+Microwave Ovens
+Bidet Toilets
+Water Heaters
+LED Lighting
+Image & Audio visual
+Digital TVs
+Digital Still Cameras
+Digital Video Cameras
+Audio
+AM Tuners
+FM Tuners
+Amusement Equipment
+Drone (Multi-rotor helicopter) 
+Power Supply
+Battery Management
+Other Power Management
+Design / Support
+Search
+Cross Reference Search
+Parametric Search
+Package & Packing Information
+Halogen-free Activities
+Reliability Information
+Part Naming Conventions
+Reference Design Center
+NEW
+Security Advisories
+Frequently Asked Questions (FAQs)
+Documents
+General Catalog
+Updated
+Application Notes
+Updated
+Catalogs
+Product Brief
+White Papers
+Certifications
+FAB Sheets
+Simulation
+Web Simulator
+Motor Drivers
+Power Supply ICs / LED Drivers
+Video Clips
+Updated
+Automotive
+Power Management
+Updated
+Motor Solutions
+Wireless Communications
+Storage Products 
+Updated
+ASSPs and the others
+Updated
+e-Learning
+e-Learning
+Service
+Special
+Interview of motor solutions
+Interview of Power MOSFETs
+Social Media
+Sample / Purchase
+Corporate Information
+Toshiba America Electronic Components, Inc.
+About Us
+Sales Contacts
+News Center
+Product Inquiries
+Careers
+Events
+TAEC Social Media
+Toshiba Management
+Corporate Information
+Basic Corporate Data
+Message from the President
+The Toshiba Commitment
+Procurement
+Management Structure , Officers
+Business Outline
+Overseas Manufacturing Companies
+Subsidiaries and Affiliates
+Global Sales
+Technical Review
+Updated
+Environmental Activities
+Current Status of Environmental Impact and Environmental Targets and Outcomes
+Commendation
+Acquisition of ISO14001 Certification
+Terms and Conditions of Use 
+Corporate Information
+Corporate Information
+Weibo QR Description
+Popup QR Description
+WeChat QR Description
+Popup QR Description
+Corporate Information
+Basic Corporate Data
+Message from the President
+The Toshiba Commitment  
+Procurement
+Management Structure , Officers
+Business Outline
+Overseas Manufacturing Companies
+Subsidiaries and Affiliates
+Global Sales
+Overseas Manufacturing Companies
+Address
+572 Moo 7, 304 Industrial Park, Thatoom, Srimahaphot, Prachinburi 25140, Thailand
+Tel
+(037）28-4900
+Products
+Discrete semiconductor products
+Address
+103 East Main Avenue Extension, Special Export Processing Zone Laguna Technopark, Binan, Laguna, Philippines
+Tel
+(02)809-5183
+Products
+HDDs, SSDs, e-PCB
+Site Map
+Weibo QR Description
+Popup QR Description
+WeChat QR Description
+Popup QR Description
+Privacy Policy
+Terms and ConditionsSite Map
+ALL
+Diodes
+MOSFETs
+Bipolar Transistors
+Optical Semiconductor Devices
+Logic ICs
+Linear ICs
+Microcomputer
+Automotive Devices
+ASSPs
+Wireless Communications Equipment ICs
+Sensors
+Part Number Search
+Cross Reference Search
+Keyword Search
+Parametric Search
+Select other search
+Cross Reference Search
+Keyword Search
+Parametric Search
+Home
+Products
+Storage Products (HDD)
+MOSFETs
+Bipolar Transistors / IGBTs / IEGT
+Diodes
+Optical Semiconductor Devices
+Linear ICs
+Logic ICs
+Updated
+Sensors
+Microcomputer
+Custom SoCs
+Wireless Communications Equipment ICs
+Automotive Devices
+ASSPs
+Radio-Frequency Devices
+Amorphous
+Materials
+Microwave
+Enterprise HDD (eHDD)
+Updated
+Client HDD (cHDD)
+Updated
+Specialty
+Updated
+Trends & Technology
+TOSHIBA REVIEW
+Case Studies – HDDs
+White Papers
+Advanced Format
+Video Clip
+Technical Support
+Product Archive
+Meaning of Model Number
+About Toshiba Storage Products
+Milestones
+Manufacturing Site
+Press Center
+Press Reviews
+Awards
+12V - 300V MOSFETs
+Updated
+400V - 900V MOSFETs 
+Updated
+Automotive MOSFETs
+Updated
+Small Low-On-Resistance MOSFETs
+Bipolar Transistors
+Bias Resistor Built-in Transistors (BRT)
+IGBTs
+IEGT (PPI & PMI）
+Multi-Chip Discrete Devices
+Junction FETs
+RF Bipolar Transistors
+SiC Schottky Barrier Diodes
+Schottky Barrier Diodes
+TVS Diodes (ESD Protection Diodes)
+Rectifier Diodes
+Switching Diodes
+Zener Diodes
+RF Diodes
+Photocouplers
+Photorelays
+Fiber-Coupler (TOSLINK™)
+Motor Drivers
+Brushed Motor Drivers
+Brushless Motor Drivers
+Stepping Motor Drivers
+LDO Regulators
+Low dropout voltage
+Fast load transient response
+High Ripple Rejection
+LED Drivers
+Transistor Arrays
+Updated
+Power Supply ICs
+Load Switch ICs
+PFC Control ICs
+Battery Charger ICs
+Level Shifter Arrays
+Intelligent Power Devices (IPDs)
+IPDs (60V series)
+IPDs (250V / 500V series)
+Wireless Power Charger ICs
+Operational Amplifier ICs and Comparator ICs
+Operational Amplifier ICs
+Comparator ICs
+CMOS Logic ICs
+One-Gate Logic (L-MOS)
+Bus Switches
+Dual-Supply Level Shifters
+Linear Image Sensors
+Magnetic Sensors
+Recommended Products
+Products Lineup
+Arm Core-Based Microcontrollers
+- TXZ3 Series
+- TXZ4 Series
+- TX00 Series
+- TX03 Series
+- TX04 Series
+- TX09 Series
+Product Introduction Guide
+Toshiba Original Core-Based Microcontrollers
+- TLCS-870/C1 Series
+- TLCS-900/H1 Series
+- TX19A/H1 Series
+Microcontrollers for Automotive
+TX19A/H1 Series
+TLCS-870/C1 Series
+TLCS-900/H1 Series
+Design / Support
+Important Notices
+Development Environment
+Evaluation Kits and Reference Boards
+Application Notes / Sample Programs
+Partner Information
+Partner Information
+Toshiba MCUpark
+SNS Library
+Toshiba Solutions
+IP Support
+IP Lineup
+IP Alliance
+Design Methodologies
+Low-Power Design
+High-Performance SoC Design
+Package Technology
+High-Bandwidth Memory Assembly Technology
+Development Support Solutions
+Front-End Design Support
+FPGA prototyping support (Easy Prototyping)
+Subsystems
+Development Platforms
+ASICs
+FFSA™
+Updated
+Bluetooth® wireless communication IC
+Updated
+NFC-enabled LSI (CLF)
+RF ICs for IoT/Extremely Low-Power Radio Applications
+Image Recognition Processor
+Automotive Video Processors
+Car Audio
+Power Amplifier ICs
+Text-To-Speech Middleware
+Microcontrollers for Automotive
+Analog Devices
+Motor Drivers
+System Power Supply for Automotive
+RF Devices for Automotive
+RF ICs for Vehicle Communication Service
+Automotive MOSFETs
+Updated
+Automotive IPDs
+Storage Solutions for Automotive Information & Entertainment Systems
+Updated
+Bluetooth Compliant ICs
+Automotive Interface Bridge ICs
+Automotive Devices in Small Packages
+Automotive Photocouplers / Photorelays
+Smartwatch Solution
+HMI Solutions
+OFDM Demodulation and Error Correction ICs
+Car Audio
+Power Amplifier ICs
+Other Product ICs
+Interface Bridges (Mobile Peripheral Devices)
+Display Interface Bridge
+Camera Interface Bridge
+HDMI® Interface Bridge
+I/O Expander
+RF Switch ICs
+RF MOSFETs
+RF Bipolar Transistors
+RF Diodes
+Variable Capacitance Diodes
+RF Switching Diodes
+RF Schottky Barrier Diodes
+Simulation Model (RF ICs)
+Noise Suppression - AMOBEADS®
+High Permeability Cores
+Noise Suppression - SMD-Type AMOBEADS®
+Noise Suppression - SPIKE KILLER® Cores
+Noise Suppression - AMOBEADS® with Lead
+Low Loss Saturable Cores
+Saturable Cores
+Electronic Ceramic Substrates
+Silicon Nitride
+Tungsten and Molybdenum Wire
+X-ray Intensifying Screens & Crystals
+Sputtering Targets
+C-Band Power GaAs IMFETs
+X and Ku-Band Power GaAs IMFETS
+X-Band Internally Matched Power GaN HEMTs
+Applications
+Automotive
+Industrial
+Office and Personal 
+Consumer
+Motor Control
+Wireless Communications
+Power Management
+Application Block Diagrams 
+Safety
+Advanced Driver Assistance Systems (ADAS)
+Parking Assist Systems
+Brake Control (ABS / ESC)
+Electric Control Suspension
+Tire Pressure Monitoring System
+Airbags
+Pre-Crash Seatbelt
+Functional Safety Technologies
+Information
+Instrument Cluster and Head-up Display
+Center Information Display
+Car Audio Systems
+Hands-free
+Remote Keyless Entry (RKE)
+Environment 
+HEV / EV System
+Automotive Drive System (Inverter)
+DC-DC Converter
+Battery Management System
+Direct Injection
+Transmission Control
+Start-Stop Systems
+Pump Control
+Electronic Power Steering System
+Cooling Fan
+Heating, Ventilation and Air-Conditioning (HVAC)
+Electric parking brake (EPB), power sliding doors, precrash seat belt tensioners
+Power Slide Door
+HID Light System
+LED Head Lamp
+Junction Box
+Energy systems
+Micro Inverters
+Solar Power
+Solar Inverters
+Smart Meters
+Security and Surveillance
+Surveillance camera
+Barcode reader
+Cloud storage
+Server
+NEW
+Human Machine Interface
+PLC
+Cordless electric power tool
+Welders
+Base Station
+NEW
+PC Peripheral
+Printers
+Copiers
+Scaners
+Note PC
+Desktop PC
+Mobile
+Smart Phone / Tablets
+Cell Phone
+FRS, GMRS
+Portable Information Devices
+Wearable Device Solutions
+VR Head Mounted Display
+Smartwatches
+Healthcare
+Fitness Trackers
+White goods
+Air Conditioners
+Refrigerators
+Washing Machines
+Induction Cooktops
+Induction Rice Cookers
+Dishwashers
+Microwave Ovens
+Bidet Toilets
+Water Heaters
+LED Lighting
+Image & Audio visual
+Digital TVs
+Digital Still Cameras
+Digital Video Cameras
+Audio
+AM Tuners
+FM Tuners
+Amusement Equipment
+Drone (Multi-rotor helicopter) 
+Power Supply
+Battery Management
+Other Power Management
+Design / Support
+Search
+Cross Reference Search
+Parametric Search
+Package & Packing Information
+Halogen-free Activities
+Reliability Information
+Part Naming Conventions
+Reference Design Center
+NEW
+Security Advisories
+Frequently Asked Questions (FAQs)
+Documents
+General Catalog
+Updated
+Application Notes
+Updated
+Catalogs
+Product Brief
+White Papers
+Certifications
+FAB Sheets
+Simulation
+Web Simulator
+Motor Drivers
+Power Supply ICs / LED Drivers
+Video Clips
+Updated
+Automotive
+Power Management
+Updated
+Motor Solutions
+Wireless Communications
+Storage Products 
+Updated
+ASSPs and the others
+Updated
+e-Learning
+e-Learning
+Service
+Special
+Interview of motor solutions
+Interview of Power MOSFETs
+Social Media
+Sample / Purchase
+Corporate Information
+Toshiba America Electronic Components, Inc.
+About Us
+Sales Contacts
+News Center
+Product Inquiries
+Careers
+Events
+TAEC Social Media
+Toshiba Management
+Corporate Information
+Basic Corporate Data
+Message from the President
+The Toshiba Commitment
+Procurement
+Management Structure , Officers
+Business Outline
+Overseas Manufacturing Companies
+Subsidiaries and Affiliates
+Global Sales
+Technical Review
+Updated
+Environmental Activities
+Current Status of Environmental Impact and Environmental Targets and Outcomes
+Commendation
+Acquisition of ISO14001 Certification
+Terms and Conditions of Use 
+Corporate Information
+Corporate Information
+Overseas Manufacturing Companies
+Weibo QR Description
+Popup QR Description
+WeChat QR Description
+Popup QR Description
+Corporate Information
+Basic Corporate Data
+Message from the President
+The Toshiba Commitment  
+Procurement
+Management Structure , Officers
+Business Outline
+Overseas Manufacturing Companies
+Subsidiaries and Affiliates
+Global Sales
+TIP has begun its operations in 1996, since then we at TIP have worked with our local staff to produce highly valued products sent from the Philippines to all over the world. We have also taken an active part in environmental and regional CSR activities. Currently, our three manufacturing sites each manufacture distinguished product.
+Company Name (Abbreviation)
+Toshiba Information Equipment (Philippines), Inc. (TIP)
+Location
+103 East Main Ave. Ext., Special Export Processing Zone, Laguna Technopark, Binan, Laguna, Philippines 4024
+Established
+July 7, 1995
+Start of Operations
+October 1, 1996
+Site Area
+60,036 m
+2
+Floor area
+68,560 m
+2 
+Products
+Client HDDs
+Main Applications
+Notebook PCs
+Site Area
+21,000 m
+2
+Total Floor Area
+17,223 m
+2
+Products
+Enterprise SSDs
+Main Applications
+High End Servers
+Site Area
+84,000 m
+2
+Total Floor Area
+67,124 m
+2 
+Products
+Enterprise HDDs
+Main Applications
+High End Servers
+ISO 9001
+Quality Management System (QMS)
+ISO 14001
+Environmental Management System (EMS)
+OHSAS 18001
+Occupational Health and Safety Assessment
+ISO/IEC 27001
+Information Security Management System (ISMS)
+ISO 22301
+Business Continuity Management System (BCMS)
+2017
+12th Year Sevice Award (Phiipine Red Cross)
+Hall of Fame: Outstanding efficienct Award(DOE)
+Safety Excellent Award (WASPI)
+2016
+Outstanding efficienct Award (DOE)
+TPM Excellent Award Category A - CIP site (JIPM)
+2015
+Outstanding Award & Outstanding Energy Manager Award (DOE)
+KAPATID Awards (ECOP)
+2014
+Mother Nature Award (PCAPI)
+TPM Excellence Award Category A - LTI site (JIPM)
+2013
+Efficiency Award (DOE)
+ASEAN Energy Awards (AEA)
+LLDA Award Silver Rating　(LLDA)
+2012
+Safety Milestone (SMILE) of 17 Million Safety Hours (DOLE)
+2011
+ASEAN Energy Awards (AEA)
+Good Factory Award (JMA)
+Hall of Fame: Golden Achievement Award (PEZA)
+Scholarship program
+Employees' volunteer activities
+Donations to public schools
+Providing medical opportunities for neighborhood residents
+Donations to terminal care support (Kythe Foundation)
+Blood donations from employees
+Relief goods support for Marawi City through NGO on December, 2017.
+Restoration/reconstruction support for areas affected by Typhoon Yolanda (Typhoon #30) on November, 2013
+Renovation work on Banaue Rice Terraces
+Renovation work on Banaue Rice Terraces
+Outreach education on the concept of "Mottainai"
+Tree-planting
+Site Map
+Weibo QR Description
+Popup QR Description
+WeChat QR Description
+Popup QR Description
+Privacy Policy
+Terms and ConditionsSite Map
+ALL
+Diodes
+MOSFETs
+Bipolar Transistors
+Optical Semiconductor Devices
+Logic ICs
+Linear ICs
+Microcomputer
+Automotive Devices
+ASSPs
+Wireless Communications Equipment ICs
+Sensors
+Part Number Search
+Cross Reference Search
+Keyword Search
+Parametric Search
+Select other search
+Cross Reference Search
+Keyword Search
+Parametric Search
+Home
+Products
+Storage Products (HDD)
+MOSFETs
+Bipolar Transistors / IGBTs / IEGT
+Diodes
+Optical Semiconductor Devices
+Linear ICs
+Logic ICs
+Updated
+Sensors
+Microcomputer
+Custom SoCs
+Wireless Communications Equipment ICs
+Automotive Devices
+ASSPs
+Radio-Frequency Devices
+Amorphous
+Materials
+Microwave
+Enterprise HDD (eHDD)
+Updated
+Client HDD (cHDD)
+Updated
+Specialty
+Updated
+Trends & Technology
+TOSHIBA REVIEW
+Case Studies – HDDs
+White Papers
+Advanced Format
+Video Clip
+Technical Support
+Product Archive
+Meaning of Model Number
+About Toshiba Storage Products
+Milestones
+Manufacturing Site
+Press Center
+Press Reviews
+Awards
+12V - 300V MOSFETs
+Updated
+400V - 900V MOSFETs 
+Updated
+Automotive MOSFETs
+Updated
+Small Low-On-Resistance MOSFETs
+Bipolar Transistors
+Bias Resistor Built-in Transistors (BRT)
+IGBTs
+IEGT (PPI & PMI）
+Multi-Chip Discrete Devices
+Junction FETs
+RF Bipolar Transistors
+SiC Schottky Barrier Diodes
+Schottky Barrier Diodes
+TVS Diodes (ESD Protection Diodes)
+Rectifier Diodes
+Switching Diodes
+Zener Diodes
+RF Diodes
+Photocouplers
+Photorelays
+Fiber-Coupler (TOSLINK™)
+Motor Drivers
+Brushed Motor Drivers
+Brushless Motor Drivers
+Stepping Motor Drivers
+LDO Regulators
+Low dropout voltage
+Fast load transient response
+High Ripple Rejection
+LED Drivers
+Transistor Arrays
+Updated
+Power Supply ICs
+Load Switch ICs
+PFC Control ICs
+Battery Charger ICs
+Level Shifter Arrays
+Intelligent Power Devices (IPDs)
+IPDs (60V series)
+IPDs (250V / 500V series)
+Wireless Power Charger ICs
+Operational Amplifier ICs and Comparator ICs
+Operational Amplifier ICs
+Comparator ICs
+CMOS Logic ICs
+One-Gate Logic (L-MOS)
+Bus Switches
+Dual-Supply Level Shifters
+Linear Image Sensors
+Magnetic Sensors
+Recommended Products
+Products Lineup
+Arm Core-Based Microcontrollers
+- TXZ3 Series
+- TXZ4 Series
+- TX00 Series
+- TX03 Series
+- TX04 Series
+- TX09 Series
+Product Introduction Guide
+Toshiba Original Core-Based Microcontrollers
+- TLCS-870/C1 Series
+- TLCS-900/H1 Series
+- TX19A/H1 Series
+Microcontrollers for Automotive
+TX19A/H1 Series
+TLCS-870/C1 Series
+TLCS-900/H1 Series
+Design / Support
+Important Notices
+Development Environment
+Evaluation Kits and Reference Boards
+Application Notes / Sample Programs
+Partner Information
+Partner Information
+Toshiba MCUpark
+SNS Library
+Toshiba Solutions
+IP Support
+IP Lineup
+IP Alliance
+Design Methodologies
+Low-Power Design
+High-Performance SoC Design
+Package Technology
+High-Bandwidth Memory Assembly Technology
+Development Support Solutions
+Front-End Design Support
+FPGA prototyping support (Easy Prototyping)
+Subsystems
+Development Platforms
+ASICs
+FFSA™
+Updated
+Bluetooth® wireless communication IC
+Updated
+NFC-enabled LSI (CLF)
+RF ICs for IoT/Extremely Low-Power Radio Applications
+Image Recognition Processor
+Automotive Video Processors
+Car Audio
+Power Amplifier ICs
+Text-To-Speech Middleware
+Microcontrollers for Automotive
+Analog Devices
+Motor Drivers
+System Power Supply for Automotive
+RF Devices for Automotive
+RF ICs for Vehicle Communication Service
+Automotive MOSFETs
+Updated
+Automotive IPDs
+Storage Solutions for Automotive Information & Entertainment Systems
+Updated
+Bluetooth Compliant ICs
+Automotive Interface Bridge ICs
+Automotive Devices in Small Packages
+Automotive Photocouplers / Photorelays
+Smartwatch Solution
+HMI Solutions
+OFDM Demodulation and Error Correction ICs
+Car Audio
+Power Amplifier ICs
+Other Product ICs
+Interface Bridges (Mobile Peripheral Devices)
+Display Interface Bridge
+Camera Interface Bridge
+HDMI® Interface Bridge
+I/O Expander
+RF Switch ICs
+RF MOSFETs
+RF Bipolar Transistors
+RF Diodes
+Variable Capacitance Diodes
+RF Switching Diodes
+RF Schottky Barrier Diodes
+Simulation Model (RF ICs)
+Noise Suppression - AMOBEADS®
+High Permeability Cores
+Noise Suppression - SMD-Type AMOBEADS®
+Noise Suppression - SPIKE KILLER® Cores
+Noise Suppression - AMOBEADS® with Lead
+Low Loss Saturable Cores
+Saturable Cores
+Electronic Ceramic Substrates
+Silicon Nitride
+Tungsten and Molybdenum Wire
+X-ray Intensifying Screens & Crystals
+Sputtering Targets
+C-Band Power GaAs IMFETs
+X and Ku-Band Power GaAs IMFETS
+X-Band Internally Matched Power GaN HEMTs
+Applications
+Automotive
+Industrial
+Office and Personal 
+Consumer
+Motor Control
+Wireless Communications
+Power Management
+Application Block Diagrams 
+Safety
+Advanced Driver Assistance Systems (ADAS)
+Parking Assist Systems
+Brake Control (ABS / ESC)
+Electric Control Suspension
+Tire Pressure Monitoring System
+Airbags
+Pre-Crash Seatbelt
+Functional Safety Technologies
+Information
+Instrument Cluster and Head-up Display
+Center Information Display
+Car Audio Systems
+Hands-free
+Remote Keyless Entry (RKE)
+Environment 
+HEV / EV System
+Automotive Drive System (Inverter)
+DC-DC Converter
+Battery Management System
+Direct Injection
+Transmission Control
+Start-Stop Systems
+Pump Control
+Electronic Power Steering System
+Cooling Fan
+Heating, Ventilation and Air-Conditioning (HVAC)
+Electric parking brake (EPB), power sliding doors, precrash seat belt tensioners
+Power Slide Door
+HID Light System
+LED Head Lamp
+Junction Box
+Energy systems
+Micro Inverters
+Solar Power
+Solar Inverters
+Smart Meters
+Security and Surveillance
+Surveillance camera
+Barcode reader
+Cloud storage
+Server
+NEW
+Human Machine Interface
+PLC
+Cordless electric power tool
+Welders
+Base Station
+NEW
+PC Peripheral
+Printers
+Copiers
+Scaners
+Note PC
+Desktop PC
+Mobile
+Smart Phone / Tablets
+Cell Phone
+FRS, GMRS
+Portable Information Devices
+Wearable Device Solutions
+VR Head Mounted Display
+Smartwatches
+Healthcare
+Fitness Trackers
+White goods
+Air Conditioners
+Refrigerators
+Washing Machines
+Induction Cooktops
+Induction Rice Cookers
+Dishwashers
+Microwave Ovens
+Bidet Toilets
+Water Heaters
+LED Lighting
+Image & Audio visual
+Digital TVs
+Digital Still Cameras
+Digital Video Cameras
+Audio
+AM Tuners
+FM Tuners
+Amusement Equipment
+Drone (Multi-rotor helicopter) 
+Power Supply
+Battery Management
+Other Power Management
+Design / Support
+Search
+Cross Reference Search
+Parametric Search
+Package & Packing Information
+Halogen-free Activities
+Reliability Information
+Part Naming Conventions
+Reference Design Center
+NEW
+Security Advisories
+Frequently Asked Questions (FAQs)
+Documents
+General Catalog
+Updated
+Application Notes
+Updated
+Catalogs
+Product Brief
+White Papers
+Certifications
+FAB Sheets
+Simulation
+Web Simulator
+Motor Drivers
+Power Supply ICs / LED Drivers
+Video Clips
+Updated
+Automotive
+Power Management
+Updated
+Motor Solutions
+Wireless Communications
+Storage Products 
+Updated
+ASSPs and the others
+Updated
+e-Learning
+e-Learning
+Service
+Special
+Interview of motor solutions
+Interview of Power MOSFETs
+Social Media
+Sample / Purchase
+Corporate Information
+Toshiba America Electronic Components, Inc.
+About Us
+Sales Contacts
+News Center
+Product Inquiries
+Careers
+Events
+TAEC Social Media
+Toshiba Management
+Corporate Information
+Basic Corporate Data
+Message from the President
+The Toshiba Commitment
+Procurement
+Management Structure , Officers
+Business Outline
+Overseas Manufacturing Companies
+Subsidiaries and Affiliates
+Global Sales
+Technical Review
+Updated
+Environmental Activities
+Current Status of Environmental Impact and Environmental Targets and Outcomes
+Commendation
+Acquisition of ISO14001 Certification
+Terms and Conditions of Use 
+Corporate Information
+Corporate Information
+Weibo QR Description
+Popup QR Description
+WeChat QR Description
+Popup QR Description
+Corporate Information
+Basic Corporate Data
+Message from the President
+The Toshiba Commitment  
+Procurement
+Management Structure , Officers
+Business Outline
+Overseas Manufacturing Companies
+Subsidiaries and Affiliates
+Global Sales
+ Basic Corporate Data
+Basic Corporate Data
+Company Name
+Toshiba Electronic Devices & Storage Corporation
+Headquarters Address
+1-1-1, Shibaura, Minato-Ku, Tokyo, Japan
+Date of Succession
+July 1, 2017
+President & CEO
+Hiroshi Fukuchi
+Capital Stock
+¥10 billion
+Sales Revenue
+¥880 billion (consolidated) (FY17 Actual)
+Number of Employees
+22,300 (consolidated), 4,300 (non-consolidated) as of June 30, 2018
+Site Map
+Weibo QR Description
+Popup QR Description
+WeChat QR Description
+Popup QR Description
+Privacy Policy
+Terms and Conditions

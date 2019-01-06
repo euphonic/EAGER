@@ -1,0 +1,283 @@
+ixf_target_enabled
+be_ixf; dotnet_sdk; dotnet_sdk_1.4.9
+235 ms
+ixf-compiler; ixf-compiler_1.0.0.0
+link-block-publisher; link-block-publisher_1.0.0.0; bodystr
+0 ms
+be_ixf; dotnet_sdk; dotnet_sdk_1.4.9
+DOLBY
+Search
+Popular Searches
+Dolby Atmos
+Speaker Setup Guide
+Dolby Atmos Blu-rays
+Drivers
+AC-3
+Dolby Digital Plus
+Show All Results
+Cinema
+Cinema Experiences
+Dolby 
+Cinema
+Filmmaker 
+Profiles
+Dolby 
+Institute
+2018 
+Oscars
+Dolby Screening 
+Rooms
+Cinema Products for Exhibitors
+Professional 
+Products
+Dolby 
+Atmos
+Dolby 
+3D
+Tools for Content Creators
+Dolby 
+Vision
+Content 
+Services
+Home
+Home Technologies
+Dolby 
+Dimension
+Dolby 
+Vision
+Dolby 
+Atmos
+Dolby 
+Audio
+Dolby Digital 
+Plus
+Dolby 
+Access
+How to Get It
+Speaker Setup 
+Guides
+AVRs
+Blu-ray
+Games
+PCs
+Sound 
+Bars
+TVs
+For Professionals
+Broadcast
+Content 
+Creation
+Licensing
+Streaming
+Mobile
+Mobile Technologies
+Dolby 
+Atmos
+Dolby 
+Audio
+Dolby 
+Vision
+Dolby Digital 
+Plus
+Dolby 
+Access
+How To Get It
+Apps
+Smartphones
+Tablets
+PCs
+Games
+For Professionals
+Game 
+Development
+PC and 
+Mobile
+Streaming
+Office
+Conferencing solutions
+Dolby Voice 
+overview
+Dolby Voice software 
+platform
+Dolby Conference 
+Phone
+News and related 
+articles
+Get the Dolby Voice experience
+Dolby Conference Phone 
+resellers
+Dolby Voice service 
+providers
+Case 
+studies
+For professionals
+Become a 
+reseller
+Become a service 
+provider
+Documentation
+Support
+Professionals
+Industry Solutions
+A/V Installers and 
+Retailers
+Broadcast
+Content 
+Creation
+Game 
+Development
+Cinema
+SLS Professional 
+Audio
+PC and 
+Mobile
+Streaming
+Services and Support
+Licensing
+Dolby Customer 
+Portal
+Dolby Conference Phone 
+Support
+Warranty and 
+Maintenance
+Contact 
+Us
+DOLBY
+Cinema
+Home
+Mobile
+Office
+Professionals
+Dolby celebrates the 2018 winners who used the magic of Dolby technology.
+Congratulations to the winners in these select image and sound categories
+Animated Feature
+Coco
+Cinematography
+Blade Runner 2049
+Sound Mixing
+Dunkirk
+Sound Editing
+Dunkirk
+Film Editing
+Dunkirk
+Visual Effects
+Blade Runner 2049
+Original Song
+Coco
+See All Movies
+2018 Oscar winning films featuring Dolby technologies
+Dolby Atmos and Dolby Vision
+Darkest Hour
+Learn More
+Blade Runner 2049
+ in Dolby Vision and Dolby Atmos
+Director Denis Villeneuve discusses the film's sound design and imagery. 
+Watch the video >
+Conversations with Sound Artists: 2018 Oscar
+®
+ Edition
+Listen to podcast conversations with artists nominated for Academy Awards
+®
+ in sound editing and sound mixing.
+Dolby Vision and Dolby Atmos
+The secret ingredients that make movie magic
+Filmmakers have described what Dolby Vision™ and Dolby Atmos® bring to the cinema experience as being "transformative," "shocking," and a "game changer." They understand the ability of these revolutionary picture and sound technologies to realize their creative vision like never before — and give audiences a more immersive, elevated cinema experience than they thought possible.
+Dolby Vision
+Learn how Dolby Vision HDR delivers incredible color, a million-to-one contrast ratio, and twice the brightness of standard screens.
+Dolby Atmos
+Learn more about Dolby Atmos, an industry-leading audio technology that delivers powerful, moving audio that flows all around you.
+Dolby Cinema
+Learn more about Dolby Cinema, where you can experience the combined power of Dolby Vision and Dolby Atmos to move you deep into the story.
+Dolby Theatre
+The Oscars ceremony has long been held at the Dolby Theatre®, Hollywood's crown jewel. Watch the festivities with friends, and enjoy the broadcast in Dolby Audio™.
+The Dolby Theatre showcases the latest technology innovations. 
+Take a closer look >
+Dolby Dimension
+Cinema
+Home Theater
+Mobile
+Office
+Professionals
+AV Installers and Retailers
+Broadcast
+Cinema
+Content Creation
+Content Services
+Game Development
+PC
+Streaming
+Who We Are
+Leadership
+Worldwide Offices
+Dolby Cares
+Environmental Commitment
+Brand Identity
+Careers
+Working at Dolby
+News
+Press Releases
+Investors
+Company Financials
+Corporate Governance
+Stock Information
+Investor Resources
+Region :
+Brasil
+中国
+France
+Deutschland
+India
+Italia
+日本
+대한민국
+España
+Latinoamérica
+Россия
+United States
+Support
+|
+EU Funding
+|
+Privacy Policy
+|
+Cookie Policy
+|
+Terms of Use
+Facebook
+Twitter
+LinkedIn
+YouTube
+Instagram
+Vimeo
+Dolby and the double-D symbol are registered trademarks of Dolby Laboratories. All other trademarks remain the property of their respective owners. © 2018 Dolby Laboratories, Inc. All rights reserved.ixf_target_enabled
+ixf-compiler; ixf-compiler_1.0.0.0
+link-block-publisher; link-block-publisher_1.0.0.0; bodystr
+0 ms
+https://www.dolby.com/us/en/about/brand-identity.html
+Dolby transforms the science of sight and sound into spectacular experiences.
+Through our innovative research and engineering, we develop breakthroughs that we share with the world through collaborations that span artists, businesses, and consumers worldwide.
+Platform Brands
+Dolby offers a number of technologies, including visual technologies, business voice technologies, and, of course, audio technologies. We have a set of platform brands that simplify and organize this broad portfolio of offerings around a set of consumer experiences. Appropriate platform brands associated with each technology are outlined in the Dolby Trademarks and Accompanying Statements section of the Professional Partner Guidelines.
+Versions
+Dolby logos must be displayed in a way that preserves their integrity. Do not warp, alter, or recolor the logo lockups or their components in any way. Always use artwork provided by Dolby.
+Trademark Acknowledgment
+A trademark acknowledgment statement as listed below shall be displayed whenever the Dolby logo or trademark is used in marketing materials.  The acknowledgment must be visible on the marketing material, typically in the form of a footnote, and identify only those Dolby logos and trademarks used. For example, if the Dolby Audio logo appears, use this statement:
+Dolby, Dolby Audio, and the double-D symbol are trademarks of Dolby Laboratories.
+Download Dolby Logos
+The materials available below are protected by copyright and trademark laws of the United States and other countries. You may use the materials only if you have an appropriate license from Dolby, or your use is otherwise legally permitted without a license (e.g. fair use as recognized by the laws of the local jurisdiction). Except for the limited purposes set forth on this site, the materials may not be reproduced, distributed, transmitted, modified or displayed in any form without Dolby’s prior written permission. All rights reserved.
+These guidelines apply to all usage occasions of Dolby logos. Dolby may revoke permission to use Dolby trademarks and logos at any time. Dolby reserves the right to withhold approval of content if it’s inconsistent with the Dolby brand or the brand guidelines.
+Licensed Dolby Manufacturers
+Use this list to verify that consumer electronics products you purchase bearing the Dolby logo and trademark are genuinely licensed by Dolby Laboratories.
+Feedback
+Please give us feedback on your Dolby.com experience. Thank you for sharing your feedback with us!
+How would you rate your Dolby.com experience?
+Hate
+Dislike
+Neutral
+Like
+Love
+false
+Thank you for sharing your feedback with us!
+Connecting your feedback with data related to your visits (device-specific, usage data, cookies, behavior and interactions) will help us improve faster. Do you give us your consent to do so for your previous and future visits?  More information
+Skip
+Send

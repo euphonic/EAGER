@@ -1,0 +1,1116 @@
+Other Items...
+Back to Top
+Print
+Go to "Contact Us" Page
+Qorvo
+Sign In
+How To Buy
+Investors
+Support
+中文
+Buy Online
+Buy from an Authorized Channel Partner
+Buy Direct from Qorvo Sales
+Contact a Sales Representative
+Request a Quote
+Request a Sample
+See All Buying Options
+All Around You
+Entire Site
+Products by Part #
+Products by Description
+Documents
+Entire Site
+Products
+Applications
+Design Hub
+Support
+Innovation
+About Us
+Newsroom
+Careers
+Go to Products
+Amplifiers
+Control Products
+Discrete Transistors
+Filters & Duplexers
+Frequency Converters & Sources
+Integrated Products
+IoT Controllers
+Optical
+Passives
+Switches
+LowDrift™ and NoDrift™ Filters
+Spatium®
+Go to Applications
+Automotive
+Customer Premises Equipment
+Defense and Aerospace
+Internet of Things
+Mobile Products
+Network Infrastructure
+Go to Design Hub
+Block Diagrams
+Design Tools
+Blog
+Brochures
+E-Books
+Published Articles
+Videos
+White Papers
+Go to Support
+How to Buy
+Technical Support
+Samples & Eval Boards
+Product Life Cycle Information
+Supplier Resources
+Subscription Center
+Go to Innovation
+Customer Stories
+Technology
+5G The Future of RF
+Go to About Us
+Executive Leadership
+Board of Directors
+Our History
+Our Communities
+Awards
+Quality
+Corporate Social and Environmental Responsibility
+Locations
+Corporate Resources
+Go to Newsroom
+News
+Media Contacts
+Media Resources
+Newsletters
+Events and Trade Shows
+Go to Careers
+Job Search
+Engineering Careers
+Internships & Recent College Graduates
+Life at Qorvo
+Our Locations
+Top Reasons to Work at Qorvo
+Interviewing at Qorvo
+Recruiting Agencies
+Go to Amplifiers
+CATV Amplifiers
+Driver Amplifiers (
+Gain Block Amplifiers
+High Frequency Amplifiers (> 6 GHz)
+Low Noise Amplifiers (NF < 3 dB)
+Mobile Amplifiers
+Power Amplifiers (> 3 W)
+Variable Gain Amplifiers
+Wi-Fi Network Equipment Amplifiers
+Go to Control Products
+Attenuators
+Limiters
+Phase Shifters
+Programmable Capacitor Arrays
+Go to Discrete Transistors
+GaAs pHEMTs
+GaN HEMTs
+Go to Filters & Duplexers
+Delay Line Filters
+Diplexers
+Duplexers
+IF Filters
+Multiplexers
+Notch Filters
+RF Filters
+Go to Frequency Converters & Sources
+Integrated Synthesizers with Mixers
+Mixers
+Modulators / Demodulators
+Multipliers
+Upconverters / Downconverters
+Go to Integrated Products
+CATV Hybrid Amplifiers
+Defense & Aerospace
+Internet of Things
+Mobile
+Wi-Fi
+Wireless Infrastructure
+Go to Optical
+Bessel Filters & Through Lines
+Modulator Drivers
+Power Amplifiers / Clock Drivers
+Receivers
+Transimpedance Amplifiers
+Go to Passives
+Bessel Filters & Through Lines
+ESD Protection Circuits
+Fixed Attenuators
+Limiters
+Transformers
+Go to Switches
+Antenna Switch Modules
+Discrete Switches
+Diversity Switches
+Go to Defense and Aerospace
+Communications
+Electronic Warfare
+Radar
+Space
+Go to Internet of Things
+Distributed Wi-Fi
+Industrial, Scientific & Medical
+Lifestyle Systems
+Remote Controls
+Smart Energy
+Smart Home
+Go to Mobile Products
+RF Fusion™
+RF Flex™
+Advanced Filter Solutions
+Carrier Aggregation
+Antenna Control Solutions
+Mobile Wi-Fi
+Go to Network Infrastructure
+Broadband Access
+GPS
+Optical
+Point-to-Point Radio
+Satellite Communications
+Wireless Infrastructure
+Go to Design Tools
+Butterworth vs. Chebyshev Bandpass Filter Response
+Cascade Calculator
+dBm-Volts-Watts Conversion
+Key Frequency Bands
+MatchCalc™ RF Design Calculator
+Max Power Reduction Calculator
+Modelithics Qorvo GaN Library
+Noise Figure & Noise Temperature Calculator
+Pad Attenuator (Pi & Tee) Calculator
+PAE / Pdiss / Tj Calculator
+RF Impedance Matching Calculator
+PCB Trace Power Handling Calculator
+VSWR / Return Loss Conversion  
+Go to E-Books
+Connected Car For Dummies®
+5G RF For Dummies®
+Internet of Things For Dummies®
+Carrier Aggregation For Dummies®
+Filters For Dummies®
+GaN For Dummies®
+Go to Customer Stories
+A Look Inside the U.S. Army's Counterfire Radar System
+People Power and Qorvo Deliver Smart Internet of Things Systems
+Qorvo and BQ: How Your Smartphone Connects
+Smart Home Energy Management with Levarys and Qorvo
+Go to Technology
+Advanced Packaging
+Bulk Acoustic Wave (BAW)
+Gallium Nitride (GaN)
+RF Integration
+Go to Quality
+Certifications
+Product Change Notices
+Go to Corporate Social and Environmental Responsibility
+Product Compliance
+Supplier Requirements
+Go to Media Resources
+Management Photos
+Go to Newsletters
+New Product Announcements
+Quarterly Newsletters
+Go to Events and Trade Shows
+Past Trade Shows
+New Products
+Explore the latest additions to our product portfolio.
+Learn More
+New Products
+5G Innovation
+Qorvo is paving a path to 5G.
+Learn More
+Free E-Book: 5G RF For Dummies®
+Get ready for the future of IoT and mobile communication.
+Learn More
+Get in Touch
+Contact Qorvo via phone, email or form.
+Learn More
+GaN Innovation
+Qorvo's GaN technology helps keep you connected and protected.
+Learn More
+Qorvo's Vision
+Our journey for a better, more connected tomorrow.
+Learn More
+Qorvo Blog
+Read the latest RF trends, how-to articles, design tips and more from Qorvo experts.
+Learn More
+Why Qorvo?
+See the top reasons to work at Qorvo.
+Learn More
+About Us
+Your car. Your smartphone. Your wrist. Your heart. Even outer space.
+All around you, Qorvo products are at work, connecting and protecting the world. We bring core technologies and radio frequency (RF) solutions to 
+mobile
+, 
+infrastructure,
+defense/aerospace
+ and 
+Internet of Things
+ markets.
+Transforming the way you live, work, play and communicate — that's what inspires us.
+About Us
+Executive Leadership
+Board of Directors
+Our History
+Our Communities
+Awards
+Quality
+Corporate Social and Environmental Responsibility
+Locations
+Corporate Resources
+At Our Core
+At Qorvo, we are driven by the possibility of discovery — of new technologies and advancements in design, manufacturing and
+communications that make the world a better, more connected place. We've been working on that for more than 30 years, both as
+innovators and as stewards of our global community. And we are just getting started.
+Qorvo By the Numbers
+ Browse About Us
+Executive Leadership
+Board of Directors
+Our History
+Our Communities
+Awards
+Quality
+Corporate Social and Environmental Responsibility
+Locations
+Corporate Resources
+Qorvo Blog
+Read the latest RF trends, how-to articles, design tips and more from
+Qorvo experts.
+Visit Now
+Customer Stories
+From rovers and spacecraft that travel the galaxy to tiny filters that help keep a heart beating, Qorvo's products enable amazing real-world technology. Learn how some of our customers are using our products to solve unique engineering challenges.
+A Look Inside the U.S. Army's Counterfire Radar System
+Qorvo and Lockheed Martin teamed up to manufacture the U.S. Army's AESA radar technology for the Q-53, providing microelectronics and RF components that support mission capabilities.
+Smart Home Energy Management with Levarys and Qorvo
+Imagine a stylish smart home system with connected sensors, thermostats and plugs — all wirelessly controlled from your smartphone or tablet. Using Qorvo technology, Levarys' Luna Smart Home System makes that vision a reality.
+People Power and Qorvo Deliver Smart Internet of Things Systems
+View All Customer Stories
+5G is more than low-band front-end modules and switches. At Qorvo, we have all the core RF technologies to fully 
+address and enable 5G
+ — from 
+wireless infrastructure
+ to 
+mobile devices
+ to the technologies to make them happen. And we partner with carriers and standards bodies to bring the vision to life.
+Learn More
+Learn More
+Innovation
+From the core technologies we design to the exciting ways our customers use our products, Qorvo enables a world of innovation.
+Job Search
+Qorvo hires driven, passionate people who are ready to take risks in order to better connect the world. Explore our opportunities.
+News
+Read the latest news and information from Qorvo.
+Products
+Products
+Applications
+New Products
+Product Compliance
+News & Resources
+Newsroom
+Events & Trade Shows
+Subscription Center
+Design Hub
+Blog
+Brochures
+Videos
+Company
+About Us
+Quality
+Locations
+Innovation
+Careers
+Investors
+简体中文
+Support
+How to Buy
+Support
+Portals
+Contact Us
+Stay Connected
+Newsletter Sign Up  
+RSS
+Feedback
+© 2018 Qorvo, Inc 
+|
+Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
+Privacy Policy
+.
+AcceptOther Items...
+Back to Top
+Print
+Go to "Contact Us" Page
+Qorvo
+Sign In
+How To Buy
+Investors
+Support
+中文
+Buy Online
+Buy from an Authorized Channel Partner
+Buy Direct from Qorvo Sales
+Contact a Sales Representative
+Request a Quote
+Request a Sample
+See All Buying Options
+All Around You
+Entire Site
+Products by Part #
+Products by Description
+Documents
+Entire Site
+Products
+Applications
+Design Hub
+Support
+Innovation
+About Us
+Newsroom
+Careers
+Go to Products
+Amplifiers
+Control Products
+Discrete Transistors
+Filters & Duplexers
+Frequency Converters & Sources
+Integrated Products
+IoT Controllers
+Optical
+Passives
+Switches
+LowDrift™ and NoDrift™ Filters
+Spatium®
+Go to Applications
+Automotive
+Customer Premises Equipment
+Defense and Aerospace
+Internet of Things
+Mobile Products
+Network Infrastructure
+Go to Design Hub
+Block Diagrams
+Design Tools
+Blog
+Brochures
+E-Books
+Published Articles
+Videos
+White Papers
+Go to Support
+How to Buy
+Technical Support
+Samples & Eval Boards
+Product Life Cycle Information
+Supplier Resources
+Subscription Center
+Go to Innovation
+Customer Stories
+Technology
+5G The Future of RF
+Go to About Us
+Executive Leadership
+Board of Directors
+Our History
+Our Communities
+Awards
+Quality
+Corporate Social and Environmental Responsibility
+Locations
+Corporate Resources
+Go to Newsroom
+News
+Media Contacts
+Media Resources
+Newsletters
+Events and Trade Shows
+Go to Careers
+Job Search
+Engineering Careers
+Internships & Recent College Graduates
+Life at Qorvo
+Our Locations
+Top Reasons to Work at Qorvo
+Interviewing at Qorvo
+Recruiting Agencies
+Go to Amplifiers
+CATV Amplifiers
+Driver Amplifiers (
+Gain Block Amplifiers
+High Frequency Amplifiers (> 6 GHz)
+Low Noise Amplifiers (NF < 3 dB)
+Mobile Amplifiers
+Power Amplifiers (> 3 W)
+Variable Gain Amplifiers
+Wi-Fi Network Equipment Amplifiers
+Go to Control Products
+Attenuators
+Limiters
+Phase Shifters
+Programmable Capacitor Arrays
+Go to Discrete Transistors
+GaAs pHEMTs
+GaN HEMTs
+Go to Filters & Duplexers
+Delay Line Filters
+Diplexers
+Duplexers
+IF Filters
+Multiplexers
+Notch Filters
+RF Filters
+Go to Frequency Converters & Sources
+Integrated Synthesizers with Mixers
+Mixers
+Modulators / Demodulators
+Multipliers
+Upconverters / Downconverters
+Go to Integrated Products
+CATV Hybrid Amplifiers
+Defense & Aerospace
+Internet of Things
+Mobile
+Wi-Fi
+Wireless Infrastructure
+Go to Optical
+Bessel Filters & Through Lines
+Modulator Drivers
+Power Amplifiers / Clock Drivers
+Receivers
+Transimpedance Amplifiers
+Go to Passives
+Bessel Filters & Through Lines
+ESD Protection Circuits
+Fixed Attenuators
+Limiters
+Transformers
+Go to Switches
+Antenna Switch Modules
+Discrete Switches
+Diversity Switches
+Go to Defense and Aerospace
+Communications
+Electronic Warfare
+Radar
+Space
+Go to Internet of Things
+Distributed Wi-Fi
+Industrial, Scientific & Medical
+Lifestyle Systems
+Remote Controls
+Smart Energy
+Smart Home
+Go to Mobile Products
+RF Fusion™
+RF Flex™
+Advanced Filter Solutions
+Carrier Aggregation
+Antenna Control Solutions
+Mobile Wi-Fi
+Go to Network Infrastructure
+Broadband Access
+GPS
+Optical
+Point-to-Point Radio
+Satellite Communications
+Wireless Infrastructure
+Go to Design Tools
+Butterworth vs. Chebyshev Bandpass Filter Response
+Cascade Calculator
+dBm-Volts-Watts Conversion
+Key Frequency Bands
+MatchCalc™ RF Design Calculator
+Max Power Reduction Calculator
+Modelithics Qorvo GaN Library
+Noise Figure & Noise Temperature Calculator
+Pad Attenuator (Pi & Tee) Calculator
+PAE / Pdiss / Tj Calculator
+RF Impedance Matching Calculator
+PCB Trace Power Handling Calculator
+VSWR / Return Loss Conversion  
+Go to E-Books
+Connected Car For Dummies®
+5G RF For Dummies®
+Internet of Things For Dummies®
+Carrier Aggregation For Dummies®
+Filters For Dummies®
+GaN For Dummies®
+Go to Customer Stories
+A Look Inside the U.S. Army's Counterfire Radar System
+People Power and Qorvo Deliver Smart Internet of Things Systems
+Qorvo and BQ: How Your Smartphone Connects
+Smart Home Energy Management with Levarys and Qorvo
+Go to Technology
+Advanced Packaging
+Bulk Acoustic Wave (BAW)
+Gallium Nitride (GaN)
+RF Integration
+Go to Quality
+Certifications
+Product Change Notices
+Go to Corporate Social and Environmental Responsibility
+Product Compliance
+Supplier Requirements
+Go to Media Resources
+Management Photos
+Go to Newsletters
+New Product Announcements
+Quarterly Newsletters
+Go to Events and Trade Shows
+Past Trade Shows
+New Products
+Explore the latest additions to our product portfolio.
+Learn More
+New Products
+5G Innovation
+Qorvo is paving a path to 5G.
+Learn More
+Free E-Book: 5G RF For Dummies®
+Get ready for the future of IoT and mobile communication.
+Learn More
+Get in Touch
+Contact Qorvo via phone, email or form.
+Learn More
+GaN Innovation
+Qorvo's GaN technology helps keep you connected and protected.
+Learn More
+Qorvo's Vision
+Our journey for a better, more connected tomorrow.
+Learn More
+Qorvo Blog
+Read the latest RF trends, how-to articles, design tips and more from Qorvo experts.
+Learn More
+Why Qorvo?
+See the top reasons to work at Qorvo.
+Learn More
+About Us
+Awards
+Qorvo has been recognized for our continuous commitment to technology innovation and community service. Below are our most recent awards.
+About Us
+Executive Leadership
+Board of Directors
+Our History
+Our Communities
+Awards
+Quality
+Corporate Social and Environmental Responsibility
+Locations
+Corporate Resources
+Technology
+Corporate
+November 2018
+November 2018
+October 2018
+February 2018
+January 2018
+December 2017
+November 2017
+September 2017
+July 2017
+March 2017
+December 2016
+December 2016
+December 2016
+February 2016
+December 2015
+October 2015
+May 2015
+September 2018
+June 2018
+May 2018
+May 2018
+November 2017
+October 2017
+July 2017
+April 2017
+February 2017
+February 2017
+February 2017
+January 2017
+November 2016
+November 2016
+July 2016
+July 2016
+June 2016
+January 2016
+October 2015
+October 2015
+August 2015
+August 2015
+April 2015
+April 2015
+March 2015
+March 2015
+Products
+Products
+Applications
+New Products
+Product Compliance
+News & Resources
+Newsroom
+Events & Trade Shows
+Subscription Center
+Design Hub
+Blog
+Brochures
+Videos
+Company
+About Us
+Quality
+Locations
+Innovation
+Careers
+Investors
+简体中文
+Support
+How to Buy
+Support
+Portals
+Contact Us
+Stay Connected
+Newsletter Sign Up  
+RSS
+Feedback
+© 2018 Qorvo, Inc 
+|
+Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
+Privacy Policy
+.
+AcceptOther Items...
+Back to Top
+Print
+Go to "Contact Us" Page
+Qorvo
+Sign In
+How To Buy
+Investors
+Support
+中文
+Buy Online
+Buy from an Authorized Channel Partner
+Buy Direct from Qorvo Sales
+Contact a Sales Representative
+Request a Quote
+Request a Sample
+See All Buying Options
+All Around You
+Entire Site
+Products by Part #
+Products by Description
+Documents
+Entire Site
+Products
+Applications
+Design Hub
+Support
+Innovation
+About Us
+Newsroom
+Careers
+Go to Products
+Amplifiers
+Control Products
+Discrete Transistors
+Filters & Duplexers
+Frequency Converters & Sources
+Integrated Products
+IoT Controllers
+Optical
+Passives
+Switches
+LowDrift™ and NoDrift™ Filters
+Spatium®
+Go to Applications
+Automotive
+Customer Premises Equipment
+Defense and Aerospace
+Internet of Things
+Mobile Products
+Network Infrastructure
+Go to Design Hub
+Block Diagrams
+Design Tools
+Blog
+Brochures
+E-Books
+Published Articles
+Videos
+White Papers
+Go to Support
+How to Buy
+Technical Support
+Samples & Eval Boards
+Product Life Cycle Information
+Supplier Resources
+Subscription Center
+Go to Innovation
+Customer Stories
+Technology
+5G The Future of RF
+Go to About Us
+Executive Leadership
+Board of Directors
+Our History
+Our Communities
+Awards
+Quality
+Corporate Social and Environmental Responsibility
+Locations
+Corporate Resources
+Go to Newsroom
+News
+Media Contacts
+Media Resources
+Newsletters
+Events and Trade Shows
+Go to Careers
+Job Search
+Engineering Careers
+Internships & Recent College Graduates
+Life at Qorvo
+Our Locations
+Top Reasons to Work at Qorvo
+Interviewing at Qorvo
+Recruiting Agencies
+Go to Amplifiers
+CATV Amplifiers
+Driver Amplifiers (
+Gain Block Amplifiers
+High Frequency Amplifiers (> 6 GHz)
+Low Noise Amplifiers (NF < 3 dB)
+Mobile Amplifiers
+Power Amplifiers (> 3 W)
+Variable Gain Amplifiers
+Wi-Fi Network Equipment Amplifiers
+Go to Control Products
+Attenuators
+Limiters
+Phase Shifters
+Programmable Capacitor Arrays
+Go to Discrete Transistors
+GaAs pHEMTs
+GaN HEMTs
+Go to Filters & Duplexers
+Delay Line Filters
+Diplexers
+Duplexers
+IF Filters
+Multiplexers
+Notch Filters
+RF Filters
+Go to Frequency Converters & Sources
+Integrated Synthesizers with Mixers
+Mixers
+Modulators / Demodulators
+Multipliers
+Upconverters / Downconverters
+Go to Integrated Products
+CATV Hybrid Amplifiers
+Defense & Aerospace
+Internet of Things
+Mobile
+Wi-Fi
+Wireless Infrastructure
+Go to Optical
+Bessel Filters & Through Lines
+Modulator Drivers
+Power Amplifiers / Clock Drivers
+Receivers
+Transimpedance Amplifiers
+Go to Passives
+Bessel Filters & Through Lines
+ESD Protection Circuits
+Fixed Attenuators
+Limiters
+Transformers
+Go to Switches
+Antenna Switch Modules
+Discrete Switches
+Diversity Switches
+Go to Defense and Aerospace
+Communications
+Electronic Warfare
+Radar
+Space
+Go to Internet of Things
+Distributed Wi-Fi
+Industrial, Scientific & Medical
+Lifestyle Systems
+Remote Controls
+Smart Energy
+Smart Home
+Go to Mobile Products
+RF Fusion™
+RF Flex™
+Advanced Filter Solutions
+Carrier Aggregation
+Antenna Control Solutions
+Mobile Wi-Fi
+Go to Network Infrastructure
+Broadband Access
+GPS
+Optical
+Point-to-Point Radio
+Satellite Communications
+Wireless Infrastructure
+Go to Design Tools
+Butterworth vs. Chebyshev Bandpass Filter Response
+Cascade Calculator
+dBm-Volts-Watts Conversion
+Key Frequency Bands
+MatchCalc™ RF Design Calculator
+Max Power Reduction Calculator
+Modelithics Qorvo GaN Library
+Noise Figure & Noise Temperature Calculator
+Pad Attenuator (Pi & Tee) Calculator
+PAE / Pdiss / Tj Calculator
+RF Impedance Matching Calculator
+PCB Trace Power Handling Calculator
+VSWR / Return Loss Conversion  
+Go to E-Books
+Connected Car For Dummies®
+5G RF For Dummies®
+Internet of Things For Dummies®
+Carrier Aggregation For Dummies®
+Filters For Dummies®
+GaN For Dummies®
+Go to Customer Stories
+A Look Inside the U.S. Army's Counterfire Radar System
+People Power and Qorvo Deliver Smart Internet of Things Systems
+Qorvo and BQ: How Your Smartphone Connects
+Smart Home Energy Management with Levarys and Qorvo
+Go to Technology
+Advanced Packaging
+Bulk Acoustic Wave (BAW)
+Gallium Nitride (GaN)
+RF Integration
+Go to Quality
+Certifications
+Product Change Notices
+Go to Corporate Social and Environmental Responsibility
+Product Compliance
+Supplier Requirements
+Go to Media Resources
+Management Photos
+Go to Newsletters
+New Product Announcements
+Quarterly Newsletters
+Go to Events and Trade Shows
+Past Trade Shows
+New Products
+Explore the latest additions to our product portfolio.
+Learn More
+New Products
+5G Innovation
+Qorvo is paving a path to 5G.
+Learn More
+Free E-Book: 5G RF For Dummies®
+Get ready for the future of IoT and mobile communication.
+Learn More
+Get in Touch
+Contact Qorvo via phone, email or form.
+Learn More
+GaN Innovation
+Qorvo's GaN technology helps keep you connected and protected.
+Learn More
+Qorvo's Vision
+Our journey for a better, more connected tomorrow.
+Learn More
+Qorvo Blog
+Read the latest RF trends, how-to articles, design tips and more from Qorvo experts.
+Learn More
+Why Qorvo?
+See the top reasons to work at Qorvo.
+Learn More
+About Us
+Quality
+Quality matters at Qorvo. Our commitment to customers is to provide quality products and services — every time. 
+We have achieved 
+ISO 9001, ISO 14001, ISO 50001, IATF 16949 and AS9100 certifications
+ that demonstrate our focus on delivering exceptional quality, reliability and performance for our customers.
+Quality at Our Core
+Contact the Quality Team >
+PCN & EOL Alerts
+Learn More >
+Certifications
+Learn More >
+View All
+About Us
+Executive Leadership
+Board of Directors
+Our History
+Our Communities
+Awards
+Quality
+Certifications
+Product Change Notices
+Corporate Social and Environmental Responsibility
+Locations
+Corporate Resources
+Quality Policy
+"Qorvo is committed to providing solutions that meet our customer's quality, reliability and performance requirements. We pursue excellence in the customer experience and continually drive improvement in all that we do."
+Bob Bruggeworth
+Qorvo Corporate Quality, Environmental and Social Responsibility Policy
+ Browse Quality
+Certifications
+Product Change Notices
+Product Compliance
+Products
+Products
+Applications
+New Products
+Product Compliance
+News & Resources
+Newsroom
+Events & Trade Shows
+Subscription Center
+Design Hub
+Blog
+Brochures
+Videos
+Company
+About Us
+Quality
+Locations
+Innovation
+Careers
+Investors
+简体中文
+Support
+How to Buy
+Support
+Portals
+Contact Us
+Stay Connected
+Newsletter Sign Up  
+RSS
+Feedback
+© 2018 Qorvo, Inc 
+|
+Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
+Privacy Policy
+.
+AcceptGet ready for the future of IoT and mobile communication.
+Read the latest RF trends, how-to articles, design tips and more from Qorvo experts.
+Deep Roots in Core Technologies
+For more than 30 years, Qorvo has been all around you. We've been innovating, researching, developing and acquiring cutting-edge technologies that shape the world as you know it.
+Regardless of the route to becoming Qorvo, the mission has always remained the same: to drive connectivity, no matter the technology. From the start of RF Micro Devices (RFMD) in 1991, TriQuint in 1985, and dating back to roots in Tektronix, Texas Instruments, Raytheon and Watkins-Johnson, we've helped send rockets to Mars, connected you with your family and friends through cell phones, and brought satellite radio to your car.
+Here are a few of the milestones that got us where we are today, and where Qorvo will help take you tomorrow.
+First Offering for Smart Home Lighting
+We partnered with LEEDARSON to launch a family of smart home lighting solutions that support multiple standards for the IoT.
+Qorvo Wins Prestigious GTI Award for 5G RF Front End
+Qorvo’s QM19000 , the world’s first 5G RF front end, was named “Innovative Breakthrough in Mobile Technology” by the Global TD-LTE Initiative (GTI). QM19000 supports 5G testing and enables early 5G deployments.
+5G Trial at 2018 Winter Olympics
+Qorvo’s 28 GHz products supported the Samsung 5G MIMO demo at the 2018 Winter Olympics in PyeongChang.
+Industry's First 5G RF Front End
+Qorvo announces a breakthrough 5G RFFE, QM19000 , developed in close collaboration with a global chipset provider.
+Qorvo CEO Joins SIA Board
+Qorvo CEO Bob Bruggeworth is elected to the board of directors of the Semiconductor Industry Association (SIA), which represents U.S. leadership in semiconductor manufacturing, design and research.
+November 11, 2016
+New Qorvo.com Released
+Qorvo launches its integrated website, providing a unified product catalog and an expanded Design Hub.
+Qorvo Acquires IoT Solution Provider GreenPeak Technologies
+Adds ultra-low power, short range wireless offerings for the connected home and Internet of Things to our expanding RF portfolio.
+GaN on SIC on 6-Inch Wafers
+Qorvo scales the manufacturing of GaN on silicon carbide (GaN on SiC) MMICs from 4-inch to 6-inch wafers, poising the company to double GaN manufacturing capacity
+New Horizons Sends Pictures from Pluto
+The Qorvo-enabled New Horizons spacecraft makes its closest approach to Pluto, sending the world’s first photographs from three billion miles away.
+March 2, 2015
+RF Flex™ Introduced
+Qorvo unveils RF Flex™, integrated front-end solutions to improve the performance and simplify the design of 4G LTE smartphones.
+First Day of Qorvo
+Qorvo, Inc.’s doors open, bringing together all the critical RF building blocks needed to simplify design, reduce size and conserve power for mobile, infrastructure and aerospace/defense applications.
+Agreement to Merge Under Name Qorvo®
+TriQuint and RFMD announce an agreement to merge and operate under a new name as Qorvo with a goal to deliver the core RF technologies and innovation that enable customers to accelerate their next-generation designs.
+February 24, 2014
+RF Fusion™ Introduced
+RFMD introduces RF Fusion™ — a complete RF front-end solution for global 4G world phones and tablets that integrates all major transmit and receive RF functionality from the transceiver to the antenna.
+First and Only Manufacturer to Achieve MRL 9 for GaN
+TriQuint is the first and only gallium nitride (GaN) RF chip manufacturer to achieve the U.S. Department of Defense’s Manufacturing Readiness Level 9.
+First Envelope Tracking Power Amplifiers for Mobile Devices
+RFMD is the first to market the envelope tracker + multi-mode multi-band PA (MMPA) system solution.
+Expanded Network Infrastructure and Defense Opportunities
+TriQuint acquires CAP Wireless and its Spatium® technology, which replaces traveling wave tube amplifiers (TWTAs). As a result, network infrastructure and defense market opportunities expand.
+CMOS PAs Added to Portfolio
+RFMD acquires Amalfi Semiconductor to add CMOS PAs to its RF front-end offerings.
+Mission to Mars: Curiosity
+The TriQuint-enabled Mars Curiosity rover lands safely on Mars, marking the beginning of NASA’s most ambitious Mars mission.
+GaN Research Contract Awarded
+TriQuint awarded nearly $20 million in defense contracts to further research in GaN and other high-performance technologies.
+2010
+2009
+TriQuint acquires TriAccess Technologies, which expands its cable product line and Fiber to the Home products.
+RFMD implements gallium nitride (GaN) in cable TV infrastructure products.
+2008
+TriQuint receives the U.S. Department of Defense accredited Category 1A "Microelectronics Trusted Source." This is the Department’s highest designation, which certifies that TriQuint’s products, processes and procedures meet stringent control and secure handling standards.
+RFMD acquires Filtronic Compound Semiconductors to add GaAs pHEMT technology.
+2008
+RFMD adds voltage-controlled oscillators (VCOs) for wireless and infrastructure applications through its acquisition of Universal Microwave Corporation.
+2007
+GreenPeak Technologies Forms
+IoT solution provider GreenPeak Technologies forms through the merger of Xanadu Wireless and Ubiwave, creating a leader in battery-free communication technology for wireless sense and control applications. Qorvo acquires GreenPeak in 2016.
+2007
+RFMD strengthens its infrastructure offering through acquisition of Sirenza Microdevices.
+2006
+First with Integrated RF Shielding
+RFMD ships components with integrated RF shielding, which can eliminate the need for bulky and costly external shields.
+2005
+Communication Received From Huygens Probe on Saturn’s Moon, Titan
+TriQuint enabled communication included data and a photo of Titan's surface.
+Record Set with PAs Shipped
+RFMD becomes the first company to ship 1 billion power amplifiers.
+2004
+BAW Expansion
+TriQuint acquires TFR Technologies in Bend, Oregon, to expand its bulk acoustic wave (BAW) expertise. 
+2001
+SAW Capabilities Added
+TriQuint merges with Sawtek in Orlando, Florida, adding surface acoustic wave (SAW) filter capabilities.
+2001
+Expansion into GaN
+RFMD acquires RF Nitro Communications, to expand into gallium nitride (GaN) technologies.
+2001
+Design Center for Wireless
+TriQuint opens its Munich, Germany design center through acquisition of Infineon’s GaAs business. 
+2000
+1998
+TriQuint acquires Texas Instruments’ GaAs Monolithic Microwave Integrated Circuit (MMIC) business and Raytheon Defense Systems and Electronics Group.  
+1997
+Cassini-Huygens Launches
+The Cassini–Huygens spacecraft, equipped with TriQuint’s RF devices, launches its mission to Saturn. 
+1997
+June 3, 1997
+RFMD Goes Public
+RFMD becomes a public company through a successful initial public offering (IPO).
+1996
+First BAW Products Shipped
+TFR Technologies, which later becomes TriQuint’s manufacturing and design center in Bend, Oregon, ships its first BAW products and emerges as the world's sole supplier for defense and test instrument customers.
+1993
+RFMD designs the first HBT-based power amplifier for cellular phones.
+1992
+Visionaries in high-performance radio frequency (RF) founded RFMD to design and manufacture solutions for mobility, connectivity and enhanced functionality for mobile devices.
+1991
+Merger of GaAs Leaders
+GaAs pioneers Gazelle Microcircuits, Gigabit Logic and TriQuint merge under the TriQuint Semiconductor name.
+1989
+1985
+TriQuint Forms as Tektronix Spinoff
+A group of talented engineers founds TriQuint as a spinoff of Tektronix to research and develop the use of GaAs for high-performance wireless applications.
+1985
+The Name Game
+TriQuint name is conceived after an engineer wins a $50 contest for using the periodic table to name the 3-5 company.
+1973
+Motorola's Martin Cooper, pioneer and visionary in the wireless communications industry, places the world's first mobile phone call.
+Dean A. Watkins and H. Richard Johnson form Watkins-Johnson Company (WJ,) a leader in semiconductor-manufacturing equipment and electronic products for the wireless-telecommunications and defense industries. TriQuint acquires WJ in 2008.
+Innovation
+From the core technologies we design to the exciting ways our customers use our products, Qorvo enables a world of innovation.
+News
+Applications
+Qorvo products power a wide variety of applications across mobile, infrastructure, connectivity, defense/aerospace and more.
+close
+Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our Privacy Policy .
+Accept

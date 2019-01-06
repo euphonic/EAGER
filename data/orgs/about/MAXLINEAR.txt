@@ -1,0 +1,119 @@
+This website uses cookies
+By clicking Accept, you consent to MaxLinear's  privacy, cookie, and other policies  associated with the use of our site.
+Unclassified (5)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+maxlinear.com
+Stores the user's cookie consent state for the current domain
+1 year
+HTTP
+CFID
+maxlinear-hr.silkroad.com
+This cookie is used in context with the CFtoken cookie. The cookie stores a specific ID for the visitor and the visitor's device and browser.
+Session
+HTTP
+CFTOKEN
+maxlinear-hr.silkroad.com
+This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted. This information is stored in the CFID cookie.
+Session
+HTTP
+JSESSIONID
+maxlinear-hr.silkroad.com
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+_ceg.s
+maxlinear.com
+Used by the service Crazy Egg to register where the visitor clicks on the website. The cookie enables the service to recognize the visitor on returning visits.
+3 months
+HTTP
+_ceg.u
+maxlinear.com
+Used by the service Crazy Egg to register where the visitor clicks on the website. The cookie enables the service to recognize the visitor on returning visits.
+3 months
+HTTP
+_ga
+maxlinear.com
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+HTTP
+_gid
+maxlinear.com
+Registers a unique ID that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+ATN
+atdmt.com
+2 years
+HTTP
+s
+gtrk.s3.amazonaws.com
+This cookie is used to collect information on a visitor. This information will become an ID string with information on a specific visitor – ID information strings can be used to target groups with similar preferences, or can be used by third-party domains or ad-exchanges.
+Session
+Pixel
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+u
+gtrk.s3.amazonaws.com
+Pending
+Session
+Pixel
+BigIPCookie
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+ENABLEEPOSTINGSCACHE
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+jobApplyInfo
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+SEARCHURL
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 06/12/2018 by Cookiebot
+MaxLinear was founded in 2003. The company’s original high performance, radio-frequency receiver products capture and process digital and analog broadband signals for applications including terrestrial, cable and satellite television and DOCSIS broadband. These products include both RF receivers and RF receiver systems-on-chip, or SoCs, which incorporate highly integrated radio system architecture and demodulator technology. The company’s products were based on its pioneering low power, low cost CMOS process technology.
+In 2015, the company acquired Entropic, the world leader in semiconductor solutions for the connected home. Entropic pioneered multimedia over coax (MoCA) home networking technology. The company’s technology transforms how traditional broadcast and IP streaming video is seamlessly, reliably, and securely delivered, processed, and distributed into and throughout the home.
+MaxLinear also offers optical networking driver and trans-impedance amplifier ICs for 100G / 400G optical data center networks. The devices use advanced technology that cut in half the number of channels needed in optical transmission modules, reducing power consumption, size and cost for 100Gbps and 400Gbps networks.
+MaxLinear technology is trusted by leading telephone, cable and satellite operators, set-top box manufacturers, networking equipment providers and consumer technology providers.
+Find out more about MaxLinear’s impact on broadband and networking industries at the Our Difference page.

@@ -1,0 +1,1019 @@
+Microsemi
+Quality
+Investors
+Sales Contacts
+Parametric Search
+Login
+Registered Users & Partners
+Audio, Voice, and Line Circuits Support Cases
+Audio, Voice, and Line Circuits Software
+Audio, Voice, and Line Circuits Documents
+Ethernet Switches, PHYs, Software, Crosspoint Switches & Signal Conditioners Documents
+FPGAs & SoCs Documents, Support Cases and Software Licenses
+Low Power Radios Software and Support Cases
+MyMicrosemi Partner Portal
+OTN Processors Documents and Software
+PoE Support Cases
+PoE Collateral
+PON/FTTH - EPON & GPON Documents & Software
+Storage ICs Documents and Software
+Timing ICs Software and Support Cases
+Timing ICs Documents
+Timing & Synchronization Systems Documents, Software and Support Cases
+Winpath Network Processors Documents, Software and Support Cases
+Products & Services
+Products
+Audio & Voice
+Circuit Protection
+Drivers, Interfaces, and PCIe Switches
+Ethernet and PoE Solutions
+FPGA & SoC
+High-Reliability
+Optical Networking
+Power Discretes & Modules
+Power Management
+RF, Microwave & Millimeter Wave
+Storage Solutions
+Timing & Synchronization
+Services
+ASIC Design Services
+FPGA & SoC Services
+Module & Hybrid Design Services
+Package Miniaturization Services
+Rugged Power Supply Design Services
+Synchronization Services
+New Product
+PolarFire FPGA Family
+Cost-optimized lowest power mid-range FPGAs
+250 Mbps to 12.7 Gbps transceivers
+100K to 500K LE, up to 33 Mbits of RAM
+Best-in-class security and exceptional reliability
+Learn More
+Applications
+Automotive
+Advanced Driver Assist Systems (ADAS)
+Body Electronics
+Infotainment
+Powertrain & EV Charging
+Commercial Aviation
+Actuation Systems
+Cabin Management System
+Cockpit Avionics
+Engine Systems & Controls
+RF & Microwave Systems
+Communications
+5G / Mobile Infrastructure
+Broadband Home / CPE
+Broadcast Video
+Converged Access Network
+Enterprise Infrastructure
+Metro / Core / DCI Network
+Data Centers
+Data Center Data Protection & Security
+Machine Learning Appliances
+Motherboard & Rack Infrastructure 
+NVMe Storage
+Rack Scale Design
+Storage Servers
+Storage Systems
+Defense
+Integrated Vehicle Systems
+Military Communications
+Radar Electronic Warfare
+Industrial
+HMI (Human Machine Interface)
+Industrial Ethernet Networking
+Industrial Imaging
+More Industrial Applications
+Motor Control
+Physical Security
+Programmable Logic Control
+Safety Heritage
+Smart Energy
+Test, Scientific and Measurement
+Medical
+Medical Imaging
+Medical Instrumentation
+Medical-Implantable/Ingestible
+Medical-Wearable Wireless
+Space
+Attitude & Orbit Control
+Digital Communications Payload
+Electrical Power Systems
+Remote Sensing Payload
+Telemetry Tracking & Control
+Transparent RF Transponder
+System Solutions
+Education
+Financial Services
+Government
+Healthcare
+Oil & Gas
+Power Utilities
+Retail
+Stadiums-Arenas
+Transportation
+Ordering
+How to Buy
+Available Stock Search
+Order Status
+Request a Quote or Samples
+Sales Contacts
+Company
+Company
+About Us
+Acquisitions
+Aviation Center Of Excellence
+Awards
+Blog
+Careers
+Corporate Contacts
+Events
+In the News
+Investors
+Locations
+Press Releases
+Quality
+Technology
+Terms and Conditions
+Terms of Use
+Partners
+Accelerate Ecosystem Partners
+Intellectual Property Partners
+Reference Design Partners
+Technology Partners
+Empower Channel Partners
+Find a Channel Partner
+Become a Channel Partner
+Partner Portal Login
+Solution Partners
+Compatible PoE Devices
+Storage Cards Compatibility Reports
+SyncWorld 
+Support
+Documents and Resources
+Compatibility Reports (Storage Cards)
+Compatible Devices (PoE)
+Development Tools & Software
+Knowledge Base (Ethernet and Signal Integrity)
+Knowledge Base (FPGA & SoC)
+Knowledge Base (Storage Cards)
+Product Notifications
+Technical Articles
+Design Support
+FPGA & SoC Support
+Microsemi Adaptec RAID/HBA Support
+Power, Small Signal and Protection Discretes Support
+Timing Systems Support
+Contact Support
+General Inquiries
+Product Inquiries
+Product Portals
+Audio & Voice Portal
+Ethernet and Signal Integrity Portal
+FPGA & SoC Portal
+MyMicrosemi Partner and Customer Portal
+Optical Networking Portal
+Storage ICs Portal (SAS/SATA & Switchtec PCIe Switches)
+Timing ICs Portal
+Timing Systems and Components Portal
+Quality & Packaging
+Packaging Information
+Quality
+Returns
+FPGA & SoC RMA
+PoE Injectors, Midspans and Switches RMA
+Storage Cards RMA
+Timing Systems RMA
+Training
+FPGA & SoC Training
+FPGA & SoC Webcasts
+Timing Systems Webcasts
+Home
+Awards
+2018 Leading Lights 'Outstanding Components Vendor' (Winner)
+Microsemi was honored as the 2018 Outstanding Components Vendor by 
+Light Reading
+ at their annual Leading Lights Awards program. Now in its 14th year, Leading Lights is one of the communications industry’s leading awards programs, recognizing top companies and executives for their outstanding achievements in next-generation communications technology, applications, services, strategies, and innovations. Microsemi's 
+DIGI-G5 OTN processor
+ was also honored as a finalist in the 'Most Innovative Telecoms Product' category. 
+>> more
+2018 SIA New Product Showcase Award (Winner)
+Microsemi was a recipient of the Security Industry Association's (SIA) New Product Showcase (NPS) award for its network-ready, highly accurate and secure SyncServer S80 server. The device integrates a GPS antenna, receiver and Network Time Protocol (NTP) timing server into a single ruggedized, environmentally hardened unit. IP66-rated, the SyncServer S80 server is ideal for outdoor installations with physical security systems. The SIA recognized Microsemi and other winners on April 11 during an awards ceremony at ISC West 2018, North America's largest physical security tradeshow, in Las Vegas. 
+>> more 
+2017 CEM Editor's Choice Award (Winner)
+Microsemi's PolarFire® field programmable gate array (FPGA) family was the recipient of China Electronic Market (CEM) magazine's 2017 Editor's Choice Award. Microsemi's lowest power, cost-optimized FPGA family was recognized as the "most competitive FPGA product for 2017" based on brand influence, market share, technological innovation, product services and unique features. The annual Editor's Choice Awards evaluate product entries' brand recognition, adoption successes in the market, as well as unique capabilities and features. CEM magazine recognized Microsemi and other award winners on April 10 during an awards ceremony at the China Information Technology Expo (CITE) in Shenzhen, China. 
+>> more 
+2017 Electronic Products China and 21ic.com (Product of the Year)
+Microsemi was honored with a "2017 Product of the Year" award from Electronic Products China (EPC) and 21ic.com for its lowest power, cost-optimized mid-range PolarFire® field programmable gate array (FPGA). The editorial teams at EPC and 21ic jointly screened and selected the 20 best products from more than 100 product launch announcements they received throughout the year. The winners were selected on the basis of outstanding performance of the product, specifically on technology and features, usability and how the product meets the needs and requirements of related applications in the market. 
+>> more 
+2017 Electronic Products (Product of the Year)
+Microsemi was honored with the Product of the Year award from 
+Electronic Products
+ for our mid-range 
+PolarFire FPGA
+. Now in its 42nd year, the annual awards program recognizes the industry's best new products. Electronic Products undertook a rigorous vetting process of products launched in 2017. The winners were selected on the basis of innovative design, significant advancement in technology or application, and substantial achievement in price and performance. Microsemi's PolarFire FPGA was recognized for delivering the industry's first non-volatile mid-range FPGA with tangible power and cost benefits over SRAM FPGAs featuring 12.7 Gbps transceivers. 
+>> more 
+2017 Elektra Awards (Winner)
+Microsemi’s 
+AcuEdge Development Kit
+ for the Amazon Alexa Voice Service took top honors in the ‘Internet of Things Product Innovation’ category during the 
+Elektra Awards
+ December 8th at the Grosvenor House Hotel in London. “A clear winner that will help to drive development in this fast-growing market,” said one judge. This new solution delivers enhanced audio processing to improve voice recognition rates in adverse audio environments for emerging human to machine (H2M) applications in the internet of things (IoT), industrial internet of things (IIoT) and automated assistance markets. The kit enables developers to evaluate and incorporate Alexa functionality in H2M applications, while interfacing with the Microsemi 
+Timberwolf ZL38063
+ multi-mic audio processor. 
+>> more
+2017 Elektra Awards (Finalist in four categories)
+Microsemi was honored to be named a finalist in four categories at the 
+Elektra Awards
+ by an esteemed panel of judges: Semiconductor Product of the Year – Digital (
+PolarFire FPGA
+), Design Tools and Development Software (
+SoftConsole v5.1 IDE
+), Design Team of the Year (
+PolarFire FPGA
+ Design Team), and Internet of Things Product Innovation: 
+AcuEdge Development Kit
+for Amazon Alexa Voice Service. Our AcuEdge Development Kit was announced as the IoT Product Innovation winner at the Elektra Awards dinner on December 8th at the Grosvenor House Hotel in London. (see above)
+2017 WalesOnline Digital Awards (Finalist)
+Microsemi was honored as a finalist in the ‘Best Digital Hardware’ category for a WalesOnline Digital Award for our MICS-Band RF Miniaturized Standard Implant Module (
+MiniSIM
+), used in implantable medical devices. The module is small and is designed to provide good performance while consuming very little power. Its applications include pacemakers, implantable defibrillators, neurostimulators, cardiac implantable loop recorders, sensors and diagnostic devices, drug pumps, physiologic monitors and short-range body area network applications.  
+>> more
+2017 Leading Lights (Finalist)
+Microsemi was honored to be a finalist for ‘Outstanding Components Vendor’ in the 2017 
+Leading Lights Awards
+. The awards program, hosted by Light Reading, recognizes components vendors that stand out from their competitors, innovate constantly, help set the industry trends, make investors proud, and make employees happy. Now in its thirteenth year, the Leading Lights award features Light Reading's reputation for fiercely independent analysis, making it one of the most credible and authoritative awards programs in the communications sector.  
+>> more
+2017 CEM Editors’ Choice (Winner)
+Microsemi was honored as a recipient of the China Electronic Market (CEM) magazine's 2016 Editor's Choice Award for its leading-edge 
+Adaptec Series 8E RAID Adapter
+ devices. Microsemi's product family was recognized as the "most competitive interconnect and interface product in China for 2016" based on brand influence, market share, technological innovation, product services and unique features. Founded in 1995, CEM magazine covers new products, technical and market trends and market data of the electronics industry. Its annual Editor's Choice Awards evaluate product entries' brand recognition, adoption successes in the market, as well as unique capabilities and features.
+M2M Network Equipment Company of the Year (Winner)
+Microsemi won an 
+IoT Breakthrough Award
+ for developing innovative products and solutions which enable both wired and wireless connectivity among devices in machine-to-machine (M2M) environments. The company's 
+Ethernet and Power-over-Ethernet (PoE) products
+ enable faster market adaptation of new IoT applications, and its systems product portfolio provides unique solutions to M2M network challenges while offering cost-efficient and simple upgrade procedures. 
+>> more
+2016 GSA Awards (Winner)
+Microsemi was honored with the ‘Analyst Favorite’ Semiconductor Company award presented by Needham & Company at the 
+Global Semiconductor Alliance (GSA)
+ Awards Dinner Celebration event. The annual awards program recognizes companies that have demonstrated excellence through their vision, strategy, execution and future opportunity. Microsemi was specifically recognized for its impressive growth and successful transformation of its business over the past several years. 
+>> more
+ (
+video highlights
+) 
+EDN Hot 100 Products of 2016 (RF, Wireless & Networking)
+Microsemi’s 
+ZL70550 Low Power Sub-gigahertz Radio Transceiver
+ was named one of EDN’s Hot 100 products of 2016. The ZL70550 can be used for wireless applications operating on coin-cell batteries or energy harvesters, such as electronic shelf labels, retail asset tracking, process control, wearable monitoring, and medical diagnostics. EDN’s Hot 100 were selected by readers and editors, and cover everything from health sensors and scopes to microphones and fanless computers. The EDN Network is an electronics community for engineers, by engineers.
+2016 Huawei Best Quality Partner Award
+Microsemi was honored to receive Huawei Technologies Co. LTD's "Best Quality Partner Award." Huawei, a leading global information and communications technology (ICT) solutions provider and long-time customer of Microsemi, recognized the company for its commitment to 
+quality
+, exceptional customer support and continued efforts in delivering excellence to its customers at Huawei's 2016 Core Partner Convention in Shenzhen, China. 
+>> more
+2016 Elektra Awards (Finalist)
+Microsemi was named a finalist in three categories at the 2016 Elektra Awards: “Excellence in Product Design for High-Reliability Systems” (
+Microsemi rugged power module for embedded applications
+), “Design Tools and Development Software” (
+Libero SoC Design Suite
+) and “Semiconductor Product of the Year – Analogue” (
+ZL70550 Low Power Sub-gigahertz Radio Transceiver
+). The Elektra European Electronics Industry Awards are the high point of the year for the European electronics industry and celebrate the achievements of individuals and companies across Europe.
+2016 ECN Impact Awards (Finalist)
+Microsemi’s 
+ZL70550 Low Power Sub-gigahertz Radio Transceiver
+ was honored as a finalist in the ‘Medical Device Design’ category at the 2016 ECN Impact Awards. ECN has a legacy heavily steeped in recognizing the best products on the market for engineers and companies, and the tradition continues today in print and online. These awards reward the best products available in the field today and establish a standard of excellence for years to come. 
+>> more 
+2016 ESTnet Innovative Product of the Year Award (Winner)
+Microsemi was honored to win a 2016 Electronic and Software Technologies Network (ESTnet) Innovative Product or Software Application Award for its 
+MiniSIM ZL70323
+, a miniaturized radio module for 
+implantable medical devices
+. Recognized by Wales-based ESTnet during its annual awards ceremony, the winning application was based on Microsemi's 
+embedded die technology
+, which was leveraged to produce the unique new radio module. 
+>> more
+ (
+video highlights
+)
+FiberHome Best Support Award (Winner)
+Microsemi’s OTN China Applications Team was honored by FiberHome Telecommunication Technologies Co. LTD's annual "Best Support Award." FiberHome, a leading Chinese OTN switching product manufacturer and solution provider, recognized the 
+Microsemi DIGI
+ customer support team for its exceptional technical skills, as well as its collaborative approach by serving as an extension of FiberHome's research and development team focused on accelerating new platform introductions which enable mass deployment of OTN switching in China. 
+>> more
+2016 Leading Lights Awards (Finalist)
+Microsemi’s 
+DIGI-G4 OTN processor
+with integrated encryption engine was honored as a 2016 Leading Lights Award finalist in the “Most Innovative Security Strategy (Vendor)” category. The Leading Lights program focuses on next-generation communications technologies, applications, services and strategies, and rewards the companies and individuals that have performed well during the past year. 
+>> more
+2016 OC Tech Alliance High-Tech Award (Finalist)
+Microsemi's 
+PDS-104GO outdoor Power-over-Ethernet (PoE) switch
+ was honored as a finalist in the Enterprise Hardware & Devices category at the 2016 OC Tech Alliance High-Tech Awards. Representing an entirely new class of outdoor PoE switches, the PDS-104GO enables the connection of 4 powered devices to the network such as an outdoor WLAN, outdoor IP Camera, and outdoor P2P radio. 
+>> video highlight
+2016 ChannelPro Readers’ Choice Award
+Microsemi was honored as the Silver winner for 
+Best SATA/SAS RAID Controller
+ in the 2015 ChannelPro Readers' Choice Awards. The awards program recognizes the vendors, distributors, and professional organizations with the most SMB- and partner-friendly solutions, services, or programs in the channel today. For each category, readers identify the option that best satisfies the unique business requirements, work styles, and budgets of their small and midsize business clients, as well as those that best serve their own partner organizations. 
+>> more
+2016 SIA New Product Showcase Award (Winner)
+Microsemi won the Security Industry Association's (SIA) 
+New Product Showcase (NPS)
+ Best Network Support Solution Award for its 
+PDS-104GO outdoor Power-over-Ethernet (PoE) switch
+, enabling the connection of multiple powered devices to a network. The solution was recognized for demonstrating the most impressive technological advances in its category, providing customers greater flexibility, longer networks, plug-and-play installation and outdoor deployment functionality.
+2015 EDN China Innovation Award (Best Product)
+Microsemi won EDN China's 2015 Innovation Award for "Best Product" in the Telecom & Networking category for our 
+SimpliPHY VSC8502
+ Dual Port GbE Copper PHY with Synchronous Ethernet and RGMII/GMII Interface. This solution offers the smallest package, lowest pin count, and lowest power/port dual-port Gigabit Ethernet (GbE) PHY with Synchronous Ethernet. Microsemi and other winners were announced on June 25, 2015, during an awards ceremony in Shanghai. 
+>> more
+2015 OC Tech Alliance Innovation Awards (Best Company)
+Microsemi was recognized as the "Public Outstanding Technology Company" by OC Tech Alliance for its successful product developments, financial accountability and industry leadership. The company was also acknowledged for its culture of innovation, successful growth through a combination of organic growth and strategic acquisitions, and its focus on solving the most difficult and hot-button industry challenges. 
+>> more
+2015 OC Tech Alliance Innovation Awards (Winner)
+Microsemi's leading-edge 
+GNSS master synchronization solution
+ won an award in the "Enterprise Hardware & Device" category due to its solid revolutionary advancements in technology which demonstrate clear and real benefits for users that go far beyond evolutionary product feature enhancements. With technologies that advance today's state-of-the-art offerings, the device demonstrated a high level of innovation and benefit to users and the world. 
+>> more
+2015 ChannelPro Readers’ Choice Award
+Microsemi was honored as the Gold winner for 
+Best SATA/SAS RAID Controller
+ in the 2015 ChannelPro Readers' Choice Awards. The awards program recognizes the vendors, distributors, and professional organizations with the most SMB- and partner-friendly solutions, services, or programs in the channel today. For each category, readers identify the option that best satisfies the unique business requirements, work styles, and budgets of their small and midsize business clients, as well as those that best serve their own partner organizations. 
+>> more
+European Commission's Innovation Award Competition (Winner)
+Microsemi and its collaborators were the first recipients of the 
+European Commission's Innovation Award Competition
+ for the Smart Silicon-on-Insulator Sensing Systems Operating at High Temperature (
+SOI-HITS
+) FP7 research project. The organization's Innovation Award Competition is open to teams involved with FP7 projects from the area of "micro/nanoelectronics" or "smart system integration" that demonstrate significant importance for the European economy and the EU citizens. 
+>> more
+2014 DesignVision Award (Winner)
+Microsemi’s 
+ZL30169 OTN clock translator
+ received the 2014 Product of the Year award from Electronic Products China and 
+, a leading business publication for electronics engineers, and the most influential website among Chinese electronic engineers, respectively. Microsemi’s ZL30169 line card device features the ultra-low jitter performance necessary to support 100G coherent technology. The highly flexible ZL30169 line card device also provides a broader range of client rate support, helping developers meet stringent design requirements. 
+>> more
+2014 OC Tech Alliance Outstanding CEO in Technology (Winner)
+James J. Peterson, Microsemi’s chairman and CEO, was the recipient of the Orange County Technology Alliance's "Outstanding CEO in Technology" award. The organization's 21st Annual High-Tech Innovation Awards celebrate excellence and achievement in the region's technology industry, honoring local companies, individuals, and products that drive innovation in Orange County, California. Peterson was recognized for his ability to instill a culture of innovation, collaboration, and discipline at Microsemi, which have helped the company achieve numerous technological breakthroughs under his leadership. 
+>> more
+2014 Elektra Award (Winner)
+Microsemi's DC-powered 
+Power-over-Ethernet (PoE) midspans
+ won the "The Renewable Energy Design Award" in the Exceptional Technical Innovation category at the 2014 Elektra European Electronics Industry Awards. Microsemi's PoE midspans substantially improve the cost and efficiency of deployment of small cells and other DC powered deployments, as utilizing energy from solar panels or in telecom locations often requires this type of power and voltage. 
+>> more
+ (
+video highlights
+)
+Company
+About Us 
+Acquisitions
+Aviation Center Of Excellence
+Awards
+Blog
+Careers
+Corporate Contacts
+Events
+In the News
+Investors
+Locations
+Press Releases
+Quality
+Technology
+Terms and Conditions
+Terms of Use
+Products
+ | 
+Applications
+ | 
+Company
+ | 
+Careers
+ | 
+Investors
+ | 
+Survey
+ | 
+Privacy Policy
+ | 
+Terms & Conditions
+ | 
+Product Disclaimer
+ | 
+Terms of Use
+ | 
+Blog
+ | 
+Our website uses cookies (including profiling cookies of authorised third parties) to give you a better browsing experience, and by continuing to use our site you accept our cookies policy. Find out more on how we use cookies and how you can change your settings by clicking 
+here
+.
+© 2018 Microsemi, a wholly owned subsidiary of Microchip Technology Inc. All rights reserved. 
+Microsemi and the Microsemi logo are registered trademarks of Microsemi Corporation. All other trademarks and service marks are the property of their respective owners.
+Stay Informed
+✚Microsemi
+Quality
+Investors
+Sales Contacts
+Parametric Search
+Login
+Registered Users & Partners
+Audio, Voice, and Line Circuits Support Cases
+Audio, Voice, and Line Circuits Software
+Audio, Voice, and Line Circuits Documents
+Ethernet Switches, PHYs, Software, Crosspoint Switches & Signal Conditioners Documents
+FPGAs & SoCs Documents, Support Cases and Software Licenses
+Low Power Radios Software and Support Cases
+MyMicrosemi Partner Portal
+OTN Processors Documents and Software
+PoE Support Cases
+PoE Collateral
+PON/FTTH - EPON & GPON Documents & Software
+Storage ICs Documents and Software
+Timing ICs Software and Support Cases
+Timing ICs Documents
+Timing & Synchronization Systems Documents, Software and Support Cases
+Winpath Network Processors Documents, Software and Support Cases
+Products & Services
+Products
+Audio & Voice
+Circuit Protection
+Drivers, Interfaces, and PCIe Switches
+Ethernet and PoE Solutions
+FPGA & SoC
+High-Reliability
+Optical Networking
+Power Discretes & Modules
+Power Management
+RF, Microwave & Millimeter Wave
+Storage Solutions
+Timing & Synchronization
+Services
+ASIC Design Services
+FPGA & SoC Services
+Module & Hybrid Design Services
+Package Miniaturization Services
+Rugged Power Supply Design Services
+Synchronization Services
+New Product
+PolarFire FPGA Family
+Cost-optimized lowest power mid-range FPGAs
+250 Mbps to 12.7 Gbps transceivers
+100K to 500K LE, up to 33 Mbits of RAM
+Best-in-class security and exceptional reliability
+Learn More
+Applications
+Automotive
+Advanced Driver Assist Systems (ADAS)
+Body Electronics
+Infotainment
+Powertrain & EV Charging
+Commercial Aviation
+Actuation Systems
+Cabin Management System
+Cockpit Avionics
+Engine Systems & Controls
+RF & Microwave Systems
+Communications
+5G / Mobile Infrastructure
+Broadband Home / CPE
+Broadcast Video
+Converged Access Network
+Enterprise Infrastructure
+Metro / Core / DCI Network
+Data Centers
+Data Center Data Protection & Security
+Machine Learning Appliances
+Motherboard & Rack Infrastructure 
+NVMe Storage
+Rack Scale Design
+Storage Servers
+Storage Systems
+Defense
+Integrated Vehicle Systems
+Military Communications
+Radar Electronic Warfare
+Industrial
+HMI (Human Machine Interface)
+Industrial Ethernet Networking
+Industrial Imaging
+More Industrial Applications
+Motor Control
+Physical Security
+Programmable Logic Control
+Safety Heritage
+Smart Energy
+Test, Scientific and Measurement
+Medical
+Medical Imaging
+Medical Instrumentation
+Medical-Implantable/Ingestible
+Medical-Wearable Wireless
+Space
+Attitude & Orbit Control
+Digital Communications Payload
+Electrical Power Systems
+Remote Sensing Payload
+Telemetry Tracking & Control
+Transparent RF Transponder
+System Solutions
+Education
+Financial Services
+Government
+Healthcare
+Oil & Gas
+Power Utilities
+Retail
+Stadiums-Arenas
+Transportation
+Ordering
+How to Buy
+Available Stock Search
+Order Status
+Request a Quote or Samples
+Sales Contacts
+Company
+Company
+About Us
+Acquisitions
+Aviation Center Of Excellence
+Awards
+Blog
+Careers
+Corporate Contacts
+Events
+In the News
+Investors
+Locations
+Press Releases
+Quality
+Technology
+Terms and Conditions
+Terms of Use
+Partners
+Accelerate Ecosystem Partners
+Intellectual Property Partners
+Reference Design Partners
+Technology Partners
+Empower Channel Partners
+Find a Channel Partner
+Become a Channel Partner
+Partner Portal Login
+Solution Partners
+Compatible PoE Devices
+Storage Cards Compatibility Reports
+SyncWorld 
+Support
+Documents and Resources
+Compatibility Reports (Storage Cards)
+Compatible Devices (PoE)
+Development Tools & Software
+Knowledge Base (Ethernet and Signal Integrity)
+Knowledge Base (FPGA & SoC)
+Knowledge Base (Storage Cards)
+Product Notifications
+Technical Articles
+Design Support
+FPGA & SoC Support
+Microsemi Adaptec RAID/HBA Support
+Power, Small Signal and Protection Discretes Support
+Timing Systems Support
+Contact Support
+General Inquiries
+Product Inquiries
+Product Portals
+Audio & Voice Portal
+Ethernet and Signal Integrity Portal
+FPGA & SoC Portal
+MyMicrosemi Partner and Customer Portal
+Optical Networking Portal
+Storage ICs Portal (SAS/SATA & Switchtec PCIe Switches)
+Timing ICs Portal
+Timing Systems and Components Portal
+Quality & Packaging
+Packaging Information
+Quality
+Returns
+FPGA & SoC RMA
+PoE Injectors, Midspans and Switches RMA
+Storage Cards RMA
+Timing Systems RMA
+Training
+FPGA & SoC Training
+FPGA & SoC Webcasts
+Timing Systems Webcasts
+Home
+Quality
+Overview
+Quality Support Request
+Customer Satisfaction Survey
+Documentation Quality Survey
+Overview
+Quality Policy
+Focusing on Total Customer Satisfaction
+Encouraging and expecting the proactive involvement of all Microsemi Employees
+Continually improving the effectiveness of our Products, Service and Processes which embody our Quality Management System
+Quality Management
+
+Microsemi Product Groups are responsible for the quality of the products that are sold by that Product Group. Each Product Group has a Quality Management System that is appropriate for the customers that it serves. All Product Groups are supported by the corporate quality staff. If you have Quality Related Questions : Click 
+here 
+Important Quality Information
+Certifications
+Conflict Minerals
+Date Codes Policy by Microsemi DISG PDM
+Environmental Policy
+Precise Time Measurement
+Product Notifications
+Reliability
+Returns
+Sysplex Timer
+Timing Regulatory Issues
+Quality Support Request
+Customer Satisfaction Survey
+Documentation Quality Survey
+Company
+About Us 
+Acquisitions
+Aviation Center Of Excellence
+Awards
+Blog
+Careers
+Corporate Contacts
+Events
+In the News
+Investors
+Locations
+Press Releases
+Quality
+Device Shelf life
+Environmental Policy
+Moisture Sensitivity
+Packaging Information
+Soldering Profiles
+Technology
+Terms and Conditions
+Terms of Use
+Products
+ | 
+Applications
+ | 
+Company
+ | 
+Careers
+ | 
+Investors
+ | 
+Survey
+ | 
+Privacy Policy
+ | 
+Terms & Conditions
+ | 
+Product Disclaimer
+ | 
+Terms of Use
+ | 
+Blog
+ | 
+Our website uses cookies (including profiling cookies of authorised third parties) to give you a better browsing experience, and by continuing to use our site you accept our cookies policy. Find out more on how we use cookies and how you can change your settings by clicking 
+here
+.
+© 2018 Microsemi, a wholly owned subsidiary of Microchip Technology Inc. All rights reserved. 
+Microsemi and the Microsemi logo are registered trademarks of Microsemi Corporation. All other trademarks and service marks are the property of their respective owners.
+Stay Informed
+✚Microsemi
+Quality
+Investors
+Sales Contacts
+Parametric Search
+Login
+Registered Users & Partners
+Audio, Voice, and Line Circuits Support Cases
+Audio, Voice, and Line Circuits Software
+Audio, Voice, and Line Circuits Documents
+Ethernet Switches, PHYs, Software, Crosspoint Switches & Signal Conditioners Documents
+FPGAs & SoCs Documents, Support Cases and Software Licenses
+Low Power Radios Software and Support Cases
+MyMicrosemi Partner Portal
+OTN Processors Documents and Software
+PoE Support Cases
+PoE Collateral
+PON/FTTH - EPON & GPON Documents & Software
+Storage ICs Documents and Software
+Timing ICs Software and Support Cases
+Timing ICs Documents
+Timing & Synchronization Systems Documents, Software and Support Cases
+Winpath Network Processors Documents, Software and Support Cases
+Products & Services
+Products
+Audio & Voice
+Circuit Protection
+Drivers, Interfaces, and PCIe Switches
+Ethernet and PoE Solutions
+FPGA & SoC
+High-Reliability
+Optical Networking
+Power Discretes & Modules
+Power Management
+RF, Microwave & Millimeter Wave
+Storage Solutions
+Timing & Synchronization
+Services
+ASIC Design Services
+FPGA & SoC Services
+Module & Hybrid Design Services
+Package Miniaturization Services
+Rugged Power Supply Design Services
+Synchronization Services
+New Product
+PolarFire FPGA Family
+Cost-optimized lowest power mid-range FPGAs
+250 Mbps to 12.7 Gbps transceivers
+100K to 500K LE, up to 33 Mbits of RAM
+Best-in-class security and exceptional reliability
+Learn More
+Applications
+Automotive
+Advanced Driver Assist Systems (ADAS)
+Body Electronics
+Infotainment
+Powertrain & EV Charging
+Commercial Aviation
+Actuation Systems
+Cabin Management System
+Cockpit Avionics
+Engine Systems & Controls
+RF & Microwave Systems
+Communications
+5G / Mobile Infrastructure
+Broadband Home / CPE
+Broadcast Video
+Converged Access Network
+Enterprise Infrastructure
+Metro / Core / DCI Network
+Data Centers
+Data Center Data Protection & Security
+Machine Learning Appliances
+Motherboard & Rack Infrastructure 
+NVMe Storage
+Rack Scale Design
+Storage Servers
+Storage Systems
+Defense
+Integrated Vehicle Systems
+Military Communications
+Radar Electronic Warfare
+Industrial
+HMI (Human Machine Interface)
+Industrial Ethernet Networking
+Industrial Imaging
+More Industrial Applications
+Motor Control
+Physical Security
+Programmable Logic Control
+Safety Heritage
+Smart Energy
+Test, Scientific and Measurement
+Medical
+Medical Imaging
+Medical Instrumentation
+Medical-Implantable/Ingestible
+Medical-Wearable Wireless
+Space
+Attitude & Orbit Control
+Digital Communications Payload
+Electrical Power Systems
+Remote Sensing Payload
+Telemetry Tracking & Control
+Transparent RF Transponder
+System Solutions
+Education
+Financial Services
+Government
+Healthcare
+Oil & Gas
+Power Utilities
+Retail
+Stadiums-Arenas
+Transportation
+Ordering
+How to Buy
+Available Stock Search
+Order Status
+Request a Quote or Samples
+Sales Contacts
+Company
+Company
+About Us
+Acquisitions
+Aviation Center Of Excellence
+Awards
+Blog
+Careers
+Corporate Contacts
+Events
+In the News
+Investors
+Locations
+Press Releases
+Quality
+Technology
+Terms and Conditions
+Terms of Use
+Partners
+Accelerate Ecosystem Partners
+Intellectual Property Partners
+Reference Design Partners
+Technology Partners
+Empower Channel Partners
+Find a Channel Partner
+Become a Channel Partner
+Partner Portal Login
+Solution Partners
+Compatible PoE Devices
+Storage Cards Compatibility Reports
+SyncWorld 
+Support
+Documents and Resources
+Compatibility Reports (Storage Cards)
+Compatible Devices (PoE)
+Development Tools & Software
+Knowledge Base (Ethernet and Signal Integrity)
+Knowledge Base (FPGA & SoC)
+Knowledge Base (Storage Cards)
+Product Notifications
+Technical Articles
+Design Support
+FPGA & SoC Support
+Microsemi Adaptec RAID/HBA Support
+Power, Small Signal and Protection Discretes Support
+Timing Systems Support
+Contact Support
+General Inquiries
+Product Inquiries
+Product Portals
+Audio & Voice Portal
+Ethernet and Signal Integrity Portal
+FPGA & SoC Portal
+MyMicrosemi Partner and Customer Portal
+Optical Networking Portal
+Storage ICs Portal (SAS/SATA & Switchtec PCIe Switches)
+Timing ICs Portal
+Timing Systems and Components Portal
+Quality & Packaging
+Packaging Information
+Quality
+Returns
+FPGA & SoC RMA
+PoE Injectors, Midspans and Switches RMA
+Storage Cards RMA
+Timing Systems RMA
+Training
+FPGA & SoC Training
+FPGA & SoC Webcasts
+Timing Systems Webcasts
+Home
+Company
+About Us
+Microsemi Corporation, a wholly owned subsidiary of Microchip Technology Inc. (Nasdaq: MCHP), offers a comprehensive portfolio of semiconductor and system solutions for communications, defense & security, aerospace and industrial markets. Products include high-performance and radiation-hardened analog mixed-signal integrated circuits, FPGAs, SoCs and ASICs; power management products; timing and synchronization devices and precise time solutions, setting the world's standard for time; voice processing devices; RF solutions; discrete components; enterprise storage and communication solutions, security technologies and scalable anti-tamper products; Ethernet solutions; Power-over-Ethernet ICs and midspans; as well as custom design capabilities and services. Microsemi is headquartered in Aliso Viejo, California.
+Company
+About Us 
+Acquisitions
+Aviation Center Of Excellence
+Awards
+Blog
+Careers
+Corporate Contacts
+Events
+In the News
+Investors
+Locations
+Press Releases
+Quality
+Technology
+Terms and Conditions
+Terms of Use
+Products
+ | 
+Applications
+ | 
+Company
+ | 
+Careers
+ | 
+Investors
+ | 
+Survey
+ | 
+Privacy Policy
+ | 
+Terms & Conditions
+ | 
+Product Disclaimer
+ | 
+Terms of Use
+ | 
+Blog
+ | 
+Our website uses cookies (including profiling cookies of authorised third parties) to give you a better browsing experience, and by continuing to use our site you accept our cookies policy. Find out more on how we use cookies and how you can change your settings by clicking 
+here
+.
+© 2018 Microsemi, a wholly owned subsidiary of Microchip Technology Inc. All rights reserved. 
+Microsemi and the Microsemi logo are registered trademarks of Microsemi Corporation. All other trademarks and service marks are the property of their respective owners.
+Stay Informed
+✚250 Mbps to 12.7 Gbps transceivers
+100K to 500K LE, up to 33 Mbits of RAM
+Best-in-class security and exceptional reliability
+Leading Technologies for Aerospace & Defense, Communications, Data Center and Industrial
+At Microsemi, we use our engineering expertise and deep systems and networking understanding to introduce innovative systems, subsystems, software, ICs and discretes that solve general industry needs, as well as our customers’ design challenges.
+Unique technologies embedded in Microsemi's solutions address our customer-specific challenges for energy efficiency, miniaturization, power management and reliability, enhanced security and accurate timing and network synchronization.
+Connectivity: Microsemi is a premier supplier to the communications industry with multiple innovative technologies for connectivity in the enterprise, data center and telecom equipment markets.
+Connectivity
+Innovative Technologies for Enabling Connectivity
+Microsemi is a premier supplier to the communications industry with multiple innovative technologies for connectivity in the enterprise, data center and telecom equipment markets.
+Ethernet
+Power over Ethernet (PoE) and Power over HDBaseT (PoH) : Microsemi is the pioneer of Power over Ethernet, shipping PoE ICs and systems since 1998. PoE and PoH enable the deployment of Ethernet devices that consume up to 95W with remote management capabilities, allowing planned shutdown of devices to reduce energy consumption. Microsemi's unique PoE technologies greatly ease the deployment and maintenance of carrier technologies such as small cells, backhaul, Wi-Fi, wireless broadband, FTTH and FTTdp;
+RF Integration: Microsemi's RF integration capabilities range from the creation of extremely compact and energy efficient systems and sub-assemblies, through the unique Monolithic Microwave Surface Mount ( MMSM ) integrated RF packages, all the way to Monolithic SiGe technology for RF front end modules with 802.11ac support;
+Time Accuracy: Microsemi is the industry's only supplier of end-to-end packet-based synchronization technology portfolio based on IEEE 1588 . Microsemi provides the most complete product portfolio along with understanding of how timing is generated and distributed, enabling accurate and precise network synchronization. Microsemi portfolio of products and solutions include:
+IEEE 1588 PTP source / master equipment called Grand Masters supporting various capabilities of PTP, NTP and other timing protocols. Microsemi portfolio includes range of timing equipment supporting various input and output connections, number of clients as well as form factors. These serve a variety of end markets including wireless and wireline infrastructure, cable, smart grid/power line as well as data center applications.
+Our newest timing system, Integrated Grand Master (IGM) , integrates an indoor GPS receiver and antenna in compact form factor ideally suited to small cell and HetNet scenarios
+Atomic Clocks for Holdover timing, NTP Servers and the TimePictra Software Suite that allows service providers to see a complete picture of Timing and Synchronization in their networks
+Components enabling network equipment to implement high accuracy IEEE 1588 node: High accuracy, low jitter PLLs , Ethernet PHYs with highly accurate time stamp including IEEE 802.1AE MACsec 
+Software enabling network equipment to implement high accuracy IEEE 1588 node: highly evolved servo algorithm extracting accurate timing in complex network with multiple hops and asymmetry of the network and PTP stack
+Service-Aware Switch Architecture: ViSAA ™, short for Virtualized Service Aware Architecture, is the industry's only silicon-based implementation to provide Ethernet services sold by Carriers to their Enterprise customers. With inherent SyncE and IEEE 1588 protocol support, ViSAA works in tandem with CEServices ™ software and Microsemi's ViSAA-enabled Carrier  Ethernet switches to enable equipment capabilities such as on-demand service creation, remote monitoring and troubleshooting, at lower power and cost and higher performance than competitive solutions.
+Non-Volatile Memory (NVM) Express or NVMe : Microsemi introduced the industry’s first PCIe Gen 3 NVMe Flash Controller (Flashtec™) , followed by a 2nd generation introduction of the industry’s fastest PCIe Gen 3 NVMe SSD controller. Microsemi data center connectivity technologies lead the industry in port count and signal integrity, scaling the performance storage tier with the industry’s first PCIe (NVMe) storage switches (Switchtec™) .
+NVMe over Fabrics : In addition to Microsemi's work with UNH-IOL to ensure proper NVMe compatibility and direct contributions into the NVM Express Work Group as a board member, Microsemi collaborates with industry ecosystem leaders to advance solutions for more efficient scaling of data center storage architecture, including NVMe over Fabrics using RDMA.
+Peripheral Component Interconnect (PCI) Express or PCIe : PCIe is widely used as a bus interconnect interface in server platforms, but is growing as a storage interconnect solution as well with the addition of NVMe storage devices into the PCIe ecosystem. Microsemi has a track record of introducing leading technologies for PCIe in its diverse data center product portfolio including:
+RAID : Hardware-based RAID offers several benefits, such as better performance, than software RAID. Microsemi's smart storage technology provides two levels of hardware-RAID options: advanced hardware RAID with its SmartRAID, offering maximum featured RAID data protection and caching for HDD performance; and standard RAID data protection with SmartHBA for uncompromised HBA performance.
+Serial Attached SCSI (SAS) : For the SAS interface standard that predominates data center storage ecosystems today, Microsemi’s offers industry-leading SAS/SATA technologies in our SAS Expander portfolio that deliver superior signal integrity (up to 9dB better than the SAS specification) and port density (up to 68 ports). Additionally, Microsemi’s leading SAS/SATA RAID and HBA products based on these SAS/SATA technologies provide the industry’s first high-port density of up to 24 ports on a single storage controller device .
+Serial ATA (SATA) : Microsemi is an active participant in ATA and SAS-IO standards organizations with industry-leadingSAS/SATA technologies underpinning our SAS/SATA RAID and HBA portfolio for data center. In addition to the power efficiencies and port-density mentioned above, Microsemi’s industry-leading SAS Expander technologies boost performance up to 80%.
+Software-Defined Storage (SDS) : Microsemi’s smart storage technology uniquely delivers two levels of options for SDS: HBA for raw performance with optimal power or SmartHBA, which adds redundant SDS stack boot capabilities. Microsemi's smart storage portfolio offers a consistent, high-quality user experience with unified drives, firmware, and management tools, improving overall customer experience, and delivering reliability, consistent performance and reduced qualification time.
+Ready to explore further? Contact your local Microsemi sales office today to find the right technologies and products for your design needs.
+Energy Efficiency
+Technologies Optimized for Energy Efficiency
+At Microsemi, we fully appreciate the importance of bringing energy efficient technologies directly into your designs to deliver energy savings and cost efficiency to end-users. With our unique technologies, Microsemi solutions give you a competitive differentiator to modernize network infrastructure and systems to efficiently meet increasing energy needs.
+FPGA and SoCs: Microsemi provides industry-leading flash-based non-volatile  FPGAs and SoCs for general-purpose applications in the Industrial, Communications, Defense, Medical and Space markets. Delivering highly differentiated solutions when security is vital, reliability is non-negotiable and power matters, Microsemi FPGAs and SoCs feature:
+30% to 50% lower total power consumption compared to SRAM based FPGAs
+Instant-on  capability, to assist in system start-up tasks, system configuration, and supervision during voltage ramp-up
+Gallium Nitride (GaN) : Microsemi's state-of-the art Gallium Nitride technology allows the creation of transistors that switch faster, and at higher temperatures, allowing extremely high efficiency power conversion and RF power amplification;
+Non-Volatile Memory (NVM) Express or NVMe : Microsemi is a leader in NVMe, having introduced the industry’s first PCIe Gen 3 NVMe Flash Controller ( Flashtec ™) and a 2nd generation of the industry’s fastest PCIe Gen 3 NVMe SSD controller. Microsemi scales the performance storage tier with its industry first and industry’s lowest power consumption PCIe ( NVMe ) storage switches ( Switchtec ™) , which deliver up to 60% more power efficiency than other solutions.
+NVMe over Fabrics : In addition to Microsemi's work with UNH-IOL to ensure proper NVMe compatibility and direct contributions into the NVM Express Work Group as a board member, Microsemi collaborates with industry ecosystem leaders to advance solutions for more efficient scaling of data center storage architecture, including NVMe over Fabrics using RDMA.
+RF Integration: Microsemi's RF integration capabilities range from the creation of extremely compact and energy efficient systems and sub-assemblies, through the unique Monolithic Microwave Surface Mount ( MMSM ) integrated RF packages, all the way to Monolithic SiGe technology for RF front end modules with 802.11ac support;
+Low Power RF: Microsemi provides the industry’s lowest power Sub-GHz transceivers using the ISM (868/915MHz) and MICS bands (402-405MHz). Optimized for coin cells and/or energy harvesting applications, our family of transceivers are ideal for medical applications (implants, wearable monitors), industrial applications (sensors, smart metering) and military applications;
+Serial Attached SCSI (SAS) : Microsemi’s industry-leading SAS/SATA technologies in our SAS Expander portfolio for data center deliver the industry’s lowest power consumption, with competitive solutions consuming 20-40% more power. Additionally, Microsemi’s SAS/SATA RAID and HBA products based on these SAS/SATA technologies provide the lowest power solution, up to 40% greater power efficiency, with the industry’s first 28nm storage controller silicon;
+Serial ATA (SATA) : Microsemi actively contributes ATA and SAS-IO standards organizations and offers industry-leadingSAS/SATA technologies in our data center SAS/SATA RAID and HBA portfolio . Based on the industry’s first 28nm storage controller silicon, Microsemi SAS/SATA technologies deliver up to 40% power savings over competitive solutions, the lowest power solution available today;
+Service-Aware Switch Architecture : ViSAA™, short for Virtualized Service Aware Architecture, is the industry's only silicon-based implementation to provide Ethernet services sold by Carriers to their Enterprise customers. ViSAA enables equipment capabilities such as on-demand service creation, remote monitoring and troubleshooting, at lower power and cost and higher performance than competitive solutions;
+Silicon Carbide (SiC): SiC has a ten times higher breakdown field compared to Silicon (Si), a 3x higher band gap and 3x higher thermal conductivity. This means a lower Rdson in FETs and lower Vforward in Schottky Diodes, higher operating temperatures and higher current carrying capabilities. Microsemi’s unique and patented passivation method allows Microsemi’s SiC Schottky Diodes and SiC MOSFETs to have the highest reliability in the industry.
+Ready to explore further? Contact your local Microsemi sales office today to find the right technologies and products for your design needs.
+Miniaturization
+Domain Expertise in Miniaturization
+Electronics miniaturization and packaging are areas of domain expertise for Microsemi, based on our complete design and manufacture capability, combined with our continuous R&D programs and collaborations. Our miniaturization technologies are engineered to help our customers develop and rapidly bring next-generation miniaturized systems to market. 
+Embedded Die Technology : Microsemi’s embedded die technology makes possible sub-system size reduction levels that would be unattainable using standard chip-on-board technology. Our embedded die technology enables practical implementations of systems on a package, delivering up to 70% in footprint savings versus the original PCB area;
+FPGA and SoCs: Microsemi provides industry-leading flash-based non-volatile  FPGAs and SoCs for general-purpose applications in the Industrial, Communications, Defense, Medical and Space markets. Delivering highly differentiated solutions when security is vital, reliability is non-negotiable and power matters, Microsemi FPGAs and SoCs feature:
+Lower real estate than SRAM-based FPGAs that require external configuration memories
+30% to 50% lower total power consumption compared to SRAM based FPGAs
+Instant-on  capability, to assist in system start-up tasks, system configuration, and supervision during voltage ramp-up.
+RF Integration:
+Microsemi's RF integration capabilities range from the creation of extremely compact systems and sub-assemblies, through the unique Monolithic Microwave Surface Mount ( MMSM ) integrated RF packages, all the way to Monolithic SiGe technology for RF front end modules with 802.11ac support;
+Ready to explore further? Contact your local Microsemi sales office today to find the right technologies and products for your design needs.
+Reliability
+Leading Technologies for Reliability
+Reliability is deeply ingrained in Microsemi’s portfolio, which is one of the industry’s most comprehensive of semiconductor technology.
+FPGA and SoCs: Microsemi provides industry-leading flash-based non-volatile  FPGAs and SoCs for general-purpose applications in the Industrial, Communications, Defense, Medical and Space markets. Delivering highly differentiated solutions when security is vital, reliability is non-negotiable and power matters, Microsemi FPGAs and SoCs feature:
+SEU immune FPGA configuration enabling reliable zero field failure in FPGA functionality / logic implementation related to SEU
+Layers of built-in security to make the software, supply chain and the network more secure
+Instant-on  capability, to assist in system start-up tasks, system configuration, and supervision during voltage ramp-up
+Power over Ethernet (PoE) and Power over HDBaseT (PoH) : Microsemi is the pioneer of Power over Ethernet, shipping PoE ICs and systems since 1998. PoE and PoH enable the deployment of Ethernet devices that consume up to 95W with centralized power backup and remote management capabilities. While PoE makes it simple to have a single Uninterrupted Power Supply (UPS) backing up multiple end-devices, Microsemi's Mutual Midspan Backup technology allows two stackable Managed Midspans to share two power supplies, creating a redundant power supply system without extra space requirements;
+Ruggedization: Microsemi ruggedization capabilities allows the creation of complex digital products to survive in the most stringent environments. With standard ruggedized SSDs, Memory, processors and discrete components in hermetic and thermal resistant packages;
+Service-Aware Switch Architecture : ViSAA™, short for Virtualized Service Aware Architecture, is the industry's only silicon-based implementation to simplify Ethernet business service provisioni
+ng and monitoring at greater scale and wire-speed performance. ViSAA enables equipment capabilities such as on-demand service creation, remote monitoring and troubleshooting, at lower power and cost and higher performance than competitive solutions;
+Silicon Carbide (SiC): SiC has a ten times higher breakdown field compared to Silicon (Si), a 3x higher band gap and 3x higher thermal conductivity. This means a lower Rdson in FETs and lower Vforward in Schottky Diodes, higher operating temperatures and higher current carrying capabilities. Microsemi’s unique and patented passivation method allows Microsemi’s SiC Schottky Diodes and SiC MOSFETs to have the highest reliability in the industry.
+Ready to explore further? Contact your local Microsemi sales office today to find the right technologies and products for your design needs.
+Security
+Robust Technologies for Embedded Systems Security
+Having served the Defense market for over five decades, our customers can leverage Microsemi’s extensive embedded systems security experience and deep systems expertise. Engineered to secure embedded systems from silicon to software, Microsemi’s security technologies , embedded in our solutions portfolio, enable robust protection for data-in-motion, data-in-use and data-at-rest.
+Controller-Based Encryption: Microsemi is a leader in controller-based encryption , having introduced the industry’s first controller-based encryption solution for data center in 2008. Our portfolio for data protection and security in the data center includes multiple industry firsts and innovations such as the industry’s first encryption-enabled HBA and smart stack encryption support in RAID.  
+FPGA and SoCs: Microsemi provides industry-leading flash-based non-volatile  FPGAs and SoCs for general-purpose applications in the Industrial, Communications, Defense, Medical and Space markets. Delivering highly differentiated solutions when security is vital, reliability is non-negotiable and power matters, Microsemi FPGAs and SoCs feature:
+Layers of built-in security to make the software, supply chain and the network more secure
+Instant-on  capability, to assist in system start-up tasks, system configuration, and supervision during voltage ramp-up
+GPS Threat Protection and Security : Microsemi security technologies enable off-the-shelf and custom security solutions, lowering cost, improving time-to-market and reducing security risks when integrating security products with limited resources. Microsemi's secure technologies enable link layer security, equipment security, secure key management, supply chain security, design security, secure position, navigation and timing (PNT) and secure authentication.
+Ready to explore further? Contact your local Microsemi sales office today to find the right technologies and products for your design needs.
+Time Accuracy
+Premier Technologies for Time Accuracy & Precision
+Microsemi is the world’s leading source of accurate and precise time solutions, delivering the industry’s most complete timing and synchronization solutions portfolio. Based on our deep systems understanding of how timing is generated and distributed, Microsemi enables our customers to bring the most precise network timing for operations and applications across industries.
+Time Accuracy: Microsemi is the industry's only supplier of end-to-end packet-based synchronization technology portfolio based on IEEE 1588 . Microsemi provides the most complete product portfolio along with understanding of how timing is generated and distributed, enabling accurate and precise network synchronization. Microsemi portfolio of products and solutions include:
+IEEE 1588 PTP source / master equipment called Grand Masters supporting various capabilities of PTP, NTP and other timing protocols. Microsemi portfolio includes range of timing equipment supporting various input and output connections, number of clients as well as form factors. These serve a variety of end markets including wireless and wireline infrastructure, cable, smart grid/power line as well as data center applications.
+Our newest timing system, Integrated Grand Master (IGM) , integrates an indoor GPS receiver and antenna in compact form factor ideally suited to small cell and HetNet scenarios
+Atomic Clocks for Holdover timing, NTP Servers and the TimePictra Software Suite that allows service providers to see a complete picture of Timing and Synchronization in their networks
+Enhanced Primary Reference Time Clock (ePRTC) technology designed to address the growing issue of GNSS vulnerability which “generates time” by producing its own independent time scale aligned with GNSS, while maintaining autonomous phase, time, and frequency signal outputs
+GPS Threat Protection and Security  against GPS jamming and spoofing attempts against critical infrastructure
+Components enabling network equipment to implement high accuracy IEEE 1588 node
+High accuracy, low jitter PLLs with miTimePLL™ timing and synchronization technology specifically designed to encompass all the packet network requirements for frequency, phase and time
+Ethernet PHYs with highly accurate time stamp including IEEE 802.1AE MACsec 
+Software enabling network equipment to implement high accuracy IEEE 1588 node: highly evolved servo algorithm extracting accurate timing in complex network with multiple hops and asymmetry of the network and PTP stack
+Service-Aware Switch Architecture : ViSAA™, short for Virtualized Service Aware Architecture, is the industry's only silicon-based implementation to provide Ethernet services sold by Carriers to their Enterprise customers. With inherent SyncE and IEEE 1588 protocol support, ViSAA works in tandem with CEServices software and Microsemi's ViSAA-enabled Carrier  Ethernet switches to enable equipment capabilities such as on-demand service creation, remote monitoring and troubleshooting, at lower power and cost and higher performance than competitive solutions. 
+Ready to explore further? Contact your local Microsemi sales office today to find the right technologies and products for your design needs.
+Company
+© 2018 Microsemi, a wholly owned subsidiary of Microchip Technology Inc. All rights reserved.
+Microsemi and the Microsemi logo are registered trademarks of Microsemi Corporation. All other trademarks and service marks are the property of their respective owners.
+Stay Informed✚

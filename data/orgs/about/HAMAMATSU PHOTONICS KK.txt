@@ -1,0 +1,1683 @@
+To use all available functions on this site, JavaScript must be enabled on your browser.
+Menu
+Products
+Applications
+Why Hamamatsu?
+Support
+Our Company
+Products
+Products Top
+Devices & units
+Optical sensors
+Optical components
+Cameras
+Light & radiation sources
+Lasers
+Systems
+Manufacturing support systems
+Semiconductor manufacturing support systems
+Photometry systems
+Life science & medical systems
+All products
+CMOS cameras
+CCD cameras
+EM-CCD cameras
+InGaAs cameras
+TDI cameras
+Board-level CMOS cameras
+Board-level TDI cameras
+X-ray line scan cameras
+X-ray TDI cameras
+X-ray CMOS cameras
+X-ray CCD camera
+High resolution X-ray imaging system
+Imaging software
+Semiconductor lasers
+Applied products of semiconductor lasers
+Laser-related products
+Digital slide scanner
+Drug screening system
+Brain & tissue oxygen monitors
+Blood vessels observation camera system
+Immunochromato Reader
+LEDs
+UV-LED light sources
+Lamps
+Lamp modules & units
+Microfocus X-ray sources
+Optical blocks
+Scan blocks 
+Fiber optic plates (FOP)
+FAC lenses
+Collimating capillary lenses
+Capillary plates
+Flow cells
+LCOS-SLM (Optical Phase Modulator)
+Image splitting optics
+MEMS mirrors
+SERS substrates
+Photodiodes
+Avalanche photodiodes (APDs)
+Photo IC
+MPPCs (Multi-Pixel Photon Counters)
+Photomultiplier tubes (PMTs)
+Phototubes
+Image sensors
+Spectrum sensors
+Infrared detectors
+UV & flame sensors
+X-ray sensors
+Radiation sensors
+Electron & ion sensors
+Distance & position sensors
+Application-specific sensors
+Plasma process monitor
+Stealth dicing engines
+Failure analysis system
+Mini-spectrometer
+Raman spectroscopy
+Multichannel spectral system
+Molecular orientation characteristic measurement system
+Luminescence efficiency measurement system
+Fluorescence lifetime / transient absorption analysis system
+Streak camera
+Thickness measurement system
+Pinhole inspection units
+UV-LED light sources
+RF electric discharge type excimer lamp
+Applied products of semiconductor lasers
+Electrostatic removers
+Quality Control
+We are actively taking measures to improve product quality levels.
+Applications
+Computed radiography (CR)
+Digital radiography (DR)
+PET scanner
+DNA sequencer
+PCR
+High-Throughput Screening / High-Content Screening
+Flow cytometer
+Laser scanning microscope
+Laser rangefinder
+Gas analyzer
+Encoder
+Color measurement
+Plastic optical fiber communications
+LiDAR
+Radiation detection
+Baggage, cargo, and container inspection
+Applications
+Why Hamamatsu?
+Support
+Contact us
+Discontinued products
+RoHS compliant products
+CE marked products
+Glossary
+Product FAQs
+Disclaimer
+Support
+Our Company
+Hamamatsu at a glance
+Corporate profile
+Business domain
+Global organizations
+Investor relations
+Corporate social responsibility
+News & events
+President's message
+Our philosophy
+History
+Central Research Laboratory
+Our Company
+Contact
+Wishlist
+History
+ (
+)
+Select your region and country.
+Africa
+Americas
+Asia/Pacific
+Europe
+Middle East
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Central African
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Congo, DR
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, DPR
+Korea
+Kuwait
+Kyrgyzstan
+Lao, PDR
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia, FS
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Yemen
+Zambia
+Zimbabwe
+English
+Japanese
+Select
+Our Company
+President's message
+President Akira Hiruma talks about the corporate doctrine and vision of Hamamatsu Photonics.
+Hamamatsu at a glance
+Break down the basics of our technological capacity and scale.
+Investor relations
+Explore our quarterly and annual reports, financial and business news, and other information.
+Our philosophy
+We research light and utilize our discoveries to develop new products with the aim of challenging unexplored mysteries and create new future industries.
+Corporate profile
+Basic corporate information about Hamamatsu Photonics.
+Business domain
+This section describes the lines of business that our various divisions and research laboratories are engaged in.
+Global organizations
+See our locations worldwide and directions on maps.
+History
+Here, you'll see corporate changes that have taken place over the years as we pursued our goals in photonics technology, along with a history of our product development.
+Central Research Laboratory
+		Corporate social responsibility
+Learn more about our commitment to contributing to our partnerships, our communities, and our planet.
+News
+All
+Products & technologies
+Investor relations
+Announcements
+Press releases
+2018/12/14
+Announcement
+Press release
+Notice of Winter Holiday Closing
+2018/12/11
+Announcement
+Press release
+Hamamatsu Photonics will construct a new factory Building No. 5 at the Toyooka factory to boost its R&D and customer support in the electron tube market.
+2018/11/26
+IR
+Notice of Convocation of the 71st Ordinary General Meeting of Shareholders [206 KB/PDF]
+2018/11/14
+IR
+Hamamatsu Summary Report for the Fiscal Year ended September 30, 2018 [3 MB/PDF]
+2018/11/12
+IR
+Financial Results for the Fiscal Year ended September 30, 2018 [221 KB/PDF]
+View all
+2018/10/30
+Development
+Press release
+Hamamatsu Photonics has developed a highly functional and reliable pulsed laser diode for in-vehicle LiDAR.
+2018/10/23
+Development
+Press release
+Hamamatsu Photonics has newly developed the world’s tiniest grating spectrometer  offering high sensitivity, compact size, light weight and low cost.
+2018/10/22
+Development
+Press release
+High-power high-repetition-rate laser system is now available in tabletop size.
+2018/10/18
+Development
+Press release
+Hamamatsu Photonics has completed a new beam line for fusion experiments that measures laser-driven shock pressures up to one million atmospheres.
+2018/10/11
+Development
+Press release
+Hamamatsu Photonics has developed a supercontinuum light source with high stability targeting for high-precision and high-resolution measurements.
+View all
+2018/11/26
+IR
+Notice of Convocation of the 71st Ordinary General Meeting of Shareholders [206 KB/PDF]
+2018/11/14
+IR
+Hamamatsu Summary Report for the Fiscal Year ended September 30, 2018 [3 MB/PDF]
+2018/11/12
+IR
+Financial Results for the Fiscal Year ended September 30, 2018 [221 KB/PDF]
+2018/10/19
+IR
+Notice on Change of Officer  [94 KB/PDF]
+2018/08/07
+IR
+Databook for the Third Quarter of Fiscal Year ending September 30, 2018 [727 KB/PDF]
+View all
+2018/12/14
+Announcement
+Press release
+Notice of Winter Holiday Closing
+2018/12/11
+Announcement
+Press release
+Hamamatsu Photonics will construct a new factory Building No. 5 at the Toyooka factory to boost its R&D and customer support in the electron tube market.
+2018/06/25
+Announcement
+Press release
+Hamamatsu will construct a new factory Building No. 14 at the main factory site to boost production capacity to meet increased demand for opto-semiconductors.
+2018/04/02
+Announcement
+Press release
+ Mr. Teruo Hiruma, honorary chairman, passed away
+2017/11/14
+Announcement
+Press release
+Hamamatsu announces the completion of new building to expand production capacity of compound semiconductor devices
+View all
+2018/12/14
+Announcement
+Press release
+Notice of Winter Holiday Closing
+2018/12/11
+Announcement
+Press release
+Hamamatsu Photonics will construct a new factory Building No. 5 at the Toyooka factory to boost its R&D and customer support in the electron tube market.
+2018/10/30
+Development
+Press release
+Hamamatsu Photonics has developed a highly functional and reliable pulsed laser diode for in-vehicle LiDAR.
+2018/10/23
+Development
+Press release
+Hamamatsu Photonics has newly developed the world’s tiniest grating spectrometer  offering high sensitivity, compact size, light weight and low cost.
+2018/10/22
+Development
+Press release
+High-power high-repetition-rate laser system is now available in tabletop size.
+View all
+Related content
+Contact
+Wishlist
+History
+Contact us
+Privacy Policy
+Terms of Use
+Help
+Site Map
+Copyright © Hamamatsu Photonics K.K. All Rights Reserved.
+Confirmation
+It looks like you’re in the 
+.  If this is not your location, please select the correct region and country below.
+You're headed to 
+Hamamatsu Photonics website for 
+U.K.
+ (
+English
+)
+.  If you want to view an other country's site, the optimized information will be provided by selecting options below.
+Africa
+Americas
+Asia/Pacific
+Europe
+Middle East
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Central African
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Congo, DR
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, DPR
+Korea
+Kuwait
+Kyrgyzstan
+Lao, PDR
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia, FS
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Yemen
+Zambia
+Zimbabwe
+English
+Japanese
+Continue
+In order to use this website comfortably, we use cookies. For cookie details please see our cookie policy.
+Cookie Policy
+This website or its third-party tools use cookies, which are necessary to its functioning and required to achieve the purposes illustrated in this cookie policy.  By closing the cookie warning banner, scrolling the page, clicking a link or continuing to browse otherwise, you agree to the use of cookies.
+Hamamatsu uses cookies in order to enhance your experience on our website and ensure that our website functions.
+You can visit this page at any time to learn more about cookies, get the most up to date information on how we use cookies and manage your cookie settings. We will not use cookies for any purpose other than the ones stated, but please note that we reserve the right to update our cookies.
+1. What are cookies?
+For modern websites to work according to visitor’s expectations, they need to collect certain basic information about visitors. To do this, a site will create small text files which are placed on visitor’s devices (computer or mobile) - these files are known as cookies when you access a website. Cookies are used in order to make websites function and work efficiently. Cookies are uniquely assigned to each visitor and can only be read by a web server in the domain that issued the cookie to the visitor. Cookies cannot be used to run programs or deliver viruses to a visitor’s device.
+Cookies do various jobs which make the visitor’s experience of the internet much smoother and more interactive. For instance, cookies are used to remember the visitor’s preferences on sites they visit often, to remember language preference and to help navigate between pages more efficiently. Much, though not all, of the data collected is anonymous, though some of it is designed to detect browsing patterns and approximate geographical location to improve the visitor experience.
+Certain type of cookies may require the data subject’s consent before storing them on the computer.
+2. What are the different types of cookies?
+This website uses two types of cookies:
+First party cookies.
+ For our website, the first party cookies are controlled and maintained by Hamamatsu. No other parties have access to these cookies.
+Third party cookies.
+ These cookies are implemented by organizations outside Hamamatsu. We do not have access to the data in these cookies, but we use these cookies to improve the overall website experience.
+3. How do we use cookies?
+This website uses cookies for following purposes:
+Certain cookies are necessary for our website to function. These are strictly necessary cookies and are required to enable website access, support navigation or provide relevant content. These cookies direct you to the correct country, and support security and ecommerce. Strictly necessary cookies also enforce your privacy preferences. Without these strictly necessary cookies, much of our website will not function.
+Analytics cookies are used to track website usage. This data enables us to improve our website usability, performance and website administration. In our analytics cookies, we do not store any personal identifying information.
+Functionality cookies. These are used to recognize you when you return to our website. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+Cookies help us help you. Through the use of cookies, we learn what is important to our visitors and we develop and enhance website content and functionality to support your experience. Much of our website can be accessed if cookies are disabled, however certain website functions may not work. And, we believe your current and future visits will be enhanced if cookies are enabled.
+4. Which cookies do we use?
+There are two ways to manage cookie preferences.
+You can set your cookie preferences on your device or in your browser.
+You can set your cookie preferences at the website level.
+If you don’t want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
+If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit www.aboutcookies.org, which contains comprehensive information on how to do this on a wide variety of desktop browsers.
+5. What are Internet tags and how do we use them with cookies?
+Occasionally, we may use internet tags (also known as action tags, single-pixel GIFs, clear GIFs, invisible GIFs and 1-by-1 GIFs) at this site and may deploy these tags/cookies through a third-party advertising partner or a web analytical service partner which may be located and store the respective information (including your IP-address) in a foreign country. These tags/cookies are placed on both online advertisements that bring users to this site and on different pages of this site. We use this technology to measure the visitors' responses to our sites and the effectiveness of our advertising campaigns (including how many times a page is opened and which information is consulted) as well as to evaluate your use of this website. The third-party partner or the web analytical service partner may be able to collect data about visitors to our and other sites because of these internet tags/cookies, may compose reports regarding the website’s activity for us and may provide further services which are related to the use of the website and the internet. They may provide such information to other parties if there is a legal requirement that they do so, or if they hire the other parties to process information on their behalf. 
+If you would like more information about web tags and cookies associated with on-line advertising or to opt-out of third-party collection of this information, please visit the Network Advertising Initiative website http://www.networkadvertising.org.
+6. Analytics and Advertisement Cookies
+We use third-party cookies (such as Google Analytics) to track visitors on our website, to get reports about how visitors use the website and to inform, optimize and serve ads based on someone's past visits to our website.
+You may opt-out of Google Analytics cookies by the websites provided by Google:
+As provided in this Privacy Policy (Article 5), you can learn more about opt-out cookies by the website provided by Network Advertising Initiative:
+We inform you that in such case you will not be able to wholly use all functions of our website.
+CloseConfirmation
+It looks like you’re in the US.  If this is not your location, please select the correct region and country below.
+You're headed to Hamamatsu Photonics website for U.K. (English).  If you want to view an other country's site, the optimized information will be provided by selecting options below.
+Continue
+In order to use this website comfortably, we use cookies. For cookie details please see our cookie policy.
+This website or its third-party tools use cookies, which are necessary to its functioning and required to achieve the purposes illustrated in this cookie policy.  By closing the cookie warning banner, scrolling the page, clicking a link or continuing to browse otherwise, you agree to the use of cookies.
+Hamamatsu uses cookies in order to enhance your experience on our website and ensure that our website functions.
+You can visit this page at any time to learn more about cookies, get the most up to date information on how we use cookies and manage your cookie settings. We will not use cookies for any purpose other than the ones stated, but please note that we reserve the right to update our cookies.
+1. What are cookies?
+For modern websites to work according to visitor’s expectations, they need to collect certain basic information about visitors. To do this, a site will create small text files which are placed on visitor’s devices (computer or mobile) - these files are known as cookies when you access a website. Cookies are used in order to make websites function and work efficiently. Cookies are uniquely assigned to each visitor and can only be read by a web server in the domain that issued the cookie to the visitor. Cookies cannot be used to run programs or deliver viruses to a visitor’s device.
+Cookies do various jobs which make the visitor’s experience of the internet much smoother and more interactive. For instance, cookies are used to remember the visitor’s preferences on sites they visit often, to remember language preference and to help navigate between pages more efficiently. Much, though not all, of the data collected is anonymous, though some of it is designed to detect browsing patterns and approximate geographical location to improve the visitor experience.
+Certain type of cookies may require the data subject’s consent before storing them on the computer.
+2. What are the different types of cookies?
+This website uses two types of cookies:
+First party cookies. For our website, the first party cookies are controlled and maintained by Hamamatsu. No other parties have access to these cookies.
+Third party cookies. These cookies are implemented by organizations outside Hamamatsu. We do not have access to the data in these cookies, but we use these cookies to improve the overall website experience.
+3. How do we use cookies?
+This website uses cookies for following purposes:
+Certain cookies are necessary for our website to function. These are strictly necessary cookies and are required to enable website access, support navigation or provide relevant content. These cookies direct you to the correct country, and support security and ecommerce. Strictly necessary cookies also enforce your privacy preferences. Without these strictly necessary cookies, much of our website will not function.
+Analytics cookies are used to track website usage. This data enables us to improve our website usability, performance and website administration. In our analytics cookies, we do not store any personal identifying information.
+Functionality cookies. These are used to recognize you when you return to our website. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+Cookies help us help you. Through the use of cookies, we learn what is important to our visitors and we develop and enhance website content and functionality to support your experience. Much of our website can be accessed if cookies are disabled, however certain website functions may not work. And, we believe your current and future visits will be enhanced if cookies are enabled.
+4. Which cookies do we use?
+There are two ways to manage cookie preferences.
+You can set your cookie preferences on your device or in your browser.
+You can set your cookie preferences at the website level.
+If you don’t want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
+If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit www.aboutcookies.org, which contains comprehensive information on how to do this on a wide variety of desktop browsers.
+5. What are Internet tags and how do we use them with cookies?
+Occasionally, we may use internet tags (also known as action tags, single-pixel GIFs, clear GIFs, invisible GIFs and 1-by-1 GIFs) at this site and may deploy these tags/cookies through a third-party advertising partner or a web analytical service partner which may be located and store the respective information (including your IP-address) in a foreign country. These tags/cookies are placed on both online advertisements that bring users to this site and on different pages of this site. We use this technology to measure the visitors' responses to our sites and the effectiveness of our advertising campaigns (including how many times a page is opened and which information is consulted) as well as to evaluate your use of this website. The third-party partner or the web analytical service partner may be able to collect data about visitors to our and other sites because of these internet tags/cookies, may compose reports regarding the website’s activity for us and may provide further services which are related to the use of the website and the internet. They may provide such information to other parties if there is a legal requirement that they do so, or if they hire the other parties to process information on their behalf.
+If you would like more information about web tags and cookies associated with on-line advertising or to opt-out of third-party collection of this information, please visit the Network Advertising Initiative website http://www.networkadvertising.org.
+6. Analytics and Advertisement Cookies
+We use third-party cookies (such as Google Analytics) to track visitors on our website, to get reports about how visitors use the website and to inform, optimize and serve ads based on someone's past visits to our website.
+You may opt-out of Google Analytics cookies by the websites provided by Google:
+Applications
+Took up further challenges in very low-light-level measurement and single photon detection.
+Succeeded in conducting Young's interference experiment with single photons.
+Using the PIAS (Photon-counting Image Acquisition System), we conducted Young's double-slit interference experiment in the single photon counting region. This demonstrated that an interference pattern appeared by detecting individual photons one by one and then integrating them to create an image. The experimental results indicated that one photon passed through the double slit at the same time (wave interference) and then created one bright spot on the detector (particle’s photoelectric effect). Integrating each bright spot resulted in an image of interference fringes which clearly demonstrated dual properties of light (light is both a wave and a particle). The PIAS imaging system used for this experiment was named one of the “10 Great New Products 1984” by Nikkan Kogyo Shimbun in Japan and also earned an R&D Award from R&D Magazine in the USA. This definitely proved that our low-light-level measurement technology was highly appreciated both domestically and abroad.
+Photo: Young’s interference experiment with single photons
+Timeline
+Pursuing the path of light
+First starting from the founding of Tokai Electronics Laboratory in 1948, Hamamatsu TV Co., Ltd. was then established in 1953 followed by a company name change to Hamamatsu Photonics K.K. in 1983. All through this period and up to the present day, we here at Hamamatsu Photonics have been continually pursuing technologies involving “light” in all its aspects. Take a look along with us at the history of our company constantly pursuing the path of light since our founding.
+Timeline
+1948-1950s
+Founding of the firm: Starting to challenge the possibilities of light
+1948
+Heihachiro Horiuchi founded Tokai Electronics Laboratory.
+Project was launched amidst the ruins after the war with the dream of developing photoelectric devices.
+Heihachiro Horiuchi founded Tokai Electronics Laboratory.
+Project was launched amidst the ruins after the war with the dream of developing photoelectric devices.
+Being fascinated by the wonder of light since the elementary school days, our founding president Heihachiro Horiuchi studied Electrical Engineering at Hamamatsu Industrial High School (now the Faculty of Engineering of Shizuoka University) as a student of Kenjiro Takayanagi who was one of the world’s pioneers of television technology research, and was greatly inspired by “Takayanagi-ism” after receiving his guidance and instruction. During the World War 2, Heihachiro Horiuchi worked on developing and manufacturing night-vision tubes in Tokyo and then in Yamagata in the northern region of Japan where the factory was evacuated due to bombing. However, when the war ended he had to completely restart his career. He returned to Hamamatsu in the post-war chaos and made a decision to utilize the photoelectric technology he had learned before and during the war. In 1948, he bought a factory site at 456 Ebitsuka-cho, Hamamatsu City, and established Tokai Electronics Laboratory.
+Photo: Heihachiro Horiuchi and his wife Hiroko, with their dog Mac
+1951
+Developed the PV26 phototubes that were used for automatic on/off street light switching.
+1953
+Established Hamamatsu TV Co., Ltd. with the dream of linking optical technology with industry.
+Established Hamamatsu TV Co., Ltd. with the dream of linking optical technology with industry.
+Horiuchi decided to pursue the “path of light” by providing society with a means or namely products that would make effective use of light and he worked on developing photoelectric devices. In early 1951, Horiuchi’s efforts began to show signs of success as a promising inquiry came in for phototubes later called the PV29 and PV26 that he first worked on. At that point in time, Horiuchi was planning to dissolve Tokai Electronics Laboratory into another organization, and so he convinced Teruo Hiruma and Norio Hanyu, who he knew through his elder brother Yuji Takahashi (then Professor at Hamamatsu Industrial High School), to participate in his plan to establish a new company. This gave rise to the founding of Hamamatsu TV Co., Ltd.
+Photo: Ebitsuka factory at that time
+Started production of G5E phototubes for fax transmissions.
+Developed an underwater camera as our first video camera product.
+Started finding applications in scientific and industrial fields.
+Started finding applications in scientific and industrial fields.
+We became involved in television applications in the fields of science and industry when we were asked by Professor Nobuyuki Kawamoto of Mie University to make an underwater camera for observing fish reefs. That was our first attempt to make a television camera. Preliminary experiments were successful and reported in newspaper, but the actual experiment with the camera loaded on the experimental ship did not succeed unfortunately. Nevertheless, this first attempt to make a television camera was a significant step as our first field experiment.
+Photo: Assembly and adjustment of underwater camera
+1956
+1958
+Our first mass-production line started up.
+Our first mass-production line started up.
+Up until that point, Hamamatsu TV had always been involved in electron tube products such as phototubes. Our first foray into semiconductor products was the CdS cell. After a hard struggle and repeated trials and errors, an employee succeeded in developing the product .  One day at the end of 1958, an order came in for 1,000 CdS cells per month for use in adjusting the brightness of television cathode ray tubes. As a company that had up until that time been producing multiple products in small lots, it was our first experience with mass production, and we had to mobilize all of our employees on the production side to get the order filled. The development of the CdS cell ended up bringing about many positive outcomes, among them an accumulation of semiconductor technology and a new sense of unity in-house, after all of the employees had worked together day and night on the production effort.
+Photo: Our first CdS Cell: the P101
+1959
+Succeeded in developing photomultiplier tubes that are still our main products.
+Succeeded in developing photomultiplier tubes that are still our main products.
+Among various types of photodetectors, photomultiplier tubes offer superior features such as extremely high sensitivity and fast time response. Around 1955, chemical analysis instruments using photomultiplier tubes began to be manufactured and demand for them also increased in Japan. However, most of such equipment was imported from overseas at that time.Around that time, one of our customers said to us, "If Hamamatsu TV could produce photomultiplier tubes, we would call you the 'king' of the industry." That made our engineers realize the necessity for development of these tubes, and provided the motivation for them to undertake the project. The photomultiplier tube that they developed through many trials and tribulations was far superior to those of other companies, and that product was what gave us a solid footing as an opto-technology company.
+Photo: Our first photomultiplier tube: the 931A
+1960s
+Business expansion and development: Taking up new challenges in unknown fields
+1963
+1964
+Experimental production of hollow cathode lamps and deuterium lamps began.
+Opened our New York office.
+1967
+Succeeded in developing an automatic rocket tracking system called the X-Y Tracker.
+Started to take part in space development projects.
+Succeeded in developing rocket automatic tracking device
+Participation in the space development project began.
+We spent two years developing automatic rocket tracking system (the X-Y tracker), something that was requested by Professor Tsuneyoshi Uemura of Tokyo University, and after many hardships we succeeded in creating a prototype. This X-Y tracker was able to flawlessly track the rocket immediately after launch, and observers visiting from America praised it highly, saying that it was the most advanced device of anything that they had seen at the Uchinoura test facility. At that time, even NASA was using photographic strip film for orbital tracking of rockets, and the X-Y tracker was truly an epochal device. It provided the opportunity for us to take part in space development projects such as cameras for observing the aurora borealis and cameras for the "Suisei", the probe tracking Halley's comet.
+Photo: Automatic rocket tracking system called the X-Y Tracker
+1969
+Expanded into medical fields.
+Developed an eye pupil area measurement system using a video camera.
+Developed an eye pupil area measurement system using a video camera.
+Tetsu Ishikawa, a lecturer at the Tokyo University Faculty of Medicine, thought that if a device were developed that made it possible to accurately measure pupillary responses (changes in the surface area of the iris) closely related to autonomous nervous system functions, it would be the first such device in the world to be able to do so, and he came to us to see if we could develop it. The development of this "Iriscoder" not only required that we focus everything on improving the product precision, as we had in the past, but also required that we take on a field that was completely unknown to us. That was the field of medical equipment manufacturing, which included camera performance, the convenience of use for physicians, taking the psychological state of the subject into consideration, and other elements with which we were unfamiliar. This device was used to study pupillary responses (adaptation of the eye to darkness and brightness) when entering and driving through tunnels, and the results of those experiments are still at work today in expressway tunnel illumination.
+Photo:Iris testing using the Iriscoder
+Established an affiliated company in the USA
+1970s
+Preparation for the big leap: Laying the cornerstone for solid-state products and system products.
+1972
+Developed silicon photodiodes based on the technical expertise we had accumulated through the development and manufacture of electron tubes.
+Developed silicon photodiodes based on the technical expertise we had accumulated through the development and manufacture of electron tubes.
+Around that time, the camera maker to whom we were supplying CdS cells asked us to develop a silicon photodiode for use with cameras, saying that, as semiconductor components, these photodiodes offered better measurement accuracy and response characteristics than CdS cells. Silicon photodiodes were viewed as very promising at the time as sensors for camera exposure meters and measuring instruments. We got off to a late start in that field, but we drew on the knowhow and the sales channels that we had built up through our electron tube development and manufacturing, and silicon photodiodes later grew to be one of the main products of our Solid State Division.
+Photo: Silicon photodiodes
+Established a joint venture company in West Germany (now Germany).
+1977
+Opening up new borders through connections with computers.
+Developed vidicon camera for computers.
+Developed vidicon camera for computers.
+In 1971, microcomputers appeared on the market and their use spread rapidly. We were quick to open up new frontiers in computer-compatible video cameras. The model C1000 (vidicon camera for computers) was an innovative high-precision video camera with the basic performance and functions needed for image processing and measurement. This was quite different from other conventional video cameras that were designed just for “viewing” tasks such as for monitoring and surveillance. The C1000 enabled sophisticated image processing using a computer and its applications were extended to various fields. This combination of video camera and computer is still a feature of our current system products.
+Photo: The C1000 vidicon camera for computers
+1978
+A space-borne TV camera we developed helped succeed in capturing aurora images from outer space for the first time in the world.
+A space-borne TV camera we developed helped succeed in capturing aurora images from outer space for the first time in the world.
+“I’d like to observe auroras from outer space by mounting a TV camera on an artificial satellite.” We received a request to develop a satellite-borne TV camera from Prof. Takao Tohmatsu, an authority on geophysics of the Geophysics Research Laboratory, University of Tokyo. In a limited time, we worked to develop a vacuum UV image storage tube and a TV camera that would be able to operate reliably for a period of one year under harsh conditions in space such as a vacuum, extremely cold or hot temperatures, and exposure to radiation, as well as having the high durability needed against vibration and shocks applied during the satellite launch. In 1978, the Japanese scientific satellite EXOS-A (later named “Kyokko”) equipped with our special TV camera was launched. After 20 days, when the satellite had traveled around the earth 214 times, it succeeded in capturing 8 beautiful images of an aurora among the 20 images that were taken at that time. This was the first success in the world in capturing aurora images from outer space, and made our company name well-known worldwide in the field of space development.
+Photo: Satellite-borne TV camera
+25th anniversary of company foundation. Teruo Hiruma became the company's president.
+1980s
+The age of photonics: Changing from Hamamatsu TV Co., Ltd. to Hamamatsu Photonics K.K.
+1980
+Our first private exhibition called the Photon Fair was held to introduce and demonstrate our wide-ranging photonics technology and products.
+Our first private exhibition called the Photon Fair was held to introduce and demonstrate our wide-ranging photonics technology and products.
+Having had a good response from customers visiting our "Hamamatsu General Exhibition Osaka" held in 1979 to commemorate the opening of our Osaka sales office, we also held our first overall exhibition called the Photon Fair the next year 1980 in Osaka and Tokyo. The exhibition name Photon Fair was derived from the elementary particle called a photon used in our business slogan “Photon is our business” so as to let more people become familiar with the exhibition. Besides just exhibiting a full range of our products, we also introduced new technologies and made efforts to provide technical consultations, lectures and workshops, so that we could propagate our business philosophy and attitude by way of the Photon Fair. Even now, the Photon Fair is held regularly as an effective place for meeting and talking with customers to exchange ideas and information.
+Photo: Entrance to the exhibition hall where the first Photon Fair was held
+1982
+Decided to reorganize the company into business divisions for greater flexibility in meeting business needs of the changing times.
+Decided to reorganize the company into business divisions for greater flexibility in meeting business needs of the changing times.
+Up to that time, our production department had been managed and controlled as one basic unit. However, since the company’s scale had expanded and the number of product types had increased, we reorganized the company into business divisions to quickly and accurately respond to the changing times and offer more flexible business operations. The company was divided into 3 business divisions: Electron Tube Division, Solid State Division, and Systems Division. The main office and factories of each division had been gathered in an area different from each other, so they have been located there up to today.
+Photo: Main office and factories of each division at that time the company was reorganized
+Took up further challenges in very low-light-level measurement and single photon detection. Succeeded in conducting Young's interference experiment with single photons.
+Changed our company name to Hamamatsu Photonics K.K.
+Placed Photonic microscope systems (video camera systems for microscopes) on the market.
+1984
+Placed the PIAS (Photon-counting Image Acquisition System) on the market.
+Officially registered on over-the-counter market of Japan Securities Dealers Association.
+Placed xenon lamps on the market.
+1985
+Established an affiliated company in France.
+Placed high power pulsed laser diodes on the market.
+1988
+Japanese Prince Akihito (now the emperor) visited our Toyooka Factory.
+Established affiliated companies in the UK and Sweden and a joint venture company (manufacturing subsidiary company) in China.
+1990s
+Beginning of new explorations: Stepping forward to contribute to better human life
+1990
+1991
+1994
+1996
+Company's stock registered on the second section of the Tokyo Stock Exchange.
+1998
+Company's stock registered on the first section of the Tokyo Stock Exchange.
+Succeeded for the first time in the world in artificial indoor cultivation of rice plants using semiconductor lasers.
+This plant factory succeeded in artificially cultivating rice plants in an indoor farm, for the first time in the world using high-power semiconductor lasers instead of sunlight. This experiment relied on semiconductor lasers that were fabricated by applying our technology developed for laser fusion research. Those semiconductor lasers were designed to emit light at 680 nm where the chloroplasts in rice leaves photosynthesize most vigorously. Compared to conventional cultivation methods used in plant factories, this new method applying semiconductor lasers drastically cuts the power cost and shortens the cultivation period, offering the possibility of eliminating global food shortage in the future.
+Photo: Plant factory
+Pioneering for the next generation: Aiming at creating new industries
+2002
+Nobel Prize in physics awarded to Masatoshi Koshiba, professor emeritus of University of Tokyo, for research conducted at Kamiokande where a large number of our photomultiplier tubes were installed.
+Nobel Prize in physics awarded to Masatoshi Koshiba, professor emeritus of University of Tokyo, for research conducted at Kamiokande where a large number of our photomultiplier tubes were installed.
+Masatoshi Koshiba, professor emeritus of University of Tokyo, was awarded the Nobel Prize in Physics for the world’s first successful observation of neutrinos that were released by a supernova explosion in the Large Magellanic Cloud galaxy in 1987. This success was the result of research conducted at Kamiokande where our photomultiplier tubes were installed.
+Photo: Inside of Kamiokande
+2003
+The building of a clinical facility for the Hamamatsu Medical Imaging Center run by the Hamamatsu Medical Photonics Foundation was completed to facilitate the early detection of cancer and dementia.
+2005
+Opened the Graduate School for the Creation of New Photonics Industries with the goal of creating new photonics industries.
+Opened the Graduate School for the Creation of New Photonics Industries with the goal of creating new photonics industries.
+As we move into the 21st century, remarkable globalization is taking place throughout the world in both industrial and economic sectors. In Japan, which has built the foundation for an economic empire by taking academic learning and technologies introduced from foreign countries and further developing and expanding applications for those technologies, we're now finding that we ourselves need to create new industries, and in turn new cultures, which we can then send out into the rest of the world. The Graduate School for the Creation of New Photonics Industries was established by Hamamatsu Photonics and other enterprises for the purpose of cultivating human resources capable of launching new industries that will focus on light and its infinite possibilities. Put differently, the founding of new industries itself is the foremost objective of education at the University.
+Photo: The Graduate School For The Creation Of New Photonics Industries
+Placed NanoZoomer digital slide scanners on the market.
+2009
+2010s
+From Hamamatsu to the world: Making further progress toward global expansion
+2010
+2011
+2013
+Signed the "Photonics Declaration in Hamamatsu 2013 - for establishing Hamamatsu as a Preeminent Photonics City" along with 3 nearby universities.
+Signed the "Photonics Declaration in Hamamatsu 2013 - for establishing Hamamatsu as a Preeminent Photonics City" along with 3 nearby universities.
+Hamamatsu Photonics along with 3 universities of Shizuoka University, Hamamatsu University School of Medicine, and the Graduate School for the Creation of New Photonics Industries, signed the Photonics Declaration in Hamamatsu for establishing Hamamatsu as a preeminent photonics city. By way of this declaration, we reaffirmed our decision to play a useful role in pursuing human happiness through industrial application of light that we know to have unlimited possibilities. To make Hamamatsu a truly preeminent photonics city, we will further probe the unknown and unexplored realms of light while aiming at creating new industries.
+Photo: Written declaration
+Our SSD, APD and photomultiplier tubes contributed to detection of Higgs bosons.
+Nobel Prize in physics awarded to Professors emeritus Francois Englert and Peter W. Higgs for the detection of Higgs bosons.
+Our SSD, APD and photomultiplier tubes contributed to detection of Higgs bosons.
+Nobel Prize in physics awarded to Professors emeritus Francois Englert and Peter W. Higgs for the detection of Higgs bosons.
+Professors emeritus Francois Englert and Peter W. Higgs were awarded the Physics Nobel Prize for detecting Higgs bosons often called "God’s particles" in the Large Hadron Collider (LHC) research at CERN, where our SSD, Si APD, and photomultiplier tubes were used.
+Photo: SSD (silicon strip detectors) installed inside the Large Hadron Collider at CERN
+20-inch photomultiplier tubes for neutrino observation were certified as an IEEE Milestone.
+20-inch photomultiplier tubes for neutrino observation were certified as an IEEE Milestone.
+The 20-inch diameter photomultiplier tube we developed for Proton decay experiments at Kamiokande was awarded an IEEE Milestone for contributing to neutrinos observation. The IEEE Milestone is an award presented by the IEEE, the world’s largest technical professional organization in the electrical, electronic, information, and communication fields. This award recognizes the historical achievement of technical innovations that must have been developed at least 25 years ago and that have contributed to further development of society and industry. The plaque presented as an IEEE Milestone award was mounted on a rock and installed as a plaque monument at our Toyooka Factory site. The rock used for the plaque monument is Hida gneiss delivered from the Kamioka mine where these cutting-edge experiments in particle physics are still going on. The plaque monument was placed facing toward the Kamioka mine as if it is watching over the next achievement and awaiting new discoveries.
+Photo: IEEE Milestone dedication ceremony
+2014
+2015
+Nobel Prize in physics awarded to Takaaki Kajita, professor of University of Tokyo for research conducted at Super-Kamiokande equipped with a large number of our photomultiplier tubes.
+Photo: 20-inch  photomultiplier tubeTo use all available functions on this site, JavaScript must be enabled on your browser.
+Menu
+Products
+Applications
+Why Hamamatsu?
+Support
+Our Company
+Products
+Products Top
+Devices & units
+Optical sensors
+Optical components
+Cameras
+Light & radiation sources
+Lasers
+Systems
+Manufacturing support systems
+Semiconductor manufacturing support systems
+Photometry systems
+Life science & medical systems
+All products
+CMOS cameras
+CCD cameras
+EM-CCD cameras
+InGaAs cameras
+TDI cameras
+Board-level CMOS cameras
+Board-level TDI cameras
+X-ray line scan cameras
+X-ray TDI cameras
+X-ray CMOS cameras
+X-ray CCD camera
+High resolution X-ray imaging system
+Imaging software
+Semiconductor lasers
+Applied products of semiconductor lasers
+Laser-related products
+Digital slide scanner
+Drug screening system
+Brain & tissue oxygen monitors
+Blood vessels observation camera system
+Immunochromato Reader
+LEDs
+UV-LED light sources
+Lamps
+Lamp modules & units
+Microfocus X-ray sources
+Optical blocks
+Scan blocks 
+Fiber optic plates (FOP)
+FAC lenses
+Collimating capillary lenses
+Capillary plates
+Flow cells
+LCOS-SLM (Optical Phase Modulator)
+Image splitting optics
+MEMS mirrors
+SERS substrates
+Photodiodes
+Avalanche photodiodes (APDs)
+Photo IC
+MPPCs (Multi-Pixel Photon Counters)
+Photomultiplier tubes (PMTs)
+Phototubes
+Image sensors
+Spectrum sensors
+Infrared detectors
+UV & flame sensors
+X-ray sensors
+Radiation sensors
+Electron & ion sensors
+Distance & position sensors
+Application-specific sensors
+Plasma process monitor
+Stealth dicing engines
+Failure analysis system
+Mini-spectrometer
+Raman spectroscopy
+Multichannel spectral system
+Molecular orientation characteristic measurement system
+Luminescence efficiency measurement system
+Fluorescence lifetime / transient absorption analysis system
+Streak camera
+Thickness measurement system
+Pinhole inspection units
+UV-LED light sources
+RF electric discharge type excimer lamp
+Applied products of semiconductor lasers
+Electrostatic removers
+Quality Control
+We are actively taking measures to improve product quality levels.
+Applications
+Computed radiography (CR)
+Digital radiography (DR)
+PET scanner
+DNA sequencer
+PCR
+High-Throughput Screening / High-Content Screening
+Flow cytometer
+Laser scanning microscope
+Laser rangefinder
+Gas analyzer
+Encoder
+Color measurement
+Plastic optical fiber communications
+LiDAR
+Radiation detection
+Baggage, cargo, and container inspection
+Applications
+Why Hamamatsu?
+Support
+Contact us
+Discontinued products
+RoHS compliant products
+CE marked products
+Glossary
+Product FAQs
+Disclaimer
+Support
+Our Company
+Hamamatsu at a glance
+Corporate profile
+Business domain
+Global organizations
+Investor relations
+Corporate social responsibility
+News & events
+President's message
+Our philosophy
+History
+Central Research Laboratory
+Our Company
+Contact
+Wishlist
+History
+ (
+)
+Select your region and country.
+Africa
+Americas
+Asia/Pacific
+Europe
+Middle East
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Central African
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Congo, DR
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, DPR
+Korea
+Kuwait
+Kyrgyzstan
+Lao, PDR
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia, FS
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Yemen
+Zambia
+Zimbabwe
+English
+Japanese
+Select
+Home
+Our Company
+Central Research Laboratory
+Principles and organization of our Central Research Laboratory
+Life Photonics
+A future where the Earth, its people, and all living things coexist in a harmonious balance - Hamamatsu Photonics aims to make this dream a reality through research into “light” which is the source of all matter.
+What will our future be like 20 or 30 years from now? How about a future where all people can enjoy comfortable and active lives with peace of mind and where an optimal balance is maintained among the Earth, its people and all living things? To make this dream a reality we will have to overcome many obstacles and challenges.
+
+Our Central Research Laboratory is conducting R&D work that conforms to “sustainability” values. We call this work “Life Photonics” which is based on the theme of “life” encompassing a broad range of areas such as life, living things, human life, vitality sources, and ways of living. We will continue researching a diverse spectrum of photonics and optical technologies taking “Life Photonics” as our motivating theme.
+What is light? What can we do with light? Technology development at Hamamatsu always starts as a dialogue with light. In this process, our Central Research Laboratory and a number of specialized research facilities play fundamental roles and conduct basic research into light, while pursuing applied research across a diverse range of fields including Optical information processing and measurement, Health and medical care, biotechnology, material science, and energy.
+Facilities
+The Central Research Laboratory in Hamamatsu City, Shizuoka Pref. is home to a host of specialized research facilities including the Research Center, the Material Center, the PET Center, the Medical Imaging Center, and the Biotechnology Center. In the Central Research Laboratory, a wide range of research is carried out ranging from basic research which pursues the nature of light to applied research in which the knowledge and technology acquired through basic research is applied in industries.
+At our Industrial Development Research Center located in Hamamatsu City, we are setting our sights on creating new industries that utilize light for fields including power generation, medical care, and material modification, while working on our core research of “laser fusion” that has the potential to extract energy from hydrogen isotopes in seawater always available in endless quantities.
+Tsukuba Research Laboratory in Tsukuba City, Ibaraki Pref. primarily conducts research on bio-photonics in which opto-technology is applied in the field of life science.
+Research Center
+Material Center
+PET Center
+Biotechnology Center
+Medical Imaging Center
+Tsukuba Research Center
+Industrial development Center
+Research Fields
+Optical information processing and measurement 
+To achieve the grand dream of “optical computers” as well as an understanding the “complex systems” and “interactions between light and matter,” we have conducted extensive research and created technology for generating and applying so-called new light. We are progressing step by step toward an entirely new type of information processing achieved through research into highly sophisticated light control and measurement on the spatial axis, time axis, and wavelength axis of light.
+Health and medical care 
+What can photonics technology do to bring ”true health” to all of us? A wide variety of approaches have been continually applied in this field to provide people with a full and healthy life. These include development of PET systems and PET applied research, biomedical measurement using near-infrared light, sports-related measurements and even biotechnology-related research. These research approaches also serve to expand the future potential of photonics technology itself.
+Biophotonics 
+Biotechnology research is the best possible field for following up on the possibilities offered by photonics technology. We have been doing applied research in this field in a continual search for what can only be revealed by light and in areas where light is of critical importance. This field offers unlimited possibilities for applying photonics technology and we are doing our utmost to propose new photonics technology combining diverse technical areas including light sources and sensors as well as bioassay technology.
+Optical materials
+In the interaction between light and matter, when the structure of a substance is the same or smaller than the nano-region or in other words the target light wavelength, then that material behaves completely different than it would in the macro region. We refer to this interaction between light and matter and also the interaction between light and electrons in the nano-region as nanophotonics. Our current research in this field focuses on new materials and optical devices that utilize the interaction between this new type of light and matter.
+Energy
+The start of a new industry gives people a new way of life which then creates a new sense of values. The new and true knowledge found from this new sense of values gives birth to new science. To develop new industrial fields, we are setting our sights on creating new industries that utilize light, such as power generation, medical care, and material modification while working on our core research of “laser fusion” that has the potential to extract energy from hydrogen isotopes in seawater available in limitless quantities.
+Our Company
+Hamamatsu at a glance
+Corporate profile
+Business domain
+Global organizations
+President's message
+Our philosophy
+History
+Investor relations
+Central Research Laboratory
+Corporate social responsibility
+News & events
+Home
+Our Company
+Contact
+Wishlist
+History
+Contact us
+Privacy Policy
+Terms of Use
+Help
+Site Map
+Copyright © Hamamatsu Photonics K.K. All Rights Reserved.
+Confirmation
+It looks like you’re in the 
+.  If this is not your location, please select the correct region and country below.
+You're headed to 
+Hamamatsu Photonics website for 
+U.K.
+ (
+English
+)
+.  If you want to view an other country's site, the optimized information will be provided by selecting options below.
+Africa
+Americas
+Asia/Pacific
+Europe
+Middle East
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Central African
+Chad
+Chile
+China
+Colombia
+Comoros
+Congo
+Congo, DR
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, DPR
+Korea
+Kuwait
+Kyrgyzstan
+Lao, PDR
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia, FS
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russian Federation
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+Sudan
+Suriname
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Viet Nam
+Yemen
+Zambia
+Zimbabwe
+English
+Japanese
+Continue
+In order to use this website comfortably, we use cookies. For cookie details please see our cookie policy.
+Cookie Policy
+This website or its third-party tools use cookies, which are necessary to its functioning and required to achieve the purposes illustrated in this cookie policy.  By closing the cookie warning banner, scrolling the page, clicking a link or continuing to browse otherwise, you agree to the use of cookies.
+Hamamatsu uses cookies in order to enhance your experience on our website and ensure that our website functions.
+You can visit this page at any time to learn more about cookies, get the most up to date information on how we use cookies and manage your cookie settings. We will not use cookies for any purpose other than the ones stated, but please note that we reserve the right to update our cookies.
+1. What are cookies?
+For modern websites to work according to visitor’s expectations, they need to collect certain basic information about visitors. To do this, a site will create small text files which are placed on visitor’s devices (computer or mobile) - these files are known as cookies when you access a website. Cookies are used in order to make websites function and work efficiently. Cookies are uniquely assigned to each visitor and can only be read by a web server in the domain that issued the cookie to the visitor. Cookies cannot be used to run programs or deliver viruses to a visitor’s device.
+Cookies do various jobs which make the visitor’s experience of the internet much smoother and more interactive. For instance, cookies are used to remember the visitor’s preferences on sites they visit often, to remember language preference and to help navigate between pages more efficiently. Much, though not all, of the data collected is anonymous, though some of it is designed to detect browsing patterns and approximate geographical location to improve the visitor experience.
+Certain type of cookies may require the data subject’s consent before storing them on the computer.
+2. What are the different types of cookies?
+This website uses two types of cookies:
+First party cookies.
+ For our website, the first party cookies are controlled and maintained by Hamamatsu. No other parties have access to these cookies.
+Third party cookies.
+ These cookies are implemented by organizations outside Hamamatsu. We do not have access to the data in these cookies, but we use these cookies to improve the overall website experience.
+3. How do we use cookies?
+This website uses cookies for following purposes:
+Certain cookies are necessary for our website to function. These are strictly necessary cookies and are required to enable website access, support navigation or provide relevant content. These cookies direct you to the correct country, and support security and ecommerce. Strictly necessary cookies also enforce your privacy preferences. Without these strictly necessary cookies, much of our website will not function.
+Analytics cookies are used to track website usage. This data enables us to improve our website usability, performance and website administration. In our analytics cookies, we do not store any personal identifying information.
+Functionality cookies. These are used to recognize you when you return to our website. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+Cookies help us help you. Through the use of cookies, we learn what is important to our visitors and we develop and enhance website content and functionality to support your experience. Much of our website can be accessed if cookies are disabled, however certain website functions may not work. And, we believe your current and future visits will be enhanced if cookies are enabled.
+4. Which cookies do we use?
+There are two ways to manage cookie preferences.
+You can set your cookie preferences on your device or in your browser.
+You can set your cookie preferences at the website level.
+If you don’t want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
+If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit www.aboutcookies.org, which contains comprehensive information on how to do this on a wide variety of desktop browsers.
+5. What are Internet tags and how do we use them with cookies?
+Occasionally, we may use internet tags (also known as action tags, single-pixel GIFs, clear GIFs, invisible GIFs and 1-by-1 GIFs) at this site and may deploy these tags/cookies through a third-party advertising partner or a web analytical service partner which may be located and store the respective information (including your IP-address) in a foreign country. These tags/cookies are placed on both online advertisements that bring users to this site and on different pages of this site. We use this technology to measure the visitors' responses to our sites and the effectiveness of our advertising campaigns (including how many times a page is opened and which information is consulted) as well as to evaluate your use of this website. The third-party partner or the web analytical service partner may be able to collect data about visitors to our and other sites because of these internet tags/cookies, may compose reports regarding the website’s activity for us and may provide further services which are related to the use of the website and the internet. They may provide such information to other parties if there is a legal requirement that they do so, or if they hire the other parties to process information on their behalf. 
+If you would like more information about web tags and cookies associated with on-line advertising or to opt-out of third-party collection of this information, please visit the Network Advertising Initiative website http://www.networkadvertising.org.
+6. Analytics and Advertisement Cookies
+We use third-party cookies (such as Google Analytics) to track visitors on our website, to get reports about how visitors use the website and to inform, optimize and serve ads based on someone's past visits to our website.
+You may opt-out of Google Analytics cookies by the websites provided by Google:
+As provided in this Privacy Policy (Article 5), you can learn more about opt-out cookies by the website provided by Network Advertising Initiative:
+We inform you that in such case you will not be able to wholly use all functions of our website.
+CloseConfirmation
+It looks like you’re in the US.  If this is not your location, please select the correct region and country below.
+You're headed to Hamamatsu Photonics website for U.K. (English).  If you want to view an other country's site, the optimized information will be provided by selecting options below.
+Continue
+In order to use this website comfortably, we use cookies. For cookie details please see our cookie policy.
+This website or its third-party tools use cookies, which are necessary to its functioning and required to achieve the purposes illustrated in this cookie policy.  By closing the cookie warning banner, scrolling the page, clicking a link or continuing to browse otherwise, you agree to the use of cookies.
+Hamamatsu uses cookies in order to enhance your experience on our website and ensure that our website functions.
+You can visit this page at any time to learn more about cookies, get the most up to date information on how we use cookies and manage your cookie settings. We will not use cookies for any purpose other than the ones stated, but please note that we reserve the right to update our cookies.
+1. What are cookies?
+For modern websites to work according to visitor’s expectations, they need to collect certain basic information about visitors. To do this, a site will create small text files which are placed on visitor’s devices (computer or mobile) - these files are known as cookies when you access a website. Cookies are used in order to make websites function and work efficiently. Cookies are uniquely assigned to each visitor and can only be read by a web server in the domain that issued the cookie to the visitor. Cookies cannot be used to run programs or deliver viruses to a visitor’s device.
+Cookies do various jobs which make the visitor’s experience of the internet much smoother and more interactive. For instance, cookies are used to remember the visitor’s preferences on sites they visit often, to remember language preference and to help navigate between pages more efficiently. Much, though not all, of the data collected is anonymous, though some of it is designed to detect browsing patterns and approximate geographical location to improve the visitor experience.
+Certain type of cookies may require the data subject’s consent before storing them on the computer.
+2. What are the different types of cookies?
+This website uses two types of cookies:
+First party cookies. For our website, the first party cookies are controlled and maintained by Hamamatsu. No other parties have access to these cookies.
+Third party cookies. These cookies are implemented by organizations outside Hamamatsu. We do not have access to the data in these cookies, but we use these cookies to improve the overall website experience.
+3. How do we use cookies?
+This website uses cookies for following purposes:
+Certain cookies are necessary for our website to function. These are strictly necessary cookies and are required to enable website access, support navigation or provide relevant content. These cookies direct you to the correct country, and support security and ecommerce. Strictly necessary cookies also enforce your privacy preferences. Without these strictly necessary cookies, much of our website will not function.
+Analytics cookies are used to track website usage. This data enables us to improve our website usability, performance and website administration. In our analytics cookies, we do not store any personal identifying information.
+Functionality cookies. These are used to recognize you when you return to our website. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+Cookies help us help you. Through the use of cookies, we learn what is important to our visitors and we develop and enhance website content and functionality to support your experience. Much of our website can be accessed if cookies are disabled, however certain website functions may not work. And, we believe your current and future visits will be enhanced if cookies are enabled.
+4. Which cookies do we use?
+There are two ways to manage cookie preferences.
+You can set your cookie preferences on your device or in your browser.
+You can set your cookie preferences at the website level.
+If you don’t want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
+If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit www.aboutcookies.org, which contains comprehensive information on how to do this on a wide variety of desktop browsers.
+5. What are Internet tags and how do we use them with cookies?
+Occasionally, we may use internet tags (also known as action tags, single-pixel GIFs, clear GIFs, invisible GIFs and 1-by-1 GIFs) at this site and may deploy these tags/cookies through a third-party advertising partner or a web analytical service partner which may be located and store the respective information (including your IP-address) in a foreign country. These tags/cookies are placed on both online advertisements that bring users to this site and on different pages of this site. We use this technology to measure the visitors' responses to our sites and the effectiveness of our advertising campaigns (including how many times a page is opened and which information is consulted) as well as to evaluate your use of this website. The third-party partner or the web analytical service partner may be able to collect data about visitors to our and other sites because of these internet tags/cookies, may compose reports regarding the website’s activity for us and may provide further services which are related to the use of the website and the internet. They may provide such information to other parties if there is a legal requirement that they do so, or if they hire the other parties to process information on their behalf.
+If you would like more information about web tags and cookies associated with on-line advertising or to opt-out of third-party collection of this information, please visit the Network Advertising Initiative website http://www.networkadvertising.org.
+6. Analytics and Advertisement Cookies
+We use third-party cookies (such as Google Analytics) to track visitors on our website, to get reports about how visitors use the website and to inform, optimize and serve ads based on someone's past visits to our website.
+You may opt-out of Google Analytics cookies by the websites provided by Google:
+Applications
+Sales Trend Since Company Founding(consolidated)
+We develop and sell various products using optical technology. In September 2017, consolidated sales reached $1,154 million.
+Products：
+* As of September 2017
+We provide  various products ranging from high-performance devices such as photomultiplier tubes, opto-semiconductors, and light sources, to image processing and measurement equipment. These products are used in a wide range of fields including medical, manufacturing, analysis, measurement, and academic research.
+Shipping destinations：
+100+ countries
+* As of September 2017, consolidated
+Our headquarters are located in Japan, and we have offices all over the world including Europe, Asia, and the U.S..
+Today, our products are used in over countries.
+R&D expense-to-sales ratio：9.0%
+R&D Expenditure Data by Industry
+*Investigation carried out by the Ministry of Internal Affairs and Communications statistics department in 2017
+Our research focuses not only on product development but also on exploring the nature of light and applying our findings to improving current applications and creating new ones. 9.0% of our sales turnover is re-invested into R&D expenses.
+PMT market share ： 90%
+High-sensitivity photomultiplier tubes are a top-selling product manufactured since our company was founded. The evolution of this product line over the years has enabled us to capture 90% of the global market.
+Furthermore, various products such as opto-semiconductor devices, cameras, and measurement instruments are active in the market.
+Established：1953
+We have been exploring the possibilities of light for over 60 years. Our history began in 1953 under the name of Hamamatsu TV Co., which manufactured phototubes that converted light into electrical signals.
+In 1983, we adopted the name Hamamatsu Photonics and broadened our aim to further develop opto-electronic technology.
+Workforce：
+* As of September 2017, consolidated
+Since the first overseas subsidiary was established in the U.S. in 1969, Hamamatsu Photonics has established branches in major cities in the U.S., Europe, and Asia with a total of over 4,600 active employees worldwide.
+Research & production facilities：10
+The majority of our three research centers and seven manufacturing facilities are located in the suburbs of Hamamatsu City, where the company was founded.
+Their proximity to each other enables close collaboration.
+Hamamatsu at a glanceConfirmation
+It looks like you’re in the US.  If this is not your location, please select the correct region and country below.
+You're headed to Hamamatsu Photonics website for U.K. (English).  If you want to view an other country's site, the optimized information will be provided by selecting options below.
+Continue
+In order to use this website comfortably, we use cookies. For cookie details please see our cookie policy.
+This website or its third-party tools use cookies, which are necessary to its functioning and required to achieve the purposes illustrated in this cookie policy.  By closing the cookie warning banner, scrolling the page, clicking a link or continuing to browse otherwise, you agree to the use of cookies.
+Hamamatsu uses cookies in order to enhance your experience on our website and ensure that our website functions.
+You can visit this page at any time to learn more about cookies, get the most up to date information on how we use cookies and manage your cookie settings. We will not use cookies for any purpose other than the ones stated, but please note that we reserve the right to update our cookies.
+1. What are cookies?
+For modern websites to work according to visitor’s expectations, they need to collect certain basic information about visitors. To do this, a site will create small text files which are placed on visitor’s devices (computer or mobile) - these files are known as cookies when you access a website. Cookies are used in order to make websites function and work efficiently. Cookies are uniquely assigned to each visitor and can only be read by a web server in the domain that issued the cookie to the visitor. Cookies cannot be used to run programs or deliver viruses to a visitor’s device.
+Cookies do various jobs which make the visitor’s experience of the internet much smoother and more interactive. For instance, cookies are used to remember the visitor’s preferences on sites they visit often, to remember language preference and to help navigate between pages more efficiently. Much, though not all, of the data collected is anonymous, though some of it is designed to detect browsing patterns and approximate geographical location to improve the visitor experience.
+Certain type of cookies may require the data subject’s consent before storing them on the computer.
+2. What are the different types of cookies?
+This website uses two types of cookies:
+First party cookies. For our website, the first party cookies are controlled and maintained by Hamamatsu. No other parties have access to these cookies.
+Third party cookies. These cookies are implemented by organizations outside Hamamatsu. We do not have access to the data in these cookies, but we use these cookies to improve the overall website experience.
+3. How do we use cookies?
+This website uses cookies for following purposes:
+Certain cookies are necessary for our website to function. These are strictly necessary cookies and are required to enable website access, support navigation or provide relevant content. These cookies direct you to the correct country, and support security and ecommerce. Strictly necessary cookies also enforce your privacy preferences. Without these strictly necessary cookies, much of our website will not function.
+Analytics cookies are used to track website usage. This data enables us to improve our website usability, performance and website administration. In our analytics cookies, we do not store any personal identifying information.
+Functionality cookies. These are used to recognize you when you return to our website. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+Cookies help us help you. Through the use of cookies, we learn what is important to our visitors and we develop and enhance website content and functionality to support your experience. Much of our website can be accessed if cookies are disabled, however certain website functions may not work. And, we believe your current and future visits will be enhanced if cookies are enabled.
+4. Which cookies do we use?
+There are two ways to manage cookie preferences.
+You can set your cookie preferences on your device or in your browser.
+You can set your cookie preferences at the website level.
+If you don’t want to receive cookies, you can modify your browser so that it notifies you when cookies are sent to it or you can refuse cookies altogether. You can also delete cookies that have already been set.
+If you wish to restrict or block web browser cookies which are set on your device then you can do this through your browser settings; the Help function within your browser should tell you how. Alternatively, you may wish to visit www.aboutcookies.org, which contains comprehensive information on how to do this on a wide variety of desktop browsers.
+5. What are Internet tags and how do we use them with cookies?
+Occasionally, we may use internet tags (also known as action tags, single-pixel GIFs, clear GIFs, invisible GIFs and 1-by-1 GIFs) at this site and may deploy these tags/cookies through a third-party advertising partner or a web analytical service partner which may be located and store the respective information (including your IP-address) in a foreign country. These tags/cookies are placed on both online advertisements that bring users to this site and on different pages of this site. We use this technology to measure the visitors' responses to our sites and the effectiveness of our advertising campaigns (including how many times a page is opened and which information is consulted) as well as to evaluate your use of this website. The third-party partner or the web analytical service partner may be able to collect data about visitors to our and other sites because of these internet tags/cookies, may compose reports regarding the website’s activity for us and may provide further services which are related to the use of the website and the internet. They may provide such information to other parties if there is a legal requirement that they do so, or if they hire the other parties to process information on their behalf.
+If you would like more information about web tags and cookies associated with on-line advertising or to opt-out of third-party collection of this information, please visit the Network Advertising Initiative website http://www.networkadvertising.org.
+6. Analytics and Advertisement Cookies
+We use third-party cookies (such as Google Analytics) to track visitors on our website, to get reports about how visitors use the website and to inform, optimize and serve ads based on someone's past visits to our website.
+You may opt-out of Google Analytics cookies by the websites provided by Google:
+Applications
+The spirit of pursuing the unknown and unexplored - inherited from our predecessors
+Hamamatsu Photonics K.K. started as a small firm established in 1953 by Heihachiro Horiuchi who studied under the guidance of Dr. Kenjiro Takayanagi now respectfully called the “father of Japanese television.” Since then, we have inherited the “photoelectric technology” developed by Dr. Takayanagi for converting light into electrical signals as well as “the spirit of pursuing unknown and unexplored realms” which led him to the achievement of displaying the Japanese character “イ” on a cathode-ray tube for the first time in the world. Over the past 65 years, we have been consistently engaged in developing photoelectric devices and their application products while moving forward along with the continuing advances in technologies of light.
+Just as electrons and electronics brought immeasurable richness to our lives in the 20th century, the 21th century will be the age of photons (particles of light) and photonics. Spurred by the unlimited possibilities of light, photonics technology is increasingly applied in a wide range of fields. However, the interaction of light with matter is still hardly understood at the present time. By pursuing the ultimate limits of photoelectric conversion technology to approach the true nature of light, Hamamatsu Photonics has been challenging the unknown where no one has yet explored, with the aim of creating new industries by utilizing light and acquiring new knowledges.
+“Fortune” - the goddess of fortune in Roman myth
+To catch the goddess of fortune, one has to get ahead of her and seize her by the forelocks.
+Dr. Kenjiro Takayanagi (1899 to 1990)
+Dr. Kenjiro Takayanagi - “Father of Japanese television”
+Dr. Kenjiro Takayanagi - “Father of Japanese television” Dr. Kenjiro Takayanagi was born in Hamamatsu, Japan in 1899, and graduated from the industrial teacher training school attached to the Tokyo Kuramae Higher Technical School (now Tokyo Institute of Technology). In 1924, he returned to his hometown Hamamatsu and took a post as an assistant professor at Hamamatsu Industrial High School (now the Faculty of Engineering of Shizuoka University), and at the same time he started research on television technology. Being encouraged by the school philosophy “Freedom and Enlightenment,” Dr. Takayanagi’s research team succeeded for the first time in the world in displaying an image (Japanese character “イ”) on an electronic television screen. This was in 1926, a mere 2 years after he had started his research work.
+Heihachiro Horiuchi, the founding president of our company, studied as a student directly under Dr. Takayanagi and was guided by him at Hamamatsu Industrial High School. Dr. Takayanagi spoke to his students from time to time saying things like, “What is the purpose of that technology? Will technology prove beneficial to our lives? Make these questions a fundamental part of your research at all times.” He also admonished us not to “learn for learning’s sake” and “research for research’s sake” and always struggled to link the acts of learning and research to value in human life and human society. He never changed this philosophy throughout his whole life.
+The Japanese character “イ”displayed on a cathode-ray tube.
+(The photograph shows a device reproducing the character in the Hamamatsu Science Museum.)
+Seizing the forelocks of the goddess
+As Kenjiro Takayanagi was pursuing his research and was engaged in developing technology that would serve society ten to twenty years in the future, he occasionally had a mental image of the goddess of fortune, and always saw her portrayed as a beautiful woman with full bangs, but no hair at the back of her head. Playing with this idea, Takayanagi imagined that, in order to seize the goddess of fortune, one would have to be one step ahead of her, wait for her to catch up, and then turn around and seize her by the forelocks. Applying this whimsical fancy to his work, Takayanagi resolved to always be one step ahead and have the technology ready when the opportunity to apply it came within reach. Hamamatsu Photonics carries on this spirit today, constantly striving to be ready and waiting when opportunity arises.
+Water is invisible to the fish in a pond.
+The fish is swimming without being aware that it is alive thanks to oxygen in air dissolved in water.
+We are also living in the unknown and this supreme unknown is light
+Heihachiro Horiuchi (1915 to 1997) with a phototube in hand.
+Heihachiro Horiuchi, the founder of our company
+Being fascinated by the wonders of light since his elementary school days, Heihachiro Horiuchi entered the Electrical Department of Hamamatsu Industrial High School (now the Faculty of Engineering of Shizuoka University) where his hero Professor Takayanagi was teaching and was greatly inspired by the professor’s philosophy called Takayanagi-ism. Horiuchi decided to follow this “path of light” by providing society with the means or namely products that would make effective use of light and he worked on developing photoelectric devices that convert light into electrical signals and even now this basic technology still supports our work.
+“Pursuing the path of light” (the words spoken by Horiuchi at the 40th anniversary of the founding of our company)
+At the time that the words “optical industry” did not even exist, I thought of making a living by starting a company to produce and sell photoelectric devices. Some of my seniors were worried and advised me, “Those things are like works of art and won’t make any business profits from the viewpoint of both marketability and yield rate. So should give up on this dream.” However, I had heard a story during my elementary school days: “The light from Polaris also called the North Star travels through space for 800 light-years before reaching us on Earth.” Since then, I have been totally fascinated by “light” and also attracted to the Professor Takayanagi’s research on television and my thoughts resonated with the spirit of Takayanagi-ism. All of this had already led me to the decision that I would go my own way to pursue the path of light even if I didn’t have enough food, clothing or shelter, so there was nothing to hold me back from following my dream. Light is the source of our lives and also greatly relates to our mental activities. Nevertheless, light is nearly totally unknown to us. I then established the management philosophy underlying a way to understand the nature of light and provide society with a means that allows us to make more use of light.
+Instead of being taught by someone, try to see it with your own eyes, listen to it with your own ears, and understand it with your own heart.
+What we do not yet know and what we have not yet done are infinite.
+Teruo Hiruma, Former Chairman and CEO(1926 to 2018)
+Speech at the 24th Hamamatsu Conference in 2007
+Teruo Hiruma, Former Chairman and CEO
+Teruo Hiruma is one of the founding members and the former president of our company. After graduating in 1947 from the Machinery Department of Hamamatsu Industrial High School in the old education system (now the Faculty of Engineering of Shizuoka University), he established “Hamamatsu TV Co., Ltd.” along with Heihachiro Horiuchi and Norio Hanyu in 1953. Then, in 1978, Teruo Hiruma became the second president. He strongly pushed toward the challenge of opening up the unknown and unexplored which was taken over from Dr. Takayanagi and Heihachiro Horiuchi, and as a result our company has grown into a worldwide company leading the pack in photonics technology. In 1983, the company name was changed to “Hamamatsu Photonics K.K.” Then, in 2004, Teruo Hiruma became Chairman and Representative Director of Hamamatsu Photonics. Since 2017, he has served as honorary chairman of Hamamatsu Photonics.
+Photon is our business. First an idea, next a goal, and finally a way.
+Today, the application of light is ubiquitous in every field around us. Each field has become a large market and created its own specific industries. We have gained a great deal of knowledge through photonics technology in measuring the ultimate limits of light and its applied research especially in cutting-edge research fields. Based on this knowledge amassed over many years, we are aiming ourselves to create new industries by using photonics technology.
+As long as we work in the field of light and photonics, we have an important role to play in pursuing and revealing the possibilities of light in this century. There are lots of things to do. Don’t say, I CAN’T, instead say, I WILL TRY.
