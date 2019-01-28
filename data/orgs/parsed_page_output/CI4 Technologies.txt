@@ -1,0 +1,12 @@
+Who We Are
+infOsci is a technology company based in Northern Virginia with deep roots in the intelligence community and information security. The company’s patented Ci4™ technology eliminates the risk associated with passwords, static certificates, and public key infrastructure (PKI)—where credentials can be hacked, spoofed, or stolen.
+leverages a revolutionary system of dynamic and ever-changing credentials for perpetually securing devices and communications. This new security framework also speeds remediation and recovery from attacks, allowing organizations to resume security and connectivity faster than current cybersecurity approaches.
+technology can be readily deployed in support of cloud computing, distributed ledger (including blockchains, cryptocurrencies and wallets), e-commerce, the Internet of Things (IoT), medical devices, mobile devices, or any networked device requiring authentication to access a secure system.
+technology delivers security in a world that cannot keep secrets.
+Our Vision
+Visionaries change the world in unanticipated and improbable ways.
+Who would have thought that consumers would listen to music and books on the iPod, and in the process saved the music industry? Steve Jobs did.
+Who would have thought that consumers would get into a car ordered from an app on their phone, disrupting the ride-hailing industry? Travis Kalanick did.
+Who would have thought that a company named Amazon could get consumers to shop online and upend the entire retail industry? Jeff Bezos did.
+That disruptive technology is here again: infOsci’s patented Ci4™ authentication and encryption technology enhances cybersecurity by eliminating the risk of data breaches and improving the customer experience.
+Our vision is of a world in which passwords are relics of the past and never have to be changed or kept secret. 

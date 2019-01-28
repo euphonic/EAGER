@@ -1,0 +1,225 @@
+About Through its mission, “World Harmony through the Development and Sharing of Science and Technology,” established by Mr. Minoru Toyoda, honorary advisor to the All Group, has become the world leader in the research, development, manufacture, and application of ultrafast lasers.
+(Institut Minoru de Recherche Avancé) was founded in 1990 in Ann Arbor, and has become a key member of a global set of companies anchored by the All Group of Japan, which is the world’s third largest manufacturer of automotive components.
+As an organization, is dedicated to creative research and innovation leading to the development of essential technologies for future industrial use. To achieve this, has assembled a team of top-notch researchers and engineers from many disciplines and regions, including some of the brightest talent offered by the international scientific community.
+Throughout the early 1990s, performed fundamental research on ultrafast fiber lasers.  The scientific advancement gained from this research ultimately led to the development of IMRA’s first commercial product in 1995, the Femtolite.  has continued to expand its research base, and transitioned into product development to serve industrial markets.
+Today, the company operates with strong product development and engineering competencies, high-volume manufacturing capability, and rigorous quality control benchmarked to industrial standards. As the oldest and most experienced femtosecond fiber laser company, IMRA’s history reflects the successful implementation of breakthrough technologies into everyday life.
+© 2017 America, Inc.
+IMRA® is a trademark of America, Inc.
+Responsible for system level and board level analog/digital hardware design and software development projects for control of laser products..
+System engineering and integration of electronics with optical and mechanical subsystems.
+Determine user interface and safety requirements according to customer inputs and applicable national and international standards for functional safety, electrical safety, laser safety, and EMI/EMC.
+Perform design, simulation, and test of analog/digital circuit and software functions.
+Generate, revise, update, and document existing hardware/software configurations,  including troubleshooting, repair, and improving of system functionality.
+Work with vendors and suppliers on custom quotations and to resolve delivery or performance issues.
+Coordinate with the Quality Department on safety and regulatory requirements, testing, and certification.
+Support manufacturing, transfer designs from development to production and diagnose manufacturing problems.
+Qualifications:
+BSEE/with 3-5+ years’ relevant experience. Recent Phgraduate with strong educational performance will be considered.
+Experience interfacing analog circuits and digital peripherals with embedded micro-controllers.
+Experience with analog, mixed signal and closed loop designs using op-amps, DACs, ADCs and passive components, operating in a frequency range from to 1 GHz.
+Experience in design using tools such as Altium or Eagle.
+Experience with programming of embedded microprocessors in required.
+programming skills in Verilog preferred.
+Experience in optics/electro-optics is a definite plus.
+Good written/verbal communication and project documentation skills.
+For consideration, please submit the following including a resume and cover letter with salary history or requirements.
+Career Name
+Resume*
+×
+Calibrate equipment for the production group.
+Maintain quality inspection and calibration records.
+Contact suppliers for calibrated devices.
+Purchase order management.
+Ability to interpret drawings.
+Demonstrated solid employment history.
+Applied physics or optics knowledge a plus.
+For consideration, please submit the following including a resume and cover letter with salary history or requirements.
+Career Name
+Resume*
+×
+Exploratory research on innovative ultrafast lasers.
+Report and documentation of R&results.
+Writing for patent application as needed.
+Writing and presenting on research outcome for publication as needed.
+Qualifications:
+Ph.in laser physics, physics, optics, electronic engineering, or other laser-related major.
+Expertise in building ultrafast lasers, including optical & mechanical designing.
+Solid technical background on blue-laser optics or laser optics.
+Skilled in 3software is preferred.
+Skilled in optical design software is preferred.
+For consideration, please submit the following including a resume and cover letter with salary history or requirements.
+Career Name
+Resume*
+×
+Develop production and implement quality control measures.
+Documentation of research results.
+Qualifications:
+or degree in chemistry, biochemistry, materials science, or related fields.
+Hands-on experience in nanoparticle synthesis and characterization.
+Proficient knowledge of surface chemical functionalization and biomolecule conjugation.
+Experience in immunoassay and/or cell biology will be considered a plus.
+Experience in quality control will be considered a plus.
+Excellent communication skills.
+For consideration, please submit the following including a resume and cover letter with salary history or requirements.
+Career Name
+Resume*
+×
+Prototyping new laser products.
+Occasionally involved directly in laser production.
+Troubleshoot build and process issues in production.
+Improve design of products for manufacturability.
+Optical and mechanical test of assemblies, as well as the complete product.
+Qualifications:
+Hands-on knowledge of optics.
+Industrial experience is preferred.
+Knowledge of Microsoft Office (Excel, Word, PowerPoint).
+Familiarity with mechanical or optical tools (Inventor, Zemax) a definite plus.
+Capable of working in a team environment.
+For consideration, please submit the following including a resume and cover letter with salary history or requirements.
+Career Name
+Resume*
+×
+Drafter
+Job Functions:
+Use 3to perform mechanical drawings including simple component parts and complex system parts.
+Works with engineers in development as well as in production.
+Draw part and assembly drawings derived from existing 3models or other engineering documentation.
+Update, maintain and revise drawings and documents.
+Make documents such as a bill of materials and manufacturing-related documents.
+Update, maintain and revise drawings and documents.
+Qualifications:
+Minimum of an Associate’s degree in engineering or related technical field.
+3+ years of hands-on experience with 3drafting of precision parts.
+Ability to productively use Autodesk tools such as Inventor and Vault.
+Able to perform accurate drawings.
+Good understanding of basic GD&limits and fits.
+Good communication skills.
+Ability to work with engineers and correct drawings.
+For consideration, please submit the following including a resume and cover letter with salary history or requirements.
+Career Name
+Resume*
+×
+Find proper laser process recipes for potential customers.
+Tests laser prototypes for material process and feedback to laser developers.
+Develops laser processing devices and key processing machine functions.
+Work with sales and marketing for business development.
+Supports sales and marketing for business exhibitions.
+Develops the capabilities of Application Development Center while working in a team.
+Technically represents laser processing technology externally working with applications and business development manager.
+Qualifications:
+Ph.in engineering or science (MSc is applicable based on the experiences).
+Minimum 3 years of industrial experience in laser material processes and/or laser machining development.
+Knowledgeable in laser optics and sciences of laser material interaction.
+Experience in operating devices necessary for laser material processing.
+Knowledgeable in machine operation language and Labview programming.
+Hands-on experience with machine shop tools and simple electronics.
+Proven communication skills in a business environment.
+Strong people and project management skills, including time management, prioritization, and problem-solving skills.
+Proven capability to be personable and to effectively communicate and present concept and technical data to prospective customers and internal personnel.
+For consideration, please submit the following including a resume and cover letter with salary history or requirements.
+Career Name
+Resume*
+×
+Under direct supervision, assembles products and their components and sub-systems, including those that are extremely fragile.
+Uses various tools and equipment to assemble and test products and their components and subsystems.
+Maintains inventory of products and their components and sub-systems.
+Makes minor adjustments to the assembly workstation and offers feedback on major adjustments.
+Recognizes anomalous results and notifies others.
+Documents work according to existing documentation schemes.
+Maintains inventory of supplies.
+May assume responsibility for oversight of a production workstation, including supplies, maintenance and housekeeping.
+Qualifications
+Associate’s degree in electronics engineering or related field, plus one to two years’ experience electronics assembly, electrical assembly or high school diploma plus three to five years of experience.
+Experience in soldering and wire crimping manufacturing and general assembly
+Electrical and electronic measurement techniques i.e. Oscilloscope, mustimeters etc.
+Experience working with sensitive devices, cable harnesses, inspection, laser and optical sources
+Experience working in an (electrostatic protected area) with ESD’s (electrostatic sensitive devices).
+Good manual dexterity.
+Quality conscious, attention to detail. Experience of working in an and standard workplace.
+For consideration, please submit the following including a resume and cover letter with salary history or requirements.
+Career Name
+Resume*
+×
+Document processing parameters and results of laser processing experiments using various analytical tools (optical microscope, SEM, optical surface profiler, etc.).
+Work together with Laser Applications Research Engineer to evaluate all results.
+Setup and/or make modifications to the laser processing workstation in the lab. This includes optics, optomechanics, electronics and computer control. Document all design changes.
+Monitor performance of the laser (average power, pulse duration, beam quality, etc.). Maintain a log of performance data.
+Keep the labs neat and organized. Track lab consumables in order to maintain stock and not run out.
+Qualifications:
+degree in engineering or science discipline
+Up to 2 years related experience, including extensive hands-on optical lab experience.
+Familiarity with general optics principles, as used for beam alignment and focusing.
+Demonstrated the ability to measure performance parameters of lasers in a laboratory setting.
+Must be able to work independently and as part of a larger team.
+Experience with Aerotech stage controllers and g-code would be preferred.
+Familiarity with Office software.
+Familiarity with Design of Experiments.
+Be flexible to respond to new requests and learn new skills.
+Setting up lasers in the lab generally involves some moderate lifting.
+For consideration, please submit the following including a resume and cover letter with salary history or requirements.
+Career Name
+Resume*
+×
+Under direct supervision, assembles products and their components and subsystems, including those that are extremely fragile.
+Uses various tools and equipment to assemble and test products and their components and subsystems.
+Maintains inventory of products and their components and subsystems.
+Makes minor adjustments to the assembly workstation and offers feedback on major adjustments.
+Recognizes anomalous results and notifies others.
+Documents work according to existing documentation schemes.
+Maintains inventory of supplies.
+May assume responsibility for oversight of a production workstation, including supplies, maintenance and housekeeping.
+Qualifications:
+Required:
+Competency in Office
+Able to work 20 – 40 hours per week between 7:00 am – 5:00 pm.
+Preferred:
+Associate’s degree in engineering or related field, plus one to two years experience in fabrication of optical, optical fiber, mechanical, or fragile parts; or high school diploma plus three to five years of experience.
+Work experience in epoxy use in manufacturing and general chemical use.
+Optical measurement techniques.
+Experience working with laser and optical sources.
+Experience working in an (electrostatic protected area) with ESD’s (electrostatic sensitive devices).
+Experience working in an standard workplace.
+For consideration, please submit the following including a resume and cover letter with salary history or requirements.
+Career Name
+Resume*
+×
+Designs and develops ultrashort pulse lasers, amplifiers and related products
+Prototyping new products
+Leads in technical design reviews with documents, test and BOM
+Develops production processes of the prototypes and transfers to production
+Qualifications:
+Expert knowledge in ultrashort pulse lasers
+5+ year industrial R&experience
+Knowledge in optical software, basic mechanical and electronics
+Proficient knowledge and experiences in test and measurement equipment related with ultrashort pulse characterizations
+Excellent verbal and written communication skill
+citizen or permanent residency in US
+For consideration, please submit the following including a resume and cover letter with salary history or requirements.
+Career Name
+Resume*
+×
+Job Functions:
+Design and develop precision mechanical parts for optics for laser products
+Responsible for mechanical component design
+Responsible for mechanical package design
+Responsible for controller package design to drive the laser
+Leads mechanical design review activities
+Leads transferring of mechanical design of parts and products to manufacturing
+Responsible for engineering specs for all mechanical parts used in product
+Develops production assembly processes and jigs
+Qualifications:
+B.Sc or degree in engineering or science discipline
+Proven track record in precision mechanics component and package design
+Knowledge in mechanical process engineering
+Proficient experiences in Autodesk Inventor
+Proficient experiences in analysis
+Proficient experiences in mechanical tolerance analysis
+Experienced knowledge in optics is a plus
+Hands-on capability in mechanical component test
+5+ years of industrial precision mechanics design engineering experience
+Excellent verbal and written communication skills
+Citizen or permanent resident of the United States
+For consideration, please submit the following including a resume and cover letter with salary history or requirements.
+Career Name
+Resume*
+×

@@ -1,7 +1,0 @@
-“Helios Focus strives to make solar PV modules safer; we want them to be reliable over their 30+ year life, and not add any unnecessary cost.”
-“The modules are able to be controlled; either on or off, and can be shut down for emergencies or arc faults”
-Our solution:
-Is easy to understand and install
-Integrates with existing PV system elements
-Lowers balance of system cost compared to alternate rapid shutdown solutions
-.

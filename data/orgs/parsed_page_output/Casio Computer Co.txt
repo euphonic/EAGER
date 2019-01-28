@@ -1,0 +1,270 @@
+WORLDWIDE
+About Corporate
+Message from the President
+Philosophy
+The Four Kashio Brothers
+Company Data
+History
+Library
+Corporate Profile Movie
+Procurement Activities
+News
+Investor Relations
+Financial Results
+Calendar 
+Financial Data
+Share Information
+Sustainability
+Support
+FAQs
+Manuals
+Downloads
+Daylight Saving Time(DST) / Summer Time Adjustment
+Windows / Mac OS
+i/ Android
+Video Tutorials
+Repair / Contact (Change country)
+G-International Warranty Network
+More
+Search
+Home
+Corporate
+Company Data
+Company Data
+About Company Name
+CO., LTD.
+Headquarters
+6-2, Hon-machi 1-chome, Shibuya-ku, Tokyo 151-8543, Japan
+Access Map
+Access Map
+Established
+June 1, 1957
+President and CEO
+Kazuhiro Kashio
+Paid-in Capital
+*
+48,592 million Yen
+Net Sales
+*
+314,790 million Yen
+Number of Employees
+*
+12,298
+as of March 31, 2018
+Directors and Statutory Auditors
+Group
+Major Products
+Timepieces, Electronic Dictionaries, Calculators, Label Printers, Electronic Musical Instruments, Handheld Terminals, Cash Registers, Management Support Systems, Data Projectors, Formed Parts, Molds
+Corporate
+Message from the President
+Philosophy
+Company Data
+History
+Library
+Corporate Profile Movie
+Procurement Activities
+Home
+Corporate
+Company Data
+About Value
+Development
+Quality Policy
+Environmental Performance
+Education
+Communication
+Corporate
+Message from the President
+Philosophy
+The Four Kashio Brothers
+Company Data
+History
+Library
+Corporate Profile Movie
+Procurement Activities
+News
+2018
+2017
+2016
+Investor Relations
+Financial Results
+Calendar 
+Financial Data
+Share Information
+News
+Disclaimer
+FAQ
+Sustainability
+Sustainability Report
+Support
+FAQs
+Manuals
+Downloads
+Daylight Saving Time(DST) / Summer Time Adjustment
+Windows / Mac OS
+i/ Android
+Video Tutorials
+Repair / Contact (Change country)
+G-International Warranty Network
+Search
+© 2018 CO., LTD.
+Privacy Policy
+Cookie Policy
+Terms of Use
+Site Map
+Contact us
+WORLDWIDE
+Select Country or RegionApril 1946: Kashio Seisakujo founded in Mitaka, Tokyo
+The late Kashio Tadao, founder of Co., Ltd., was born in Kureta-mura (now Nankoku City) in Kochi Prefecture, Japan, in 1917. In 1923, after the Great Kanto Earthquake, the whole Kashio family moved to Tokyo at the invitation of an uncle working there. After graduating from high school, Tadao began working as an apprentice to a lathe operator. The factory owner recognized Tadao’s skill and encouraged him to begin studies at Waseda Koshu Gakko (now Waseda University), while still working at the factory. He gained experience in a variety of jobs, making pots, pans, and bicycle generator lamps, and soon earned a reputation for himself and received subcontracts to process parts. In 1946, Tadao set up his own business called Kashio Seisakujo, in Mitaka, Tokyo.
+1954
+Dec.
+December 1954: Prototype of all-electric compact calculator (solenoid model) completed
+Kashio Seisakujo was a small subcontractor factory that made microscope parts and gears. Tadao had three younger brothers, Toshio, Kazuo, and Yukio. Toshio initially worked at the Tokyo office of the Ministry of Communications (now NTT) as a technician, building and equipping telegraph and telephone facilities. However, when Toshio saw how Tadao was toiling every day at his job, he began to wonder if he could come up with something to help his older brother with his career. As a child, the thoughtful Toshio had admired Edison, and told his family that he wanted to become an inventor when he grew up. With his extensive electrical knowledge, Toshio had already achieved results in system improvement at his workplace; however he decided to quit his job to go work at Kashio Seisakujo in order to really test his own abilities for innovation.
+Utilizing his natural inventiveness, Toshio tried out several new ideas. One of these was “the yubiwa (finger ring) pipe.” At that time in postwar Japan, commodities were in short supply, and people smoked their cigarettes down to the very nub. For this reason, Toshio came up with a ring-mounted cigarette holder so that he could also smoke while doing his work. Tadao produced it on a lathe, and their father Shigeru went out to market it. Orders gradually began to pour in and the yubiwa pipe became a hit product soon after it was produced. The profits from this invention would later go towards the capital needed for development of a new kind of calculator.
+Looking for a new product to follow the yubiwa pipe, the Kashio brothers laid eyes on foreign-made electric calculators at the first Business Show held in Ginza, Tokyo, in 1949. Most calculators at that time used mechanical gears, and there were none that employed electronic circuits like today’s devices. The main type of calculator used in Japan at that time was the hand-operated calculator, which employed gears and a hand crank. Although electric calculators using a small motor to turn the gears had already appeared overseas, they could not be manufactured in Japan, as a high level of technical expertise and special quality materials were needed in order to process the parts. Although the electric calculator was faster than the hand-operated model, it was still much slower than calculators today, and since the gears turned at a high speed, it made a shrill noise. With his electrical knowledge, Toshio thought that he could resolve a lot of the problems by using all electrical circuits instead of mechanical parts, and decided to try to make his own calculator. Toshio used a type of electromagnet called a solenoid, and began development of an electric calculator without gears.
+Tadao and Toshio soon found themselves working all day on subcontracting work to make a living, and then spending their evening hours absorbed in developing the calculator. They showed the prototype to people and then made improvements after getting feedback, and in this way worked out the various problems and bugs in the invention. After making ten or more prototypes, they completed Japan’s first electric calculator in 1954. The following year, the Kashio brothers proudly took their finished product to Bunshodo Corporation, the trading company handling office supplies, including calculators. Unfortunately, the Bunshodo representative told them that their calculator was out of date because it could not do continuing multiplication, wherein a multiplication product could be subsequently multiplied by another number.
+Tadao and Toshio once again began spending their days working out the problems with the next prototypes. Around that time, both younger brothers, Kazuo and Yukio, also quit their jobs, and began working at Kashio Seisakujo. Toshio came up with the ideas, Yukio, who had taken mechanical engineering at university, drew the plans, and Tadao and Kazuo did the production. In 1956, six years after the start of development, they were close to completing a calculator with a continuing multiplication function, and all they had left to do was figure out how to mass-produce it. At this point, Toshio suddenly stated that he wanted to completely redesign the calculator. The solenoid design with its complicated mechanical structure meant potential difficulties for mass production. Toshio wanted to eliminate the solenoid design and use relays like those employed in the telephone exchange equipment of those days, in order to make a completely electric calculator.
+Although computers using relays had already appeared by the late 1950s, they were so large that they required a whole room to themselves, complete with an air purification system. The disadvantage of relays was that they were easily affected by fine particles and dust. In order to solve this problem, special ingenuity was needed to bring electronic calculation to regular offices. First, the four Kashio brothers worked to reduce the number of relays from the several thousand (sometimes over ten thousand) used in the giant computers of the day to just 341, through improvements in the circuit design. They also developed an original new type of relay that was hardly affected by dust.
+The greatest feature of the four brothers¡ new invention was the adoption of the ten-key format. The calculators at that time used what was called a “full keypad” with just the numerals 0 to 9 for all the digit places. This newly developed relay-type calculator used only 10 number keys, just like pocket calculators today.
+unique design was also adopted for the display. Calculators at that time had three display windows, and when calculating “100 + 200 = 300” the numerals “100,” “200,” and “300” were all displayed at the same time. However, with the relay calculator, the numbers disappeared after the next number was entered, and just the final answer appeared at the end. Today this seems like common sense, but at that time it was a revolutionary new idea, and it required a lot of hard work to get it accepted. With these innovations however, compact calculators were realized, and the office calculator was born.
+Main functions
+Principal component
+Weight
+140kg
+Price
+¥485,000
+1957
+Jun.
+June 1957: Marketing for the world's first compact all-electric calculator, the "14-A" begins, and Co., Ltd. is established
+At the end of 1956, the brothers decided to unveil their completed calculator in Sapporo, but they ran into a snag when taking the calculator to be loaded onto the plane at Haneda Airport. The person in charge told them that it exceeded the allowable size, and asked them if they could detach the top part. The brothers turned pale. The top part included the display and keys, which were very important for the operation of the calculator. They tried to protest by saying that the calculator could be irreparably damaged, but finally took the machine apart for loading. After arriving in Sapporo they put the calculator back together, but just as they had feared, it no longer worked. They tried in vain to repair it, but it was completely unsalvageable. Although they went ahead with the presentation using slides, it seemed to end as a failure. Just as the brothers arrived home, somewhat discouraged, a representative from Uchida Yoko Co., Ltd., paid them a visit and asked to see the calculator. The branch manager who had seen the presentation in Sapporo had told his head office to investigate the new invention. Since Uchida Yoko had subcontracted work to Kashio Seisakujo in the past, the company already had confidence in the Kashio brothers. Now seven years of hard work in development had suddenly paid off. contract was signed with Uchida Yoko as the exclusive dealer, and in June 1957, Co., Ltd., was established as the development and production company for the relay calculators. The brothers asked their father, Shigeru, to fill the position of President, which he accepted.
+1960's
+1960
+Apr.
+With the relay calculator enjoying strong sales to large corporations and research institutions, continued to grow. In order to meet the growing demand, a new factory was built in Yamato-machi, entering full production in 1960. Energy was also put into the development of new products, and new types of calculators were released one after another, including the Compuwriter, an automatic form output device that connected to an electric typewriter, and the AL-1 calculator for scientific and technological use. continued to lead the market.
+May.
+1962
+Mar.
+Sales Department established, with a dual sales system employing dealer and direct sales
+1965
+Jun.
+Exclusive dealer contract with Uchida Yoko Co., Ltd., discontinued; takes over 50 sales outlets
+Sep.
+Just as the company was achieving strong earnings with the relay calculator, a new wave of technological innovation arrived. An electronic calculator with vacuum tubes first appeared in Great Britain, and before long, many Japanese manufacturers followed with calculators using the newly invented transistors. Electronic calculators were much faster than relay models, completely silent, and were even small enough to fit on top of a desk. With the arrival of this electronic model, sales of relay calculators fell dramatically, leaving a mountain of unsold inventory. had done some research on transistor-based electronic calculators, but accustomed to strong sales of relay calculators, the company had fallen behind others in transistor development, and now found itself in the first crisis since its establishment.
+When it was announced that newly developed relay calculators were intended to compete with electronic models, the dealers who were there insisted that the relay era was over and wanted to know why was not coming out with an electronic model. After much internal debate, the company decided to exhibit a transistor model prototype that had been secretly developed. Even though the prototype still had wiring sticking out, it won overwhelmingly enthusiastic approval. From that day on, put all its energy into electronic calculators, and Casioês first electronic product, the 001, was released in 1965. This product, with a memory function not found in competing calculators, was well received, and the companyês calculator business was back on the road to recovery.
+Tadao and Toshio soon found themselves working all day on subcontracting work to make a living, and then spending their evening hours absorbed in developing the calculator. They showed the prototype to people and then made improvements after getting feedback, and in this way worked out the various problems and bugs in the invention. After making ten or more prototypes, they completed Japan's first electric calculator in 1954. The following year, the Kashio brothers proudly took their finished product to Bunshodo Corporation, the trading company handling office supplies, including calculators. Unfortunately, the Bunshodo representative told them that their calculator was out of date because it could not do continuing multiplication, wherein a multiplication product could be subsequently multiplied by another number.
+Main functions
+Memory: 1 group of 10 digits
+Fixed number memory: 1 group of 7 digits
+Dimensions& weight
+Price
+¥380,000
+1966
+Jun.
+Head office moved to Yamato-machi, Kitatama-gun (now Higashi Yamato City), Tokyo
+Sep.
+September 1966: Electronic desktop calculators exported overseas for the first time
+Due to strong sales in Japan, offers began to come in from overseas for the 001 desktop electronic calculator. Seeing a good opportunity to expand abroad, developed the 101 with improvements for the overseas market, and in 1966 exported its first calculator to Australia. In the following year, established a European office in Switzerland, followed by an overseas sales company in the (Casio, Inc.) in 1970. In 1972, established G.m.b.Deutschland (now Europe G.m.b.H.) in Germany, and the company began growing worldwide.
+1967
+Mar.
+Sep.
+enters the and Canadian markets (partnership with Commodore)
+Oct.
+October 1967: Release of the world ’s first programmable electronic desktop calculators with program (AL-1000 series)
+While expanding its sales routes, also promoted development of various new models. The AL-1000, which realized the world’s first software programmable calculator, was widely used for scientific, technical, and business calculations, becoming a record long-selling product. In addition, went on to quickly release various other products with original new functions, such as the PR-144, which had the two “world-first” features of a read and program system using punch cards and a printer device.
+1969
+Oct.
+October 1969: Kofu Factory completed in Tamaho-mura, Nakakoma-gun, Yamanashi
+Due to strong sales in Japan, offers began to come in from overseas for the 001 desktop electronic calculator. Seeing a good opportunity to expand abroad, developed the 101 with improvements for the overseas market, and in 1966 exported its first calculator to Australia. In the following year, established a European office in Switzerland, followed by an overseas sales company in the (Casio, Inc.) in 1970. In 1972, established G.m.b.Deutschland (now Europe G.m.b.H.) in Germany, and the company began growing worldwide.
+© 2018 CO., LTD.WORLDWIDE
+About Corporate
+Message from the President
+Philosophy
+The Four Kashio Brothers
+Company Data
+History
+Library
+Corporate Profile Movie
+Procurement Activities
+News
+Investor Relations
+Financial Results
+Calendar 
+Financial Data
+Share Information
+Sustainability
+Support
+FAQs
+Manuals
+Downloads
+Daylight Saving Time(DST) / Summer Time Adjustment
+Windows / Mac OS
+i/ Android
+Video Tutorials
+Repair / Contact (Change country)
+G-International Warranty Network
+More
+Search
+Home
+Corporate
+Corporate Profile Movie
+Corporate Profile Movie
+Corporate Introduction Movie 2018
+Introducing businesses and activities of Casio. (9:22)
+Corporate
+Message from the President
+Philosophy
+Company Data
+History
+Library
+Corporate Profile Movie
+Procurement Activities
+Home
+Corporate
+Corporate Profile Movie
+About Value
+Development
+Quality Policy
+Environmental Performance
+Education
+Communication
+Corporate
+Message from the President
+Philosophy
+The Four Kashio Brothers
+Company Data
+History
+Library
+Corporate Profile Movie
+Procurement Activities
+News
+2018
+2017
+2016
+Investor Relations
+Financial Results
+Calendar 
+Financial Data
+Share Information
+News
+Disclaimer
+FAQ
+Sustainability
+Sustainability Report
+Support
+FAQs
+Manuals
+Downloads
+Daylight Saving Time(DST) / Summer Time Adjustment
+Windows / Mac OS
+i/ Android
+Video Tutorials
+Repair / Contact (Change country)
+G-International Warranty Network
+Search
+© 2018 CO., LTD.
+Privacy Policy
+Cookie Policy
+Terms of Use
+Site Map
+Contact us
+WORLDWIDE
+Select Country or Region

@@ -67,7 +67,6 @@ for row in csv_in:
 
     items = res["items"]
 
-
     rank = 1
     for i in range(len(items)): # go through
         formattedUrl = items[i].get("formattedUrl", None)

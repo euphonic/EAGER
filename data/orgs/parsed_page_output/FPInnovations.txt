@@ -1,0 +1,6829 @@
+ var objResource = new Array('OverallRatingPercent;#Overall Rating Percent;#TotalRatings;#Total Ratings;#AverageRating;#Average Rating;#UserRating;#User$s Rating;#TotalNumberofRating;#Total Number of Ratings;#AvgRating;#Avg. Rating;#YourRating;#Your Rating;#RatingSubmitted;#Rating Submitted;#NoRatings;#No Ratings;#Stars;#Stars;#Points;#Points;#Ratings;#Ratings;#QuestionResetItem;#This will reset all ratings for this item, do you wish to continue?;#ResetRatings;#Reset Ratings;#CurrencyDecimalSeparator;#.;#UserIDRating;#-1');
+ CAREERS
+ CARRIÈRES
+ HELP
+ AIDE
+ FRANÇAIS
+ ENGLISH
+Sign In / New Account
+Se connecter / Nouveau compte
+|
+Fermez  X
+Close  X
+Mon panier
+My Cart
+Nom
+Name
+Prix
+Price
+Quantité
+Quantity
+Sous-total
+Subtotal
+Votre panier est vide
+Your shopping cart is currently empty
+ESTIMATION
+ESTIMATE
+Entrez votre destination pour obtenir une estimation de l'expédition et des taxes.
+Enter your destination to get a shipping and taxes estimate.
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+ Required
+ Required
+ Required
+Demandez un Devis
+Get a Quote
+RÉDUCTION
+CODES
+Entrez votre coupon si vous en avez un
+Enter your coupon if you have one
+Appliquer Coupon
+Apply Coupon
+Économie
+Save
+N/A
+N/A
+Sous-total
+Subtotal
+N/A
+N/A
+Frais de livraison
+Shipping
+N/A
+N/A
+TPS
+GST
+N/A
+N/A
+TVP
+PST
+N/A
+N/A
+TVH
+HST
+N/A
+N/A
+Total
+Total
+N/A
+N/A
+Ouverture de session et paiement
+Login to Checkout
+Paiement à titre d'invité
+Checkout as Guest
+Commander
+Checkout
+Poursuivre les achats
+Continue shopping
+Fermez  X
+Close  X
+Étape 2 de 4
+Step 2 of 4
+Facturation / Expédition
+Billing / Shipping
+Email  
+*
+ Required
+ Not valid
+Full name 
+*
+ Required
+ Not valid
+Address 1 
+*
+ Required
+ Not valid
+Country  
+*
+ Required
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+City  
+*
+ Required
+ Not valid
+Confirmation email  
+*
+ Required
+ Not valid
+ Not matching
+Company / Organization
+Address 2
+ Not valid
+Province / State
+Province 
+*
+State 
+*
+ Required
+ Required
+Postal Code / Zip Code 
+*
+Postal Code 
+*
+Zip Code 
+*
+ Required
+ Not valid
+ Required
+ Not valid
+ Required
+ Not valid
+Informations sur la livraison
+Shipping Information
+Full name 
+*
+ Required
+ Not valid
+Address 1 
+*
+ Required
+ Not valid
+Country  
+*
+ Required
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+City  
+*
+ Required
+ Not valid
+Company / Organization
+Address 2
+ Not valid
+Province / State
+Province 
+*
+State 
+*
+ Required
+ Required
+Postal Code / Zip Code 
+*
+Postal Code 
+*
+Zip Code 
+*
+ Required
+ Not valid
+ Required
+ Not valid
+ Required
+ Not valid
+*
+Champs Requis
+*
+Required Fields
+Envoyer à cette adresse
+Ship to this address
+Adresse de livraison différente
+Ship to different address
+Suivant
+Next
+Retour
+Back
+Fermez  X
+Close  X
+Étape 3 de 4
+Step 3 of 4
+Confirmation
+Confirmation
+Nom
+Name
+Prix
+Price
+Quantité
+Quantity
+Sous-total
+Subtotal
+Votre panier est vide
+Your shopping cart is empty
+TAXES
+TAXES
+Les taxes sont calculées pour le pays suivant.
+Taxes are calculated for following country.
+Les taxes sont calculées pour suivre pays et la province.
+Taxes are calculated for following country and province.
+Les taxes sont calculées pour suivre pays et de l'Etat.
+Taxes are calculated for following country and state.
+Pays:
+Country:
+Province / État:
+Province / State:
+Province:
+Province:
+État:
+State:
+LIVRAISON
+SHIPPING
+L'expédition est calculé en fonction du pays suivant.
+The shipping is calculated for following country.
+L'expédition est calculé en fonction du pays et de la province suivante.
+The shipping is calculated for following country and province.
+L'expédition est calculé en fonction du pays et de la province ou l'état suivant.
+The shipping is calculated for following country and state.
+Pays:
+Country:
+Province / État:
+Province / State:
+Province:
+Province:
+État:
+State:
+Value province
+RÉDUCTION
+CODES
+Entrez votre coupon si vous en avez un
+Enter your coupon if you have one
+Appliquer Coupon
+Apply Coupon
+Économie
+Save
+N/A
+N/A
+Sous-total
+Subtotal
+N/A
+N/A
+Frais de livraison
+Shipping
+N/A
+N/A
+TPS
+GST
+N/A
+N/A
+TVP
+PST
+N/A
+N/A
+TVH
+HST
+N/A
+N/A
+Total
+Total
+N/A
+N/A
+Suivant
+Next
+Retour
+Back
+Fermez  X
+Close  X
+Étape 4 de 4
+Step 4 of 4
+Paiement
+Payment
+About Us
+Our Work
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+Research Programs
+Advanced Building Systems
+Bioproducts
+Biorefinery and Energy
+Environment and Sustainability  
++
+Program 
+Forest Operations  
++
+Flagship Initiatives  
++
+Overview
+Mid-Term Fibre Supply Initiative
+Nova Scotia Hub Initiative
+Forestry 4.0 Initiative
+Steep Slope Initiative
+Transportation Initiative
+Research Groups  
++
+Fibre Supply
+Modeling and Decision Support
+Precision Forestry
+Remote Sensing
+Roads and Infrastructure
+Transport & Energy
+Indigenous Forestry Program
+Market Pulp 
++
+Process Engineering
+Paper, Packaging and Consumer Products
+Group
+Primary Wood Products Manufacturing
+Resource Assessment
+Secondary Wood Products Manufacturing
+Value Maximization and Decision Support
+Wildfire Operations
+Solutions & technologies
+Pulp and paper 
++
+Environment 
++
+Sludge Dewatering Optimization
+Nutrient Reduction
+Toxicity Troubleshooting
+Analytical Services 
++
+Corrosion Non-Standard testing
+Industrial Scanner
+Paper and board runnability
+Chemical Analysis & Microscopy
+Physical Testing
+Product benchmarking programs / Proficiency Testing Round Robins
+Reference Materials & Canadian Standard Freeness certification
+Print Quality Services
+Advanced Tissue Characterization
+Energy 
++
+Thermo-Mechanical Pulp Optimization
+Recovery Boiler Optimization
+Power Boiler Optimization
+Process Integration & Energy Management
+Utility system and Power Contracts Optimization
+New technology Assessment for Biomass Conversion
+Sludge Dewatering Optimization
+Pulp - Solutions 
++
+Fibre Line Mass Balance
+Pulping Process Development and Optimization
+Pulp Bleaching Optimization
+Thermo-Mechanical Pulp Optimization
+Recausticizing and Lime Kiln Audit
+Material Selection to avoid corrosion
+Failure Analysis
+Corrosion Monitoring
+Corrosion Non-Standard testing
+Process Integration & Energy Management
+Evalutree
+Pulp - Technologies 
++
+Near Neutral Brightening (NNB)
+CIO2 Generator Control
+Lime Klin Control
+FT-Liquor Analyzer
+Causticizing plant control
+Biomass Sensor
+Tissue 
++
+Process Integration & Energy Management
+Pilot Tissue Machine
+Advanced Tissue Characterization
+Paper and packaging 
++
+Process Integration & Energy Management
+Latex-Treated Paper Filler
+Super-Filled Paper Sheets
+Coating formulation development and optimization
+Paper and board runnability
+Paper and board converting and end-use performance
+Pilot Paper Machine
+Print Quality Services
+Biorefinery 
++
+Material Selection to avoid corrosion
+Process Integration & Energy Management
+Utility system and Power Contracts Optimization
+New technologies Assessment for Biomass Conversion
+Toxicity Troubleshooting
+Forest Operations 
++
+Harvesting 
++
+Biomass Harvesting 
++
+Timber Harvesting 
++
+Forest Transportation and Infratructure 
++
+Transportation 
++
+Vehicle Dynamics and Stability / High-capacity Configurations
+Infrastructure 
++
+Advanced Decision Making 
++
+Supply chain planning tools 
++
+FPDat and FPTrak
+Wood yards
+Wood Products 
++
+Industrial Scanner
+Primary Wood Products Manufacturing
+Secondary Wood Products Manufacturing
+Licensing partners
+Media
+Annual Reports and Reviews of activities
+Fact Sheets
+Logo and brand components
+Newsletters
+News releases
+Want to
+Overview
+Search for publications and tools
+View the calendar of events
+Consult interactions
+First time login
+Reset my password
+Blog
+ / 
+Invalid url
+FPIContentBody
+​Did you try searching? Use the 
+Search
+ page. Need to create a very specific search? Try our 
+Advanced search
+.
+Home
+Help
+FRANÇAIS
+ENGLISH
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+Advanced Building Systems
+Bioproducts
+Biorefinery and Energy
+Environment and Sustainability
+Forest Operations
+Market Pulp
+Indigenous Forestry Program
+Paper, Packaging and Consumer Products
+Group
+Primary Wood Products Manufacturing
+Resource Assessment
+Secondary Wood Products Manufacturing
+Value Maximization and Decision Support
+Wildfire Operations
+related websites
+Coastal Forest Sector Hem-Fir Initiative
+Canadian Wood Council
+Canadian Wood Fibre Centre
+OpenFPI
+FPSuite
+Hardwood Research Initiative
+Naturally Wood
+Partenariat innovation forêt
+Group
+Value to Wood
+Solutions for Wood
+Steep Slope Initiative
+Wildfire Operations Research
+Share
+® 2018 FPInnovations. All rights reserved.
+not-front
+extranet
+1
+2
+3
+4
+5 var objResource = new Array('OverallRatingPercent;#Overall Rating Percent;#TotalRatings;#Total Ratings;#AverageRating;#Average Rating;#UserRating;#User$s Rating;#TotalNumberofRating;#Total Number of Ratings;#AvgRating;#Avg. Rating;#YourRating;#Your Rating;#RatingSubmitted;#Rating Submitted;#NoRatings;#No Ratings;#Stars;#Stars;#Points;#Points;#Ratings;#Ratings;#QuestionResetItem;#This will reset all ratings for this item, do you wish to continue?;#ResetRatings;#Reset Ratings;#CurrencyDecimalSeparator;#.;#UserIDRating;#-1');
+ CAREERS
+ CARRIÈRES
+ HELP
+ AIDE
+ FRANÇAIS
+ ENGLISH
+Sign In / New Account
+Se connecter / Nouveau compte
+|
+Fermez  X
+Close  X
+Mon panier
+My Cart
+Nom
+Name
+Prix
+Price
+Quantité
+Quantity
+Sous-total
+Subtotal
+Votre panier est vide
+Your shopping cart is currently empty
+ESTIMATION
+ESTIMATE
+Entrez votre destination pour obtenir une estimation de l'expédition et des taxes.
+Enter your destination to get a shipping and taxes estimate.
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+ Required
+ Required
+ Required
+Demandez un Devis
+Get a Quote
+RÉDUCTION
+CODES
+Entrez votre coupon si vous en avez un
+Enter your coupon if you have one
+Appliquer Coupon
+Apply Coupon
+Économie
+Save
+N/A
+N/A
+Sous-total
+Subtotal
+N/A
+N/A
+Frais de livraison
+Shipping
+N/A
+N/A
+TPS
+GST
+N/A
+N/A
+TVP
+PST
+N/A
+N/A
+TVH
+HST
+N/A
+N/A
+Total
+Total
+N/A
+N/A
+Ouverture de session et paiement
+Login to Checkout
+Paiement à titre d'invité
+Checkout as Guest
+Commander
+Checkout
+Poursuivre les achats
+Continue shopping
+Fermez  X
+Close  X
+Étape 2 de 4
+Step 2 of 4
+Facturation / Expédition
+Billing / Shipping
+Email  
+*
+ Required
+ Not valid
+Full name 
+*
+ Required
+ Not valid
+Address 1 
+*
+ Required
+ Not valid
+Country  
+*
+ Required
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+City  
+*
+ Required
+ Not valid
+Confirmation email  
+*
+ Required
+ Not valid
+ Not matching
+Company / Organization
+Address 2
+ Not valid
+Province / State
+Province 
+*
+State 
+*
+ Required
+ Required
+Postal Code / Zip Code 
+*
+Postal Code 
+*
+Zip Code 
+*
+ Required
+ Not valid
+ Required
+ Not valid
+ Required
+ Not valid
+Informations sur la livraison
+Shipping Information
+Full name 
+*
+ Required
+ Not valid
+Address 1 
+*
+ Required
+ Not valid
+Country  
+*
+ Required
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+City  
+*
+ Required
+ Not valid
+Company / Organization
+Address 2
+ Not valid
+Province / State
+Province 
+*
+State 
+*
+ Required
+ Required
+Postal Code / Zip Code 
+*
+Postal Code 
+*
+Zip Code 
+*
+ Required
+ Not valid
+ Required
+ Not valid
+ Required
+ Not valid
+*
+Champs Requis
+*
+Required Fields
+Envoyer à cette adresse
+Ship to this address
+Adresse de livraison différente
+Ship to different address
+Suivant
+Next
+Retour
+Back
+Fermez  X
+Close  X
+Étape 3 de 4
+Step 3 of 4
+Confirmation
+Confirmation
+Nom
+Name
+Prix
+Price
+Quantité
+Quantity
+Sous-total
+Subtotal
+Votre panier est vide
+Your shopping cart is empty
+TAXES
+TAXES
+Les taxes sont calculées pour le pays suivant.
+Taxes are calculated for following country.
+Les taxes sont calculées pour suivre pays et la province.
+Taxes are calculated for following country and province.
+Les taxes sont calculées pour suivre pays et de l'Etat.
+Taxes are calculated for following country and state.
+Pays:
+Country:
+Province / État:
+Province / State:
+Province:
+Province:
+État:
+State:
+LIVRAISON
+SHIPPING
+L'expédition est calculé en fonction du pays suivant.
+The shipping is calculated for following country.
+L'expédition est calculé en fonction du pays et de la province suivante.
+The shipping is calculated for following country and province.
+L'expédition est calculé en fonction du pays et de la province ou l'état suivant.
+The shipping is calculated for following country and state.
+Pays:
+Country:
+Province / État:
+Province / State:
+Province:
+Province:
+État:
+State:
+Value province
+RÉDUCTION
+CODES
+Entrez votre coupon si vous en avez un
+Enter your coupon if you have one
+Appliquer Coupon
+Apply Coupon
+Économie
+Save
+N/A
+N/A
+Sous-total
+Subtotal
+N/A
+N/A
+Frais de livraison
+Shipping
+N/A
+N/A
+TPS
+GST
+N/A
+N/A
+TVP
+PST
+N/A
+N/A
+TVH
+HST
+N/A
+N/A
+Total
+Total
+N/A
+N/A
+Suivant
+Next
+Retour
+Back
+Fermez  X
+Close  X
+Étape 4 de 4
+Step 4 of 4
+Paiement
+Payment
+About Us
+Our Work
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+Research Programs
+Advanced Building Systems
+Bioproducts
+Biorefinery and Energy
+Environment and Sustainability  
++
+Program 
+Forest Operations  
++
+Flagship Initiatives  
++
+Overview
+Mid-Term Fibre Supply Initiative
+Nova Scotia Hub Initiative
+Forestry 4.0 Initiative
+Steep Slope Initiative
+Transportation Initiative
+Research Groups  
++
+Fibre Supply
+Modeling and Decision Support
+Precision Forestry
+Remote Sensing
+Roads and Infrastructure
+Transport & Energy
+Indigenous Forestry Program
+Market Pulp 
++
+Process Engineering
+Paper, Packaging and Consumer Products
+Group
+Primary Wood Products Manufacturing
+Resource Assessment
+Secondary Wood Products Manufacturing
+Value Maximization and Decision Support
+Wildfire Operations
+Solutions & technologies
+Pulp and paper 
++
+Environment 
++
+Sludge Dewatering Optimization
+Nutrient Reduction
+Toxicity Troubleshooting
+Analytical Services 
++
+Corrosion Non-Standard testing
+Industrial Scanner
+Paper and board runnability
+Chemical Analysis & Microscopy
+Physical Testing
+Product benchmarking programs / Proficiency Testing Round Robins
+Reference Materials & Canadian Standard Freeness certification
+Print Quality Services
+Advanced Tissue Characterization
+Energy 
++
+Thermo-Mechanical Pulp Optimization
+Recovery Boiler Optimization
+Power Boiler Optimization
+Process Integration & Energy Management
+Utility system and Power Contracts Optimization
+New technology Assessment for Biomass Conversion
+Sludge Dewatering Optimization
+Pulp - Solutions 
++
+Fibre Line Mass Balance
+Pulping Process Development and Optimization
+Pulp Bleaching Optimization
+Thermo-Mechanical Pulp Optimization
+Recausticizing and Lime Kiln Audit
+Material Selection to avoid corrosion
+Failure Analysis
+Corrosion Monitoring
+Corrosion Non-Standard testing
+Process Integration & Energy Management
+Evalutree
+Pulp - Technologies 
++
+Near Neutral Brightening (NNB)
+CIO2 Generator Control
+Lime Klin Control
+FT-Liquor Analyzer
+Causticizing plant control
+Biomass Sensor
+Tissue 
++
+Process Integration & Energy Management
+Pilot Tissue Machine
+Advanced Tissue Characterization
+Paper and packaging 
++
+Process Integration & Energy Management
+Latex-Treated Paper Filler
+Super-Filled Paper Sheets
+Coating formulation development and optimization
+Paper and board runnability
+Paper and board converting and end-use performance
+Pilot Paper Machine
+Print Quality Services
+Biorefinery 
++
+Material Selection to avoid corrosion
+Process Integration & Energy Management
+Utility system and Power Contracts Optimization
+New technologies Assessment for Biomass Conversion
+Toxicity Troubleshooting
+Forest Operations 
++
+Harvesting 
++
+Biomass Harvesting 
++
+Timber Harvesting 
++
+Forest Transportation and Infratructure 
++
+Transportation 
++
+Vehicle Dynamics and Stability / High-capacity Configurations
+Infrastructure 
++
+Advanced Decision Making 
++
+Supply chain planning tools 
++
+FPDat and FPTrak
+Wood yards
+Wood Products 
++
+Industrial Scanner
+Primary Wood Products Manufacturing
+Secondary Wood Products Manufacturing
+Licensing partners
+Media
+Annual Reports and Reviews of activities
+Fact Sheets
+Logo and brand components
+Newsletters
+News releases
+Want to
+Overview
+Search for publications and tools
+View the calendar of events
+Consult interactions
+First time login
+Reset my password
+Blog
+About Us
+Our Work
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+FPIContentBody
+Our Work
+is a not-for-profit world leader that specializes in the creation of innovative scientific solutions in support of the Canadian forest sector’s global competitiveness and responds to the priority needs of its industry members and government partners.
+It is ideally positioned to perform state-of-the-art research, develop advanced technologies, and deliver innovative solutions to complex problems for every area of the sector’s value chain, from forest operations to consumer and industrial products.
+ 
+FPInnovations’ staff numbers more than 525. Its R&laboratories are located in Montreal, Quebec City, and Vancouver, and it has technology transfer offices across Canada.
+Research Programs
+Resource Assessment
+Resource Assessment builds the tools and technologies for identifying wood fibre characteristics and their location as well as for growing improved fibre to optimize the sustainability and economics of the forest sector.
+Forest Operations
+Forest Operations' dedicated experts are committed to developing innovative solutions to the challenges facing the forestry industry. From supply chain efficiency to safety and sustainability, our work supports members across the value chain.
+Wildfire Operations
+Working with both industry and government, Wildfire Operations does research on issues facing wildfire management experts in both prevention and in dealing with wildland fires.
+Primary Wood Products Manufacturing
+Applied research, company-specific confidential services, and technical support are provided to Canada’s lumber and engineered wood producers through two Primary Wood Products Manufacturing program components: Lumber Manufacturing and Engineered Wood Products (EWP) Manufacturing.
+Secondary Wood Products Manufacturing
+This program offers research, development, and technical support to manufacturers of secondary wood products to enable them to produce and market wood-based products and construction materials.
+Advanced Building Systems
+The world is experiencing a renaissance in wood-based construction. FPInnovations’ Advanced Building Systems research team is helping to usher in a new era of taller and larger wood buildings and new wood-based building products. Through our research programs and together with our partners, we are enhancing Canada’s position as a global leader in wood-building construction.
+Market Pulp
+New technologies lead to lower production costs, greater productivity, and a mastering of new and existing markets. FPInnovations’ Market Pulp members are the first to benefit from new technologies that make market pulp mills more competitive.
+Paper, Packaging and Consumer Products
+This research program addresses technical needs and provides technical and market support to member companies that manufacture printing and writing papers, packaging, and consumer products.
+Bioproducts
+The objective of the Bioproducts program is to develop non-traditional wood products in order to enhance the value of all parts of the resource, including residual products, so as to diversify wood markets and contribute to developing a new bioeconomy.
+Bio-refinery and Energy
+The Bio-refinery and Energy program develops novel bio-based chemicals and bio-energy pathways from wood. It emphasizes integration with existing forest industry infrastructure.
+Group
+Group offers customized technological solutions and assistance to fleet managers who want to reduce the cost and environmental impact of their operations or improve operational safety.
+Environment and Sustainability
+This program conducts research into best management practices for environmental compatibility and resource management. The findings help member companies operate in a manner that is environmentally responsible and sustainable.
+Value Maximization and Decision Support
+This program helps industry members generate more value from their wood basket by maximizing fibre quality, product flow, and supply chain agility; applying value chain concepts at the operational, tactical, and strategic levels; and developing decision-support tools driven by market needs.
+Solutions and Technologies
+Drawing from scientific research over the past 100 years, applies proven solutions and technologies that can be quickly implemented in your organization.
+Our world-class experts can help you reach your objectives in any sector of our industry. Thanks to our objective recommendations, our exclusive evaluation tools developed by our teams or researchers and our equipment, you will protect your market shares and increase your profits.
+Click here to learn more about Solutions and Technologies
+not-front
+discover
+Home
+Help
+FRANÇAIS
+ENGLISH
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+Advanced Building Systems
+Bioproducts
+Biorefinery and Energy
+Environment and Sustainability
+Forest Operations
+Market Pulp
+Indigenous Forestry Program
+Paper, Packaging and Consumer Products
+Group
+Primary Wood Products Manufacturing
+Resource Assessment
+Secondary Wood Products Manufacturing
+Value Maximization and Decision Support
+Wildfire Operations
+related websites
+Coastal Forest Sector Hem-Fir Initiative
+Canadian Wood Council
+Canadian Wood Fibre Centre
+OpenFPI
+FPSuite
+Hardwood Research Initiative
+Naturally Wood
+Partenariat innovation forêt
+Group
+Value to Wood
+Solutions for Wood
+Steep Slope Initiative
+Wildfire Operations Research
+Share
+® 2018 FPInnovations. All rights reserved.
+1
+2
+3
+4
+5 var objResource = new Array('OverallRatingPercent;#Overall Rating Percent;#TotalRatings;#Total Ratings;#AverageRating;#Average Rating;#UserRating;#User$s Rating;#TotalNumberofRating;#Total Number of Ratings;#AvgRating;#Avg. Rating;#YourRating;#Your Rating;#RatingSubmitted;#Rating Submitted;#NoRatings;#No Ratings;#Stars;#Stars;#Points;#Points;#Ratings;#Ratings;#QuestionResetItem;#This will reset all ratings for this item, do you wish to continue?;#ResetRatings;#Reset Ratings;#CurrencyDecimalSeparator;#.;#UserIDRating;#-1');
+ CAREERS
+ CARRIÈRES
+ HELP
+ AIDE
+ FRANÇAIS
+ ENGLISH
+Sign In / New Account
+Se connecter / Nouveau compte
+|
+Fermez  X
+Close  X
+Mon panier
+My Cart
+Nom
+Name
+Prix
+Price
+Quantité
+Quantity
+Sous-total
+Subtotal
+Votre panier est vide
+Your shopping cart is currently empty
+ESTIMATION
+ESTIMATE
+Entrez votre destination pour obtenir une estimation de l'expédition et des taxes.
+Enter your destination to get a shipping and taxes estimate.
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+ Required
+ Required
+ Required
+Demandez un Devis
+Get a Quote
+RÉDUCTION
+CODES
+Entrez votre coupon si vous en avez un
+Enter your coupon if you have one
+Appliquer Coupon
+Apply Coupon
+Économie
+Save
+N/A
+N/A
+Sous-total
+Subtotal
+N/A
+N/A
+Frais de livraison
+Shipping
+N/A
+N/A
+TPS
+GST
+N/A
+N/A
+TVP
+PST
+N/A
+N/A
+TVH
+HST
+N/A
+N/A
+Total
+Total
+N/A
+N/A
+Ouverture de session et paiement
+Login to Checkout
+Paiement à titre d'invité
+Checkout as Guest
+Commander
+Checkout
+Poursuivre les achats
+Continue shopping
+Fermez  X
+Close  X
+Étape 2 de 4
+Step 2 of 4
+Facturation / Expédition
+Billing / Shipping
+Email  
+*
+ Required
+ Not valid
+Full name 
+*
+ Required
+ Not valid
+Address 1 
+*
+ Required
+ Not valid
+Country  
+*
+ Required
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+City  
+*
+ Required
+ Not valid
+Confirmation email  
+*
+ Required
+ Not valid
+ Not matching
+Company / Organization
+Address 2
+ Not valid
+Province / State
+Province 
+*
+State 
+*
+ Required
+ Required
+Postal Code / Zip Code 
+*
+Postal Code 
+*
+Zip Code 
+*
+ Required
+ Not valid
+ Required
+ Not valid
+ Required
+ Not valid
+Informations sur la livraison
+Shipping Information
+Full name 
+*
+ Required
+ Not valid
+Address 1 
+*
+ Required
+ Not valid
+Country  
+*
+ Required
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+City  
+*
+ Required
+ Not valid
+Company / Organization
+Address 2
+ Not valid
+Province / State
+Province 
+*
+State 
+*
+ Required
+ Required
+Postal Code / Zip Code 
+*
+Postal Code 
+*
+Zip Code 
+*
+ Required
+ Not valid
+ Required
+ Not valid
+ Required
+ Not valid
+*
+Champs Requis
+*
+Required Fields
+Envoyer à cette adresse
+Ship to this address
+Adresse de livraison différente
+Ship to different address
+Suivant
+Next
+Retour
+Back
+Fermez  X
+Close  X
+Étape 3 de 4
+Step 3 of 4
+Confirmation
+Confirmation
+Nom
+Name
+Prix
+Price
+Quantité
+Quantity
+Sous-total
+Subtotal
+Votre panier est vide
+Your shopping cart is empty
+TAXES
+TAXES
+Les taxes sont calculées pour le pays suivant.
+Taxes are calculated for following country.
+Les taxes sont calculées pour suivre pays et la province.
+Taxes are calculated for following country and province.
+Les taxes sont calculées pour suivre pays et de l'Etat.
+Taxes are calculated for following country and state.
+Pays:
+Country:
+Province / État:
+Province / State:
+Province:
+Province:
+État:
+State:
+LIVRAISON
+SHIPPING
+L'expédition est calculé en fonction du pays suivant.
+The shipping is calculated for following country.
+L'expédition est calculé en fonction du pays et de la province suivante.
+The shipping is calculated for following country and province.
+L'expédition est calculé en fonction du pays et de la province ou l'état suivant.
+The shipping is calculated for following country and state.
+Pays:
+Country:
+Province / État:
+Province / State:
+Province:
+Province:
+État:
+State:
+Value province
+RÉDUCTION
+CODES
+Entrez votre coupon si vous en avez un
+Enter your coupon if you have one
+Appliquer Coupon
+Apply Coupon
+Économie
+Save
+N/A
+N/A
+Sous-total
+Subtotal
+N/A
+N/A
+Frais de livraison
+Shipping
+N/A
+N/A
+TPS
+GST
+N/A
+N/A
+TVP
+PST
+N/A
+N/A
+TVH
+HST
+N/A
+N/A
+Total
+Total
+N/A
+N/A
+Suivant
+Next
+Retour
+Back
+Fermez  X
+Close  X
+Étape 4 de 4
+Step 4 of 4
+Paiement
+Payment
+About Us
+Our Work
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+Research Programs
+Advanced Building Systems
+Bioproducts
+Biorefinery and Energy
+Environment and Sustainability  
++
+Program 
+Forest Operations  
++
+Flagship Initiatives  
++
+Overview
+Mid-Term Fibre Supply Initiative
+Nova Scotia Hub Initiative
+Forestry 4.0 Initiative
+Steep Slope Initiative
+Transportation Initiative
+Research Groups  
++
+Fibre Supply
+Modeling and Decision Support
+Precision Forestry
+Remote Sensing
+Roads and Infrastructure
+Transport & Energy
+Indigenous Forestry Program
+Market Pulp 
++
+Process Engineering
+Paper, Packaging and Consumer Products
+Group
+Primary Wood Products Manufacturing
+Resource Assessment
+Secondary Wood Products Manufacturing
+Value Maximization and Decision Support
+Wildfire Operations
+Solutions & technologies
+Pulp and paper 
++
+Environment 
++
+Sludge Dewatering Optimization
+Nutrient Reduction
+Toxicity Troubleshooting
+Analytical Services 
++
+Corrosion Non-Standard testing
+Industrial Scanner
+Paper and board runnability
+Chemical Analysis & Microscopy
+Physical Testing
+Product benchmarking programs / Proficiency Testing Round Robins
+Reference Materials & Canadian Standard Freeness certification
+Print Quality Services
+Advanced Tissue Characterization
+Energy 
++
+Thermo-Mechanical Pulp Optimization
+Recovery Boiler Optimization
+Power Boiler Optimization
+Process Integration & Energy Management
+Utility system and Power Contracts Optimization
+New technology Assessment for Biomass Conversion
+Sludge Dewatering Optimization
+Pulp - Solutions 
++
+Fibre Line Mass Balance
+Pulping Process Development and Optimization
+Pulp Bleaching Optimization
+Thermo-Mechanical Pulp Optimization
+Recausticizing and Lime Kiln Audit
+Material Selection to avoid corrosion
+Failure Analysis
+Corrosion Monitoring
+Corrosion Non-Standard testing
+Process Integration & Energy Management
+Evalutree
+Pulp - Technologies 
++
+Near Neutral Brightening (NNB)
+CIO2 Generator Control
+Lime Klin Control
+FT-Liquor Analyzer
+Causticizing plant control
+Biomass Sensor
+Tissue 
++
+Process Integration & Energy Management
+Pilot Tissue Machine
+Advanced Tissue Characterization
+Paper and packaging 
++
+Process Integration & Energy Management
+Latex-Treated Paper Filler
+Super-Filled Paper Sheets
+Coating formulation development and optimization
+Paper and board runnability
+Paper and board converting and end-use performance
+Pilot Paper Machine
+Print Quality Services
+Biorefinery 
++
+Material Selection to avoid corrosion
+Process Integration & Energy Management
+Utility system and Power Contracts Optimization
+New technologies Assessment for Biomass Conversion
+Toxicity Troubleshooting
+Forest Operations 
++
+Harvesting 
++
+Biomass Harvesting 
++
+Timber Harvesting 
++
+Forest Transportation and Infratructure 
++
+Transportation 
++
+Vehicle Dynamics and Stability / High-capacity Configurations
+Infrastructure 
++
+Advanced Decision Making 
++
+Supply chain planning tools 
++
+FPDat and FPTrak
+Wood yards
+Wood Products 
++
+Industrial Scanner
+Primary Wood Products Manufacturing
+Secondary Wood Products Manufacturing
+Licensing partners
+Media
+Annual Reports and Reviews of activities
+Fact Sheets
+Logo and brand components
+Newsletters
+News releases
+Want to
+Overview
+Search for publications and tools
+View the calendar of events
+Consult interactions
+First time login
+Reset my password
+Blog
+About Us
+Our Work
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+FPIContentBody
+2
+Our network
+FACILITIES
+
+CENTRE
+ADVISORS
+Head Office
+Québec
+Vancouver
+Edmonton
+Canadian Wood Fibre Centre
+Capital region
+580 Booth Street, 8
+th
+ Floor
+Ottawa, ON
+K1A 0E4
+Pacific Forestry Centre 
+506 West Burnside Road
+Victoria, BC
+V8Z 1M5 
+Northern Forestry Centre
+5320-122nd Street
+Edmonton, AL
+T63S5 
+Great Lakes Forestry Centre 
+1219 Queen Street East
+Sault Ste. Marie, ON
+P6A 2E5 
+Laurentian Forestry Centre
+1055 du P.E.P.S.
+Box 10380, Stn. Ste-Foy
+Québec, QC
+G1V 4C7 
+Atlantic Forestry Centre
+1350 Regent Street South
+Fredericton, NB
+E3B 5P7 
+British Columbia
+Prince George, Office
+David Belyea 
+Extension specialist – Forest operations
+250 261-4327
+Vancouver, Office
+Dave McRae
+Lumber drying specialist / First Nations liaison
+250 713-1721
+Comox, Office
+Colin Koszman
+Extension specialist - Forest operations
+778 677-2181
+Alberta
+Edmonton, Office
+Shayne Davis
+Remanufacturing specialist
+780 668-2600
+Edmonton, Office
+Dalibor Houdek
+Provincial Leader – Alberta
+780 413-9031
+Edmonton, Office
+Ric Ptak
+Cabinetmaker / Millwork industry specialist
+780 717-8186
+Rocky Mountain House, Office
+Chad Gardeski
+Extension specialist – Forest operations
+780 817-1440
+Saskatchewan
+Prince Albert, Office
+Peter Sigurdson
+Provincial leader – Saskatchewan / Manitoba
+306 764-5551
+Manitoba
+Ontario
+Barwick, Office
+Percy Champagne
+General operations and Project management / First Nations liaison
+807 487-9923
+Mattawa, Office
+John Pineau
+Provincial leader – Ontario
+845 6310 (m), 905 744-1715 (o)
+Timmins, Office
+Peter Åsman
+Sawmilling specialist
+705 268-3964
+Québec
+Abitibi-Témiscamingue, Office
+Alain Chabot
+Secondary processing specialist
+819 797-0423
+Amqui, Office
+Yves Giroux
+Primary and secondary processing specialist
+418 781-6818
+Québec, Office
+Serge Côté
+Furniture manufacturing specialist
+418 781-6748
+Québec, Office
+Alain Gingras
+Sawmilling Improvement specialist
+418 781-6716
+Québec, Office
+Guyta Mercier
+Extension specialist – Forest operations
+418 648-5828
+Maritimes
+not-front
+discover
+Home
+Help
+FRANÇAIS
+ENGLISH
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+Advanced Building Systems
+Bioproducts
+Biorefinery and Energy
+Environment and Sustainability
+Forest Operations
+Market Pulp
+Indigenous Forestry Program
+Paper, Packaging and Consumer Products
+Group
+Primary Wood Products Manufacturing
+Resource Assessment
+Secondary Wood Products Manufacturing
+Value Maximization and Decision Support
+Wildfire Operations
+related websites
+Coastal Forest Sector Hem-Fir Initiative
+Canadian Wood Council
+Canadian Wood Fibre Centre
+OpenFPI
+FPSuite
+Hardwood Research Initiative
+Naturally Wood
+Partenariat innovation forêt
+Group
+Value to Wood
+Solutions for Wood
+Steep Slope Initiative
+Wildfire Operations Research
+Share
+® 2018 FPInnovations. All rights reserved.
+1
+2
+3
+4
+5 var objResource = new Array('OverallRatingPercent;#Overall Rating Percent;#TotalRatings;#Total Ratings;#AverageRating;#Average Rating;#UserRating;#User$s Rating;#TotalNumberofRating;#Total Number of Ratings;#AvgRating;#Avg. Rating;#YourRating;#Your Rating;#RatingSubmitted;#Rating Submitted;#NoRatings;#No Ratings;#Stars;#Stars;#Points;#Points;#Ratings;#Ratings;#QuestionResetItem;#This will reset all ratings for this item, do you wish to continue?;#ResetRatings;#Reset Ratings;#CurrencyDecimalSeparator;#.;#UserIDRating;#-1');
+ CAREERS
+ CARRIÈRES
+ HELP
+ AIDE
+ FRANÇAIS
+ ENGLISH
+Sign In / New Account
+Se connecter / Nouveau compte
+|
+Fermez  X
+Close  X
+Mon panier
+My Cart
+Nom
+Name
+Prix
+Price
+Quantité
+Quantity
+Sous-total
+Subtotal
+Votre panier est vide
+Your shopping cart is currently empty
+ESTIMATION
+ESTIMATE
+Entrez votre destination pour obtenir une estimation de l'expédition et des taxes.
+Enter your destination to get a shipping and taxes estimate.
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+ Required
+ Required
+ Required
+Demandez un Devis
+Get a Quote
+RÉDUCTION
+CODES
+Entrez votre coupon si vous en avez un
+Enter your coupon if you have one
+Appliquer Coupon
+Apply Coupon
+Économie
+Save
+N/A
+N/A
+Sous-total
+Subtotal
+N/A
+N/A
+Frais de livraison
+Shipping
+N/A
+N/A
+TPS
+GST
+N/A
+N/A
+TVP
+PST
+N/A
+N/A
+TVH
+HST
+N/A
+N/A
+Total
+Total
+N/A
+N/A
+Ouverture de session et paiement
+Login to Checkout
+Paiement à titre d'invité
+Checkout as Guest
+Commander
+Checkout
+Poursuivre les achats
+Continue shopping
+Fermez  X
+Close  X
+Étape 2 de 4
+Step 2 of 4
+Facturation / Expédition
+Billing / Shipping
+Email  
+*
+ Required
+ Not valid
+Full name 
+*
+ Required
+ Not valid
+Address 1 
+*
+ Required
+ Not valid
+Country  
+*
+ Required
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+City  
+*
+ Required
+ Not valid
+Confirmation email  
+*
+ Required
+ Not valid
+ Not matching
+Company / Organization
+Address 2
+ Not valid
+Province / State
+Province 
+*
+State 
+*
+ Required
+ Required
+Postal Code / Zip Code 
+*
+Postal Code 
+*
+Zip Code 
+*
+ Required
+ Not valid
+ Required
+ Not valid
+ Required
+ Not valid
+Informations sur la livraison
+Shipping Information
+Full name 
+*
+ Required
+ Not valid
+Address 1 
+*
+ Required
+ Not valid
+Country  
+*
+ Required
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+City  
+*
+ Required
+ Not valid
+Company / Organization
+Address 2
+ Not valid
+Province / State
+Province 
+*
+State 
+*
+ Required
+ Required
+Postal Code / Zip Code 
+*
+Postal Code 
+*
+Zip Code 
+*
+ Required
+ Not valid
+ Required
+ Not valid
+ Required
+ Not valid
+*
+Champs Requis
+*
+Required Fields
+Envoyer à cette adresse
+Ship to this address
+Adresse de livraison différente
+Ship to different address
+Suivant
+Next
+Retour
+Back
+Fermez  X
+Close  X
+Étape 3 de 4
+Step 3 of 4
+Confirmation
+Confirmation
+Nom
+Name
+Prix
+Price
+Quantité
+Quantity
+Sous-total
+Subtotal
+Votre panier est vide
+Your shopping cart is empty
+TAXES
+TAXES
+Les taxes sont calculées pour le pays suivant.
+Taxes are calculated for following country.
+Les taxes sont calculées pour suivre pays et la province.
+Taxes are calculated for following country and province.
+Les taxes sont calculées pour suivre pays et de l'Etat.
+Taxes are calculated for following country and state.
+Pays:
+Country:
+Province / État:
+Province / State:
+Province:
+Province:
+État:
+State:
+LIVRAISON
+SHIPPING
+L'expédition est calculé en fonction du pays suivant.
+The shipping is calculated for following country.
+L'expédition est calculé en fonction du pays et de la province suivante.
+The shipping is calculated for following country and province.
+L'expédition est calculé en fonction du pays et de la province ou l'état suivant.
+The shipping is calculated for following country and state.
+Pays:
+Country:
+Province / État:
+Province / State:
+Province:
+Province:
+État:
+State:
+Value province
+RÉDUCTION
+CODES
+Entrez votre coupon si vous en avez un
+Enter your coupon if you have one
+Appliquer Coupon
+Apply Coupon
+Économie
+Save
+N/A
+N/A
+Sous-total
+Subtotal
+N/A
+N/A
+Frais de livraison
+Shipping
+N/A
+N/A
+TPS
+GST
+N/A
+N/A
+TVP
+PST
+N/A
+N/A
+TVH
+HST
+N/A
+N/A
+Total
+Total
+N/A
+N/A
+Suivant
+Next
+Retour
+Back
+Fermez  X
+Close  X
+Étape 4 de 4
+Step 4 of 4
+Paiement
+Payment
+About Us
+Our Work
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+Research Programs
+Advanced Building Systems
+Bioproducts
+Biorefinery and Energy
+Environment and Sustainability  
++
+Program 
+Forest Operations  
++
+Flagship Initiatives  
++
+Overview
+Mid-Term Fibre Supply Initiative
+Nova Scotia Hub Initiative
+Forestry 4.0 Initiative
+Steep Slope Initiative
+Transportation Initiative
+Research Groups  
++
+Fibre Supply
+Modeling and Decision Support
+Precision Forestry
+Remote Sensing
+Roads and Infrastructure
+Transport & Energy
+Indigenous Forestry Program
+Market Pulp 
++
+Process Engineering
+Paper, Packaging and Consumer Products
+Group
+Primary Wood Products Manufacturing
+Resource Assessment
+Secondary Wood Products Manufacturing
+Value Maximization and Decision Support
+Wildfire Operations
+Solutions & technologies
+Pulp and paper 
++
+Environment 
++
+Sludge Dewatering Optimization
+Nutrient Reduction
+Toxicity Troubleshooting
+Analytical Services 
++
+Corrosion Non-Standard testing
+Industrial Scanner
+Paper and board runnability
+Chemical Analysis & Microscopy
+Physical Testing
+Product benchmarking programs / Proficiency Testing Round Robins
+Reference Materials & Canadian Standard Freeness certification
+Print Quality Services
+Advanced Tissue Characterization
+Energy 
++
+Thermo-Mechanical Pulp Optimization
+Recovery Boiler Optimization
+Power Boiler Optimization
+Process Integration & Energy Management
+Utility system and Power Contracts Optimization
+New technology Assessment for Biomass Conversion
+Sludge Dewatering Optimization
+Pulp - Solutions 
++
+Fibre Line Mass Balance
+Pulping Process Development and Optimization
+Pulp Bleaching Optimization
+Thermo-Mechanical Pulp Optimization
+Recausticizing and Lime Kiln Audit
+Material Selection to avoid corrosion
+Failure Analysis
+Corrosion Monitoring
+Corrosion Non-Standard testing
+Process Integration & Energy Management
+Evalutree
+Pulp - Technologies 
++
+Near Neutral Brightening (NNB)
+CIO2 Generator Control
+Lime Klin Control
+FT-Liquor Analyzer
+Causticizing plant control
+Biomass Sensor
+Tissue 
++
+Process Integration & Energy Management
+Pilot Tissue Machine
+Advanced Tissue Characterization
+Paper and packaging 
++
+Process Integration & Energy Management
+Latex-Treated Paper Filler
+Super-Filled Paper Sheets
+Coating formulation development and optimization
+Paper and board runnability
+Paper and board converting and end-use performance
+Pilot Paper Machine
+Print Quality Services
+Biorefinery 
++
+Material Selection to avoid corrosion
+Process Integration & Energy Management
+Utility system and Power Contracts Optimization
+New technologies Assessment for Biomass Conversion
+Toxicity Troubleshooting
+Forest Operations 
++
+Harvesting 
++
+Biomass Harvesting 
++
+Timber Harvesting 
++
+Forest Transportation and Infratructure 
++
+Transportation 
++
+Vehicle Dynamics and Stability / High-capacity Configurations
+Infrastructure 
++
+Advanced Decision Making 
++
+Supply chain planning tools 
++
+FPDat and FPTrak
+Wood yards
+Wood Products 
++
+Industrial Scanner
+Primary Wood Products Manufacturing
+Secondary Wood Products Manufacturing
+Licensing partners
+Media
+Annual Reports and Reviews of activities
+Fact Sheets
+Logo and brand components
+Newsletters
+News releases
+Want to
+Overview
+Search for publications and tools
+View the calendar of events
+Consult interactions
+First time login
+Reset my password
+Blog
+About Us
+Our Work
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+FPIContentBody
+2
+Our network
+FACILITIES
+
+CENTRE
+ADVISORS
+Head Office
+Québec
+Vancouver
+Edmonton
+Canadian Wood Fibre Centre
+Capital region
+580 Booth Street, 8
+th
+ Floor
+Ottawa, ON
+K1A 0E4
+Pacific Forestry Centre 
+506 West Burnside Road
+Victoria, BC
+V8Z 1M5 
+Northern Forestry Centre
+5320-122nd Street
+Edmonton, AL
+T63S5 
+Great Lakes Forestry Centre 
+1219 Queen Street East
+Sault Ste. Marie, ON
+P6A 2E5 
+Laurentian Forestry Centre
+1055 du P.E.P.S.
+Box 10380, Stn. Ste-Foy
+Québec, QC
+G1V 4C7 
+Atlantic Forestry Centre
+1350 Regent Street South
+Fredericton, NB
+E3B 5P7 
+British Columbia
+Prince George, Office
+David Belyea 
+Extension specialist – Forest operations
+250 261-4327
+Vancouver, Office
+Dave McRae
+Lumber drying specialist / First Nations liaison
+250 713-1721
+Comox, Office
+Colin Koszman
+Extension specialist - Forest operations
+778 677-2181
+Alberta
+Edmonton, Office
+Shayne Davis
+Remanufacturing specialist
+780 668-2600
+Edmonton, Office
+Dalibor Houdek
+Provincial Leader – Alberta
+780 413-9031
+Edmonton, Office
+Ric Ptak
+Cabinetmaker / Millwork industry specialist
+780 717-8186
+Rocky Mountain House, Office
+Chad Gardeski
+Extension specialist – Forest operations
+780 817-1440
+Saskatchewan
+Prince Albert, Office
+Peter Sigurdson
+Provincial leader – Saskatchewan / Manitoba
+306 764-5551
+Manitoba
+Ontario
+Barwick, Office
+Percy Champagne
+General operations and Project management / First Nations liaison
+807 487-9923
+Mattawa, Office
+John Pineau
+Provincial leader – Ontario
+845 6310 (m), 905 744-1715 (o)
+Timmins, Office
+Peter Åsman
+Sawmilling specialist
+705 268-3964
+Québec
+Abitibi-Témiscamingue, Office
+Alain Chabot
+Secondary processing specialist
+819 797-0423
+Amqui, Office
+Yves Giroux
+Primary and secondary processing specialist
+418 781-6818
+Québec, Office
+Serge Côté
+Furniture manufacturing specialist
+418 781-6748
+Québec, Office
+Alain Gingras
+Sawmilling Improvement specialist
+418 781-6716
+Québec, Office
+Guyta Mercier
+Extension specialist – Forest operations
+418 648-5828
+Maritimes
+not-front
+discover
+Home
+Help
+FRANÇAIS
+ENGLISH
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+Advanced Building Systems
+Bioproducts
+Biorefinery and Energy
+Environment and Sustainability
+Forest Operations
+Market Pulp
+Indigenous Forestry Program
+Paper, Packaging and Consumer Products
+Group
+Primary Wood Products Manufacturing
+Resource Assessment
+Secondary Wood Products Manufacturing
+Value Maximization and Decision Support
+Wildfire Operations
+related websites
+Coastal Forest Sector Hem-Fir Initiative
+Canadian Wood Council
+Canadian Wood Fibre Centre
+OpenFPI
+FPSuite
+Hardwood Research Initiative
+Naturally Wood
+Partenariat innovation forêt
+Group
+Value to Wood
+Solutions for Wood
+Steep Slope Initiative
+Wildfire Operations Research
+Share
+® 2018 FPInnovations. All rights reserved.
+1
+2
+3
+4
+5 var objResource = new Array('OverallRatingPercent;#Overall Rating Percent;#TotalRatings;#Total Ratings;#AverageRating;#Average Rating;#UserRating;#User$s Rating;#TotalNumberofRating;#Total Number of Ratings;#AvgRating;#Avg. Rating;#YourRating;#Your Rating;#RatingSubmitted;#Rating Submitted;#NoRatings;#No Ratings;#Stars;#Stars;#Points;#Points;#Ratings;#Ratings;#QuestionResetItem;#This will reset all ratings for this item, do you wish to continue?;#ResetRatings;#Reset Ratings;#CurrencyDecimalSeparator;#.;#UserIDRating;#-1');
+ CAREERS
+ CARRIÈRES
+ HELP
+ AIDE
+ FRANÇAIS
+ ENGLISH
+Sign In / New Account
+Se connecter / Nouveau compte
+|
+Fermez  X
+Close  X
+Mon panier
+My Cart
+Nom
+Name
+Prix
+Price
+Quantité
+Quantity
+Sous-total
+Subtotal
+Votre panier est vide
+Your shopping cart is currently empty
+ESTIMATION
+ESTIMATE
+Entrez votre destination pour obtenir une estimation de l'expédition et des taxes.
+Enter your destination to get a shipping and taxes estimate.
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+ Required
+ Required
+ Required
+Demandez un Devis
+Get a Quote
+RÉDUCTION
+CODES
+Entrez votre coupon si vous en avez un
+Enter your coupon if you have one
+Appliquer Coupon
+Apply Coupon
+Économie
+Save
+N/A
+N/A
+Sous-total
+Subtotal
+N/A
+N/A
+Frais de livraison
+Shipping
+N/A
+N/A
+TPS
+GST
+N/A
+N/A
+TVP
+PST
+N/A
+N/A
+TVH
+HST
+N/A
+N/A
+Total
+Total
+N/A
+N/A
+Ouverture de session et paiement
+Login to Checkout
+Paiement à titre d'invité
+Checkout as Guest
+Commander
+Checkout
+Poursuivre les achats
+Continue shopping
+Fermez  X
+Close  X
+Étape 2 de 4
+Step 2 of 4
+Facturation / Expédition
+Billing / Shipping
+Email  
+*
+ Required
+ Not valid
+Full name 
+*
+ Required
+ Not valid
+Address 1 
+*
+ Required
+ Not valid
+Country  
+*
+ Required
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+City  
+*
+ Required
+ Not valid
+Confirmation email  
+*
+ Required
+ Not valid
+ Not matching
+Company / Organization
+Address 2
+ Not valid
+Province / State
+Province 
+*
+State 
+*
+ Required
+ Required
+Postal Code / Zip Code 
+*
+Postal Code 
+*
+Zip Code 
+*
+ Required
+ Not valid
+ Required
+ Not valid
+ Required
+ Not valid
+Informations sur la livraison
+Shipping Information
+Full name 
+*
+ Required
+ Not valid
+Address 1 
+*
+ Required
+ Not valid
+Country  
+*
+ Required
+Select country
+Afghanistan
+Africa
+Aland Islands
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua And Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia And Herzegovina
+Botswana
+Bouvet Island
+Brazil
+British Indian Ocean Territory
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Cayman Islands
+Central African Republic
+Chad
+Chile
+China
+Christmas Island
+Cocos (Keeling) Islands
+Colombia
+Comoros
+Congo, The Democratic Republic Of The
+Cook Islands
+Costa Rica
+Cote D'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt
+El Salvador
+England
+Equatorial Guinea
+Eritrea
+Estonia
+Ethiopia
+Falkland Islands (Malvinas)
+Faroe Islands
+Fiji
+Finland
+France
+French Guiana
+French Polynesia
+French Southern Territories
+Gabon
+Gambia
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guadeloupe
+Guam
+Guatemala
+Guernsey
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Heard Island And Mcdonald Islands
+Holy See (Vatican City State)
+Honduras
+Hong Kong
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Isle Of Man
+Israel
+Italy
+Jamaica
+Japan
+Jersey
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea
+Kuwait
+Kyrgyzstan
+Lao
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libyan Arab Jamahiriya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Martinique
+Mauritania
+Mauritius
+Mayotte
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montserrat
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+Netherlands Antilles
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Niue
+Norfolk Island
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Palestinian Territory, Occupied
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Pitcairn
+Poland
+Portugal
+Puerto Rico
+Qatar
+Reunion
+Romania
+Russia
+Rwanda
+Saint Helena
+Saint Kitts And Nevis
+Saint Lucia
+Saint Pierre And Miquelon
+Saint Vincent And The Grenadines
+Samoa
+San Marino
+Sao Tome And Principe
+Saudi Arabia
+Senegal
+Serbia And Montenegro
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Georgia And The South Sandwich Islands
+South Korea
+Spain
+Sri Lanka
+Sudan
+Suriname
+Svalbard And Jan Mayen
+Swaziland
+Sweden
+Switzerland
+Syrian Arab Republic
+Taiwan
+Tajikistan
+Tanzania
+Tasmania
+Thailand
+Timor-Leste
+Togo
+Tokelau
+Tonga
+Trinidad And Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks And Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+United States Minor Outlying Islands
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Virgin Islands, British
+Virgin Islands, U.S.
+Wallis And Futuna
+Western Sahara
+Yemen
+Zambia
+Zimbabwe
+City  
+*
+ Required
+ Not valid
+Company / Organization
+Address 2
+ Not valid
+Province / State
+Province 
+*
+State 
+*
+ Required
+ Required
+Postal Code / Zip Code 
+*
+Postal Code 
+*
+Zip Code 
+*
+ Required
+ Not valid
+ Required
+ Not valid
+ Required
+ Not valid
+*
+Champs Requis
+*
+Required Fields
+Envoyer à cette adresse
+Ship to this address
+Adresse de livraison différente
+Ship to different address
+Suivant
+Next
+Retour
+Back
+Fermez  X
+Close  X
+Étape 3 de 4
+Step 3 of 4
+Confirmation
+Confirmation
+Nom
+Name
+Prix
+Price
+Quantité
+Quantity
+Sous-total
+Subtotal
+Votre panier est vide
+Your shopping cart is empty
+TAXES
+TAXES
+Les taxes sont calculées pour le pays suivant.
+Taxes are calculated for following country.
+Les taxes sont calculées pour suivre pays et la province.
+Taxes are calculated for following country and province.
+Les taxes sont calculées pour suivre pays et de l'Etat.
+Taxes are calculated for following country and state.
+Pays:
+Country:
+Province / État:
+Province / State:
+Province:
+Province:
+État:
+State:
+LIVRAISON
+SHIPPING
+L'expédition est calculé en fonction du pays suivant.
+The shipping is calculated for following country.
+L'expédition est calculé en fonction du pays et de la province suivante.
+The shipping is calculated for following country and province.
+L'expédition est calculé en fonction du pays et de la province ou l'état suivant.
+The shipping is calculated for following country and state.
+Pays:
+Country:
+Province / État:
+Province / State:
+Province:
+Province:
+État:
+State:
+Value province
+RÉDUCTION
+CODES
+Entrez votre coupon si vous en avez un
+Enter your coupon if you have one
+Appliquer Coupon
+Apply Coupon
+Économie
+Save
+N/A
+N/A
+Sous-total
+Subtotal
+N/A
+N/A
+Frais de livraison
+Shipping
+N/A
+N/A
+TPS
+GST
+N/A
+N/A
+TVP
+PST
+N/A
+N/A
+TVH
+HST
+N/A
+N/A
+Total
+Total
+N/A
+N/A
+Suivant
+Next
+Retour
+Back
+Fermez  X
+Close  X
+Étape 4 de 4
+Step 4 of 4
+Paiement
+Payment
+About Us
+Our Work
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+Research Programs
+Advanced Building Systems
+Bioproducts
+Biorefinery and Energy
+Environment and Sustainability  
++
+Program 
+Forest Operations  
++
+Flagship Initiatives  
++
+Overview
+Mid-Term Fibre Supply Initiative
+Nova Scotia Hub Initiative
+Forestry 4.0 Initiative
+Steep Slope Initiative
+Transportation Initiative
+Research Groups  
++
+Fibre Supply
+Modeling and Decision Support
+Precision Forestry
+Remote Sensing
+Roads and Infrastructure
+Transport & Energy
+Indigenous Forestry Program
+Market Pulp 
++
+Process Engineering
+Paper, Packaging and Consumer Products
+Group
+Primary Wood Products Manufacturing
+Resource Assessment
+Secondary Wood Products Manufacturing
+Value Maximization and Decision Support
+Wildfire Operations
+Solutions & technologies
+Pulp and paper 
++
+Environment 
++
+Sludge Dewatering Optimization
+Nutrient Reduction
+Toxicity Troubleshooting
+Analytical Services 
++
+Corrosion Non-Standard testing
+Industrial Scanner
+Paper and board runnability
+Chemical Analysis & Microscopy
+Physical Testing
+Product benchmarking programs / Proficiency Testing Round Robins
+Reference Materials & Canadian Standard Freeness certification
+Print Quality Services
+Advanced Tissue Characterization
+Energy 
++
+Thermo-Mechanical Pulp Optimization
+Recovery Boiler Optimization
+Power Boiler Optimization
+Process Integration & Energy Management
+Utility system and Power Contracts Optimization
+New technology Assessment for Biomass Conversion
+Sludge Dewatering Optimization
+Pulp - Solutions 
++
+Fibre Line Mass Balance
+Pulping Process Development and Optimization
+Pulp Bleaching Optimization
+Thermo-Mechanical Pulp Optimization
+Recausticizing and Lime Kiln Audit
+Material Selection to avoid corrosion
+Failure Analysis
+Corrosion Monitoring
+Corrosion Non-Standard testing
+Process Integration & Energy Management
+Evalutree
+Pulp - Technologies 
++
+Near Neutral Brightening (NNB)
+CIO2 Generator Control
+Lime Klin Control
+FT-Liquor Analyzer
+Causticizing plant control
+Biomass Sensor
+Tissue 
++
+Process Integration & Energy Management
+Pilot Tissue Machine
+Advanced Tissue Characterization
+Paper and packaging 
++
+Process Integration & Energy Management
+Latex-Treated Paper Filler
+Super-Filled Paper Sheets
+Coating formulation development and optimization
+Paper and board runnability
+Paper and board converting and end-use performance
+Pilot Paper Machine
+Print Quality Services
+Biorefinery 
++
+Material Selection to avoid corrosion
+Process Integration & Energy Management
+Utility system and Power Contracts Optimization
+New technologies Assessment for Biomass Conversion
+Toxicity Troubleshooting
+Forest Operations 
++
+Harvesting 
++
+Biomass Harvesting 
++
+Timber Harvesting 
++
+Forest Transportation and Infratructure 
++
+Transportation 
++
+Vehicle Dynamics and Stability / High-capacity Configurations
+Infrastructure 
++
+Advanced Decision Making 
++
+Supply chain planning tools 
++
+FPDat and FPTrak
+Wood yards
+Wood Products 
++
+Industrial Scanner
+Primary Wood Products Manufacturing
+Secondary Wood Products Manufacturing
+Licensing partners
+Media
+Annual Reports and Reviews of activities
+Fact Sheets
+Logo and brand components
+Newsletters
+News releases
+Want to
+Overview
+Search for publications and tools
+View the calendar of events
+Consult interactions
+First time login
+Reset my password
+Blog
+About Us
+Our Work
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+FPIContentBody
+1
+Our organization
+is a not-for-profit world leader that specializes in the creation of scientific solutions in support of the Canadian forest sector’s global competitiveness and responds to the priority needs of its industry members and government partners.
+It is ideally positioned to perform research, innovate, and deliver state-of-the-art solutions for every area of the sector’s value chain, from forest operations to consumer and industrial products. FPInnovations’ staff numbers more than 430. Its R&laboratories are located in Québec City, Ottawa, Montréal, Thunder Bay, Hinton and Vancouver, and it has technology transfer offices across Canada.
+
+DIRECTORS
+
+TEAM
+RESEARCH
+COMMITTEE
+ADVISORY
+COMMITTEES
+CORPORATION
+Yvon Pelletier
+Chairman of the Board of Directors
+Stéphane Renou
+President and CEO
+Terry Knee
+Corporate Secretary and Chief Communications Officer
+DIRECTORS
+Bruce Mayer
+Alberta Agriculture and Forestry Government of Alberta
+Catherine Cobden
+Cobden Strategies
+Charles Tardif
+Maibec
+David Ure
+Mercer International
+Derek Nighbor
+Forest Products Association of Canada
+Diane Nicholls
+Ministry of Forests, Lands, and Natural Resources Operations Government of British Columbia
+François D’Amours
+Kruger
+Frédéric Verreault
+Intelligence-conseil
+James Gorman
+West Fraser
+Kathleen McFadden
+Ministry of Natural Resources and Forestry Government of Ontario
+Kevin Edgson
+Timber Corporation
+Mark Feldinger
+Canfor Corporation
+Murray McLaughlin
+Bioindustrial Innovation Canada
+Pascale Lagacé
+Resolute Forest Products
+Yvon Pelletier
+Fortress Paper Ltd.
+OBSERVERS
+André Denis
+Ministry of Forests, Wildlife and Parks Government of Quebec
+Beth MacNeil
+Canadian Forest Service – Natural Resources Canada
+As at July 3, 2018
+Stéphane Renou
+President and Chief Executive Officer
+Marjolaine Dugas
+Communications Director
+Jean Hamel
+Vice President, Industry and Member Relations
+Nathalie Legault
+Chief Financial Officer, Information Technology & Buildings Services
+Francine Guinois
+Human Resources Director
+Terry Knee
+Corporate Secretary & Chief Communications Officer
+Jean-Pierre Martel
+Vice President Strategic Partnerships
+As at December 6, 2018
+
+		The key roles of the are to provide oversight for the research being done across the forest sector innovation system and review technical aspects of FPInnovations’ research by key element. The receives reports from the Program Advisory Committees on outcomes from the Collaborative Research Program.
+	
+List of members
+CHAIR
+Vacant
+Rod Albers
+West Fraser
+Kevin Blau
+Tolko Industries Ltd.
+Alain Bourdages
+Resolute Forest Products
+Geoff Clarke
+Alberta-Pacific Forest Industries Inc.
+Alain Cloutier
+Université Laval
+Catherine Cobden
+Cobden Strategies Inc.
+André Denis
+Lynn Embury-Williams
+Wood WORKS!
+Martin Fairbank
+Resolute Forest Products
+Jacques Girard
+Lamco Forest Products Inc.
+Kenneth Greenway
+Eric Heine
+Mercer International Inc.
+John Innes
+University of British Columbia
+Robert Jones
+Jim Ketterling
+Irving Ltd.
+Bill Love
+Tembec
+Janusz Lusztyk
+Dave McDonald
+JDMcConsulting Inc.
+Brian Merwin
+Mercer International Inc.
+Daryl Nichol
+Alberta-Pacific Forest Industries Inc.
+Diane Nicholls
+Jack Saddler
+University of British Columbia
+Brian St. Germain
+Building Products
+Benoît Schmitt
+Maibec
+Balázs Tolnai
+Kruger Inc.
+Theo van de Ven
+As at March 31, 2016
+Program Advisory Committees (PACs) provide guidance to ensure the various research programs are relevant to the industry’s greatest needs. They also ensure that research activities are geared towards operational improvements, best practices and technology transfer. PACs evaluate and approve research project proposals; they also evaluate the performance of projects that have been set in motion. They report to the on the progress and performance of the various research programs.
+The members of each Program Advisory Committee (PAC) are representatives of FPInnovations’ member organizations. The National Research Advisory Committee (NRAC) appoints a chair from among the committee members. PACs meet twice a year.
+Primary Wood Products Manufacturing Program
+CO-CHAIR
+Brian St. Germain
+Louisiana-Pacific
+CO-CHAIR
+Luc Drapeau
+Canfor Corporation
+Pierre Audet
+Barrette Structural
+Kevin Blau
+Tolko Industries Ltd.
+Stéphane Bouchard
+Kruger
+Daniel Boudreau
+Georgia-Pacific Canada
+Sébastien Bruneau
+Ministry of Forests, Fauna and Parks
+Government of Québec
+Elizabeth Cacchione
+Norbord Inc
+Jonathan Caouette
+Nordic
+ - Chantiers Chibougamau
+Troy Connolly
+Tolko Industries
+Sébastien Coulombe
+Produits Forestiers ARBEC
+Gilbert Demers
+Resolute Forest Products
+Iain Donaldson
+Western Forest Products Inc.
+Julie Frappier
+Nordic Engineered Wood
+Alain Gauthier
+Produits Forestiers s.e.n.c.
+Véronique Gilbert
+Ministry of Forests, Fauna and Parks
+Government of Québec
+Brad Hunt
+West Fraser Timber Co. Ltd
+Bob Jones
+Canadian Forest Service Natural Resources Canada
+Paul Knowles
+Ministry of Forests, Lands and Natural Resource Operations
+Government of British Columbia
+Jason Koivisto
+Mini
+stry of Natural Resources and Forestry
+Government of Ontario
+Jason Koivisto
+Ministry of Natural Resources and Forestry
+Government of Ontario
+Dominique Lavoie
+Boise Cascade, LLC.
+Bill Love
+Tembec
+Steve Mackie
+Canfor Corporation
+Jean-Francois Martel
+Resolute Forest Products
+Paul Mingay
+Ministry of Natural Resources and Forestry
+Government of Ontario
+Suzanne Nash
+Canadian Forest Service
+Natural Resources Canada
+Jean-Sébastien Pelletier
+Maibec Inc
+Bob Rosebrugh
+Georgia-Pacific Canada
+Dean Rubisch
+West Fraser Mills Ltd.
+Benôit Schmitt
+Maibec
+Mike Shewchuk
+Western Forest Products Inc.
+Rob Spring
+Norbord Inc.
+Larry Stanley
+Government of Saskatchewan
+Ted Szabo
+Alberta Innovates Technology Futures
+Tom Thompson
+Millar Western Forest Products Ltd.
+Andre Verville
+Uniboard Canada Inc
+Advanced Building Systems
+Jacques Girard
+(CHAIR)
+Produits Forestiers Lamco
+Pierre Audet
+Barrette Structural
+Rick Brouchn
+Louisiana-Pacific Corporation
+Kevin Butterworth
+Ministry of Technology, Innovation and Citizen’s Services Government of British Columbia
+Michel Charron
+Canadian Forest Service Natural Resources Canada
+Jeremy Coad
+Ministry of Technology, Innovation and Citizen’s Services Government of British Columbia
+Marc-André Collard
+TECOLAM
+Pedro Da Silva
+Boise Cascade
+Michael de Lint
+Ministry of Natural Resources and Forestry Government of Ontario
+Iain Donaldson
+Western Forest Products Inc.
+Lynn Embury-Williams
+Wood WORKS!
+Ken Fargey
+Western Archrib
+Julie Frappier
+Nordic Engineered Wood
+Véronique Gilbert
+Ministry of Forests, Fauna and Parks Government of Québec
+Jacques Girard
+Produits forestiers Lamco inc.
+Michel Goulet
+Matériaux spécialisés Louiseville
+Helen Griffin
+Canadian Wood Council
+Bob Jones
+Canadian Forest Service Natural Resources Canada
+Paul Knowles
+Ministry of Forests, Lands and Natural Resource Operations Government of British Columbia
+Jason Koivisto
+Ministry of Natural Resources and Forestry Government of Ontario
+Suzanne Nash
+Canadian Forest Service Natural Resources Canada
+Paul Newman
+Council of Forest Industries
+Eric Paradis
+Resolute Forest Products
+Ted Szabo
+Alberta Innovates BioSolutions
+Phil Vacca
+Louisiana-Pacific Corporation
+Stephen Viszlai
+Tolko
+Secondary Wood Products Manufacturing Programs
+Étienne Poulin
+(CHAIR)
+Boa-Franc inc.
+Benoit Schmitt
+(CO-CHAIR)
+Maibec
+Armoires Distinction
+Artopex
+Boa-Franc inc.
+Bois Ditton inc.
+Bois Expansion inc.
+Chantiers Chibougamau
+Timber Corp
+Escaliers Gilles Grenier
+Fraser Wood Products
+Giguère & Morin inc.
+Industries LacWood Inc.
+INC.
+Juste du Pin
+Lauzon, division Parquets
+Dubeau
+Lauzon, Planchers de bois exclusifs
+Les Industries inc.
+Les Planchers Inc.
+Les Systèmes Canada Inc.
+Meubles Canadel Inc.
+Moulures Distinction Outaouais
+Parquets Alexandra inc.
+Planchers des Appalaches ltee
+Planchers Wickham
+Preverco inc.
+Pro System
+Produit Forestier Lamco
+Resolule Forest Products
+René St-Cyr (1996) Inc
+Tecolam
+Vanico-Maronyx
+Forest Operations
+Bob Nichol
+(CHAIR)
+-
+Jim Ketterling
+(CO-CHAIR)
+Irving
+Jean-Pierre Adam
+Ministry of Forests, Fauna and Parks Government of Québec
+Ray Balogh
+Island Timberlands
+Dave Bickerton
+Tolko
+Michel Charron
+Canadian Forest Service Natural Resources Canada
+Dorian Dereshkevich
+Canfor Corporation
+Dale Dunand
+Weyerhaeuser
+AndréGravel
+Domtar
+John Innes
+University of British Columbia
+Jason Koivisto
+Ministry of Natural Resources and Forestry Government of Ontario
+Martin Landry
+Kruger
+Maxime Langlais
+Resolute Forest Products
+Serge Laplante
+Groupe Savoie
+Luc Lebel
+Université Laval
+Scott Marleau
+West Fraser
+Ron Martel
+Tembec
+Mike O’Blenis
+Group
+Matt Parker
+Department of Natural Resources Government of Nova Scotia
+Simon St-Onge
+Québec Federation Forest Cooperatives
+Rob Stauffer
+Millar Western
+John Stephen
+Ministry of Forests, Lands and Natural Resource Operations Government of British Columbia
+Kevin Topolniski
+Acadian Timber
+Kalin Uhrich
+Conifex
+Dave Whiteley
+TimberWest
+Eric Young
+Department of Natural Resources Government of Newfoundland and Labrador
+Pulp, Paper and Bioproducts
+Paper, Packaging and Consumer Products
+Balazs Tolnai
+(CHAIR)
+Kruger
+Marc Fitzgerald
+Kruger Products LP
+Mark Frith
+Port Hawkesbury Paper LP
+Peter Ham
+Tembec
+Shaune Hanley
+Resolute Forest Products
+Michel Jean
+Domtar Corporation
+Market Pulp
+Eric Heine
+(CHAIR)
+Mercer International
+Brian Grantham
+West Fraser
+Shaune Hanley
+Resolute Forest Products
+Peter Lau
+Alberta-Pacific Forest Industries Inc.
+David Lloyd
+Domtar Corporation
+Yajun Zhou
+Tembec
+Biorefinery
+Geoff Clarke
+(CHAIR)
+Alberta-Pacific Forest Industries Inc.
+Rod Albers
+West Fraser
+Lyle Biglow
+Tembec
+Mark Frith
+Port Hawkesbury Paper LP
+Shaune Hanley
+Resolute Forest Products
+Biomaterials
+Gurminder Minhas
+(CHAIR)
+Performance BioFilaments Inc.
+Lyle Biglow
+Tembec
+Shaune Hanley
+Resolute Forest Products
+Bruno Marcoccia
+Domtar Corporation
+Balazs Tolnai
+Kruger Inc.
+Yajun Zhou
+Tembec
+Tobias Ziegenbein
+Celgar
+Resource Assessment
+Blake Brunsdon
+)
+Irving
+Barry Elkins
+Kruger
+Richard Fournier
+Université de Sherbrooke
+Stan Holmes
+Weyerhauser
+Robert Jobido
+Ministry of Forests, Fauna and Parks Government of Québec
+Faye Johnson
+Ministry of Natural Resources and Forestry Government of Ontario
+Jacinthe Leclers
+Canadian Forest Service Natural Resources Canada
+Peter Marshall
+University of British Columbia
+Bob Nichol
+-
+Barrie Phillips
+Ministry of Forests, Lands and Natural Resource Operations Government of British Columbia
+Daryl Price
+Ministry of Environment and Sustainable Resource Development Government of Alberta
+Gordon Sanders
+West Fraser Mills Ltd.
+Chris Stagg
+Canfor Corporation
+Alan Thorne
+Tembec
+As at March 31, 2015
+not-front
+discover
+Home
+Help
+FRANÇAIS
+ENGLISH
+Vision, Mission, Values
+Organization
+Our network
+Careers
+Members, partners and collaborators
+Why Become a Member
+Why Become an Associate
+Contact Us
+Advanced Building Systems
+Bioproducts
+Biorefinery and Energy
+Environment and Sustainability
+Forest Operations
+Market Pulp
+Indigenous Forestry Program
+Paper, Packaging and Consumer Products
+Group
+Primary Wood Products Manufacturing
+Resource Assessment
+Secondary Wood Products Manufacturing
+Value Maximization and Decision Support
+Wildfire Operations
+related websites
+Coastal Forest Sector Hem-Fir Initiative
+Canadian Wood Council
+Canadian Wood Fibre Centre
+OpenFPI
+FPSuite
+Hardwood Research Initiative
+Naturally Wood
+Partenariat innovation forêt
+Group
+Value to Wood
+Solutions for Wood
+Steep Slope Initiative
+Wildfire Operations Research
+Share
+® 2018 FPInnovations. All rights reserved.
+1
+2
+3
+4
+5

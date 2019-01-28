@@ -1,0 +1,4 @@
+HISTORY
+Materials, Inc. was founded on September 29th, 2006, as a spin-off from the Nitrides' group in the department at the University of California, Santa Barbara (UCSB) . The company's core technology is the ammonothermal growth of bulk Gacrystal, which was developed at under Nakamura Inhomogeneous Crystal Project in the Exploratory Research for Advanced Technology (ERATO) Program , led by Professor Nakamura the pioneer of GaN-based LEDs and laser diodes. Ammonothermal technology will provide higher quality, lower cost Gawafers than the conventional Gawafers produced only by hydride vapor phase epitaxy (HVPE). This revolutionary technology will expand the usage of Gawafers to many new applications such as low-cost lightings and blue/green laser diodes for compact projectors.
+Last modified February 21, 2018
+Copyright (C) Materials, Inc.

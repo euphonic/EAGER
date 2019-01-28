@@ -1,3 +1,0 @@
-SixPoint Materials, Inc. produces Gallium Nitride (GaN) crystals, a key material for energy, informational, and defense technology, with its proprietary NEAT (Near-Equilibrium AmmonoThermal) method. SixPoint's GaN wafer "GANKIBAN" has a lower dislocation density than those produced by the conventional hydride vapor phase epitaxy. GANKIBAN enables a GaN-on-GaN platform for  high-power devices used in power electronics, RF devices used in informational and defense applications, laser diodes used in informational technologies, and light emitting diodes (LEDs) for energy-saving solid-state lighting (SSL).
-Last modified February 21, 2018
-Copyright (C) SixPoint Materials, Inc.

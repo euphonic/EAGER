@@ -1,0 +1,2147 @@
+Order Center
+ United States
+More...
+My Account
+Logout
+APPLICATIONS
+10086411,IND,Chem
+10086411,IND,Chem
+Chemical
+All Chemical
+Applications
+Agrochemicals
+Consumer Products Testing
+Cosmetics & Personal Care Products
+Fine & Specialty Chemicals
+Extractables and Leachables
+Fuel & Energy
+Polymers
+Research & Development
+Production & Manufacturing
+Product Support 
+Agrochemical Application Book
+Synthesis, Purification, Formulation, Met ID, 
+Trace Detection
+Extractables and Leachables 
+ Application Book
+Methods for Rapid and Cost Effective Identification of Contaminants
+Polymer Analysis Application book
+Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
+10086411,IND,Biopharm
+Biopharmaceutical
+Biopharmaceutical Applications
+Proteins
+Peptides
+Glycans
+Amino Acids
+Oligonucleotides
+H/Exchange with (MS)
+Peptide & Protein Bioanalysis
+Host Cell Proteins
+Antibody Drug Conjugates
+Biosimilars
+Key Bioseparations Columns
+H-Class Bio
+QDa for Biopharm
+Biopharm LC/with UNIFI
+Ion Mobility MS
+Process Development & Manufac...
+Related
+Pharmaceuticals
+Health Sciences Research
+Health Sciences Diagnostics
+Impact
+Centers of Innovation
+Voice of the Customer
+Webinars
+Blog
+Biopharm Solution with Key Applications
+On-Demand Webinar
+Facilitating Drug Discovery with HDX-Mass Spectrometry
+10086411,IND,Pharma
+Pharmaceutical
+Pharmaceutical Applications
+Medicinal Chemistry
+Bioanalysis / DMPK
+Peptide & Protein Bioanalysis
+Chemical Manufacturing Contro...
+Process Analytics
+QA/QC
+Method Development
+Impurities
+Natural Products
+Key Family
+QDa Detector
+Process Analytics
+Tandem (Triple) Quadrupole MS
+High Resolution (HRMS)
+Ion Mobility MS
+ionKey/MS
+Screening Platform
+Related
+Purification
+Biopharmaceutical
+Discovery Research
+Impact in Pharma
+Centers of Innovation
+Blog
+Calendar of Events
+New and Bioanalysis Knowledge Center
+Peptide and Protein Bioanalysis Application Notebook
+Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
+10086411,IND,Diagnostics
+Health Sciences Diagnostics
+Clinical Lab Workflow
+Pre Analytics
+Analytics
+Post Analytics
+Diagnostic Solutions
+Medical Devices
+Sample Prep
+LC-MS
+Software & Informatics
+Consumables
+Availability by Country
+Tools & Resources
+UPLC-App Note Browser
+Primers
+Non-Diagnostic Markets
+Forensic Toxicology
+Health Sciences Research
+On-Demand Webinar Available Now!
+Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
+WEBINAR:
+Spot the Difference:
+What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
+10086411,IND,Research
+Health Sciences Research
+Health Science Continuum
+Biomarker Discovery
+Proteomics
+Metabolomics & Lipidomics
+Imaging
+Translational Research 
+Biomarker Translation
+Clinical Research
+Translational Systems
+Key ionKey/MS
+Full Spectrum Imaging
+Progenesis Software
+Related
+Health Sciences Diagnostics
+Forensic Toxicology
+Impact
+Blog
+Centers of Innovation
+Tools and Resources
+UPLC-App note Browser
+Primers
+Ion Mobility in Omics
+Peptide & Protein Bioanalysis Boot Camp
+Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
+DESI: Imaging for Biomedical Research
+10086411,IND,Food
+Food
+All Food
+Natural Toxins
+Pesticides in Food
+Pesticide Screening Application Solution with UNIFI
+Veterinary Drugs
+Vitamins in Foods and Beverages
+Food Profiling and Authenticity
+Food QC
+Screening Platform Solution with UNIFI
+Foodomics
+Food Safety
+Tobacco
+Xevo TQ-System
+Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
+QDa Food Testing 
+Application Book: 
+Increase detection selectivity and confidence using mass detection
+Polar Pesticides Analysis
+Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
+Food and Safety Application Book
+Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
+10086411,IND,Enviro
+Environmental
+All Environmental
+Dioxins and Furans
+Pesticides in Water
+Pesticide Screening Application Solution with UNIFI
+Pharmaceuticals and Personal Care Products (PCPPs)
+Screening Platform Solution with UNIFI
+Air
+BioSolids
+Drinking Water
+Soil
+Surface Water
+Waste Water
+Column and Sample Preparation Products for Environmental Testing
+10086411,IND,Forensics
+Forensic Toxicology
+Solutions
+Confirmation Analysis
+Screening Analysis
+Products
+LC-MS
+Software & Informatics
+Consumables
+Resources
+UPLC-App Note Browser
+Primers
+Health Sciences
+On-Demand Webinar:
+Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
+On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
+On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
+PRODUCTS
+10086411,PROD,Featured
+10086411,PROD,Featured
+Featured
+Products
+Xevo TQ-GC
+M-Class System
+Arc UHPLC
+Arc Bio System
+BioResolve mAb Polyphenyl Columns
+Applications
+Amino Acid Analysis
+Antibody Drug Conjugates (ADCs)
+Biopharmaceutical
+Metabolite Identification
+Omics Research
+Pesticide Screening
+Agrochemicals
+Gain hands-on Mass Spec experience for your students with the Practical Education Package
+BioResolve mAb Polyphenyl Columns for protein separations.
+Empower Cloud 
+Cloud-deployable, compliance-ready, Enterprise CDS
+Innovation through collaboration at our Experience Design Center
+10086411,PROD,Columns
+Columns
+Chemistry Consumables & Columns
+Columns
+Columns
+Columns
+SFC/UPC2 Columns
+Columns
+GPC/Columns
+Nano/Micro Scale Columns
+iKey - Microflow LC/Device
+Column Accessories
+Technique
+Reversed-Phase
+Normal Phase
+Hydrophilic Interaction HILIC
+SuperCritical Fluid SFC/UPC2
+Size Exclusion SEC/GPC
+Ion Exclusion
+Ion Exchange
+Hydrophobic Interaction
+Affinity
+Bioseparations Columns
+Web Toolbox
+Column Advisor
+Column Selectivity Chart
+Prep Calculator
+Primers
+Order Center
+BioResolve mAb Polyphenyl Columns for protein separations.
+Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
+10086411,PROD,SamplePrep
+Sample Preparation & Other Consumables
+Chemistry Consumables & Columns 
+Sample Preparation Products
+Polymeric SPE
+Solid-Phase Extraction
+Pass-Through Sample Preparati...
+On-Line SPE
+Reaction Clean-up
+Protein Precipitation
+QuEChSample Preparation
+for Explosives Analysis
+Sample Vials & Plates
+Sample Vials
+Sample Plates
+Sample Preparation Kits
+Protein Digestion Kit
+Released N-Glycan Kits
+Filtration Products
+Accessories
+Tools & Resources
+Vial Selector
+Plate Selector
+Filter Selector
+Primers
+Advisor
+The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
+Download or order your copy today.
+Behind the Science
+Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
+10086411,PROD,ASR
+Analytical Standards & Reagents
+Analytical Standards & Reagents Overview
+System Performance Standards
+Pharmaceutical & Life Science Standards
+Peptide Standards
+Protein Standards 
+Glycan Standards
+Oligonucleotide Standards
+Amino Acid Standards
+Small Molecule Standards
+Food & Beverage Standards
+Chemical & Environmental Analysis Standards
+& Standards
+Environmental Standards
+Reagents
+Bioseparations Chemistry Advisor
+Behind the Science
+Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
+Material Safety Data Sheets
+10086411,PROD,Informatics
+Informatics & Software
+All Informatics & Software
+Empower 3 Chromatography Software
+LiveSample Recognition Software
+MassLynx Mass Spectrometry Software
+NuGenesis Lab Management System
+Symphony Data Pipeline Software
+Progenesis Data Analysis Software
+Scientific Information System
+Software Services
+Software Upgrades
+Empower tip-of-the-week blog and newsletter
+Data Integrity Resources
+Innovation through collaboration at our Experience Design Center
+Empower Cloud 
+Cloud-deployable, compliance-ready, Enterprise CDS
+10086411,PROD,Chroma
+Chromatography
+Systems by: Instrument Type
+/ UHPLC
+UPC
+2
+Arc UHPLC
+Alliance HPLC
+Detectors
+Systems by: Technique
+Reversed-Phase Liquid Chromat...
+Normal-Phase Liquid Chromatog...
+Supercritical CO2 Based Techn...
+Advanced Polymer Chromatograp...
+Systems by: Application
+Discovery/Development
+QA/QC
+Process Development
+Polymers
+LC-MS
+Sample-Limited
+Hydrogen Deuterium Exchange (...
+Multi-Dimensional Separations
+Bioseparations
+Inlet to Third Party MS
+Systems by: Pump Type
+Binary Solvent Management
+Quaternary Solvent Management
+Isocratic Solvent Management
+Systems by: Chemistry Format
+3.0 mm - 10.0 mm I.D.
+2.1 mm - 3.0 mm I.D.
+75 µm - 1.0 mm I.D.
+Tile Based
+UPLC/Application Note Browser
+Primers
+Innovation through collaboration at our Experience Design Center
+Agilent 1100 Series System support is ending
+There are 1100 reasons to update your system to Waters.
+10086411,PROD,MassSpec
+Mass Spectrometry
+MS
+Xevo G2-Tof
+Detector 2
+QDa Detector
+MS/MS
+Xevo TQ-GC
+Xevo TQ-XS
+Xevo TQ-S
+Xevo TQ-micro
+Xevo TQD
+Xevo G2-QTof
+G2-Si MS
+G2-Si MS
+MS/MS
+Vion QTof
+G2-Si HDMS
+G2-Si HDMS
+Instrument Type
+Single Quadrupole
+Tandem ( Triple ) Quadrupole
+Time of Flight
+Quadrupole Time of Flight
+Ion Mobility
+Analysis Type
+Quantitation
+Direct Sample Analysis
+Key Technnologies
+SONAR
+Ion Sources
+Software
+Gain hands-on Mass Spec experience for your students with the Practical Education Package
+Introducing our new GC-MS/system, the Xevo TQ-GC
+10086411,PROD,Purification
+Purification / SFE
+LC
+AutoPurification System
+Prep 150 System
+Modular Systems
+Fraction Manager - Analytical
+SFC
+Investigator System
+Prep 100q System
+Prep 15 System
+80/200/350 Systems
+SFE
+MV-10 System
+Prep Systems
+Bio-Botanical Extraction Syst...
+Scale
+Analytical to Semi-Prep ...
+Semi-Prep to Prep-Scale ...
+Semi-Prep to Prep-Scale P...
+Prep-Scale Purification
+Supercritical Fluid Chromatog...
+Supercritical Fluid Extractio...
+Bulk Delivery CO2 System  
+Software
+ChromScope 
+Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
+ Download the application note.
+RESOURCES
+10086411,RESOURCES,Resources
+10086411,RESOURCES,Resources
+Resources
+Webcasts
+How to Videos
+Video Gallery
+Other Resources
+Support Library
+User Guides
+Application Notebooks
+Primers
+& Partnership
+is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
+Webcast: QDa Detector - Separating Beyond Question
+small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
+10086411,RESOURCES,Programs
+Academic Programs
+Academic Programs
+Academic Support Program
+Centers of Innovation
+Uwe Neue Award in Separation Science
+Leasing & Financing Services
+Journal Citations Articles
+Training Courses
+Seminars & Events
+Offers & Discounts
+& Partnership
+is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
+10086411,RESOURCES,Journal Articles
+Journal Articles
+UPLC
+2nano(RP/RP)
+(Protein Characteriza...
+(Peptide Mapping)
+(Glycan Characterizat...
+(Food)
+(Environmental)
+(Forensics)
+(Biopharmaceuticals)
+(Proteomics)
+(Metabolites)
+Systems
+Xevo TQ-S
+Xevo QTof G2
+Synapt G2
+MS
+e
+LC/MS
+Bioanalysis
+nanoACQUITY/Xevo
+nanoACQUITY/Synapt
+ACQUITY/Xevo
+ACQUITY/Synapt
+Columns and Consumables
+PST
+GST
+Protein ST
+Rapigest
+Oasis
+All links open in Google Scholar
+10086411,RESOURCES,CoI
+Centers of Innovation
+All About Centers of Innovation
+Chemical
+Environmental
+Food
+Health Sciences
+Pharmaceutical
+Technology
+Connect with Us
+Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
+Academic Support Program
+& EVENTS
+10086411,EDU/EVNT,Training
+10086411,EDU/EVNT,Training
+Training
+Global Training Courses
+Compliance
+Empower
+General Chromatography
+Lab Informatics
+MassLynx
+Mass Spectrometry
+Operation/Maintenance
+SFC
+UPLC
+Can't find a course? View the complete course list
+eLearning On-Demand Courses
+Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
+View Courses Schedule
+Lunch & Learn Online Courses
+10086411,EDU/EVNT,Events
+Seminars & Events
+All Seminars and Events
+All Industry Conferences
+All Seminars
+Meet the Experts Webinar Series
+10086411,EDU/EVNT,Primers
+Primers
+Primers
+- High Performance Liquid Chromatography
+- Ultra Performance Liquid Chromatography
+- Convergence Chromatography
+- Mass Spectrometry
+- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
+Beginners Guide to Preparative LC
+Practical Approaches to Peptide Isolation
+10086411,EDU/EVNT,Literature
+Literature Library
+All Literature
+Applications Notes
+Catalogs
+Journal Citations
+Literature
+Podcasts
+Posters
+Webcasts
+& SUPPORT
+10086411,SERVICES,Support
+10086411,SERVICES,Support
+Services and Support
+iRequest Technical Support
+Graphical Parts Locator
+Services And Support
+Instrument Services and Support
+Service Plans
+Qualification/Compliance
+Instrument Analytics
+Instrument Upgrades
+Spare Parts and Consumables
+Software Services and Support
+Software Plans
+Software Upgrades
+Software Validation Services
+Drivers/Updates
+Professional Services
+Laboratory Analytics
+Informatics Services
+Consultation/Project Manageme...
+Innovation through collaboration at our Experience Design Center
+Search KnowledgeBase - find answers to your troubleshooting questions
+10086411,SERVICES,Support Library
+Support Library
+iRequest Technical Support
+Graphical Parts Locator
+Services And Support
+Support Library
+User Guides
+Release Notes
+How To Videos
+Instrument Systems
+Instrument Modules
+Software Videos
+Best Practices
+Request Certificate of Analysis
+Safety Data Sheets
+Search KnowledgeBase - find answers to your troubleshooting questions
+10086411,ABOUT,Contact
+10086411,ABOUT,Contact
+Contacts
+Contact Information
+Local Country Contacts
+Corporate & Regional Contacts
+Request Pricing
+Columns and Consumables
+Instruments and Systems
+Informatics
+Services
+Support / Service Inquiries
+Training Course Inquiries
+Request Technical Support
+Login, Account Issues
+Request Investor Information
+Connect with Us
+Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
+Blogging About What's Possible
+Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
+10086411,ABOUT,About About About 
+Quick Facts
+Corporate History
+Quality
+Environmental Health & Safety
+Charitable Giving
+Sustainability
+Mission Statement
+Modern Slavery Act
+Blogging About What's Possible
+Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
+10086411,ABOUT,Investors
+Investors
+Investors
+Stock Quote
+Stock Chart
+Analysts
+Earnings
+Annual Reports
+Filings
+Information Request
+News Releases
+Investor Presentations
+GAAP/Non-Reconciliation
+10086411,ABOUT,News
+News
+News
+News Releases
+Media Contacts
+Social Media
+Logo
+Product Images
+Blogging About What's Possible
+Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
+10086411,ABOUT,Corporate Governance
+Corporate Governance
+Corporate Governance
+Leadership
+Conflict Minerals Statement
+Trademarks
+Copyright
+10086411,ABOUT,Careers
+Careers
+Career Opportunities
+Careers in US
+All Other Global Careers
+Who We Are
+Employee Perks
+Equal Opportunity
+Application & Interview Process
+Connect with Us
+Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
+Blogging About What's Possible
+Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
+Home
+ > 
+ > 
+Global Job Opportunities
+ > 
+Who We Are
+Who We Are
+For over 50 years, has developed innovative analytical science solutions to support customer discoveries, operations, performance, and regulatory compliance. Specifically, the company designs, manufactures, sells, and services high performance liquid chromatography, ultra performance liquid chromatography, and mass spectrometry technology systems and support products primarily in the United States, Europe, Japan, and Asia.
+Our innovations enable significant advancements within the pharmaceutical, life science, biochemical, industrial, food safety, environmental, academic and government industries. is a publicly traded (NYSE:WAT) with more than 6,000 employees and is represented in 85 countries around the world.
+Powering a connected portfolio of separation and analytical science, laboratory informatics, and mass spectrometry. Waters' technology breakthroughs and laboratory solutions provide an enduring platform for customer success.
+Quick Facts
+Industry:           
+Research, Biotechnology
+Headquarters: 
+34 Maple Street Milford, 01757 USA
+Founded:          
+1958
+Type:                   
+Public Company
+Specialties: 
+Biotechnology, Scientific Instrumentation, Scientific Software, UPLC, HPLC, Chromatography, Mass Spec, Informatics, Chemistry, Analytical Standards
+Company Size:  
+5000+ Employees
+Sustainability
+ | 
+Charitable Giving
+ | 
+Healthy & Safety
+ | 
+Quality
+Contact Terms of Use
+Privacy
+Cookies
+Cookie Preferences
+Trademarks
+Sitemap
+Careers
+By Product:
+Title
+Brand
+Category
+Popularity
+Best Sellers
+By High-Volume Category:
+Popularity
+Our Choices
+Category
+Title
+All-Round Favorites
+By Top Sellers:
+Popularity
+Brand
+Price
+Best Sellers
+Name
+By Category:
+Popularity
+Our Choices
+Recommendations
+Title
+CategoryOrder Center
+ United States
+More...
+My Account
+Logout
+APPLICATIONS
+134614712,IND,Chem
+134614712,IND,Chem
+Chemical
+All Chemical
+Applications
+Agrochemicals
+Consumer Products Testing
+Cosmetics & Personal Care Products
+Fine & Specialty Chemicals
+Extractables and Leachables
+Fuel & Energy
+Polymers
+Research & Development
+Production & Manufacturing
+Product Support 
+Agrochemical Application Book
+Synthesis, Purification, Formulation, Met ID, 
+Trace Detection
+Extractables and Leachables 
+ Application Book
+Methods for Rapid and Cost Effective Identification of Contaminants
+Polymer Analysis Application book
+Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
+134614712,IND,Biopharm
+Biopharmaceutical
+Biopharmaceutical Applications
+Proteins
+Peptides
+Glycans
+Amino Acids
+Oligonucleotides
+H/Exchange with (MS)
+Peptide & Protein Bioanalysis
+Host Cell Proteins
+Antibody Drug Conjugates
+Biosimilars
+Key Bioseparations Columns
+H-Class Bio
+QDa for Biopharm
+Biopharm LC/with UNIFI
+Ion Mobility MS
+Process Development & Manufac...
+Related
+Pharmaceuticals
+Health Sciences Research
+Health Sciences Diagnostics
+Impact
+Centers of Innovation
+Voice of the Customer
+Webinars
+Blog
+Biopharm Solution with Key Applications
+On-Demand Webinar
+Facilitating Drug Discovery with HDX-Mass Spectrometry
+134614712,IND,Pharma
+Pharmaceutical
+Pharmaceutical Applications
+Medicinal Chemistry
+Bioanalysis / DMPK
+Peptide & Protein Bioanalysis
+Chemical Manufacturing Contro...
+Process Analytics
+QA/QC
+Method Development
+Impurities
+Natural Products
+Key Family
+QDa Detector
+Process Analytics
+Tandem (Triple) Quadrupole MS
+High Resolution (HRMS)
+Ion Mobility MS
+ionKey/MS
+Screening Platform
+Related
+Purification
+Biopharmaceutical
+Discovery Research
+Impact in Pharma
+Centers of Innovation
+Blog
+Calendar of Events
+New and Bioanalysis Knowledge Center
+Peptide and Protein Bioanalysis Application Notebook
+Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
+134614712,IND,Diagnostics
+Health Sciences Diagnostics
+Clinical Lab Workflow
+Pre Analytics
+Analytics
+Post Analytics
+Diagnostic Solutions
+Medical Devices
+Sample Prep
+LC-MS
+Software & Informatics
+Consumables
+Availability by Country
+Tools & Resources
+UPLC-App Note Browser
+Primers
+Non-Diagnostic Markets
+Forensic Toxicology
+Health Sciences Research
+On-Demand Webinar Available Now!
+Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
+WEBINAR:
+Spot the Difference:
+What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
+134614712,IND,Research
+Health Sciences Research
+Health Science Continuum
+Biomarker Discovery
+Proteomics
+Metabolomics & Lipidomics
+Imaging
+Translational Research 
+Biomarker Translation
+Clinical Research
+Translational Systems
+Key ionKey/MS
+Full Spectrum Imaging
+Progenesis Software
+Related
+Health Sciences Diagnostics
+Forensic Toxicology
+Impact
+Blog
+Centers of Innovation
+Tools and Resources
+UPLC-App note Browser
+Primers
+Ion Mobility in Omics
+Peptide & Protein Bioanalysis Boot Camp
+Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
+DESI: Imaging for Biomedical Research
+134614712,IND,Food
+Food
+All Food
+Natural Toxins
+Pesticides in Food
+Pesticide Screening Application Solution with UNIFI
+Veterinary Drugs
+Vitamins in Foods and Beverages
+Food Profiling and Authenticity
+Food QC
+Screening Platform Solution with UNIFI
+Foodomics
+Food Safety
+Tobacco
+Xevo TQ-System
+Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
+QDa Food Testing 
+Application Book: 
+Increase detection selectivity and confidence using mass detection
+Polar Pesticides Analysis
+Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
+Food and Safety Application Book
+Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
+134614712,IND,Enviro
+Environmental
+All Environmental
+Dioxins and Furans
+Pesticides in Water
+Pesticide Screening Application Solution with UNIFI
+Pharmaceuticals and Personal Care Products (PCPPs)
+Screening Platform Solution with UNIFI
+Air
+BioSolids
+Drinking Water
+Soil
+Surface Water
+Waste Water
+Column and Sample Preparation Products for Environmental Testing
+134614712,IND,Forensics
+Forensic Toxicology
+Solutions
+Confirmation Analysis
+Screening Analysis
+Products
+LC-MS
+Software & Informatics
+Consumables
+Resources
+UPLC-App Note Browser
+Primers
+Health Sciences
+On-Demand Webinar:
+Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
+On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
+On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
+PRODUCTS
+134614712,PROD,Featured
+134614712,PROD,Featured
+Featured
+Products
+Xevo TQ-GC
+M-Class System
+Arc UHPLC
+Arc Bio System
+BioResolve mAb Polyphenyl Columns
+Applications
+Amino Acid Analysis
+Antibody Drug Conjugates (ADCs)
+Biopharmaceutical
+Metabolite Identification
+Omics Research
+Pesticide Screening
+Agrochemicals
+Gain hands-on Mass Spec experience for your students with the Practical Education Package
+BioResolve mAb Polyphenyl Columns for protein separations.
+Empower Cloud 
+Cloud-deployable, compliance-ready, Enterprise CDS
+Innovation through collaboration at our Experience Design Center
+134614712,PROD,Columns
+Columns
+Chemistry Consumables & Columns
+Columns
+Columns
+Columns
+SFC/UPC2 Columns
+Columns
+GPC/Columns
+Nano/Micro Scale Columns
+iKey - Microflow LC/Device
+Column Accessories
+Technique
+Reversed-Phase
+Normal Phase
+Hydrophilic Interaction HILIC
+SuperCritical Fluid SFC/UPC2
+Size Exclusion SEC/GPC
+Ion Exclusion
+Ion Exchange
+Hydrophobic Interaction
+Affinity
+Bioseparations Columns
+Web Toolbox
+Column Advisor
+Column Selectivity Chart
+Prep Calculator
+Primers
+Order Center
+BioResolve mAb Polyphenyl Columns for protein separations.
+Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
+134614712,PROD,SamplePrep
+Sample Preparation & Other Consumables
+Chemistry Consumables & Columns 
+Sample Preparation Products
+Polymeric SPE
+Solid-Phase Extraction
+Pass-Through Sample Preparati...
+On-Line SPE
+Reaction Clean-up
+Protein Precipitation
+QuEChSample Preparation
+for Explosives Analysis
+Sample Vials & Plates
+Sample Vials
+Sample Plates
+Sample Preparation Kits
+Protein Digestion Kit
+Released N-Glycan Kits
+Filtration Products
+Accessories
+Tools & Resources
+Vial Selector
+Plate Selector
+Filter Selector
+Primers
+Advisor
+The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
+Download or order your copy today.
+Behind the Science
+Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
+134614712,PROD,ASR
+Analytical Standards & Reagents
+Analytical Standards & Reagents Overview
+System Performance Standards
+Pharmaceutical & Life Science Standards
+Peptide Standards
+Protein Standards 
+Glycan Standards
+Oligonucleotide Standards
+Amino Acid Standards
+Small Molecule Standards
+Food & Beverage Standards
+Chemical & Environmental Analysis Standards
+& Standards
+Environmental Standards
+Reagents
+Bioseparations Chemistry Advisor
+Behind the Science
+Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
+Material Safety Data Sheets
+134614712,PROD,Informatics
+Informatics & Software
+All Informatics & Software
+Empower 3 Chromatography Software
+LiveSample Recognition Software
+MassLynx Mass Spectrometry Software
+NuGenesis Lab Management System
+Symphony Data Pipeline Software
+Progenesis Data Analysis Software
+Scientific Information System
+Software Services
+Software Upgrades
+Empower tip-of-the-week blog and newsletter
+Data Integrity Resources
+Innovation through collaboration at our Experience Design Center
+Empower Cloud 
+Cloud-deployable, compliance-ready, Enterprise CDS
+134614712,PROD,Chroma
+Chromatography
+Systems by: Instrument Type
+/ UHPLC
+UPC
+2
+Arc UHPLC
+Alliance HPLC
+Detectors
+Systems by: Technique
+Reversed-Phase Liquid Chromat...
+Normal-Phase Liquid Chromatog...
+Supercritical CO2 Based Techn...
+Advanced Polymer Chromatograp...
+Systems by: Application
+Discovery/Development
+QA/QC
+Process Development
+Polymers
+LC-MS
+Sample-Limited
+Hydrogen Deuterium Exchange (...
+Multi-Dimensional Separations
+Bioseparations
+Inlet to Third Party MS
+Systems by: Pump Type
+Binary Solvent Management
+Quaternary Solvent Management
+Isocratic Solvent Management
+Systems by: Chemistry Format
+3.0 mm - 10.0 mm I.D.
+2.1 mm - 3.0 mm I.D.
+75 µm - 1.0 mm I.D.
+Tile Based
+UPLC/Application Note Browser
+Primers
+Innovation through collaboration at our Experience Design Center
+Agilent 1100 Series System support is ending
+There are 1100 reasons to update your system to Waters.
+134614712,PROD,MassSpec
+Mass Spectrometry
+MS
+Xevo G2-Tof
+Detector 2
+QDa Detector
+MS/MS
+Xevo TQ-GC
+Xevo TQ-XS
+Xevo TQ-S
+Xevo TQ-micro
+Xevo TQD
+Xevo G2-QTof
+G2-Si MS
+G2-Si MS
+MS/MS
+Vion QTof
+G2-Si HDMS
+G2-Si HDMS
+Instrument Type
+Single Quadrupole
+Tandem ( Triple ) Quadrupole
+Time of Flight
+Quadrupole Time of Flight
+Ion Mobility
+Analysis Type
+Quantitation
+Direct Sample Analysis
+Key Technnologies
+SONAR
+Ion Sources
+Software
+Gain hands-on Mass Spec experience for your students with the Practical Education Package
+Introducing our new GC-MS/system, the Xevo TQ-GC
+134614712,PROD,Purification
+Purification / SFE
+LC
+AutoPurification System
+Prep 150 System
+Modular Systems
+Fraction Manager - Analytical
+SFC
+Investigator System
+Prep 100q System
+Prep 15 System
+80/200/350 Systems
+SFE
+MV-10 System
+Prep Systems
+Bio-Botanical Extraction Syst...
+Scale
+Analytical to Semi-Prep ...
+Semi-Prep to Prep-Scale ...
+Semi-Prep to Prep-Scale P...
+Prep-Scale Purification
+Supercritical Fluid Chromatog...
+Supercritical Fluid Extractio...
+Bulk Delivery CO2 System  
+Software
+ChromScope 
+Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
+ Download the application note.
+RESOURCES
+134614712,RESOURCES,Resources
+134614712,RESOURCES,Resources
+Resources
+Webcasts
+How to Videos
+Video Gallery
+Other Resources
+Support Library
+User Guides
+Application Notebooks
+Primers
+& Partnership
+is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
+Webcast: QDa Detector - Separating Beyond Question
+small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
+134614712,RESOURCES,Programs
+Academic Programs
+Academic Programs
+Academic Support Program
+Centers of Innovation
+Uwe Neue Award in Separation Science
+Leasing & Financing Services
+Journal Citations Articles
+Training Courses
+Seminars & Events
+Offers & Discounts
+& Partnership
+is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
+134614712,RESOURCES,Journal Articles
+Journal Articles
+UPLC
+2nano(RP/RP)
+(Protein Characteriza...
+(Peptide Mapping)
+(Glycan Characterizat...
+(Food)
+(Environmental)
+(Forensics)
+(Biopharmaceuticals)
+(Proteomics)
+(Metabolites)
+Systems
+Xevo TQ-S
+Xevo QTof G2
+Synapt G2
+MS
+e
+LC/MS
+Bioanalysis
+nanoACQUITY/Xevo
+nanoACQUITY/Synapt
+ACQUITY/Xevo
+ACQUITY/Synapt
+Columns and Consumables
+PST
+GST
+Protein ST
+Rapigest
+Oasis
+All links open in Google Scholar
+134614712,RESOURCES,CoI
+Centers of Innovation
+All About Centers of Innovation
+Chemical
+Environmental
+Food
+Health Sciences
+Pharmaceutical
+Technology
+Connect with Us
+Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
+Academic Support Program
+& EVENTS
+134614712,EDU/EVNT,Training
+134614712,EDU/EVNT,Training
+Training
+Global Training Courses
+Compliance
+Empower
+General Chromatography
+Lab Informatics
+MassLynx
+Mass Spectrometry
+Operation/Maintenance
+SFC
+UPLC
+Can't find a course? View the complete course list
+eLearning On-Demand Courses
+Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
+View Courses Schedule
+Lunch & Learn Online Courses
+134614712,EDU/EVNT,Events
+Seminars & Events
+All Seminars and Events
+All Industry Conferences
+All Seminars
+Meet the Experts Webinar Series
+134614712,EDU/EVNT,Primers
+Primers
+Primers
+- High Performance Liquid Chromatography
+- Ultra Performance Liquid Chromatography
+- Convergence Chromatography
+- Mass Spectrometry
+- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
+Beginners Guide to Preparative LC
+Practical Approaches to Peptide Isolation
+134614712,EDU/EVNT,Literature
+Literature Library
+All Literature
+Applications Notes
+Catalogs
+Journal Citations
+Literature
+Podcasts
+Posters
+Webcasts
+& SUPPORT
+134614712,SERVICES,Support
+134614712,SERVICES,Support
+Services and Support
+iRequest Technical Support
+Graphical Parts Locator
+Services And Support
+Instrument Services and Support
+Service Plans
+Qualification/Compliance
+Instrument Analytics
+Instrument Upgrades
+Spare Parts and Consumables
+Software Services and Support
+Software Plans
+Software Upgrades
+Software Validation Services
+Drivers/Updates
+Professional Services
+Laboratory Analytics
+Informatics Services
+Consultation/Project Manageme...
+Innovation through collaboration at our Experience Design Center
+Search KnowledgeBase - find answers to your troubleshooting questions
+134614712,SERVICES,Support Library
+Support Library
+iRequest Technical Support
+Graphical Parts Locator
+Services And Support
+Support Library
+User Guides
+Release Notes
+How To Videos
+Instrument Systems
+Instrument Modules
+Software Videos
+Best Practices
+Request Certificate of Analysis
+Safety Data Sheets
+Search KnowledgeBase - find answers to your troubleshooting questions
+134614712,ABOUT,Contact
+134614712,ABOUT,Contact
+Contacts
+Contact Information
+Local Country Contacts
+Corporate & Regional Contacts
+Request Pricing
+Columns and Consumables
+Instruments and Systems
+Informatics
+Services
+Support / Service Inquiries
+Training Course Inquiries
+Request Technical Support
+Login, Account Issues
+Request Investor Information
+Connect with Us
+Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
+Blogging About What's Possible
+Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
+134614712,ABOUT,About About About 
+Quick Facts
+Corporate History
+Quality
+Environmental Health & Safety
+Charitable Giving
+Sustainability
+Mission Statement
+Modern Slavery Act
+Blogging About What's Possible
+Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
+134614712,ABOUT,Investors
+Investors
+Investors
+Stock Quote
+Stock Chart
+Analysts
+Earnings
+Annual Reports
+Filings
+Information Request
+News Releases
+Investor Presentations
+GAAP/Non-Reconciliation
+134614712,ABOUT,News
+News
+News
+News Releases
+Media Contacts
+Social Media
+Logo
+Product Images
+Blogging About What's Possible
+Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
+134614712,ABOUT,Corporate Governance
+Corporate Governance
+Corporate Governance
+Leadership
+Conflict Minerals Statement
+Trademarks
+Copyright
+134614712,ABOUT,Careers
+Careers
+Career Opportunities
+Careers in US
+All Other Global Careers
+Who We Are
+Employee Perks
+Equal Opportunity
+Application & Interview Process
+Connect with Us
+Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
+Blogging About What's Possible
+Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
+Home
+ > 
+ > 
+About 
+ > 
+Corporate History
+N
+N
+Contact US
+About 
+Global Job Opportunities
+Regional/Global Contacts
+Corporate Governance
+Investors
+Website
+Since 1958, has been in the business of making innovative analytical instruments that assist scientists in reaching their scientific goals, increase productivity, and earn laboratory-based organizations a higher return on their investments in research, development, and quality control.
+Whether at work discovering new pharmaceuticals, inventing new and more effective ways to treat diseases, assuring the safety of the world’s food and drinking water supplies, monitoring and controlling pollution, or conserving the world’s greatest art treasures, scientists worldwide rely on liquid chromatography and mass spectrometry products.
+60+ years in business, is now one of largest companies in the analytical instruments industry, supporting scientists working thousands of laboratories around the world. With a hard-earned reputation for applications expertise, dedication to customer success, and post-sales support, stands out among its peers and, year after year, is one of the best-performing companies in the industry.
+Corporation: Fifty Years of Innovation in Analysis and Purification
+Chemical Heritage Foundation
+ magazine, Summer Issue 2008 
+Download the (912K)
+View article on website
+The History of Jim and Corporation: 1958 to Present
+Download the (1.8MB) 
+Jim and His Liquid Chromatography People: Personal Perspective
+Download the (13MB)
+60 Years of Innovation: Timeline Infographic
+Download the PDF
+Terms of Use
+Privacy
+Cookies
+Cookie Preferences
+Trademarks
+Sitemap
+Careers
+By Product:
+Title
+Brand
+Category
+Popularity
+Best Sellers
+By High-Volume Category:
+Popularity
+Our Choices
+Category
+Title
+All-Round Favorites
+By Top Sellers:
+Popularity
+Brand
+Price
+Best Sellers
+Name
+By Category:
+Popularity
+Our Choices
+Recommendations
+Title
+CategoryOrder Center
+ United States
+More...
+My Account
+Logout
+APPLICATIONS
+134614448,IND,Chem
+134614448,IND,Chem
+Chemical
+All Chemical
+Applications
+Agrochemicals
+Consumer Products Testing
+Cosmetics & Personal Care Products
+Fine & Specialty Chemicals
+Extractables and Leachables
+Fuel & Energy
+Polymers
+Research & Development
+Production & Manufacturing
+Product Support 
+Agrochemical Application Book
+Synthesis, Purification, Formulation, Met ID, 
+Trace Detection
+Extractables and Leachables 
+ Application Book
+Methods for Rapid and Cost Effective Identification of Contaminants
+Polymer Analysis Application book
+Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
+134614448,IND,Biopharm
+Biopharmaceutical
+Biopharmaceutical Applications
+Proteins
+Peptides
+Glycans
+Amino Acids
+Oligonucleotides
+H/Exchange with (MS)
+Peptide & Protein Bioanalysis
+Host Cell Proteins
+Antibody Drug Conjugates
+Biosimilars
+Key Bioseparations Columns
+H-Class Bio
+QDa for Biopharm
+Biopharm LC/with UNIFI
+Ion Mobility MS
+Process Development & Manufac...
+Related
+Pharmaceuticals
+Health Sciences Research
+Health Sciences Diagnostics
+Impact
+Centers of Innovation
+Voice of the Customer
+Webinars
+Blog
+Biopharm Solution with Key Applications
+On-Demand Webinar
+Facilitating Drug Discovery with HDX-Mass Spectrometry
+134614448,IND,Pharma
+Pharmaceutical
+Pharmaceutical Applications
+Medicinal Chemistry
+Bioanalysis / DMPK
+Peptide & Protein Bioanalysis
+Chemical Manufacturing Contro...
+Process Analytics
+QA/QC
+Method Development
+Impurities
+Natural Products
+Key Family
+QDa Detector
+Process Analytics
+Tandem (Triple) Quadrupole MS
+High Resolution (HRMS)
+Ion Mobility MS
+ionKey/MS
+Screening Platform
+Related
+Purification
+Biopharmaceutical
+Discovery Research
+Impact in Pharma
+Centers of Innovation
+Blog
+Calendar of Events
+New and Bioanalysis Knowledge Center
+Peptide and Protein Bioanalysis Application Notebook
+Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
+134614448,IND,Diagnostics
+Health Sciences Diagnostics
+Clinical Lab Workflow
+Pre Analytics
+Analytics
+Post Analytics
+Diagnostic Solutions
+Medical Devices
+Sample Prep
+LC-MS
+Software & Informatics
+Consumables
+Availability by Country
+Tools & Resources
+UPLC-App Note Browser
+Primers
+Non-Diagnostic Markets
+Forensic Toxicology
+Health Sciences Research
+On-Demand Webinar Available Now!
+Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
+WEBINAR:
+Spot the Difference:
+What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
+134614448,IND,Research
+Health Sciences Research
+Health Science Continuum
+Biomarker Discovery
+Proteomics
+Metabolomics & Lipidomics
+Imaging
+Translational Research 
+Biomarker Translation
+Clinical Research
+Translational Systems
+Key ionKey/MS
+Full Spectrum Imaging
+Progenesis Software
+Related
+Health Sciences Diagnostics
+Forensic Toxicology
+Impact
+Blog
+Centers of Innovation
+Tools and Resources
+UPLC-App note Browser
+Primers
+Ion Mobility in Omics
+Peptide & Protein Bioanalysis Boot Camp
+Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
+DESI: Imaging for Biomedical Research
+134614448,IND,Food
+Food
+All Food
+Natural Toxins
+Pesticides in Food
+Pesticide Screening Application Solution with UNIFI
+Veterinary Drugs
+Vitamins in Foods and Beverages
+Food Profiling and Authenticity
+Food QC
+Screening Platform Solution with UNIFI
+Foodomics
+Food Safety
+Tobacco
+Xevo TQ-System
+Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
+QDa Food Testing 
+Application Book: 
+Increase detection selectivity and confidence using mass detection
+Polar Pesticides Analysis
+Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
+Food and Safety Application Book
+Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
+134614448,IND,Enviro
+Environmental
+All Environmental
+Dioxins and Furans
+Pesticides in Water
+Pesticide Screening Application Solution with UNIFI
+Pharmaceuticals and Personal Care Products (PCPPs)
+Screening Platform Solution with UNIFI
+Air
+BioSolids
+Drinking Water
+Soil
+Surface Water
+Waste Water
+Column and Sample Preparation Products for Environmental Testing
+134614448,IND,Forensics
+Forensic Toxicology
+Solutions
+Confirmation Analysis
+Screening Analysis
+Products
+LC-MS
+Software & Informatics
+Consumables
+Resources
+UPLC-App Note Browser
+Primers
+Health Sciences
+On-Demand Webinar:
+Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
+On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
+On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
+PRODUCTS
+134614448,PROD,Featured
+134614448,PROD,Featured
+Featured
+Products
+Xevo TQ-GC
+M-Class System
+Arc UHPLC
+Arc Bio System
+BioResolve mAb Polyphenyl Columns
+Applications
+Amino Acid Analysis
+Antibody Drug Conjugates (ADCs)
+Biopharmaceutical
+Metabolite Identification
+Omics Research
+Pesticide Screening
+Agrochemicals
+Gain hands-on Mass Spec experience for your students with the Practical Education Package
+BioResolve mAb Polyphenyl Columns for protein separations.
+Empower Cloud 
+Cloud-deployable, compliance-ready, Enterprise CDS
+Innovation through collaboration at our Experience Design Center
+134614448,PROD,Columns
+Columns
+Chemistry Consumables & Columns
+Columns
+Columns
+Columns
+SFC/UPC2 Columns
+Columns
+GPC/Columns
+Nano/Micro Scale Columns
+iKey - Microflow LC/Device
+Column Accessories
+Technique
+Reversed-Phase
+Normal Phase
+Hydrophilic Interaction HILIC
+SuperCritical Fluid SFC/UPC2
+Size Exclusion SEC/GPC
+Ion Exclusion
+Ion Exchange
+Hydrophobic Interaction
+Affinity
+Bioseparations Columns
+Web Toolbox
+Column Advisor
+Column Selectivity Chart
+Prep Calculator
+Primers
+Order Center
+BioResolve mAb Polyphenyl Columns for protein separations.
+Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
+134614448,PROD,SamplePrep
+Sample Preparation & Other Consumables
+Chemistry Consumables & Columns 
+Sample Preparation Products
+Polymeric SPE
+Solid-Phase Extraction
+Pass-Through Sample Preparati...
+On-Line SPE
+Reaction Clean-up
+Protein Precipitation
+QuEChSample Preparation
+for Explosives Analysis
+Sample Vials & Plates
+Sample Vials
+Sample Plates
+Sample Preparation Kits
+Protein Digestion Kit
+Released N-Glycan Kits
+Filtration Products
+Accessories
+Tools & Resources
+Vial Selector
+Plate Selector
+Filter Selector
+Primers
+Advisor
+The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
+Download or order your copy today.
+Behind the Science
+Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
+134614448,PROD,ASR
+Analytical Standards & Reagents
+Analytical Standards & Reagents Overview
+System Performance Standards
+Pharmaceutical & Life Science Standards
+Peptide Standards
+Protein Standards 
+Glycan Standards
+Oligonucleotide Standards
+Amino Acid Standards
+Small Molecule Standards
+Food & Beverage Standards
+Chemical & Environmental Analysis Standards
+& Standards
+Environmental Standards
+Reagents
+Bioseparations Chemistry Advisor
+Behind the Science
+Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
+Material Safety Data Sheets
+134614448,PROD,Informatics
+Informatics & Software
+All Informatics & Software
+Empower 3 Chromatography Software
+LiveSample Recognition Software
+MassLynx Mass Spectrometry Software
+NuGenesis Lab Management System
+Symphony Data Pipeline Software
+Progenesis Data Analysis Software
+Scientific Information System
+Software Services
+Software Upgrades
+Empower tip-of-the-week blog and newsletter
+Data Integrity Resources
+Innovation through collaboration at our Experience Design Center
+Empower Cloud 
+Cloud-deployable, compliance-ready, Enterprise CDS
+134614448,PROD,Chroma
+Chromatography
+Systems by: Instrument Type
+/ UHPLC
+UPC
+2
+Arc UHPLC
+Alliance HPLC
+Detectors
+Systems by: Technique
+Reversed-Phase Liquid Chromat...
+Normal-Phase Liquid Chromatog...
+Supercritical CO2 Based Techn...
+Advanced Polymer Chromatograp...
+Systems by: Application
+Discovery/Development
+QA/QC
+Process Development
+Polymers
+LC-MS
+Sample-Limited
+Hydrogen Deuterium Exchange (...
+Multi-Dimensional Separations
+Bioseparations
+Inlet to Third Party MS
+Systems by: Pump Type
+Binary Solvent Management
+Quaternary Solvent Management
+Isocratic Solvent Management
+Systems by: Chemistry Format
+3.0 mm - 10.0 mm I.D.
+2.1 mm - 3.0 mm I.D.
+75 µm - 1.0 mm I.D.
+Tile Based
+UPLC/Application Note Browser
+Primers
+Innovation through collaboration at our Experience Design Center
+Agilent 1100 Series System support is ending
+There are 1100 reasons to update your system to Waters.
+134614448,PROD,MassSpec
+Mass Spectrometry
+MS
+Xevo G2-Tof
+Detector 2
+QDa Detector
+MS/MS
+Xevo TQ-GC
+Xevo TQ-XS
+Xevo TQ-S
+Xevo TQ-micro
+Xevo TQD
+Xevo G2-QTof
+G2-Si MS
+G2-Si MS
+MS/MS
+Vion QTof
+G2-Si HDMS
+G2-Si HDMS
+Instrument Type
+Single Quadrupole
+Tandem ( Triple ) Quadrupole
+Time of Flight
+Quadrupole Time of Flight
+Ion Mobility
+Analysis Type
+Quantitation
+Direct Sample Analysis
+Key Technnologies
+SONAR
+Ion Sources
+Software
+Gain hands-on Mass Spec experience for your students with the Practical Education Package
+Introducing our new GC-MS/system, the Xevo TQ-GC
+134614448,PROD,Purification
+Purification / SFE
+LC
+AutoPurification System
+Prep 150 System
+Modular Systems
+Fraction Manager - Analytical
+SFC
+Investigator System
+Prep 100q System
+Prep 15 System
+80/200/350 Systems
+SFE
+MV-10 System
+Prep Systems
+Bio-Botanical Extraction Syst...
+Scale
+Analytical to Semi-Prep ...
+Semi-Prep to Prep-Scale ...
+Semi-Prep to Prep-Scale P...
+Prep-Scale Purification
+Supercritical Fluid Chromatog...
+Supercritical Fluid Extractio...
+Bulk Delivery CO2 System  
+Software
+ChromScope 
+Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
+ Download the application note.
+RESOURCES
+134614448,RESOURCES,Resources
+134614448,RESOURCES,Resources
+Resources
+Webcasts
+How to Videos
+Video Gallery
+Other Resources
+Support Library
+User Guides
+Application Notebooks
+Primers
+& Partnership
+is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
+Webcast: QDa Detector - Separating Beyond Question
+small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
+134614448,RESOURCES,Programs
+Academic Programs
+Academic Programs
+Academic Support Program
+Centers of Innovation
+Uwe Neue Award in Separation Science
+Leasing & Financing Services
+Journal Citations Articles
+Training Courses
+Seminars & Events
+Offers & Discounts
+& Partnership
+is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
+134614448,RESOURCES,Journal Articles
+Journal Articles
+UPLC
+2nano(RP/RP)
+(Protein Characteriza...
+(Peptide Mapping)
+(Glycan Characterizat...
+(Food)
+(Environmental)
+(Forensics)
+(Biopharmaceuticals)
+(Proteomics)
+(Metabolites)
+Systems
+Xevo TQ-S
+Xevo QTof G2
+Synapt G2
+MS
+e
+LC/MS
+Bioanalysis
+nanoACQUITY/Xevo
+nanoACQUITY/Synapt
+ACQUITY/Xevo
+ACQUITY/Synapt
+Columns and Consumables
+PST
+GST
+Protein ST
+Rapigest
+Oasis
+All links open in Google Scholar
+134614448,RESOURCES,CoI
+Centers of Innovation
+All About Centers of Innovation
+Chemical
+Environmental
+Food
+Health Sciences
+Pharmaceutical
+Technology
+Connect with Us
+Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
+Academic Support Program
+& EVENTS
+134614448,EDU/EVNT,Training
+134614448,EDU/EVNT,Training
+Training
+Global Training Courses
+Compliance
+Empower
+General Chromatography
+Lab Informatics
+MassLynx
+Mass Spectrometry
+Operation/Maintenance
+SFC
+UPLC
+Can't find a course? View the complete course list
+eLearning On-Demand Courses
+Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
+View Courses Schedule
+Lunch & Learn Online Courses
+134614448,EDU/EVNT,Events
+Seminars & Events
+All Seminars and Events
+All Industry Conferences
+All Seminars
+Meet the Experts Webinar Series
+134614448,EDU/EVNT,Primers
+Primers
+Primers
+- High Performance Liquid Chromatography
+- Ultra Performance Liquid Chromatography
+- Convergence Chromatography
+- Mass Spectrometry
+- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
+Beginners Guide to Preparative LC
+Practical Approaches to Peptide Isolation
+134614448,EDU/EVNT,Literature
+Literature Library
+All Literature
+Applications Notes
+Catalogs
+Journal Citations
+Literature
+Podcasts
+Posters
+Webcasts
+& SUPPORT
+134614448,SERVICES,Support
+134614448,SERVICES,Support
+Services and Support
+iRequest Technical Support
+Graphical Parts Locator
+Services And Support
+Instrument Services and Support
+Service Plans
+Qualification/Compliance
+Instrument Analytics
+Instrument Upgrades
+Spare Parts and Consumables
+Software Services and Support
+Software Plans
+Software Upgrades
+Software Validation Services
+Drivers/Updates
+Professional Services
+Laboratory Analytics
+Informatics Services
+Consultation/Project Manageme...
+Innovation through collaboration at our Experience Design Center
+Search KnowledgeBase - find answers to your troubleshooting questions
+134614448,SERVICES,Support Library
+Support Library
+iRequest Technical Support
+Graphical Parts Locator
+Services And Support
+Support Library
+User Guides
+Release Notes
+How To Videos
+Instrument Systems
+Instrument Modules
+Software Videos
+Best Practices
+Request Certificate of Analysis
+Safety Data Sheets
+Search KnowledgeBase - find answers to your troubleshooting questions
+134614448,ABOUT,Contact
+134614448,ABOUT,Contact
+Contacts
+Contact Information
+Local Country Contacts
+Corporate & Regional Contacts
+Request Pricing
+Columns and Consumables
+Instruments and Systems
+Informatics
+Services
+Support / Service Inquiries
+Training Course Inquiries
+Request Technical Support
+Login, Account Issues
+Request Investor Information
+Connect with Us
+Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
+Blogging About What's Possible
+Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
+134614448,ABOUT,About About About 
+Quick Facts
+Corporate History
+Quality
+Environmental Health & Safety
+Charitable Giving
+Sustainability
+Mission Statement
+Modern Slavery Act
+Blogging About What's Possible
+Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
+134614448,ABOUT,Investors
+Investors
+Investors
+Stock Quote
+Stock Chart
+Analysts
+Earnings
+Annual Reports
+Filings
+Information Request
+News Releases
+Investor Presentations
+GAAP/Non-Reconciliation
+134614448,ABOUT,News
+News
+News
+News Releases
+Media Contacts
+Social Media
+Logo
+Product Images
+Blogging About What's Possible
+Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
+134614448,ABOUT,Corporate Governance
+Corporate Governance
+Corporate Governance
+Leadership
+Conflict Minerals Statement
+Trademarks
+Copyright
+134614448,ABOUT,Careers
+Careers
+Career Opportunities
+Careers in US
+All Other Global Careers
+Who We Are
+Employee Perks
+Equal Opportunity
+Application & Interview Process
+Connect with Us
+Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
+Blogging About What's Possible
+Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
+Home
+ > 
+ > 
+About 
+N
+N
+Contact US
+About 
+Quick Facts
+Corporate History
+Quality
+Health, Safety and Environmental Policy
+Charitable Giving
+Sustainability
+Mission Statement
+Modern Slavery Act 
+Global Job Opportunities
+Regional/Global Contacts
+Corporate Governance
+Investors
+Website
+Our technology improves the world　
+From the everyday consumer to scientists in the laboratory, we all rely on accurate information to make critical decisions. is the world's leading specialty measurement company focused on improving human health and well being through the application of advanced analytical science technologies.
+Founded by Jim in 1958, serves life, materials and food sciences through a connected portfolio of chromatography, mass spectrometry, and thermal analysis innovations. Learn more about our 
+company history
+.
+With approximately 7,000 employees worldwide, operates directly in 31 countries, including 15 manufacturing facilities, and with products available in more than 100 countries. In a global, interconnected world full of questions, Waters’ innovation, service, and quality delivers confidence.
+Waters’ products
+
+creates business advantages for laboratory-dependent organizations by delivering practical and sustainable scientific innovations. products are used by pharmaceutical, health science, food and environmental testing, chemical, industrial, contract laboratory, academic, and government organizations working in research and development, quality assurance and other laboratory applications. Waters’ chromatography and mass spectrometry instruments, software, and chemistry consumables are used in a broad range of industries to measure the chemical, physical, and biological composition of materials.
+Instruments
+’ rheometry and microcalorimetry instruments are used primarily in predicting the suitability of polymers and viscous liquids for various industrial, consumer goods and health care products. The company is also a developer and supplier of software based products that interface with the company’s instruments as well as other instruments manufactured by other companies. Instruments’ thermal analysis and rheometry instruments are used in predicting the suitability of fine chemicals and polymers for uses in various industrial, consumer goods and health care products. 
+
+is a world-leading provider of mycotoxin testing solutions. VICAM is dedicated to developing USDA- and AOAC-approved rapid tests for mycotoxins. VICAM’s mycotoxin test kits offer a choice of rapid qualitative screening and quantitative test methods for a wide variety of mycotoxins. Around the world, products are used with confidence by customers who trust our commitment to extending the value of those products with unmatched service and support. We guarantee satisfaction with expert technical assistance and top-of-the-line customer care.
+Nonlinear Dynamics
+ develops next-generation LC-data analysis software under the Progenesis brand name for extracting fundamental information from omics data sets. Two leading products, Progenesis for small-molecule applications and Progenesis for proteomics applications, deliver highly-accurate quantitative data analysis with simplicity, scalability, statistical processing, and improved visualizations.
+ERA
+ is a premier provider of Proficiency Testing (PT) products and Certified Reference Materials (CRMs) to thousands of laboratories around the world and across multiple industries. Our in-depth knowledge of major international accreditation and regulatory bodies enables us to expertly guide customers through the analytical challenges they face. Whether you are a commercial, research or government laboratory, small business or a multi-national corporation, you can count on ERA’s experience, products and services to simplify compliance and ensure quality.
+Terms of Use
+Privacy
+Cookies
+Cookie Preferences
+Trademarks
+Sitemap
+Careers
+By Product:
+Title
+Brand
+Category
+Popularity
+Best Sellers
+By High-Volume Category:
+Popularity
+Our Choices
+Category
+Title
+All-Round Favorites
+By Top Sellers:
+Popularity
+Brand
+Price
+Best Sellers
+Name
+By Category:
+Popularity
+Our Choices
+Recommendations
+Title
+Category

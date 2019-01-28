@@ -1,7 +1,0 @@
-Who We Are
-Inphenix designs and manufactures lasers and light sources that are critical in state of the art applications in the medical, telecom, sensing and measurement industries.
-These lasers and light sources allow doctors to see images with much higher resolution and greater depth, telecom systems to transmit data and information faster and farther and engineers to measure distances, stress and strain with greater precision  and accuracy.
-Inphenix does all this at its 100,000 square foot facility in beautiful Livermore, California (just 30 miles east of San Francisco).  The ISO9001:2015 facility includes a 15,000 square foot Class 10 Fab and a 20,000 square foot packaging area.
-Having complete vertical control over the entire design and manufacturing process allows Inphenix to drive innovation, maintain high quality and minimize costs.
-These lasers and light sources include Superluminescent Diodes (SLDs) and Semiconductor Optical Amplifiers (SOAs) and are available from 700nm to 1600nm wavelengths.
-••••

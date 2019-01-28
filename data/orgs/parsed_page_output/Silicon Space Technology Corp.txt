@@ -1,0 +1,11 @@
+Technologies is a privately held, fabless semiconductor company founded in 2004 and based in Austin, is a provider of radiation-hardened and extreme temperature-hardened components for the Hi-rel marketplace. designs and develops high density SRAMs and MCUs using its patented HARDSIL® to simultaneously provide superior radiation and temperature endurance performance. also provides custom design services.
+VORAGO's patented, innovative technology, HARDSIL®, has been proven in multiple process generations at multiple fabs to harden integrated circuits without redesign and is scalable to any generation node. Once modified by HARDSIL®, the commercial process flow can be used to manufacture significantly more robust circuits for highly reliable operation in extreme environments. This capability dramatically enhances the hardness and reliability of high density ICs and provides a disruptive alternative to current hi-rel approaches utilizing up-screened COTS, redundant systems, or exotic packaging.
+Incorporating their patented HARDSIL® into their own designs and several Texas Instruments products spanning multiple process generations, has successfully demonstrated superior hardening in a number of devices including high density SRAMs and DSPs. Because the is applied at the process-level, no performance, power or circuit size trade-offs are required. As a result, hardened components for extreme environments are now within reach for system designers; a solution with the highest performance in reduced form factors while using much less power.
+Partnering with Texas Instruments, Technologies introduced its first product, a QML-V, space-qualified rad hard 16Mb SRAM, during 2012. This product is the only rad-hard offering to combine superior radiation hardening with no trade-offs in performance.
+Now also partnering with GLOBALFOUNDRIES, is developing new products incorporating HARDSIL® to provide an expanding product portfolio for extreme environment electronic applications.
+sign up
+Enter your email address to stay up to date with VORAGO's latest events and announcements.
+Content ©
+2003-2018
+array (   'excluded' => array (     'uid' => false,     'page' => false,   ), )
+.

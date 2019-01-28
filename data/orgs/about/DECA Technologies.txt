@@ -1,9 +1,0 @@
-Deca Technologies is a unique, wafer-level interconnect foundry founded in 2009 with headquarters in Tempe, Arizona and manufacturing in the Philippines. The Deca difference is in our dynamic manufacturing capability, which gives our customers the competitive edge in cycle time and new product introductions thanks to rapid time-to-market capabilities.
-Built on 10X thinking: The philosophy that achieving exponential improvements can only happen by shifting from conventional approaches to manufacturing Deca’s solar-inspired production line enables game-changing NPI cycle time, while our software-driven lithography technology enables unparalleled speed and flexibility in manufacturing.
-Our award-winning M-Series fan-out wafer-level technology with adaptive patterning has been adopted for high-volume mobile chip-set applications and licensed to a leading manufacturer for dual-source production.
-The combination of a highly experienced management team and inventive thinking results in a strong IP portfolio with innovative solutions for our customers.Staying competitive in today’s rapidly growing wafer-level chip scale package (WLCSP) market is all about time:
-Time to market
-Time to response
-Time for new technologies
-While your competitors are still waiting for new mask sets to start a product build, Deca’s 10X approach is already rolling your new WLSCP product of its Autoline.
-Consumer electronics manufacturers demand low-cost WLCSP devices with rapid turnaround from design to delivery, which poses a challenge when using conventional approaches. Time-to-ramp for new product introductions is critical, as is dynamic manufacturing capability from the WLCSP supply base.

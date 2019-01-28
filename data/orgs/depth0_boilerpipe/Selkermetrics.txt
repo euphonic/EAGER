@@ -1,8 +1,0 @@
-SelkerMetrics, LLC.
- helps clients and regulators understand water movement in the environment. We use fiber optic
-distributed temperature sensing (DTS) and other technologies to locate seeps emerging into water bodies.  We also deploy 
-sensors in wells to understand fluid movements.  
-
-SelkerMetrics 
-uses proprietary patented hardware and software to investigate large areas over extended periods of time.  This offers
-both confidence that water movement is accurately measured and information about temporal influences such as tides, pumping, and other changes.  

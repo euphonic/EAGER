@@ -1,0 +1,318 @@
+ixf_target_enabled
+be_ixf; dotnet_sdk; dotnet_sdk_1.4.9
+235 ms
+ixf-compiler; ixf-compiler_1.0.0.0
+link-block-publisher; link-block-publisher_1.0.0.0; bodystr
+0 ms
+be_ixf; dotnet_sdk; dotnet_sdk_1.4.9
+Search
+Popular Searches
+Atmos
+Speaker Setup Guide
+Atmos Blu-rays
+Drivers
+AC-3
+Digital Plus
+Show All Results
+Cinema
+Cinema Experiences
+
+Cinema
+Filmmaker 
+Profiles
+
+Institute
+2018 
+Oscars
+Screening 
+Rooms
+Cinema Products for Exhibitors
+Professional 
+Products
+
+Atmos
+
+3D
+Tools for Content Creators
+
+Vision
+Content 
+Services
+Home
+Home Technologies
+
+Dimension
+
+Vision
+
+Atmos
+
+Audio
+Digital 
+Plus
+
+Access
+How to Get It
+Speaker Setup 
+Guides
+AVRs
+Blu-ray
+Games
+PCs
+Sound 
+Bars
+TVs
+For Professionals
+Broadcast
+Content 
+Creation
+Streaming
+Mobile
+Mobile Technologies
+
+Atmos
+
+Audio
+
+Vision
+Digital 
+Plus
+
+Access
+How To Get It
+Apps
+Smartphones
+Tablets
+PCs
+Games
+For Professionals
+Game 
+Development
+and 
+Mobile
+Streaming
+Office
+Conferencing solutions
+Voice 
+overview
+Voice software 
+platform
+Conference 
+Phone
+News and related 
+articles
+Get the Voice experience
+Conference Phone 
+resellers
+Voice service 
+providers
+Case 
+studies
+For professionals
+Become a 
+reseller
+Become a service 
+provider
+Documentation
+Support
+Professionals
+Industry Solutions
+A/Installers and 
+Retailers
+Broadcast
+Content 
+Creation
+Game 
+Development
+Cinema
+Professional 
+Audio
+and 
+Mobile
+Streaming
+Services and Support
+Customer 
+Portal
+Conference Phone 
+Support
+Warranty and 
+Maintenance
+Contact 
+Us
+Cinema
+Home
+Mobile
+Office
+Professionals
+celebrates the 2018 winners who used the magic of technology.
+Congratulations to the winners in these select image and sound categories
+Animated Feature
+Coco
+Cinematography
+Blade Runner 2049
+Sound Mixing
+Dunkirk
+Sound Editing
+Dunkirk
+Film Editing
+Dunkirk
+Visual Effects
+Blade Runner 2049
+Original Song
+Coco
+See All Movies
+2018 Oscar winning films featuring technologies
+Atmos and Vision
+Darkest Hour
+Learn More
+Blade Runner 2049
+ in Vision and Atmos
+Director Denis Villeneuve discusses the film's sound design and imagery. 
+Watch the video >
+Conversations with Sound Artists: 2018 Oscar
+®
+ Edition
+Listen to podcast conversations with artists nominated for Academy Awards
+®
+ in sound editing and sound mixing.
+Vision and Atmos
+The secret ingredients that make movie magic
+Filmmakers have described what Vision™ and Atmos® bring to the cinema experience as being "transformative," "shocking," and a "game changer." They understand the ability of these revolutionary picture and sound technologies to realize their creative vision like never before — and give audiences a more immersive, elevated cinema experience than they thought possible.
+Vision
+Learn how Vision delivers incredible color, a million-to-one contrast ratio, and twice the brightness of standard screens.
+Atmos
+Learn more about Atmos, an industry-leading audio technology that delivers powerful, moving audio that flows all around you.
+Cinema
+Learn more about Cinema, where you can experience the combined power of Vision and Atmos to move you deep into the story.
+Theatre
+The Oscars ceremony has long been held at the Theatre®, Hollywood's crown jewel. Watch the festivities with friends, and enjoy the broadcast in Audio™.
+The Theatre showcases the latest technology innovations. 
+Take a closer look >
+Dimension
+Cinema
+Home Theater
+Mobile
+Office
+Professionals
+Installers and Retailers
+Broadcast
+Cinema
+Content Creation
+Content Services
+Game Development
+PC
+Streaming
+Who We Are
+Leadership
+Worldwide Offices
+Cares
+Environmental Commitment
+Brand Identity
+Careers
+Working at News
+Press Releases
+Investors
+Company Financials
+Corporate Governance
+Stock Information
+Investor Resources
+Region :
+Brasil
+中国
+France
+Deutschland
+India
+Italia
+日本
+대한민국
+España
+Latinoamérica
+Россия
+United States
+Support
+|
+Funding
+|
+Privacy Policy
+|
+Cookie Policy
+|
+Terms of Use
+Facebook
+Twitter
+LinkedIn
+YouTube
+Instagram
+Vimeo
+and the double-symbol are registered trademarks of Laboratories. All other trademarks remain the property of their respective owners. © 2018 Laboratories, Inc. All rights reserved.ixf_target_enabled
+ixf-compiler; ixf-compiler_1.0.0.0
+link-block-publisher; link-block-publisher_1.0.0.0; bodystr
+0 ms
+https://www.dolby.com/us/en/about/dolby-cares.html
+Cares
+Discover how and our employees bring art and science together to inspire the next generation of innovators and address the most critical needs in the communities we call home.
+play-rounded-fill
+play-rounded-outline
+play-sharp-fill
+play-sharp-outline
+pause-sharp-outline
+pause-sharp-fill
+pause-rounded-outline
+pause-rounded-fill
+00:00
+Learn how employees are making a difference in global communities.
+employees are our greatest asset and the heart of our community efforts. Employees volunteer as individuals, as work teams, or as part of one of our eight diversity and inclusion employee network groups. From tutoring children and mentoring adults reentering the workforce to delivering meals to seniors or providing legal services through our legal pro-bono program, we encourage our employees to make our communities stronger. While our volunteer work is year round, nearly 1,000 employees donate their time during our Cares Day, which takes place in 22 communities in 14 countries each spring.
+Our Impact
+Inspiring the Next Generation of Innovators
+Chief Scientist, Poppy Crum, speaks to aspiring technologists at Dolby’s annual Girls Who Code field trip.
+We believe that a diversity of experiences, ideas, and approaches leads to the greatest innovations for storytelling in the cinema, on the go, at work, and at home. Sharing Dolby's unique position at the intersection of science, technology, and art with a new generation is at the heart of our educational efforts. We partner with organizations like Girls Who Code, Women’s Audio Mission, and Greene Scholars in the US, Women on the Move in France, and the New South Wales Women in Engineering summer camp for teens in Australia to host interactive field trips and mentoring for hundreds of youth from diverse backgrounds.
+One example of the unique work does is our long-term collaboration with Marvel Studios, sponsoring nationwide contests to showcase the superpowers of young women ages 15–18. The goal of the contests is to honor young female inventors and showcase them as role models to inspire countless young girls to explore education and careers. The winners meet with top women technologists from Marvel and as well as getting the red-carpet treatment at the Hollywood premiere of a Marvel film.
+Storytelling is at the heart of Dolby, and listening to and addressing the stories of challenges people face in our local communities is critical. That's why helping build a brighter future for people experiencing homelessness and other challenges is a priority for everyone at Dolby. With partners including Downtown Streets Team, Code Tenderloin, St. Anthony’s, and Olive Crest in the and Wayside Chapel in Australia, we help provide basic necessities, job-readiness education, mentoring, and support to help people succeed.
+We also work to provide children with access to opportunities and experiences that excite them and set them up for success. To make this possible, we provide music, sports, and technology-based experiences for the students at the Beijing School for the Blind in China, sponsor the after-school enrichment programs at the Tenderloin Community School in the US, host hiking trips and fun events for underprivileged children in Poland and Germany, and more.
+How We Partner
+To truly have an impact in our communities, we work together with organizations that are addressing critical issues on a daily basis. We take a holistic approach with our partnerships providing volunteer, in-kind, and financial support. Organizations located in one of Dolby’s communities and whose work aligns with our focus areas are welcome to send information about their volunteer opportunities and programs to us at DolbyCares@dolby.com .
+More Stories
+Feedback
+Please give us feedback on your Dolby.com experience. Thank you for sharing your feedback with us!
+How would you rate your Dolby.com experience?
+Hate
+Dislike
+Neutral
+Like
+Love
+false
+Thank you for sharing your feedback with us!
+Connecting your feedback with data related to your visits (device-specific, usage data, cookies, behavior and interactions) will help us improve faster. Do you give us your consent to do so for your previous and future visits?  More information
+Skip
+Sendixf_target_enabled
+ixf-compiler; ixf-compiler_1.0.0.0
+link-block-publisher; link-block-publisher_1.0.0.0; bodystr
+0 ms
+https://www.dolby.com/us/en/about/brand-identity.html
+transforms the science of sight and sound into spectacular experiences.
+Through our innovative research and engineering, we develop breakthroughs that we share with the world through collaborations that span artists, businesses, and consumers worldwide.
+Platform Brands
+offers a number of technologies, including visual technologies, business voice technologies, and, of course, audio technologies. We have a set of platform brands that simplify and organize this broad portfolio of offerings around a set of consumer experiences. Appropriate platform brands associated with each technology are outlined in the Trademarks and Accompanying Statements section of the Professional Partner Guidelines.
+Versions
+logos must be displayed in a way that preserves their integrity. Do not warp, alter, or recolor the logo lockups or their components in any way. Always use artwork provided by Dolby.
+Trademark Acknowledgment
+trademark acknowledgment statement as listed below shall be displayed whenever the logo or trademark is used in marketing materials.  The acknowledgment must be visible on the marketing material, typically in the form of a footnote, and identify only those logos and trademarks used. For example, if the Audio logo appears, use this statement:
+Dolby, Audio, and the double-symbol are trademarks of Laboratories.
+Download Logos
+The materials available below are protected by copyright and trademark laws of the United States and other countries. You may use the materials only if you have an appropriate license from Dolby, or your use is otherwise legally permitted without a license (e.g. fair use as recognized by the laws of the local jurisdiction). Except for the limited purposes set forth on this site, the materials may not be reproduced, distributed, transmitted, modified or displayed in any form without Dolby’s prior written permission. All rights reserved.
+These guidelines apply to all usage occasions of logos. may revoke permission to use trademarks and logos at any time. reserves the right to withhold approval of content if it’s inconsistent with the brand or the brand guidelines.
+Licensed Manufacturers
+Use this list to verify that consumer electronics products you purchase bearing the logo and trademark are genuinely licensed by Laboratories.
+Feedback
+Please give us feedback on your Dolby.com experience. Thank you for sharing your feedback with us!
+How would you rate your Dolby.com experience?
+Hate
+Dislike
+Neutral
+Like
+Love
+false
+Thank you for sharing your feedback with us!
+Connecting your feedback with data related to your visits (device-specific, usage data, cookies, behavior and interactions) will help us improve faster. Do you give us your consent to do so for your previous and future visits?  More information
+Skip
+Send

@@ -1,0 +1,874 @@
+Search
+Log in
+Global preferences
+Log in
+Register
+Edit your profile and preferences
+Log out
+Technologies
+Services & support
+Success stories
+About Customers
+Partners
+Developers
+Open source
+Store
+Search
+Log in
+English
+Enter your keywords 
+Welcome, 
+Log in to your account
+Log in
+Your account gives you access to your member profile and preferences, and the following services based on your customer status:
+Customer Portal
+Connect for Business Partners
+User management
+Certification Central
+Register
+Not registeyet? Here are a few reasons why you should be:
+Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
+View users in your organization, and edit their account information, preferences, and permissions.
+Manage your certifications, view exam history, and download certification-related logos and documents.
+Edit your profile and preferences
+Your account gives you access to your member profile, preferences, and other services depending on your customer status.
+For your security, if you're on a public computer and have finished using your services, please be sure to log out.
+Log out
+About The world's leading provider of open source solutions
+We help more than 90% of Fortune 500* companies solve business challenges, align their and business strategies, and prepare for the future of technology. We do this by providing enterprise-grade solutions through an open business model and an affordable, predictable subscription model.
+*client data and Fortune 500 list, June 2018
+Learn more
+Contact us
+1-888-RED-HAT1
+100 Davie Street
+Get in touch
+Newsroom
+Acquires Hybrid Cloud Data Management Provider NooBaa
+enhances portfolio of hybrid cloud technologies with a unified data platform for distributed hybrid and multi-cloud environments
+Go to Newsroom
+Jobs
+It's never just a job here. Join the company that's defining the next generation of technology.
+We're hiring
+Around the world
+Explore wmatters to our customers and partners in more than 35 countries around the world.
+Explore
+Investor relations
+The details for investors and financial analysts.
+Learn more
+Video of delivers real-time data insights—and a better customer experience
+delivers real-time data insights—and a better customer experience                            
+UPS, a global leader in logistics, used solutions and a DevOps approach to streamline package tracking and delivery.
+Watch Our Videos
+FeatuEvent
+Stop by our booth to learn more about and AWS’ expanding partnership and how it benefits you.
+Check us out
+new podcast about the people who transform technology from the command line up. Presented by Hat.
+Listen to the podcast
+Open Source Stories is a multimedia documentary series about people who dare to build things out in the open for all to share and build upon.
+See the stories
+It's time to recognize the contributions women are making and inspire a new generation to join the open source movement.
+Get inspiVIDERI
+ (To be, rather than to seem.)
+The world is more open, and so is your organization. It’s hard to hide—and better to work transparently. How do we know? We bet our business on it.
+Learn more
+The open organization: Igniting passion and performance
+×
+The open organization: Igniting passion and performance
+The open organization: Igniting passion and performance
+Trust Learn about Hat’s commitment to protecting customer data and privacy
+Read more
+Previous
+Next
+Some heroes are born. Others are compiled.
+Listen to the podcast
+earns “positive” rating from Gartner
+In its 2018 Vendor Rating report, Gartner notes Hat’s ability to meet customer’s modernization needs with flexible and agile open source solutions
+Read the report
+Social
+Join the conversation
+Connect with us
+About
+We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
+Company information
+Investor relations
+Locations
+Blog
+Newsroom
+Development model
+Events
+Jobs
+FeatuEnterprise Linux
+Gluster Storage
+Satellite
+OpenShift Container Platform
+ OpenStack Platform
+Tools
+My account
+For customers
+For partners
+For developers
+Hardware catalog
+Resource library
+Purchase
+Store
+Buy online (Japan)
+merchandise
+Contact sales
+Contact training
+Contact consulting
+Find a partner
+Communicate
+Contact us
+Feedback
+Social
+newsletter
+About
+Newsroom
+Events
+Blogs
+Videos
+Around the world
+Topics
+Investor Relations
+Jobs @ Cool Stuff Store
+Copyright ©2018 Hat, Inc.
+Privacy statement
+Terms of use
+All policies and guidelinesWe use cookies on our websites to deliver our online services. Details about how we use cookies and how you may disable them are set out in our Privacy Statement . By using this website you agree to our use of cookies.
+Customer Portal
+User management
+Certification Central
+Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
+View users in your organization, and edit their account information, preferences, and permissions.
+Manage your certifications, view exam history, and download certification-related logos and documents.
+Company information
+We are Our mission is to be the catalyst in communities of customers, contributors, and partners creating better technology the open source way.
+Who we are
+The world's leading provider of open source, enterprise solutions
+More than 2 decades ago, had a spark of an idea—a vision for developing software differently. We believed tcollaboration with an ecosystem of leaders, open source advocates, developers, and partners could create a better foundation for the future of IT—Hat® Enterprise Linux®.
+But twas just the beginning.
+Today, we deliver a comprehensive portfolio of products and services using the same open, collaborative business model and an affordable, predictable subscription.
+Previous
+Next
+This year marks Hat's 25th anniversary
+To our courageous supporters across the globe—thank for believing in the power of collaboration.
+Leadership
+Leading our team the open source way
+The most respected and influential people at are those who show passion for our mission and live it every day. leader at does not rely on their title to earn respect.
+Jim Whitehurst, President and chief executive officer, Bringing open source to the enterprise
+Open source communities are solving some of the most complex business and challenges today. The freedom to see the code, ask questions, and offer improvements back to the community: this is the open source way.
+Participate
+Integrate
+Stabilize
+We commercialize these platforms together with a rich ecosystem of services and certifications.
+better way to buy and sell software
+subscription is more than the software. customers get the latest software, trust tit's secure, and gain access to a community of experts making software the open source way.
+Trust Learn about Hat’s commitment to protecting customer data and privacy
+Diverse voices for the future of IT
+We believe tthe future of needs diverse voices and perspectives, so we're working to inspire the next generation to join the open source movement.
+Women making an impact
+is an advocate for diversity in open source. We created and sponsor the Women in Open Source Award to recognize women who make an impact and encourage future generations to join the open source movement.
+promotes open source software, methodology, and culture in education.
+It's not just about technology. It's about people.
+We've been at the forefront of open source for more than 20 years. But it's not just about technology. Open source values like meritocracy, community building, and transparency are changing the way we approach business and life. See why openness is the default 21st-century innovation model.
+Life
+Openness is a catalyst for change. Whether it's healthcare or education, open source principles are changing the way we live.
+Business
+From DevOps to containers, the future of needs all of us. These are some of the big ideas is thinking about.
+Successful organizations need open leadership. Jim Whitehurst, of Hat, explains how open organizations can encourage the best ideas.
+We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.Search
+Log in
+Global preferences
+Log in
+Register
+Edit your profile and preferences
+Log out
+Technologies
+Services & support
+Success stories
+About Customers
+Partners
+Developers
+Open source
+Store
+Search
+Log in
+English
+Enter your keywords 
+Welcome, 
+Log in to your account
+Log in
+Your account gives you access to your member profile and preferences, and the following services based on your customer status:
+Customer Portal
+Connect for Business Partners
+User management
+Certification Central
+Register
+Not registeyet? Here are a few reasons why you should be:
+Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
+View users in your organization, and edit their account information, preferences, and permissions.
+Manage your certifications, view exam history, and download certification-related logos and documents.
+Edit your profile and preferences
+Your account gives you access to your member profile, preferences, and other services depending on your customer status.
+For your security, if you're on a public computer and have finished using your services, please be sure to log out.
+Log out
+Contact us
+Website feedback
+We want to hear from you
+Our corporate website is designed to provide an easy-to-use, informative, online experience. Find a broken link? Typo? Have suggestions to improve our site? Please tell us in this quick contact form.
+About
+We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
+Company information
+Investor relations
+Locations
+Blog
+Newsroom
+Development model
+Events
+Jobs
+FeatuEnterprise Linux
+Gluster Storage
+Satellite
+OpenShift Container Platform
+ OpenStack Platform
+Tools
+My account
+For customers
+For partners
+For developers
+Hardware catalog
+Resource library
+Purchase
+Store
+Buy online (Japan)
+merchandise
+Contact sales
+Contact training
+Contact consulting
+Find a partner
+Communicate
+Contact us
+Feedback
+Social
+newsletter
+About
+Newsroom
+Events
+Blogs
+Videos
+Around the world
+Topics
+Investor Relations
+Jobs @ Cool Stuff Store
+Copyright ©2018 Hat, Inc.
+Privacy statement
+Terms of use
+All policies and guidelinesSearch
+Log in
+Global preferences
+Log in
+Register
+Edit your profile and preferences
+Log out
+Technologies
+Services & support
+Success stories
+About Customers
+Partners
+Developers
+Open source
+Store
+Search
+Log in
+English
+Enter your keywords 
+Welcome, 
+Log in to your account
+Log in
+Your account gives you access to your member profile and preferences, and the following services based on your customer status:
+Customer Portal
+Connect for Business Partners
+User management
+Certification Central
+Register
+Not registeyet? Here are a few reasons why you should be:
+Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
+View users in your organization, and edit their account information, preferences, and permissions.
+Manage your certifications, view exam history, and download certification-related logos and documents.
+Edit your profile and preferences
+Your account gives you access to your member profile, preferences, and other services depending on your customer status.
+For your security, if you're on a public computer and have finished using your services, please be sure to log out.
+Log out
+Newsroom
+Acquires Hybrid Cloud Data Management Provider NooBaa
+Read More
+Follow
+Company details
+Includes specifics about and images and videos tcan be used in your content.
+Explore
+Media
+ and 
+analyst
+ inquiries
+The News
+Show Filters
+Filters
+Close
+Region
+Global 
+1582
+ Apply Global filter 
+Europe, Middle East, Africa 
+107
+ Apply Europe, Middle East, Africa filter 
+Asia Pacific 
+56
+ Apply Asia Pacific filter 
+North America 
+49
+ Apply North America filter 
+Latin America 
+2
+ Apply Latin America filter 
+Solutions
+Infrastructure 
+603
+ Apply Infrastructure filter 
+Application integration and development 
+229
+ Apply Application integration and development filter 
+Infrastructure-as-a-Service 
+128
+ Apply Infrastructure-as-a-Service filter 
+Platform-as-a-Service 
+125
+ Apply Platform-as-a-Service filter 
+4621 
+13
+ Apply 4621 filter 
+1091 
+10
+ Apply 1091 filter 
+4601 
+10
+ Apply 4601 filter 
+4611 
+10
+ Apply 4611 filter 
+1101 
+5
+ Apply 1101 filter 
+4591 
+5
+ Apply 4591 filter 
+1111 
+3
+ Apply 1111 filter 
+Product
+Enterprise Linux 
+585
+ Apply Enterprise Linux filter 
+Virtualization 
+98
+ Apply Virtualization filter 
+JBoss Enterprise Application Platform 
+79
+ Apply JBoss Enterprise Application Platform filter 
+OpenShift 
+77
+ Apply OpenShift filter 
+OpenStack Platform 
+75
+ Apply OpenStack Platform filter 
+OpenShift Container Platform 
+65
+ Apply OpenShift Container Platform filter 
+Gluster Storage 
+57
+ Apply Gluster Storage filter 
+Satellite 
+56
+ Apply Satellite filter 
+CloudForms 
+55
+ Apply CloudForms filter 
+Ceph Storage 
+39
+ Apply Ceph Storage filter 
+Fuse 
+26
+ Apply Fuse filter 
+1911 
+22
+ Apply 1911 filter 
+Ansible Engine 
+16
+ Apply Ansible Engine filter 
+Ansible Tower 
+16
+ Apply Ansible Tower filter 
+Cloud Infrastructure 
+14
+ Apply Cloud Infrastructure filter 
+Decision Manager 
+14
+ Apply Decision Manager filter 
+Mobile Application Platform 
+13
+ Apply Mobile Application Platform filter 
+JBoss Portal 
+12
+ Apply JBoss Portal filter 
+
+11
+ Apply filter 
+Data Grid 
+11
+ Apply Data Grid filter 
+Enterprise Linux Atomic Host 
+11
+ Apply Enterprise Linux Atomic Host filter 
+Middleware 
+11
+ Apply Middleware filter 
+2011 
+10
+ Apply 2011 filter 
+Data Virtualization 
+9
+ Apply Data Virtualization filter 
+JBoss Operations Network 
+9
+ Apply JBoss Operations Network filter 
+4541 
+8
+ Apply 4541 filter 
+Developer Studio 
+8
+ Apply Developer Studio filter 
+Process Automation Manager 
+8
+ Apply Process Automation Manager filter 
+Ansible Automation 
+7
+ Apply Ansible Automation filter 
+3scale Management 
+6
+ Apply 3scale Management filter 
+JBoss Web Server 
+6
+ Apply JBoss Web Server filter 
+6931 
+5
+ Apply 6931 filter 
+811 
+5
+ Apply 811 filter 
+Cloud Suite 
+5
+ Apply Cloud Suite filter 
+Directory Server 
+5
+ Apply Directory Server filter 
+Insights 
+5
+ Apply Insights filter 
+OpenShift Dedicated 
+5
+ Apply OpenShift Dedicated filter 
+OpenShift Online 
+5
+ Apply OpenShift Online filter 
+Certificate System 
+4
+ Apply Certificate System filter 
+4941 
+3
+ Apply 4941 filter 
+18931 
+2
+ Apply 18931 filter 
+18941 
+2
+ Apply 18941 filter 
+4981 
+2
+ Apply 4981 filter 
+Cloud Access 
+2
+ Apply Cloud Access filter 
+Hyperconverged Infrastructure 
+2
+ Apply Hyperconverged Infrastructure filter 
+1981 
+1
+ Apply 1981 filter 
+Enterprise Linux Developer Program 
+1
+ Apply Enterprise Linux Developer Program filter 
+Product Line
+Linux platforms 
+724
+ Apply Linux platforms filter 
+Cloud computing 
+298
+ Apply Cloud computing filter 
+Middleware 
+249
+ Apply Middleware filter 
+Virtualization 
+118
+ Apply Virtualization filter 
+Storage 
+93
+ Apply Storage filter 
+Management 
+29
+ Apply Management filter 
+Mobile 
+16
+ Apply Mobile filter 
+Topic
+5041 
+516
+ Apply 5041 filter 
+Partners 
+473
+ Apply Partners filter 
+Events 
+271
+ Apply Events filter 
+Customer success 
+270
+ Apply Customer success filter 
+Community to enterprise 
+141
+ Apply Community to enterprise filter 
+Corporate 
+124
+ Apply Corporate filter 
+Awards 
+110
+ Apply Awards filter 
+Executives 
+106
+ Apply Executives filter 
+OpenStack 
+90
+ Apply OpenStack filter 
+Containers 
+75
+ Apply Containers filter 
+Open source 
+69
+ Apply Open source filter 
+Training 
+66
+ Apply Training filter 
+Cloud 
+60
+ Apply Cloud filter 
+DevOps 
+38
+ Apply DevOps filter 
+Security 
+37
+ Apply Security filter 
+Cloud management 
+29
+ Apply Cloud management filter 
+Consulting 
+28
+ Apply Consulting filter 
+Management 
+25
+ Apply Management filter 
+xPaa
+16
+ Apply xPaafilter 
+Mobile 
+15
+ Apply Mobile filter 
+Big data 
+13
+ Apply Big data filter 
+Internet of Things 
+7
+ Apply Internet of Things filter 
+Kubernetes 
+5
+ Apply Kubernetes filter 
+Migration 
+5
+ Apply Migration filter 
+Linux 
+4
+ Apply Linux filter 
+Open source communities 
+3
+ Apply Open source communities filter 
+Emerging technology 
+2
+ Apply Emerging technology filter 
+Automation 
+1
+ Apply Automation filter 
+Integration 
+1
+ Apply Integration filter 
+Dateline
+2018 
+92
+ Apply 2018 filter 
+2017 
+119
+ Apply 2017 filter 
+2016 
+108
+ Apply 2016 filter 
+2015 
+124
+ Apply 2015 filter 
+2014 
+129
+ Apply 2014 filter 
+2013 
+135
+ Apply 2013 filter 
+2012 
+124
+ Apply 2012 filter 
+2011 
+105
+ Apply 2011 filter 
+2010 
+115
+ Apply 2010 filter 
+2009 
+130
+ Apply 2009 filter 
+2008 
+109
+ Apply 2008 filter 
+2007 
+135
+ Apply 2007 filter 
+2006 
+101
+ Apply 2006 filter 
+2005 
+114
+ Apply 2005 filter 
+2004 
+78
+ Apply 2004 filter 
+2003 
+40
+ Apply 2003 filter 
+2002 
+70
+ Apply 2002 filter 
+2001 
+81
+ Apply 2001 filter 
+2000 
+158
+ Apply 2000 filter 
+1999 
+50
+ Apply 1999 filter 
+1998 
+46
+ Apply 1998 filter 
+1997 
+10
+ Apply 1997 filter 
+Close
+Hat、2019会計年度第3四半期の業績を発表
+December 25, 2018
+Open Innovation Labs Hosts First Japan Residency With Fukuoka Financial Group 
+December 20, 2018
+
+                                      Hat, Inc. (NYSE: RHT), the world's leading provider of open source solutions, today announced tFukuoka Financial Group, Inc. (“FFG”), a banking and financial services company based in Japan, has completed a residency with Open Innovation Labs, the first residency completed in Japan. During the residency, the teams worked to improve corporate competitiveness and advance the company’s digital transformation efforts.              
+ Introduces Commercial Support for Openon Microsoft Windows
+December 18, 2018
+Reports Third Quarter Results for Fiscal Year 2019
+December 17, 2018
+(more)
+Sets Jan. 16, 2019, Special Meeting for Vote on Merger Agreement with 
+December 10, 2018
+
+                                      Hat, Inc. (NYSE: RHT), the world’s leading provider of open source solutions, announced today tit had established a record date of Dec. 11, 2018, and a special meeting date of Jan. 16, 2019, for a meeting of its stockholders to, among other things, consider and vote on a proposal to adopt the previously announced Agreement and Plan of Merger, dated as of Oct. 28, 2018, by and among Hat, International Business Machines Corporation (“IBM”) and Socrates Acquisition Corp., a wholly-owned subsidiary of IBM, pursuant to which will acquire for $190.00 per share in an all-cash... 
+(more)
+Submissions Open for 2019 Certified Professional of the Year Award
+December 5, 2018
+
+                                      Hat, Inc. (NYSE: RHT), the world's leading provider of open source solutions, today announced tsubmissions are being accepted for the 13th annual Certified Professional of the Year Award.
+
+The Certified Professional (RHCP) of the Year Award recognizes the hard work, expertise, and ingenuity of a current Certified Professional. The award program is open to holders of a current certification or Certificate of Expertise in eligible countries. The certification must also be current during the 2019 Summit event.               
+Weathernews Adopts 3scale Management for Weather Information Management Platform
+December 3, 2018
+
+                                      Weathernews uses 3scale Management to increase control and flexibility of its APIs, and enable clients to more easily access and use its weather data for their own applications and services.
+              
+Fujitsu Adopts OpenShift Container Platform for Global Management Decision-Making Assistance System
+November 28, 2018
+
+                                      Fujitsu Limited adopted OpenShift Container Platform for system development at its Business Intelligence Competency Center (BICC), an internal organization to promote collection and company-wide use of its global data, achieving development efficiency with quicker application development and delivery.
+              
+Acquires Hybrid Cloud Data Management Provider NooBaa
+November 27, 2018
+Discovery Group Scales Automation with Ansible Tower
+November 27, 2018
+
+                                      Discovery Group, a multinational financial services organisation, has deployed Ansible Tower to automate and orchestrate its Amazon Web Services Environment. By integrating Ansible Tower within its existing infrastructure, Discovery Group is now able to deliver applications more quickly and free up resources to focus on more strategic tasks thelp meet business goals.
+              
+‹‹
+1 of 218
+››
+Subscribe to Hat’s company newsletter
+Sign up for Shares for our take on technology trends, open source software, recent industry news, and more.
+
+Subscribe
+By our supported publications
+May 10, 2018
+June 1, 2018
+April 19, 2018
+About
+We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
+Company information
+Investor relations
+Locations
+Blog
+Newsroom
+Development model
+Events
+Jobs
+FeatuEnterprise Linux
+Gluster Storage
+Satellite
+OpenShift Container Platform
+ OpenStack Platform
+Tools
+My account
+For customers
+For partners
+For developers
+Hardware catalog
+Resource library
+Purchase
+Store
+Buy online (Japan)
+merchandise
+Contact sales
+Contact training
+Contact consulting
+Find a partner
+Communicate
+Contact us
+Feedback
+Social
+newsletter
+About
+Newsroom
+Events
+Blogs
+Videos
+Around the world
+Topics
+Investor Relations
+Jobs @ Cool Stuff Store
+Copyright ©2018 Hat, Inc.
+Privacy statement
+Terms of use
+All policies and guidelinesWe use cookies on our websites to deliver our online services. Details about how we use cookies and how you may disable them are set out in our Privacy Statement . By using this website you agree to our use of cookies.
+Customer Portal
+User management
+Certification Central
+Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
+View users in your organization, and edit their account information, preferences, and permissions.
+Manage your certifications, view exam history, and download certification-related logos and documents.
+Scope of This Privacy Statement
+Hat, Inc. and its affiliated companies and subsidiaries (collectively, “Hat”) respect your privacy. This Privacy Statement applies to personal data collected by through the redhat.com website, and other websites which we operate and on which we post a direct link to this Privacy Statement. For some websites managed by affiliates, the affiliate may act as a controller for data collected from the website. This Privacy Statement may not apply to open source project websites sponsoby Hat. Such project websites may have their own privacy statements, which we encourage you to review.
+Please also note tco-branded websites (websites where presents content together with one or more of our business partners) may be governed by additional or different privacy statements. Please refer to the privacy statement on those websites for more information about applicable privacy practices.
+Hat’s obligations with respect to personal data tmay be held on behalf of customers in connection with cloud services provides, such as personal data stoby customers using our OpenShift Online offering, are defined in our agreements with our customers and are not governed by this Privacy Statement.
+As used in this Privacy Statement, “personal data” means any information relating to an identified or identifiable natural person (‘data subject’). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of tnatural person.
+The Personal Data We Collect
+collects personal data directly from you when you interact with us through our websites, including, without limitation, when you:
+Create a user account (individual or corporate);
+Make online purchases or register products;
+Request support;
+Request information or materials (e.g., whitepapers);
+Participate in surveys or evaluations;
+Participate in promotions, contests, or giveaways;
+Apply for employment;
+Submit questions or comments; or
+Submit content or posts on our customer portal pages or other interactive webpages.
+To the extent permitted by applicable law, the types of personal data collected directly from you may include, without limitation:
+Information used to communicate with you, such as name, title, company name, email address, telephone number, postal address and language;
+Information tmaintains in association with your account, such as your username, password, payment information, purchase records, credit and billing status and support inquiries; and
+Information contained in your job inquiries or applications, such as resume, cover letter, age, education, professional history and contact details.
+We may also collect information relating to your use of our websites and response to our emails through the use of various technologies. Collecting information in this manner allows us to analyze the effectiveness of our websites and our marketing efforts, personalize your experience and improve our interactions with you. For more information about the technologies we employ for these purposes, see the “Cookies and Other Technologies” section below.
+We may also supplement the personal data we collect from you with additional personal data we receive from third parties, such as your employer, our customers, and our business partners where you purchase any of our products or services through such business partners. We do this to help us improve the overall accuracy of the information and its completeness and to help us better tailor our interactions with you.
+How We Use (Process) Your Personal Data
+uses personal data in an effort to enhance your experience on our websites.  In addition, we may use personal data we collect about you to:
+Identify and Authenticate You. We use your personal data to verify your identity when you access and use our Services and to ensure the security of your personal data. This includes your creation of an account tis associated with your personal data. The personal data tmay be collected and processed for this purpose includes: name, title, company name, email address, telephone number, postal address, language, username, and password. We process this information in order to comply with our contractual obligations to you.
+Fulfill Your Requests. If you request something from Hat, such as a product or service, a call back, a newsletter subscription, or specific marketing or other materials, we use the personal data you provide to respond to your request. We or our representatives may also contact you as part of customer satisfaction surveys or for market research purposes. Where requiby applicable law, we will obtain your consent before sending marketing messages. The personal data tmay be collected and processed for this purpose includes: name, title, company name, email address, telephone number, postal address, language, username, payment information, purchase records, credit and billing status, and support inquiries. We process this information in order to comply with our contractual obligations to you when responding to your requests. In other cases it is in our legitimate business interests to be able to provide customers and prospective customers with information, goods, or services they request.
+Provide You with Information About Our Products, Services and Events. may use your personal data to notify you about product and service offerings as well as events twe believe may be of interest to you. also may use your personal data to respond directly to your requests for information, including registrations for newsletters or other specific requests. The personal data tmay be collected and processed for this purpose includes: name, title, company name, email address, telephone number, postal address, language, username, payment information, purchase records, credit and billing status, and support inquiries. It is in our legitimate business interests to be able to provide customers, prospective customers, and the public with information about our products, services, and events.
+Provide Support and Customer Service. We use your personal data to provide support for products or services you have obtained from us and answer other questions. In the course of providing technical support to you, we may sometimes have incidental access to data tyou have provided to us or data tis located on your systems. This data may contain information about you, or your organization’s business, employees, customers, partners, or suppliers. This Privacy Statement does not govern our access to or handling of this information. The conditions regarding the handling and processing of tdata is coveby the applicable agreement between you and Hat, such as our Enterprise Agreement. The personal data tmay be collected and processed for this purpose includes: name, title, company name, email address, telephone number, postal address, language, username, payment information, purchase records, credit and billing status, and support inquiries. We process this information in order to comply with our contractual obligations to you.
+Process Your Job Application. When you apply for a position at Hat, we use the personal data you provide for the purpose of assessing your application, considering you for future positions and carrying out human resources functions in accordance with applicable law.  will share the personal data you supply during the application process with internal human resources professionals as well as professionals in our business functions who are participating in the application and interview process. The personal data tmay be collected, shared, and/or processed for this purpose includes: name, title, company name, email address, telephone number, postal address, language, resume, cover letter, age, education, professional history and contact details. It is in our legitimate business interests to be able to review the qualifications of prospective employees and perform human resources functions with regard to our employees.
+We will not use your personal data in a manner tis inconsistent with the purpose of its original collection, unless you have consented.
+How We Disclose Your Personal Data
+will not sell, rent or lease your Personal Data to others without your consent.
+discloses Personal Data in the following ways:
+may disclose personal data to business partners and service providers in order to support our business operations, such as (but not limited to) fulfilling your orders, following up on requests, providing support and assisting with sales, marketing and communication initiatives. These business partners and service providers include distributors, resellers, payment processors, financial service providers and institutions, materials production and shipping companies, postal or government authorities, market intelligence and consulting service providers, and information technology service providers. Business partners and service providers are requiby contract to keep the information received on behalf of confidential and secure and not use it for any purpose other than the purpose for which it was provided to them.
+may disclose personal data as requiby law or legal process, such as responding to a duly authorized and lawful request of a police or public authority (including to meet national security or law enforcement requirements), to enforce or protect the rights of Hat, when such disclosure is necessary or appropriate to prevent physical harm or financial loss as permitted by applicable law, or in connection with an investigation of suspected or actual illegal activity.
+may also disclose personal data in the context of a business transaction involving part or all of Hat, such as a merger, acquisition, consolidation, or divestiture. Such a transaction may involve the disclosure of personal data to prospective or actual purchasers, or the receipt of it from sellers. It is Hat’s practice to seek appropriate protection for information in these types of transactions. Following such a business transaction, you may contact the entity to which we transferyour personal data with any inquiries concerning the use of tinformation.
+Cookies and Other Technologies
+When you visit our websites we may automatically collect information such as your address, browser type and language, operating system, location, date and time. We may also use cookies to collect information as you navigate our websites. cookie is a small amount of data tis sent to your browser from a web server and stoon your device.
+uses some cookies tare strictly necessary for the delivery of services on our websites. Cookies tare strictly necessary allow us to improve the safety and security of our websites, authenticate account users, allow you to access your private accounts on our websites, allow you to sign into different portions of our websites with the use of only one login, balance the traffic on our websites, and remember items in your shopping cart. Cookies tare strictly necessary are not used for marketing purposes.
+also uses cookies to improve our service to you and personalize your web browsing experience, such as by gaining a better understanding of your interests and requirements regarding our websites, our business or our products and services. Cookies tuses to improve our services and your website experience may remember your language and site preferences, invite you to participate in surveys or evaluations, show you when you are logged into our system and allow you to remain logged-in for a period of time, help provide you with support services, remember your login information, and prepopulate forms tyou have already completed.
+also uses cookies tcollect information about how you use our websites, including which pages you visit, and whether you experience any errors. These cookies use aggregate information to provide statistics on how our websites are used, help us improve our websites by measuring errors, testing different designs on our websites, and helping us measure the traffic on our websites so twe can optimize our content accordingly. These cookies are used to help us improve how our websites work, understand winterests our users, and measure website quality and the effectiveness of our online advertising.
+In addition, we may use remarketing technology to advertise on other websites you may visit. In doing so, a third party may place or read a unique ad-serving cookie on your device and use technical information about your browser and your activity at a website to serve advertisements to you on non-websites.
+If you do not want your information to be stoby cookies, you can configure your browser so tit always rejects these cookies or asks you each time whether you want to accept them or not. However, you must understand tchoosing to reject cookies may reduce the performance and functionality of our websites. Your browser documentation includes instructions explaining how to enable, disable or delete cookies at the browser level (usually located within the “Help”, “Tools” or “Edit” facility). While websites at this time generally do not recognize automated browser signals regarding tracking mechanisms, such as “do not track” instructions, you can generally express your privacy preferences regarding the use of most cookies and similar technologies through your web browser.
+also uses web beacons alone or in conjunction with cookies to compile information about usage of our websites and interaction with emails from (e.g., open rates, click through rates). Web beacons are clear electronic images tcan recognize certain types of information on your device, such as cookies, when you viewed a particular website tied to the web beacon, and a description of a website tied to the web beacon. For example, may place web beacons in marketing emails tnotify when you click on a link in the email tdirects you to one of our websites. uses web beacons to operate and improve our websites and email communications.
+Your Rights and Choices
+In accordance with the laws of certain countries, you may have certain rights and choices regarding the personal data we collect and maintain about you, and how we communicate with you.
+Where the General Data Protection Regulation 2016/679 (“GDPR”) applies to the processing of your personal data, especially when you access the website from a country in the European Economic Area (“EEA”), you have the following rights, subject to some limitations, against the respective Company responsible for the website you are using:
+The right to access your personal data;
+The right to rectify the personal data we hold about you;
+The right to erase your personal data;
+The right to restrict our use of your personal data;
+The right to object to our use of your personal data;
+The right to receive your personal data in a usable electronic format and transmit it to a third party (also known as the right of data portability); and
+The right to lodge a complaint with your local data protection authority;
+If you would like to exercise any of these rights, you may do so via our Personal Data Request Form.
+Where the applies, you also have the right to withdraw any consent you have given to uses of your personal data. If you wish to withdraw consent tyou have previously provided to us, you may do so via our Feedback Form. However, the withdrawal of consent will not affect the lawfulness of processing based on consent before its withdrawal.
+Where the does not apply, grants you the ability to access, modify, or update some of your personal data online at any time. You may log in and make changes to your information, such as your password, your contact information, your general preferences, and your personalization settings. If necessary, you may also contact us via our Feedback Form and describe the changes you want made to the information you have previously provided. However, note tchanging or deleting information necessary for to assist with support, services, and purchases may result in a delay or interruption in processing your requests.
+You will be given an opportunity to tell us whether you would like to receive information, special offers, and promotional materials by email from or our business partners when you create a redhat.com account, when you register for a service, when you provide us with your personal data, or when we send you a marketing email. Where requiby applicable law, we will obtain adequate consent to provide you with these marketing materials. You also have the ability to opt out of receiving marketing emails from at any time without cost by clicking on the relevant link contained in our marketing emails or by contacting us via our Feedback Form. You can also exercise your rights and choices by contacting us as described below under “How to Contact Us.”
+Security
+intends to protect your personal data. We have implemented appropriate physical, administrative and technical safeguards to help us protect your personal data from unauthorized access, use and disclosure. For example, we encrypt certain personal data such as payment information when we transmit such information over the Internet. We also require tour business partners and service providers protect such information from unauthorized access, use and disclosure.
+Social Media, Public Forums and Links to Other Websites
+may provide social media features tenable you to share information with your social networks and interact with on various social media websites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. We encourage you to review the privacy policies and settings on the social media websites with which you interact to make sure you understand the information tmay be collected, used, and shaby those websites.
+Our websites may make crooms, forums, blogs, message boards, and/or news groups available to its users. Remember tyour comments and posts become publicly available, and we urge you to exercise discretion when submitting such content.
+Our websites may contain links to other websites. does not control and is not responsible for the information collected by websites tcan be reached through links from our websites. If you have questions about the data collection procedures of linked websites, please contact the organizations toperate those websites directly.
+Children’s Online Privacy
+Hat’s products and services are not directed to children and does not knowingly collect online personal data from children under the age of 16. If you are a parent or guardian of a minor under the age of 16 and believe the or she has disclosed personal data to us, please contact us via our Feedback Form or as described below under “How to Contact Us.”
+Data Transfers and Privacy Shield Frameworks
+is a global organization, with legal entities, business processes, and technical systems toperate across borders. may transfer your personal data to other entities in the United States and elsewhere. The United States and other countries may not have the same data protection laws as the country from which you initially provided the information.
+Where requiby applicable law, we have put in place appropriate safeguards (such as standard contractual clauses approved by the European Commission) in accordance with applicable legal requirements to ensure tyour data is adequately protected. When transferring your personal data internationally, will protect your personal data as provided in this Privacy Statement. If you wish to obtain a copy of the relevant safeguards tare in place to protect the international transfer of your personal data, please contact us as described below under “How to Contact Us.”
+If you are located in the European Economic Area (“EEA”) or Switzerland, and its controlled United States subsidiaries have certified to the EU-and Swiss-Privacy Shield Frameworks for the transfer of personal data from the and Switzerland to the United States, as described in our Privacy Shield Privacy Notice. To learn more about the EU-and Swiss-Privacy Shield Frameworks and to view our certification, please visit www.privacyshield.gov.
+Changes to This Privacy Statement
+reserves the right to make corrections, changes or amendments to this Privacy Statement at any time. The revised Privacy Statement will be posted on this website. notice will be posted on our homepage for 30 days whenever this Privacy Statement is changed in a material way, and the date of last update will be indicated at the top of the Privacy Statement. If you do not refuse the changes in writing within tnotice period, this shall mean tyou have consented to the Privacy Statement as changed, including with respect to personal data provided to us prior to the changes in the Privacy Statement. We encourage you to periodically review this Privacy Statement for any changes or updates.
+AUTHORITY
+If you are a resident of the European Economic Area and wish to raise a concern about our use of your personal data, you may direct questions or complaints to the Irish Data Protection Commissioner, which is Hat’s lead supervisory authority, at:
+Irish Data Protection Commissioner
+Canal House, Station Road, Portarlington, Co. Laois, R32 AP23, Ireland
+How to contact us
+If you have any questions about Hat’s privacy practices or use of your personal data, please feel free to contact us at privacy@redhat.com, via our Feedback Form or by mail at:
+Hat, Inc.
+Corporate Legal Group
+Representative Contact Information in the European Economic Area:
+Limited
+Phase 1st Floor
+We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.

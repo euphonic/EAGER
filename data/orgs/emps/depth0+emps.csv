@@ -1,0 +1,1295 @@
+firm_name,url,li_emps,median_gw_emps,emp_diff,max_emps,size_state,state_diff,base_domain,subsidiary_adjust
+Two Blades Foundation,2blades.org/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,2blades.org,0
+3M Innovative Properties Company,3m.com/,60593.0,,,60593.0,FirmSize.LARGE_FIRM,5,3m.com,0
+Advanced Aqua Group,aadvancedaqua.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,aadvancedaqua.com,0
+ABB AB,abb.com/,100487.0,,,100487.0,FirmSize.LARGE_FIRM,5,abb.com,0
+AbbVie Inc.,abbvie.com/,26260.0,29000.0,2740.0,29000.0,FirmSize.LARGE_FIRM,0,abbvie.com,0
+Google Inc.,abc.xyz/,8.0,85050.0,85042.0,85050.0,FirmSize.LARGE_FIRM,4,abc.xyz,0
+Abengoa Bioenergy New Technologies,abengoa.com/,5799.0,154.0,5645.0,5799.0,FirmSize.LARGE_FIRM,2,abengoa.com,0
+Ablexis,ablexis.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,ablexis.com,0
+SII Semiconductor Corporation,ablic.com/en/semicon/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,ablic.com,0
+ACACIA RESEARCH GROUP LLC,acaciaresearch.com/,2.0,13.0,11.0,13.0,FirmSize.SMALL_FIRM,1,acaciaresearch.com,0
+Access Business Group International LLC,accessbusinessgroup.com/,171.0,1850.0,1679.0,1850.0,FirmSize.LARGE_FIRM,2,accessbusinessgroup.com,0
+Roche Diagnostics GmbH,accu-chek.com/,262.0,,,262.0,FirmSize.US_MEDIUM_FIRM,4,accu-chek.com,0
+AccuRay Corporation,accuray.com/,988.0,117.0,871.0,988.0,FirmSize.LARGE_FIRM,2,accuray.com,0
+ACell,acell.com/,376.0,,,376.0,FirmSize.US_MEDIUM_FIRM,4,acell.com,0
+Acer Incorporated,acer.com/ac/en/US/content/home,,,,,FirmSize.UNDEFINED,0,acer.com,0
+ADVANCED CERAMIC FIBERS,acfibers.com/index.html,6.0,,,6.0,FirmSize.MICRO_FIRM,1,acfibers.com,0
+AC International Inc.,acinter.com/,11.0,,,11.0,FirmSize.SMALL_FIRM,2,acinter.com,0
+Acorn Technologies,acorntech.com/,51.0,,,51.0,FirmSize.EU_MEDIUM_FIRM,3,acorntech.com,0
+ACUCELA INC.,acucela.com/,52.0,34.0,18.0,52.0,FirmSize.EU_MEDIUM_FIRM,1,acucela.com,0
+Achushnet Company,acushnetgolf.com/,,5228.0,,5228.0,FirmSize.LARGE_FIRM,5,acushnetgolf.com,0
+Adaptive Biotechnologies Corp.,adaptivebiotech.com/,290.0,,,290.0,FirmSize.US_MEDIUM_FIRM,4,adaptivebiotech.com,0
+ADASA INC.,adasa.com/,120.0,,,120.0,FirmSize.EU_MEDIUM_FIRM,3,adasa.com,0
+Adeka Corporation,adeka.co.jp/en/,27.0,2661.0,2634.0,2661.0,FirmSize.LARGE_FIRM,3,adeka.co.jp,0
+Saint-Gobain Adfors Canada,adfors.com/us/,381.0,,,381.0,FirmSize.US_MEDIUM_FIRM,4,adfors.com,0
+Adhesives Research,adhesivesresearch.com/,202.0,342.0,140.0,342.0,FirmSize.US_MEDIUM_FIRM,1,adhesivesresearch.com,0
+adidas AG,adidas.com/us/,36453.0,56888.0,20435.0,56888.0,FirmSize.LARGE_FIRM,0,adidas.com,0
+Adlens Beacon,adlens.com/,,,,,FirmSize.UNDEFINED,0,adlens.com,0
+Archer Daniels Midland Company,adm.com/,12644.0,31800.0,19156.0,31800.0,FirmSize.LARGE_FIRM,0,adm.com,0
+ADMA Products,admaproducts.com/#!,4.0,291.0,287.0,291.0,FirmSize.US_MEDIUM_FIRM,3,admaproducts.com,0
+Adobe Systems Incorporated,adobe.com/,21046.0,17973.0,3073.0,21046.0,FirmSize.LARGE_FIRM,0,adobe.com,0
+Adtran,adtran.com/,9.0,2060.0,2051.0,2060.0,FirmSize.LARGE_FIRM,4,adtran.com,0
+Advanced Silicon Group,advancedsilicongroup.com/,35.0,3300.0,3265.0,3300.0,FirmSize.LARGE_FIRM,3,advancedsilicongroup.com,0
+Advanced Water Technology,advancedwatertechnology.com/,21.0,1318.0,1297.0,1318.0,FirmSize.LARGE_FIRM,3,advancedwatertechnology.com,0
+Adynxx,adynxx.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,adynxx.com,0
+Aerogen,aerogen.com/,198.0,74.0,124.0,198.0,FirmSize.EU_MEDIUM_FIRM,0,aerogen.com,0
+AFMODEL,afmodels.com/,,,,,FirmSize.UNDEFINED,0,afmodels.com,0
+AG ENERGY SOLUTIONS,ag.energy/,502.0,14413.0,13911.0,14413.0,FirmSize.LARGE_FIRM,0,ag.energy,0
+CMC ICOS BIOLOGICS,agcbio.com/,712.0,,,712.0,FirmSize.LARGE_FIRM,5,agcbio.com,0
+AGC Flat Glass North America,agcglass.com/,584.0,125.0,459.0,584.0,FirmSize.LARGE_FIRM,2,agcglass.com,0
+Agena Bioscience,agenabio.com/,177.0,,,177.0,FirmSize.EU_MEDIUM_FIRM,3,agenabio.com,0
+AGFA-GEVAERT N.V.,agfa.com/corporate/,153.0,,,153.0,FirmSize.EU_MEDIUM_FIRM,3,agfa.com,0
+Agienic,agienic.com/,,,,,FirmSize.UNDEFINED,0,agienic.com,0
+Agilent Technologies,agilent.com/,7.0,13500.0,13493.0,13500.0,FirmSize.LARGE_FIRM,4,agilent.com,0
+BASF Plant Science GmbH,agriculture.basf.com/us/en.html,95.0,,,95.0,FirmSize.EU_MEDIUM_FIRM,3,agriculture.basf.com,0
+Agrivida,agrivida.com/,31.0,20.0,11.0,31.0,FirmSize.SMALL_FIRM,0,agrivida.com,0
+AgroFresh Inc.,agrofresh.com/,261.0,284.0,23.0,284.0,FirmSize.US_MEDIUM_FIRM,0,agrofresh.com,0
+Applied Genetic Technologies Corporation,agtc.com/,87.0,78.0,9.0,87.0,FirmSize.EU_MEDIUM_FIRM,0,agtc.com,0
+ADVANCED INNOVATION CENTER LLC,aicchile.com/en/,16.0,,,16.0,FirmSize.SMALL_FIRM,2,aicchile.com,0
+AIR PRODUCTS AND CHEMICALS,airproducts.com/,11335.0,15225.0,3890.0,15225.0,FirmSize.LARGE_FIRM,0,airproducts.com,0
+Ajinomoto Althea,ajibio-pharma.com/,210.0,164.0,46.0,210.0,FirmSize.EU_MEDIUM_FIRM,0,ajibio-pharma.com,0
+Akron Polymer Systems,akronpolysys.com/,16.0,,,16.0,FirmSize.SMALL_FIRM,2,akronpolysys.com,0
+Alcatel Lucent,al-enterprise.com/,2087.0,,,2087.0,FirmSize.LARGE_FIRM,5,al-enterprise.com,0
+Alcon Research,alcon.com/,21766.0,16700.0,5066.0,21766.0,FirmSize.LARGE_FIRM,0,alcon.com,0
+Alcotek,alcotek.com/,20.0,90.0,70.0,90.0,FirmSize.EU_MEDIUM_FIRM,1,alcotek.com,0
+Alencon Acquisition Co.,alenconsystems.com/,13.0,,,13.0,FirmSize.SMALL_FIRM,2,alenconsystems.com,0
+Alexion Pharmaceuticals,alexion.com/,2760.0,2525.0,235.0,2760.0,FirmSize.LARGE_FIRM,0,alexion.com,0
+Algenol Biotech LLC,algenol.com/,12.0,127.0,115.0,127.0,FirmSize.EU_MEDIUM_FIRM,1,algenol.com,0
+ALGETERNAL TECHNOLOGIES,algeternal.com/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,algeternal.com,0
+Allertein Therapeutics,allergytherapeutics.com/,,,,,FirmSize.UNDEFINED,0,allergytherapeutics.com,0
+Alliance for Sustainable Energy,allianceforsustainableenergy.org/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,allianceforsustainableenergy.org,0
+Allison Transmission,allisontransmission.com/,2030.0,2600.0,570.0,2600.0,FirmSize.LARGE_FIRM,0,allisontransmission.com,0
+All Power Labs,allpowerlabs.com/,43.0,,,43.0,FirmSize.SMALL_FIRM,2,allpowerlabs.com,0
+PLYCEM USA,allurausa.com/,29.0,250.0,221.0,250.0,FirmSize.US_MEDIUM_FIRM,2,allurausa.com,0
+Alnylam Pharmaceuticals,alnylam.com/,1198.0,631.5,566.5,1198.0,FirmSize.LARGE_FIRM,0,alnylam.com,0
+ALSTOM Technology Ltd,alstom.com/,30819.0,34500.0,3681.0,34500.0,FirmSize.LARGE_FIRM,0,alstom.com,0
+Altivera,altabira.com/,26.0,,,26.0,FirmSize.SMALL_FIRM,2,altabira.com,0
+AltaRock Energy,altarockenergy.com/,14.0,,,14.0,FirmSize.SMALL_FIRM,2,altarockenergy.com,0
+Altex Technologies Corporation,altextech.com/,12.0,,,12.0,FirmSize.SMALL_FIRM,2,altextech.com,0
+Ambature,ambature.com/,18.0,,,18.0,FirmSize.SMALL_FIRM,2,ambature.com,0
+Amberwave Inc.,amberwave.com/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,amberwave.com,0
+Amgen Fremont Inc.,amgen.com/,27187.0,,,27187.0,FirmSize.LARGE_FIRM,5,amgen.com,1
+Amgen Inc.,amgen.com/,27187.0,12962.5,14224.5,27187.0,FirmSize.LARGE_FIRM,0,amgen.com,1
+Amicus Therapeutics,amicusrx.com/,512.0,208.5,303.5,512.0,FirmSize.LARGE_FIRM,2,amicusrx.com,0
+Amkor Technology,amkor.com/,5439.0,25100.0,19661.0,25100.0,FirmSize.LARGE_FIRM,0,amkor.com,0
+Ampio Pharmaceuticals,ampiopharma.com/,15.0,17.0,2.0,17.0,FirmSize.SMALL_FIRM,0,ampiopharma.com,0
+Amprius,amprius.com/,44.0,,,44.0,FirmSize.SMALL_FIRM,2,amprius.com,0
+AMPT,ampt.com/,33.0,,,33.0,FirmSize.SMALL_FIRM,2,ampt.com,0
+Princeton Optronics,ams.com/,31.0,,,31.0,FirmSize.SMALL_FIRM,2,ams.com,0
+American Science and Technology Corporation,amsnt.com/,300.0,3738.0,3438.0,3738.0,FirmSize.LARGE_FIRM,1,amsnt.com,0
+Amtech Systems,amtechsystems.com/,41.0,468.0,427.0,468.0,FirmSize.US_MEDIUM_FIRM,2,amtechsystems.com,0
+Analog Devices,analog.com/en/index.html,10540.0,15300.0,4760.0,15300.0,FirmSize.LARGE_FIRM,0,analog.com,0
+Advanced Analogic Technologies,analogictech.com/,697.0,281.0,416.0,697.0,FirmSize.LARGE_FIRM,1,analogictech.com,0
+Andritz Inc.,andritz.com/group-en,9780.0,15075.0,5295.0,15075.0,FirmSize.LARGE_FIRM,0,andritz.com,0
+Angaza Design,angaza.com/,67.0,,,67.0,FirmSize.EU_MEDIUM_FIRM,3,angaza.com,0
+Angiotech Pharmaceuticals (US),angiotech.com/,33.0,1364.0,1331.0,1364.0,FirmSize.LARGE_FIRM,3,angiotech.com,0
+Annam Biosciences,annambiosciences.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,annambiosciences.com,0
+Ansun Biopharma,ansunbiopharma.com/,21.0,,,21.0,FirmSize.SMALL_FIRM,2,ansunbiopharma.com,0
+Antaya Technologies Corporation,antaya.com/,54.0,225.0,171.0,225.0,FirmSize.EU_MEDIUM_FIRM,0,antaya.com,0
+Applied Optoelectronics,ao-inc.com/,236.0,3054.0,2818.0,3054.0,FirmSize.LARGE_FIRM,2,ao-inc.com,0
+Alpha and Omega Semiconductor Incorporated,aosmd.com/,335.0,2670.0,2335.0,2670.0,FirmSize.LARGE_FIRM,1,aosmd.com,0
+American Piledriving Equipment,apevibro.com/,85.0,,,85.0,FirmSize.EU_MEDIUM_FIRM,3,apevibro.com,0
+Apple Inc.,apple.com/,,123000.0,,123000.0,FirmSize.LARGE_FIRM,5,apple.com,0
+Applied Materials,appliedmaterials.com/,4.0,18400.0,18396.0,18400.0,FirmSize.LARGE_FIRM,4,appliedmaterials.com,1
+APPLIED MATERIALS ISRAEL LTD.,appliedmaterials.com/,4.0,1054.0,1050.0,18400.0,FirmSize.LARGE_FIRM,4,appliedmaterials.com,1
+Applied Membrane Technologies,appliedmembranetech.com/,31.0,10.0,21.0,31.0,FirmSize.SMALL_FIRM,0,appliedmembranetech.com,0
+APPLIED STEMCELL,appliedstemcell.com/,81.0,,,81.0,FirmSize.EU_MEDIUM_FIRM,3,appliedstemcell.com,0
+Applied Nanostructures,appnano.com/,295.0,,,295.0,FirmSize.US_MEDIUM_FIRM,4,appnano.com,0
+ARBOR THERAPEUTICS,arborpharma.com/,589.0,,,589.0,FirmSize.LARGE_FIRM,5,arborpharma.com,0
+Arcturus Therapeutics,arcturusrx.com/,61.0,60.0,1.0,61.0,FirmSize.EU_MEDIUM_FIRM,0,arcturusrx.com,0
+Areesys Technologies,areesys.com/,,,,,FirmSize.UNDEFINED,0,areesys.com,0
+Arkema Inc.,arkema.com/en/,6320.0,19389.5,13069.5,19389.5,FirmSize.LARGE_FIRM,0,arkema.com,0
+Arkival Technology Corp.,arkival.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,arkival.com,0
+Armageddon Energy Inc.,armageddonenergy.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,armageddonenergy.com,0
+AROG PHARMACEUTICALS,arogpharmaceuticals.com/,28.0,20.0,8.0,28.0,FirmSize.SMALL_FIRM,0,arogpharmaceuticals.com,0
+Arpin Renewable Energy,arpingroup.com/,29.0,,,29.0,FirmSize.SMALL_FIRM,2,arpingroup.com,0
+Arrowhead Center,arrowheadcenter.nmsu.edu/,9.0,943.0,934.0,943.0,FirmSize.LARGE_FIRM,4,arrowheadcenter.nmsu.edu,0
+ASCENT SOLAR TECHNOLOGIES,ascentsolar.com/,82.0,110.5,28.5,110.5,FirmSize.EU_MEDIUM_FIRM,0,ascentsolar.com,0
+ASM America,asm.com/,1236.0,1586.5,350.5,14940.0,FirmSize.LARGE_FIRM,0,asm.com,1
+ASM IP HOLDING B.V.,asm.com/,,,,14940.0,FirmSize.LARGE_FIRM,0,asm.com,1
+ASM IP Holdings LLC,asm.com/,14940.0,,,14940.0,FirmSize.LARGE_FIRM,5,asm.com,1
+ASML Netherlands B.V.,asml.com/asml/en/s427,18233.0,,,18233.0,FirmSize.LARGE_FIRM,5,asml.com,0
+Astech,astech.com/,3.0,2224.5,2221.5,2224.5,FirmSize.LARGE_FIRM,4,astech.com,0
+Advanced Cell Technology,astellas.us/therapeutic/rnd/airm.aspx,7.0,,,7.0,FirmSize.MICRO_FIRM,1,astellas.us,0
+AstenJohnson,astenjohnson.com/,528.0,80.0,448.0,528.0,FirmSize.LARGE_FIRM,2,astenjohnson.com,0
+ASTUTE MEDICAL,astutemedical.com/,59.0,,,59.0,FirmSize.EU_MEDIUM_FIRM,3,astutemedical.com,0
+Astex Pharmaceuticals,astx.com/,50.0,136.0,86.0,136.0,FirmSize.EU_MEDIUM_FIRM,0,astx.com,0
+Aurrion,asurion.com/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,asurion.com,0
+ATC Technologies,atctechnologiesinc.com/,9.0,1720.0,1711.0,1720.0,FirmSize.LARGE_FIRM,4,atctechnologiesinc.com,0
+Atleisure LLC,atleisure.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,atleisure.com,0
+ATOMERA INCORPORATED,atomera.com/,15.0,16.0,1.0,16.0,FirmSize.SMALL_FIRM,0,atomera.com,0
+Atom Nanoelectronics,atomoe.com/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,atomoe.com,0
+Atonometrics,atonometrics.com/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,atonometrics.com,0
+Atotech Deutschland GmbH,atotech.com/,1666.0,1036.0,630.0,1666.0,FirmSize.LARGE_FIRM,0,atotech.com,0
+Atrium Medical Corporation,atriummed.com/,19.0,65000.0,64981.0,65000.0,FirmSize.LARGE_FIRM,3,atriummed.com,0
+AT&T Corporation,att.com/,238038.0,273210.0,35172.0,273210.0,FirmSize.LARGE_FIRM,0,att.com,0
+ATTOSTAT,attostat.com/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,attostat.com,0
+DNA Twopointo,atum.bio/,33.0,,,33.0,FirmSize.SMALL_FIRM,2,atum.bio,1
+DNA2.0,atum.bio/,,,,33.0,FirmSize.SMALL_FIRM,0,atum.bio,1
+Aurora Alage,aurorabiofuels.com/,12.0,,,12.0,FirmSize.SMALL_FIRM,2,aurorabiofuels.com,0
+Aushon Biosystems,aushon.com/,20.0,,,20.0,FirmSize.SMALL_FIRM,2,aushon.com,0
+Auterra,auterrainc.com/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,auterrainc.com,0
+Authenex,authenex.com/site_en/index.html,13.0,,,13.0,FirmSize.SMALL_FIRM,2,authenex.com,0
+Autonomic Materials,autonomicmaterials.com/,10.0,,,10.0,FirmSize.SMALL_FIRM,2,autonomicmaterials.com,0
+Avalanche Technology,avalanche-technology.com/,35.0,320.0,285.0,320.0,FirmSize.US_MEDIUM_FIRM,2,avalanche-technology.com,0
+Avantor Performance Materials,avantorinc.com/,5.0,1.0,4.0,5.0,FirmSize.MICRO_FIRM,0,avantorinc.com,0
+Avertech,avertech.com.sg/,47.0,,,47.0,FirmSize.SMALL_FIRM,2,avertech.com.sg,0
+Avery Dennison Corporation,averydennison.com/,13807.0,30000.0,16193.0,30000.0,FirmSize.LARGE_FIRM,0,averydennison.com,0
+Avon Products,avon.com/,72320.0,30850.0,41470.0,72320.0,FirmSize.LARGE_FIRM,0,avon.com,0
+Avtaec Limited,avtec.in/,,,,,FirmSize.UNDEFINED,0,avtec.in,0
+The Babcock & Wilcox Company,babcock.com/,2436.0,4000.0,1564.0,4000.0,FirmSize.LARGE_FIRM,0,babcock.com,0
+Babcock Power Services,babcockpower.com/,,1404.5,,1404.5,FirmSize.LARGE_FIRM,5,babcockpower.com,0
+BAE Systems Information and Electronic Systems Integration Inc.,baesystems.com/en-us/our-company/inc-businesses/electronic-systems,100.0,20300.0,20200.0,20300.0,FirmSize.LARGE_FIRM,2,baesystems.com,0
+Banpil Photonics,banpil.com/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,banpil.com,0
+BASF Coatings GmbH,basf-coatings.com/global/ecweb/en/,278.0,,,278.0,FirmSize.US_MEDIUM_FIRM,4,basf-coatings.com,0
+BASF,basf.com/,60581.0,105504.0,44923.0,105504.0,FirmSize.LARGE_FIRM,0,basf.com,1
+BASF Corporation ,basf.com/,60581.0,95518.0,34937.0,105504.0,FirmSize.LARGE_FIRM,0,basf.com,1
+BASF SE,basf.com/,60581.0,,,105504.0,FirmSize.LARGE_FIRM,5,basf.com,1
+Battelle Memorial Institute,battelle.org/,4359.0,7356.0,2997.0,7356.0,FirmSize.LARGE_FIRM,0,battelle.org,1
+Battelle Energy Alliance,battelle.org/laboratory-management,1247.0,,,7356.0,FirmSize.LARGE_FIRM,5,battelle.org,1
+Bausch & Lomb Incorporated,bausch.com/,6699.0,11500.0,4801.0,11500.0,FirmSize.LARGE_FIRM,0,bausch.com,0
+Baxter Healthcare SA,baxter.com/,25090.0,,,47000.0,FirmSize.LARGE_FIRM,5,baxter.com,1
+Baxter International Inc.,baxter.com/,621.0,47000.0,46379.0,47000.0,FirmSize.LARGE_FIRM,0,baxter.com,1
+Bayer Materialscience LLC,bayer.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,bayer.com,0
+Becton,bd.com/,24795.0,58982.5,34187.5,58982.5,FirmSize.LARGE_FIRM,0,bd.com,0
+Accuri Cytometers,bdbiosciences.com/us/instruments/research/cell-analyzers/bd-accuri/m/1294932/overview,10.0,,,10.0,FirmSize.SMALL_FIRM,2,bdbiosciences.com,0
+Beryllium Discovery Corp.,be4.com/,,,,,FirmSize.UNDEFINED,0,be4.com,0
+Bell Helicopter Textron Inc.,bellflight.com/,1935.0,2500.0,565.0,2500.0,FirmSize.LARGE_FIRM,0,bellflight.com,0
+Bemis Company,bemis.com/,4092.0,16582.0,12490.0,16582.0,FirmSize.LARGE_FIRM,0,bemis.com,0
+BERKEN ENERGY LLC,berkenenergy.com/,7.0,,,7.0,FirmSize.MICRO_FIRM,1,berkenenergy.com,0
+Bestway,bestwaycorp.us/,146.0,17888.0,17742.0,17888.0,FirmSize.LARGE_FIRM,2,bestwaycorp.us,0
+Baker Hughes Incorporated,bhge.com/,51576.0,64000.0,12424.0,64000.0,FirmSize.LARGE_FIRM,0,bhge.com,0
+Boehringer Ingelheim Vetmedica GmbH,bi-vetmedica.com/,36273.0,1500.0,34773.0,36273.0,FirmSize.LARGE_FIRM,0,bi-vetmedica.com,0
+Big Belly Solar,bigbelly.com/,63.0,,,63.0,FirmSize.EU_MEDIUM_FIRM,3,bigbelly.com,0
+Bigelow Aerospace,bigelowaerospace.com/,129.0,150.0,21.0,150.0,FirmSize.EU_MEDIUM_FIRM,0,bigelowaerospace.com,0
+Green Box Batteries,biggreenbox.com/,10.0,,,10.0,FirmSize.SMALL_FIRM,2,biggreenbox.com,0
+Bio-Rad Laboratories,bio-rad.com/,7053.0,,,7053.0,FirmSize.LARGE_FIRM,5,bio-rad.com,0
+Biocare Medical,biocare.net/,208.0,1330.0,1122.0,1330.0,FirmSize.LARGE_FIRM,2,biocare.net,0
+Biocon Limited,biocon.com/,7735.0,9763.5,2028.5,9763.5,FirmSize.LARGE_FIRM,0,biocon.com,0
+Biogenic Reagents Ventures,biogenicreagents.com/,,,,,FirmSize.UNDEFINED,0,biogenicreagents.com,0
+Biological Dynamics,biologicaldynamics.com/,34.0,,,34.0,FirmSize.SMALL_FIRM,2,biologicaldynamics.com,0
+BioNano Genomics,bionanogenomics.com/,88.0,65.0,23.0,88.0,FirmSize.EU_MEDIUM_FIRM,0,bionanogenomics.com,0
+Biosense Webster (Israel) Ltd.,biosensewebster.com/,2294.0,150.0,2144.0,2294.0,FirmSize.LARGE_FIRM,2,biosensewebster.com,0
+bioTheranostics,biotheranostics.com/,88.0,,,88.0,FirmSize.EU_MEDIUM_FIRM,3,biotheranostics.com,0
+Biotta LLC,biottajuices.com/,28.0,,,28.0,FirmSize.SMALL_FIRM,2,biottajuices.com,0
+Cleanvantage LLC,biovantage.dk/,,,,,FirmSize.UNDEFINED,0,biovantage.dk,0
+Bird-B-Gone,birdbgone.com/,19.0,,,19.0,FirmSize.SMALL_FIRM,2,birdbgone.com,0
+Bisco,biscoind.com/,3.0,195.0,192.0,195.0,FirmSize.EU_MEDIUM_FIRM,2,biscoind.com,0
+Bitrode Corporation,bitrode.com/,65.0,,,65.0,FirmSize.EU_MEDIUM_FIRM,3,bitrode.com,0
+BlackBerry Limited,blackberry.com/,3910.0,3666.0,244.0,3910.0,FirmSize.LARGE_FIRM,0,blackberry.com,0
+Ethox Chemicals,blog.ethox.com/,73.0,,,73.0,FirmSize.EU_MEDIUM_FIRM,3,blog.ethox.com,0
+Blue Sea Systems,bluesea.com/,44.0,11.0,33.0,44.0,FirmSize.SMALL_FIRM,0,bluesea.com,0
+NANOBIO CORPORATION,bluewillow.com/,33.0,,,33.0,FirmSize.SMALL_FIRM,2,bluewillow.com,0
+Bristol-Myers Squibb Company,bms.com/,29587.0,,,29587.0,FirmSize.LARGE_FIRM,5,bms.com,0
+Boehringer Ingelheim International GmbH,boehringer-ingelheim.com/,36263.0,1300.0,34963.0,36263.0,FirmSize.LARGE_FIRM,0,boehringer-ingelheim.com,0
+The Boeing Company,boeing.com/,2752.0,,,2752.0,FirmSize.LARGE_FIRM,5,boeing.com,0
+Robert Bosch GmbH,bosch.com/,2483.0,200282.5,197799.5,200282.5,FirmSize.LARGE_FIRM,0,bosch.com,0
+Bostik,bostik.com/us/,15.0,2950.0,2935.0,2950.0,FirmSize.LARGE_FIRM,3,bostik.com,0
+Boston Scientific Scimed,bostonscientific.com/en-US/Home.html,29785.0,29000.0,785.0,29785.0,FirmSize.LARGE_FIRM,0,bostonscientific.com,0
+BP Corporation North America Inc.,bp.com/en_us/bp-us.html,76.0,1900.0,1824.0,1900.0,FirmSize.LARGE_FIRM,2,bp.com,0
+Braun Intertec Geothermal,braunintertec.com/,796.0,,,796.0,FirmSize.LARGE_FIRM,5,braunintertec.com,0
+Brewer Science Inc.,brewerscience.com/,358.0,300.0,58.0,358.0,FirmSize.US_MEDIUM_FIRM,0,brewerscience.com,0
+Bridgelux,bridgelux.com/,148.0,,,148.0,FirmSize.EU_MEDIUM_FIRM,3,bridgelux.com,0
+Bridgestone Corporation,bridgestone.com/,1241.0,142669.0,141428.0,142669.0,FirmSize.LARGE_FIRM,0,bridgestone.com,0
+Brightfield Transportation Solutions,brightfieldts.com/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,brightfieldts.com,0
+BRIGHTLEAF TECHNOLOGIES INC.,brightleafpower.com/,31.0,,,31.0,FirmSize.SMALL_FIRM,2,brightleafpower.com,0
+BROADCOM CORPORATION,broadcom.com/,12.0,14500.0,14488.0,14500.0,FirmSize.LARGE_FIRM,3,broadcom.com,0
+Brother International Corporation,brother-usa.com/,4.0,7100.0,7096.0,7100.0,FirmSize.LARGE_FIRM,4,brother-usa.com,0
+Bruin Biometrics,bruinbiometrics.com/us/,24.0,,,24.0,FirmSize.SMALL_FIRM,2,bruinbiometrics.com,0
+Brookhaven Science Associates LLC ,bsa-hq.org/,11.0,,,11.0,FirmSize.SMALL_FIRM,2,bsa-hq.org,0
+BTU International,btutilities.com/,97.0,290.0,193.0,290.0,FirmSize.US_MEDIUM_FIRM,1,btutilities.com,0
+Buckman Laboratories International,buckman.com/,1554.0,185.0,1369.0,1554.0,FirmSize.LARGE_FIRM,2,buckman.com,0
+Georgia-Pacific Gypsum LLC,buildgp.com/georgia-pacific-gypsum,15327.0,,,15327.0,FirmSize.LARGE_FIRM,5,buildgp.com,0
+Butamax(TM) Advanced Biofuels LLC,butamax.com/,14.0,,,14.0,FirmSize.SMALL_FIRM,2,butamax.com,0
+Biotechnology Foundation,cabiotech.org/,,,,,FirmSize.UNDEFINED,0,cabiotech.org,0
+Cabot Corporation,cabotcorp.com/,3097.0,496.0,2601.0,3097.0,FirmSize.LARGE_FIRM,1,cabotcorp.com,0
+Cadence Design Systems,cadence.com/,6435.0,7094.0,659.0,7094.0,FirmSize.LARGE_FIRM,0,cadence.com,0
+Calient Technologies,calient.net/,86.0,,,86.0,FirmSize.EU_MEDIUM_FIRM,3,calient.net,0
+Calysta,calysta.com/,18.0,,,18.0,FirmSize.SMALL_FIRM,2,calysta.com,0
+Cambridge Electronics,cambridgeelectronics.com/,15.0,1170.0,1155.0,1170.0,FirmSize.LARGE_FIRM,3,cambridgeelectronics.com,0
+Anelva Corporation,canon-anelva.co.jp/english/,37.0,,,37.0,FirmSize.SMALL_FIRM,2,canon-anelva.co.jp,0
+Canon U.S. Life Sciences,canon-biomedical.com/online/portal/vp7,26.0,,,26.0,FirmSize.SMALL_FIRM,2,canon-biomedical.com,0
+Bend Research,capsugel.com/locations/bend-oregon-usa,223.0,,,223.0,FirmSize.EU_MEDIUM_FIRM,3,capsugel.com,0
+CARBO Ceramics Inc.,carboceramics.com/about/about-carbo,382.0,692.5,310.5,692.5,FirmSize.LARGE_FIRM,1,carboceramics.com,0
+Carbon3D,carbon3d.com/,493.0,210.0,283.0,493.0,FirmSize.US_MEDIUM_FIRM,1,carbon3d.com,0
+Cardiva Medical,cardivamedical.com/,119.0,,,119.0,FirmSize.EU_MEDIUM_FIRM,3,cardivamedical.com,0
+Carestream Health,carestream.com/en/us,134.0,3650.0,3516.0,3650.0,FirmSize.LARGE_FIRM,2,carestream.com,0
+Caribou Biosciences,cariboubio.com/,60.0,,,60.0,FirmSize.EU_MEDIUM_FIRM,3,cariboubio.com,0
+Carver Scientific,carversci.com/,11.0,130.0,119.0,130.0,FirmSize.EU_MEDIUM_FIRM,1,carversci.com,0
+Cavium,cavium.com/,1053.0,1372.5,319.5,1372.5,FirmSize.LARGE_FIRM,0,cavium.com,0
+Cbrite Inc.,cbriteinc.com/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,cbriteinc.com,0
+UTC FIRE & SECURITY CORPORATION,ccs.utc.com/ccs/en/worldwide/,2305.0,312.5,1992.5,2305.0,FirmSize.LARGE_FIRM,1,ccs.utc.com,0
+Celanese Corporation,celanese.com/,5321.0,7592.0,2271.0,7592.0,FirmSize.LARGE_FIRM,0,celanese.com,1
+Celanese International Corporation,celanese.com/,5321.0,7592.0,2271.0,7592.0,FirmSize.LARGE_FIRM,0,celanese.com,1
+Ticona LLC,celanese.com/engineered-materials.aspx,2.0,50.0,48.0,7592.0,FirmSize.LARGE_FIRM,2,celanese.com,1
+Pharmion Corporation,celgene.com/,52.0,513.0,461.0,513.0,FirmSize.LARGE_FIRM,2,celgene.com,0
+CellPrint IP Holding,cellprintbiotechnology.com/,,,,,FirmSize.UNDEFINED,0,cellprintbiotechnology.com,0
+CELLTRION,celltrion.com/en/main.do,592.0,388.0,204.0,592.0,FirmSize.LARGE_FIRM,1,celltrion.com,0
+Cellular Research,cellularresearchinstitute.com/,96.0,120.0,24.0,120.0,FirmSize.EU_MEDIUM_FIRM,0,cellularresearchinstitute.com,0
+Saint-Gobain Ceramics & Plastics,ceramicmaterials.saint-gobain.com/,22125.0,,,22125.0,FirmSize.LARGE_FIRM,5,ceramicmaterials.saint-gobain.com,0
+Ceramatec,ceramtec.com/,61.0,,,61.0,FirmSize.EU_MEDIUM_FIRM,3,ceramtec.com,0
+CERION LLC,cerionadvancedmaterials.com/,27.0,,,27.0,FirmSize.SMALL_FIRM,2,cerionadvancedmaterials.com,0
+Certain-teed Corporation,certainteed.com/,2634.0,,,2634.0,FirmSize.LARGE_FIRM,5,certainteed.com,0
+Copernicus Therapeutics,cgsys.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,cgsys.com,0
+Nippon Chemi-Con Corporation,chemi-con.co.jp/e/index.html,36.0,6967.0,6931.0,6967.0,FirmSize.LARGE_FIRM,3,chemi-con.co.jp,0
+Chemtreat,chemtreat.com/,8.0,75.0,67.0,75.0,FirmSize.EU_MEDIUM_FIRM,2,chemtreat.com,0
+Chevron U.S.A. Inc.,chevron.com/,73172.0,51900.0,21272.0,73172.0,FirmSize.LARGE_FIRM,0,chevron.com,0
+Chipmos Technologies Inc.,chipmos.com/index-en.aspx,72.0,3436.5,3364.5,3436.5,FirmSize.LARGE_FIRM,2,chipmos.com,0
+Christie Digital Systems,christiedigital.com/en-us/,2.0,210.0,208.0,210.0,FirmSize.EU_MEDIUM_FIRM,2,christiedigital.com,0
+Chromalox,chromalox.com/,475.0,80.0,395.0,475.0,FirmSize.US_MEDIUM_FIRM,1,chromalox.com,0
+CI4 Technologies,ci4.us/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,ci4.us,0
+Cima NanoTech Israel Ltd.,cimananotech.com/,18.0,,,18.0,FirmSize.SMALL_FIRM,2,cimananotech.com,0
+L-3 Communications Cincinnati Electronics Corporation,cinele.com/,202.0,,,202.0,FirmSize.EU_MEDIUM_FIRM,3,cinele.com,0
+Cisco Technology,cisco.com/,14.0,39200.0,39186.0,39200.0,FirmSize.LARGE_FIRM,3,cisco.com,0
+Claret Medical,claretmedical.com/,44.0,,,44.0,FirmSize.SMALL_FIRM,2,claretmedical.com,0
+Clean Energy Labs,cleanenergylabs.com/,26.0,,,26.0,FirmSize.SMALL_FIRM,2,cleanenergylabs.com,0
+Clearside Biomedical,clearsidebio.com/,56.0,34.0,22.0,56.0,FirmSize.EU_MEDIUM_FIRM,1,clearsidebio.com,0
+CLEARSIGN COMBUSTION CORPORATION,clearsign.com/,24.0,17.0,7.0,24.0,FirmSize.SMALL_FIRM,0,clearsign.com,0
+CNH Industrial America LLC,cnhindustrial.com/en-us/Pages/Homepage.aspx,18140.0,32678.0,14538.0,32678.0,FirmSize.LARGE_FIRM,0,cnhindustrial.com,0
+Corporation for National Research Initiatives,cnri.reston.va.us/,17.0,,,17.0,FirmSize.SMALL_FIRM,2,cnri.reston.va.us,0
+Canon Nanotechnologies,cnt.canon.com/,78.0,80.0,2.0,80.0,FirmSize.EU_MEDIUM_FIRM,0,cnt.canon.com,0
+Coactive Drive Corporation,coactivehs.com/team/,24.0,,,24.0,FirmSize.SMALL_FIRM,2,coactivehs.com,0
+Codexis,codexis.com/,199.0,102.0,97.0,199.0,FirmSize.EU_MEDIUM_FIRM,0,codexis.com,0
+Senga Advisors,coengadvisors.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,coengadvisors.com,0
+Coleman Cable,colemancables.com/,178.0,2708.0,2530.0,2708.0,FirmSize.LARGE_FIRM,2,colemancables.com,0
+Colgate-Palmolive Company,colgatepalmolive.com/en-us,24464.0,,,24464.0,FirmSize.LARGE_FIRM,5,colgatepalmolive.com,0
+Columbia Insurance Company,colinsgrp.com/site/,254.0,5200.0,4946.0,5200.0,FirmSize.LARGE_FIRM,1,colinsgrp.com,0
+Coloplast A/S,coloplast.us/,7.0,,,7.0,FirmSize.MICRO_FIRM,1,coloplast.us,0
+Combined Energies,combined-energies.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,combined-energies.com,0
+Complete Genomics,completegenomics.com/,13.0,255.0,242.0,255.0,FirmSize.US_MEDIUM_FIRM,2,completegenomics.com,0
+Confluence Energy,confluenceenergy.com/,14.0,,,14.0,FirmSize.SMALL_FIRM,2,confluenceenergy.com,0
+Conoco Inc.,conoco.com/,21586.0,20000.0,1586.0,21586.0,FirmSize.LARGE_FIRM,0,conoco.com,0
+ConocoPhillips Company,conocophillips.com/,,11400.0,,11400.0,FirmSize.LARGE_FIRM,5,conocophillips.com,0
+Continental Manufacturing,continentalcommercialproducts.com/,11.0,162636.5,162625.5,162636.5,FirmSize.LARGE_FIRM,3,continentalcommercialproducts.com,0
+Conversant Intellectual Property Management Inc.,conversantip.com/,38.0,51.0,13.0,51.0,FirmSize.EU_MEDIUM_FIRM,1,conversantip.com,0
+Cook Biotech Incorporated,cookbiotech.com/,137.0,650.0,513.0,650.0,FirmSize.LARGE_FIRM,2,cookbiotech.com,0
+COOK MEDICAL TECHNOLOGIES LLC,cookmedical.com/,5229.0,1241.5,3987.5,5229.0,FirmSize.LARGE_FIRM,0,cookmedical.com,0
+CoolEarth Solar,coolearthsolar.com/,24.0,,,24.0,FirmSize.SMALL_FIRM,2,coolearthsolar.com,0
+Cool Planet Energy Systems,coolplanet.com/,103.0,,,103.0,FirmSize.EU_MEDIUM_FIRM,3,coolplanet.com,0
+Cooper Technologies Company,coopertechnologies.net/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,coopertechnologies.net,0
+Coriant Advanced Technology,coriant.com/,1255.0,,,1255.0,FirmSize.LARGE_FIRM,5,coriant.com,0
+Cornell Research Foundation,cornell.edu/research/,15986.0,,,15986.0,FirmSize.LARGE_FIRM,5,cornell.edu,0
+KT Corporation,corp.kt.com/eng/,6110.0,,,6110.0,FirmSize.LARGE_FIRM,5,corp.kt.com,0
+Dentsply International,corporate.dentsplysirona.com/en.html,6350.0,8150.0,1800.0,8150.0,FirmSize.LARGE_FIRM,0,corporate.dentsplysirona.com,0
+ExxonMobil Upstream Research Company,corporate.exxonmobil.com/,62362.0,1000.0,61362.0,62362.0,FirmSize.LARGE_FIRM,0,corporate.exxonmobil.com,1
+ExxonMobil Research and Engineering Company,corporate.exxonmobil.com/en/energy/research-and-development,,,,62362.0,FirmSize.LARGE_FIRM,0,corporate.exxonmobil.com,1
+Ford Global Technologies,corporate.ford.com/innovation.html,2.0,482.0,480.0,482.0,FirmSize.US_MEDIUM_FIRM,3,corporate.ford.com,0
+PPG Industries Ohio,corporate.ppg.com/Home.aspx,,47200.0,,47200.0,FirmSize.LARGE_FIRM,5,corporate.ppg.com,0
+Courtagen Life Sciences,courtagen.com/,16.0,,,16.0,FirmSize.SMALL_FIRM,2,courtagen.com,0
+COVERIS FLEXIBLES US LLC,coveris.com/,14.0,12.0,2.0,14.0,FirmSize.SMALL_FIRM,0,coveris.com,0
+Chevron Phillips Chemical Company LP,cpchem.com/,3923.0,5000.0,1077.0,5000.0,FirmSize.LARGE_FIRM,0,cpchem.com,0
+CP KELCO APS,cpkelco.com/,1249.0,,,1249.0,FirmSize.LARGE_FIRM,5,cpkelco.com,1
+CP Kelco U.S.,cpkelco.com/,1249.0,,,1249.0,FirmSize.LARGE_FIRM,5,cpkelco.com,1
+Community Power Corporation,cpwrfcu.org/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,cpwrfcu.org,0
+Cedar Ridge Research,cr-res.com/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,cr-res.com,0
+Cree,cree.com/,3034.0,6387.0,3353.0,6387.0,FirmSize.LARGE_FIRM,0,cree.com,0
+Crestovo LLC,crestovo.com/,,,,,FirmSize.UNDEFINED,0,crestovo.com,0
+Centre de Recherche Industrielle du Quebec,criq.qc.ca/fr/,125.0,,,125.0,FirmSize.EU_MEDIUM_FIRM,3,criq.qc.ca,0
+Cristal USA Inc.,cristal.com/,46.0,150.0,104.0,150.0,FirmSize.EU_MEDIUM_FIRM,1,cristal.com,0
+Bayer Cropscience AG,cropscience.bayer.com/,,,,,FirmSize.UNDEFINED,0,cropscience.bayer.com,0
+Crossbar,crossbar-inc.com/en/,73.0,20.0,53.0,73.0,FirmSize.EU_MEDIUM_FIRM,1,crossbar-inc.com,0
+Cross Match Technologies,crossmatch.com/,273.0,264.0,9.0,273.0,FirmSize.US_MEDIUM_FIRM,0,crossmatch.com,0
+Crystalplex Corporation,crystalplex.com/,7.0,,,7.0,FirmSize.MICRO_FIRM,1,crystalplex.com,0
+CSEM Centre Suisse d'Electronique et de Microtechnique SA-Recherche et Developpement,csem.ch/,,,,,FirmSize.UNDEFINED,0,csem.ch,0
+Commonwealth Scientific & Industrial Research Organization,csiro.au/,5432.0,,,5432.0,FirmSize.LARGE_FIRM,5,csiro.au,0
+CUMMINS FILTRATION IP,cumminsfiltration.com/,153.0,,,153.0,FirmSize.EU_MEDIUM_FIRM,3,cumminsfiltration.com,0
+Cura Vac,curavac.com/,,,,,FirmSize.UNDEFINED,0,curavac.com,0
+Custom Electronics Inc.,customelec.com/#!,3.0,,,3.0,FirmSize.MICRO_FIRM,1,customelec.com,0
+CYBERCITY 3D,cybercity3d.com/,12.0,,,12.0,FirmSize.SMALL_FIRM,2,cybercity3d.com,0
+CyboEnergy,cyboenergy.com/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,cyboenergy.com,0
+Cypress Semiconductor Corp.,cypress.com/,4335.0,6099.0,1764.0,6099.0,FirmSize.LARGE_FIRM,0,cypress.com,0
+Daikin Industries,daikin.com/,402.0,63251.5,62849.5,63251.5,FirmSize.LARGE_FIRM,1,daikin.com,0
+Dana-Farber Cancer Institute,dana-farber.org/,69000.0,,,69000.0,FirmSize.LARGE_FIRM,5,dana-farber.org,0
+Dana Corporation,dana.com/,9131.0,27500.0,18369.0,27500.0,FirmSize.LARGE_FIRM,0,dana.com,0
+Danisco US Inc.,danisco.com/food-beverages/,3087.0,4075.5,988.5,4075.5,FirmSize.LARGE_FIRM,0,danisco.com,0
+Daylight Solutions,daylightsolutions.com/,118.0,,,118.0,FirmSize.EU_MEDIUM_FIRM,3,daylightsolutions.com,0
+Da Yu Enterprises,dayuenterprises.com/,,,,,FirmSize.UNDEFINED,0,dayuenterprises.com,0
+DECA Technologies Inc.,decatechnologies.com/,318.0,300.0,18.0,318.0,FirmSize.US_MEDIUM_FIRM,0,decatechnologies.com,0
+Deep Science,deepscience.ai/,34.0,,,34.0,FirmSize.SMALL_FIRM,2,deepscience.ai,0
+DEKA Products Limited Partnership,dekaresearch.com/,559.0,2.0,557.0,559.0,FirmSize.LARGE_FIRM,4,dekaresearch.com,0
+Delavau LLC,delavaufood.com/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,delavaufood.com,0
+Delphi Technologies,delphi.com/new-delphi-technologies,11.0,19000.0,18989.0,19000.0,FirmSize.LARGE_FIRM,3,delphi.com,0
+Delta Electronics,deltaww.com/,19.0,17190.0,17171.0,17190.0,FirmSize.LARGE_FIRM,3,deltaww.com,0
+Great American Duck Races,demingduckrace.com/,28.0,,,28.0,FirmSize.SMALL_FIRM,2,demingduckrace.com,0
+Denso Corporation,denso.com/global/en/,10728.0,9952.0,776.0,10728.0,FirmSize.LARGE_FIRM,0,denso.com,0
+DePuy Synthes Products,depuysynthes.com/,,7610.0,,7610.0,FirmSize.LARGE_FIRM,5,depuysynthes.com,0
+Dermazone Solutions,dermazone.com/,11.0,,,11.0,FirmSize.SMALL_FIRM,2,dermazone.com,0
+Dexerials Corporation,dexerials.jp/en/,17.0,1002.5,985.5,1002.5,FirmSize.LARGE_FIRM,3,dexerials.jp,0
+GE Healthcare Dharmacon,dharmacon.horizondiscovery.com/,16.0,,,16.0,FirmSize.SMALL_FIRM,2,dharmacon.horizondiscovery.com,0
+DHPC TECHNOLOGIES,dhpctech.com/,140.0,65.0,75.0,140.0,FirmSize.EU_MEDIUM_FIRM,0,dhpctech.com,0
+Dialight Corporation,dialight.com/,666.0,1139.0,473.0,1139.0,FirmSize.LARGE_FIRM,0,dialight.com,0
+Dialogic Corporation,dialogic.com/,35.0,893.0,858.0,893.0,FirmSize.LARGE_FIRM,3,dialogic.com,0
+DIC Corporation,dictionary.com/,,20628.0,,20628.0,FirmSize.LARGE_FIRM,5,dictionary.com,0
+DiscoveRx Corporation,discoverx.com/home,138.0,,,138.0,FirmSize.EU_MEDIUM_FIRM,3,discoverx.com,0
+DISCOVERYBIOMED INC.,discoverybiomed.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,discoverybiomed.com,0
+SAMSUNG DISPLAY CO.,displaysolutions.samsung.com/,1438.0,10000.0,8562.0,10000.0,FirmSize.LARGE_FIRM,0,displaysolutions.samsung.com,0
+Dolby Laboratories Licensing Corporation,dolby.com/us/en/professional/licensing.html,1995.0,2151.0,156.0,2151.0,FirmSize.LARGE_FIRM,0,dolby.com,0
+Domtar Paper Company,domtar.com/en,61.0,20.0,41.0,61.0,FirmSize.EU_MEDIUM_FIRM,1,domtar.com,0
+Dow Global Technologies Inc.,dow.com/en-us,6.0,,,46200.0,FirmSize.LARGE_FIRM,1,dow.com,1
+Dow Technology Investments LLC,dow.com/en-us,4467.0,,,46200.0,FirmSize.LARGE_FIRM,5,dow.com,1
+Rohm and Haas Chemicals LLC,dow.com/en-us,1068.0,7747.0,6679.0,46200.0,FirmSize.LARGE_FIRM,0,dow.com,1
+Rohm and Haas Company,dow.com/en-us,1068.0,15490.0,14422.0,46200.0,FirmSize.LARGE_FIRM,0,dow.com,1
+Dow Corning Corporation,dow.com/en-us/dow-corning-integration,35616.0,46200.0,10584.0,46200.0,FirmSize.LARGE_FIRM,0,dow.com,1
+Dow AgroSciences LLC,dowagro.com/en-us/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,dowagro.com,0
+Rohm and Haas Electronic Materials LLC,dowelectronicmaterials.com/,216.0,7747.0,7531.0,7747.0,FirmSize.LARGE_FIRM,2,dowelectronicmaterials.com,0
+The Charles Stark Draper Laboratory,draper.com/,1661.0,1417.0,244.0,1661.0,FirmSize.LARGE_FIRM,0,draper.com,0
+Dresser-Rand Company,dresser-rand.com/,4597.0,65.0,4532.0,4597.0,FirmSize.LARGE_FIRM,2,dresser-rand.com,0
+Dr. Reddy's Laboratories Ltd.,drreddys.com/,14705.0,,,14705.0,FirmSize.LARGE_FIRM,5,drreddys.com,0
+DSP Group LTD.,dspg.com/,783.0,364.5,418.5,783.0,FirmSize.LARGE_FIRM,1,dspg.com,0
+Deployable Space Systems,dss-space.com/,19.0,,,19.0,FirmSize.SMALL_FIRM,2,dss-space.com,0
+E. I. du Pont de Nemours and Company,dupont.com/,33909.0,,,44000.0,FirmSize.LARGE_FIRM,5,dupont.com,1
+E. I. du Pont de Nemours and Company duPont Displays Inc,dupont.com/,33909.0,,,44000.0,FirmSize.LARGE_FIRM,5,dupont.com,1
+E.I. du Pont de Nemours and Company,dupont.com/,33909.0,44000.0,10091.0,44000.0,FirmSize.LARGE_FIRM,0,dupont.com,1
+Pioneer Hi Bred International Inc,dupont.com/corporate-functions/our-company/businesses/pioneer.html,6.0,,,44000.0,FirmSize.LARGE_FIRM,1,dupont.com,1
+Pioneer Hi-Bred,dupont.com/corporate-functions/our-company/businesses/pioneer.html,6.0,,,44000.0,FirmSize.LARGE_FIRM,1,dupont.com,1
+Pioneer Hi-Bred International,dupont.com/corporate-functions/our-company/businesses/pioneer.html,6.0,,,44000.0,FirmSize.LARGE_FIRM,1,dupont.com,1
+D-Wave Systems Inc.,dwavesys.com/,184.0,,,184.0,FirmSize.EU_MEDIUM_FIRM,3,dwavesys.com,0
+Dymax Corporation,dymax.com/,191.0,59.0,132.0,191.0,FirmSize.EU_MEDIUM_FIRM,0,dymax.com,0
+Dynamic Solutions Worldwide,dynatrap.com/,23.0,,,23.0,FirmSize.SMALL_FIRM,2,dynatrap.com,0
+Easel Biotechnologies,easelbio.com/,311.0,,,311.0,FirmSize.US_MEDIUM_FIRM,4,easelbio.com,0
+The Eastern Co.,easterncompany.com/,27.0,,,27.0,FirmSize.SMALL_FIRM,2,easterncompany.com,0
+Eastman Chemical Company,eastman.com/Pages/Home.aspx,8938.0,14000.0,5062.0,14000.0,FirmSize.LARGE_FIRM,0,eastman.com,1
+Solutia Inc.,eastman.com/Pages/solutia.aspx,12.0,3400.0,3388.0,14000.0,FirmSize.LARGE_FIRM,3,eastman.com,1
+Eaton Corporation,eaton.com/us/en-us.html,35.0,96000.0,95965.0,96000.0,FirmSize.LARGE_FIRM,3,eaton.com,0
+Echogen Power Systems,echogen.com/,20.0,,,20.0,FirmSize.SMALL_FIRM,2,echogen.com,0
+EchoStar Technologies LLC,echostar.com/,1518.0,2050.0,532.0,2050.0,FirmSize.LARGE_FIRM,0,echostar.com,0
+Ecolab Inc.,ecolab.com/,24443.0,48400.0,23957.0,48400.0,FirmSize.LARGE_FIRM,0,ecolab.com,1
+Nalco Company,ecolab.com/nalco-water,4430.0,11500.0,7070.0,48400.0,FirmSize.LARGE_FIRM,0,ecolab.com,1
+ECOSYNTHETIX LTD.,ecosynthetix.com/,20.0,30.0,10.0,30.0,FirmSize.SMALL_FIRM,0,ecosynthetix.com,0
+Ecovative Design,ecovativedesign.com/,38.0,70.0,32.0,70.0,FirmSize.EU_MEDIUM_FIRM,1,ecovativedesign.com,0
+SolarLego Inc.,education.lego.com/en-us/products/lego-solar-panel/9667,,,,,FirmSize.UNDEFINED,0,education.lego.com,0
+Egenera,egenera.com/,137.0,173.5,36.5,173.5,FirmSize.EU_MEDIUM_FIRM,0,egenera.com,0
+E Ink Corporation,eink.com/,516.0,,,516.0,FirmSize.LARGE_FIRM,5,eink.com,0
+Eisai Co.,eisai.com/index.html,2665.0,10437.5,7772.5,10437.5,FirmSize.LARGE_FIRM,0,eisai.com,0
+Express Imaging Systems,eiscallcenter.com/,6.0,100.0,94.0,100.0,FirmSize.EU_MEDIUM_FIRM,2,eiscallcenter.com,0
+ElectraTherm,electratherm.com/,24.0,,,24.0,FirmSize.SMALL_FIRM,2,electratherm.com,0
+Electrix,electrixillumination.com/,795.0,40100.0,39305.0,40100.0,FirmSize.LARGE_FIRM,0,electrixillumination.com,0
+Electrovaya Inc.,electrovaya.com/,,37.0,,37.0,FirmSize.SMALL_FIRM,2,electrovaya.com,0
+Element One,elementonescreens.com/,16.0,,,16.0,FirmSize.SMALL_FIRM,2,elementonescreens.com,0
+Elenion Technologies,elenion.com/,55.0,,,55.0,FirmSize.EU_MEDIUM_FIRM,3,elenion.com,0
+Elwha LLC,elwha.org/,108.0,,,108.0,FirmSize.EU_MEDIUM_FIRM,3,elwha.org,0
+Em-Tech LLC,em-techinc.com/,10.0,,,10.0,FirmSize.SMALL_FIRM,2,em-techinc.com,0
+EMC Corporation,emcins.com/,1644.0,72000.0,70356.0,72000.0,FirmSize.LARGE_FIRM,0,emcins.com,0
+EMD Technologies Inc.,emd-technologies.com/,66.0,2912.0,2846.0,2912.0,FirmSize.LARGE_FIRM,2,emd-technologies.com,0
+Empire Technology Development LLC,empirelabauto.com/index.html,3.0,,,3.0,FirmSize.MICRO_FIRM,1,empirelabauto.com,0
+Lumenco,en.lumenco.ca/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,en.lumenco.ca,0
+EPCOS AG,en.tdk-electronics.tdk.com/,,23609.5,,23609.5,FirmSize.LARGE_FIRM,5,en.tdk-electronics.tdk.com,0
+Energen,energen.com/,7.0,390.0,383.0,390.0,FirmSize.US_MEDIUM_FIRM,3,energen.com,0
+Energysolutions,energysolutions.com/,47.0,2500.0,2453.0,2500.0,FirmSize.LARGE_FIRM,3,energysolutions.com,0
+Quallion LLC,enersys.com/default.aspx?langType=1033,62.0,,,62.0,FirmSize.EU_MEDIUM_FIRM,3,enersys.com,0
+OPTERRA ENERGY SERVICES,engieservices.us/,97.0,,,97.0,FirmSize.EU_MEDIUM_FIRM,3,engieservices.us,0
+Enginuity Worldwide,enginuityww.webstarts.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,enginuityww.webstarts.com,0
+Englewood Lab,englewoodlab.com/,100.0,,,100.0,FirmSize.EU_MEDIUM_FIRM,3,englewoodlab.com,0
+ENI S.p.A.,eni.com/en_IT/home.page,30.0,5172.0,5142.0,18785.0,FirmSize.LARGE_FIRM,3,eni.com,1
+ENI Technology,eni.com/en_IT/innovation.page,2.0,18785.0,18783.0,18785.0,FirmSize.LARGE_FIRM,4,eni.com,1
+eNow,enowenergy.com/,12.0,,,12.0,FirmSize.SMALL_FIRM,2,enowenergy.com,0
+Ensyn Renewables,ensyn.com/,33.0,,,33.0,FirmSize.SMALL_FIRM,2,ensyn.com,0
+Entech Solar,entechsolutions.us/,15.0,18.0,3.0,18.0,FirmSize.SMALL_FIRM,0,entechsolutions.us,0
+Entegris,entegris.com/,2700.0,3500.0,800.0,3500.0,FirmSize.LARGE_FIRM,0,entegris.com,0
+CAMBRIDGE ENTERPRISE LIMITED,enterprise.cam.ac.uk/,66.0,,,66.0,FirmSize.EU_MEDIUM_FIRM,3,enterprise.cam.ac.uk,0
+InVisage Technologies,envisagenow.com/,35.0,,,35.0,FirmSize.SMALL_FIRM,2,envisagenow.com,0
+Envisionit LLC,envisionit.com/,58.0,,,58.0,FirmSize.EU_MEDIUM_FIRM,3,envisionit.com,0
+Envision Solar International,envisionsolar.com/,28.0,,,28.0,FirmSize.SMALL_FIRM,2,envisionsolar.com,0
+BASF Enzymes LLC,enzymes.basf.com/,,111.0,,111.0,FirmSize.EU_MEDIUM_FIRM,3,enzymes.basf.com,0
+Epizyme,epizyme.com/,149.0,97.5,51.5,149.0,FirmSize.EU_MEDIUM_FIRM,0,epizyme.com,0
+ESCAPE THERAPEUTICS,escapetherapeutics.com/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,escapetherapeutics.com,0
+Esolar,esolar.solar/,40.0,59100.0,59060.0,59100.0,FirmSize.LARGE_FIRM,3,esolar.solar,0
+Ethicon Endo-Surgery,ethicon.com/,5386.0,1440.0,3946.0,5386.0,FirmSize.LARGE_FIRM,0,ethicon.com,0
+Evri,everi.com/,151.0,1000.0,849.0,1000.0,FirmSize.LARGE_FIRM,2,everi.com,0
+Evernote Corporation,evernote.com/,488.0,400.0,88.0,488.0,FirmSize.US_MEDIUM_FIRM,0,evernote.com,0
+Everspin Technologies,everspin.com/,121.0,98.0,23.0,121.0,FirmSize.EU_MEDIUM_FIRM,0,everspin.com,0
+Evoqua Water Technologies LLC,evoqua.com/,2759.0,50.0,2709.0,2759.0,FirmSize.LARGE_FIRM,2,evoqua.com,0
+Electronic Warfare Associates,ewa.com/,353.0,,,353.0,FirmSize.US_MEDIUM_FIRM,4,ewa.com,0
+Extech/Exterior Technologies,extechinc.com/,29.0,,,29.0,FirmSize.SMALL_FIRM,2,extechinc.com,0
+ExxonMobil Chemical Patents Inc.,exxonmobilchemical.com/en,,,,,FirmSize.UNDEFINED,0,exxonmobilchemical.com,0
+Faurecia Interior Systems,faurecia.com/en,71.0,350.0,279.0,350.0,FirmSize.US_MEDIUM_FIRM,1,faurecia.com,0
+Federal Signal Corporation,federalsignal.com/,769.0,2800.0,2031.0,2800.0,FirmSize.LARGE_FIRM,0,federalsignal.com,0
+FEI Company,fei.com/careers/,2385.0,2800.0,415.0,2800.0,FirmSize.LARGE_FIRM,0,fei.com,0
+Ferro Corporation,ferro.com/,7.0,143.0,136.0,143.0,FirmSize.EU_MEDIUM_FIRM,2,ferro.com,0
+Fike Corporation,fike.com/,17.0,,,17.0,FirmSize.SMALL_FIRM,2,fike.com,0
+Fina Technology,finatg.com/,75.0,2802.0,2727.0,2802.0,FirmSize.LARGE_FIRM,2,finatg.com,0
+Finisar Corporation,finisar.com/,2410.0,13000.0,10590.0,13000.0,FirmSize.LARGE_FIRM,0,finisar.com,0
+First Solar,firstsolar.com/,3334.0,6350.0,3016.0,6350.0,FirmSize.LARGE_FIRM,0,firstsolar.com,0
+Flextronics AP,flex.com/,31.0,,,31.0,FirmSize.SMALL_FIRM,2,flex.com,0
+FLIR Systems,flir.com/,2870.0,2800.0,70.0,2870.0,FirmSize.LARGE_FIRM,0,flir.com,0
+Floadia Corporation,floadia.com/,61.0,,,61.0,FirmSize.EU_MEDIUM_FIRM,3,floadia.com,0
+FLOW CONTROL LLC.,flowcontrol.com/,10.0,,,10.0,FirmSize.SMALL_FIRM,2,flowcontrol.com,0
+Fluidigm Corporation,fluidigm.com/,517.0,502.5,14.5,517.0,FirmSize.LARGE_FIRM,0,fluidigm.com,0
+Forest Concepts,forestconcepts.com/,11.0,34250.0,34239.0,34250.0,FirmSize.LARGE_FIRM,3,forestconcepts.com,0
+Formula Plastics,formulaplastics.com/,18.0,,,18.0,FirmSize.SMALL_FIRM,2,formulaplastics.com,0
+Hon Hai Precision Industry Co.,foxconn.com/,224.0,503500.0,503276.0,503500.0,FirmSize.LARGE_FIRM,2,foxconn.com,0
+FPInnovations,fpinnovations.ca/,419.0,525.0,106.0,525.0,FirmSize.LARGE_FIRM,1,fpinnovations.ca,0
+FRONT EDGE TECHNOLOGY INC.,frontedgetechnology.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,frontedgetechnology.com,0
+Fuji Electric Co.,fujielectric.com/,165.0,26864.0,26699.0,26864.0,FirmSize.LARGE_FIRM,2,fujielectric.com,0
+FUJIFILM Corporation,fujifilm.com/,108.0,78150.0,78042.0,78150.0,FirmSize.LARGE_FIRM,2,fujifilm.com,0
+FUJIFILM Dimatix,fujifilmusa.com/products/industrial_inkjet_printheads/index.html,413.0,,,413.0,FirmSize.US_MEDIUM_FIRM,4,fujifilmusa.com,0
+Fujitsu Limited,fujitsu.com/global/,2070.0,140000.0,137930.0,140000.0,FirmSize.LARGE_FIRM,0,fujitsu.com,1
+Fujitsu Semiconductor Limited,fujitsu.com/jp/group/fsl/en/,167.0,,,140000.0,FirmSize.LARGE_FIRM,3,fujitsu.com,1
+Fuji Xerox Co.,fujixerox.com/eng,314.0,8023.0,7709.0,8023.0,FirmSize.LARGE_FIRM,1,fujixerox.com,0
+FULL CIRCLE BIOCHAR,fullcirclebiochar.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,fullcirclebiochar.com,0
+Furukawa Electric Co.,furukawa.co.jp/en/,215.0,51925.0,51710.0,51925.0,FirmSize.LARGE_FIRM,2,furukawa.co.jp,0
+fybr,fybr.com/,23.0,,,23.0,FirmSize.SMALL_FIRM,2,fybr.com,0
+Galectin Therapeutics,galectintherapeutics.com/,54.0,7.0,47.0,54.0,FirmSize.EU_MEDIUM_FIRM,2,galectintherapeutics.com,0
+Galemed Corporation,galemed.com/manager/eService/RC08-all_0225.pdf,33.0,,,33.0,FirmSize.SMALL_FIRM,2,galemed.com,0
+GangaGen,gangagen.com/,57.0,,,57.0,FirmSize.EU_MEDIUM_FIRM,3,gangagen.com,0
+Gardner-Gibson,gardner-gibson.com/,89.0,,,89.0,FirmSize.EU_MEDIUM_FIRM,3,gardner-gibson.com,0
+Garland Industries,garlandco.com/,25.0,,,25.0,FirmSize.SMALL_FIRM,2,garlandco.com,0
+Bi-Modal Corporation,gartner.com/it-glossary/bimodal,4.0,,,4.0,FirmSize.MICRO_FIRM,1,gartner.com,0
+Gas Technology Institute,gastechnology.org/,401.0,2900.0,2499.0,2900.0,FirmSize.LARGE_FIRM,1,gastechnology.org,0
+GCP Applied Technologies Inc.,gcpat.com/en,1000.0,2500.0,1500.0,2500.0,FirmSize.LARGE_FIRM,0,gcpat.com,0
+GENERAL ELECTRIC COMPANY,ge.com/,2534.0,313000.0,310466.0,313000.0,FirmSize.LARGE_FIRM,0,ge.com,0
+GED Intergrated Solution,gedusa.com/,111.0,,,111.0,FirmSize.EU_MEDIUM_FIRM,3,gedusa.com,0
+GE Healthcare Limited,gehealthcare.com/,51373.0,1930.0,49443.0,51373.0,FirmSize.LARGE_FIRM,0,gehealthcare.com,0
+Gemex Systems,gemex.com/,22.0,2.0,20.0,22.0,FirmSize.SMALL_FIRM,1,gemex.com,0
+Genentech,gene.com/,21609.0,13300.0,8309.0,21609.0,FirmSize.LARGE_FIRM,0,gene.com,0
+Genesco Inc.,genescopartners.com/,5.0,8200.0,8195.0,8200.0,FirmSize.LARGE_FIRM,4,genescopartners.com,0
+Genisphere,genisphere.com/,19.0,,,19.0,FirmSize.SMALL_FIRM,2,genisphere.com,0
+Genomatica,genomatica.com/,129.0,53.0,76.0,129.0,FirmSize.EU_MEDIUM_FIRM,0,genomatica.com,0
+Genomic Health,genomichealth.com/,992.0,863.0,129.0,992.0,FirmSize.LARGE_FIRM,0,genomichealth.com,0
+GIGA SOLAR FPC,gigasolarpv.com/,11.0,,,11.0,FirmSize.SMALL_FIRM,2,gigasolarpv.com,0
+Gilead Sciences,gilead.com/,11289.0,10000.0,1289.0,11289.0,FirmSize.LARGE_FIRM,0,gilead.com,0
+Gilead Connecticut,gileadcs.org/,,,,,FirmSize.UNDEFINED,0,gileadcs.org,0
+GlassPoint Solar,glasspoint.com/,205.0,,,205.0,FirmSize.EU_MEDIUM_FIRM,3,glasspoint.com,0
+GLIKNIK INC.,gliknik.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,gliknik.com,0
+Sumitomo Electric Industries,global-sei.com/,1151.0,240308.5,239157.5,240308.5,FirmSize.LARGE_FIRM,0,global-sei.com,0
+Canon Kabushiki Kaisha,global.canon/en/index.html,18.0,,,18.0,FirmSize.SMALL_FIRM,2,global.canon,0
+Seiko Epson Corporation,global.epson.com/,1759.0,67605.0,65846.0,67605.0,FirmSize.LARGE_FIRM,0,global.epson.com,0
+TDK Corporation,global.tdk.com/corp/en/index.htm,,93232.0,,93232.0,FirmSize.LARGE_FIRM,5,global.tdk.com,0
+Global Eagle Entertainment Inc.,globaleagle.com/,,753.5,,753.5,FirmSize.LARGE_FIRM,5,globaleagle.com,0
+Global Filtration Systems,globalfiltrationsystems.com/,28.0,,,28.0,FirmSize.SMALL_FIRM,2,globalfiltrationsystems.com,0
+GLOBALFOUNDRIES Inc.,globalfoundries.com/,12117.0,6004.0,6113.0,12117.0,FirmSize.LARGE_FIRM,0,globalfoundries.com,0
+Global OLED Technology LLC,globaloledtech.com/,48.0,,,48.0,FirmSize.SMALL_FIRM,2,globaloledtech.com,0
+Globus Medical,globusmedical.com/,1425.0,1005.0,420.0,1425.0,FirmSize.LARGE_FIRM,0,globusmedical.com,0
+Glucan Biorenewables LLC,glucanbio.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,glucanbio.com,0
+GLYCON LLC,glycon.com/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,glycon.com,0
+GENERAL MOTORS LLC,gm.com/,116648.0,,,116648.0,FirmSize.LARGE_FIRM,5,gm.com,0
+GOAL ZERO LLC,goalzero.com/,112.0,120.0,8.0,120.0,FirmSize.EU_MEDIUM_FIRM,0,goalzero.com,0
+GOJO Industries,gojo.com/,1310.0,1100.0,210.0,1310.0,FirmSize.LARGE_FIRM,0,gojo.com,0
+GOLBA LLC,golba.com/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,golba.com,0
+Tanaka Kikinzoku Kogyo K.K.,gold.tanaka.co.jp/english/,20.0,3600.0,3580.0,3600.0,FirmSize.LARGE_FIRM,3,gold.tanaka.co.jp,0
+G.D.O. Inc,golfdigest.co.jp/,45.0,,,45.0,FirmSize.SMALL_FIRM,2,golfdigest.co.jp,0
+The Goodyear Tire & Rubber Company,goodyear.com/,19074.0,64000.0,44926.0,64000.0,FirmSize.LARGE_FIRM,0,goodyear.com,0
+GOSOLARLIFE,gosolarlife.com/,,,,,FirmSize.UNDEFINED,0,gosolarlife.com,0
+GENCO SCIENCES LLC,gpen.com/,2571.0,,,2571.0,FirmSize.LARGE_FIRM,5,gpen.com,0
+Gracenote,gracenote.com/,1541.0,1025.0,516.0,1541.0,FirmSize.LARGE_FIRM,0,gracenote.com,0
+Grain Processing Corporation,grainprocessing.com/,307.0,656.0,349.0,656.0,FirmSize.LARGE_FIRM,1,grainprocessing.com,0
+Gram Power,grampower.com/about-us/,50.0,,,50.0,FirmSize.EU_MEDIUM_FIRM,3,grampower.com,0
+Grandis Inc.,grandis.com/,8.0,30.0,22.0,30.0,FirmSize.SMALL_FIRM,1,grandis.com,0
+Graphene Technologies,graphenetechnologies.com/,3.0,79.0,76.0,79.0,FirmSize.EU_MEDIUM_FIRM,2,graphenetechnologies.com,0
+Green Extraction Technologies,greenextractiontechnologiesllc.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,greenextractiontechnologiesllc.com,0
+Green Solar Transportation,greensolartransport.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,greensolartransport.com,0
+Greyrock Energy,greyrock.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,greyrock.com,0
+GROW ENERGY,growenergy.org/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,growenergy.org,0
+GlaxoSmithKline Biologicals,gsk.com/,26.0,8815.0,8789.0,8815.0,FirmSize.LARGE_FIRM,3,gsk.com,0
+Global Solar Water Power Systems,gswps.com/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,gswps.com,0
+Gtech Corporation,gtech.co.uk/,92.0,2046.0,1954.0,2046.0,FirmSize.LARGE_FIRM,2,gtech.co.uk,0
+GTherm,gtherm.net/,24.0,,,24.0,FirmSize.SMALL_FIRM,2,gtherm.net,0
+Guardian Industries,guardian.com/en/index.html,8.0,17000.0,16992.0,17000.0,FirmSize.LARGE_FIRM,4,guardian.com,0
+SunEdison Semiconductor Limited,gw-semi.com/,951.0,4400.0,3449.0,4400.0,FirmSize.LARGE_FIRM,0,gw-semi.com,0
+Hadasit Medical Research Services & Development Company Ltd.,hadasit.co.il/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,hadasit.co.il,0
+Halliburton Energy Services,halliburton.com/en-US/default.html,63780.0,55.0,63725.0,63780.0,FirmSize.LARGE_FIRM,2,halliburton.com,0
+HAMAMATSU PHOTONICS K.K.,hamamatsu.com/jp/en/index.html,369.0,4878.0,4509.0,4878.0,FirmSize.LARGE_FIRM,1,hamamatsu.com,0
+HARMAN INTERNATIONAL INDUSTRIES,harman.com/,12726.0,26598.5,13872.5,26598.5,FirmSize.LARGE_FIRM,0,harman.com,0
+Harris Corporation,harris.com/,488.0,17500.0,17012.0,17500.0,FirmSize.LARGE_FIRM,1,harris.com,0
+H R D CORPORATION,haywardrec.org/,76.0,,,76.0,FirmSize.EU_MEDIUM_FIRM,3,haywardrec.org,0
+Headway Technologies,headway.com/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,headway.com,0
+Heat Seal LLC,heatsealco.com/,11.0,,,11.0,FirmSize.SMALL_FIRM,2,heatsealco.com,0
+Heidelberger Druckmaschinen AG,heidelberg.com/,2789.0,11523.0,8734.0,11523.0,FirmSize.LARGE_FIRM,0,heidelberg.com,0
+Heliae Development,heliae.com/,72.0,,,72.0,FirmSize.EU_MEDIUM_FIRM,3,heliae.com,0
+Helios Focus LLC,heliosfocus.com/,69.0,,,69.0,FirmSize.EU_MEDIUM_FIRM,3,heliosfocus.com,0
+Henkel AG & Co. KGaA,henkel.com/,1876.0,54995.5,53119.5,54995.5,FirmSize.LARGE_FIRM,0,henkel.com,0
+Heraeus Precious Metals North America Conshohocken LLC,heraeus.com/us/group/home/home.aspx,2975.0,150.0,2825.0,2975.0,FirmSize.LARGE_FIRM,2,heraeus.com,0
+HGST NETHERLANDS B.V.,hgst.com/,4913.0,,,4913.0,FirmSize.LARGE_FIRM,5,hgst.com,0
+HIQ SOLAR,hiqsolar.com/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,hiqsolar.com,0
+Hitachi High-Technologies Corporation,hitachi-hightech.com/global/,62.0,10898.0,10836.0,10898.0,FirmSize.LARGE_FIRM,2,hitachi-hightech.com,0
+Hitachi,hitachi.com/,10457.0,319565.5,309108.5,319565.5,FirmSize.LARGE_FIRM,0,hitachi.com,0
+Hitachi Metals,hitachimetals.com/,276.0,16246.5,15970.5,16246.5,FirmSize.LARGE_FIRM,1,hitachimetals.com,0
+The Henry M. Jackson Foundation for the Advancement of Military Medicine,hjf.org/,1380.0,250.0,1130.0,1380.0,FirmSize.LARGE_FIRM,1,hjf.org,0
+HM3 Energy,hm3energy.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,hm3energy.com,0
+HNO Greenfuels,hnogreenfuels.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,hnogreenfuels.com,0
+Hollingsworth & Vose Company,hollingsworth-vose.com/,14.0,,,14.0,FirmSize.SMALL_FIRM,2,hollingsworth-vose.com,0
+Hollywood Trucks,hollywoodtrucksllc.com/,14.0,,,14.0,FirmSize.SMALL_FIRM,2,hollywoodtrucksllc.com,0
+GEN-PROBE INCORPORATED,hologic.com/,703.0,,,703.0,FirmSize.LARGE_FIRM,5,hologic.com,0
+Honda Motor Co.,honda.com/,8107.0,27500.0,19393.0,27500.0,FirmSize.LARGE_FIRM,0,honda.com,0
+Honeywell International Inc.,honeywell.com/,9.0,131000.0,130991.0,131000.0,FirmSize.LARGE_FIRM,4,honeywell.com,0
+Hosiden Corporation,hosiden.com/,25.0,8805.5,8780.5,8805.5,FirmSize.LARGE_FIRM,3,hosiden.com,0
+HOWARD INDUSTRIES,howard-ind.com/,24.0,560.0,536.0,560.0,FirmSize.LARGE_FIRM,3,howard-ind.com,0
+Hoya Corporation,hoyavision.com/,1121.0,37208.5,36087.5,37208.5,FirmSize.LARGE_FIRM,0,hoyavision.com,0
+Hewlett Packard Enterprise Development LP,hpe.com/us/en/home.html,212204.0,60000.0,152204.0,212204.0,FirmSize.LARGE_FIRM,0,hpe.com,0
+HRL Laboratories,hrl.com/,483.0,,,483.0,FirmSize.US_MEDIUM_FIRM,4,hrl.com,0
+HTC Corporation,htc.com/us/,291.0,9706.5,9415.5,9706.5,FirmSize.LARGE_FIRM,1,htc.com,0
+HTS,htstechnologies.com/,3.0,200.0,197.0,200.0,FirmSize.EU_MEDIUM_FIRM,2,htstechnologies.com,0
+Narsys,narsystech.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,narsystech.com,0
+Texas Instruments Deutschland GmbH,ti.com/,25182.0,29714.0,4532.0,29714.0,FirmSize.LARGE_FIRM,0,ti.com,1
+King Electric Vehicles Inc.,king-electric.com/,2.0,90.0,88.0,90.0,FirmSize.EU_MEDIUM_FIRM,2,king-electric.com,0
+FutureWei Technologies,huawei.com/us/,301.0,140.0,161.0,301.0,FirmSize.US_MEDIUM_FIRM,1,huawei.com,0
+Humanetics Corporation,humaneticsatd.com/,262.0,,,262.0,FirmSize.US_MEDIUM_FIRM,4,humaneticsatd.com,0
+Hunt Energy Enterprises LLC,huntenergyenterprises.com/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,huntenergyenterprises.com,0
+Hunter Douglas Inc.,hunterdouglas.com/,2344.0,22744.0,20400.0,22744.0,FirmSize.LARGE_FIRM,0,hunterdouglas.com,0
+Diamond Innovations,hyperionmt.com/,25.0,2000.0,1975.0,2000.0,FirmSize.LARGE_FIRM,3,hyperionmt.com,0
+Hysitron Incorporated,hysitron.com/,44.0,,,44.0,FirmSize.SMALL_FIRM,2,hysitron.com,0
+Hyundai Motor Company,hyundaiusa.com/,253.0,133731.5,133478.5,133731.5,FirmSize.LARGE_FIRM,1,hyundaiusa.com,0
+The Iams Company,iams.com/,4.0,300.0,296.0,300.0,FirmSize.US_MEDIUM_FIRM,3,iams.com,0
+iBio,ibioinc.com/,36.0,39.5,3.5,39.5,FirmSize.SMALL_FIRM,0,ibioinc.com,0
+International Business Machines Corporation,ibm.com/us-en/,16.0,183725.0,183709.0,183725.0,FirmSize.LARGE_FIRM,3,ibm.com,0
+IDEALAB,idealab.com/,12.0,,,12.0,FirmSize.SMALL_FIRM,2,idealab.com,0
+Ideal Power Inc.,idealpower.com/,29.0,19.0,10.0,29.0,FirmSize.SMALL_FIRM,0,idealpower.com,0
+IDEA TREE,ideatreepromos.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,ideatreepromos.com,0
+IDEX Health & Science LLC,idex-hs.com/,181.0,,,181.0,FirmSize.EU_MEDIUM_FIRM,3,idex-hs.com,0
+Integrated Device Technology,idt.com/,1936.0,1821.0,115.0,1936.0,FirmSize.LARGE_FIRM,0,idt.com,0
+Integrated DNA Technologies,idtdna.com/,904.0,640.0,264.0,904.0,FirmSize.LARGE_FIRM,0,idtdna.com,0
+Ignis Innovation,ignisinnovation.com/,32.0,,,32.0,FirmSize.SMALL_FIRM,2,ignisinnovation.com,0
+Innovation Hammer,ihammerllc.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,ihammerllc.com,0
+II-VI Incorporated,ii-vi.com/,10.0,,,10.0,FirmSize.SMALL_FIRM,2,ii-vi.com,0
+NanoOncology,iinano.org/nanooncology,6.0,,,6.0,FirmSize.MICRO_FIRM,1,iinano.org,0
+Intellectual Keystone Technology LLC,ikt.us.com/,106.0,,,106.0,FirmSize.EU_MEDIUM_FIRM,3,ikt.us.com,0
+IMDS Corporation,imds-ohio.com,9.0,,,9.0,FirmSize.MICRO_FIRM,1,imds-ohio.com,0
+IMEC,imec.org/,2639.0,2000.5,638.5,2639.0,FirmSize.LARGE_FIRM,0,imec.org,0
+Immunolight,immunolight.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,immunolight.com,0
+Imperial Innovations Limited,imperialinnovations.co.uk/,157.0,,,157.0,FirmSize.EU_MEDIUM_FIRM,3,imperialinnovations.co.uk,0
+IMRA America,imra.com/,90.0,,,90.0,FirmSize.EU_MEDIUM_FIRM,3,imra.com,0
+B.G. Negev Technologies and Applications Ltd.,in.bgu.ac.il/en/bgn/Pages/default.aspx,,,,,FirmSize.UNDEFINED,0,in.bgu.ac.il,0
+Inaeris Technologies,inaeristech.com/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,inaeristech.com,0
+iNanoBio LLC,inanobio.com/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,inanobio.com,0
+Incept LLC,inceptresults.com/,140.0,,,140.0,FirmSize.EU_MEDIUM_FIRM,3,inceptresults.com,0
+Incyte Holdings Corporation,incyte.com/,9.0,980.0,971.0,980.0,FirmSize.LARGE_FIRM,4,incyte.com,0
+American Air Liquide,industry.airliquide.us/,28694.0,32900.0,4206.0,32900.0,FirmSize.LARGE_FIRM,0,industry.airliquide.us,0
+INENTEC INC.,inentec.com/,12.0,,,12.0,FirmSize.SMALL_FIRM,2,inentec.com,0
+Infineon Technologies AG,infineon.com/,17028.0,40098.0,23070.0,40098.0,FirmSize.LARGE_FIRM,0,infineon.com,1
+Infineon Technologies Americas Corp.,infineon.com/,17028.0,2532.5,14495.5,40098.0,FirmSize.LARGE_FIRM,0,infineon.com,1
+Infinera Corporation,infinera.com/,15.0,2145.0,2130.0,2145.0,FirmSize.LARGE_FIRM,3,infinera.com,0
+INFINEUM INTERNATIONAL LIMITED,infineum.com/,13.0,1005.5,992.5,1005.5,FirmSize.LARGE_FIRM,3,infineum.com,0
+Innolux Corporation,innolux.com/Pages/EN/Index_EN.html,2130.0,60420.0,58290.0,60420.0,FirmSize.LARGE_FIRM,0,innolux.com,0
+Inphenix,inphenix.com/,32.0,,,32.0,FirmSize.SMALL_FIRM,2,inphenix.com,0
+Instron Corporation ,instron.us/en-us?region=North%20America,953.0,2000.0,1047.0,2000.0,FirmSize.LARGE_FIRM,0,instron.us,0
+Greatbatch Ltd.,integer.net/,1246.0,10.0,1236.0,1246.0,FirmSize.LARGE_FIRM,3,integer.net,0
+Intel Corporation,intel.com/content/us/en/homepage.html,3.0,96350.0,96347.0,96350.0,FirmSize.LARGE_FIRM,4,intel.com,0
+Interez,interez.sk/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,interez.sk,0
+Interface Performance Materials,interfacematerials.com/products/,141.0,219.0,78.0,219.0,FirmSize.EU_MEDIUM_FIRM,0,interfacematerials.com,0
+Intermolecular,intermolecular.com/,135.0,105.0,30.0,135.0,FirmSize.EU_MEDIUM_FIRM,0,intermolecular.com,0
+INTEVAC,intevac.com/,264.0,281.0,17.0,281.0,FirmSize.US_MEDIUM_FIRM,0,intevac.com,0
+Integrated Nano-Technologies,intpalladium.com/,11.0,,,11.0,FirmSize.SMALL_FIRM,2,intpalladium.com,0
+IntriEnergy Inc.,intrienergy.com/#!,,,,,FirmSize.UNDEFINED,0,intrienergy.com,0
+Intuitive Surgical Operations,intuitive.com/,4719.0,2313.5,2405.5,4719.0,FirmSize.LARGE_FIRM,0,intuitive.com,0
+Invensas Corporation,invensas.com/,835.0,,,835.0,FirmSize.LARGE_FIRM,5,invensas.com,1
+Ziptronix,invensas.com/,8.0,,,835.0,FirmSize.LARGE_FIRM,1,invensas.com,1
+Inventus Holdings,inventusholdings.com/,219.0,200.0,19.0,219.0,FirmSize.EU_MEDIUM_FIRM,0,inventusholdings.com,0
+aTyr Pharma,investors.atyrpharma.com/,65.0,54.5,10.5,65.0,FirmSize.EU_MEDIUM_FIRM,0,investors.atyrpharma.com,0
+InView Technology Corporation,inview.tv/,76.0,,,76.0,FirmSize.EU_MEDIUM_FIRM,3,inview.tv,0
+INVISTA North America S.a.r.l.,invista.com/,4658.0,,,4658.0,FirmSize.LARGE_FIRM,5,invista.com,0
+Iogen Corporation,iogen.ca/,64.0,3789.0,3725.0,3789.0,FirmSize.LARGE_FIRM,2,iogen.ca,0
+Isis Pharmaceuticals,ionispharma.com/,560.0,,,560.0,FirmSize.LARGE_FIRM,5,ionispharma.com,0
+Ion Power Group,ionpowergroup.com/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,ionpowergroup.com,0
+Quest Diagnostics Investments Incorporated,ir.questdiagnostics.com/,20531.0,45000.0,24469.0,45000.0,FirmSize.LARGE_FIRM,0,ir.questdiagnostics.com,0
+Industrial Science & Technology Network,istninc.com/home.htm,2.0,,,2.0,FirmSize.MICRO_FIRM,1,istninc.com,0
+International Technology Center,itc-inc.org/,10.0,12000.0,11990.0,12000.0,FirmSize.LARGE_FIRM,3,itc-inc.org,0
+ITN Energy Systems,itnes.com/,28.0,,,28.0,FirmSize.SMALL_FIRM,2,itnes.com,0
+Industrial Technology Research Institute,itri.org.tw/eng/,6.0,6000.0,5994.0,6000.0,FirmSize.LARGE_FIRM,4,itri.org.t,0
+Illinois Tool Works,itw.com/,5604.0,50000.0,44396.0,50000.0,FirmSize.LARGE_FIRM,0,itw.com,0
+Ivoclar Vivadent AG,ivoclarvivadent.com/,1269.0,,,1269.0,FirmSize.LARGE_FIRM,5,ivoclarvivadent.com,0
+JOLED Inc.,j-oled.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,j-oled.com,0
+JAC Products Inc.,jacproducts.com/,629.0,3273.5,2644.5,3273.5,FirmSize.LARGE_FIRM,0,jacproducts.com,0
+Janssen Biotech,janssen.com/,17858.0,14600.0,3258.0,17858.0,FirmSize.LARGE_FIRM,0,janssen.com,0
+The Jackson Laboratory,jax.org/,,1725.0,,1725.0,FirmSize.LARGE_FIRM,5,jax.org,0
+J. E. WHITE,jewhites.com.au/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,jewhites.com.au,0
+JFE STEEL CORPORATION,jfe-steel.co.jp/en/,23.0,51526.0,51503.0,51526.0,FirmSize.LARGE_FIRM,3,jfe-steel.co.jp,0
+Johnson & Johnson Vision Care,jjvision.com/,3891.0,735.0,3156.0,3891.0,FirmSize.LARGE_FIRM,0,jjvision.com,0
+Johns Manville,jm.com/,2614.0,5082.5,2468.5,5082.5,FirmSize.LARGE_FIRM,0,jm.com,0
+JNC Corporation,jncwheels.com/,,1596.5,,1596.5,FirmSize.LARGE_FIRM,5,jncwheels.com,0
+Johnson & Johnson Consumer Companies,jnj.com/healthcare-products/consumer,86737.0,134000.0,47263.0,134000.0,FirmSize.LARGE_FIRM,0,jnj.com,0
+Johnson Controls Technology Company,johnsoncontrols.com/about-us/our-company,57744.0,139000.0,81256.0,139000.0,FirmSize.LARGE_FIRM,0,johnsoncontrols.com,0
+JSR Corporation,jsr.vccs.edu/,,7203.0,,7203.0,FirmSize.LARGE_FIRM,5,jsr.vccs.edu,0
+k-Space Associates,k-space.com/,16.0,,,16.0,FirmSize.SMALL_FIRM,2,k-space.com,0
+Kajima Corporation,kajimausa.com/,157.0,16560.5,16403.5,16560.5,FirmSize.LARGE_FIRM,2,kajimausa.com,0
+Kala Pharmaceuticals,kalarx.com/,129.0,21.5,107.5,129.0,FirmSize.EU_MEDIUM_FIRM,1,kalarx.com,0
+Kamtec,kamtec.co.uk/,27.0,,,27.0,FirmSize.SMALL_FIRM,2,kamtec.co.uk,0
+Kaneka Corporation,kaneka.co.jp/en/,180.0,10234.0,10054.0,10234.0,FirmSize.LARGE_FIRM,2,kaneka.co.jp,0
+Kansai Paint Co.,kansai.com/,212.0,7870.5,7658.5,7870.5,FirmSize.LARGE_FIRM,2,kansai.com,0
+Kashiv Pharma,kashivpharma.com/,100.0,,,100.0,FirmSize.EU_MEDIUM_FIRM,3,kashivpharma.com,0
+Kemira OY,kemira.com/,2759.0,3649.0,890.0,3649.0,FirmSize.LARGE_FIRM,0,kemira.com,0
+Kerr Corporation,kerrdental.com/,418.0,363.0,55.0,418.0,FirmSize.US_MEDIUM_FIRM,0,kerrdental.com,0
+Kia Motors Corporation ,kia.com/us/en/home,2819.0,22346.0,19527.0,22346.0,FirmSize.LARGE_FIRM,0,kia.com,0
+Fenwal,kidde-fenwal.com/,199.0,1447.5,1248.5,1447.5,FirmSize.LARGE_FIRM,2,kidde-fenwal.com,0
+Kimberly-Clark Worldwide,kimberly-clark.com/en-us,10.0,,,10.0,FirmSize.SMALL_FIRM,2,kimberly-clark.com,0
+Kinestral Technologies,kinestral.com/,114.0,105.0,9.0,114.0,FirmSize.EU_MEDIUM_FIRM,0,kinestral.com,0
+Kinetech Power Company LLC,kinetechpower.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,kinetechpower.com,0
+KINO LLC,kinolorber.com/,37.0,,,37.0,FirmSize.SMALL_FIRM,2,kinolorber.com,0
+Kiverdi,kiverdi.com/,,,,,FirmSize.UNDEFINED,0,kiverdi.com,0
+KJ BIOSCIENCES LLC,kjbiosciences.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,kjbiosciences.com,0
+KLA-Tencor Corporation,kla-tencor.com/,6966.0,,,6966.0,FirmSize.LARGE_FIRM,5,kla-tencor.com,0
+Kobe Steel,kobelco.co.jp/english/,200.0,36019.0,35819.0,36019.0,FirmSize.LARGE_FIRM,2,kobelco.co.jp,0
+Koch Biological Solutions,kochbiologicalsolutions.com/,46.0,65.0,19.0,65.0,FirmSize.EU_MEDIUM_FIRM,1,kochbiologicalsolutions.com,0
+Eastman Kodak Company,kodak.com/us/en/corp/default.htm,8668.0,13100.0,4432.0,13100.0,FirmSize.LARGE_FIRM,0,kodak.com,0
+Kodak Alaris Inc.,kodakalaris.com/,1683.0,700.0,983.0,1683.0,FirmSize.LARGE_FIRM,0,kodakalaris.com,0
+KOLO TECHNOLOGIES,kolomedical.com/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,kolomedical.com,0
+KOLON INDUSTRIES,kolonindustries.com/eng/main.asp,393.0,703.0,310.0,703.0,FirmSize.LARGE_FIRM,1,kolonindustries.com,0
+Kraton Polymers U.S. LLC,kraton.com/,,867.0,,867.0,FirmSize.LARGE_FIRM,5,kraton.com,0
+KR Design House,krdesignhouse.com/,29.0,,,29.0,FirmSize.SMALL_FIRM,2,krdesignhouse.com,0
+Kronos International Inc,kronos.com/,6823.0,2245.0,4578.0,6823.0,FirmSize.LARGE_FIRM,0,kronos.com,0
+K.S. INTERNATIONAL CO.,ksandco.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,ksandco.com,0
+KUBIX INC.,kuebix.com/,10.0,,,10.0,FirmSize.SMALL_FIRM,2,kuebix.com,0
+Kulite Semiconductor Products,kulite.com/,195.0,,,195.0,FirmSize.EU_MEDIUM_FIRM,3,kulite.com,0
+Korea Kumho Petrochemical Co.,kumhopetrochemical.lookchem.com/,112.0,1323.5,1211.5,1323.5,FirmSize.LARGE_FIRM,2,kumhopetrochemical.lookchem.com,0
+Kureha Corporation,kureha.co.jp/en/,14.0,2327.0,2313.0,2327.0,FirmSize.LARGE_FIRM,3,kureha.co.jp,0
+KYOCERA DOCUMENT SOLUTIONS INC.,kyoceradocumentsolutions.com/,41.0,2300.0,2259.0,2300.0,FirmSize.LARGE_FIRM,3,kyoceradocumentsolutions.com,0
+Lake Lite,lakelite.com/,573.0,,,573.0,FirmSize.LARGE_FIRM,5,lakelite.com,0
+Lam Research Corporation,lamresearch.com/,8135.0,9400.0,1265.0,9400.0,FirmSize.LARGE_FIRM,0,lamresearch.com,1
+Novellus Systems,lamresearch.com/,886.0,1468.0,582.0,9400.0,FirmSize.LARGE_FIRM,0,lamresearch.com,1
+Landauer,landauer.com/,15.0,560.0,545.0,560.0,FirmSize.LARGE_FIRM,3,landauer.com,0
+Los Alamos National Security,lansllc.com/,8066.0,,,8066.0,FirmSize.LARGE_FIRM,5,lansllc.com,0
+Laserline Mfg.,laserlinemfg.com/,21.0,,,21.0,FirmSize.SMALL_FIRM,2,laserlinemfg.com,0
+LATITUDE PHARMACEUTICALS INC.,latitudepharma.com/,23.0,,,23.0,FirmSize.SMALL_FIRM,2,latitudepharma.com,0
+Lattice Semiconductor Corporation,latticesemi.com/,1004.0,834.0,170.0,1004.0,FirmSize.LARGE_FIRM,0,latticesemi.com,0
+Leap Frogg,leapfrog.com/en-us/home,3.0,,,3.0,FirmSize.MICRO_FIRM,1,leapfrog.com,0
+Lehigh Technologies,lehightechnologies.com/,49.0,50.0,1.0,50.0,FirmSize.EU_MEDIUM_FIRM,1,lehightechnologies.com,0
+DRS Network & Imaging Systems,leonardodrs.com/,3682.0,1.0,3681.0,3682.0,FirmSize.LARGE_FIRM,4,leonardodrs.com,0
+Lextar Electronics Corp.,lextar.com/?sn=32&lang=en-US,216.0,200.0,16.0,216.0,FirmSize.EU_MEDIUM_FIRM,0,lextar.com,0
+LG Electronics Inc.,lg.com/us,44484.0,,,44484.0,FirmSize.LARGE_FIRM,5,lg.com,0
+LG Display Co.,lgdisplay.com/eng/main,4584.0,,,4584.0,FirmSize.LARGE_FIRM,5,lgdisplay.com,0
+LGS Innovations LLC,lgsinnovations.com/,1053.0,,,1053.0,FirmSize.LARGE_FIRM,5,lgsinnovations.com,0
+LG NANOH2O,lgwatersolutions.com/en/main,2.0,,,2.0,FirmSize.MICRO_FIRM,1,lgwatersolutions.com,0
+Longhorn Vaccines and Diagnostics,lhnvd.com/news#!,7.0,,,7.0,FirmSize.MICRO_FIRM,1,lhnvd.com,0
+LifeNet Health,lifenethealth.org/,753.0,15187.5,14434.5,15187.5,FirmSize.LARGE_FIRM,0,lifenethealth.org,0
+Linne Industries LLC,linneindustries.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,linneindustries.com,0
+Lintec Corporation,lintec-global.com/,9.0,4794.0,4785.0,4794.0,FirmSize.LARGE_FIRM,4,lintec-global.com,0
+Lion Copolymer Geismar,lionelastomers.com/,137.0,224.0,87.0,224.0,FirmSize.EU_MEDIUM_FIRM,0,lionelastomers.com,0
+LIQUID X PRINTED METALS,liquid-x.com/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,liquid-x.com,0
+Liquidia Technologies,liquidia.com/,73.0,,,73.0,FirmSize.EU_MEDIUM_FIRM,3,liquidia.com,0
+Litron Laboratories Limited,litronlabs.com/,17.0,,,17.0,FirmSize.SMALL_FIRM,2,litronlabs.com,0
+Little Kids,littlekidsinc.com/,58.0,,,58.0,FirmSize.EU_MEDIUM_FIRM,3,littlekidsinc.com,0
+Cyberonics,livanova.cyberonics.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,livanova.cyberonics.com,0
+Livetv,livetv.sx/enx/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,livetv.sx,0
+Lawrence Livermore National Security,llnsllc.com/,6069.0,,,6069.0,FirmSize.LARGE_FIRM,5,llnsllc.com,0
+Lockheed Martin Corporation,lockheedmartin.com/en-us/index.html,92618.0,100000.0,7382.0,100000.0,FirmSize.LARGE_FIRM,0,lockheedmartin.com,0
+Locus Energy,locusenergy.com/,53.0,,,53.0,FirmSize.EU_MEDIUM_FIRM,3,locusenergy.com,0
+Lof Solar Corporation,lofsolar.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,lofsolar.com,0
+Lovelace Respiratory Research Institute,lrri.org/,240.0,,,240.0,FirmSize.EU_MEDIUM_FIRM,3,lrri.org,0
+LUCERA LABS,luceralabs.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,luceralabs.com,0
+Matrix Genetics,lumenbioscience.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,lumenbioscience.com,0
+Lumentum Operations LLC,lumentum.com/en,1294.0,2493.5,1199.5,2493.5,FirmSize.LARGE_FIRM,0,lumentum.com,0
+Gestion Ultra International Inc.,luminultra.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,luminultra.com,0
+Luna Innovations Incorporated,lunainc.com/,318.0,166.0,152.0,318.0,FirmSize.US_MEDIUM_FIRM,1,lunainc.com,0
+Lux Bio Group,luxbiogroup.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,luxbiogroup.com,0
+Basell Polyolefine GmbH,lyondellbasell.com/,49.0,,,49.0,FirmSize.SMALL_FIRM,2,lyondellbasell.com,0
+Mitsubishi Polyester Film,m-petfilm.com/,246.0,,,246.0,FirmSize.EU_MEDIUM_FIRM,3,m-petfilm.com,0
+MATERIALS ANALYSIS TECHNOLOGY (US) CORP.,ma-tek.com/about_us.php?act=rd,30.0,,,30.0,FirmSize.SMALL_FIRM,2,ma-tek.com,0
+Macronix International Co.,macronix.com/en-us/Pages/default.aspx,795.0,4269.5,3474.5,4269.5,FirmSize.LARGE_FIRM,0,macronix.com,0
+Magna International Inc.,magna.com/,189.0,168000.0,167811.0,168000.0,FirmSize.LARGE_FIRM,2,magna.com,0
+Magnachip Semiconductor,magnachip.com/,289.0,2520.0,2231.0,2520.0,FirmSize.LARGE_FIRM,1,magnachip.com,0
+Magnolia Optical Technologies,magnoliaoptical.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,magnoliaoptical.com,0
+Magnolia Solar,magnoliasolar.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,magnoliasolar.com,0
+Magnolia Solar,magnoliasolar.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,magnoliasolar.com,0
+MAHLE International GmbH,mahle.com/,8.0,78277.0,78269.0,78277.0,FirmSize.LARGE_FIRM,4,mahle.com,0
+Mainstream Engineering Corp.,mainstream-engr.com/,86.0,,,86.0,FirmSize.EU_MEDIUM_FIRM,3,mainstream-engr.com,0
+Manta Instruments,mantainc.com/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,mantainc.com,0
+Marathon Equipment Company,marathonequipment.com/,44.0,,,44.0,FirmSize.SMALL_FIRM,2,marathonequipment.com,0
+Marine Biotech Inc.,marinebiotech.eu/,9.0,36.0,27.0,36.0,FirmSize.SMALL_FIRM,1,marinebiotech.eu,0
+Marine Polymer Technologies,marinepolymer.com/,34.0,35.0,1.0,35.0,FirmSize.SMALL_FIRM,0,marinepolymer.com,0
+Markel Corporation,markelcorp.com/,2385.0,15600.0,13215.0,15600.0,FirmSize.LARGE_FIRM,0,markelcorp.com,0
+Masimo Semiconductor,masimosemiconductor.com/masimo-semiconductor/,1966.0,3500.0,1534.0,3500.0,FirmSize.LARGE_FIRM,0,masimosemiconductor.com,0
+Materia,materia-inc.com/,81.0,120.0,39.0,120.0,FirmSize.EU_MEDIUM_FIRM,0,materia-inc.com,0
+Johnson Matthey PLC,matthey.com/,7034.0,12327.0,5293.0,12327.0,FirmSize.LARGE_FIRM,0,matthey.com,0
+Mattson Technology,mattson.com/,106000.0,298.0,105702.0,106000.0,FirmSize.LARGE_FIRM,1,mattson.com,0
+Maxim Integrated Products,maximintegrated.com/en.html,25.0,7149.0,7124.0,7149.0,FirmSize.LARGE_FIRM,3,maximintegrated.com,0
+MAXLINEAR,maxlinear.com/,642.0,753.0,111.0,753.0,FirmSize.LARGE_FIRM,0,maxlinear.com,0
+Maxout Renewables,maxoutrenewables.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,maxoutrenewables.com,0
+MONTEREY RESEARCH,mbari.org/,172.0,,,172.0,FirmSize.EU_MEDIUM_FIRM,3,mbari.org,0
+MBC Ventures,mbc.net/en/corporate/ventures/about,5.0,,,5.0,FirmSize.MICRO_FIRM,1,mbc.net,0
+Michigan Biotechnology Institute,mbi.org/,51.0,,,51.0,FirmSize.EU_MEDIUM_FIRM,3,mbi.org,0
+McAlister Technologies,mcallister.com/,10.0,45.0,35.0,45.0,FirmSize.SMALL_FIRM,0,mcallister.com,0
+McElroy Manufacturing,mcelroy.com/,225.0,280.0,55.0,280.0,FirmSize.US_MEDIUM_FIRM,1,mcelroy.com,0
+MCI,mci.com/mcihome.jsp,,,,,FirmSize.UNDEFINED,0,mci.com,0
+Medical Diagnostic Laboratories,mdlab.com/,358.0,,,358.0,FirmSize.US_MEDIUM_FIRM,4,mdlab.com,0
+Medgenics Medical Israel Ltd.,medgenics.com/,2001.0,,,2001.0,FirmSize.LARGE_FIRM,5,medgenics.com,0
+Mediatek Inc.,mediatek.com/,2.0,40748.5,40746.5,40748.5,FirmSize.LARGE_FIRM,4,mediatek.com,0
+Medicis Pharmaceutical Corporation,medicis.com/,492.0,646.0,154.0,646.0,FirmSize.LARGE_FIRM,1,medicis.com,0
+MEDport,medport.com/,7.0,5.0,2.0,7.0,FirmSize.MICRO_FIRM,0,medport.com,0
+MERCK SHARP & DOHME CORP.,merck.com/index.html,2408.0,533.0,1875.0,13987.0,FirmSize.LARGE_FIRM,0,merck.com,1
+Merck Patent GmbH,merck.com/product/patent/home.html,13987.0,,,13987.0,FirmSize.LARGE_FIRM,5,merck.com,1
+Biosphere Medical,merit.com/interventional-oncology-spine/embolotherapy/,52.0,88.0,36.0,88.0,FirmSize.EU_MEDIUM_FIRM,0,merit.com,0
+Meso Scale Technologies,mesoscale.com/,534.0,400.0,134.0,534.0,FirmSize.LARGE_FIRM,1,mesoscale.com,0
+Handstand Innovations,messagewrap.com/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,messagewrap.com,0
+MIETAMARK GENETICS,metamarkgenetics.com/,,,,,FirmSize.UNDEFINED,0,metamarkgenetics.com,0
+Met Tech Inc.,mettech.us/,46.0,,,46.0,FirmSize.SMALL_FIRM,2,mettech.us,0
+Meyer Tool,meyertool.com/,475.0,,,475.0,FirmSize.US_MEDIUM_FIRM,4,meyertool.com,0
+Michelin Recherche et Technique S.A.,michelin.com/eng,30626.0,75.0,30551.0,30626.0,FirmSize.LARGE_FIRM,2,michelin.com,0
+Microchip Technology Incorporated,microchip.com/,6454.0,14234.0,7780.0,14234.0,FirmSize.LARGE_FIRM,0,microchip.com,0
+Microchips Biotech,microchipsbiotech.com/,23.0,,,23.0,FirmSize.SMALL_FIRM,2,microchipsbiotech.com,0
+MicroContinuum,microcontinuum.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,microcontinuum.com,0
+Micro Cooling Concepts,microcoolingconcepts.com/,10.0,,,10.0,FirmSize.SMALL_FIRM,2,microcoolingconcepts.com,0
+Micron Technology,micron.com/,16572.0,34100.0,17528.0,34100.0,FirmSize.LARGE_FIRM,0,micron.com,0
+U S MICROPOWER INC,micropower-group.com/,16.0,,,16.0,FirmSize.SMALL_FIRM,2,micropower-group.com,0
+Microsemi SoC Corporation,microsemi.com/,3186.0,550.0,2636.0,3186.0,FirmSize.LARGE_FIRM,0,microsemi.com,0
+MICROSOFT TECHNOLOGY LICENSING,microsoft.com/en-us/legal/intellectualproperty/mtl/default.aspx,24.0,,,24.0,FirmSize.SMALL_FIRM,2,microsoft.com,0
+Midori USA,midorihealth.com/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,midorihealth.com,0
+Midrex Technologies,midrex.com/,186.0,,,186.0,FirmSize.EU_MEDIUM_FIRM,3,midrex.com,0
+MILLENIUM SYNTHFUELS CORPORATION,milleniumsynthfuels.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,milleniumsynthfuels.com,0
+Milliken & Company,milliken.com/,3157.0,3950.0,793.0,3950.0,FirmSize.LARGE_FIRM,0,milliken.com,0
+Minebea Co.,minebeamitsumi.com/english/,293.0,,,293.0,FirmSize.US_MEDIUM_FIRM,4,minebeamitsumi.com,0
+MirTech,mirtechusa.com/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,mirtechusa.com,0
+Mission Product Holdings,mission.com/,63.0,,,63.0,FirmSize.EU_MEDIUM_FIRM,3,mission.com,0
+Mitsubishi Metal Corporation,mitsubishicorp.com/jp/en/bg/metals/,35.0,,,35.0,FirmSize.SMALL_FIRM,2,mitsubishicorp.com,0
+Mitsubishi Electric Corporation,mitsubishielectric.com/,1035.0,136930.0,135895.0,136930.0,FirmSize.LARGE_FIRM,0,mitsubishielectric.com,0
+MicroLink Devices,mldevices.com/,38.0,1000.0,962.0,1000.0,FirmSize.LARGE_FIRM,3,mldevices.com,0
+Abbott Molecular Inc.,molecular.abbott/,243.0,99000.0,98757.0,99000.0,FirmSize.LARGE_FIRM,2,molecular.abbott,1
+Ibis Biosciences,molecular.abbott/int/en/home,5.0,,,99000.0,FirmSize.LARGE_FIRM,1,molecular.abbott,1
+Molecular Rebar Design,molecularrebar.com/,18.0,,,18.0,FirmSize.SMALL_FIRM,2,molecularrebar.com,0
+Momentive Performance Materials GmbH,momentive.com/en-US/,3248.0,,,3248.0,FirmSize.LARGE_FIRM,5,momentive.com,1
+Momentive Performance Materials Inc.,momentive.com/en-US/,3248.0,146.0,3102.0,3248.0,FirmSize.LARGE_FIRM,2,momentive.com,1
+Monolithe Semiconductor Inc.,monolithsemi.com/,,1534.0,,1534.0,FirmSize.LARGE_FIRM,5,monolithsemi.com,0
+MonoSol,monosol.com/,198.0,19.0,179.0,198.0,FirmSize.EU_MEDIUM_FIRM,1,monosol.com,0
+Monsanto Technology LLC,monsanto.com/products/product-stewardship/technology-use-guides/,6.0,21900.0,21894.0,21900.0,FirmSize.LARGE_FIRM,4,monsanto.com,0
+Morpho,morpho.com/en,6.0,7676.0,7670.0,7676.0,FirmSize.LARGE_FIRM,4,morpho.com,0
+Moxtek,moxtek.com/,168.0,220.0,52.0,220.0,FirmSize.EU_MEDIUM_FIRM,0,moxtek.com,0
+Mumetel,mumetel.com/index.html,19.0,,,19.0,FirmSize.SMALL_FIRM,2,mumetel.com,0
+Murata Manufacturing Co.,murata.com/,3060.0,67652.0,64592.0,67652.0,FirmSize.LARGE_FIRM,0,murata.com,0
+Musco Corporation,musco.com/,633.0,122.0,511.0,633.0,FirmSize.LARGE_FIRM,2,musco.com,0
+Pioneer Energy,mypioneerenergy.com/,47.0,3068.0,3021.0,3068.0,FirmSize.LARGE_FIRM,3,mypioneerenergy.com,0
+Warsaw Orthopedic,mywarsaw.net/,,,,,FirmSize.UNDEFINED,0,mywarsaw.net,0
+NanoLab,nano-lab.com/,,,,,FirmSize.UNDEFINED,0,nano-lab.com,0
+Nanomix,nano.com/,31.0,,,31.0,FirmSize.SMALL_FIRM,2,nano.com,0
+NANO CELL SYSTEMS,nanocellsystems.com,,,,,FirmSize.UNDEFINED,0,nanocellsystems.com,0
+nanoComposix,nanocomposix.com/,40.0,,,40.0,FirmSize.SMALL_FIRM,2,nanocomposix.com,0
+Nanocopocia,nanocopoeia.com/,,,,,FirmSize.UNDEFINED,0,nanocopoeia.com,0
+Nanoco Technologies,nanocotechnologies.com/,78.0,105.0,27.0,105.0,FirmSize.EU_MEDIUM_FIRM,0,nanocotechnologies.com,0
+NanoGram Corporation,nanogram.com,38.0,,,38.0,FirmSize.SMALL_FIRM,2,nanogram.com,0
+NanoMech,nanomech.com/,34.0,,,34.0,FirmSize.SMALL_FIRM,2,nanomech.com,0
+NANOPHTHALMICS,nanophthalmics.com/,,,,,FirmSize.UNDEFINED,0,nanophthalmics.com,0
+Nanoquantum Sciences,nanoquantum.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,nanoquantum.com,0
+FastCAP Systems Corporation,nanoramic.com/,6.0,20.0,14.0,20.0,FirmSize.SMALL_FIRM,1,nanoramic.com,0
+Nanoridge Materials,nanoridge.com/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,nanoridge.com,0
+Nanospectra Biosciences,nanospectra.com/,11.0,,,11.0,FirmSize.SMALL_FIRM,2,nanospectra.com,0
+Nanosys,nanosysinc.com/,160.0,113.0,47.0,160.0,FirmSize.EU_MEDIUM_FIRM,0,nanosysinc.com,0
+Nanotech Biomachines,nanotechbio.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,nanotechbio.com,0
+NanoTech Lubricants,nanotechlubricantsinc.com/Home.html,30.0,,,30.0,FirmSize.SMALL_FIRM,2,nanotechlubricantsinc.com,0
+Nanotek Instruments,nanotekinstruments.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,nanotekinstruments.com,0
+Nantero,nantero.com/,67.0,,,67.0,FirmSize.EU_MEDIUM_FIRM,3,nantero.com,0
+National Education Corporation,nationaleducation.com/,76.0,2700.0,2624.0,2700.0,FirmSize.LARGE_FIRM,2,nationaleducation.com,0
+Nationwide Children's Hospital,nationwidechildrens.org/,7549.0,11500.0,3951.0,11500.0,FirmSize.LARGE_FIRM,0,nationwidechildrens.org,1
+Child Laboratories Inc.,nationwidechildrens.org/specialties/laboratory-services,8.0,,,11500.0,FirmSize.LARGE_FIRM,1,nationwidechildrens.org,1
+Nthdegree Technologies Worldwide Inc.,ndeg.com/,19.0,,,19.0,FirmSize.SMALL_FIRM,2,ndeg.com,0
+New England Biolabs,neb.com/,490.0,190.0,300.0,490.0,FirmSize.US_MEDIUM_FIRM,1,neb.com,0
+NEC Corporation,nec.com/,8430.0,100914.0,92484.0,100914.0,FirmSize.LARGE_FIRM,0,nec.com,0
+NeoPhotonics Corporation,neophotonics.com/,526.0,1783.0,1257.0,1783.0,FirmSize.LARGE_FIRM,0,neophotonics.com,0
+NeoVision LLC,neovisiongroup.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,neovisiongroup.com,0
+Nestec S. A.,nestle.com/,114.0,,,114.0,FirmSize.EU_MEDIUM_FIRM,3,nestle.com,0
+NetApp,netapp.com/us/index.aspx,11816.0,10100.0,1716.0,11816.0,FirmSize.LARGE_FIRM,0,netapp.com,0
+Neumedicines,neumedicines.com/,13.0,,,13.0,FirmSize.SMALL_FIRM,2,neumedicines.com,0
+NeuMoDx Molecular,neumodx.com/,59.0,,,59.0,FirmSize.EU_MEDIUM_FIRM,3,neumodx.com,0
+Neural Signals,neuralsignals.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,neuralsignals.com,0
+ABB Technology Ltd.,new.abb.com/about/technology,4.0,134800.0,134796.0,134800.0,FirmSize.LARGE_FIRM,4,new.abb.com,1
+ABB Research Ltd.,new.abb.com/about/technology/corporate-research-centers/corporate-research-center-united-states,23.0,134800.0,134777.0,134800.0,FirmSize.LARGE_FIRM,3,new.abb.com,1
+Sirnaomics,new.sirnaomics.com/,20.0,,,20.0,FirmSize.SMALL_FIRM,2,new.sirnaomics.com,0
+NEWFIELD THERAPEUTICS CORPORATION,newfieldthera.com/,22.0,1010.0,988.0,1010.0,FirmSize.LARGE_FIRM,3,newfieldthera.com,0
+Newdoll Enterprises LLC,newholdllc.com/,1.0,,,1.0,FirmSize.MICRO_FIRM,1,newholdllc.com,0
+Newlans,newlans.com/,197.0,,,197.0,FirmSize.EU_MEDIUM_FIRM,3,newlans.com,0
+Newport Corporation,newport.com/,246.0,2480.0,2234.0,2480.0,FirmSize.LARGE_FIRM,2,newport.com,0
+New Technology Ventures,newtechvc.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,newtechvc.com,0
+Nexcom Technology,nexcom.com/,2485.0,500.0,1985.0,2485.0,FirmSize.LARGE_FIRM,0,nexcom.com,0
+AVOGY,nexgenpowersystems.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,nexgenpowersystems.com,0
+NGK Spark Plug Co.,ngksparkplugs.com/,18.0,15322.0,15304.0,15322.0,FirmSize.LARGE_FIRM,3,ngksparkplugs.com,0
+Nanoholdings,nh2.com/,18.0,,,18.0,FirmSize.SMALL_FIRM,2,nh2.com,0
+NICHIA CORPORATION,nichiha.com/,45.0,8600.0,8555.0,8600.0,FirmSize.LARGE_FIRM,3,nichiha.com,0
+Nikon Corporation,nikon.com/,8.0,24047.0,24039.0,24047.0,FirmSize.LARGE_FIRM,4,nikon.com,0
+Nissan Motor Co.,nissan-global.com/EN/,35422.0,68770.0,33348.0,68770.0,FirmSize.LARGE_FIRM,0,nissan-global.com,0
+Nissan North America,nissanusa.com/about/corporate-information.html,35422.0,2500.0,32922.0,35422.0,FirmSize.LARGE_FIRM,0,nissanusa.com,0
+Fianium Ltd.,nktphotonics.com/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,nktphotonics.com,0
+nLIGHT,nlight.net/,420.0,1000.0,580.0,1000.0,FirmSize.LARGE_FIRM,1,nlight.net,1
+nLIGHT Photonics Corporation,nlight.net/,420.0,1000.0,580.0,1000.0,FirmSize.LARGE_FIRM,1,nlight.net,1
+JX Nippon Mining & Metals Corporation,nmm.jx-group.co.jp/english/,14.0,6737.5,6723.5,6737.5,FirmSize.LARGE_FIRM,3,nmm.jx-group.co.jp,0
+The Samuel Roberts Noble Foundation,noble.org/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,noble.org,0
+Nokia Corporation,nokia.com/,1425.0,125865.5,124440.5,172406.0,FirmSize.LARGE_FIRM,0,nokia.com,1
+Nokia Technologies Oy,nokia.com/,172406.0,421.0,171985.0,172406.0,FirmSize.LARGE_FIRM,1,nokia.com,1
+Nokomis,nokomisinc.com/,7.0,,,7.0,FirmSize.MICRO_FIRM,1,nokomisinc.com,0
+Nordic Technologies,nordic-technologies.com/,5.0,1638.0,1633.0,1638.0,FirmSize.LARGE_FIRM,4,nordic-technologies.com,0
+Nordson Corporation,nordson.com/,2130.0,6000.0,3870.0,6000.0,FirmSize.LARGE_FIRM,0,nordson.com,0
+Northrop Grumman Systems Corporation,northropgrumman.com/,73982.0,70000.0,3982.0,73982.0,FirmSize.LARGE_FIRM,0,northropgrumman.com,0
+NCC Nano,novacentrix.com/,11754.0,,,11754.0,FirmSize.LARGE_FIRM,5,novacentrix.com,0
+NOVA Chemicals (International) S.A.,novachem.com/pages/home.aspx,2435.0,2800.0,365.0,2800.0,FirmSize.LARGE_FIRM,0,novachem.com,0
+NOVA PANGAEA TECHNOLOGIES LIMITED,novapangaea.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,novapangaea.com,0
+Novartis AG,novartis.com/,85031.0,125000.0,39969.0,125000.0,FirmSize.LARGE_FIRM,0,novartis.com,0
+NovaSolix,novasolix.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,novasolix.com,0
+Nova Technologies,novatechnologies.com/,15.0,145.0,130.0,145.0,FirmSize.EU_MEDIUM_FIRM,1,novatechnologies.com,0
+Novon,novon.com/,19.0,42682.0,42663.0,42682.0,FirmSize.LARGE_FIRM,3,novon.com,0
+Novozymes A/S,novozymes.com/,5186.0,,,6386.0,FirmSize.LARGE_FIRM,5,novozymes.com,1
+Novozymes Inc.,novozymes.com/,5186.0,6386.0,1200.0,6386.0,FirmSize.LARGE_FIRM,0,novozymes.com,1
+Novozymes North America,novozymes.com/en/north-america,5186.0,,,6386.0,FirmSize.LARGE_FIRM,5,novozymes.com,1
+Novus Energy LLC,novusenergy.ca/index.php?page=investor_documents_news_release,13.0,,,13.0,FirmSize.SMALL_FIRM,2,novusenergy.ca,0
+Novus Technology,novustek.net/,20.0,25016.5,24996.5,25016.5,FirmSize.LARGE_FIRM,3,novustek.net,0
+SEIKO NPC Corporation,npc.co.jp/en/,,,,,FirmSize.UNDEFINED,0,npc.co.jp,0
+Neutronic Perpetual Innovations,npimobile.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,npimobile.com,0
+GE-Hitachi Nuclear Energy Americas LLC,nuclear.gepower.com/,26181.0,,,26181.0,FirmSize.LARGE_FIRM,5,nuclear.gepower.com,0
+mVerify Corporation,numverify.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,numverify.com,0
+NuOrtho Surgical,nuortho.com/,22.0,,,22.0,FirmSize.SMALL_FIRM,2,nuortho.com,0
+Nutech Ventures,nutechventures.org/,16.0,,,16.0,FirmSize.SMALL_FIRM,2,nutechventures.org,0
+U.S. NUTRACEUTICALS,nutraceutical.com/,2.0,21.0,19.0,21.0,FirmSize.SMALL_FIRM,1,nutraceutical.com,0
+Pentair Thermal Management LLC,nventthermal.com/,1246.0,35.0,1211.0,1246.0,FirmSize.LARGE_FIRM,3,nventthermal.com,0
+Nvidia Corporation,nvidia.com/page/home.html,4.0,11528.0,11524.0,11528.0,FirmSize.LARGE_FIRM,4,nvidia.com,0
+Northwest Biotherapeutics,nwbio.com/,17.0,14.0,3.0,17.0,FirmSize.SMALL_FIRM,0,nwbio.com,0
+Freescale Semiconductor,nxp.com/,8227.0,17300.0,9073.0,30100.0,FirmSize.LARGE_FIRM,0,nxp.com,1
+NXP USA,nxp.com/,,30100.0,,30100.0,FirmSize.LARGE_FIRM,5,nxp.com,1
+Owens-Brockway Glass Container Inc.,o-i.com/,49.0,,,49.0,FirmSize.SMALL_FIRM,2,o-i.com,0
+OAS Design Group,oasdesigngroup.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,oasdesigngroup.com,0
+O.B.I. Inc.,obi.org/,4.0,42000.0,41996.0,42000.0,FirmSize.LARGE_FIRM,4,obi.org,0
+Oceanit Laboratories,oceanit.com/,100.0,,,100.0,FirmSize.EU_MEDIUM_FIRM,3,oceanit.com,0
+Oculus VR,oculus.com/,1377.0,,,1377.0,FirmSize.LARGE_FIRM,5,oculus.com,0
+OFS Fitel,ofsoptics.com/,924.0,500.0,424.0,924.0,FirmSize.LARGE_FIRM,0,ofsoptics.com,0
+Oki Data Corporation,oki.com/us/printing/,514.0,950.0,436.0,950.0,FirmSize.LARGE_FIRM,0,oki.com,0
+Universal Display Corporation,oled.com/,10.0,222.0,212.0,222.0,FirmSize.EU_MEDIUM_FIRM,1,oled.com,0
+Olympus NDT,olympus-ims.com/en/,731.0,,,731.0,FirmSize.LARGE_FIRM,5,olympus-ims.com,0
+OLYMPUS CORPORATION,olympusamerica.com/,10.0,30702.0,30692.0,30702.0,FirmSize.LARGE_FIRM,3,olympusamerica.com,0
+Omron Corporation,omron.com/,2118.0,36517.5,34399.5,36517.5,FirmSize.LARGE_FIRM,0,omron.com,0
+One Earth Designs Inc.,oneearthdesigns.com/,12.0,50.0,38.0,50.0,FirmSize.EU_MEDIUM_FIRM,1,oneearthdesigns.com,0
+Fairchild Semiconductor Corporation,onsemi.com/,3223.0,7689.5,4466.5,7689.5,FirmSize.LARGE_FIRM,0,onsemi.com,0
+Opel Solar,opelinc.com/,42.0,,,42.0,FirmSize.SMALL_FIRM,2,opelinc.com,0
+Optodot Corporation,optodot.com/,,,,,FirmSize.UNDEFINED,0,optodot.com,0
+Oracle International Corporation,oracle.com/index.html,410.0,137000.0,136590.0,137000.0,FirmSize.LARGE_FIRM,1,oracle.com,0
+Photon Dynamics,orbotech.com/,,25.0,,25.0,FirmSize.SMALL_FIRM,2,orbotech.com,0
+OrbusNeich Medical,orbusneich.com/,93.0,500.0,407.0,500.0,FirmSize.LARGE_FIRM,2,orbusneich.com,0
+MICROMIDAS,originmaterials.com/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,originmaterials.com,0
+Ormat Technologies Inc.,ormat.com/en/home/a/main/,741.0,1303.0,562.0,1303.0,FirmSize.LARGE_FIRM,0,ormat.com,0
+Chevron Oronitz Company LLC,oronite.com/,,,,,FirmSize.UNDEFINED,0,oronite.com,0
+Ortho-Clinical Diagnostics,orthoclinicaldiagnostics.com/,4113.0,4300.0,187.0,4300.0,FirmSize.LARGE_FIRM,0,orthoclinicaldiagnostics.com,0
+OSI Optoelectronics,osioptoelectronics.com/,40.0,3900.0,3860.0,3900.0,FirmSize.LARGE_FIRM,3,osioptoelectronics.com,0
+Ostendo Technologies,ostendo.com/,105.0,,,105.0,FirmSize.EU_MEDIUM_FIRM,3,ostendo.com,0
+OTSUKA PHARMACEUTICAL CO.,otsuka.co.jp/en/,2648.0,,,2648.0,FirmSize.LARGE_FIRM,5,otsuka.co.jp,0
+OmniVision Technologies,ovt.com/,965.0,2176.0,1211.0,2176.0,FirmSize.LARGE_FIRM,0,ovt.com,0
+Pacific Biosciences of California,pacb.com/,446.0,456.0,10.0,456.0,FirmSize.US_MEDIUM_FIRM,0,pacb.com,0
+PACCAR Inc,paccar.com/,4056.0,25000.0,20944.0,25000.0,FirmSize.LARGE_FIRM,0,paccar.com,0
+Pacific Light Technologies,pacificlighttech.com/,8.0,42.0,34.0,42.0,FirmSize.SMALL_FIRM,1,pacificlighttech.com,0
+VINYLAST,palisaderail.com/,7.0,14.0,7.0,14.0,FirmSize.SMALL_FIRM,1,palisaderail.com,0
+Sanyo Electric Co.,panasonic.com/global/corporate/profile/group-companies/sanyo.html,3.0,92675.0,92672.0,92675.0,FirmSize.LARGE_FIRM,4,panasonic.com,0
+Paratek Pharmaceuticals,paratekpharma.com/,142.0,96.0,46.0,142.0,FirmSize.EU_MEDIUM_FIRM,0,paratekpharma.com,0
+Palo Alto Research Center Incorporated,parc.com/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,parc.com,0
+Pardev,pardev.com/,,,,,FirmSize.UNDEFINED,0,pardev.com,0
+Parion Sciences,parion.com/,19.0,,,19.0,FirmSize.SMALL_FIRM,2,parion.com,0
+Parker-Hannifin Corporation,parker.com/,19843.0,,,19843.0,FirmSize.LARGE_FIRM,5,parker.com,0
+PAX Scientific,paxscientific.com/,10.0,974.0,964.0,974.0,FirmSize.LARGE_FIRM,3,paxscientific.com,0
+The Paymaster Corporation,paymaster.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,paymaster.com,0
+Professional Compounding Centers of America,pccarx.com/,,,,,FirmSize.UNDEFINED,0,pccarx.com,0
+PDF Solutions,pdf.com,479.0,,,479.0,FirmSize.US_MEDIUM_FIRM,4,pdf.com,0
+Pegatron Corporation,pegatroncorp.com/,5060.0,91797.0,86737.0,91797.0,FirmSize.LARGE_FIRM,0,pegatroncorp.com,0
+PELLION TECHNOLOGIES,pelliontech.com/,22.0,,,22.0,FirmSize.SMALL_FIRM,2,pelliontech.com,0
+Pendar Technologies,pendar.com/,25.0,,,25.0,FirmSize.SMALL_FIRM,2,pendar.com,0
+Pentron Clinical Technologies,pentron.com/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,pentron.com,0
+Performance Plants,performanceplants.com/,12.0,,,12.0,FirmSize.SMALL_FIRM,2,performanceplants.com,0
+Perkinelmer Holdings,perkinelmer.com/,3.0,5601.5,5598.5,5601.5,FirmSize.LARGE_FIRM,4,perkinelmer.com,0
+PetraSolar,petrasystems.com/,61.0,,,61.0,FirmSize.EU_MEDIUM_FIRM,3,petrasystems.com,0
+PeterBrod Corp.,petroblend.com/,,,,,FirmSize.UNDEFINED,0,petroblend.com,0
+Peytant Solutions,peytant.com/,,,,,FirmSize.UNDEFINED,0,peytant.com,0
+Pfizer Inc.,pfizer.com/,117107.0,90200.0,26907.0,117107.0,FirmSize.LARGE_FIRM,0,pfizer.com,0
+The Procter & Gamble Company,pg.com/,98781.0,95000.0,3781.0,98781.0,FirmSize.LARGE_FIRM,0,pg.com,0
+Pharmatrophix,pharmatrophix.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,pharmatrophix.com,0
+Phillips 66 Company,phillips66.com/,66.0,23.0,43.0,66.0,FirmSize.EU_MEDIUM_FIRM,1,phillips66.com,0
+UOP LLC,phoenix.edu/,9081.0,1400.0,7681.0,9081.0,FirmSize.LARGE_FIRM,0,phoenix.edu,0
+Phoseon Technology,phoseon.com/,105.0,60.0,45.0,105.0,FirmSize.EU_MEDIUM_FIRM,0,phoseon.com,0
+Pacific Industrial Development Corporation,pidc.com/,38700.0,,,38700.0,FirmSize.LARGE_FIRM,5,pidc.com,0
+Piksel,piksel.com/,461.0,15.0,446.0,461.0,FirmSize.US_MEDIUM_FIRM,2,piksel.com,0
+Karsten Manufacturing Corporation,ping.com/,727.0,840.0,113.0,840.0,FirmSize.LARGE_FIRM,0,ping.com,0
+Pinnacle Technology,pinnacle-technology.com/,37.0,7.0,30.0,37.0,FirmSize.SMALL_FIRM,1,pinnacle-technology.com,0
+Pixar,pixar.com/,2168.0,850.0,1318.0,2168.0,FirmSize.LARGE_FIRM,0,pixar.com,0
+Pixelligent Technologies,pixelligent.com/,39.0,,,39.0,FirmSize.SMALL_FIRM,2,pixelligent.com,0
+Plant Sensory Systems,plantsensorysystems.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,plantsensorysystems.com,0
+Plasma-Therm,plasmatherm.com/,147.0,,,147.0,FirmSize.EU_MEDIUM_FIRM,3,plasmatherm.com,0
+Foret Plasma Labs,plasmawhirl.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,plasmawhirl.com,0
+Saint-Gobain Performance Plastics Corporation,plastics.saint-gobain.com/,1992.0,,,1992.0,FirmSize.LARGE_FIRM,5,plastics.saint-gobain.com,0
+PLEX LLC,plex.tv/,102.0,,,102.0,FirmSize.EU_MEDIUM_FIRM,3,plex.tv,0
+PluroGen Therapeutics,plurogen.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,plurogen.com,0
+PNM,pnm.com/,342.0,1047.5,705.5,1047.5,FirmSize.LARGE_FIRM,1,pnm.com,0
+POET Research,poet.com/scotland,981.0,1034.0,53.0,1034.0,FirmSize.LARGE_FIRM,0,poet.com,0
+Abbott Point of Care Inc.,pointofcare.abbott/us/en/home,,,,,FirmSize.UNDEFINED,0,pointofcare.abbott,0
+POLAR LIGHT TECHNOLOGIES AB,polar-light-technologies.com/,24.0,,,24.0,FirmSize.SMALL_FIRM,2,polar-light-technologies.com,0
+Polaris Products LLC,polaris.com/en-us,9.0,4067.5,4058.5,4067.5,FirmSize.LARGE_FIRM,4,polaris.com,0
+Poly-Med,poly-med.com/,86.0,,,86.0,FirmSize.EU_MEDIUM_FIRM,3,poly-med.com,0
+PolyOne Corporation,polyone.com/,4614.0,6000.0,1386.0,6000.0,FirmSize.LARGE_FIRM,0,polyone.com,0
+PolyPlus Battery Company,polyplus.com/,17.0,,,17.0,FirmSize.SMALL_FIRM,2,polyplus.com,0
+Polysar Corporation,polystar.com/,10.0,,,10.0,FirmSize.SMALL_FIRM,2,polystar.com,0
+PortaFire,port-a-fire.ca/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,port-a-fire.ca,0
+POSiFA MICROSYSTEMS,posifamicrosystems.com/,48.0,,,48.0,FirmSize.SMALL_FIRM,2,posifamicrosystems.com,0
+Power Integrations,power.com/,978.0,626.0,352.0,978.0,FirmSize.LARGE_FIRM,0,power.com,0
+Strategic Solar Energy,powerparasol.com/,7.0,,,7.0,FirmSize.MICRO_FIRM,1,powerparasol.com,0
+PQ CORPORATION,pqcorp.com/,998.0,,,998.0,FirmSize.LARGE_FIRM,5,pqcorp.com,0
+Propagation Research Associates,pra-corp.com/,7.0,,,7.0,FirmSize.MICRO_FIRM,1,pra-corp.com,0
+Praxair S.T. Technology,praxair.com/,517.0,,,26461.0,FirmSize.LARGE_FIRM,5,praxair.com,1
+Praxair Technology,praxair.com/,517.0,26461.0,25944.0,26461.0,FirmSize.LARGE_FIRM,0,praxair.com,1
+Previvo Genetics,previvo.com/,10.0,,,10.0,FirmSize.SMALL_FIRM,2,previvo.com,0
+Production Resource Group,prg.com/,11.0,100.0,89.0,100.0,FirmSize.EU_MEDIUM_FIRM,1,prg.com,0
+Semics Inc.,prober.com/semics-opus3-prober/,13.0,,,13.0,FirmSize.SMALL_FIRM,2,prober.com,0
+Prosoft International,prosoft-technology.com/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,prosoft-technology.com,0
+Proterra Inc.,proterra.com/,370.0,80.5,289.5,370.0,FirmSize.US_MEDIUM_FIRM,1,proterra.com,0
+Proton Power,protonpower.com/,4.0,74.0,70.0,74.0,FirmSize.EU_MEDIUM_FIRM,2,protonpower.com,0
+PTC Therapeutics,ptcbio.com/,559.0,500.0,59.0,559.0,FirmSize.LARGE_FIRM,0,ptcbio.com,0
+Pulse Therapeutics,pulsetherapeutics.com/,20.0,33.0,13.0,33.0,FirmSize.SMALL_FIRM,0,pulsetherapeutics.com,0
+Pyrexar Medical Inc.,pyrexar.com/,18.0,,,18.0,FirmSize.SMALL_FIRM,2,pyrexar.com,0
+Qiagen GmbH,qiagen.com/us/,3828.0,40.0,3788.0,3828.0,FirmSize.LARGE_FIRM,3,qiagen.com,0
+Quantum Materials Corporation,qmcdots.com/,4.0,904.5,900.5,904.5,FirmSize.LARGE_FIRM,4,qmcdots.com,0
+RF Micro Devices,qorvo.com/,1114.0,3500.0,2386.0,3500.0,FirmSize.LARGE_FIRM,0,qorvo.com,0
+QUALCOMM Incorporated,qualcomm.com/,32401.0,33800.0,1399.0,33800.0,FirmSize.LARGE_FIRM,0,qualcomm.com,1
+QUALCOMM MEMS Technologies,qualcomm.com/,10.0,,,33800.0,FirmSize.LARGE_FIRM,2,qualcomm.com,1
+Qualsig Inc.,qualsig.com/,,,,,FirmSize.UNDEFINED,0,qualsig.com,0
+Quantapore,quantapore.com/,26.0,,,26.0,FirmSize.SMALL_FIRM,2,quantapore.com,0
+Quantum Devices,quantumdev.com/,31.0,1150.0,1119.0,1150.0,FirmSize.LARGE_FIRM,3,quantumdev.com,0
+QuantumScape Corporation,quantumscape.com/,33.0,,,33.0,FirmSize.SMALL_FIRM,2,quantumscape.com,0
+Dell Software Inc.,quest.com,8988.0,,,8988.0,FirmSize.LARGE_FIRM,5,quest.com,0
+RADIANCE SOLAR,radiancesolar.com/,33.0,,,33.0,FirmSize.SMALL_FIRM,2,radiancesolar.com,0
+Renewable Algal Energy,rae-energy.com/,5.0,90.0,85.0,90.0,FirmSize.EU_MEDIUM_FIRM,2,rae-energy.com,0
+R.A. Miller Industries,rami.com/,43.0,,,43.0,FirmSize.SMALL_FIRM,2,rami.com,0
+Rapamycin Holdings,rapamycinholdings.com/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,rapamycinholdings.com,0
+Raytheon Company,raytheon.com/,48250.0,64000.0,15750.0,64000.0,FirmSize.LARGE_FIRM,0,raytheon.com,1
+Raytheon BBN Technologies Corp.,raytheon.com/ourcompany/bbn,48250.0,450.0,47800.0,64000.0,FirmSize.LARGE_FIRM,1,raytheon.com,1
+Rebellion Photonics,rebellionphotonics.com/,41.0,,,41.0,FirmSize.SMALL_FIRM,2,rebellionphotonics.com,0
+Red Hat,redhat.com/en,11455.0,11870.0,415.0,11870.0,FirmSize.LARGE_FIRM,0,redhat.com,0
+Redwood Systems,redwoodsystemsgroup.com/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,redwoodsystemsgroup.com,0
+Regeneron Pharmaceuticals,regeneron.com/,7976.0,6200.0,1776.0,7976.0,FirmSize.LARGE_FIRM,0,regeneron.com,0
+Reliance Controls Corporation,reliancecontrols.com/,11.0,24121.0,24110.0,24121.0,FirmSize.LARGE_FIRM,3,reliancecontrols.com,0
+Relypsa,relypsa.com/,389.0,429.0,40.0,429.0,FirmSize.US_MEDIUM_FIRM,0,relypsa.com,0
+Renesas Electronics Corporation,renesas.com/en-us/,3035.0,20404.5,17369.5,20404.5,FirmSize.LARGE_FIRM,0,renesas.com,0
+Renmatix,renmatix.com/,39.0,,,39.0,FirmSize.SMALL_FIRM,2,renmatix.com,0
+RenovaCare Sciences Corp.,renovacareinc.com/contact/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,renovacareinc.com,0
+RES USA,res-usa.com/,233.0,,,233.0,FirmSize.EU_MEDIUM_FIRM,3,res-usa.com,0
+Synaptic Research,research.synaptic.co.uk/,3.0,1763.0,1760.0,1763.0,FirmSize.LARGE_FIRM,4,research.synaptic.co.uk,0
+MANUFACTURING RESOURCES INTERNATIONAL,resourcemfg.com/,26.0,8583.5,8557.5,8583.5,FirmSize.LARGE_FIRM,3,resourcemfg.com,0
+Revera,reveraliving.com/,458.0,10158.0,9700.0,10158.0,FirmSize.LARGE_FIRM,1,reveraliving.com,0
+Revivicor,revivicor.com/,12.0,,,12.0,FirmSize.SMALL_FIRM,2,revivicor.com,0
+Reynolds Technologies,reynoldstechnology.biz/,7.0,4000.0,3993.0,4000.0,FirmSize.LARGE_FIRM,4,reynoldstechnology.biz,0
+Rio Grande Valley Sugar Growers,rgvsugar.com/,13.0,,,13.0,FirmSize.SMALL_FIRM,2,rgvsugar.com,0
+Richtek Technology Corporation,richtek.com/,509.0,1000.0,491.0,1000.0,FirmSize.LARGE_FIRM,0,richtek.com,0
+Ricoh Company Limited,ricoh.com/,16.0,,,16.0,FirmSize.SMALL_FIRM,2,ricoh.com,0
+Rima Enterprises,rimaenterprises.in/,17.0,62.0,45.0,62.0,FirmSize.EU_MEDIUM_FIRM,1,rimaenterprises.in,0
+Riverbed Technology,riverbed.com/,2786.0,2327.0,459.0,2786.0,FirmSize.LARGE_FIRM,0,riverbed.com,0
+R.J. Reynolds Tobacco Company,rjrt.com/,2918.0,4000.0,1082.0,4000.0,FirmSize.LARGE_FIRM,0,rjrt.com,0
+Roche Molecular Systems,roche.com/,70192.0,400.0,69792.0,70192.0,FirmSize.LARGE_FIRM,1,roche.com,1
+Roche Diabetes Care,roche.com/partnering/diagnostics-areas-of-interest/diabetes-management.htm,213.0,350.0,137.0,70192.0,FirmSize.LARGE_FIRM,1,roche.com,1
+Roche Innovation Center Copenhagen A/S,roche.com/research_and_development/who_we_are_how_we_work/rnd_locations/research_location.htm?id=c98f27ea-a769-48ee-b7ef-4441cf20e267,16.0,,,70192.0,FirmSize.LARGE_FIRM,2,roche.com,1
+Rockwell Automation Technologies,rockwellautomation.com/site-selection.html,447.0,22000.0,21553.0,22000.0,FirmSize.LARGE_FIRM,1,rockwellautomation.com,0
+Rockwell Collins,rockwellcollins.com/,17427.0,31200.0,13773.0,31200.0,FirmSize.LARGE_FIRM,0,rockwellcollins.com,0
+Roll-N-Lock Corporation,rollnlock.com/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,rollnlock.com,0
+Rolls-Royce PLC,rolls-royce.com/,27020.0,,,27020.0,FirmSize.LARGE_FIRM,5,rolls-royce.com,1
+Rolls-Royce North American Technologies,rolls-royce.com/country-sites/northamerica.aspx,27020.0,,,27020.0,FirmSize.LARGE_FIRM,5,rolls-royce.com,1
+Renewable Power Conversion,rpcincorporated.com/,212.0,,,212.0,FirmSize.EU_MEDIUM_FIRM,3,rpcincorporated.com,0
+Research Triangle Institute,rti.org/,5500.0,5000.0,500.0,5500.0,FirmSize.LARGE_FIRM,0,rti.org,0
+Sensor Electronic Technology,s-et.com/,36.0,,,36.0,FirmSize.SMALL_FIRM,2,s-et.com,0
+SABIC GLOBAL TECHNOLOGIES B.V.,sabic.com/en,15.0,15.0,0.0,15.0,FirmSize.SMALL_FIRM,0,sabic.com,0
+SAE Magnetics (HK) Ltd.,sae.com.hk/,385.0,100.0,285.0,385.0,FirmSize.US_MEDIUM_FIRM,1,sae.com.hk,0
+Sagacious Investment Group L.L.C.,sagaciousinvestmentservices.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,sagaciousinvestmentservices.com,0
+SAINT-GOBAIN ABRASIFS,saint-gobain-abrasives.com/en-us,4077.0,,,4077.0,FirmSize.LARGE_FIRM,5,saint-gobain-abrasives.com,0
+Solan,salon.com/,173212.0,,,173212.0,FirmSize.LARGE_FIRM,5,salon.com,0
+Samsung Electronics,samsung.com/us/,85449.0,171578.0,86129.0,308745.0,FirmSize.LARGE_FIRM,0,samsung.com,1
+Samsung Electronics Co.,samsung.com/us/,85448.0,308745.0,223297.0,308745.0,FirmSize.LARGE_FIRM,0,samsung.com,1
+Samsung SDI Co.,samsungsdi.com/,144.0,19827.5,19683.5,19827.5,FirmSize.LARGE_FIRM,2,samsungsdi.com,0
+Sandia Corporation,sandia.gov,63.0,6600.0,6537.0,6600.0,FirmSize.LARGE_FIRM,2,sandia.gov,0
+SanDisk Technologies LLC,sandisk.com/,5755.0,8790.0,3035.0,8790.0,FirmSize.LARGE_FIRM,0,sandisk.com,1
+SanDisk 3D LLC,sandisk.com/home/ssd/ultra-3d-ssd,5755.0,,,8790.0,FirmSize.LARGE_FIRM,5,sandisk.com,1
+Sangamo BioSciences,sangamo.com/,260.0,234.0,26.0,260.0,FirmSize.US_MEDIUM_FIRM,1,sangamo.com,0
+Sanken Electric Co.,sanken-ele.co.jp/en/index.php,22.0,9725.0,9703.0,9725.0,FirmSize.LARGE_FIRM,3,sanken-ele.co.jp,0
+Sanofi,sanofi.com/en/,76541.0,106566.0,30025.0,106566.0,FirmSize.LARGE_FIRM,0,sanofi.com,0
+Genzyme Corporation,sanofigenzyme.com/,10453.0,10100.0,353.0,10453.0,FirmSize.LARGE_FIRM,0,sanofigenzyme.com,0
+Sanuvox Technologies,sanuvox.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,sanuvox.com,0
+AVI BioPharma,sarepta.com/,5.0,8439.0,8434.0,8439.0,FirmSize.LARGE_FIRM,4,sarepta.com,1
+Sarepta Therapeutics,sarepta.com/,505.0,169.0,336.0,8439.0,FirmSize.LARGE_FIRM,2,sarepta.com,1
+Schneider Electric USA,schneider-electric.us/en/,,144001.0,,144001.0,FirmSize.LARGE_FIRM,5,schneider-electric.us,0
+Scientific Design Company,scidesign.com/,144.0,135.0,9.0,144.0,FirmSize.EU_MEDIUM_FIRM,0,scidesign.com,0
+S. C. Johnson & Son,scjohnson.com/,9946.0,,,9946.0,FirmSize.LARGE_FIRM,5,scjohnson.com,1
+S.C. Johnson & Son,scjohnson.com/,9946.0,,,9946.0,FirmSize.LARGE_FIRM,5,scjohnson.com,1
+SD Technologies,sd-techs.com/,7.0,,,7.0,FirmSize.MICRO_FIRM,1,sd-techs.com,0
+SEaB Energy Holdings Ltd.,seabenergy.com/,13.0,,,13.0,FirmSize.SMALL_FIRM,2,seabenergy.com,0
+Seagate Technology LLC,seagate.com/,15884.0,41000.0,25116.0,41000.0,FirmSize.LARGE_FIRM,0,seagate.com,0
+Sumitomo Electric Device Innovations,sedi.co.jp/?version=en,1151.0,,,1151.0,FirmSize.LARGE_FIRM,5,sedi.co.jp,0
+Seetron Inc.,seetron.com/index.html,,,,,FirmSize.UNDEFINED,0,seetron.com,0
+Seiko Instruments Inc.,seikoinstruments.com/,5.0,39819.0,39814.0,39819.0,FirmSize.LARGE_FIRM,4,seikoinstruments.com,0
+Semiconductor Energy Laboratory Co.,sel.co.jp/en/,12.0,,,12.0,FirmSize.SMALL_FIRM,2,sel.co.jp,0
+Selas Heat Technology Company LLC,selas.com/,43.0,,,43.0,FirmSize.SMALL_FIRM,2,selas.com,0
+Selecta Biosciences,selectabio.com/,41.0,64.0,23.0,64.0,FirmSize.EU_MEDIUM_FIRM,1,selectabio.com,0
+Selkermetrics,selkermetrics.com/,,,,,FirmSize.UNDEFINED,0,selkermetrics.com,0
+SELMAN AND ASSOCIATES,selmanlog.com/,107.0,,,107.0,FirmSize.EU_MEDIUM_FIRM,3,selmanlog.com,0
+Sima Therapeutics,semma-tx.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,semma-tx.com,0
+Semprius,semprius.com,10.0,,,10.0,FirmSize.SMALL_FIRM,2,semprius.com,0
+Senaya,senaya.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,senaya.com,0
+Sensor-Kinesis Corporation,sensor-kinesis.com/,10.0,,,10.0,FirmSize.SMALL_FIRM,2,sensor-kinesis.com,0
+Sequenom,sequenom.com/,216.0,434.0,218.0,434.0,FirmSize.US_MEDIUM_FIRM,1,sequenom.com,0
+ServiceNow,servicenow.com/,56.0,6111.0,6055.0,6111.0,FirmSize.LARGE_FIRM,2,servicenow.com,0
+Sharp Laboratories of America,sharplabs.com/,73.0,,,73.0,FirmSize.EU_MEDIUM_FIRM,3,sharplabs.com,0
+Shell Oil Company,shell.us/,128776.0,,,128776.0,FirmSize.LARGE_FIRM,5,shell.us,0
+Shimadzu Corporation,shimadzu.com/,49.0,11174.5,11125.5,11174.5,FirmSize.LARGE_FIRM,3,shimadzu.com,0
+Shin-Etsu Chemical Co.,shinetsu.co.jp/en/,500.0,,,500.0,FirmSize.LARGE_FIRM,5,shinetsu.co.jp,0
+BAXALTA INCORPORATED,shire.com/,1146.0,17000.0,15854.0,17000.0,FirmSize.LARGE_FIRM,0,shire.com,0
+Shoals Technologies Group,shoals.com/,70.0,,,70.0,FirmSize.EU_MEDIUM_FIRM,3,shoals.com,0
+Nippon Shokubai Co.,shokubai.co.jp/en/,46.0,2334.5,2288.5,2334.5,FirmSize.LARGE_FIRM,3,shokubai.co.jp,0
+Pansonic Corporation,shop.panasonic.com/,13084.0,9992.5,3091.5,13084.0,FirmSize.LARGE_FIRM,0,shop.panasonic.com,0
+Sick AG,sick.com/de/en/,3787.0,8800.0,5013.0,8800.0,FirmSize.LARGE_FIRM,0,sick.com,0
+SICPA Holding SA,sicpa.com/,1652.0,,,1652.0,FirmSize.LARGE_FIRM,5,sicpa.com,0
+Sony Interactive Entertainment America LLC,sie.com/en/index.html,6984.0,,,6984.0,FirmSize.LARGE_FIRM,5,sie.com,0
+Siemens Aktiengesellschaft ,siemens.com/global/en/home.html,219450.0,,,227750.0,FirmSize.LARGE_FIRM,5,siemens.com,1
+Siemens Corporation,siemens.com/global/en/home.html,10550.0,227750.0,217200.0,227750.0,FirmSize.LARGE_FIRM,0,siemens.com,1
+Siemens Energy,siemens.com/global/en/home/products/energy.html,12284.0,227750.0,215466.0,227750.0,FirmSize.LARGE_FIRM,0,siemens.com,1
+Siemens Industry,siemens.com/us/en/home/products/automation.html,,,,227750.0,FirmSize.LARGE_FIRM,0,siemens.com,1
+Sienna Biopharmaceuticals,siennabio.com/,55.0,58.0,3.0,58.0,FirmSize.EU_MEDIUM_FIRM,0,siennabio.com,1
+Sienna Labs,siennabio.com/,55.0,58.0,3.0,58.0,FirmSize.EU_MEDIUM_FIRM,0,siennabio.com,1
+ProNAi Therapeutics,sierraoncology.com/,75.0,,,75.0,FirmSize.EU_MEDIUM_FIRM,3,sierraoncology.com,0
+Sierra Sciences,sierrasci.com/?p=home,17.0,4500.0,4483.0,4500.0,FirmSize.LARGE_FIRM,3,sierrasci.com,0
+Silicon Genesis Corporation,sigen.net/,12.0,,,12.0,FirmSize.SMALL_FIRM,2,sigen.net,0
+Sigma-Aldrich Co. LLC,sigmaaldrich.com/,4408.0,,,4408.0,FirmSize.LARGE_FIRM,5,sigmaaldrich.com,0
+Sila Nanotechnologies,silanano.com/,106.0,,,106.0,FirmSize.EU_MEDIUM_FIRM,3,silanano.com,0
+Bluestar Silicones France,silicones.elkem.com/,599.0,845.0,246.0,845.0,FirmSize.LARGE_FIRM,0,silicones.elkem.com,0
+Silicor Materials Inc.,silicormaterials.com/,54.0,,,54.0,FirmSize.EU_MEDIUM_FIRM,3,silicormaterials.com,0
+Siluria Technologies,siluria.com/,77.0,,,77.0,FirmSize.EU_MEDIUM_FIRM,3,siluria.com,0
+Sinewatts,sinewatts.com/,55.0,,,55.0,FirmSize.EU_MEDIUM_FIRM,3,sinewatts.com,0
+Singular Bio,singularbio.com/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,singularbio.com,0
+Singulex,singulexclarity.eu/,171.0,177.0,6.0,177.0,FirmSize.EU_MEDIUM_FIRM,0,singulexclarity.eu,0
+Sinton Consulting,sintoninstruments.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,sintoninstruments.com,0
+Sion Power Corporation,sionpower.com/,55.0,,,55.0,FirmSize.EU_MEDIUM_FIRM,3,sionpower.com,0
+Solar Junction Corporation,sj-solar.com/,46.0,,,46.0,FirmSize.SMALL_FIRM,2,sj-solar.com,0
+St. Jude Medical,sjm.com/,11657.0,9800.0,1857.0,11657.0,FirmSize.LARGE_FIRM,0,sjm.com,0
+Hynix Semiconductor Inc.,skhynix.com/eng/index.jsp,143.0,95600.0,95457.0,95600.0,FirmSize.LARGE_FIRM,2,skhynix.com,1
+SK Hynix Inc.,skhynix.com/eng/index.jsp,143.0,,,95600.0,FirmSize.LARGE_FIRM,3,skhynix.com,1
+Skidmore,skidmore.edu/,1409.0,138.0,1271.0,1409.0,FirmSize.LARGE_FIRM,2,skidmore.edu,0
+SK Telecom Co.,sktelecom.com/index.html,8145.0,,,8145.0,FirmSize.LARGE_FIRM,5,sktelecom.com,0
+Schlumberger Technology Corporation,slb.com/,36.0,50978.5,50942.5,50978.5,FirmSize.LARGE_FIRM,3,slb.com,0
+Smart Planet Technologies,smartplanettech.com/,18.0,,,18.0,FirmSize.SMALL_FIRM,2,smartplanettech.com,0
+Surebeam Corporation,smebeam.com/,3.0,130.0,127.0,130.0,FirmSize.EU_MEDIUM_FIRM,2,smebeam.com,0
+Smith & Nephew,smith-nephew.com/,9975.0,15000.0,5025.0,15000.0,FirmSize.LARGE_FIRM,0,smith-nephew.com,0
+SNS NANO FIBER TECHNOLOGY,snsnano.com/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,snsnano.com,0
+SB ENERGY,softbank.jp/en/energy/,94.0,,,94.0,FirmSize.EU_MEDIUM_FIRM,3,softbank.jp,0
+SOL-ELECTRICA,sol-electrica.com/,,,,,FirmSize.UNDEFINED,0,sol-electrica.com,0
+Sola U.S.A. Inc.,sola.at/,7.0,6067.0,6060.0,6067.0,FirmSize.LARGE_FIRM,4,sola.at,0
+SolaBlock LLC,solablock.com/,12.0,,,12.0,FirmSize.SMALL_FIRM,2,solablock.com,0
+SolAero Technologies Corp.,solaerotech.com,141.0,,,141.0,FirmSize.EU_MEDIUM_FIRM,3,solaerotech.com,0
+Schneider Electric Solar Inverters USA,solar.schneider-electric.com/,12.0,,,12.0,FirmSize.SMALL_FIRM,2,solar.schneider-electric.com,0
+Solarmer Energy,solarmer.com/,11.0,26.0,15.0,26.0,FirmSize.SMALL_FIRM,0,solarmer.com,0
+SolarReserve Technology,solarreserve.com/en/technology,85.0,,,85.0,FirmSize.EU_MEDIUM_FIRM,3,solarreserve.com,0
+Solar-Tectic LLC,solartecticllc.com/,,,,,FirmSize.UNDEFINED,0,solartecticllc.com,0
+SOLARTONIC,solartonic.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,solartonic.com,0
+SolarWorld Americas Inc.,solarworld-usa.com/,,2898.0,,2898.0,FirmSize.LARGE_FIRM,5,solarworld-usa.com,0
+SOLAZYME,solazyme.com/,66.0,,,66.0,FirmSize.EU_MEDIUM_FIRM,3,solazyme.com,0
+SOLENA FUELS CORPORATION,solenafuels.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,solenafuels.com,0
+Solight Solar,solight.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,solight.com,0
+Soliton Lasers,soliton.com/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,soliton.com,0
+SunCulture Solar Inc.,solpad.com/,57.0,,,57.0,FirmSize.EU_MEDIUM_FIRM,3,solpad.com,0
+Solvay Specialty Polymers USA,solvay.com/en,19120.0,1008.0,18112.0,19120.0,FirmSize.LARGE_FIRM,0,solvay.com,1
+Rhodia Operations,solvay.com/en/search/products,30.0,4147.0,4117.0,19120.0,FirmSize.LARGE_FIRM,3,solvay.com,1
+Sony Corporation,sony.com/,35467.0,10612.0,24855.0,35467.0,FirmSize.LARGE_FIRM,0,sony.com,0
+Soraa,soraa.com/,228.0,90.0,138.0,228.0,FirmSize.EU_MEDIUM_FIRM,0,soraa.com,0
+Soraa Laser Diode,soraalaser.com/,228.0,,,228.0,FirmSize.EU_MEDIUM_FIRM,3,soraalaser.com,0
+SPC International,spc-intl.com,12.0,,,12.0,FirmSize.SMALL_FIRM,2,spc-intl.com,0
+SPICE SOLAR,spicesolar.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,spicesolar.com,0
+Siliconware Precision Industries Co.,spil.com.tw/,571.0,19000.0,18429.0,19000.0,FirmSize.LARGE_FIRM,0,spil.com.t,0
+SixPoint Materials,spmaterials.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,spmaterials.com,0
+SRG Global,srgglobal.com/,1862.0,10700.0,8838.0,10700.0,FirmSize.LARGE_FIRM,0,srgglobal.com,0
+Silicon Storage Technology,sst.com/,2062.0,571.0,1491.0,2062.0,FirmSize.LARGE_FIRM,0,sst.com,0
+S&S X-Ray Products,ssxray.com/,16.0,,,16.0,FirmSize.SMALL_FIRM,2,ssxray.com,0
+St. Microelectronics Inc.,st.com/content/st_com/en.html,22108.0,,,23546.0,FirmSize.LARGE_FIRM,5,st.com,1
+STMicroelectronics Limited,st.com/content/st_com/en.html,22108.0,23546.0,1438.0,23546.0,FirmSize.LARGE_FIRM,0,st.com,1
+STMicroelectronics S.A.,st.com/content/st_com/en.html,22108.0,22925.0,817.0,23546.0,FirmSize.LARGE_FIRM,0,st.com,1
+Stablcor Technology,stablcor.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,stablcor.com,0
+STANDARD ALCOHOL COMPANY OF AMERICA,standardalcohol.com/#!,12.0,,,12.0,FirmSize.SMALL_FIRM,2,standardalcohol.com,0
+Stanley Electric Co.,stanley.co.jp/e/,105.0,16343.5,16238.5,16343.5,FirmSize.LARGE_FIRM,2,stanley.co.jp,0
+Star Technology and Research,star-tech-inc.com/,2.0,2784.0,2782.0,2784.0,FirmSize.LARGE_FIRM,4,star-tech-inc.com,0
+Starlight Energy Holdings LLC,starlightenergy.us/,1970.0,,,1970.0,FirmSize.LARGE_FIRM,5,starlightenergy.us,0
+Starsource Scientific LLC,starsource.com/about/?41.html,2.0,,,2.0,FirmSize.MICRO_FIRM,1,starsource.com,0
+STATS ChipPAC,statschippac.com/,1912.0,3535.0,1623.0,3535.0,FirmSize.LARGE_FIRM,0,statschippac.com,0
+Stora Enso Oyj,storaenso.com/,6354.0,25657.0,19303.0,25657.0,FirmSize.LARGE_FIRM,0,storaenso.com,0
+Stratasys,stratasys.com/,1440.0,1350.0,90.0,1440.0,FirmSize.LARGE_FIRM,0,stratasys.com,0
+Suganit Systems,suganit.com/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,suganit.com,0
+Sumco Corporation,sumco.com/,34.0,7794.5,7760.5,7794.5,FirmSize.LARGE_FIRM,3,sumco.com,0
+Sumitomo Rubber Industries,sumitomorubber-usa.com/,262.0,36650.0,36388.0,36650.0,FirmSize.LARGE_FIRM,1,sumitomorubber-usa.com,0
+Sun Chemical Corporation,sunchemical.com/,4313.0,19350.0,15037.0,19350.0,FirmSize.LARGE_FIRM,0,sunchemical.com,0
+Suncore Photovoltaics,suncoreus.com/,13.0,,,13.0,FirmSize.SMALL_FIRM,2,suncoreus.com,0
+Sun Drilling Products Corporation,sundrilling.com/,33.0,,,33.0,FirmSize.SMALL_FIRM,2,sundrilling.com,0
+Sundrop Fuels,sundropfuels.com/,24.0,,,24.0,FirmSize.SMALL_FIRM,2,sundropfuels.com,0
+SunEdison,sunedison.com/,866.0,7280.0,6414.0,7280.0,FirmSize.LARGE_FIRM,0,sunedison.com,0
+Sungevity Inc.,sungevity.com/,260.0,400.0,140.0,400.0,FirmSize.US_MEDIUM_FIRM,0,sungevity.com,0
+Sunlight Photonics Inc.,sunlightphotonics.com/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,sunlightphotonics.com,0
+SunLink Corporation,sunlink.com/,84.0,,,84.0,FirmSize.EU_MEDIUM_FIRM,3,sunlink.com,0
+Solaire Generation LLC,sunpowercarports.com/,13.0,,,13.0,FirmSize.SMALL_FIRM,2,sunpowercarports.com,0
+SunRun,sunrun.com/,66.0,2721.5,2655.5,2721.5,FirmSize.LARGE_FIRM,2,sunrun.com,1
+Sunrun South LLC,sunrun.com/,7.0,,,2721.5,FirmSize.LARGE_FIRM,1,sunrun.com,1
+SUNSALUTER,sunsaluter.org/,4.0,,,4.0,FirmSize.MICRO_FIRM,1,sunsaluter.org,0
+Sun Synchrony,sunsynchrony.com/,30.0,16000.0,15970.0,16000.0,FirmSize.LARGE_FIRM,3,sunsynchrony.com,0
+Integrated Solar Technology,suntegrasolar.com/,2.0,71.0,69.0,71.0,FirmSize.EU_MEDIUM_FIRM,2,suntegrasolar.com,0
+Supremex Inc.,supremex.com/,249.0,41.0,208.0,249.0,FirmSize.EU_MEDIUM_FIRM,1,supremex.com,0
+Sustainable Technologies,sustech.cc/wordpress/,29.0,,,29.0,FirmSize.SMALL_FIRM,2,sustech.cc,0
+Swagelok Company,swagelok.com/,21.0,4800.0,4779.0,4800.0,FirmSize.LARGE_FIRM,3,swagelok.com,0
+Sweetwater Energy,sweetwater.us/,29.0,,,29.0,FirmSize.SMALL_FIRM,2,sweetwater.us,0
+Swift Engineering,swiftengineering.com/,107.0,40.0,67.0,107.0,FirmSize.EU_MEDIUM_FIRM,1,swiftengineering.com,0
+Southwest Research Institute,swri.org/,2142.0,2683.0,541.0,2683.0,FirmSize.LARGE_FIRM,0,swri.org,0
+SUMITOMO WIRING SYSTEMS,sws.co.jp/en/,1357.0,29573.5,28216.5,29573.5,FirmSize.LARGE_FIRM,0,sws.co.jp,0
+Osram Sylvania Inc.,sylvania.com/,8586.0,6075.0,2511.0,8586.0,FirmSize.LARGE_FIRM,0,sylvania.com,0
+Symantec Corporation,symantec.com/,24923.0,11415.0,13508.0,24923.0,FirmSize.LARGE_FIRM,0,symantec.com,0
+Simbol Inc.,symbols.com/,3.0,100.0,97.0,100.0,FirmSize.EU_MEDIUM_FIRM,2,symbols.com,0
+Conexant Systems,synaptics.com/,2.0,312.0,310.0,312.0,FirmSize.US_MEDIUM_FIRM,3,synaptics.com,0
+Syngenta Participations AG,syngenta.com/,24597.0,27810.0,3213.0,27810.0,FirmSize.LARGE_FIRM,0,syngenta.com,0
+Synopsys,synopsys.com/,110.0,8148.0,8038.0,8148.0,FirmSize.LARGE_FIRM,2,synopsys.com,0
+Synthetic Genomics,syntheticgenomics.com/,169.0,130.0,39.0,169.0,FirmSize.EU_MEDIUM_FIRM,0,syntheticgenomics.com,0
+SYNTHOMER USA LLC,synthomer.com/,1017.0,2789.0,1772.0,2789.0,FirmSize.LARGE_FIRM,0,synthomer.com,0
+Sysmex Corporation,sysmex.com/Pages/default.aspx,165.0,7409.0,7244.0,7409.0,FirmSize.LARGE_FIRM,2,sysmex.com,0
+System Biosciences,systembio.com/,35.0,,,35.0,FirmSize.SMALL_FIRM,2,systembio.com,0
+TRI ALPHA ENERGY,tae.com/,130.0,,,130.0,FirmSize.EU_MEDIUM_FIRM,3,tae.com,0
+Taiyo Ink Mfg. Co.,taiyo-hd.co.jp/en/group/ink/,14.0,,,14.0,FirmSize.SMALL_FIRM,2,taiyo-hd.co.jp,0
+Takara Bio Inc.,takarabio.com/,75.0,811.5,736.5,811.5,FirmSize.LARGE_FIRM,2,takarabio.com,0
+Takeda Pharmaceutical Company Limited,takeda.com/,973.0,17790.5,16817.5,17790.5,FirmSize.LARGE_FIRM,0,takeda.com,0
+Microsurge,talcusa.com/microsurge/,,,,,FirmSize.UNDEFINED,0,talcusa.com,0
+Tamura Corporation,tamuracorp.com/,76.0,2714.5,2638.5,2714.5,FirmSize.LARGE_FIRM,2,tamuracorp.com,0
+Tapwave,tapwave.net/,10.0,,,10.0,FirmSize.SMALL_FIRM,2,tapwave.net,0
+Tarveda Therapeutics,tarveda.com/,29.0,,,29.0,FirmSize.SMALL_FIRM,2,tarveda.com,0
+Tau Therapeutics LLC,taurx.com/,20.0,,,20.0,FirmSize.SMALL_FIRM,2,taurx.com,0
+TMC Corporation,tcm.com/,3800.0,46968.0,43168.0,46968.0,FirmSize.LARGE_FIRM,0,tcm.com,0
+Tata Consultancy Services Limited,tcs.com/,380007.0,394998.0,14991.0,394998.0,FirmSize.LARGE_FIRM,0,tcs.com,0
+Tyco Electronics Corporation,te.com/usa-en/home.html,24819.0,69000.0,44181.0,69000.0,FirmSize.LARGE_FIRM,0,te.com,1
+Tyco Electronics U.K. LTD,te.com/usa-en/home.html,24819.0,,,69000.0,FirmSize.LARGE_FIRM,5,te.com,1
+EXOS LLC,teamexos.com/,471.0,2775.5,2304.5,2775.5,FirmSize.LARGE_FIRM,1,teamexos.com,0
+TECNIUM,tecnium.es/,13.0,,,13.0,FirmSize.SMALL_FIRM,2,tecnium.es,0
+TEKNOR APEX COMPANY,teknorapex.com/,769.0,450.0,319.0,769.0,FirmSize.LARGE_FIRM,1,teknorapex.com,0
+Tokyo Electron Limited,tel.com/,2343.0,11946.0,9603.0,11946.0,FirmSize.LARGE_FIRM,0,tel.com,0
+Tela Innovations,tela-inc.com/,15.0,,,15.0,FirmSize.SMALL_FIRM,2,tela-inc.com,0
+Teledyne Scientific & Imaging,teledyne-si.com/,210.0,,,210.0,FirmSize.EU_MEDIUM_FIRM,3,teledyne-si.com,0
+Cetac Technologies Inc.,teledynecetac.com/,60.0,,,60.0,FirmSize.EU_MEDIUM_FIRM,3,teledynecetac.com,0
+Teradata US,teradata.com/About-Us,14056.0,10615.0,3441.0,14056.0,FirmSize.LARGE_FIRM,0,teradata.com,0
+E. Tech Incorporation,terratechcorp.com/,,,,,FirmSize.UNDEFINED,0,terratechcorp.com,0
+TerraVia Holdings,terravia.com/,66.0,124.0,58.0,124.0,FirmSize.EU_MEDIUM_FIRM,0,terravia.com,0
+Tersus Environmental,tersusenv.com/,13.0,,,13.0,FirmSize.SMALL_FIRM,2,tersusenv.com,0
+SolarCity Corporation,tesla.com/solarpanels?energy_redirect=true,85.0,,,85.0,FirmSize.EU_MEDIUM_FIRM,3,tesla.com,0
+Tesla Nanocoatings,teslanano.com/,14.0,,,14.0,FirmSize.SMALL_FIRM,2,teslanano.com,0
+Tessera,tessera.com/,7.0,113.0,106.0,113.0,FirmSize.EU_MEDIUM_FIRM,2,tessera.com,1
+Tessera Advanced Technologies,tessera.com/,11.0,,,113.0,FirmSize.EU_MEDIUM_FIRM,2,tessera.com,1
+THE BOARD INSTITUTE,theboardinstitute.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,theboardinstitute.com,0
+The Carbon Cable Company,thecableco.com/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,thecableco.com,0
+Angstron Materials,theglobalgraphenegroup.com/,30.0,,,30.0,FirmSize.SMALL_FIRM,2,theglobalgraphenegroup.com,0
+TheGreenCell,thegreencell.com/,74.0,,,74.0,FirmSize.EU_MEDIUM_FIRM,3,thegreencell.com,0
+T.H.E.M.,them.net/,100.0,,,100.0,FirmSize.EU_MEDIUM_FIRM,3,them.net,0
+Theraclone Sciences,theraclone-sciences.com/home.php,6.0,,,6.0,FirmSize.MICRO_FIRM,1,theraclone-sciences.com,0
+SEEK THERMAL,thermal.com/,60.0,,,60.0,FirmSize.EU_MEDIUM_FIRM,3,thermal.com,0
+Life Technologies Corporation,thermofisher.com/us/en/home.html,15.0,,,39750.0,FirmSize.LARGE_FIRM,2,thermofisher.com,1
+Thermo Finnigan,thermofisher.com/us/en/home.html,39584.0,500.0,39084.0,39750.0,FirmSize.LARGE_FIRM,0,thermofisher.com,1
+Thermo Fisher Scientific Inc.,thermofisher.com/us/en/home.html,39584.0,39750.0,166.0,39750.0,FirmSize.LARGE_FIRM,0,thermofisher.com,1
+Applied Biosystems,thermofisher.com/us/en/home/brands/applied-biosystems.html,16.0,5160.0,5144.0,39750.0,FirmSize.LARGE_FIRM,3,thermofisher.com,1
+Disney Enterprises,thewaltdisneycompany.com/,3.0,133000.0,132997.0,133000.0,FirmSize.LARGE_FIRM,4,thewaltdisneycompany.com,0
+Thoratec Corporation,thoratec.com/,471.0,954.0,483.0,954.0,FirmSize.LARGE_FIRM,1,thoratec.com,0
+Thorlabs,thorlabs.com/,811.0,128.0,683.0,811.0,FirmSize.LARGE_FIRM,2,thorlabs.com,1
+Thorlabs Quantum Electronics,thorlabs.com/,811.0,55.0,756.0,811.0,FirmSize.LARGE_FIRM,2,thorlabs.com,1
+Thorn Bioscience LLC,thornbioscience.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,thornbioscience.com,0
+THYSSENKRUPP INDUSTRIAL SOLUTIONS GMBH,thyssenkrupp.com/en/,257.0,12515.0,12258.0,12515.0,FirmSize.LARGE_FIRM,1,thyssenkrupp.com,0
+Texas Instruments Incorporated,ti.com/,4.0,29714.0,29710.0,29714.0,FirmSize.LARGE_FIRM,4,ti.com,1
+NLT TECHNOLOGIES,tianma.co.jp/en/,71.0,,,71.0,FirmSize.EU_MEDIUM_FIRM,3,tianma.co.jp,0
+Tigo Energy,tigoenergy.com/,272.0,75.0,197.0,272.0,FirmSize.US_MEDIUM_FIRM,1,tigoenergy.com,0
+Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO,tno.nl/en/,3892.0,,,3892.0,FirmSize.LARGE_FIRM,5,tno.nl,0
+Toda Kogyo Corporation,todakogyo.co.jp/english/,4.0,40.0,36.0,40.0,FirmSize.SMALL_FIRM,1,todakogyo.co.jp,0
+Tokyo Ohka Kogyo Co.,tok.co.jp/eng/,19.0,1637.0,1618.0,1637.0,FirmSize.LARGE_FIRM,3,tok.co.jp,0
+TOMOWAVE LABORATORIES,tomowave.com/,7.0,,,7.0,FirmSize.MICRO_FIRM,1,tomowave.com,0
+Toray Industries Inc. ,toray.com/,715.0,45762.0,45047.0,45762.0,FirmSize.LARGE_FIRM,0,toray.com,0
+Toray Plastics (America),toraytpa.com/,394.0,589.0,195.0,589.0,FirmSize.LARGE_FIRM,1,toraytpa.com,0
+Kabushikikaisha Toshiba,toshiba.com/tai/,7.0,,,7.0,FirmSize.MICRO_FIRM,1,toshiba.com,0
+Toshiba America Electronic Components,toshiba.semicon-storage.com/us/top.html,321.0,300.0,21.0,321.0,FirmSize.US_MEDIUM_FIRM,0,toshiba.semicon-storage.com,0
+Tosoh Corporation,tosoh.com/,,12008.0,,12008.0,FirmSize.LARGE_FIRM,5,tosoh.com,0
+Total Marketing Services,total.com/en,3.0,,,3.0,FirmSize.MICRO_FIRM,1,total.com,0
+Toyota Jidosha Kabushiki Kaisha,toyota-global.com/pages/contents/investors/ir_library/sec/pdf/form_sd_201605_final.pdf,,,,,FirmSize.UNDEFINED,0,toyota-global.com,0
+Toyota Motor Engineering & Manufacturing North America,toyota.com/usa/careers/index.html,2.0,2764.5,2762.5,2764.5,FirmSize.LARGE_FIRM,4,toyota.com,0
+TP Solar,tpsolar.nl/?lang=en,3.0,,,3.0,FirmSize.MICRO_FIRM,1,tpsolar.nl,0
+TRANE INTERNATIONAL INC.,trane.com/index.aspx,,29000.0,,29000.0,FirmSize.LARGE_FIRM,5,trane.com,0
+Transilwrap Company,transcendia.com/,159.0,,,159.0,FirmSize.EU_MEDIUM_FIRM,3,transcendia.com,0
+Transitions Optical,transitions.com/en-us/,856.0,850.0,6.0,856.0,FirmSize.LARGE_FIRM,0,transitions.com,0
+Transposagen Biopharmaceuticals,transposagenbio.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,transposagenbio.com,0
+Transtron Solutions LLC,transtron.com/en/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,transtron.com,0
+Travis Industries,travisindustries.com/,53.0,,,53.0,FirmSize.EU_MEDIUM_FIRM,3,travisindustries.com,0
+TECHNOLOGY RESEARCH,trci.net/,946.0,14000.0,13054.0,14000.0,FirmSize.LARGE_FIRM,0,trci.net,0
+Texas Research International,tri-intl.com/,246.0,655.0,409.0,655.0,FirmSize.LARGE_FIRM,2,tri-intl.com,0
+TRIDONIC GMBH & CO KG,tridonic.com/com/en/,631.0,,,631.0,FirmSize.LARGE_FIRM,5,tridonic.com,0
+Triple Ring Technologies,tripleringtech.com/,109.0,,,109.0,FirmSize.EU_MEDIUM_FIRM,3,tripleringtech.com,0
+Valicor,trucent.com/,149.0,,,149.0,FirmSize.EU_MEDIUM_FIRM,3,trucent.com,0
+True-Safe Technologies,true-safe.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,true-safe.com,0
+Teal Sales Incorporated,tsi-inc.net,8.0,,,8.0,FirmSize.MICRO_FIRM,1,tsi-inc.net,0
+Taiwan Semiconductor Manufacturing Company,tsmc.com/english/default.htm,9.0,46968.0,46959.0,46968.0,FirmSize.LARGE_FIRM,4,tsmc.com,0
+TT Technologies,tttechnologies.com/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,tttechnologies.com,0
+Tufts Medical Center,tuftsmedicalcenter.org/,4671.0,25000.0,20329.0,25000.0,FirmSize.LARGE_FIRM,0,tuftsmedicalcenter.org,0
+Turf Group LLC,turfgroup.net/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,turfgroup.net,0
+Turtle Beach Corporation,turtlebeach.com/,175.0,116.0,59.0,175.0,FirmSize.EU_MEDIUM_FIRM,0,turtlebeach.com,0
+Ube Industries,ube-ind.co.jp/ube/en/index.html,111.0,10799.0,10688.0,10799.0,FirmSize.LARGE_FIRM,2,ube-ind.co.jp,0
+UCB Pharma S.A.,ucb.com/,76.0,220.0,144.0,220.0,FirmSize.EU_MEDIUM_FIRM,0,ucb.com,0
+UChicago Argonne,uchicagoargonnellc.org/,3807.0,,,3807.0,FirmSize.LARGE_FIRM,5,uchicagoargonnellc.org,0
+United Microelectronics Corp.,umc.com/,2485.0,15656.0,13171.0,15656.0,FirmSize.LARGE_FIRM,0,umc.com,0
+Uni-Charm Corporation,unicharm.co.jp/english/index.html,428.0,,,428.0,FirmSize.US_MEDIUM_FIRM,4,unicharm.co.jp,0
+Unifrax I LLC,unifrax.com/,490.0,,,490.0,FirmSize.US_MEDIUM_FIRM,4,unifrax.com,0
+UNISANTIS ELECTRONICS SINGAPORE PTE. LTD.,unisantis.com/,,,,,FirmSize.UNDEFINED,0,unisantis.com,0
+Uniseal Solutions Inc.,unisealsolutions.com/,111.0,,,111.0,FirmSize.EU_MEDIUM_FIRM,3,unisealsolutions.com,0
+Unistrut International Corp.,unistrut.us/,35.0,70.0,35.0,70.0,FirmSize.EU_MEDIUM_FIRM,1,unistrut.us,0
+Unity Semiconductor Corporation,unity-sc.com/,,,,,FirmSize.UNDEFINED,0,unity-sc.com,0
+Universal Leaf Tobacco Co.,universalcorp.com/,464.0,4000.0,3536.0,4000.0,FirmSize.LARGE_FIRM,1,universalcorp.com,0
+Kao Corporation,us.army.mil/,,33560.0,,33560.0,FirmSize.LARGE_FIRM,5,us.army.mil,0
+Bioneer Corporation,us.bioneer.com/,40.0,5025.0,4985.0,5025.0,FirmSize.LARGE_FIRM,3,us.bioneer.com,0
+SunPower Corporation,us.sunpower.com/,3997.0,7306.0,3309.0,7306.0,FirmSize.LARGE_FIRM,0,us.sunpower.com,0
+Canon,usa.canon.com/internet/portal/us/home,,100638.0,,100638.0,FirmSize.LARGE_FIRM,5,usa.canon.com,0
+DuPont Teijin Films U.S. Limited Partnership,usa.dupontteijinfilms.com/,213.0,,,213.0,FirmSize.EU_MEDIUM_FIRM,3,usa.dupontteijinfilms.com,0
+Siemens Medical Solutions USA,usa.healthcare.siemens.com/,,453.0,,453.0,FirmSize.US_MEDIUM_FIRM,4,usa.healthcare.siemens.com,0
+UT-Battelle,ut-battelle.org/,765.0,,,765.0,FirmSize.LARGE_FIRM,5,ut-battelle.org,0
+United Technologies Corporation,utc.com/,7892.0,204700.0,196808.0,204700.0,FirmSize.LARGE_FIRM,0,utc.com,0
+Hamilton Sundstrand Corporation,utcaerospacesystems.com/,2490.0,8979.0,6489.0,8979.0,FirmSize.LARGE_FIRM,0,utcaerospacesystems.com,0
+UVIC INDUSTRY PARTNERSHIPS INC.,uvic.ca/research/partner/index.php,26.0,,,26.0,FirmSize.SMALL_FIRM,2,uvic.ca,0
+UWM Research Foundation,uwmrf.org/,63.0,,,63.0,FirmSize.EU_MEDIUM_FIRM,3,uwmrf.org,0
+Vadient Optics,vadient.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,vadient.com,0
+Abbott Cardiovascular Systems Inc.,vascular.abbott/us/homepage.html,706.0,652.0,54.0,706.0,FirmSize.LARGE_FIRM,0,vascular.abbott,0
+Vascular BioSciences,vascularbiosciences.com/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,vascularbiosciences.com,0
+Vaxiion Therapeutics,vaxiion.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,vaxiion.com,0
+VEECO PRECISION SURFACE PROCESSING LLC,veeco.com/technologies-and-products/precision-surface-processing-systems,67.0,90.0,23.0,90.0,FirmSize.EU_MEDIUM_FIRM,0,veeco.com,0
+Veracode,veracode.com/,679.0,277.5,401.5,679.0,FirmSize.LARGE_FIRM,1,veracode.com,0
+Veracyte,veracyte.com/,255.0,246.0,9.0,255.0,FirmSize.US_MEDIUM_FIRM,1,veracyte.com,0
+VERILY LIFE SCIENCES LLC,verily.com/,538.0,,,538.0,FirmSize.LARGE_FIRM,5,verily.com,0
+VERLASE TECHNOLOGIES LLC,verlase.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,verlase.com,0
+Verliant Energy,verliantenergy.com/,5.0,,,5.0,FirmSize.MICRO_FIRM,1,verliantenergy.com,0
+VIASAT INC.,viasat.com/,4760.0,4950.0,190.0,4950.0,FirmSize.LARGE_FIRM,0,viasat.com,0
+VINDICO NANOBIO TECHNOLOGY INC.,vindicoat.com/,2.0,,,2.0,FirmSize.MICRO_FIRM,1,vindicoat.com,0
+VIOLIN MEMORY,violinsystems.com/,155.0,,,155.0,FirmSize.EU_MEDIUM_FIRM,3,violinsystems.com,0
+Virent,virent.com/,49.0,3900.0,3851.0,3900.0,FirmSize.LARGE_FIRM,3,virent.com,0
+Vizio Inc.,vizio.com/,502.0,400.0,102.0,502.0,FirmSize.LARGE_FIRM,1,vizio.com,0
+VMware,vmware.com/,6.0,21700.0,21694.0,21700.0,FirmSize.LARGE_FIRM,4,vmware.com,0
+Traex Corporation,vollrath.com/Traex-Full-Size-Compartment-Racks-1766.htm,2.0,,,2.0,FirmSize.MICRO_FIRM,1,vollrath.com,0
+Silicon Space Technology Corp.,voragotech.com/,278.0,,,278.0,FirmSize.US_MEDIUM_FIRM,4,voragotech.com,0
+Vorbeck Materials Corporation,vorbeck.com/,28.0,,,28.0,FirmSize.SMALL_FIRM,2,vorbeck.com,0
+Voxtel,voxtel-inc.com/,43.0,30.0,13.0,43.0,FirmSize.SMALL_FIRM,0,voxtel-inc.com,0
+WAFERTECH,wafertech.com/en/careers/,507.0,,,507.0,FirmSize.LARGE_FIRM,5,afertech.com,0
+Waters Technologies Corporation,waters.com/waters/home.htm?locale=en_US,190.0,6900.0,6710.0,6900.0,FirmSize.LARGE_FIRM,2,aters.com,0
+Watlow Electric Manufacturing Company,watlow.com/,1148.0,,,1148.0,FirmSize.LARGE_FIRM,5,atlow.com,0
+WCA Group LLC,wca-group.com/,4.0,1058.0,1054.0,1058.0,FirmSize.LARGE_FIRM,4,ca-group.com,0
+Weatherford Canada Partnership,weatherford.com/,72.0,50.0,22.0,72.0,FirmSize.EU_MEDIUM_FIRM,0,eatherford.com,0
+Wave Energy Conversion Corporation of America,weccamerica.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,eccamerica.com,0
+Terra Caloric,wellconnectgeo.com/,5305.0,,,5305.0,FirmSize.LARGE_FIRM,5,ellconnectgeo.com,0
+Wenger Corporation,wengercorp.com/,311.0,285.5,25.5,311.0,FirmSize.US_MEDIUM_FIRM,0,engercorp.com,0
+Wentworth Laboratories,wentworthlabs.com/,23.0,,,23.0,FirmSize.SMALL_FIRM,2,entworthlabs.com,0
+Wostec,westec.org/,6.0,,,6.0,FirmSize.MICRO_FIRM,1,estec.org,0
+WestPoint Home,westpointhome.com/,21.0,1750.0,1729.0,1750.0,FirmSize.LARGE_FIRM,3,estpointhome.com,0
+Building Envelope Innovations,wet-flash.com/,3.0,,,3.0,FirmSize.MICRO_FIRM,1,et-flash.com,0
+WHATSAPP INC.,whatsapp.com/,86.0,240000.0,239914.0,240000.0,FirmSize.LARGE_FIRM,2,hatsapp.com,0
+Wikipad,wikipad.com/,13.0,,,13.0,FirmSize.SMALL_FIRM,2,ikipad.com,0
+Winbond Electronics Corp.,winbond.com/,783.0,,,783.0,FirmSize.LARGE_FIRM,5,inbond.com,0
+Wine.com,wine.com/,187.0,5000.0,4813.0,5000.0,FirmSize.LARGE_FIRM,2,ine.com,0
+Wireless Environment,wirelessenv.com/,9.0,,,9.0,FirmSize.MICRO_FIRM,1,irelessenv.com,0
+WiSys Technology Foundation,wisys.org/,21.0,,,21.0,FirmSize.SMALL_FIRM,2,isys.org,0
+Wizard Labs,wizardlabs.us/,7.0,,,7.0,FirmSize.MICRO_FIRM,1,izardlabs.us,0
+Casio Computer Co.,world.casio.com/,140.0,12298.0,12158.0,12298.0,FirmSize.LARGE_FIRM,2,orld.casio.com,0
+WOVN,wovns.com/,34.0,,,34.0,FirmSize.SMALL_FIRM,2,ovns.com,0
+W&Wsens Devices,wwsensdevices.com/,450.0,,,450.0,FirmSize.US_MEDIUM_FIRM,4,sensdevices.com,0
+NOK Corporation,nok.co.jp/en/,5.0,43529.0,43524.0,43529.0,FirmSize.LARGE_FIRM,4,nok.co.jp,0
+George Mason Research Foundation,.gmu.edu/research,252.0,,,252.0,FirmSize.US_MEDIUM_FIRM,4,gmu.edu,0
+Hewlett-Packard Development Company,.hp.com/us/en/home.html,212204.0,60000.0,152204.0,212204.0,FirmSize.LARGE_FIRM,0,hp.com,0
+Wyatt Technology Corporation,wyatt.com/,6.0,7700.0,7694.0,7700.0,FirmSize.LARGE_FIRM,4,yatt.com,0
+X DEVELOPMENT LLC,x.org/wiki/Development/,30.0,,,30.0,FirmSize.SMALL_FIRM,2,x.org,0
+ZENA TECHNOLOGIES,xena-technologies.com/,8.0,,,8.0,FirmSize.MICRO_FIRM,1,xena-technologies.com,0
+Xerox Corporation,xerox.com/,59211.0,34250.0,24961.0,59211.0,FirmSize.LARGE_FIRM,0,xerox.com,0
+Xintec Inc.,xintec.com.tw/eng/index.aspx,29.0,,,29.0,FirmSize.SMALL_FIRM,2,xintec.com.t,0
+Crystal Solar Inc.,xtalsolar.com/,2.0,,,311.0,FirmSize.US_MEDIUM_FIRM,1,xtalsolar.com,1
+Crystal Solar Incorporated,xtalsolar.com/,2.0,311.0,309.0,311.0,FirmSize.US_MEDIUM_FIRM,3,xtalsolar.com,1
+22nd Century Limited,xxiicentury.com/,734.0,1.0,733.0,734.0,FirmSize.LARGE_FIRM,4,xxiicentury.com,0
+Xyleco,xyleco.com/,23.0,,,23.0,FirmSize.SMALL_FIRM,2,xyleco.com,0
+Yageo Corporation,yageo.com/portal/product/product.jsp,297.0,20000.0,19703.0,20000.0,FirmSize.LARGE_FIRM,1,yageo.com,0
+Yamaha Corporation,yamaha-motor.com/,3378.0,24219.0,20841.0,24219.0,FirmSize.LARGE_FIRM,0,yamaha-motor.com,0
+Yeda Research and Development Co.,yedarnd.com/Overview,24.0,,,24.0,FirmSize.SMALL_FIRM,2,yedarnd.com,0
+Metabolix,yield10bio.com/,3.0,66.0,63.0,66.0,FirmSize.EU_MEDIUM_FIRM,2,yield10bio.com,0
+Yissum,yissum.co.il/,40.0,,,40.0,FirmSize.SMALL_FIRM,2,yissum.co.il,0
+ZIH Corp.,zebra.com/us/en.html/,,8.0,,8.0,FirmSize.MICRO_FIRM,1,zebra.com,0
+Carl Zeiss Meditec AG,zeiss.com/meditec-ag/home.html,2417.0,3048.0,631.0,3048.0,FirmSize.LARGE_FIRM,0,zeiss.com,1
+Carl Zeiss Microscopy GmbH,zeiss.com/microscopy/int/home.html,1368.0,3048.0,1680.0,3048.0,FirmSize.LARGE_FIRM,0,zeiss.com,1
+Zeno Semiconductor Inc,zenosemi.com/,729.0,1.0,728.0,729.0,FirmSize.LARGE_FIRM,4,zenosemi.com,0
+Zephyr Energy Systems LLC,zephyrenergy.com/,179.0,,,179.0,FirmSize.EU_MEDIUM_FIRM,3,zephyrenergy.com,0
+Zoetis Services LLC,zoetis.com/products-services/,7270.0,9200.0,1930.0,9200.0,FirmSize.LARGE_FIRM,0,zoetis.com,0
+ZON,zon.si/,25.0,,,25.0,FirmSize.SMALL_FIRM,2,zon.si,0
+Zygo Corporation,zygo.com/,374.0,16.0,358.0,374.0,FirmSize.US_MEDIUM_FIRM,2,zygo.com,0
+Zyvex Labs,zyvexlabs.com/,11.0,,,11.0,FirmSize.SMALL_FIRM,2,zyvexlabs.com,0

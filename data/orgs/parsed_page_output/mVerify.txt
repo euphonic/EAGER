@@ -1,0 +1,10 @@
+Nuis a product maintained by apilayer, a technology company based in Vienna, Austria.
+We’ll do our best to respond in the shortest time possible.
+Office Locations
+What is it?
+Nuoffers a full-featured yet simple RESTful for national and international phone number validation and information lookup for a total of 232 countries around the world. Requested numbers are processed in real-time, cross-checked with the latest international numbering plan databases and returned in handy format enriched with useful carrier, geographical location and line type data.
+Who runs it?
+The nuis a product built and maintained by apilayer , an Austrian technology company aiming to help developers, startups and larger companies automate and outsource complex processes by serving them with dedicated and handy programming interfaces.
+Our goal is to offer quick and simple access to our software with the objective of speeding up development of your applications and easing the burden on your back-end.
+Focus on real people
+Fight fraudulent profiles and focus on real users - Thorough phone number validation has numerous benefits for your business and is incredibly easy to implement. The best way to capture good leads is to verify contact information right at the point of entry into your database.

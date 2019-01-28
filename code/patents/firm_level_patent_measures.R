@@ -1,4 +1,4 @@
-# this script creates a matrix of firm level patent measures
+# this script creates a matrix of firm level patent measures for use in MSM
 
 library(dplyr)
 library(extrafont)

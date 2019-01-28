@@ -1,0 +1,236 @@
+Blog
+Store
+Support Request
+Contact
+Solutions
+Authentication
+Financial
+Retail
+Healthcare
+Government
+Law Enforcement
+Gaming
+Biometric Identity
+Civil Government
+Applicant Background Check
+Migrant Security
+Foreign Assistance & Disaster Relief
+Border Management
+Mobile
+Criminal Justice / Defense
+Criminal Enrollment
+Corrections
+Mobile ID
+Court ID
+Commercial
+Retail & Hospitality
+Products
+Software
+Authentication
+DigitalPersona
+Management
+ArcID
+Enrollment/Booking
+Store & Forward
+Mobile
+SDK
+Commercial Fingerprint Biometrics (U.are.U)
+Scan Master
+Hardware
+Fingerprint Readers (Livescan)
+Palm Print
+Tenprint
+Two Finger
+Single Finger
+Enrollment & Booking Stations
+Fingerprint Modules
+Tenprint
+Single Finger
+Mobile/Portable
+Handhelds
+Jumpkits
+Commercial
+Commercial Hardware
+Resources
+By Type
+Brochures
+Case Studies
+Infographics
+Product Datasheets
+Videos
+White Papers
+On-Demand Webinars
+By Market
+Corporate
+Defense
+Education
+Enterprise
+Government
+Healthcare
+Market
+Hospitality
+Law Enforcement
+OEM
+POS
+Retail
+Calculators
+Authentication
+Commercial
+Glossary
+InfoSec Terms
+Partner
+Partner Portal
+Deal Registration
+Become a Partner
+Company
+Company
+About
+Leadership
+Careers
+Partners
+Contact Us
+News Room
+Events
+Blog
+Press Releases & Media Coverage
+Support
+Software Updates & Patches
+Documentation
+Knowledgebase
+Explore Keystroke Biometrics
+Solutions
+Authentication
+Financial
+Retail
+Healthcare
+Government
+Law Enforcement
+Gaming
+Biometric Identity
+Civil Government
+Applicant Background Check
+Migrant Security
+Foreign Assistance & Disaster Relief
+Border Management
+Mobile
+Criminal Justice / Defense
+Criminal Enrollment
+Corrections
+Mobile ID
+Court ID
+Commercial
+Retail & Hospitality
+Products
+Software
+Authentication
+DigitalPersona
+Management
+ArcID
+Enrollment/Booking
+Store & Forward
+Mobile
+SDK
+Commercial Fingerprint Biometrics (U.are.U)
+Scan Master
+Hardware
+Fingerprint Readers (Livescan)
+Palm Print
+Tenprint
+Two Finger
+Single Finger
+Enrollment & Booking Stations
+Fingerprint Modules
+Tenprint
+Single Finger
+Mobile/Portable
+Handhelds
+Jumpkits
+Commercial
+Commercial Hardware
+Resources
+By Type
+Brochures
+Case Studies
+Infographics
+Product Datasheets
+Videos
+White Papers
+On-Demand Webinars
+By Market
+Corporate
+Defense
+Education
+Enterprise
+Government
+Healthcare
+Market
+Hospitality
+Law Enforcement
+OEM
+POS
+Retail
+Calculators
+Authentication
+Commercial
+Glossary
+InfoSec Terms
+Partner
+Partner Portal
+Deal Registration
+Become a Partner
+Company
+Company
+About
+Leadership
+Careers
+Partners
+Contact Us
+News Room
+Events
+Blog
+Press Releases & Media Coverage
+Support
+Software Updates & Patches
+Documentation
+Knowledgebase
+Explore Keystroke Biometrics
+Search:
+About CrossThe World Identifies with Us
+Who we are
+Founded in a garage in 1996, we’ve grown into a world leader in risk-based composite authentication and biometric identity management. Our solutions address a range of concerns in today’s rapidly changing security climate—from preventing data breaches by eliminating the password to ensuring the safety of a country’s citizens by verifying refugees seeking asylum against biometric databases.
+Thousands of deployments and millions of users worldwide
+Our mission is simple
+We help enterprises and government around the world strengthen their security through our composite authentication and biometric identity solutions with unparalleled innovation, support and reliability.
+Our global roots
+Headquartered in Palm Beach Gardens, we have offices around the world—from Prague to Silicon Valley, Washington, to Taipei—and employ 275 dedicated professionals. We are owned by Global, an brand, and provider of trusted identities of the world’s people, places and things.
+> Meet our leadership
+Interested in joining our global team? See our open positions.
+Explore Careers
+Solutions
+Authentication Security
+Biometric Identity
+Products
+DigitalPersona® Authentication Security Software
+Identity Management Software
+Biometric Identity SDK
+Biometric Identity Hardware
+Commercial Hardware
+How Can We Help?
+   Start a support ticket
+   Send a message to sales
+   Order SDKs or supplies
+Upcoming Events
+ Jan 13 2019 - Jan 15 2019
+NRF’s Big Show & Expo
+ Jacob Javits Convention Center
+ No event found!
+Stay Connected with Us
+Sign-up for blogs, news and occasional communications
+© 2017-2018 Crossmatch. All rights reserved. | 
+Privacy Policy
+ | 
+Terms of Use
+ | 
+Legal
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+_linkedin_data_partner_id = "273385";

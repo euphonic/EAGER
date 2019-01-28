@@ -6,11 +6,9 @@ library(extrafont)
 # font_import()
 loadfonts(device = "pdf")
 library (ggplot2)
+library("ggpubr")
 
-# MacOS
 setwd("/Users/sarora/dev/EAGER/data/patents/measures")
-# Windows
-# setwd("C:\\Users\\sarora\\Documents\\GitHub\\EAGER\\data\\patents\\measures")
 
 # load data
 in.ass_all <- read.csv("assignees_overall.csv", header = TRUE, stringsAsFactors = FALSE)
@@ -25,14 +23,14 @@ in.pat_all <- read.csv("patents_overall.csv", header = TRUE, stringsAsFactors = 
 in.ass_first_year <- read.csv("assignees_first-year.csv", header = TRUE, stringsAsFactors = FALSE)
 in.lookup <- read.csv("assignee-2-patent-lookup.csv", header = TRUE, stringsAsFactors = FALSE) 
 
-in.eager_assignee <- read.csv("..\\eager_assignee.csv", header = TRUE, stringsAsFactors = FALSE) 
+in.eager_assignee <- read.csv("..//eager_assignee.csv", header = TRUE, stringsAsFactors = FALSE) 
 in.eager_assignee$employees <- as.numeric(gsub(",", "", in.eager_assignee$employees))
 in.eager_assignee$sme <- in.eager_assignee$employees
 in.eager_assignee[which(in.eager_assignee$employees > 500 & in.eager_assignee$thes_types=="Corporate"), 5] <- 0
 in.eager_assignee[which(in.eager_assignee$employees < 500 & !is.na(in.eager_assignee$employees) & in.eager_assignee$thes_types=="Corporate"), 5] <- 1
 View(in.eager_assignee)
 
-in.web_pages <- read.csv("..\\..\\analysis\\measures\\simple_web_measures_v1.csv", header = TRUE, stringsAsFactors = FALSE) 
+in.web_pages <- read.csv("..//..//analysis//measures//simple_web_measures_v1.csv", header = TRUE, stringsAsFactors = FALSE) 
 
 # number of small vs large firms
 head(in.pat_all)
@@ -70,10 +68,10 @@ mean_assignees_all_by_size
 
 # average number of assignees 3 industries
 head (in.ass_3)
-mean_assignees_3_by_size <- in.ass_3 %>% inner_join(in.lookup, by = c("patent_id" = "id")) %>% group_by(organization_clnd)  %>%  
+mean_assignees_all_by_size <- in.ass_3 %>% inner_join(in.lookup, by = c("patent_id" = "id")) %>% group_by(organization_clnd)  %>%  
   summarize(mean = mean( count.pa.assignee_id., na.rm=TRUE)) %>% inner_join(in.eager_assignee, by = c("organization_clnd")) %>% group_by(sme) %>% 
   summarize(mean = mean(mean, na.rm=TRUE))
-mean_assignees_3_by_size
+mean_assignees_all_by_size
 
 # average number of inventors all  
 head (in.inv_all)
@@ -120,10 +118,31 @@ theme.eager_chart_SMALLM <- theme.eager_chart +
 
 g1.df <- patents_web_emps %>% arrange(employees) %>% as.data.frame()
 head (g1.df)
-ggplot(data=g1.df, aes(x=employees, y=num_pages)) +
-  geom_point(alpha=.4, size=4, color="#880011") +
-  labs(x="Employees", y="Number of pages") +
+nrow (g1.df)
+g1.a <- ggplot(data=g1.df, aes(x=employees, y=num_pages)) +
+  geom_point(alpha=.4, size=4, color="#0037ff") +
+  labs(x="Employees", y="Number ofpages\nat depth of 1") +
+  scale_x_continuous(labels=comma, limits=c(0,10000)) +
+  scale_y_continuous(limits=c(0,400), breaks=seq(0,400,by=100)) +
+  geom_smooth(method = "lm") +
   theme.eager_chart_SCATTER
-g1.df
+g1.a
+ggsave("../../analysis/emps_x_pages.png")
 
+g1.b <- ggplot(data=g1.df, aes(x=count.p.id., y=num_pages)) +
+  geom_point(alpha=.4, size=4, color="#7b00ff") +
+  labs(x="Patents", y="Number ofpages\nat depth of 1") +
+  scale_x_continuous(labels=comma, limits=c(0,40000)) +
+  scale_y_continuous(limits=c(0,400), breaks=seq(0,400,by=100)) +
+  geom_smooth(method = "lm") +
+  theme.eager_chart_SCATTER
+g1.b
+ggsave("../../analysis/patents_x_pages.png")
 
+# variables are not normally distributed 
+shapiro.test(g1.df$employees)
+shapiro.test(g1.df$num_pages)
+shapiro.test(g1.df$count.p.id.)
+
+cor.test(g1.df$employees, g1.df$num_pages, alternative="two.sided", method="kendall" )
+cor.test(g1.df$count.p.id., g1.df$num_pages, alternative="two.sided", method="kendall" )

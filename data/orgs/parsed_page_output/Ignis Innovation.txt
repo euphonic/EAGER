@@ -1,0 +1,50 @@
+About In 2000, Professor Arokia Nathan formed Inc. to further develop and commercialize the pioneering pixel circuit research for Active Matrix Organic Light Emitting (AMOLED) backplanes begun at the University of Waterloo. The research group’s multi-disciplinary collaboration and materials knowledge was brought to to solve the problems inherent in backplanes using circuits and algorithms. The circuits and algorithms approach is a less expensive and more elegant solution to address the shortcomings of backplanes compared to improving the materials themselves.  The circuits and algorithms approach is also more easily transferred to industry where processes are closely guarded and difficult to modify.
+In the early 2000s our engineers focused on improving compensation and drive schemes. In 2007 we obtained a significant investment from Miralta Capital to accelerate our growth. The capital injection allowed us to use our expertise to develop compensation technology that offers solutions for all types of backplanes – not just amorphous silicon. The compensation technology, initially called AdMo and subsequently rebranded Intelligent | Pixel corrects uniformity and performance drift in backplanes.
+By 2010 we had developed Max | Life : a high-performance enhancement to our Intelligent | Pixel technology. Max | Life corrects problems in any backplane including uniformity and aging arising from both and effects.
+In 2016, announced the execution of a Patent License agreement with Display Co., Ltd. (“Display”), the Seoul-based world-leading display manufacturer. Under the agreement, provided Display under a non-exclusive license, access to its circuit technology to enhance the performance of displays.
+is now a seventeen-year old company based in Waterloo, Ontario, Canada. We employ a multi-disciplinary team with technical, sales, and management expertise. significant percentage of our scientists and engineers hail from the University of Waterloo, many with advanced degrees. We continue to be actively involved in collaborative research with the University of Waterloo through the Giga-to-Nanoelectronics (G2N) laboratory .
+will continue to DRIVE, MEASURE, emissive displays.
+We are proud to be a leading intellectual property and technology development company operating in the emerging and fast growing display industry, part of the $100world-wide flat panel display market.
+CAREERS
+Please follow a link below to review our current opportunities and apply for a position.
+Waterloo, Ontario, CanadaAbout Emissive Displays
+Active-Matrix Organic Light-Emitting Diode (AMOLED) is a relatively new display technology for wearable devices, mobile phones, televisions, and everything in between. Currently used on the Apple Watch and several top Android Smartphones like the Flex, Nexus and Samsung Galaxy series, the market for displays is expected to reach a level of $28.3 billion by 2020, according to research firm DisplaySearch.
+(Organic Light-Emitting Diode) refers to the thin film of organic material on top of the display. When electrical current is applied to this film, it gives off light, just like a regular – except it’s only a few nanometers thick. Learn more about OLEDs on Wikipedia .
+(Active Matrix) refers to how the display is addressed. Each pixel has an active element (a thin-film transistor, or TFT) that actively provides current to the OLED, maintaining that pixel’s brightness while the other pixels are being addressed. Without the active matrix, displays are small and low-resolution, used for applications like mobile phone sub-displays.
+versus displays
+displays are a next-generation technology; they offer both higher performance, and lower potential cost than today’s high quality AMLCDs.
+AMOLEDs provide higher performance than AMLCDs
+Image Quality: Richer colors, deeper blacks, and sharper images
+Thickness: No backlight means they’re thinner and lighter
+Power: 30-50% less power consumption
+Response Time: 1,000 times faster, so fast moving images aren’t blurred
+Viewing Angle: Widest field of view
+AMOLEDs can be manufactured at 30-50% lower cost than AMLCDs
+Fewer components and simpler processing (backlight or color filters)
+Can use much of the existing infrastructure
+Compatible with upcoming technologies such as ink jet printing, and roll-to-roll processing
+How Displays Work
+To understand displays and their unique advantages, it’s helpful to understand a bit about AMLCDs (Active-Matrix Liquid Crystal Display) – the bright, full-color ones found on most mobile phones, tablets, notebook computers, and televisions.
+Backlight: a bright source of light, typically LEDs or fluorescent tubes.
+Liquid crystal and polarizers: these layers work together to block the light or let it through
+backplane: the circuits in the backplane control the liquid crystal, twisting it to block the light or allow it to pass
+Color filter: filters the (white) light from the backlight to make the red, green and blue subpixels
+Because of the nature of displays, they have the following problems:
+Most of the backlight’s light is lost in the layers; only about 5% of the light makes it through the front of the display
+The backlight must be on even during dim images, wasting a lot of power.
+The liquid crystal layer can’t block all the light, so some light leaks through, making the blacks “gray”
+Because the light comes from the backlight, and has to pass through several layers, the viewing angle can be poor
+The colors filters are inefficient, so to save power they are often thin, leading to washed-out colors.
+How Displays Work
+displays are inherently simpler and have only two main layers:
+An (organic light-emitting diode) layer that emits light.
+backplane made of (thin-film transistor) circuits that provide current to the OLEDs, thereby controlling their brightness.
+There’s usually a polarizer on top, which cuts reflected light. And that’s it! The simpler structure will lead to lower cost than LCDs, in addition to being thinner and lighter.
+AMOLEDs also have other advantages:
+Lower Power: Only those pixels that are lit up consume power; dim screens (such as white text on a black background) consume almost no power, and video (where the pixels are only about 30% on) consumes much less power than LCD.
+Higher Contrast: When a pixel is off, no light comes out all. This high contrast (over 100,000:1) gives stunning image quality
+Better Viewing Angle: Because the light comes from the OLEDs on top of the display, the viewing angle is a true 180 degrees with no color shift
+Richer Colors: The colors of the OLEDs are rich and deep, so the display looks much more vibrant than LCD.
+CAREERS
+Please follow a link below to review our current opportunities and apply for a position.
+Waterloo, Ontario, Canada

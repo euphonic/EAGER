@@ -1,0 +1,1 @@
+c("start|state","develop|custom|solut|provid|servic", "power|solar|energi|system|manufactur", "establish|group|year|award|intern", "channel|report|law|arab|ani", "paper|imag|system|machin|process", "univers|manag|engin|develop|energi")

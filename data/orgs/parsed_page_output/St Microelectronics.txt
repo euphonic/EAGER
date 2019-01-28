@@ -1,0 +1,569 @@
+STBack
+Explore our product portfolio
+Amplifiers and Comparators
+Audio ICs
+Automotive Analog and Power
+Automotive Infotainment and Telematics
+Automotive Logic ICs
+Automotive Microcontrollers
+Clocks and Timers
+Data Converters
+Digital Set-Top Box ICs
+Diodes and Rectifiers
+Filtering and Signal Conditioning
+Imaging and Photonics Solutions
+Interfaces and Transceivers
+Memories
+and Sensors
+Microcontrollers
+Motor Drivers
+NFC
+Positioning
+Power Management
+Power Modules
+Power Transistors
+Protection Devices
+Radio Frequency Transistors
+Reset and Supervisor ICs
+Secure MCUs
+SiDevices
+Space Products
+Switches and Multiplexers
+Thyristors (SCR) and Switches
+Touch and Display Controllers
+Wireless Connectivity
+click here
+Back
+Industrial
+Energy Generation and Distribution
+Factory Automation
+Home and Professional Appliances
+Home, Building and City Automation
+Industrial Drives
+Industrial Power and Tools
+Lighting and Controls
+Medical and Healthcare
+Metering
+Motor Control
+Point of Sales and Retail Logistics
+Power Supplies and Converters
+Smart Farming
+Space
+Automotive
+ADAS
+Body and Convenience
+Chassis and Safety
+Electro-Mobility
+In-Vehicle Infotainment (IVI)
+Mobility Services
+Powertrain for ICE
+Telematics and Networking
+Personal Electronics
+Audio and Video
+Gaming and Drones
+Personal Care and Hygiene
+Smart Phones, Tablets and eReaders
+Virtual - Augmented Reality
+Wearable
+Communications Equipment, Computers and Peripherals
+Computers and Peripherals
+Data Center
+Servers
+Telecom Infrastructure
+IoSolutions
+Iofor Smart Home and City
+Iofor Smart Industry
+Iofor Smart Things
+Back
+Evaluation Tools
+Product  Evaluation Tools
+Solution Evaluation Tools
+Development Tools
+Hardware Development Tools
+Software Development Tools
+Calculators, Selectors, Simulators
+eDesignSuite
+Calculators
+Selectors
+Simulators and Models
+Embedded Software
+MCUs Embedded Software
+and Sensors Software
+Ecosystems
+Cloud
+Components and Modules
+Open Software Expansion
+STM32 Graphic User Interface
+STM32 Open Development Environment
+Back
+Support
+Contacts
+Learning
+Quality & Reliability
+Support Center
+Video Center
+Our Commitments
+Longevity Commitment
+Sustainable Technology
+Partners
+Partner Program
+Communities
+Community
+Back
+Sample & Buy
+eStore
+Contact our Sales Force & Distribution
+Back
+Company Information
+Who We Are
+Management
+Code of Conduct
+Blog
+Media Center
+Media Subscription
+Media Contacts
+Backgrounders
+Newsroom
+Investor Relations
+Investor Relations Home
+Corporate News
+Annual/Semi-Annual Reports
+Quarterly Results
+Calendar & Presentations
+General Meeting of Shareholders
+Stock Information
+Dividends
+Filings
+Institutional Coverage
+Contact Information
+Email Alerts
+Information Request
+Feeds
+Corporate Governance
+Events
+Upcoming Events & Technical Seminars
+Innovation & Technology
+Innovation & Technology
+Artificial Intelligence
+BCD
+VIPower
+SiC
+BiCMOS
+FD-SOI
+RF-SOI
+PCM
+MEMS
+Imaging Premium Foundry
+Sustainability
+Approach to Sustainability
+Sustainability Priorities
+Sustainability Reports
+Customer Satisfaction
+Commitment to Customer Satisfaction
+Five Areas of Excellence
+Customer Satisfaction Measurement
+Careers at ST
+Job Search
+Internships & Thesis
+Your Career at ST
+Locations
+Our Mission & Vision
+Our Culture & Values
+Procurement
+General terms and conditions
+ Menu
+Explore our product portfolio
+click here
+Industrial
+Automotive
+Personal Electronics
+Communications Equipment, Computers and Peripherals
+IoSolutions
+Evaluation Tools
+Development Tools
+Calculators, Selectors, Simulators
+Embedded Software
+Ecosystems
+Support
+Our Commitments
+Partners
+Communities
+Sample & Buy
+Company Information
+Media Center
+Investor Relations
+Events
+Innovation & Technology
+Sustainability
+Customer Satisfaction
+Careers at ST
+Procurement
+SEARCH
+Products
+Tools & Software
+Resources
+Videos
+Solutions
+Applications
+X-Reference
+All site
+SEARCH
+Products
+Tools & Software
+Resources
+Videos
+Solutions
+Applications
+X-Reference
+All site
+English 
+中文 
+日本語 
+English
+中文
+日本語
+Home
+About ST
+Careers at ST
+Our Mission & Vision
+Our Mission & Vision
+Every day, millions of people around the world benefit from ST’s products and technologies but few are aware of this because all of ST’s technology operates behind the scenes.
+We are a leading semiconductor company, one of the most important and influential semiconductor players in the world and the largest European semiconductor company:
+approximately 43,200 employees in the Group among which some 8,300 of our people work in R&D
+As a successful, independent semiconductor manufacturer, we deliver leading-edge solutions to our customers worldwide, enabling them to be at the forefront of their markets.
+What We Do
+Our Sustainability Mission
+Our Vision
+News & Highlights
+STLaunches Open Innovation Challenge: Promotes Full Range of STM32 Open Development Environment to French Start-ups
+High-Efficiency Super-Junction MOSFETs from STTarget Energy-Saving Power Topologies
+STNow Sampling Embedded for Automotive Microcontrollers
+See all
+Upcoming Events & Technical Seminars
+2019
+Motor & Drive Systems 2019
+STM32 Seminar February 2019
+Related Links
+Tutorial: 6LoWPAN, Step-by-Step Guide to Creating a Network and Sending Data to the Internet
+FP-NET-6LPWIFI1 and FP-SNS-6LPNODE1: Function Packs Make Creating a 6LoNetwork Easy
+Related Documents
+Company Presentation
+Sustainability Report
+Code of Conduct
+Featured Videos
+See All
+Get to know STSPIN32F0
+Getting Started with the Motor Control Nucleo Pack
+All rights reserved © 2018 ST
+Terms of use
+ | 
+Sales Terms & Conditions
+ | 
+Privacy Policy
+ | 
+Contacts
+x
+Subscription to newsletters
+*
+want to stay informed about ST's latest news
+consent that (as data controller according to the Privacy Policy) will keep a record of my navigation history and use that information as well as the personal data that have communicated to for marketing purposes relevant to my interests. My personal data will be provided to affiliates and distributors of in countries located in the European Union and outside of the European Union for the same marketing purposes  
+--------- 
+
+understand that can withdraw my consent at any time through opt-out links embedded in communication receive or by managing my account settings. can also exercise other user’s rights at any time as described in the Privacy Policy.
+will retain your browsing history and use details of the products and services that you have previously accessed, purchased or downloaded to make suggestions to you for other products and services which believe you will also be interested in.
+uses the personal data that you provide directly to it and through your activity on websites in accordance with the 
+Privacy Policy
+, to send you (directly or via local affiliates or distributors) newsletters, advertisements or other specific and targeted marketing material about products and services. Your personal data will be provided to local affiliates and distributors in countries located in the European Union and outside of the European Union. You can consult the list of local affiliates and distributors in our website’s 
+Privacy Policy
+. To send you specific and targeted marketing material, the information that you provide directly to and/or through your activity on websites may also be combined with other information that obtains from you in another context (e.g. if you enter into a business relationship with its local affiliates or distributors).
+Terms of Use
+Privacy Policy
+*
+x
+Your newsletter subscription has been successfully submitted!
+To validate your subscription, please click on the link inside the email that has been sent to you. This link will be valid for 24 hours. Please check your spam filters in case you did not receive the email.
+×STBack
+Explore our product portfolio
+Amplifiers and Comparators
+Audio ICs
+Automotive Analog and Power
+Automotive Infotainment and Telematics
+Automotive Logic ICs
+Automotive Microcontrollers
+Clocks and Timers
+Data Converters
+Digital Set-Top Box ICs
+Diodes and Rectifiers
+Filtering and Signal Conditioning
+Imaging and Photonics Solutions
+Interfaces and Transceivers
+Memories
+and Sensors
+Microcontrollers
+Motor Drivers
+NFC
+Positioning
+Power Management
+Power Modules
+Power Transistors
+Protection Devices
+Radio Frequency Transistors
+Reset and Supervisor ICs
+Secure MCUs
+SiDevices
+Space Products
+Switches and Multiplexers
+Thyristors (SCR) and Switches
+Touch and Display Controllers
+Wireless Connectivity
+click here
+Back
+Industrial
+Energy Generation and Distribution
+Factory Automation
+Home and Professional Appliances
+Home, Building and City Automation
+Industrial Drives
+Industrial Power and Tools
+Lighting and Controls
+Medical and Healthcare
+Metering
+Motor Control
+Point of Sales and Retail Logistics
+Power Supplies and Converters
+Smart Farming
+Space
+Automotive
+ADAS
+Body and Convenience
+Chassis and Safety
+Electro-Mobility
+In-Vehicle Infotainment (IVI)
+Mobility Services
+Powertrain for ICE
+Telematics and Networking
+Personal Electronics
+Audio and Video
+Gaming and Drones
+Personal Care and Hygiene
+Smart Phones, Tablets and eReaders
+Virtual - Augmented Reality
+Wearable
+Communications Equipment, Computers and Peripherals
+Computers and Peripherals
+Data Center
+Servers
+Telecom Infrastructure
+IoSolutions
+Iofor Smart Home and City
+Iofor Smart Industry
+Iofor Smart Things
+Back
+Evaluation Tools
+Product  Evaluation Tools
+Solution Evaluation Tools
+Development Tools
+Hardware Development Tools
+Software Development Tools
+Calculators, Selectors, Simulators
+eDesignSuite
+Calculators
+Selectors
+Simulators and Models
+Embedded Software
+MCUs Embedded Software
+and Sensors Software
+Ecosystems
+Cloud
+Components and Modules
+Open Software Expansion
+STM32 Graphic User Interface
+STM32 Open Development Environment
+Back
+Support
+Contacts
+Learning
+Quality & Reliability
+Support Center
+Video Center
+Our Commitments
+Longevity Commitment
+Sustainable Technology
+Partners
+Partner Program
+Communities
+Community
+Back
+Sample & Buy
+eStore
+Contact our Sales Force & Distribution
+Back
+Company Information
+Who We Are
+Management
+Code of Conduct
+Blog
+Media Center
+Media Subscription
+Media Contacts
+Backgrounders
+Newsroom
+Investor Relations
+Investor Relations Home
+Corporate News
+Annual/Semi-Annual Reports
+Quarterly Results
+Calendar & Presentations
+General Meeting of Shareholders
+Stock Information
+Dividends
+Filings
+Institutional Coverage
+Contact Information
+Email Alerts
+Information Request
+Feeds
+Corporate Governance
+Events
+Upcoming Events & Technical Seminars
+Innovation & Technology
+Innovation & Technology
+Artificial Intelligence
+BCD
+VIPower
+SiC
+BiCMOS
+FD-SOI
+RF-SOI
+PCM
+MEMS
+Imaging Premium Foundry
+Sustainability
+Approach to Sustainability
+Sustainability Priorities
+Sustainability Reports
+Customer Satisfaction
+Commitment to Customer Satisfaction
+Five Areas of Excellence
+Customer Satisfaction Measurement
+Careers at ST
+Job Search
+Internships & Thesis
+Your Career at ST
+Locations
+Our Mission & Vision
+Our Culture & Values
+Procurement
+General terms and conditions
+ Menu
+Explore our product portfolio
+click here
+Industrial
+Automotive
+Personal Electronics
+Communications Equipment, Computers and Peripherals
+IoSolutions
+Evaluation Tools
+Development Tools
+Calculators, Selectors, Simulators
+Embedded Software
+Ecosystems
+Support
+Our Commitments
+Partners
+Communities
+Sample & Buy
+Company Information
+Media Center
+Investor Relations
+Events
+Innovation & Technology
+Sustainability
+Customer Satisfaction
+Careers at ST
+Procurement
+SEARCH
+Products
+Tools & Software
+Resources
+Videos
+Solutions
+Applications
+X-Reference
+All site
+SEARCH
+Products
+Tools & Software
+Resources
+Videos
+Solutions
+Applications
+X-Reference
+All site
+English 
+中文 
+日本語 
+English
+中文
+日本語
+Home
+About ST
+Careers at ST
+Our Culture & Values
+Our Culture & Values
+Our Culture of Diversity
+We tap into the unique strength of each local unit and leverage those strengths worldwide.
+
+Our Company has French and Italian roots and has grown global during the course of the years. Today over 40% of our top managers are from other cultures..
+
+We hire people who have technical qualifications and we recruit solely on ability, regardless of gender, ethnicity, religion, age or disability. Women make up 39% of our workforce.
+Our Values
+News & Highlights
+STLaunches Open Innovation Challenge: Promotes Full Range of STM32 Open Development Environment to French Start-ups
+High-Efficiency Super-Junction MOSFETs from STTarget Energy-Saving Power Topologies
+STNow Sampling Embedded for Automotive Microcontrollers
+See all
+Upcoming Events & Technical Seminars
+2019
+Motor & Drive Systems 2019
+STM32 Seminar February 2019
+Related Links
+Tutorial: 6LoWPAN, Step-by-Step Guide to Creating a Network and Sending Data to the Internet
+FP-NET-6LPWIFI1 and FP-SNS-6LPNODE1: Function Packs Make Creating a 6LoNetwork Easy
+Related Documents
+Company Presentation
+Sustainability Report
+Code of Conduct
+Featured Videos
+See All
+Get to know STSPIN32F0
+Getting Started with the Motor Control Nucleo Pack
+All rights reserved © 2018 ST
+Terms of use
+ | 
+Sales Terms & Conditions
+ | 
+Privacy Policy
+ | 
+Contacts
+x
+Subscription to newsletters
+*
+want to stay informed about ST's latest news
+consent that (as data controller according to the Privacy Policy) will keep a record of my navigation history and use that information as well as the personal data that have communicated to for marketing purposes relevant to my interests. My personal data will be provided to affiliates and distributors of in countries located in the European Union and outside of the European Union for the same marketing purposes  
+--------- 
+
+understand that can withdraw my consent at any time through opt-out links embedded in communication receive or by managing my account settings. can also exercise other user’s rights at any time as described in the Privacy Policy.
+will retain your browsing history and use details of the products and services that you have previously accessed, purchased or downloaded to make suggestions to you for other products and services which believe you will also be interested in.
+uses the personal data that you provide directly to it and through your activity on websites in accordance with the 
+Privacy Policy
+, to send you (directly or via local affiliates or distributors) newsletters, advertisements or other specific and targeted marketing material about products and services. Your personal data will be provided to local affiliates and distributors in countries located in the European Union and outside of the European Union. You can consult the list of local affiliates and distributors in our website’s 
+Privacy Policy
+. To send you specific and targeted marketing material, the information that you provide directly to and/or through your activity on websites may also be combined with other information that obtains from you in another context (e.g. if you enter into a business relationship with its local affiliates or distributors).
+Terms of Use
+Privacy Policy
+*
+x
+Your newsletter subscription has been successfully submitted!
+To validate your subscription, please click on the link inside the email that has been sent to you. This link will be valid for 24 hours. Please check your spam filters in case you did not receive the email.
+×

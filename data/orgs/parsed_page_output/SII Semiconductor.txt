@@ -1,0 +1,526 @@
+Products
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Programmable Port Controller
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+HOME
+Corporate Profile
+Vision
+SMALL
+Developing and manufacturing 
+ultra-small products
+SMART
+Providing power-saving analog 
+semiconductors leading to a “smart” society
+SIMPLE
+Providing simple, easy-to-use products 
+contributing to miniaturization and cost reduction
+The origin of our products lies in the development of ICs for quartz watches. We downsized quartz mechanisms from the size of a locker to something small enough to be worn on a wrist, and succeeded in bringing to production analog semiconductors that function accurately while using only a minute amount of energy. The safe and reliable leading-edge technology cultivated through our research and manufacturing is seeing increasing utilization in the latest key devices, including those for automobiles, smartphones, and healthcare.
+Corporate Profile
+Message
+Outline
+Vision
+History
+Business Field
+Integrated Production System
+Quality / Environment
+Worldwide Locations
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Worldwide Locations
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
+Privacy Policy
+Web Site Privacy Policy
+Copyright © Inc. 2018, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptProducts
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Programmable Port Controller
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+HOME
+Corporate Profile
+Vision
+SMALL
+Developing and manufacturing 
+ultra-small products
+SMART
+Providing power-saving analog 
+semiconductors leading to a “smart” society
+SIMPLE
+Providing simple, easy-to-use products 
+contributing to miniaturization and cost reduction
+The origin of our products lies in the development of ICs for quartz watches. We downsized quartz mechanisms from the size of a locker to something small enough to be worn on a wrist, and succeeded in bringing to production analog semiconductors that function accurately while using only a minute amount of energy. The safe and reliable leading-edge technology cultivated through our research and manufacturing is seeing increasing utilization in the latest key devices, including those for automobiles, smartphones, and healthcare.
+Corporate Profile
+Message
+Outline
+Vision
+History
+Business Field
+Integrated Production System
+Quality / Environment
+Worldwide Locations
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Worldwide Locations
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
+Privacy Policy
+Web Site Privacy Policy
+Copyright © Inc. 2018, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptProducts
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Programmable Port Controller
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+HOME
+Corporate Profile
+History
+HISTORY
+2018
+   Change Name to “Inc.”
+2017
+High-efficiency SWRs
+2016
+Established Inc.
+2016
+Medical device ICs
+2015
+High-power dissipation packages (TO-252-5S)
+2015
+Wireless power ICs
+2014
+Timer ICs for automotive use
+2013
+Magnetism sensor ICs for automotive use
+2011
+Ultra-small 0.8 x 0.8 mm packages (HSNT)
+2009
+High-power dissipation packages (HSOP-6)
+2009
+Power supply ICs for automotive use
+2005
+Ultra-low voltage operation charge pumps
+2003
+Ultra-small packages (SNT)
+2003
+for automotive use
+1999
+Lithium-ion battery protection ICs (Secondary protection)
+1996
+Began the post process at the Akita plant.
+1993
+Lithium-ion battery protection ICs / EEPROM
+1990
+Real-time clock ICs
+1987
+Completed the 6-inch line for the wafer process.
+1986
+Non-volatile memories
+1985
+Temperature sensor ICs
+1984
+Magnetism sensor ICs
+1983
+Voltage regulators and voltage detectors
+1979
+Completed the 4-inch line for the wafer process.
+1979
+Analog quartz ICs
+1970
+Completed the 2-inch line for development.
+1968
+Began R&D.
+1937
+Established 1937 Daini Seikosha Co., Ltd.
+ (the present-day Seiko Instruments Inc.)
+1881
+Established Hattori 
+(the present-day Seiko Holdings Corporation)
+2017
+High-efficiency SWRs
+Established 2016
+2016
+Medical device ICs
+High-power dissipation packages (TO-252-5S)
+2015
+2015
+Wireless power ICs
+2014
+Timer ICs for automotive use
+2013
+Magnetism sensor ICs for automotive use
+Ultra-small 0.8 x 0.8 mm packages (HSNT)
+2011
+High-power dissipation packages (HSOP-6)
+2009
+2009
+Power supply ICs for automotive use
+2005
+Ultra-low voltage operation charge pumps
+Ultra-small packages (SNT)
+2003
+2003
+for automotive use
+1999
+Lithium-ion battery protection ICs (Secondary protection)
+Began the post process at the Akita plant.
+1996
+1993
+Lithium-ion battery protection ICs / EEPROM
+1990
+Real-time clock ICs
+Completed the 6-inch line for the wafer process.
+1987
+1986
+Non-volatile memories
+1985
+Temperature sensor ICs
+1984
+Magnetism sensor ICs
+1983
+Voltage regulators and voltage detectors
+Completed the 4-inch line for the wafer process.
+1979
+1979
+Analog quartz ICs
+Completed the 2-inch line for development.
+1970
+Began R&D.
+1968
+Established 1937 Daini Seikosha Co., Ltd.
+(the present-day Seiko Instruments Inc.)
+1937
+Established Hattori 
+(the present-day Seiko Holdings Corporation)
+1881
+Corporate Profile
+Message
+Outline
+Vision
+History
+Business Field
+Integrated Production System
+Quality / Environment
+Worldwide Locations
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Worldwide Locations
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
+Privacy Policy
+Web Site Privacy Policy
+Copyright © Inc. 2018, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+Accept

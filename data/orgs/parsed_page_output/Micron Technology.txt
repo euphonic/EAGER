@@ -1,0 +1,327 @@
+Part Catalogs
+and Part Marking Decoder
+Due to space limitations, FBGA-packaged components have an abbreviated part marking that is different from the part number. Use our decoder tool to find your part number.
+About Insight
+Insight brings you stories about how transforms information to enrich lives. Learn, imagine, innovate, solve, and gain insight on the trends of today and tomorrow from thought leaders around the world. We've built our technological expertise for over 40 years and now we are sharing that expertise with you. Learn how intelligence is being accelerated to enrich life in science and medicine, at the edge, and through the speed of data access and analysis. Accelerate your Intelligence at Insight.
+Register
+Get maximum visibility to confidential data sheets, technical documentation, and the latest product and developments by registering for a micron.com account.
+Redefining what's possible.
+memory and storage solutions define what the world can do with data. Our more than 34,000 team members, in 17 different countries, work with countless customers to innovate every day and pursue the products that will shape how we live and work tomorrow.
+Driving that shapes...
+Transforming how the world uses information.
+Memory and storage have moved beyond simply holding data to now unlocking its meaning and value. They transform data into insight that people use. Through our global brands — Micron, Crucial, and Ballistix — we offer the industry's broadest portfolio of memory and storage products for the latest applications.
+makes it happen.
+world of ideas, memories, and knowledge — accessed, managed, and connected in ways never imagined. Discover how makes it all possible.
+Watch Video
+memory is all around you.
+Our memory is almost everywhere. Check out our solutions to see where.
+Coming together to innovate better.
+At we value collaboration and our teams. Because that's where the best ideas and breakthroughs are born. Our team members, partners, customers, and leadership work closely together to deliver — setting a high bar for ourselves and our industry. Because transformation always starts within.
+Join our team.
+Work with the ones who dream up the that drives and changes our world.
+Out of the lab. Into the world.
+See what the best minds at are thinking up to improve the world around us.
+Smartphones are accelerating the personalization of the connected car.
+Imagine getting into a rental car, and after a quick data sync with your smartphone, the car has all of your personal preferences, specifically tailored to your individual needs.
+Buy into an improved online shopping experience.
+Before you make a purchase — before you start browsing and before you even consider a product — online shopping algorithms are making calculated deductions on what you need next, before you even know you need it.
+Our day-to-day operations wouldn't be possible without our team members' commitment to business integrity and environmental sustainability. Whether it's adhering to our professional values or valuing the communities we work in, for us, doing business better means doing business right.
+Our Stewardship
+Our Stewardship
+Operating Thoughtfully
+Operating Thoughtfully
+Reducing our operational impact to the environment and our communities.
+Through a blend of corporate global strategy and local adaptation to the unique challenges and opportunities that each of our facilities and operating locations present, we're always working toward making our operations more sustainable.
+Empowering People
+Empowering People
+Valuing our team members and supporting our communities.
+Our commitment to team members is reflected in our core value People, and illustrated by our relentless drive to provide an engaging work environment that is ethical, diverse and inclusive.
+Sourcing Responsibly
+Sourcing Responsibly
+Our rigorous sourcing standards maintain the sustainability of our operations while improving social and environmental conditions through our industry's supply chain.
+Operating Thoughtfully
+Empowering People
+Sourcing Responsibly
++
+Helping the world work smarter, play more spontaneously, and connect and communicate more efficiently.
+At Micron, we solve real challenges for real companies. From OEMs, to Iodevelopers, to global data center operators--our industry and market landscape is ever-changing, and demand is rapidly expanding. We work side-by-side with customers to drive that change and meet demand.
++Part Catalogs
+and Part Marking Decoder
+Due to space limitations, FBGA-packaged components have an abbreviated part marking that is different from the part number. Use our decoder tool to find your part number.
+About Insight
+Insight brings you stories about how transforms information to enrich lives. Learn, imagine, innovate, solve, and gain insight on the trends of today and tomorrow from thought leaders around the world. We've built our technological expertise for over 40 years and now we are sharing that expertise with you. Learn how intelligence is being accelerated to enrich life in science and medicine, at the edge, and through the speed of data access and analysis. Accelerate your Intelligence at Insight.
+Register
+Get maximum visibility to confidential data sheets, technical documentation, and the latest product and developments by registering for a micron.com account.
+Our Company
+Corporate Profile
+We are a world leader in innovative memory solutions that transform how the world uses information. For over 40 years, our company has been instrumental to the world’s most significant advancements, delivering optimal memory and storage systems for a broad range of applications.
+Worldwide Locations
+Nothing is more important than our commitment to integrity. The quality of our reputation is just as important as the quality of our products. Our future is built on continuous innovation, but our day-to-day operations wouldn’t be possible without our team members’ commitment to conducting business with uncompromising integrity and professionalism. We take a proactive approach to environmental stewardship, occupational health and safety, and high-quality product standards. As a result, our award-winning efforts have been recognized internationally.
+Long-Term Innovation Path
+We began in 1978 as a four-person semiconductor design company in the basement of a Boise, Idaho, dental office. By 1980 we had broken ground on our first fabrication plant, and then just a few years later we introduced the world’s smallest 256In 1994, we earned a spot on the Fortune 500 and steadily grew into an industry leader through our innovations, key partnerships, and strategic acquisitions around the world. Check out the milestones that have made us who we are today.
+The primary objective of Ventures is to assist in supporting the long-term needs of its customers. As a key component of Micron’s innovation strategy, early stage equity investments provide with access to technologies, markets, applications, and key innovations influencing the semiconductor space.
++Part Catalogs
+and Part Marking Decoder
+Due to space limitations, FBGA-packaged components have an abbreviated part marking that is different from the part number. Use our decoder tool to find your part number.
+About Insight
+Insight brings you stories about how transforms information to enrich lives. Learn, imagine, innovate, solve, and gain insight on the trends of today and tomorrow from thought leaders around the world. We've built our technological expertise for over 40 years and now we are sharing that expertise with you. Learn how intelligence is being accelerated to enrich life in science and medicine, at the edge, and through the speed of data access and analysis. Accelerate your Intelligence at Insight.
+Register
+Get maximum visibility to confidential data sheets, technical documentation, and the latest product and developments by registering for a micron.com account.
+Our Innovation
+Watch video
++
+Helping the world work smarter, play more spontaneously, and communicate more efficiently.
+Our team of visionaries and trailblazers has redefined innovation — designing and building advanced memory and semiconductor technologies that transform what’s possible.
+Our History of Innovation
+Is Founded
+started as a four-person semiconductor design company in the basement of a Boise, Idaho dental office. Micron’s first contract was for the design of a 64memory chip for Mostek Corporation.
+Engineers Finalize 64Design
+While not the first company to make 64DRAM, Micron’s engineers created a newer, smaller version that was lauded as the smallest 64design in the world. This innovative design led to high-volume manufacturing of the company’s first 64product in 1981.
+Ships its First 64Product
+Micron’s 64was the first product manufactured at the company’s newly completed fabrication facility in Boise, Idaho. sold its 64into many of the first mass-produced personal computers, including the Commodore 64 home computer.
+Unveils World’s Smallest 256Chip
+In addition to being introduced as the world’s smallest 256die, this chip also represented an industry milestone in density. By using bigger and easier-to-read memory cells, the 256was a springboard to future efficiency and profitability for the young memory startup.
+Brings 1-Megabit to Market
+milestone in density, the 1Mb became a staple for main memory in PCs and graphics cards during the late 1980s and 1990s. Micron’s 1Mb enabled high-capacity modules that supported PCs equipped with Microsoft’s new Windows OS.
+Introduces First Video and Fast Static Products
+The introductions of 256video and fast static broadened Micron’s product portfolio beyond traditional DRAM, enabling to become a player in differentiated memory types.
+16-Megabit Enables PCs With New Windows 3.1
+milestone in density, the 16-megabit replaced Micron's mainstay 4-megabit lineup. These higher capacity chips coincided with Microsoft’s release of Windows 3.1, which drove minimum requirements to 1 megabyte.
+Produces Industry’s First DRAM
+Micron’s demonstration of the Samurai double data rate (DDR) chipset proved that memory could deliver performance equivalent to the competing Direct solution, but at a much lower cost. Ultimately, would become the undisputed industry-standard interface for high-performance DRAM.
+Micron's Quad Data Rate Doubles Memory Bandwidth
+Micron’s innovative quad data rate (QDR) architecture effectively doubled the bandwidth for communication applications such as switches and routers. This unique design used two ports to independently run at a double data rate, resulting in four data items per clock cycle.
+Demonstrates Industry's First 1Gigabit on 110nm Process
+Micron’s 1Gb was built on the most advanced process in the world (110nm), outpacing semiconductor giants Intel and who were still on 130nm. This chip established as the memory industry leader in both density and interface performance.
+Develops 1.3-Megapixel Image Sensor
+Micron’s entry into image sensors established the company as an innovator capable of making with image quality rivaling charge coupled device (CCD) sensors. Today, sensors are the standard in digital cameras of all types, from smartphones to high-end professional gear.
+Unveils Pseudo-Static for Cell Phones
+Pseudo-Static (PSRAM) delivered the high bandwidth, capacity and low power necessary to replace in mobile devices. Micron’s leadership in paved the way for future low-power products that are used in mobile devices today.
+Develops the Industry’s First 6F2 Cell
+developed an entirely new 6F2 cell architecture to replace the industry’s 8F2 cell standard, enabling approximately 25% more bits per wafer. This higher-density design enabled to reclaim the title as the industry’s most cost-competitive memory producer.
+Introduces High-Capacity, Low-Power Mobile LPDRAM
+Micron’s 16— built on a tiny 33mm2 die — enabled higher capacity and lower power in a small footprint. As cell phones transitioned from simple voice to multimedia, requirements increased dramatically, a trend that continues in smartphones today.
+Develops Mongoose Tester for Improved Accuracy, Lower Costs
+This internally-developed tester is used exclusively by to increase test throughput and accuracy. continues to evolve this tester platform to meet new and future memory standards.
+Unveils the World's Highest-Density Server Memory Module
+Micron’s 16DDR2 module served the fast-growing server memory footprint of the 2000s as the rise of virtualization packed multiple applications onto single servers. These high-density server modules are a trend that continues today.
+Develops Industry’s First Pitch-Doubled NAND
+Pitch-doubling was introduced as a lithography technique for increasing bit density without a lithography change. This method involved the separation of bit lines into first and second metal layers, allowing to deliver a 16Gb device on existing 50nm technology.
+Advances Low-Latency, Low-Power 2 Memory
+Originally designed for networking, this high-performance quickly became the solution of choice for an unexpected application: DLP-based TVs and projectors. While density has increased over time, reduced latency remains a staple in networking applications today.
+and Intel First to Deliver Sub-40nm Flash Memory
+This multi-level cell (MLC) flash device was the industry’s first monolithic 32Gb NAND, which enabled high-density solid state storage in very small form factor devices, including digital cameras, personal music players and digital camcorders.
+Ships RealSSD™ C300, Industry’s Fastest Client SSD
+At the time of launch, the C300 was the industry’s fastest for notebook and desktop PCs. With support for the interface, this delivered 6 Gb/s which significantly boosted throughput speeds for data transfers, application loads and boot times.
+and Intel Announce World’s First 20nm NAND
+This 128Gb memory could store 1Tb of data in a single fingertip-size package with just eight die, setting a new storage benchmark. Additionally, this memory was the first to use an innovative planar cell structure that overcame the scaling constraints of standard floating-gate NAND.
+Debuts Hybrid Memory Cube (HMC) Architecture
+Hybrid Memory Cube (HMC) is a revolutionary architecture that combines high-speed logic with a stack of memory die using through-silicon via (TSV) technology. Learnings from continue to be applied towards future, emerging memory technologies.
+Produces Industry’s First 2.5-Inch PCIe Enterprise SSD
+This solution combined a high-performance Express interface with a hot-swappable 2.5-inch form factor and custom controller, creating new options for enterprise performance scalability and serviceability.
+Creates New Low-Power Category for Ultrabook™  Devices
+DDR3L-memory established a new category of “reduced-power” solutions, enabling longer battery life for a new generation of high-performance, ultrathin devices like laptops, tablets, and Ultrabook systems.
+*Ultrabook is a trademark of Intel Corporation or its subsidiaries in the and/or other countries.
+Delivers World’s Smallest 16nm Flash Device
+Micron’s 16nm process delivered 16of storage on a single die, the highest-density planar flash memory ever developed. Using this process, a single 300mm wafer can create nearly 6of storage.
+Leads Industry With First Monolithic 8Gb DDR3 SDRAM
+This single component provided a significant density increase to 1 gigabyte on a single chip. This higher density enables cost-effective, high-capacity solutions optimized to support large-scale, data-intensive workloads.
+and Intel Unveil 3NAND, the Highest-Density Flash Ever Developed
+3marks a significant inflection point in the future of semiconductors. By stacking layers of data storage cells vertically, 3delivers three times higher capacity than planar technology.
+and Intel Announce Breakthrough 3XPoint™ 3XPoint represents a major breakthrough in memory process and is the first new memory category in decades. This non-volatile memory is up to 1,000 times faster and has up to 1,000 times greater endurance than NAND.
+Introduces GDDR5X, the World’s Fastest Graphics DRAM
+Forms Xccela™ Consortium to Promote New Type of Interface Bus
+Announces Authenta™ Security for IoDevices
+Doubles Capacity of to 32GB
+Ships Industry's First Quad-Level Cell SSD
+began shipments of the industry’s first built on revolutionary quad-level cell (QLC) technology. The Micron® 5210 provides 33 percent more bit density than triple-level cell (TLC) NAND, addressing segments previously services with hard disk drives (HDDs).
+Breakthroughs aren't for the faint of mind.
+For more than 40 years our innovations have been instrumental to the world’s most significant advancements and market transitions. Check out some of our recent inventions and breakthroughs.
+3XPoint™ 3XPoint™ is an entirely new class of nonvolatile memory that can help transform immense amounts of data into valuable information in real time. With dramatically improved performance and endurance over traditional nonvolatile storage, it provides an entirely new suite of capabilities to system designers, enabling new ways to deal with the deluge of information in big data applications.
+GDDR6 — Micron’s fastest and most powerful graphics memory to date — delivers unprecedented performance. Building on several successful generations of memory, GDDR6 offers dramatic enhancements to address the ever-increasing bandwidth requirements of advanced graphics, networking and automotive applications.
+Micron’s quad-level cell (QLC) packs 33% more capacity per cell than its triple-level cell (TLC) counterpart. Using this revolutionary to build SSDs puts enterprise solid state storage at a more affordable price point and challenges HDDs in read-intensive environments where performance is critical, like artificial intelligence, big data, business intelligence, content delivery and database systems.
++Products
+Products
+Part Catalogs
+Products
+Memory
+DRAM
+Modules
+Graphics Memory
+Hybrid Memory Cube
+Managed NAND
+Multichip Packages
+Flash
+Flash
+Storage
+Memory Cards
+Solid State Drives
+Advanced Solutions
+3XPoint Authenta
+Advanced Computing Solutions
+Part Catalogs
+Choose a catalog
+DRAM
+DDR4 SDRAM
+DDR3 SDRAM
+DDR2 SDRAM
+SDRAM
+SDRAM
+Memory
+LPDRAM
+Modules
+LRDIMM
+Mini-DIMM
+NVDIMM
+RDIMM
+SODIMM
+SORDIMM
+UDIMM
+Mini-DIMM
+RDIMM
+UDIMM
+Graphics Memory
+GDDR6
+GDDR5X
+GDDR5
+Managed NAND
+e-MMC
+Embedded USB
+Universal Flash Storage
+Flash
+3NAND
+NAND
+NAND
+NAND
+Flash
+Parallel Flash
+Serial Flash
+Xccela Flash
+Hybrid Memory Cube
+Short-Reach HMC
+Multichip Packages
+e.MMC-Based MCP
+NAND-Based MCP
+NOR-Based MCP
+UFS-Based MCP
+Storage
+SSDs
+NVMe SSDs
+Industrial microCards
+Archive
+Obsolete Part Catalogs
+Solutions
+Applications
+Automotive
+Client
+Consumer
+Industrial IoT
+Mobile
+Networking
+Server
+Accelerated Solutions
+VMWare vReady Node
+Ceph Storage
+Excelero NVMesh
+Hortonworks Data Platforms
+Microsoft Storage Spaces Direct
+Ecosystem Partners
+Chipset Partner
+Channel Partner
+Virtually unbeatable. 
+See how
+Support
+Sales
+Sales Network
+Request a Sample
+Sales Support
+Authorized Sales Resources
+Contact Sales
+Technical
+Documentation
+FAQs
+Software and Drivers
+Tools and Utilities
+Contact Support
+Contact
+General Inquiries
+and Part Marking Decoder
+Learn more
+Insight
+About Insight
+
+        Insight brings you stories about how transforms information to enrich lives. Learn, imagine, innovate, solve, and gain insight on the trends of today and tomorrow from thought leaders around the world. We've built our technological expertise for over 40 years and now we are sharing that expertise with you. Learn how intelligence is being accelerated to enrich life in science and medicine, at the edge, and through the speed of data access and analysis. Accelerate your Intelligence at Insight. 
+    
+Explore Insight
+Read more
+About
+Values
+Our Commitment
+Business Continuity
+Compliance and Ethics
+Corporate Governance
+Diversity and Inclusion
+Environment, Health, and Safety
+Foundation
+Quality
+Supply Chain
+Sustainability
+Company
+Overview
+Careers
+Innovation
+Investors
+Locations
+Suppliers
+Media
+Blog
+Events
+Newsroom
+Media Resources
+Learn more
+- English
+China – 簡體中文
+India - English
+Japan - 日本語
+Singapore - English
+Taiwan – 繁體中文
+Login
+Login
+Remember Me
+Forgot password?
+Register
+Get maximum visibility to confidential data sheets, technical documentation, and the latest product and developments by registering for a micron.com account. 
+Register
+Search
+Search
+Our Commitment
+Our future is built on continuous innovation, but our day-to-day operations wouldn’t be possible without our team members’ commitment to conducting business with uncompromising integrity and professionalism.
++
+Operating Thoughtfully
+Through a blend of corporate global strategy and local adaptation to the unique challenges and opportunities that each of our facilities and operating locations present, we're always working toward making our operations more sustainable.
+Learn more
+Empowering People
+Our commitment to team members is reflected in our core value of People and is illustrated by our relentless drive to provide an engaging work environment that is ethical, diverse, and inclusive.
+Learn more
+Sourcing Responsibly
+Our rigorous sourcing standards maintain the sustainability of our operations while improving social and environmental conditions through our industry's supply chain.
+Learn more
+Sustainability is
+built right in. 
+Everything we do is with community and environmental sustainability in mind.
+We believe in taking action. 
+Our dedication to sustainable  practices is exemplified by the clear, tangible action that we have taken to benefit our environment, our people, and our communities. Read our Sustainability Report to find out how the choices we're making today will help ensure we have the resources and talent we will need in the years ahead.
+Download the report
+Products
+Solutions
+Support
+Insight
+About
+Sales
+Support
+Contact
+Legal
+Suppliers
+Careers
+©2018 Technology, Inc. All rights reserved. Information, products, and/or specifications are subject to change without notice. All information is provided on an “IS” basis without warranties of any kind. Drawings may not be to scale. Micron, the logo, and all other trademarks are the property of Technology, Inc. All other trademarks are the property of their respective owners.
++

@@ -1,4 +1,0 @@
-WINDBEAM MICRO WIND ENERGY GENERATOR
-Zephyr Energy Corporation’s patented Windbeam micro generator captures energy from airflow to recharge batteries and power electronic devices.
-The Windbeam’s novel design allows it to operate silently in wind speeds as low as 2 mph. The generator consists of a lightweight beam suspended by durable long-lasting springs within an outer frame. The beam oscillates rapidly when exposed to airflow due to the effects of multiple fluid flow phenomena. A linear alternator assembly converts the oscillating beam motion into usable electrical energy. A lack of bearings and gears eliminates frictional inefficiencies and noise. The generator can operate in low-light environments unsuitable for solar panels (e.g. HVAC ducts) and is inexpensive due to low cost components and simple construction. The scalable technology can be optimized to satisfy the energy requirements and design constraints of a given application.
-TECHNOLOGY

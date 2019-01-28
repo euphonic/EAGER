@@ -1,0 +1,4 @@
+develops foundational building blocks for designing today’s advanced semiconductors and systems.
+With a special focus on wireless communications and mobile computing, the company offers a unique portfolio of patent-protected and licensable cores and scalable semiconductor process that enable significantly better and system performance, processing power, speed and throughput.
+helps semiconductor manufacturers and chip design companies overcome technology bottlenecks to achieve their performance goals for advanced ICs used in next-generation devices.
+The company also serves the telecommunications system developer with cores, algorithms and other solutions for mobile, computing and wireless networking, helping them to address the demanding needs of an increasingly connected world.
