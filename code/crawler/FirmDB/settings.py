@@ -81,7 +81,7 @@ ITEM_PIPELINES = {
 }
 
 #Input data
-INPUT_DATA = "../../data/orgs/about/about_all_missing.csv"
+INPUT_DATA = "../../data/orgs/chunks/ABOUT_sandia.csv"
 FIX_URLS = False
 
 MONGODB_DB = "FirmDB"
