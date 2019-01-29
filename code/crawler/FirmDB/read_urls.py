@@ -95,7 +95,7 @@ def read_firms_csv (filename):
                  'url': row[1]
                     }
 
-            # If no URL is available, don't append the school
+            # If no URL is available, don't append 
             if firm['url'] == '': continue
             # Parse the website domain from the full URL
             firms.append(firm)
