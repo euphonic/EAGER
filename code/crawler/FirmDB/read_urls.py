@@ -95,6 +95,11 @@ def read_firms_csv (filename):
                  'url': row[1]
                     }
 
+            if settings.ABOUT_MODE:
+                firm['is_about'] = row[2]
+                firm['descriptor'] = row[3]
+                firm['total_about_pages'] = row[4]
+
             # If no URL is available, don't append 
             if firm['url'] == '': continue
             # Parse the website domain from the full URL

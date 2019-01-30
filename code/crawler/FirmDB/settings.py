@@ -83,6 +83,7 @@ ITEM_PIPELINES = {
 #Input data
 INPUT_DATA = "../../data/orgs/chunks/ABOUT_sandia.csv"
 FIX_URLS = False
+ABOUT_MODE = True
 
 MONGODB_DB = "FirmDB"
 chunk = os.path.basename(os.path.normpath(INPUT_DATA))

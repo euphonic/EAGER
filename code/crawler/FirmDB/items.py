@@ -13,6 +13,7 @@ class Page(scrapy.Item):
     url = scrapy.Field()
     domain = scrapy.Field()
     path = scrapy.Field()
+    orig_url = scrapy.Field()
 
     # HTML information
     html = scrapy.Field()
@@ -24,6 +25,9 @@ class Page(scrapy.Item):
     # FirmDB custom fields
     firm_name = scrapy.Field()
     full_text = scrapy.Field()
+    is_about = scrapy.Field()
+    descriptor = scrapy.Field()
+    total_about_pages = scrapy.Field()
     depth = scrapy.Field()
     referring_url = scrapy.Field()
 
