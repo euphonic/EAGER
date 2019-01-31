@@ -34,7 +34,8 @@ def get_url_aggregates ():
     client = pymongo.MongoClient(connection_string, username=username, password=password, authSource=authSource, authMechanism=authMechanism)
     db = client[MONGODB_DB]
     col = db[MONGODB_COLLECTION]
-    query = [ { "$group": {"_id":"$url" , "number":{"$sum":1}} } ]
+    query = [ { "$group": {"_id":"$orig_url" , "number":{"$sum":1}} } ]
+    
     results = col.aggregate(query)
     pp = pprint.PrettyPrinter()
     # pp.pprint(list(results))
@@ -44,7 +45,7 @@ def get_url_aggregates ():
     for result in results:
         key = (result['_id'])
         if key:
-            url = regex_p.sub('', key[0])
+            url = key[0]
             mongo_dict[url] = result['number']
         else:
             mongo_dict['NA'] = result['number']
@@ -77,12 +78,11 @@ def compare (firms, mongo_results):
     f_out = open(MISSING_FILE, 'w')
     csv_out = csv.writer(f_out)
     for firm in firms:
-        url = regex_p.sub('', firm['url'])
-        if url in mongo_results:
-            print (url + " in mongo with " + str(mongo_results[url]) + " pages") 
+        if firm['url'] in mongo_results:
+            print (firm['url'] + " in mongo") 
         else:
-            print (url + " not in mongo")
-            csv_out.writerow([firm['firm_name'], url])
+            print (firm['url'] + " NOT in mongo")
+            csv_out.writerow([firm['firm_name'], firm['url']])
 
 # 1. 
 firms = read_firms_csv(CHUNK_FILE)
