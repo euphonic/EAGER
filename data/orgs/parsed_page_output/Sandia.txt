@@ -1,1418 +1,323 @@
-Since 1949, National Laboratories has developed science-based technologies that support our national security. Americans depend on Sandia's technology solutions to solve national and global threats to peace and freedom. Here, portrayed in no particular order, are sixty of those solutions...
-Nuclear Stockpile Stewardship
-Nuclear Stockpile Stewardship
-plays a key role in efforts to extend the life of nuclear weapons currently in the nation's stockpile, most of which were produced 30 to 40 years ago. is continually evaluating components, subsystems, and system performance to ensure the ongoing safety and reliability of the existing arsenal.
-Satellite
-Beginning with the satellite program for detecting nuclear bursts in the 1960s, has designed sensors and accompanying ground processing systems to support verification of international arms control agreements. Payloads and ground processing systems have been fielded for 23 Defense Support Program satellites and 51 Global Positioning System satellites.
-Nuclear weapons security
-Concerns about the safety of nuclear weapons led to Sandia's introduction in 1960 of the permissive action link (PAL), a coded electromechanical security lock preventing unauthorized use of a nuclear weapon. The development helped reassure the public that a scenario involving a stolen nuclear weapon was quite impossible.
-Nonproliferation
-conducts major efforts aimed at preventing the global spread of nuclear weapons and other weapons of mass destruction. Technologies range from microscopic sensors to large intelligence-gathering systems that help monitor compliance with international treaties, theft or diversion of nuclear materials, and biological and chemical weapons programs.
-Nuclear deterrence
-Since 1949, has applied its engineering and scientific expertise to the development, testing, and maintenance of the nation's nuclear weapons stockpile. Nuclear deterrence has long been a core element of national security strategies and played a significant role in ending the Cold War.
-Multispectral Thermal Imager
-In 2000, launched the Multispectral Thermal Imager (MTI) satellite — the first satellite designed and built wholly by Sandia. is still used today to monitor treaty provisions, map chemical spills, detect pollution from waste streams in lakes and rivers, and detect volcanic activity.
-Antiterrorism
-chemical monitoring system called has been keeping watch for the past several years over a number of large indoor and outdoor events, such as the Super Bowl, the Rose Bowl, Oakland A's baseball games, and the 2008 Democratic National Convention. is able to detect and provide early warning of airborne chemical agents that might be used in a terrorist attack.
-National security
-If a nuclear detonation occurs in space or the Earth's atmosphere, the Air Force is responsible for determining the event's significance using data from the Nuclear Detonation Detection System (USDNS) — a network of satellites, detectors, and ground stations. The Integrated Correlation and Display System developed at helps simplify the work of Air Force personnel by gathering, correlating, and making sense of satellite data before an operator ever sees it.
-Shooter ID
-Police officers are now able to instantly determine whether a suspect has recently fired a gun by using a chemical test developed by and Law Enforcement Technologies, Inc. The "instant shooter kit" detects gunshot residue in a matter of minutes, eliminating the need to wait for lab tests, which would often take weeks.
-Yucca Mountain
-Since the late 1970s, has been involved in various capacities with Yucca Mountain — America's first planned repository for spent nuclear fuel rods and solidified high-level radioactive waste. In 2006, was named the lead scientific laboratory for the project and continues to provide technical guidance for the submitted Nuclear Regulatory Commission license to operate the project.
-Supercomputing
-Sandia's Red Storm supercomputer can compute many tens of trillions of calculations in a month, making it a popular tool for government agencies, universities, and customers worldwide. Designed to run nuclear stockpile calculations, Red Storm has modeled the amount of explosive powder it would take to destroy an asteroid, how fire affects critical components in devices, and how changes in the composition of Earth's atmosphere affect climate.
-Cold War cleanup
-Serving as scientific advisors, scientists and engineers helped select the site for the Waste Isolation Pilot Plant (WIPP), provided the facility's conceptual design, and provided the scientific understanding that formed the basis for the Environmental Protection Agency's certification of in 1999. WIPP, the nation's first underground repository for nuclear waste left over from the Cold War, was constructed in salt beds more than 2,000 feet below the surface near Carlsbad, NM.
-Space exploration
-The ability of the Galileo spacecraft to survive Jupiter's radiation belts was made possible by radiation-hardened components designed and built by Sandians. Launched in 1989, Galileo traveled 2.8 billion miles and survived more than four times the dose of Jovian radiation it was designed to withstand before disintegrating in Jupiter's atmosphere in 2003.
-Planetary exploration
-When the Pathfinder spacecraft hit the surface of Mars on July 4, 1997, it bounced and rolled rather than crash landed, largely as a result of airbags designed by and NASA's Jet Propulsion Laboratory. The airbags were based on parachute technology developed for nuclear weapons.
-Nuclear power safety
-In 1989, first released MELCOR, a computer software for analyzing severe accidents in nuclear power plants. The software — updated numerous times since then — incorporates the results of nuclear power plant safety research since the 1979 Three Mile Island accident and is the de facto standard among utilities and nuclear regulators in the and abroad for evaluating plant safety.
-Hydrogen monitoring
-The ability to detect and monitor hydrogen — a colorless, odorless, and flammable gas — is critical wherever hydrogen is produced, used, stored, or transported. Sandia-developed sensor, with the ability to detect hydrogen, has been commercialized by H2scan of Valencia, CA, and is now used on a variety of areas such as petroleum refining, hydrogen production, and nuclear facilities.
-Cyber security
-Sandia's Center for Cyber Defenders program trains students from colleges and universities to protect and defend computer systems and networks from attack. Through their projects, the students actively help secure computers nationwide.
-Satellite interception
-In February 2008, Sandia's Red Storm high-performance computer was used to help the military plan and carry out the successful interception of a defective spy satellite that threatened to fall to Earth. team ran hundreds of impact calculations using advanced modeling and simulation tools to determine the best way to ensure the car-sized satellite — traveling at 17,000 miles per hour and 153 miles above the Earth — was destroyed with a single missile shot.
-Law enforcement
-Diversionary devices, such as flash-bangs or stun grenades, that are used by law enforcement and the military to temporarily distract or disorient an adversary can result in serious injuries, because they function by creating a small explosion. has developed a safer, non-explosive flash-bang technology and in 2008 licensed it to the Defense Technology of America.
-Airport chem/bio defense
-Aviation security
-To assess the threat of onboard explosions from terrorist bombs, developed computer models that predict the damage caused by different types of explosives in various locations of passenger aircraft. This work, done in conjunction with homemade explosives testing, is being used by the Transportation Security Administration to develop new requirements for explosives detection technology used for security checkpoints, checked baggage, and air cargo.
-Antiterrorism / Aviation security
-The familiar walkthrough portals at many airport security checkpoints use Sandia-patented technology to screen airline passengers for explosives. Even trace amounts of explosives on an individual's skin or clothing can be collected and identified using this technology.
-Anthrax investigation
-researchers assisted the in its investigation of anthrax-containing letters mailed in 2001 to several news media offices and two senators. Using advanced microanalysis tools developed for nuclear weapons work, they analyzed hundreds of samples and determined the anthrax in the letters was not prepared to disperse more readily through the use of additives — a crucial finding that helped guide the FBI's investigation.
-Anthrax decontamination
-In 2001, federal authorities used a decontamination foam developed at to help rid Capitol Hill buildings of anthrax. The foam — cocktail that includes ordinary household substances such as those found in hair conditioner and toothpaste — neutralizes chemical and biological agents in minutes, and is non-toxic and environmentally friendly.
-Aviation safety
-Airline technicians can now spot dangerous short-circuits before â€” instead of after â€” they happen. technique called Pulse Arrested Spark Discharge (PASD) reveals weak spots in wiring insulation while the plane is still on the ground.
-Drinking water arsenic removal
-Helping communities find cost-effective methods for removing arsenic from drinking water and meeting new federal arsenic standards was the goal of Sandia-led partnerships. Five water treatment site demonstrations were conducted in New Mexico, including two on tribal lands. Test results from the demonstration projects have been compiled on a website, examining the effectiveness of alternative technologies under a variety of site conditions, along with costs associated with each.
-Bomb disablement
-The shoe bomb Richard Reid allegedly tried to detonate on a trans-Atlantic flight and a device found in the cabin of convicted Unabomber Theodore Kaczynski were disabled using an advanced bomb squad tool originally developed at Sandia. The device, called the Percussion-Actuated Nonelectric (PAN) Disrupter, is manufactured by Ideal Products of Lexington, KY, and is used by bomb squads nationwide.
-Columbia accident investigation
-Sandia's expertise in materials and engineering science played a key role in helping determine the cause of the 2003 space shuttle Columbia disaster. Using supercomputer simulations and materials characterization experimental data, showed that the most probable cause of the accident was damage to the shuttle's wing from foam debris.
-Flight 800 investigation
-computer modeling efforts supported and helped guide the National Transportation Safety Board (NTSB) investigation of the July 1997 Flight 800 accident, which killed all 230 people on board. The international investigative team concluded that the accident was most likely caused by unintended ignition of fuel-air vapors in the jetliner's central fuel tank, resulting in a mid-air explosion.
-Explosives destruction
-The Explosive Destruction System (EDS), developed by for the Army in the late 1990s, safely neutralizes and discards recovered chemical warfare material in an environmentally sound manner. The Army uses to destroy World War and World War vintage chemical warfare materials, but it can also treat biological agents, biocontaminated containers, and improvised biological devices.
-Wind energy efficiency
-An innovative wind turbine blade, developed by and the Knight &amp; Carver Wind Group, produces up to 10 percent more energy than traditional linear blade designs without increasing wear and tear on the machine. The 27.5-meter blade, with its gently curved tip, is specially designed for low-wind speed regions, greatly increasing the amount of land available for wind energy development.
-Strategic Petroleum Reserve
-America's emergency crude oil is stored in natural salt caverns along the Gulf Coast at depths up to 5,000 feet. Since 1977, has provided the Department of Energy with scientific and engineering assistance on the Strategic Petroleum Reserve (SPR), including helping evaluate and choose additional storage sites when was increased to its authorized one-billion-barrel capacity.
-Climate change
-scientists are members of an international research team whose work at the Atmospheric Radiation Measurement Climate Research Facility in northern Alaska is providing data for global climate models and helping transform scientific understanding of the Earth's future climate. Their work at this Department of Energy facility focuses on making long-term measurements of cloud formation and its influence on atmospheric heating.
-Molten salt technology
-Molten salt technology for capturing and storing the sun's heat was developed and advanced at and was an integral part of Solar Two, a solar power plant near Barstow, Solar Two produced enough power to supply 10,000 homes and operated from 1996 to 1999.
-Combustion science
-Since 1981, researchers at Sandia's Combustion Research Facility have developed ways to detect and measure chemical species in flames, reduce air pollution from engines and coal-powered utility plants, and characterize combustion taking place inside automobile and truck engines. They have revolutionized current understanding of combustion and continue to work with industry to develop more efficient, cleaner-burning combustion processes and devices.
-Drilling technology
-In the 1970s, a promising new rock drilling technology — the polycrystalline diamond compact (PDC) drill bit — was introduced, but results in the field were disappointing: cutters broke, separated from bits, or wore too quickly. As a result of research, industry collaboration, and field testing, design deficiencies were identified and corrected, and now bits account for about two-thirds of all oil and gas drilling because of their efficiency and resistance to wear.
-Solar power
-Since 1996, has helped bring power to some 400 homes on the Navajo reservation, using solar technologies such as photovoltaics. Through the Department of Energy Tribal Energy Program, personnel provide technical assistance in procuring the equipment and teach residents how to manage and maintain it.
-Military sensing
-During the Vietnam War, developed a family of earth-penetrating, air-dropped sensors for use in detecting enemy forces, particularly convoys or troops moving into South Vietnam along the Ho Chi Minh Trail. Capable of detecting even human footsteps, the highly sensitive seismic intrusion detectors were credited with helping break the siege of Khe Sanh in 1968.
-Military support
-is a world leader in the advancement of synthetic aperture radar (SAR), a type of radar able to produce high-resolution, almost photo-like images of terrain and structures through inclement weather and at night. Sandia-developed systems have been used by the military in high-profile conflicts such as Desert Storm and the Kosovo Conflict.
-Computation based product design
-Goodyear's Assurance TripleTred tire, Consumer Reports' most recommended all-season tire for passenger cars, was the result of a partnership with Sandia. Sandia's powerful computer codes allowed Goodyear to produce innovative tires in record times by eliminating the need for repeated prototype development, testing, and redesign.
-International cooperation
-Since 1994, Sandia's Cooperative Monitoring Center has brought individuals from 125 countries to neutral ground to develop technical solutions to mutual security problems. Unique in the world, the center develops and offers training in an array of technologies for improving regional security, building trust among nations, and preventing the proliferation of weapons of mass destruction.
-Iowa investigation
-investigation for the Senate Armed Services Committee of the 1989 explosion aboard the Iowa found that an overram of the powder bags as the gun was being loaded was the likely cause of the explosion; the Navy disagreed, concluding the cause could not be determined. The team also found no evidence to support the theory that crew member Clayton Hartwig used a detonator to set off the explosion that killed himself and 46 other crew members.
-Chemistry
-In the late 1970s, scientists at Sandia's Combustion Research Facility needed a more efficient way of solving combustion problems involving complex chemical kinetics phenomena. Their homegrown code became CHEMKIN, a software suite licensed by Reaction Design and used worldwide in the microelectronics, combustion, and chemical processing industries.
-Chemical attack detection
-In 2003, became the nation's first permanently installed detection and response system for chemical attacks in a public facility when it was deployed in the Washington, D.C., Metro. In this multilab project that began in 1998, selected and field tested available commercial detectors and designed the advanced sensor network for the system, which also assists transit operators with emergency response to attacks, potentially saving lives.
-Mine safety
-The January 2006 explosion that killed 12 miners in West Virginia's Sago Mine was likely triggered by the effects of a lightning strike traveling deep into the mine, a investigation concluded. The findings were included in a report issued by the Mine Safety and Health Administration, which has led to proposed new safety measures for mines.
-Space exploration
-After the Challenger and Columbia space shuttle disasters, needed a way to inspect the shuttle's thermal protection shield prior to landing. Sandia-developed sensor and robotic arm system, allowing the crew to check for tiny cracks and other damage, has flown on 12 space shuttle missions.
-Microelectronics industry
-When Sandian Willis Whitfield came up with the idea for the laminar airflow clean room, it was intended to provide a dust-free environment for close-tolerance weapons parts. Little did he — or anyone else — know that his idea would become a basic enabling technology for the $1.2 trillion electronics industry.
-Aviation safety
-Takeoffs, landings, pressurization, and temperature changes take their toll on commercial aircraft, causing tiny cracks in the aluminum skin that must be patched and contained. An improved fuselage patch developed by and partners Delta Airlines, Textron Systems Division, and Lockheed Martin, and approved by the FAA, repairs cracks using a flexible composite material instead of the old riveted metal plates, which can cause cracks themselves.
-Asteroid tracking
-global team that included Sandians Mark Boslough and Dick Spalding was able for the first time to detect and track an asteroid heading toward Earth in October 2008 and predict its time and place of impact. While the small asteroid posed no danger, the ability to provide early warning could be critical for larger asteroids, which strike the Earth a few times a century.
-Cryptology & authentication
-Retired cryptologist Gustavus Simmons pioneered the theory of authentication, used to verify adherence to the Comprehensive Test Ban Treaty for nuclear weapons. All e-commerce now depends upon Simmons' work in authentication.
-Modern electronics
-In the 1980s, scientist Gordon Osbourn originated the field of strained layer superlattices by making the first calculations to predict their unique electrical and optical properties. This work led to revolutionary advances in electronics and optoelectronics.
-Next-generation microelectronics
-milestone in microprocessor technology was achieved in 2001 when Sandia, Lawrence Livermore, and Lawrence Berkeley labs, and a consortium of chipmakers developed and demonstrated an extreme ultraviolet lithography (EUVL) system for producing the next generation of more powerful microchips. enables patterning of silicon wafers with a much shorter wavelength of light than current systems, enabling more densely packed transistors and therefore higher speeds and better performance. It is forecast to be in commercial use by 2013.
-Airbag sensors
-Invented in the 1960s by Sandian Don Wilkes, rolamites were used to trigger the deployment of automobile airbags until they were replaced in the mid-1990s by electronic triggering sensors. Originally developed to detect a nuclear warhead's acceleration pattern, the rolamite switch is a basic mechanical device consisting of a roller suspended within a tensioned band.
-Digital paleontology
-In 1997, scientists at and the New Mexico Museum of Natural History and Science recreated a vocalization of a crested dinosaur that lived 75 million years ago. Using powerful computers, computed tomography (scans), and a rare Parasaurolophus skull, they produced a low-frequency rumbling sound that the dinosaur could have made.
-Employee giving
-Since Sandia's employee giving plan started in 1957, employees and retirees have provided at least 15 percent of the United Way of Central New Mexico's annual contributions, with a total of more than $55 million donated to date.
-Economic development
-In 1998, broke ground for the Science & Technology Park — a 200-acre technology community that provides tenants with easy access to world-class technologies, facilities, scientists, and engineers. Today, the park is home to 28 companies and employs about 2,300 people, with an average wage of $70,400, compared to an average of $37,300 for the Albuquerque metropolitan area.
-Small business assistance
-Since 2000, has provided technical assistance to more than 1,455 businesses, courtesy of the New Mexico Small Business Assistance program, which provides the lab with gross receipts tax credits for help provided. Projects have ranged from assisting Rio Nambe Pueblo in creating a water distribution model to analyzing metals used in locomotive repair for the Cumbres & Toltec Scenic Railroad.
-Community support
-In 1956, two scientists decided to buy new shoes for needy children instead of exchanging gifts with one another. Their grassroots effort continues to this day as a corporate-sponsored project and to date has provided new shoes for more than 11,500 Albuquerque children.
-Automated wheelchair cushion
-Pressure sores among wheelchair users are a common problem, often leading to serious complications or death. and Numotech, Inc., have developed a wheelchair cushion based on microprocessor-controlled inflatable air pockets that inflate and deflate to help prevent and heal pressure ulcers.
-Mold control
-decontamination formula developed at to render harmless a wide variety of chemical and biological agents also combats a common household problem — mold and mildew. Mold Control 500, licensed to Modec, Inc., and distributed by Scott's Liquid Gold, is based on Sandia's "decon foam" and is available in hardware stores nationwide.National Laboratories
-Exceptional service in the national interest
-Menu
-Locations
+Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
 Contact Us
-Employee Locator
-Search
-Menu
-About
-Leadership
-Mission
-Social Media
-Community Involvement
-Contribution Programs
-Volunteer Programs
-Education Programs
-Environmental Responsibility
-Environmental Management System
-Pollution Prevention
-History
-60 impacts
-Diversity
-Locations
-Facts & Figures
-Programs
-Nuclear Weapons
-About Nuclear Weapons
-Safety & Security
-Weapons Science & Technology
-Defense Systems & Assessments
-About Defense Systems & Assessments
-Program Areas
-Accomplishments
-Energy
-Stationary Power
-Earth Science
-Transportation Energy
-Energy Research
-Global Security
-Counterterrorism & Response
-Global Threat Reduction
-Homeland Defense & Force Protection
-Homeland Security
-Cyber & Infrastructure Security
-Global Security Remote Sensing & Verification
-Research
-Research Foundations
-Bioscience
-Computing & Information Science
-Electromagnetics
-Engineering Science
-Geoscience
-Materials Science
-Nanodevices & Microsystems
-Radiation Effects & High Energy Density Science
-Robotics
-R&100 Awards
-Laboratory Directed Research & Development
-Technology Deployment Centers
-Working With Working With Prospective Suppliers
-What Looks For In Our Suppliers 
-What Does Buy?
-Opportunities
-Small Business
-Procurement Technical Assistance Program (PTAP)
-Current Suppliers
-iSupplier Account
-Accounts Payable
-Contract
- Information
-Construction & Facilities
-Contract Audit
-Sandia's Economic Impact
-Licensing & Technology Transfer
-Browse Technology Portfolios
-Technology Partnerships
-Business, Industry, & Non-Profits
-Government
-Universities
-Center for Collaboration & Commercialization (C3) 
-Technology Deployment Centers
-Agreements
-Cooperative Research and Development Agreement (CRADA)
-Strategic Partnership Projects, Non-Federal Entity (SPP/NFE) Agreements
-New Mexico Small Business Assistance Program
-Science & Technology Park
-Careers
-Community Involvement 
-News
-News Releases
-Media Contacts & Resources
-Lab News
-Image Gallery
-Publications
-Annual Report
-Economic Impact
-Environmental Reports
-Fact Sheets
-Search Publications
-Labs Accomplishments
-Annual Report
-Partnerships Annual Report
-Research Magazine
-Videos
-Streaming Media Library
-Events
-Careers
-View All Jobs
-Students & Postdocs
-Internships & Co-ops
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+News and Press
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+News and Press
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
 Fellowships
-Postdoctoral Positions
-Campus Recruiting
-Benefits & Perks
-Hiring Process
-Life at People & Culture
-Work-Life Balance
-Special Programs
-About
-For more than 60 years, has delivered essential science and technology to resolve the nation's most challenging security issues.
-National Laboratories is operated and managed by National Technology and Engineering Solutions of Sandia, LLC., a wholly owned subsidiary of Honeywell International, Inc. National Technology and Engineering Solutions of operates National Laboratories as a 
-contractor
- for the Department of Energy’s National Nuclear Security Administration (NNSA) and supports numerous federal, state, and local government agencies, companies, and organizations. 
-As a Federally Funded Research and Development Center (
-FFRDC
-), may perform work for industry responding to certain types of federal government solicitations. The solicitation must allow participation and meet the requirements of Sandia's management and operating contract with DOE/NNSA.
-strong science, technology, and engineering foundation enables Sandia's mission through a capable research staff working at the forefront of innovation, collaborative research with universities and companies, and discretionary research projects with significant potential impact.
-In keeping with our vision to be the nation's premier science and engineering laboratory for national security and technology innovation, we recruit the best and the brightest, equip them with world-class research tools and facilities, and provide opportunities to collaborate with technical experts from many different scientific disciplines.
-The excitement and importance of our work; an exemplary work environment; partnerships with academia, industry, and government; and our record of historic contributions help us attract exceptional staff. Our employees are recognized by their professional peers for their outstanding contributions.
-Although most of Sandia's approximately 10,000 employees work at Sandia's headquarters in Albuquerque, New Mexico, or at its second principal laboratory in Livermore, California, others are working at various sites in the and abroad to deliver innovative and reliable solutions in a changing world.
-Awards, Accomplishments, and Overviews
-Fact Sheets
-Labs Accomplishments
-R&100 
-awards
-National security programs
-We work with other government agencies, industry, and academic institutions to accomplish our missions in the following strategic areas:
-Nuclear Weapons
-Defense Systems & Assessments
-Energy & Climate
-Global Security
-Who We Are
-The turns to for solutions to the most challenging problems that threaten peace and freedom for our nation and the globe.
-Locations
-Albuquerque, NM
-Livermore, CA
-More...
-Exceptional service in the national interest
-About
-Community Involvement
-Leadership
-Mission
-Environmental Responsibility
-History
-Diversity
-Social Media
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
 Careers
-View All Jobs
-Students & Postdocs
-Benefits & Perks
-Hiring Process
-Life at Special Programs
-Research
-Research Foundations
-Technology Deployment Centers
-Laboratory Directed Research & Development
-R&100 Awards
-Employee & Retiree Resources
-Alerts
-Corporate Forms
-Technical Library
-Web, Email, & Remote Access
-Health, Benefits, & Employee Services (HBE)
-News
-News Releases
-Media Contacts & Resources
-Lab News
-Image Gallery
-Events
-Publications
-Videos
-Locations
-Contact Us
-Employee Locator
-Programs
-Nuclear Weapons
-Defense Systems & Assessments
-Energy
-Global Security
-Working With Technology Partnerships
-Licensing / Technology Transfer
-Technology Deployment Centers
-New Mexico Small Business Assistance Program
-Sandia's Economic Impact
-Science & Technology Park
-© 2018 National Technology and Engineering Solutions of Sandia, LLC.
-Questions & Comments
-Employee & Retiree Resources
-Privacy & Security
-National Laboratories is a multimission laboratory managed and operated by National Technology and Engineering Solutions of Sandia, LLC., a wholly owned subsidiary of Honeywell International, Inc., for the Department of Energy’s National Nuclear Security Administration under contract DE-NA-0003525.National Laboratories' roots lie in World War II's Manhattan Project, which built the world's first atomic bombs.
-...Our history reflects the changing national security needs of postwar America. Although originated as a single-mission engineering organization for nonnuclear components of nuclear weapons, today it is a multiprogram laboratory engaging in research supporting a broad spectrum national security issues.
-began in 1945 as Division, the ordnance design, testing, and assembly arm of Los Alamos National Laboratory. It became Laboratory in 1948 and, in 1949, was established as a Western Electric company to manage the laboratory. second site was opened in California's Livermore Valley in 1956. More than two decades later, in 1979, Congress made a Department of Energy national laboratory. became a wholly owned subsidiary of Martin Marietta (later Lockheed Martin Corporation) in 1993. On May 1, 2017, National Technology and Engineering Solutions of Sandia, LLC, a wholly owned subsidiary of Honeywell International, Inc., assumed management of Sandia. Show more
-Sandia's first logo
-Creating a nuclear weapons ordnance engineering lab
-Looking to the east over Kirtland Army Air Field (foreground) and Albuquerque Army Air Field (background) in 1945
-July 12, 1945
-Site selected for newly established Division of Los Alamos
-Sandia's forerunner, the new division gathered the ordnance engineering, testing, assembly, and military liaison activities into one group. Jerrold Zacharias was placed in charge of the new division. The first Division sub-group began moving to the new site near Albuquerque in September.
-The site selected for Division was part of land acquired by the military in January 1941 to establish a training facility for bomber pilots, as well as a training center for aircraft mechanics and air depot personnel. The Air Depot Training Station, referred to as Albuquerque Army Air Field and located in the area that later became Sandia, was established in May 1942; the program ended in 1943 and a convalescent center was established on the site in mid-1944.  On July 14, 1945, the Corps of Engineers requested transfer of jurisdiction of Albuquerque Army Air Field from the Air Technical Service Command to the Engineers, Manhattan District. The transfer was effective on July 21, 1945; the site was subsequently referred to as Base.
-Aerial view of a target at Los Lunas Test Range, 1946
-September 19, 1945
-Aerial survey of practice bombing range west of Los Lunas, New Mexico
-Site selected for newly established Division of Los Alamos
-Aerial survey of practice bombing range west of Los Lunas, New Mexico
-Roger Warner named leader of Division when Jerrold Zacharias returned to MIT
-Request for Manhattan Engineer District to use Salton Sea Test Base
-First postwar nuclear tests done by Division
-Robert Henderson took over leadership of Division
-Properties and personnel of the Manhattan Project transferred to the AEC
-Paul Larsen assumes leadership of Division
-Personnel provided stockpile surveillance at nuclear weapon storage sites
-Weapon assembly facilities opened
-started managing Laboratory
-1950s
-Coronado Club opened on Base with a Grand Opening dance
-Large-scale environmental test facilities
-James McRae became President
-Wooden Bomb concept introduced
-Laydown weapons
-1960s
-began studying projectiles moving through earth, or terradynamics
-Tonopah Test Range replaced Salton Sea Test Base as Sandia's test range
-Siegmund “Monk” Schwartz became President
-Work starts on targeted warhead fully integrated with its reentry vehicle
-Atomic Energy Commission filed patent for Ultra-Clean Room
-Engineering Reactor Facility opened for press tour after construction
-President issued Memorandum on Nuclear Weapons
-Strypi rocket carried test device in high-altitude nuclear weapons test
-President John Kennedy visited Sandia's New Mexico site
-Phase 3 work authorized on B-61, lightweight tactical thermonuclear bomb
-First pair of Vela satellites launched to monitor and detect nuclear detonations
-B-52 with four B28 bombs collided with refueling tanker over Spain
-John Hornbeck took over as President
-1970s
-Energy research started
-Anti-terror programs started
-Law redesignated as National Laboratories
-1980s
-Strategic Defense Initiative work
-Irwin Welber became President
-Albert Narath took over as President
-1990s
-Congress passed the Cooperative Threat Reduction Act
-Presidential-candidate Bill Clinton visited Sandia/New Mexico site.
-President George Bush visited Sandia's Albuquerque site during campaign
-announced consolidation of missions at end of Cold War
-Martin Marietta assumed the management contract
-Cooperative Monitoring Center began hosting arms control specialists
-Paul Robinson became President & Director
-Supercomputing milestone reached for one trillion operations per second
-NASA's Pathfinder space probe arrived on Mars
-Machine achieved output of 80 times entire world's output of electricity
-Waste Isolation Pilot Plant received its first shipment of waste
-2000s
-Rapid Syndrome Validation Project, detector of disease outbreaks, deployed
-Researchers created ultra-high-temperature ceramics
-Distributed Information Systems Laboratory dedicated
-Lab News announced completion of R&of Gauntlets
-Thomas Hunter became President & Director
-Opening ceremony for Bi-National Sustainability Laboratory
-Nanostructures placed on International Space Station
-Center for Integrated Nanotechnologies facility (CINT) dedicated
-Microsystems & Engineering Sciences Applications facilities dedicated
-Machine rededicated
-2010s
-Paul Hommert became President & Director
-Ion Beam Laboratory opened to extend Sandia's materials analysis capability
-and Cray agreed to partner and tackle big data issues
-announced researchers develop super-resolution microscopy technique
-plan to move wind energy projects test facility to Texas Tech University released
-Announcement of potentially revolutionary effects of Criegee biradicals
-Cyber Technology Research Laboratory opened
-Jill Hruby became President
-undertook management of SNL
-1940
-1950
-1960
-1970
-1980
-1990
-2000
-2010
-2020
-2030
-1944
-1948
-1952
-1956
-1964
-1968
-1972
-1976
-1984
-1988
-1992
-1996
-2004
-2008
-2012
-2016
-1945
-1946
-1947
-1949
-1951
-1953
-1954
-1955
-1957
-1958
-1959
-1961
-1962
-1963
-1965
-1966
-1967
-1969
-1971
-1973
-1974
-1975
-1977
-1978
-1979
-1981
-1982
-1983
-1985
-1986
-1987
-1989
-1991
-1993
-1994
-1995
-1997
-1998
-1999
-2001
-2002
-2003
-2005
-2006
-2007
-2009
-2011
-2013
-2014
-2015
-2017
-2018
-2019
-Resources
-Exceptional service in the national interestNational Laboratories
-Exceptional service in the national interest
-Menu
-Locations
-Contact Us
-Employee Locator
+Our Latest News
+10/16/2018
+DePuy Synthes Announces Agreement with Ortho Development® to Promote its KASM® Knee Articulating Spacer Mold 
+16, 2018 Warsaw, – Johnson & Johnson Medical Devices Companies* today announced that DePuy Synthes Sales, Inc. has entered into an exclusive agreement with Ortho Development® to co-promote in the its KASM® Knee Articulating Spacer Mold. This is a sterile, disposable cement spacer mold for patients who develop an infection after primary knee replacement. This new offering builds upon DePuy Synthes’** commitment to innovative knee solutions focused on helping patients along the care continuum.
+09/26/2018
+DePuy Synthes Expands Spine Portfolio with Nerve Assessment Platform  Designed to Identify & Avoid Nerves During Spine Surgery 
+Los Angeles – September 26, 2018 – Johnson & Johnson Medical Devices Companies* announced today that DePuy Synthes** is introducing MMG, a first-of-its-kind digital mechanomyography platform designed to assess nerve status and identify and avoid peripheral nerves during spine surgery. enables motor nerve monitoring for a variety of spine procedures, including non-fusion procedures such as discectomy and both minimally invasive (MIS) and open spinal fusion surgery.  is being broadly introduced at the 2018 North America Spine Society Meeting in Los Angeles, California. 
+09/12/2018
+Johnson & Johnson Medical GmbAcquires Emerging Implant Technologies Gmbto Enhance Global Offering of Interbody Spine Implants
+Norderstedt, Germany – September 12, 2018 – Johnson & Johnson Medical Devices Companies*, through its subsidiary Johnson & Johnson Medical GmbH, announced today the acquisition of Emerging Implant Technologies Gmb(EIT), a privately held manufacturer of 3D-printed titanium interbody implants for spinal fusion surgery, based in Wurmlingen, Germany. The products in this portfolio leverage EIT’s proprietary advanced cellular titanium, which consists of an open and interconnected porous structure designed to allow bone to grow into the implant. As industry leaders across the full range of orthopaedic and spine specialties, Johnson & Johnson Medical Devices Companies will leverage its global commercial infrastructure to bring EIT’s technologies to patients around the world. 
+08/20/2018
+New National Survey Uncovers the Surprising Impact that Knee and Hip Pain Has on Women’s Emotional Well-Being
+WARSAW, Ind. – August 20, 2018 – While many who suffer from knee or hip pain know that it impacts their everyday activities, results from a new survey show the significant emotional impact of joint pain. This includes impact on romantic and social relationships, ability to pursue hobbies and overall mood. The survey of more than 500 women ages 45-65, including those who have had joint replacement surgery and those planning to have joint replacement surgery, revealed: 
+07/26/2018
+DePuy Synthes Launches Expandable Interbody Implant as Part of a New Procedural Solution for Minimally Invasive Spine Surgery (MIS) that Enhances Surgical Efficiency
+Raynham, – July 26, 2018 – Johnson & Johnson Medical Devices Companies* today announced 
+that DePuy Synthes** is launching the Expandable Interbody Device in the 
+The Implant is designed to treat patients suffering from degenerative disc disease as part of the new offering called (Transforaminal Lumbar Interbody Fusion) Procedural Solution. The complete system includes a comprehensive set of solutions to help simplify key stages of this surgery by enhancing surgical efficiency.
+06/20/2018
+New Suture from DePuy Synthes Designed to Help Address Challenges Associated with Rotator Cuff Surgery
+20, 2018 San Diego, – Johnson & Johnson Medical Devices Companies* through the DePuy Synthes** franchise today announces the launch of Suture to repair soft tissue such as the rotator cuff in the shoulder. Part of the DePuy Synthes Mitek Sports Medicine portfolio, Suture is available on Anchors and adds to DePuy Synthes’ innovative solutions designed to help address unmet patient needs in soft tissue repair. Suture was launched today at the San Diego Shoulder Institute’s 35th Annual Course. 
+Search News & Press
 Search
-Menu
-About
-Leadership
-Mission
-Social Media
-Community Involvement
-Contribution Programs
-Volunteer Programs
-Education Programs
-Environmental Responsibility
-Environmental Management System
-Pollution Prevention
-History
-60 impacts
-Diversity
-Locations
-Facts & Figures
-Programs
-Nuclear Weapons
-About Nuclear Weapons
-Safety & Security
-Weapons Science & Technology
-Defense Systems & Assessments
-About Defense Systems & Assessments
-Program Areas
-Accomplishments
-Energy
-Stationary Power
-Earth Science
-Transportation Energy
-Energy Research
-Global Security
-Counterterrorism & Response
-Global Threat Reduction
-Homeland Defense & Force Protection
-Homeland Security
-Cyber & Infrastructure Security
-Global Security Remote Sensing & Verification
-Research
-Research Foundations
-Bioscience
-Computing & Information Science
-Electromagnetics
-Engineering Science
-Geoscience
-Materials Science
-Nanodevices & Microsystems
-Radiation Effects & High Energy Density Science
-Robotics
-R&100 Awards
-Laboratory Directed Research & Development
-Technology Deployment Centers
-Working With Working With Prospective Suppliers
-What Looks For In Our Suppliers 
-What Does Buy?
-Opportunities
-Small Business
-Procurement Technical Assistance Program (PTAP)
-Current Suppliers
-iSupplier Account
-Accounts Payable
-Contract
- Information
-Construction & Facilities
-Contract Audit
-Sandia's Economic Impact
-Licensing & Technology Transfer
-Browse Technology Portfolios
-Technology Partnerships
-Business, Industry, & Non-Profits
-Government
-Universities
-Center for Collaboration & Commercialization (C3) 
-Technology Deployment Centers
-Agreements
-Cooperative Research and Development Agreement (CRADA)
-Strategic Partnership Projects, Non-Federal Entity (SPP/NFE) Agreements
-New Mexico Small Business Assistance Program
-Science & Technology Park
-Careers
-Community Involvement 
-News
-News Releases
-Media Contacts & Resources
-Lab News
-Image Gallery
-Publications
-Annual Report
-Economic Impact
-Environmental Reports
-Fact Sheets
-Search Publications
-Labs Accomplishments
-Annual Report
-Partnerships Annual Report
-Research Magazine
-Videos
-Streaming Media Library
-Events
-Careers
-View All Jobs
-Students & Postdocs
-Internships & Co-ops
+Company:
+All Companies
+All Divisions
+Codman & Shurtleff, Inc.
+Corporate Information
+DePuy Mitek, Inc.
+DePuy Orthopaedics, Inc.
+DePuy Spine, Inc.
+Healthcare Professionals
+Year:
+All Years
+Go 
+Media Contacts
+All inquiries can be submitted by email to:
+Media Inquiries
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
 Fellowships
-Postdoctoral Positions
-Campus Recruiting
-Benefits & Perks
-Hiring Process
-Life at People & Culture
-Work-Life Balance
-Special Programs
-About
-develops advanced technologies to ensure global peace.
-Everyone at contributes to our purpose.
-Our unique responsibilities in the nuclear weapons (NW) program create a foundation from which we leverage capabilities, enabling us to solve complex national security problems.
-As a multidisciplinary national laboratory and federally funded research and development center (
-FFRDC
-), accomplishes tasks that are integral to the mission and operation of our sponsoring agencies by
-anticipating and resolving emerging national security challenges
-innovating and discovering new technologies to strengthen the nation’s technological superiority
-creating value through products and services that solve important national security challenges
-informing the national debate where technology policy is critical to preserving security and freedom throughout our world
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+DePuy Synthes Companies California Compliance
+NOTICE: this information is provided pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765), which requires certain pharmaceutical and medical device companies doing business in California to make available their program for compliance with applicable federal and state laws and industry standards regulating the marketing and promotion of their products
 
-As an for the National Nuclear Security Administration (NNSA), we have a long-term relationship with our sponsor. This creates an environment that supports our fields of expertise, enables us to maintain our objectivity and independence, and allows us to be familiar with our sponsor’s mission. We bring the culture to all our federal sponsors to provide long-term support, solutions to existing problems and emerging threats, and quick-response capabilities. As an objective, independent, and trusted advisor, we draw from our deep science and engineering experience to anticipate, innovate, create, and inform the policy debate for decision makers.
-                         
-                  
-                                                                                  
-Related Links
-Code of Ethics and Standards of Conduct
-Exceptional service in the national interest
-About
-Community Involvement
-Leadership
-Mission
-Environmental Responsibility
-History
-Diversity
-Social Media
-Careers
-View All Jobs
-Students & Postdocs
-Benefits & Perks
-Hiring Process
-Life at Special Programs
-Research
-Research Foundations
-Technology Deployment Centers
-Laboratory Directed Research & Development
-R&100 Awards
-Employee & Retiree Resources
-Alerts
-Corporate Forms
-Technical Library
-Web, Email, & Remote Access
-Health, Benefits, & Employee Services (HBE)
-News
-News Releases
-Media Contacts & Resources
-Lab News
-Image Gallery
-Events
-Publications
-Videos
-Locations
+INTRODUCTION
+The Operating Companies of DePuy Synthes, under the legal entity DePuy Orthopaedics, Inc., (the "Company") have established a program designed to materially comply with applicable federal and state laws and industry standards relating to the marketing and promotion of its products. Additionally, the Company recognizes that adherence to these standards can be furthered through a compliance program that is informed by the Compliance Program Guidance for Pharmaceutical Manufacturers, published by the Office of Inspector General of the Department of Health and Human Services (the "Guide"). The Guide advises that effective compliance programs are comprised of seven elements. As described below, these elements form the basis of the Company's program for compliance with the standards regulating the marketing and promotion of its products.
+II.
+ Overview of Compliance Program
+1. Written Policies and Procedures
+The Company has written policies to assure substantial compliance with the applicable laws and regulations and standards governing the marketing and promotion of our products. Among these standards are recognized industry codes of conduct including the Code of Ethics on Interactions with Health Care Professionals (AdvaMed Code), published by the Advanced Medical Technology Association ("AdvaMed"). The Company has established written policies that govern activities involving communicating with customers about the appropriate use of our products including appropriate instruction, education, training, service and technical support required for the safe and effective use of our products. The Company also has policies governing activities involving the advancement of scientific and educational activities supporting medical research and education. These policies include:
+Policies on Educational Grants and Research Grants
+The Company may provide grants for specific educational purposes that benefit patients and customers. These may include, but are not limited to, continuing medical and paraprofessional education programs, fellowships provided to teaching institutions and similar organizations with a demonstrated commitment to scientific and technical education, and programs operated by organizations that provide high-quality, nationally recognized patient education. Funding of educational programs will generally be provided only to organizations and institutions and not to individual practitioners.
+Research grants to support customer-initiated research may be provided for programs involving research in areas of legitimate interest to the company. All requests are subject to scientific review prior to funding approval.
+Policy on Charitable Contributions and Patient Assistance
+The Company will consider charitable contributions and requests for patient assistance in the areas of children's health, health care education, access to health care and community responsibility, consistent with the Company policies.
+Policy on Travel Expense Reimbursement for CME, Promotional or Product Training Meetings
+The Company will, with very limited exceptions that are in accordance with nationally recognized standards, not reimburse for travel and lodging expenses of attendees at promotional and educational programs.
+The Company may reimburse attendees for their reasonable travel and lodging expenses associated with attendance at product training meetings. Product training meetings will be conducted in locations conducive to the exchange of information such as educational or conference settings. Where face-to-face or hands-on customer training is reasonably necessary for the safe and effective use of the Company's medical device products is required, the Company may provide training at company facilities, at independent teaching centers such as medical institutions, or in other appropriate clinical settings.
+Policy on Business Meals
+The Company may occasionally offer a modest meal, consistent with the standards of the AdvaMed Code as part of an educational presentation or a business discussion. Venues that feature entertainment or recreation, and attendance by spouses or guests, are not permitted.
+Policy on the Provision of Educational and Practice-Related Items
+On occasion, the Company representatives may provide items that benefit patients or serve a genuine educational function for Health Care Professionals, consistent with the standards of the AdvaMed Code.
+Total Annual Dollar Limit for Meals and Educational or Practice-related Items 
+Each of the Companies, have established an annual limit of $1,500 for meals and educational items as the aggregate value of the items or activities that may be provided to California health care professionals pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765).
+Policy Prohibiting Entertainment
+It is the policy of the Company not to provide Entertainment (e.g. sporting events, golf outings, concerts, hunting, etc.) to customers.
+2. Assigned Compliance Officer
+The Company has appointed Health Care Compliance Officers. Our Health Care Compliance Officers have been empowered with appropriate authority to exercise independent judgment and has free and unencumbered access to senior management.
+The Company has appointed Health Care Compliance Committees. The committees are comprised of the Company's Health Care Compliance Officers and members of the Company's management team.
+3. Training.
+The Company has an annual Health Care Compliance training process that includes testing and annual certification of appropriate employees. The training covers applicable guidelines governing our compliance program. Employees are also trained on the consequences of failure to comply with the requirements of the company's compliance program.
+4. Communication.
+The Company encourages open and candid discussion between management and employees regarding any compliance concerns. The Company employees are encouraged to report their concerns to their manager, to the Human Resources Department, to the Law Department or to the company's Health Care Compliance Officer.
+5. Auditing and Monitoring. 
+The Company self-assesses and periodically audits its compliance with its policies and procedures.
+6. Enforcement and Disciplinary Guidelines.
+The Company will take disciplinary actions in response to violation of the company's compliance policies or procedures. The Company will conduct a fair and diligent investigation of matters that are brought to the company's attention in order to ensure the consistent application of the company's standards.
+7. Responses To Detected Problems and Actions To Correct Issues.
+The Company requires a prompt and diligent response to potential violations of the company's compliance program, including its standards regulating the marketing and promotion of our products. Actions in response to detected problems may include improving policies, procedures, training, communication and monitoring or may require disciplinary action to prevent future violations.
+For a copy of this California Compliance Program, please call 1-877-889-3636. Provide your name, mailing address and request that a copy of the DePuy Synthes California Compliance program be sent to you.
+LAW
+As part of the Company's ongoing efforts in the area of compliance, we have developed a Comprehensive Compliance Program that is designed to comply with applicable federal and state laws and industry standards relating to the marketing and promotion of our products. To our knowledge as of the date of this declaration, the Company is in compliance with our Comprehensive Compliance Program, as described here, and with California Health & Safety Code sections 119400-119402.
+Dated: May 1, 2018
+Careers - Johnson & Johnson 
 Contact Us
-Employee Locator
-Programs
-Nuclear Weapons
-Defense Systems & Assessments
-Energy
-Global Security
-Working With Technology Partnerships
-Licensing / Technology Transfer
-Technology Deployment Centers
-New Mexico Small Business Assistance Program
-Sandia's Economic Impact
-Science & Technology Park
-© 2018 National Technology and Engineering Solutions of Sandia, LLC.
-Questions & Comments
-Employee & Retiree Resources
-Privacy & Security
-National Laboratories is a multimission laboratory managed and operated by National Technology and Engineering Solutions of Sandia, LLC., a wholly owned subsidiary of Honeywell International, Inc., for the Department of Energy’s National Nuclear Security Administration under contract DE-NA-0003525.Committed to diversity and inclusion, we can ensure that attracts, retains, and develops a world-class workforce.
-Diversity and inclusion are defining elements of Sandia. They foster multiple perspectives, promote acceptance of different learning and working styles, and encourage the innovation for which we are known. Diversity, by definition, is any mixture of people, groups, or ideas not limited by gender, age, culture, sexual orientation, or physical or intellectual abilities. Inclusion is the practice with which we value those differences and commonalities and leverage our diversity for exceptional service in the national interest.
-Committed to diversity and inclusion, we can ensure that attracts, retains, and develops a world-class workforce. One of our core values at is to work together for great results. We share this common vision by fostering an attitude of mutual respect.  Inclusion is a conscious choice. It is Sandia’s choice.
-Outreach and Networking Groups
-Several networking groups at have been formed by employees with common interests. The following groups are open to all employees and share a common goal of supporting, celebrating, retaining, and attracting a diverse workforce:
-Learn more about Sandia's Outreach and Networking Groups
-American Indian Outreach Committee
-The American Indian Outreach Committee at was established in 1979 as a representative group of technical and administrative professionals whose key interest is to recruit American Indian professionals into the workforce. We also strive to increase public knowledge about our customs, heritage, art, traditions, and technical achievements through a variety of events and activities.
-Asian Leadership & Outreach Committee
-The Asian Leadership & Outreach Committee promotes teamwork and communication among all cultural groups; career growth, development, and success of Asian Americans at Sandia; and an awareness of Asian cultures, values, accomplishments, and activities.
-Black Leadership Committee
-The Black Leadership Committee (BLC) serves the laboratories by providing leadership to Black employees in support of Sandia's mission. The also participates in identifying and recruiting qualified Black employment
-candidates,
-Christians in the Workplace Networking Group
-The Christians in the Workplace Networking Group contributes to an open, supportive, and respectful environment for Christian employees at by raising awareness of the concerns of Christian employees, supporting programs that encourage employees to reach their full potential, and working toward the prevention and elimination of workplace harassment.
-Disability Awareness Committee
-The Disability Awareness Committee helps employees understand the abilities that each individual brings to their position within the company. We assist, counsel, and serve as a liaison between candidates, visitors, and members of the workforce with disabilities, as well as employees with disabled children. We promote awareness and help build a culture of openness, trust
-and
-contributes to an open, supportive, and respectful environment for lesbian, gay, bisexual, and transgendered employees at by raising awareness about sexual orientation and gender issues; supporting outreach and recruiting activities; and supplying resources that address transgender, bisexual, lesbian, and gay workplace issues.
-Hispanic Outreach for Leadership and Awareness
-Hispanic Outreach for Leadership and Awareness promotes community involvement and inspires career success for Hispanics at by striving for equal representation at all levels, supporting Hispanic employees and students in reaching their full potential, and promoting cultural diversity.
-Military Support Committee
-The Military Support Committee engages all levels of the workforce to create and foster a military-friendly community and culture that supports Sandia's mission. We support veterans, active military personnel, guardsmen
-and
-reserves, along with our non-military employees who have family members deployed.
-Women's Action Network
-The Women's Action Network encourages all women to participate, network, and work together toward common goals; promotes participation in community outreach activities that encourage women and girls to pursue fulfilling careers; and assists in becoming a model employer with a hospitable working environment for women.
-Demographics
-News
-June 7, 2018
-Related Links
-Exceptional service in the national interestNational Laboratories
-Exceptional service in the national interest
-Menu
-Locations
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
 Contact Us
-Employee Locator
-Search
-Menu
-About
-Leadership
-Mission
-Social Media
-Community Involvement
-Contribution Programs
-Volunteer Programs
-Education Programs
-Environmental Responsibility
-Environmental Management System
-Pollution Prevention
-History
-60 impacts
-Diversity
-Locations
-Facts & Figures
-Programs
-Nuclear Weapons
-About Nuclear Weapons
-Safety & Security
-Weapons Science & Technology
-Defense Systems & Assessments
-About Defense Systems & Assessments
-Program Areas
-Accomplishments
-Energy
-Stationary Power
-Earth Science
-Transportation Energy
-Energy Research
-Global Security
-Counterterrorism & Response
-Global Threat Reduction
-Homeland Defense & Force Protection
-Homeland Security
-Cyber & Infrastructure Security
-Global Security Remote Sensing & Verification
-Research
-Research Foundations
-Bioscience
-Computing & Information Science
-Electromagnetics
-Engineering Science
-Geoscience
-Materials Science
-Nanodevices & Microsystems
-Radiation Effects & High Energy Density Science
-Robotics
-R&100 Awards
-Laboratory Directed Research & Development
-Technology Deployment Centers
-Working With Working With Prospective Suppliers
-What Looks For In Our Suppliers 
-What Does Buy?
-Opportunities
-Small Business
-Procurement Technical Assistance Program (PTAP)
-Current Suppliers
-iSupplier Account
-Accounts Payable
-Contract
- Information
-Construction & Facilities
-Contract Audit
-Sandia's Economic Impact
-Licensing & Technology Transfer
-Browse Technology Portfolios
-Technology Partnerships
-Business, Industry, & Non-Profits
-Government
-Universities
-Center for Collaboration & Commercialization (C3) 
-Technology Deployment Centers
-Agreements
-Cooperative Research and Development Agreement (CRADA)
-Strategic Partnership Projects, Non-Federal Entity (SPP/NFE) Agreements
-New Mexico Small Business Assistance Program
-Science & Technology Park
-Careers
-Community Involvement 
-News
-News Releases
-Media Contacts & Resources
-Lab News
-Image Gallery
-Publications
-Annual Report
-Economic Impact
-Environmental Reports
-Fact Sheets
-Search Publications
-Labs Accomplishments
-Annual Report
-Partnerships Annual Report
-Research Magazine
-Videos
-Streaming Media Library
-Events
-Careers
-View All Jobs
-Students & Postdocs
-Internships & Co-ops
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
 Fellowships
-Postdoctoral Positions
-Campus Recruiting
-Benefits & Perks
-Hiring Process
-Life at People & Culture
-Work-Life Balance
-Special Programs
-About
-Exceptional service in our communities
-Giving generously to our neighbors
-Helping where we are needed
-Inspiring the next generation of scientists and engineers 
-provides exceptional service in the national interest. We bring this same dedication and expertise to our local communities.
-Our employees and retirees give generously, help where needed, and strive to inspire the next generation of scientists and engineers. Whether we are engaging children in the fascination of science, serving on a Board of Directors, volunteering at a food bank, or giving money - Sandians are passionate about service.
-National Laboratories employees and retirees are generous, 
-contributing
- more than $5 million a year through the United Way of Central New Mexico to non-profits in New Mexico, California, and the nation.  
-employees and retirees are passionate about 
-volunteering
-. You'll find Sandians judging science fairs, coaching sports teams, leading scouting troops, sorting food, building houses, and serving on community boards.
- Encouraging students to pursue science, technology, engineering & math careers is the goal of our K-12 programs.
-Elementary school programs
-Middle school & high school programs
-Videos
-View all videos
-News
-Exceptional service in the national interest
-About
-Community Involvement
-Leadership
-Mission
-Environmental Responsibility
-History
-Diversity
-Social Media
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
 Careers
-View All Jobs
-Students & Postdocs
-Benefits & Perks
-Hiring Process
-Life at Special Programs
-Research
-Research Foundations
-Technology Deployment Centers
-Laboratory Directed Research & Development
-R&100 Awards
-Employee & Retiree Resources
-Alerts
-Corporate Forms
-Technical Library
-Web, Email, & Remote Access
-Health, Benefits, & Employee Services (HBE)
-News
-News Releases
-Media Contacts & Resources
-Lab News
-Image Gallery
-Events
-Publications
-Videos
-Locations
+About DePuy Sysnthes Hero Image
+The DePuy Synthes Companies
+Johnson & Johnson Family of Companies
+.
+
+We offer the world’s most comprehensive portfolio of orthopaedic and neuro products and services for joint reconstruction, trauma, spine, sports medicine, neuro, cranio-maxillofacial, power tools and biomaterials.
+DSUS/MOC/0817/0816 11/2017
+DePuy Synthes Joint Reconstruction
+One of the largest orthopaedics companies in the world, with leading solutions for hip, knee and shoulder replacement.
+DePuy Synthes Trauma
+The global leader in orthopaedic trauma devices for internal and external fixation.
+DePuy Synthes Spine
+Offering one of the world’s most diverse portfolios of spinal-care solutions for both traditional and minimally invasive spine surgery.
+DePuy Synthes Mitek Sports Medicine
+leading developer and manufacturer of pain management and minimally invasive solutions, including sports medicine and soft-tissue repair products.
+DePuy Synthes Power Tools
+Delivering a comprehensive range of power instrument systems, reamers and saws to meet a broad spectrum of clinical needs.
+DePuy Synthes Neuro
+Providing a wide range of solutions for the diagnosis and treatment of neurological disorders focusing on neurovascular, neurosurgery and neuromodulation solutions.
+DePuy Synthes CMF
+Offering systems that provide a complete array of implants and instruments for the treatment of facial trauma, tumor resection and reconstruction.
+Careers - Johnson & Johnson 
 Contact Us
-Employee Locator
-Programs
-Nuclear Weapons
-Defense Systems & Assessments
-Energy
-Global Security
-Working With Technology Partnerships
-Licensing / Technology Transfer
-Technology Deployment Centers
-New Mexico Small Business Assistance Program
-Sandia's Economic Impact
-Science & Technology Park
-© 2018 National Technology and Engineering Solutions of Sandia, LLC.
-Questions & Comments
-Employee & Retiree Resources
-Privacy & Security
-National Laboratories is a multimission laboratory managed and operated by National Technology and Engineering Solutions of Sandia, LLC., a wholly owned subsidiary of Honeywell International, Inc., for the Department of Energy’s National Nuclear Security Administration under contract DE-NA-0003525.National Laboratories
-Exceptional service in the national interest
-Menu
-Locations
-Contact Us
-Employee Locator
-Search
-Menu
-About
-Leadership
-Mission
-Social Media
-Community Involvement
-Contribution Programs
-Volunteer Programs
-Education Programs
-Environmental Responsibility
-Environmental Management System
-Pollution Prevention
-History
-60 impacts
-Diversity
-Locations
-Facts & Figures
-Programs
-Nuclear Weapons
-About Nuclear Weapons
-Safety & Security
-Weapons Science & Technology
-Defense Systems & Assessments
-About Defense Systems & Assessments
-Program Areas
-Accomplishments
-Energy
-Stationary Power
-Earth Science
-Transportation Energy
-Energy Research
-Global Security
-Counterterrorism & Response
-Global Threat Reduction
-Homeland Defense & Force Protection
-Homeland Security
-Cyber & Infrastructure Security
-Global Security Remote Sensing & Verification
-Research
-Research Foundations
-Bioscience
-Computing & Information Science
-Electromagnetics
-Engineering Science
-Geoscience
-Materials Science
-Nanodevices & Microsystems
-Radiation Effects & High Energy Density Science
-Robotics
-R&100 Awards
-Laboratory Directed Research & Development
-Technology Deployment Centers
-Working With Working With Prospective Suppliers
-What Looks For In Our Suppliers 
-What Does Buy?
-Opportunities
-Small Business
-Procurement Technical Assistance Program (PTAP)
-Current Suppliers
-iSupplier Account
-Accounts Payable
-Contract
- Information
-Construction & Facilities
-Contract Audit
-Sandia's Economic Impact
-Licensing & Technology Transfer
-Browse Technology Portfolios
-Technology Partnerships
-Business, Industry, & Non-Profits
-Government
-Universities
-Center for Collaboration & Commercialization (C3) 
-Technology Deployment Centers
-Agreements
-Cooperative Research and Development Agreement (CRADA)
-Strategic Partnership Projects, Non-Federal Entity (SPP/NFE) Agreements
-New Mexico Small Business Assistance Program
-Science & Technology Park
-Careers
-Community Involvement 
-News
-News Releases
-Media Contacts & Resources
-Lab News
-Image Gallery
-Publications
-Annual Report
-Economic Impact
-Environmental Reports
-Fact Sheets
-Search Publications
-Labs Accomplishments
-Annual Report
-Partnerships Annual Report
-Research Magazine
-Videos
-Streaming Media Library
-Events
-Careers
-View All Jobs
-Students & Postdocs
-Internships & Co-ops
-Fellowships
-Postdoctoral Positions
-Campus Recruiting
-Benefits & Perks
-Hiring Process
-Life at People & Culture
-Work-Life Balance
-Special Programs
-Top
-About
-Long-term management aimed at preserving and enhancing the quality of the environment has evolved at National Laboratories for more than 50 years. Recycling, establishing community environmental partnerships, incorporating sustainable design in new and renovated facilities, and environmental restoration are all integral parts of Sandia's environmental stewardship.
-also partners with the Department of Energy to improve public participation in environmental issues, such as the implementation of the National Environmental Policy Act (NEPA) and Long-term Stewardship for environmental restoration. Participation in community organizations and committees that have an environmental and planning focus, such as Shared Vision, the Middle Rio Grande Council of Governments, and the Albuquerque Chamber of Commerce, is a key component.
-Environmental Reports
-The latest published reports
- about Sandia's major sites.
-Other Resources
-Community Relations Plan
-Exceptional service in the national interest
-About
-Community Involvement
-Leadership
-Mission
-Environmental Responsibility
-History
-Diversity
-Social Media
-Careers
-View All Jobs
-Students & Postdocs
-Benefits & Perks
-Hiring Process
-Life at Special Programs
-Research
-Research Foundations
-Technology Deployment Centers
-Laboratory Directed Research & Development
-R&100 Awards
-Employee & Retiree Resources
-Alerts
-Corporate Forms
-Technical Library
-Web, Email, & Remote Access
-Health, Benefits, & Employee Services (HBE)
-News
-News Releases
-Media Contacts & Resources
-Lab News
-Image Gallery
-Events
-Publications
-Videos
-Locations
-Contact Us
-Employee Locator
-Programs
-Nuclear Weapons
-Defense Systems & Assessments
-Energy
-Global Security
-Working With Technology Partnerships
-Licensing / Technology Transfer
-Technology Deployment Centers
-New Mexico Small Business Assistance Program
-Sandia's Economic Impact
-Science & Technology Park
-© 2018 National Technology and Engineering Solutions of Sandia, LLC.
-Questions & Comments
-Employee & Retiree Resources
-Privacy & Security
-National Laboratories is a multimission laboratory managed and operated by National Technology and Engineering Solutions of Sandia, LLC., a wholly owned subsidiary of Honeywell International, Inc., for the Department of Energy’s National Nuclear Security Administration under contract DE-NA-0003525.National Laboratories
-Exceptional service in the national interest
-Menu
-Locations
-Contact Us
-Employee Locator
-Search
-Menu
-About
-Leadership
-Mission
-Social Media
-Community Involvement
-Contribution Programs
-Volunteer Programs
-Education Programs
-Environmental Responsibility
-Environmental Management System
-Pollution Prevention
-History
-60 impacts
-Diversity
-Locations
-Facts & Figures
-Programs
-Nuclear Weapons
-About Nuclear Weapons
-Safety & Security
-Weapons Science & Technology
-Defense Systems & Assessments
-About Defense Systems & Assessments
-Program Areas
-Accomplishments
-Energy
-Stationary Power
-Earth Science
-Transportation Energy
-Energy Research
-Global Security
-Counterterrorism & Response
-Global Threat Reduction
-Homeland Defense & Force Protection
-Homeland Security
-Cyber & Infrastructure Security
-Global Security Remote Sensing & Verification
-Research
-Research Foundations
-Bioscience
-Computing & Information Science
-Electromagnetics
-Engineering Science
-Geoscience
-Materials Science
-Nanodevices & Microsystems
-Radiation Effects & High Energy Density Science
-Robotics
-R&100 Awards
-Laboratory Directed Research & Development
-Technology Deployment Centers
-Working With Working With Prospective Suppliers
-What Looks For In Our Suppliers 
-What Does Buy?
-Opportunities
-Small Business
-Procurement Technical Assistance Program (PTAP)
-Current Suppliers
-iSupplier Account
-Accounts Payable
-Contract
- Information
-Construction & Facilities
-Contract Audit
-Sandia's Economic Impact
-Licensing & Technology Transfer
-Browse Technology Portfolios
-Technology Partnerships
-Business, Industry, & Non-Profits
-Government
-Universities
-Center for Collaboration & Commercialization (C3) 
-Technology Deployment Centers
-Agreements
-Cooperative Research and Development Agreement (CRADA)
-Strategic Partnership Projects, Non-Federal Entity (SPP/NFE) Agreements
-New Mexico Small Business Assistance Program
-Science & Technology Park
-Careers
-Community Involvement 
-News
-News Releases
-Media Contacts & Resources
-Lab News
-Image Gallery
-Publications
-Annual Report
-Economic Impact
-Environmental Reports
-Fact Sheets
-Search Publications
-Labs Accomplishments
-Annual Report
-Partnerships Annual Report
-Research Magazine
-Videos
-Streaming Media Library
-Events
-Careers
-View All Jobs
-Students & Postdocs
-Internships & Co-ops
-Fellowships
-Postdoctoral Positions
-Campus Recruiting
-Benefits & Perks
-Hiring Process
-Life at People & Culture
-Work-Life Balance
-Special Programs
-About
-Sandia’s multimission work is represented in a diverse funding portfolio.
-Financial highlights
-Publications
-Budget
-Funding by Source
-Workforce
-College Degrees
-Site Locations
-View in Table
-National Lab Funding 
-Totaled $3,172.2 Million in 2017
-Total Lab Funding: $3,172.2 Million
-Budget
-% of Funding
-Operating
-$3,073.4
-96.9%
-Capital Equipment
-$55.0
-1.7%
-Construction
-$43.8
-1.4%
-Total Lab Funding
-$3,172.2
-100%
-* Dollars represented in millions
-Category
-Funding
-Category
-Funding
-NNSA
-Weapons Activities
-1,615.2
-Defense Nuclear Nonproliferation
-204.2
-Other NNSA
-1.2
-NON-DOE
-Energy & Threat
-Environmental Management
-Fossil Energy
-8.0M
-Nuclear Energy
-Science
-Other DOE
-Electricity Delivery & Energy Reliability
-Energy Efficiency & Renewable Energry
-Strategic Partnership Projects (WFO)
-DoD
-DHS
-Other Federal Agencies
-Non-Federal Agencies
-CRADAs & Licences/Royalties
-Funded WFO
-0
-Inter-Entity Work
-Sandia’s Workforce 
-Totaled 12,300* people in 2017
-Worforce Type
-Count
-Regular Employees
-10,800
-Students
-760
-Post Docs
-220
-Limited-Term Employess
-420
-Faculty/Recurrents
-30
-* This figure shows the total workforce for all sites as of Sept. 22, 2017; figure does not include staff aug. contractors. Totals may vary slightly due to rounding. full-time equivalent is defined as one regular employee on roll for a full fiscal year.
-regular employees have 
-earned 10,829 degrees as of September 2017
-Sandia’s regular employees have earned 910 associate degrees, 2,046 bachelor’s degrees, 4,161 master’s degrees, 1,905 doctorates, and 1,807 other degrees as of the end of FY17.
-8%
-910 Associates
-17%
-1,807 Other
-19%
-2,046 Bachelors
-18%
-1,905 Doctorates
-38%
-4,161 Masters
-Degree
-%
-Associates
-8%
-Other
-17%
-Bachelors
-19%
-Doctorates
-18%
-Masters
-38%
-Miscellaneous information about 
-sites as of September 2017
-operates in Albuquerque, N.M.; Livermore, Calif.; Tonopah Test Range, Nev.; and Kauai Test Facility and Maui, Hawaii; and has leased space at other locations, including a Washington, D.C., office.
-Acres 
-of land mass 
-Number of buildings 
-& trailers 
-Number of other 
-structures & facilities 
-Gross square 
-footage 
-Site 
-population 
-* In full-time equivalents (FTEs), includes limited-term employees, contractors, students, and postdocs
-Albuquerque, site: 
-13,736
-Livermore, Calif. site: 
-410
-Tonopah Test Range (Nevada): 
-179,200
-Kauai Test Facility (Hawaii): 
-133
-Leased space @ All Other Locations: 
-25
-Permits (primarily KAFB): --
-Albuquerque, site: 
-686
-Livermore, Calif. site: 
-76
-Tonopah Test Range (Nevada): 
-76
-Kauai Test Facility (Hawaii): 
-50
-Leased space @ All Other Locations: 
-18
-Permits (primarily KAFB): 
-100
-Albuquerque, site: 
-57
-Livermore, Calif. site: 
-36
-Tonopah Test Range (Nevada): 
-51
-Kauai Test Facility (Hawaii): 
-48
-Leased space @ All Other Locations: 
-1
-Permits (primarily KAFB): 
-2
-Albuquerque, site: 
-5,949,685
-Livermore, Calif. site: 
-899,083
-Tonopah Test Range (Nevada): 
-111,815
-Kauai Test Facility (Hawaii): 
-49,059
-Leased space @ All Other Locations: 
-365,210
-Permits (primarily KAFB): 
- 231,641
-Albuquerque, site: 
-10,899
-Livermore, Calif. site: 
-1,322
-Tonopah Test Range (Nevada): 
-29
-Kauai Test Facility (Hawaii): 
-1
-Leased space @ All Other Locations: 
-186
-Permits (primarily KAFB): --
-Download
-By the Numbers, FY16
- 1.5 PDF
-Related Links
-For more information on Sandia’s people, locations and funding, visit the Fact Sheets library:
-Fact Sheets
-Exceptional service in the national interest
-About
-Community Involvement
-Leadership
-Mission
-Environmental Responsibility
-History
-Diversity
-Social Media
-Careers
-View All Jobs
-Students & Postdocs
-Benefits & Perks
-Hiring Process
-Life at Special Programs
-Research
-Research Foundations
-Technology Deployment Centers
-Laboratory Directed Research & Development
-R&100 Awards
-Employee & Retiree Resources
-Alerts
-Corporate Forms
-Technical Library
-Web, Email, & Remote Access
-Health, Benefits, & Employee Services (HBE)
-News
-News Releases
-Media Contacts & Resources
-Lab News
-Image Gallery
-Events
-Publications
-Videos
-Locations
-Contact Us
-Employee Locator
-Programs
-Nuclear Weapons
-Defense Systems & Assessments
-Energy
-Global Security
-Working With Technology Partnerships
-Licensing / Technology Transfer
-Technology Deployment Centers
-New Mexico Small Business Assistance Program
-Sandia's Economic Impact
-Science & Technology Park
-© 2018 National Technology and Engineering Solutions of Sandia, LLC.
-Questions & Comments
-Employee & Retiree Resources
-Privacy & Security
-National Laboratories is a multimission laboratory managed and operated by National Technology and Engineering Solutions of Sandia, LLC., a wholly owned subsidiary of Honeywell International, Inc., for the Department of Energy’s National Nuclear Security Administration under contract DE-NA-0003525.
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Start the conversation now.
+DON'PLAY.
+If hip or knee pain is making you live life on pause, it may be time to talk with a doctor about treatment options. Because life is a lot more fun when you Hit Play!
+We are inspired by the opportunity to work together to advance patient care.
+Johnson & Johnson Medical Devices Companies (JJMDC) advance patient care while delivering clinical and economic value to healthcare systems and helps providers address individual needs through a holistic approach.
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Find a Doctor
+© DePuy Synthes 2014-2018. All Rights Reserved.
+This site is published by the DePuy Synthes Companies, which are solely responsible for its content.
+This site is governed solely by applicable laws and governmental regulations.
+This site is for visitors from the United States.
+The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us

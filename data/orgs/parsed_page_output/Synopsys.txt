@@ -1,1590 +1,323 @@
-Silicon Design & Verification
-Silicon IP
-Software Integrity
-About Us
-Support
-SolvNet
-Software Integrity
-Global Sites
-日本サイ ト
-中文网站
-中文網站
-Сайт Россия
-Silicon Design & Verification Products
-Solutions
-Resources
-Services
-Community
-Training
-Silicon Products
-Solutions
-Resources
-Services
-Community
-Contact Us 
-Contact Us 
-Contact Us 
-Software Integrity
-Tools & Services
-Training & Education
-Solutions
-Resources
-Support
-Partners
-Contact Sales
-Contact Sales
-Contact Sales
-Contact Sales
-Contact Sales
-About Us
-Discover
-+
-Silicon Design & Verification
-+
-Silicon IP
-+
-Software Integrity
-+
-About Us
-Support
-SolvNet
-Software Integrity
-Global SItes
-日本サイ ト
-中文网站
-中文網站
-Сайт Россия
-< Silicon Design & Verification Products
-Design 
-Synthesis
-Physical Implementation
-Physical Verification
-Signoff
-Test Automation
-Custom Design
-Design
-Lynx Design System 
-< Silicon Design & Verification Products
-System Simulation & Modeling
-Electro-Mechanical
-Wire Harness
-Automotive
-Aerospace
-< Silicon Design & Verification Products
-Verification Continuum
-Simulation
-Verification
-Static & Formal Verification
-Debug & Coverage
-Verification 
-Virtual Prototyping
-Emulation
-Prototyping
-SoVerification Automation
-Verification
-< Silicon Design & Verification Products
-3Image Processing
-Simpleware Products
-Simpleware for Life Sciences
-Simpleware for Materials & Manufacturing
-< Silicon Design & Verification Products
-Silicon Engineering 
-TCAD
-Atomic-Scale Modeling
-Mask Synthesis
-Mask Data Prep
-Yield Management
-< Silicon Design & Verification Products
-Optical Solutions
-LightTools
-V
-LucidShape
-RSoft
-< Silicon Design & Verification Products
-Photonic Solutions
-Design Suite
-< overview
-Silicon Design & Verification Products
-+
-Design 
-+
-System Simulation & Modeling
-+
-Verification Continuum
-+
-3Image Processing
-+
-Silicon Engineering 
-+
-Optical Solutions
-+
-Photonic Solutions
-< Solutions
-Design
-Aerospace & Defense
-Artificial Intelligence
-Automotive
-Advanced Low Power
-DTCO
-FinFET
-< Solutions
-Verification
-Aerospace & Defense
-Automotive
-Low Power
-< Solutions
-Silicon Design &  Verification on Cloud
-Cloud Solution
-< Solutions
-Platform
-Fusion Design Platform
-Custom Design Platform
-Verification Continuum
-Silicon Engineering
-< overview
-Solutions
-+
-Design
-+
-Verification
-+
-Silicon Design &  Verification on Cloud
-+
-Platform
-< Resources
-Design
-Articles
-Blogs
-Datasheets
-Events
-News
-Success Stories
-Tools
-Videos
-Webinars
-White Papers
-< Resources
-Verification
-Articles
-Blogs
-Datasheets
-Events
-News
-Newsletters
-Success Stories
-Technical Papers
-Tools
-Videos
-Webinars
-White Papers
-< Resources
-Silicon Engineering
-Articles
-Datasheets
-Events
-News
-Newsletters
-Tools
-Webinars
-< overview
-Resources
-+
-Design
-+
-Verification
-+
-Silicon Engineering
-< Services
-Design Services
-Methodology Consulting & Flow Deployment
-Physical Design & Assistance
-Arm Core Hardening & Optimization
-Hosted Collaboration Services
-< Services
-Support
-Support Center Locations
-Licensing
-Installation
-Compute Platforms
-< Services
-SolvNet
-Documentation
-Open a Support Case
-Download Center
-< overview
-Services
-+
-Design Services
-+
-Support
-+
-SolvNet
-< Community
-Community
-Community Overview
-< Community
-SNUG
-Conferences
-Keynotes
-Proceedings
-Sponsors
-< Community
-Partners
-Arm
-GLOBALFOUNDRIES
-Intel Custom Foundry
-Samsung
-TSMC
-All Partners
-< Community
-Embedded Linux Projects 
-IoProjects
-Bare Metal Projects
-Development Tools
-Development Platforms
-< Community
-Interoperability
-Access
-Connect
-In-Sync
-TAP-in
-Apps Access
-< Community
-Academic Programs
-Electronic Design
-Optical Design
-Static Analysis
-< Community
-Company Blogs
-Software Integrity
-Custom Layout Insights
-To or Not to USB
-View from the Top
-Hitting the Mark
-InFormal Chat
-Central
-All Blogs
-< Community
-BSIMM
-Conference
-Download BSIMM
-Join BSIMM
-< overview
-Community
-+
-Community
-+
-SNUG
-+
-Partners
-+
-+
-Interoperability
-+
-Academic Programs
-+
-Company Blogs
-+
-BSIMM
-< Training
-Silicon Design & Verification Training
-Course Catalog and Registration
-Course Options
-< overview
-Training
-+
-Silicon Design & Verification Training
-< main menu
-Silicon Design & Verification
-+
-Silicon Design & Verification Products
-+
-Solutions
-+
-Resources
-+
-Services
-+
-Community
-+
-Training
-< Silicon Products
-Interface IP
-USB
-Express
-DDR
-MIPI
-CCIX
-Bluetooth
-Ethernet
-HDMI
-SATA
-Mobile Storage
-Multi-Protocol PHYs
-Prototyping Kits
-Interface Subsystems
-All Interface 
-< Silicon Products
-Memories & Libraries
-Logic Libraries
-Memory Compliers
-Duet Packages
-Design Kit
-Embedded Test & Repair
-Non-Volatile Memory
-< Silicon Products
-Analog IP
-Data Converters
-Audio Analog Codecs
-< Silicon Products
-Processor Solutions
-Processor IP
-Embedded Vision Processor IP
-Development Tools
-Operating Systems
-Ecosystem
-Tools
-< Silicon Products
-Subsystems
-Data Fusion Subsystem
-Sensor & Control Subsystem
-Audio Subsystem
-Interface Subsystem
-< Silicon Products
-Security IP
-Root of Trust
-Cryptography IP
-Content Protection
-Security Protocol Accelerator
-< Silicon Products
-Market Segments
-Artificial Intelligence
-Automotive
-Internet of Things
-Cloud Computing 
-< Silicon Products
-Accelerated
-SoArchitecture 
-Subsystems
-Signal/Power Integrity Analysis & Hardening 
-Prototyping Kits
-Silicon Bring-Up Support 
-< Silicon Products
-SoInfrastructure IP
-DesignWare Library
-Foundation Cores
-minPower Components
-Verification IP
-< overview
-Silicon Products
-+
-Interface IP
-+
-Memories & Libraries
-+
-Analog IP
-+
-Processor Solutions
-+
-Subsystems
-+
-Security IP
-+
-Market Segments
-+
-Accelerated
-+
-SoInfrastructure IP
-Contact Us 
-< Solutions
-Solutions
-Artificial Intelligence
-Automotive
-Internet of Things
-Cloud Computing
-< overview
-Solutions
-+
-Solutions
-Contact Us 
-< Resources
-Read
-Articles
-Blogs
-Datasheets
-DesignWare Technical Bulletin
-News
-Success Stories 
-White Papers 
-< Resources
-Watch
-Videos
-Webinars
-< overview
-Resources
-+
-Read
-+
-Watch
-Contact Us 
-< Services
-Silicon Design Services
-Methodology Consulting & Flow Deployment
-Physical Design & Assistance
-Arm Core Hardening & Optimization
-Hosted Collaboration Services
-< Services
-Support
-Support Center Locations
-Licensing
-Installation
-Compute Platforms
-< Services
-SolvNet
-Documentation
-Open a Support Case
-Download Center
-< overview
-Services
-+
-Silicon Design Services
-+
-Support
-+
-SolvNet
-< Community
-Community
-Community Overview
-< Community
-SNUG
-Conferences
-Keynotes
-Proceedings
-Sponsors
-< Community
-Partners
-Arm
-GLOBALFOUNDRIES
-Intel Custom Foundry
-Samsung
-TSMC
-All Partners
-< Community
-Embedded Linux Projects 
-IoProjects
-Bare Metal Projects
-Development Tools
-Development Platforms
-< Community
-Interoperability
-Access
-Connect
-In-Sync
-TAP-in
-Apps Access
-< Community
-Academic Programs
-Electronic Design
-Optical Design
-Static Analysis
-< Community
-Company Blogs
-Software Integrity
-Custom Layout Insights
-To or Not to USB
-View from the Top
-Hitting the Mark
-InFormal Chat
-Central
-All Blogs
-< Community
-BSIMM
-Conference
-Download BSIMM
-Join BSIMM
-< overview
-Community
-+
-Community
-+
-SNUG
-+
-Partners
-+
-+
-Interoperability
-+
-Academic Programs
-+
-Company Blogs
-+
-BSIMM
-< main menu
-Silicon IP
-+
-Silicon Products
-+
-Solutions
-+
-Resources
-+
-Services
-+
-Community
-< overview
-Software Integrity
-Contact Sales
-< Tools & Services
-Software Security & Quality
-Coverity Static Analysis
-Black Duck Software Composition Analysis
-Seeker Interactive Application Security Testing
-Defensics Fuzz Testing
-Managed Security Testing Services
-< Tools & Services
-Professional Services
-Strategy and Planning (BSIMM)
-Architecture & Design
-DevSecOps Integration
-Cloud Security
-Industry Solutions
-< Tools & Services
-Open Source Audits
-< overview
-Tools & Services
-+
-Software Security & Quality
-+
-Professional Services
-Open Source Audits
-Contact Sales
-< Training & Education
-Software Security Training
-eLearning
-Instructor Led Training
-Course Catalog
-< Training & Education
-Product Education
-< overview
-Training & Education
-+
-Software Security Training
-Product Education
-Contact Sales
-< Solutions
-By Need
-Application Security Testing
-Software Quality
-Open Source Security & Compliance
-DevSecOps
-Agile Development
-CI/CD
-Security Program Acceleration
-Cloud Security
-Industry Standards Compliance
-Mergers & Acquisitions
-< Solutions
-By Industry
-Financial Services
-Automotive
-Healthcare
-Retail & eCommerce
-Io& Embedded
-Industrial Control Systems
-Federal/Government
-Energy
-< overview
-Solutions
-+
-By Need
-+
-By Industry
-Contact Sales
-< Resources
-Read
-Blog
-Case Studies
-Datasheets
-eBooks
-Glossary 
-Knowledge Database
-Reports
-White Papers
-< Resources
-Watch
-Videos
-Webinars
-< Resources
- Listen
-Silver Bullet Security Podcast
-< overview
-Resources
-+
-Read
-+
-Watch
-+
- Listen
-Contact Sales
-< Support
-Community
-BSIMM
-Software Integrity 
-< Support
-Contact Support
-< overview
-Support
-+
-Community
-Contact Support
-< Partners
-Partners
-Ecosystem
-Cloud
-Alliances
-Global Systems Integrators
-< overview
-Partners
-+
-Partners
-< main menu
-Software Integrity
-+
-Software Integrity
-+
-Tools & Services
-+
-Training & Education
-+
-Solutions
-+
-Resources
-+
-Support
-+
-Partners
-< About Us
-About Us
-Company Overview
-Management Team
-Global Citizenship
-Board of Directors
-Governance & Values
-Resources
-< About Us
-Community
-Community Overview
-Resources
-< About Us
-Investor Relations
-Recent Financial News
-Financials
-Investor Presentations
-Governance & Values
-< About Us
-Newsroom
-Press Releases
-Spokesperson Bios & Images
-Logos
-Media Contacts
-< About Us
-Events
-Events
-Webinars
-Users Group (SNUG)
-< About Us
-Careers
-Current Opportunities
-Values & Ethics
-Worldwide Locations
-Verify Your Recruitment
-< overview
-About Us
-+
-About Us
-+
-Community
-+
-Investor Relations
-+
-Newsroom
-+
-Events
-+
-Careers
-< main menu
-About Us
-+
-About Us
+Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
 Home
-Silicon Design
-Design
-Verification Continuum
-Silicon Engineering
-DesignWare IP
-Software Integrity
-Solutions
-Services
-Support
-Community
-About Us
-Simpleware
-Photonic Solutions
-About Us
-Investor Relations 
-Careers
-Newsroom
-Corporate Governance & Values
-Contact Us
-Resources
-Management Team
-Executive Briefing Center
-Legal
-Strategic Acquisitions
-Global Citizenship
-About Us
-is at the heart of innovations in the new era of Smart, Secure Everything ... from Silicon to Software
-Watch our video
-Smart, Secure Everything—From Silicon to Software 
-technology is at the heart of innovations that are changing the way we live and work. The Internet of Things. Autonomous cars. Wearables. Smart medical devices. Secure financial services. Machine learning and computer vision. These breakthroughs are ushering in the era of Smart, Secure Everything
-―where devices are getting smarter, everything’s connected, and everything must be secure.
-Powering this new era of technology are advanced silicon chips, which are made even smarter by the remarkable software that drives them. is at the forefront of Smart, Secure Everything with the world’s most advanced tools for silicon chip design, verification, integration, and application security testing. Our technology helps customers innovate from silicon to software, so they can deliver Smart, Secure Everything.
-Download our brochure
-   30+  
-years in business
-   $3+ billion  
-annual revenue
-  13,000+  
-employees
-Management Team
-Board of Directors
-Investor Relations
-Trademarks & Brands
-Careers
-Events
-Locations
-Strategic Acquisitions 
-Newsroom
-Global Citizenship
-Blogs
-Products 
-Software Integrity
-Semiconductor IP
-Verification
-Design
-Silicon Engineering
-Resources
-Solutions
-Services
-Support
-Community
-Manage Subscriptions
-Corporate
-About Us
-Careers
-Global Citizenship
-Investor Relations
-Contact Us
-Legal
-Privacy
-Trademarks & Brands
-Software Integrity
-Follow
-FollowSilicon Design & Verification
-Silicon IP
-Software Integrity
-About Us
-Support
-SolvNet
-Software Integrity
-Global Sites
-日本サイ ト
-中文网站
-中文網站
-Сайт Россия
-Silicon Design & Verification Products
-Solutions
-Resources
-Services
-Community
-Training
-Silicon Products
-Solutions
-Resources
-Services
-Community
-Contact Us 
-Contact Us 
-Contact Us 
-Software Integrity
-Tools & Services
-Training & Education
-Solutions
-Resources
-Support
-Partners
-Contact Sales
-Contact Sales
-Contact Sales
-Contact Sales
-Contact Sales
-About Us
-Discover
-+
-Silicon Design & Verification
-+
-Silicon IP
-+
-Software Integrity
-+
-About Us
-Support
-SolvNet
-Software Integrity
-Global SItes
-日本サイ ト
-中文网站
-中文網站
-Сайт Россия
-< Silicon Design & Verification Products
-Design 
-Synthesis
-Physical Implementation
-Physical Verification
-Signoff
-Test Automation
-Custom Design
-Design
-Lynx Design System 
-< Silicon Design & Verification Products
-System Simulation & Modeling
-Electro-Mechanical
-Wire Harness
-Automotive
-Aerospace
-< Silicon Design & Verification Products
-Verification Continuum
-Simulation
-Verification
-Static & Formal Verification
-Debug & Coverage
-Verification 
-Virtual Prototyping
-Emulation
-Prototyping
-SoVerification Automation
-Verification
-< Silicon Design & Verification Products
-3Image Processing
-Simpleware Products
-Simpleware for Life Sciences
-Simpleware for Materials & Manufacturing
-< Silicon Design & Verification Products
-Silicon Engineering 
-TCAD
-Atomic-Scale Modeling
-Mask Synthesis
-Mask Data Prep
-Yield Management
-< Silicon Design & Verification Products
-Optical Solutions
-LightTools
-V
-LucidShape
-RSoft
-< Silicon Design & Verification Products
-Photonic Solutions
-Design Suite
-< overview
-Silicon Design & Verification Products
-+
-Design 
-+
-System Simulation & Modeling
-+
-Verification Continuum
-+
-3Image Processing
-+
-Silicon Engineering 
-+
-Optical Solutions
-+
-Photonic Solutions
-< Solutions
-Design
-Aerospace & Defense
-Artificial Intelligence
-Automotive
-Advanced Low Power
-DTCO
-FinFET
-< Solutions
-Verification
-Aerospace & Defense
-Automotive
-Low Power
-< Solutions
-Silicon Design &  Verification on Cloud
-Cloud Solution
-< Solutions
-Platform
-Fusion Design Platform
-Custom Design Platform
-Verification Continuum
-Silicon Engineering
-< overview
-Solutions
-+
-Design
-+
-Verification
-+
-Silicon Design &  Verification on Cloud
-+
-Platform
-< Resources
-Design
-Articles
-Blogs
-Datasheets
-Events
-News
-Success Stories
-Tools
-Videos
-Webinars
-White Papers
-< Resources
-Verification
-Articles
-Blogs
-Datasheets
-Events
-News
-Newsletters
-Success Stories
-Technical Papers
-Tools
-Videos
-Webinars
-White Papers
-< Resources
-Silicon Engineering
-Articles
-Datasheets
-Events
-News
-Newsletters
-Tools
-Webinars
-< overview
-Resources
-+
-Design
-+
-Verification
-+
-Silicon Engineering
-< Services
-Design Services
-Methodology Consulting & Flow Deployment
-Physical Design & Assistance
-Arm Core Hardening & Optimization
-Hosted Collaboration Services
-< Services
-Support
-Support Center Locations
-Licensing
-Installation
-Compute Platforms
-< Services
-SolvNet
-Documentation
-Open a Support Case
-Download Center
-< overview
-Services
-+
-Design Services
-+
-Support
-+
-SolvNet
-< Community
-Community
-Community Overview
-< Community
-SNUG
-Conferences
-Keynotes
-Proceedings
-Sponsors
-< Community
-Partners
-Arm
-GLOBALFOUNDRIES
-Intel Custom Foundry
-Samsung
-TSMC
-All Partners
-< Community
-Embedded Linux Projects 
-IoProjects
-Bare Metal Projects
-Development Tools
-Development Platforms
-< Community
-Interoperability
-Access
-Connect
-In-Sync
-TAP-in
-Apps Access
-< Community
-Academic Programs
-Electronic Design
-Optical Design
-Static Analysis
-< Community
-Company Blogs
-Software Integrity
-Custom Layout Insights
-To or Not to USB
-View from the Top
-Hitting the Mark
-InFormal Chat
-Central
-All Blogs
-< Community
-BSIMM
-Conference
-Download BSIMM
-Join BSIMM
-< overview
-Community
-+
-Community
-+
-SNUG
-+
-Partners
-+
-+
-Interoperability
-+
-Academic Programs
-+
-Company Blogs
-+
-BSIMM
-< Training
-Silicon Design & Verification Training
-Course Catalog and Registration
-Course Options
-< overview
-Training
-+
-Silicon Design & Verification Training
-< main menu
-Silicon Design & Verification
-+
-Silicon Design & Verification Products
-+
-Solutions
-+
-Resources
-+
-Services
-+
-Community
-+
-Training
-< Silicon Products
-Interface IP
-USB
-Express
-DDR
-MIPI
-CCIX
-Bluetooth
-Ethernet
-HDMI
-SATA
-Mobile Storage
-Multi-Protocol PHYs
-Prototyping Kits
-Interface Subsystems
-All Interface 
-< Silicon Products
-Memories & Libraries
-Logic Libraries
-Memory Compliers
-Duet Packages
-Design Kit
-Embedded Test & Repair
-Non-Volatile Memory
-< Silicon Products
-Analog IP
-Data Converters
-Audio Analog Codecs
-< Silicon Products
-Processor Solutions
-Processor IP
-Embedded Vision Processor IP
-Development Tools
-Operating Systems
-Ecosystem
-Tools
-< Silicon Products
-Subsystems
-Data Fusion Subsystem
-Sensor & Control Subsystem
-Audio Subsystem
-Interface Subsystem
-< Silicon Products
-Security IP
-Root of Trust
-Cryptography IP
-Content Protection
-Security Protocol Accelerator
-< Silicon Products
-Market Segments
-Artificial Intelligence
-Automotive
-Internet of Things
-Cloud Computing 
-< Silicon Products
-Accelerated
-SoArchitecture 
-Subsystems
-Signal/Power Integrity Analysis & Hardening 
-Prototyping Kits
-Silicon Bring-Up Support 
-< Silicon Products
-SoInfrastructure IP
-DesignWare Library
-Foundation Cores
-minPower Components
-Verification IP
-< overview
-Silicon Products
-+
-Interface IP
-+
-Memories & Libraries
-+
-Analog IP
-+
-Processor Solutions
-+
-Subsystems
-+
-Security IP
-+
-Market Segments
-+
-Accelerated
-+
-SoInfrastructure IP
-Contact Us 
-< Solutions
-Solutions
-Artificial Intelligence
-Automotive
-Internet of Things
-Cloud Computing
-< overview
-Solutions
-+
-Solutions
-Contact Us 
-< Resources
-Read
-Articles
-Blogs
-Datasheets
-DesignWare Technical Bulletin
-News
-Success Stories 
-White Papers 
-< Resources
-Watch
-Videos
-Webinars
-< overview
-Resources
-+
-Read
-+
-Watch
-Contact Us 
-< Services
-Silicon Design Services
-Methodology Consulting & Flow Deployment
-Physical Design & Assistance
-Arm Core Hardening & Optimization
-Hosted Collaboration Services
-< Services
-Support
-Support Center Locations
-Licensing
-Installation
-Compute Platforms
-< Services
-SolvNet
-Documentation
-Open a Support Case
-Download Center
-< overview
-Services
-+
-Silicon Design Services
-+
-Support
-+
-SolvNet
-< Community
-Community
-Community Overview
-< Community
-SNUG
-Conferences
-Keynotes
-Proceedings
-Sponsors
-< Community
-Partners
-Arm
-GLOBALFOUNDRIES
-Intel Custom Foundry
-Samsung
-TSMC
-All Partners
-< Community
-Embedded Linux Projects 
-IoProjects
-Bare Metal Projects
-Development Tools
-Development Platforms
-< Community
-Interoperability
-Access
-Connect
-In-Sync
-TAP-in
-Apps Access
-< Community
-Academic Programs
-Electronic Design
-Optical Design
-Static Analysis
-< Community
-Company Blogs
-Software Integrity
-Custom Layout Insights
-To or Not to USB
-View from the Top
-Hitting the Mark
-InFormal Chat
-Central
-All Blogs
-< Community
-BSIMM
-Conference
-Download BSIMM
-Join BSIMM
-< overview
-Community
-+
-Community
-+
-SNUG
-+
-Partners
-+
-+
-Interoperability
-+
-Academic Programs
-+
-Company Blogs
-+
-BSIMM
-< main menu
-Silicon IP
-+
-Silicon Products
-+
-Solutions
-+
-Resources
-+
-Services
-+
-Community
-< overview
-Software Integrity
-Contact Sales
-< Tools & Services
-Software Security & Quality
-Coverity Static Analysis
-Black Duck Software Composition Analysis
-Seeker Interactive Application Security Testing
-Defensics Fuzz Testing
-Managed Security Testing Services
-< Tools & Services
-Professional Services
-Strategy and Planning (BSIMM)
-Architecture & Design
-DevSecOps Integration
-Cloud Security
-Industry Solutions
-< Tools & Services
-Open Source Audits
-< overview
-Tools & Services
-+
-Software Security & Quality
-+
-Professional Services
-Open Source Audits
-Contact Sales
-< Training & Education
-Software Security Training
-eLearning
-Instructor Led Training
-Course Catalog
-< Training & Education
-Product Education
-< overview
-Training & Education
-+
-Software Security Training
-Product Education
-Contact Sales
-< Solutions
-By Need
-Application Security Testing
-Software Quality
-Open Source Security & Compliance
-DevSecOps
-Agile Development
-CI/CD
-Security Program Acceleration
-Cloud Security
-Industry Standards Compliance
-Mergers & Acquisitions
-< Solutions
-By Industry
-Financial Services
-Automotive
-Healthcare
-Retail & eCommerce
-Io& Embedded
-Industrial Control Systems
-Federal/Government
-Energy
-< overview
-Solutions
-+
-By Need
-+
-By Industry
-Contact Sales
-< Resources
-Read
-Blog
-Case Studies
-Datasheets
-eBooks
-Glossary 
-Knowledge Database
-Reports
-White Papers
-< Resources
-Watch
-Videos
-Webinars
-< Resources
- Listen
-Silver Bullet Security Podcast
-< overview
-Resources
-+
-Read
-+
-Watch
-+
- Listen
-Contact Sales
-< Support
-Community
-BSIMM
-Software Integrity 
-< Support
-Contact Support
-< overview
-Support
-+
-Community
-Contact Support
-< Partners
-Partners
-Ecosystem
-Cloud
-Alliances
-Global Systems Integrators
-< overview
-Partners
-+
-Partners
-< main menu
-Software Integrity
-+
-Software Integrity
-+
-Tools & Services
-+
-Training & Education
-+
-Solutions
-+
-Resources
-+
-Support
-+
-Partners
-< About Us
-About Us
-Company Overview
-Management Team
-Global Citizenship
-Board of Directors
-Governance & Values
-Resources
-< About Us
-Community
-Community Overview
-Resources
-< About Us
-Investor Relations
-Recent Financial News
-Financials
-Investor Presentations
-Governance & Values
-< About Us
-Newsroom
-Press Releases
-Spokesperson Bios & Images
-Logos
-Media Contacts
-< About Us
-Events
-Events
-Webinars
-Users Group (SNUG)
-< About Us
-Careers
-Current Opportunities
-Values & Ethics
-Worldwide Locations
-Verify Your Recruitment
-< overview
-About Us
-+
-About Us
-+
-Community
-+
-Investor Relations
-+
-Newsroom
-+
-Events
-+
-Careers
-< main menu
-About Us
-+
-About Us
+About DePuy Synthes
+News and Press
+Toggle navigation
+DePuy Synthes
 Home
-Silicon Design
-Design
-Verification Continuum
-Silicon Engineering
-DesignWare IP
-Software Integrity
-Solutions
-Services
-Support
-Community
-About Us
-Simpleware
-Photonic Solutions
-Community
-Academic Programs
-Blogs
-Interoperability Programs
-Partners
-SNUG
-SNUG
-Silicon Valley
-Austin
-Boston
-Canada 
-Israel
-Japan
-Singapore
-Taiwan
-India
-Penang
-Europe
-Korea
-Proceedings
-China
-About SNUG
-About SNUG
-Your Global Design Community Focused on Innovation
-The Users Group (SNUG) was established in 1991 to provide users of design tools and technology with an open forum in which they could exchange ideas, discuss problems and explore solutions. Today, there are 13 conferences worldwide drawing nearly 10,000 tool users, representing more than 900 companies. 
-
-                
-                  At the heart of each event is a technical conference focusing on real-world design challenges and featuring peer-reviewed User papers, along with presentations from top technologists and industry experts. Although all conferences maintain a common technical focus, each program is designed with the specific needs of the local design community in mind.
-              
-
-                
-                  Writing a paper provides an opportunity for you to showcase your unique design and experiences to an audience of your peers. All User papers and presentations are published in the Proceedings Library, with the top papers receiving special recognition, including cash awards, along with being featured on the and SolvNet® online support websites.
-              
-
-                
-                  is the largest community of design engineers in the world. offers an unequalled opportunity for face-to-face interactions with your industry peers, executives and R&There is no better place to explore common challenges, network with colleagues and make new contacts.
-              
-View All Proceedings
-Silicon Valley Keynotes
-View past keynotes from Silicon Valley
-Contact Us
-Platinum Sponsors:
-Products 
-Software Integrity
-Semiconductor IP
-Verification
-Design
-Silicon Engineering
-Resources
-Solutions
-Services
-Support
-Community
-Manage Subscriptions
-Corporate
-About Us
+About DePuy Synthes
+News and Press
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
 Careers
-Global Citizenship
-Investor Relations
+Our Latest News
+10/16/2018
+DePuy Synthes Announces Agreement with Ortho Development® Corporation to Promote its KASM® Knee Articulating Spacer Mold 
+16, 2018 Warsaw, – Johnson & Johnson Medical Devices Companies* today announced that DePuy Synthes Sales, Inc. has entered into an exclusive agreement with Ortho Development® Corporation to co-promote in the its KASM® Knee Articulating Spacer Mold. This is a sterile, disposable cement spacer mold for patients who develop an infection after primary knee replacement. This new offering builds upon DePuy Synthes’** commitment to innovative knee solutions focused on helping patients along the care continuum.
+09/26/2018
+DePuy Synthes Expands Spine Portfolio with Nerve Assessment Platform  Designed to Identify & Avoid Nerves During Spine Surgery 
+Los Angeles – September 26, 2018 – Johnson & Johnson Medical Devices Companies* announced today that DePuy Synthes** is introducing MMG, a first-of-its-kind digital mechanomyography platform designed to assess nerve status and identify and avoid peripheral nerves during spine surgery. enables motor nerve monitoring for a variety of spine procedures, including non-fusion procedures such as discectomy and both minimally invasive (MIS) and open spinal fusion surgery.  is being broadly introduced at the 2018 North America Spine Society Meeting in Los Angeles, California. 
+09/12/2018
+Johnson & Johnson Medical GmbAcquires Emerging Implant Technologies Gmbto Enhance Global Offering of Interbody Spine Implants
+Norderstedt, Germany – September 12, 2018 – Johnson & Johnson Medical Devices Companies*, through its subsidiary Johnson & Johnson Medical GmbH, announced today the acquisition of Emerging Implant Technologies Gmb(EIT), a privately held manufacturer of 3D-printed titanium interbody implants for spinal fusion surgery, based in Wurmlingen, Germany. The products in this portfolio leverage EIT’s proprietary advanced cellular titanium, which consists of an open and interconnected porous structure designed to allow bone to grow into the implant. As industry leaders across the full range of orthopaedic and spine specialties, Johnson & Johnson Medical Devices Companies will leverage its global commercial infrastructure to bring EIT’s technologies to patients around the world. 
+08/20/2018
+New National Survey Uncovers the Surprising Impact that Knee and Hip Pain Has on Women’s Emotional Well-Being
+WARSAW, Ind. – August 20, 2018 – While many who suffer from knee or hip pain know that it impacts their everyday activities, results from a new survey show the significant emotional impact of joint pain. This includes impact on romantic and social relationships, ability to pursue hobbies and overall mood. The survey of more than 500 women ages 45-65, including those who have had joint replacement surgery and those planning to have joint replacement surgery, revealed: 
+07/26/2018
+DePuy Synthes Launches Expandable Interbody Implant as Part of a New Procedural Solution for Minimally Invasive Spine Surgery (MIS) that Enhances Surgical Efficiency
+Raynham, – July 26, 2018 – Johnson & Johnson Medical Devices Companies* today announced 
+that DePuy Synthes** is launching the Expandable Interbody Device in the 
+The Implant is designed to treat patients suffering from degenerative disc disease as part of the new offering called (Transforaminal Lumbar Interbody Fusion) Procedural Solution. The complete system includes a comprehensive set of solutions to help simplify key stages of this surgery by enhancing surgical efficiency.
+06/20/2018
+New Suture from DePuy Synthes Designed to Help Address Challenges Associated with Rotator Cuff Surgery
+20, 2018 San Diego, – Johnson & Johnson Medical Devices Companies* through the DePuy Synthes** franchise today announces the launch of Suture to repair soft tissue such as the rotator cuff in the shoulder. Part of the DePuy Synthes Mitek Sports Medicine portfolio, Suture is available on Anchors and adds to DePuy Synthes’ innovative solutions designed to help address unmet patient needs in soft tissue repair. Suture was launched today at the San Diego Shoulder Institute’s 35th Annual Course. 
+Search News & Press
+Search
+Company:
+All Companies
+All Divisions
+Codman & Shurtleff, Inc.
+Corporate Information
+DePuy Mitek, Inc.
+DePuy Orthopaedics, Inc.
+DePuy Spine, Inc.
+Healthcare Professionals
+Year:
+All Years
+Go 
+Media Contacts
+All inquiries can be submitted by email to:
+Media Inquiries
+Careers - Johnson & Johnson 
 Contact Us
-Legal
-Privacy
-Trademarks & Brands
-Software Integrity
-Follow
-Follow
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+DePuy Synthes Companies California Compliance
+NOTICE: this information is provided pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765), which requires certain pharmaceutical and medical device companies doing business in California to make available their program for compliance with applicable federal and state laws and industry standards regulating the marketing and promotion of their products
+
+INTRODUCTION
+The Operating Companies of DePuy Synthes, under the legal entity DePuy Orthopaedics, Inc., (the "Company") have established a program designed to materially comply with applicable federal and state laws and industry standards relating to the marketing and promotion of its products. Additionally, the Company recognizes that adherence to these standards can be furthered through a compliance program that is informed by the Compliance Program Guidance for Pharmaceutical Manufacturers, published by the Office of Inspector General of the Department of Health and Human Services (the "Guide"). The Guide advises that effective compliance programs are comprised of seven elements. As described below, these elements form the basis of the Company's program for compliance with the standards regulating the marketing and promotion of its products.
+II.
+ Overview of Compliance Program
+1. Written Policies and Procedures
+The Company has written policies to assure substantial compliance with the applicable laws and regulations and standards governing the marketing and promotion of our products. Among these standards are recognized industry codes of conduct including the Code of Ethics on Interactions with Health Care Professionals (AdvaMed Code), published by the Advanced Medical Technology Association ("AdvaMed"). The Company has established written policies that govern activities involving communicating with customers about the appropriate use of our products including appropriate instruction, education, training, service and technical support required for the safe and effective use of our products. The Company also has policies governing activities involving the advancement of scientific and educational activities supporting medical research and education. These policies include:
+Policies on Educational Grants and Research Grants
+The Company may provide grants for specific educational purposes that benefit patients and customers. These may include, but are not limited to, continuing medical and paraprofessional education programs, fellowships provided to teaching institutions and similar organizations with a demonstrated commitment to scientific and technical education, and programs operated by organizations that provide high-quality, nationally recognized patient education. Funding of educational programs will generally be provided only to organizations and institutions and not to individual practitioners.
+Research grants to support customer-initiated research may be provided for programs involving research in areas of legitimate interest to the company. All requests are subject to scientific review prior to funding approval.
+Policy on Charitable Contributions and Patient Assistance
+The Company will consider charitable contributions and requests for patient assistance in the areas of children's health, health care education, access to health care and community responsibility, consistent with the Company policies.
+Policy on Travel Expense Reimbursement for CME, Promotional or Product Training Meetings
+The Company will, with very limited exceptions that are in accordance with nationally recognized standards, not reimburse for travel and lodging expenses of attendees at promotional and educational programs.
+The Company may reimburse attendees for their reasonable travel and lodging expenses associated with attendance at product training meetings. Product training meetings will be conducted in locations conducive to the exchange of information such as educational or conference settings. Where face-to-face or hands-on customer training is reasonably necessary for the safe and effective use of the Company's medical device products is required, the Company may provide training at company facilities, at independent teaching centers such as medical institutions, or in other appropriate clinical settings.
+Policy on Business Meals
+The Company may occasionally offer a modest meal, consistent with the standards of the AdvaMed Code as part of an educational presentation or a business discussion. Venues that feature entertainment or recreation, and attendance by spouses or guests, are not permitted.
+Policy on the Provision of Educational and Practice-Related Items
+On occasion, the Company representatives may provide items that benefit patients or serve a genuine educational function for Health Care Professionals, consistent with the standards of the AdvaMed Code.
+Total Annual Dollar Limit for Meals and Educational or Practice-related Items 
+Each of the Companies, have established an annual limit of $1,500 for meals and educational items as the aggregate value of the items or activities that may be provided to California health care professionals pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765).
+Policy Prohibiting Entertainment
+It is the policy of the Company not to provide Entertainment (e.g. sporting events, golf outings, concerts, hunting, etc.) to customers.
+2. Assigned Compliance Officer
+The Company has appointed Health Care Compliance Officers. Our Health Care Compliance Officers have been empowered with appropriate authority to exercise independent judgment and has free and unencumbered access to senior management.
+The Company has appointed Health Care Compliance Committees. The committees are comprised of the Company's Health Care Compliance Officers and members of the Company's management team.
+3. Training.
+The Company has an annual Health Care Compliance training process that includes testing and annual certification of appropriate employees. The training covers applicable guidelines governing our compliance program. Employees are also trained on the consequences of failure to comply with the requirements of the company's compliance program.
+4. Communication.
+The Company encourages open and candid discussion between management and employees regarding any compliance concerns. The Company employees are encouraged to report their concerns to their manager, to the Human Resources Department, to the Law Department or to the company's Health Care Compliance Officer.
+5. Auditing and Monitoring. 
+The Company self-assesses and periodically audits its compliance with its policies and procedures.
+6. Enforcement and Disciplinary Guidelines.
+The Company will take disciplinary actions in response to violation of the company's compliance policies or procedures. The Company will conduct a fair and diligent investigation of matters that are brought to the company's attention in order to ensure the consistent application of the company's standards.
+7. Responses To Detected Problems and Actions To Correct Issues.
+The Company requires a prompt and diligent response to potential violations of the company's compliance program, including its standards regulating the marketing and promotion of our products. Actions in response to detected problems may include improving policies, procedures, training, communication and monitoring or may require disciplinary action to prevent future violations.
+For a copy of this California Compliance Program, please call 1-877-889-3636. Provide your name, mailing address and request that a copy of the DePuy Synthes California Compliance program be sent to you.
+LAW
+As part of the Company's ongoing efforts in the area of compliance, we have developed a Comprehensive Compliance Program that is designed to comply with applicable federal and state laws and industry standards relating to the marketing and promotion of our products. To our knowledge as of the date of this declaration, the Company is in compliance with our Comprehensive Compliance Program, as described here, and with California Health & Safety Code sections 119400-119402.
+Dated: May 1, 2018
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+About DePuy Sysnthes Hero Image
+The DePuy Synthes Companies
+Johnson & Johnson Family of Companies
+.
+
+We offer the world’s most comprehensive portfolio of orthopaedic and neuro products and services for joint reconstruction, trauma, spine, sports medicine, neuro, cranio-maxillofacial, power tools and biomaterials.
+DSUS/MOC/0817/0816 11/2017
+DePuy Synthes Joint Reconstruction
+One of the largest orthopaedics companies in the world, with leading solutions for hip, knee and shoulder replacement.
+DePuy Synthes Trauma
+The global leader in orthopaedic trauma devices for internal and external fixation.
+DePuy Synthes Spine
+Offering one of the world’s most diverse portfolios of spinal-care solutions for both traditional and minimally invasive spine surgery.
+DePuy Synthes Mitek Sports Medicine
+leading developer and manufacturer of pain management and minimally invasive solutions, including sports medicine and soft-tissue repair products.
+DePuy Synthes Power Tools
+Delivering a comprehensive range of power instrument systems, reamers and saws to meet a broad spectrum of clinical needs.
+DePuy Synthes Neuro
+Providing a wide range of solutions for the diagnosis and treatment of neurological disorders focusing on neurovascular, neurosurgery and neuromodulation solutions.
+DePuy Synthes CMF
+Offering systems that provide a complete array of implants and instruments for the treatment of facial trauma, tumor resection and reconstruction.
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Start the conversation now.
+DON'PLAY.
+If hip or knee pain is making you live life on pause, it may be time to talk with a doctor about treatment options. Because life is a lot more fun when you Hit Play!
+We are inspired by the opportunity to work together to advance patient care.
+Johnson & Johnson Medical Devices Companies (JJMDC) advance patient care while delivering clinical and economic value to healthcare systems and helps providers address individual needs through a holistic approach.
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Find a Doctor
+© DePuy Synthes 2014-2018. All Rights Reserved.
+This site is published by the DePuy Synthes Companies, which are solely responsible for its content.
+This site is governed solely by applicable laws and governmental regulations.
+This site is for visitors from the United States.
+The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us

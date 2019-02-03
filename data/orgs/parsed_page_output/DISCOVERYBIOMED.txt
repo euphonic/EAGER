@@ -1,48 +1,319 @@
-Erik Schwiebert, Ph.D., and Chief Scientific Officer
-As Founder and Director, Erik focuses on overall leadership of DiscoveryBioMed, As CSO, he serves as the principal science consultant in client work and in managing the company’s research and development. He brings several years of experience as a researcher in cell physiology and pathophysiology. He has focused on receptors and ion channels in human epithelial cells that regulate ion transport and that are pertinent to therapeutics for cystic fibrosis, polycystic kidney disease, and diabetes mellitus. He currently focuses his scientific efforts as an applied discovery scientist, applying his cell physiology and pathophysiology training to programs. He was previously an Associate Professor with tenure at the University of Alabama at Birmingham. Prior to that, Erik was a postdoctoral fellow at the Johns Hopkins University School of Medicine. His education includes a Ph.in Physiology from Dartmouth College and a in Biology from Grinnell College. Erik is originally from Princeton, NJ.
-John Streiff, Ph.D., Chief Chemoinformatics Officer
-As Chief Chemoinformatics Officer, John serves as the company’s specialist in pharmacology, molecular structure modeling, pharmacophore analysis, life science modeling, bioinformatics and cheminformatics. Not only is Dr. Streiff adept at finding ‘commonality in structure’ among DBM’s validated hit compounds but he is also facile at conversion of bioassays into automated and robotic formats. His previous experience includes research on molecular pharmacology of anesthetic drugs at the University of Alabama at Birmingham and at Mayo Clinic where John was an Assistant Professor. Dr. Streiff’s education includes a in Chemistry from the University of Northern Iowa and a Ph.in Chemistry from the University of Idaho. John is originally from Rochester. MN
-Deborah Mai, Ph.D., Chief Biological Officer
-As principal scientist, Deborah engages in both internal R&and on-going service contract programs at  She received her Ph.and postdoctoral training under Dr. Adrie Steyn at the University of Alabama at Birmingham, where she studied Mycobacterium tuberculosis and developed a novel system to identify small molecule inhibitors of protein-protein interactions in mycobacterial cells.  Dr. Mai utilizes her training to develop, optimize, and perform cell-based drug screening platforms at  Her expertise and knowledge in bacterial pathogenesis enables to expand in its R&and drug discovery services to include anti-infective programs.  Deborah received her in Microbiology from Auburn University.  She is originally from Tuscaloosa, AL.
-Matthew Redmann, Ph.D., Head of Business Development and Senior Scientist
-As Head of Business Development and a Senior Scientist, Matthew performs a dual role at performing bench science when needed, but principally serves as the company’s primary point of contact for services clients. Scientifically, he embraces humanized drug discovery principles and brings his tissue culture experience from working with murine primary neuronal cultures to Dr. Redmann received his Ph.from the University of Alabama at Birmingham, where his dissertation work focused on the interplay between mitochondrial dysfunction, protein aggregation, and autophagic failure in a primary neuronal model of Parkinson’s Disease. Matt received his in Cellular Physiology from the University of Wisconsin at Whitewater. He is originally from Appleton, Wisconsin.
-Lawrence Greer, Jr., J.D., LLM, Chief Financial Officer
-As Chief Financial Officer, Lawrence oversees all financial and legal functions for Discovery BioMed. He prepares and maintains DBM’s financial statements and works closely with the to create and execute the financial goals of the company. He serves as the interface with DBM’s outside accountants and legal counsel. Previously, Lawrence served as Managing Partner/Chief Compliance Officer for Greer Capital Advisors in Birmingham where he was involved in the creation, investment, and execution of numerous start-up companies. His education includes a Bachelor of Arts in Managerial Economics from Hampden-Sydney College, and a Juris Doctor and in Business Transactions from the University of Alabama School of Law.
-Dr. John Dixon, Ph.has over 30 years of experience in medicinal chemistry, recently retired from AstraZeneca. He lives and works from England. He is currently principal of Consulting International as a medicinal chemistry consultant. Prior to that, John was of the medicinal chemistry division for AstraZeneca in the Dr. Dixon evaluates lead chemical classes for that emerge from the many on-going disease-driven and intact human cell-based drug discovery efforts.
-Dr. Matthew Gonda, Ph.has over 30 years of experience in biotechnology leadership. He is an independent Board member and key advisor to Dr. Schwiebert. Matt is a serial entrepreneur that has led multiple biotechnology companies and who serves on the boards of several companies and entrepreneurship committees across the and worldwide. Matt may take an expanded role with in the near future.
-Board of Directors
-is privileged to have a supportive Board of Directors.
-Dr. Lawrence ‘Larry’ Greer, DDS, is the senior managing partner at Greer Capital Advisors, a firm located in Birmingham, and charged with managing multiple investment funds including the Birmingham Technology Fund, the Scout Healthcare Fund, and multiple funds of the Alabama CapCo program. Larry was originally trained as a dentist; Larry had his own dental practice for over 10 years before deciding to learn more about the business and financial industries. After garnering an at Emory and after working with Dunn Investments for several years, Larry founded Greer Capital Advisors, specializing in early-stage capital investment in life sciences and biotech.
-Lawrence Greer, is a managing partner at Greer Capital Advisors and specializes in the legal considerations of deals being managed or considered by Greer Cap. Lawrence was a classmate of Dr. Schwiebert in the 2007 Entrepreneurial Accelerator Program sponsored by the Birmingham Venture Club. As of 2017, Lawrence now acts as the Chief Financial Officer for DBM.
-Dr. Matthew ‘Matt’ Gonda, Ph.is the independent Board member for Matt is a ‘been there, done that’ of multiple life science and biotechnology companies, most notably TransMolecular, Inc., where he raised over $30 million for the company while he was at the helm. Matt has been a key advisor to Dr. Schwiebert throughout DBM’s history from its inception to the present.
-Dr. Douglas Hay, Ph.has over 20 years of experience in BioPharma. He hails from Strafford, outside of Philadelphia. Douglas is currently principal of Hay Drug Discovery Consulting, Prior to that, he was a in the Respiratory Discovery Performance Unit at GlaxoSmithKline focusing on and other chronic lung diseases. Dr. Hay consults in scripting its Drug Discovery Critical Path for the numerous on-going diseased human cell-based drug discovery bioassays and programs.
-Dr. Erik Schwiebert, Ph.is the Chair of the Board.
+Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
 Contact Us
-Have a question or want to leave a comment? Fill out the form below or call us at 205-918-8138 , ext 1.
-Name*
-First
-Last
-Email
-Message
-DiscoveryBioMed, (DBM) is a life sciences and biotechnology company, located in Birmingham, AL, formed with the ultimate goal of integrating human cell physiology with the drug discovery critical path. DBM’s founder, Erik Schwiebert, Ph.D., a physiologist by trade, launched the company in October 2007 and closed on seed capital investment with Greer Capital Advisors in November of 2007 (Birmingham Technology Fund). Sthen has continued to grow and gain recognition both locally and nationally.
-DiscoveryBioMed’s mission is to fill a critical niche within the drug discovery industry by specializing in custom human cell engineering and human cell-based drug discovery. Our R&infrastructure and know-how are leveraged as a service to support the commercial and academic drug discovery community by integrating human cell platforms at any and all points within the drug discovery critical path, from assay development and optimization to lead prioritization and progression, with the end product being ‘high value’ clinical candidates.
-Academic labs and small biotechs have been adopters of our human cell platforms early in the drug discovery process, whereas large BioPharmas have been more interested in DBM’s capacity to design, develop and implement primary human cell systems for lead prioritization and progression. As an example of our services, routinely performs targeted and phenotypic assay development and primary HTS, custom primary cell culture and/or immortal cell line creation and secondary/tertiary validation and mechanism of action analysis with primary human cell systems.
-refers to our novel scientific approach and niche within this marketplace as Humanized Drug Discovery.
-If the end goal is to give a drug to a human patient, why not discover new drugs with relevant human cell platforms? The approach to drug discovery is designed to improve the attrition rate and yield high value clinical candidates by introducing disease relevant and physiologically relevant human cell platforms as early as possible in the drug discovery process.
-Discovery BioMed’s scientific expertise has developed over many years of human cell physiology research.
-Our laboratory is equipped with a state-of-the-art cell culture and engineering facility. Coupled to that, we have high-throughput molecular screening (HTS) capability with all types of luminescence, fluorescence, and absorbance detection. These facilities provide the means to perform many different high-throughput bioassays on human and mammalian cell-based platforms.
-Our compound libraries come from diverse synthetic and natural-product sources. The selection of these libraries is guided by our company’s expertise in physiology and biochemistry. has more than 75,000 small molecules as well as phytochemical extracts available to test on each endpoint, target, pathway or system.
-DBM’s philosophy is that the best molecular screening approach to drug discovery is to utilize in vitro cell lines or primary cultures (preferably, human) that are as close to in vivo conditions as possible. Its diseased and wild-type cell lines are engineered to retain phenotypes through many cycles of cell division, leading to reliable results from cell screening assays. refers to this innovative approach as Humanized Drug Discovery.
-In its own discovery work using the same infrastructure as its services business, brings the same expertise, tools, and philosophy to bear on identifying compounds with promise as therapeutics for respiratory, metabolic, and hyperproliferative (renal, urologic, oncologic) human diseases.
-Statement Regarding Financial Conflict of Interest for Research Funded Under Grants
-DiscoveryBioMed, Inc takes seriously each potential Conflict of Interest that could affect the integrity of any Public Health Service (PHS)-funded Research performed by its employees and Subrecipients. As a result and in compliance with federal law and regulations, an Investigator shall not participate in any PHS-funded Research if he or she has a Financial Interest that could influence the design, conduct or reporting of such Research activity. will take immediate action under this policy to manage, reduce or eliminate any such Conflict of Interest. As set forth herein, all PHS-funded Research undertaken at shall be conducted in full compliance with this policy and with all applicable federal and state laws pertaining to financial conflicts of interest, including, without limitation, Title 42 Code of Federal Regulations (CFR) Part 50 Subpart for grants and cooperative agreements and Title 45 Part 94 for Research contracts (collectively, Regulations). Investigators failing to comply with all Regulations shall be subject to sanctions, up to and including termination of employment. All underlined terms shall have the meanings as set forth herein.
-Online Store
-October 23, 2018
-Going through the threshold from 2017 to 2018, endeavored to increase its engagement and by extension its visibility within the larger biotechnology community. Now entering Q4 of 2018, we… Read More »
-August 10, 2018
-Routinely, we read stories in the Birmingham Business Journal, the Magazine, the Economic Development Partnership of Alabama news flashes and news releases and elsewhere about innovation and entrepreneurship. It… Read More »
-Contact
-Testimonial
-"The microbiomarker profile in your primary human cells matched perfectly with human kidney tissue in our hands and we are very pleased."
--Principal Scientist from Regulus Therapeutics, San Diego, CA
-Have a Question?
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+News and Press
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+News and Press
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+Our Latest News
+10/16/2018
+DePuy Synthes Announces Agreement with Ortho Development® Corporation to Promote its KASM® Knee Articulating Spacer Mold 
+16, 2018 Warsaw, – Johnson & Johnson Medical Devices Companies* today announced that DePuy Synthes Sales, has entered into an exclusive agreement with Ortho Development® Corporation to co-promote in the its KASM® Knee Articulating Spacer Mold. This is a sterile, disposable cement spacer mold for patients who develop an infection after primary knee replacement. This new offering builds upon DePuy Synthes’** commitment to innovative knee solutions focused on helping patients along the care continuum.
+09/26/2018
+DePuy Synthes Expands Spine Portfolio with Nerve Assessment Platform  Designed to Identify & Avoid Nerves During Spine Surgery 
+Los Angeles – September 26, 2018 – Johnson & Johnson Medical Devices Companies* announced today that DePuy Synthes** is introducing MMG, a first-of-its-kind digital mechanomyography platform designed to assess nerve status and identify and avoid peripheral nerves during spine surgery. enables motor nerve monitoring for a variety of spine procedures, including non-fusion procedures such as discectomy and both minimally invasive (MIS) and open spinal fusion surgery.  is being broadly introduced at the 2018 North America Spine Society Meeting in Los Angeles, California. 
+09/12/2018
+Johnson & Johnson Medical GmbAcquires Emerging Implant Technologies Gmbto Enhance Global Offering of Interbody Spine Implants
+Norderstedt, Germany – September 12, 2018 – Johnson & Johnson Medical Devices Companies*, through its subsidiary Johnson & Johnson Medical GmbH, announced today the acquisition of Emerging Implant Technologies Gmb(EIT), a privately held manufacturer of 3D-printed titanium interbody implants for spinal fusion surgery, based in Wurmlingen, Germany. The products in this portfolio leverage EIT’s proprietary advanced cellular titanium, which consists of an open and interconnected porous structure designed to allow bone to grow into the implant. As industry leaders across the full range of orthopaedic and spine specialties, Johnson & Johnson Medical Devices Companies will leverage its global commercial infrastructure to bring EIT’s technologies to patients around the world. 
+08/20/2018
+New National Survey Uncovers the Surprising Impact that Knee and Hip Pain Has on Women’s Emotional Well-Being
+WARSAW, Ind. – August 20, 2018 – While many who suffer from knee or hip pain know that it impacts their everyday activities, results from a new survey show the significant emotional impact of joint pain. This includes impact on romantic and social relationships, ability to pursue hobbies and overall mood. The survey of more than 500 women ages 45-65, including those who have had joint replacement surgery and those planning to have joint replacement surgery, revealed: 
+07/26/2018
+DePuy Synthes Launches Expandable Interbody Implant as Part of a New Procedural Solution for Minimally Invasive Spine Surgery (MIS) that Enhances Surgical Efficiency
+Raynham, – July 26, 2018 – Johnson & Johnson Medical Devices Companies* today announced 
+that DePuy Synthes** is launching the Expandable Interbody Device in the 
+The Implant is designed to treat patients suffering from degenerative disc disease as part of the new offering called (Transforaminal Lumbar Interbody Fusion) Procedural Solution. The complete system includes a comprehensive set of solutions to help simplify key stages of this surgery by enhancing surgical efficiency.
+06/20/2018
+New Suture from DePuy Synthes Designed to Help Address Challenges Associated with Rotator Cuff Surgery
+20, 2018 San Diego, – Johnson & Johnson Medical Devices Companies* through the DePuy Synthes** franchise today announces the launch of Suture to repair soft tissue such as the rotator cuff in the shoulder. Part of the DePuy Synthes Mitek Sports Medicine portfolio, Suture is available on Anchors and adds to DePuy Synthes’ innovative solutions designed to help address unmet patient needs in soft tissue repair. Suture was launched today at the San Diego Shoulder Institute’s 35th Annual Course. 
+Search News & Press
+Search
+Company:
+All Companies
+All Divisions
+Codman & Shurtleff, Corporate Information
+DePuy Mitek, DePuy Orthopaedics, DePuy Spine, Healthcare Professionals
+Year:
+All Years
+Go 
+Media Contacts
+All inquiries can be submitted by email to:
+Media Inquiries
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+DePuy Synthes Companies California Compliance
+NOTICE: this information is provided pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765), which requires certain pharmaceutical and medical device companies doing business in California to make available their program for compliance with applicable federal and state laws and industry standards regulating the marketing and promotion of their products
+
+INTRODUCTION
+The Operating Companies of DePuy Synthes, under the legal entity DePuy Orthopaedics, Inc., (the "Company") have established a program designed to materially comply with applicable federal and state laws and industry standards relating to the marketing and promotion of its products. Additionally, the Company recognizes that adherence to these standards can be furthered through a compliance program that is informed by the Compliance Program Guidance for Pharmaceutical Manufacturers, published by the Office of Inspector General of the Department of Health and Human Services (the "Guide"). The Guide advises that effective compliance programs are comprised of seven elements. As described below, these elements form the basis of the Company's program for compliance with the standards regulating the marketing and promotion of its products.
+II.
+ Overview of Compliance Program
+1. Written Policies and Procedures
+The Company has written policies to assure substantial compliance with the applicable laws and regulations and standards governing the marketing and promotion of our products. Among these standards are recognized industry codes of conduct including the Code of Ethics on Interactions with Health Care Professionals (AdvaMed Code), published by the Advanced Medical Technology Association ("AdvaMed"). The Company has established written policies that govern activities involving communicating with customers about the appropriate use of our products including appropriate instruction, education, training, service and technical support required for the safe and effective use of our products. The Company also has policies governing activities involving the advancement of scientific and educational activities supporting medical research and education. These policies include:
+Policies on Educational Grants and Research Grants
+The Company may provide grants for specific educational purposes that benefit patients and customers. These may include, but are not limited to, continuing medical and paraprofessional education programs, fellowships provided to teaching institutions and similar organizations with a demonstrated commitment to scientific and technical education, and programs operated by organizations that provide high-quality, nationally recognized patient education. Funding of educational programs will generally be provided only to organizations and institutions and not to individual practitioners.
+Research grants to support customer-initiated research may be provided for programs involving research in areas of legitimate interest to the company. All requests are subject to scientific review prior to funding approval.
+Policy on Charitable Contributions and Patient Assistance
+The Company will consider charitable contributions and requests for patient assistance in the areas of children's health, health care education, access to health care and community responsibility, consistent with the Company policies.
+Policy on Travel Expense Reimbursement for CME, Promotional or Product Training Meetings
+The Company will, with very limited exceptions that are in accordance with nationally recognized standards, not reimburse for travel and lodging expenses of attendees at promotional and educational programs.
+The Company may reimburse attendees for their reasonable travel and lodging expenses associated with attendance at product training meetings. Product training meetings will be conducted in locations conducive to the exchange of information such as educational or conference settings. Where face-to-face or hands-on customer training is reasonably necessary for the safe and effective use of the Company's medical device products is required, the Company may provide training at company facilities, at independent teaching centers such as medical institutions, or in other appropriate clinical settings.
+Policy on Business Meals
+The Company may occasionally offer a modest meal, consistent with the standards of the AdvaMed Code as part of an educational presentation or a business discussion. Venues that feature entertainment or recreation, and attendance by spouses or guests, are not permitted.
+Policy on the Provision of Educational and Practice-Related Items
+On occasion, the Company representatives may provide items that benefit patients or serve a genuine educational function for Health Care Professionals, consistent with the standards of the AdvaMed Code.
+Total Annual Dollar Limit for Meals and Educational or Practice-related Items 
+Each of the Companies, have established an annual limit of $1,500 for meals and educational items as the aggregate value of the items or activities that may be provided to California health care professionals pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765).
+Policy Prohibiting Entertainment
+It is the policy of the Company not to provide Entertainment (e.g. sporting events, golf outings, concerts, hunting, etc.) to customers.
+2. Assigned Compliance Officer
+The Company has appointed Health Care Compliance Officers. Our Health Care Compliance Officers have been empowered with appropriate authority to exercise independent judgment and has free and unencumbered access to senior management.
+The Company has appointed Health Care Compliance Committees. The committees are comprised of the Company's Health Care Compliance Officers and members of the Company's management team.
+3. Training.
+The Company has an annual Health Care Compliance training process that includes testing and annual certification of appropriate employees. The training covers applicable guidelines governing our compliance program. Employees are also trained on the consequences of failure to comply with the requirements of the company's compliance program.
+4. Communication.
+The Company encourages open and candid discussion between management and employees regarding any compliance concerns. The Company employees are encouraged to report their concerns to their manager, to the Human Resources Department, to the Law Department or to the company's Health Care Compliance Officer.
+5. Auditing and Monitoring. 
+The Company self-assesses and periodically audits its compliance with its policies and procedures.
+6. Enforcement and Disciplinary Guidelines.
+The Company will take disciplinary actions in response to violation of the company's compliance policies or procedures. The Company will conduct a fair and diligent investigation of matters that are brought to the company's attention in order to ensure the consistent application of the company's standards.
+7. Responses To Detected Problems and Actions To Correct Issues.
+The Company requires a prompt and diligent response to potential violations of the company's compliance program, including its standards regulating the marketing and promotion of our products. Actions in response to detected problems may include improving policies, procedures, training, communication and monitoring or may require disciplinary action to prevent future violations.
+For a copy of this California Compliance Program, please call 1-877-889-3636. Provide your name, mailing address and request that a copy of the DePuy Synthes California Compliance program be sent to you.
+LAW
+As part of the Company's ongoing efforts in the area of compliance, we have developed a Comprehensive Compliance Program that is designed to comply with applicable federal and state laws and industry standards relating to the marketing and promotion of our products. To our knowledge as of the date of this declaration, the Company is in compliance with our Comprehensive Compliance Program, as described here, and with California Health & Safety Code sections 119400-119402.
+Dated: May 1, 2018
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+About DePuy Sysnthes Hero Image
+The DePuy Synthes Companies
+Johnson & Johnson Family of Companies
+.
+
+We offer the world’s most comprehensive portfolio of orthopaedic and neuro products and services for joint reconstruction, trauma, spine, sports medicine, neuro, cranio-maxillofacial, power tools and biomaterials.
+DSUS/MOC/0817/0816 11/2017
+DePuy Synthes Joint Reconstruction
+One of the largest orthopaedics companies in the world, with leading solutions for hip, knee and shoulder replacement.
+DePuy Synthes Trauma
+The global leader in orthopaedic trauma devices for internal and external fixation.
+DePuy Synthes Spine
+Offering one of the world’s most diverse portfolios of spinal-care solutions for both traditional and minimally invasive spine surgery.
+DePuy Synthes Mitek Sports Medicine
+leading developer and manufacturer of pain management and minimally invasive solutions, including sports medicine and soft-tissue repair products.
+DePuy Synthes Power Tools
+Delivering a comprehensive range of power instrument systems, reamers and saws to meet a broad spectrum of clinical needs.
+DePuy Synthes Neuro
+Providing a wide range of solutions for the diagnosis and treatment of neurological disorders focusing on neurovascular, neurosurgery and neuromodulation solutions.
+DePuy Synthes CMF
+Offering systems that provide a complete array of implants and instruments for the treatment of facial trauma, tumor resection and reconstruction.
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Start the conversation now.
+DON'PLAY.
+If hip or knee pain is making you live life on pause, it may be time to talk with a doctor about treatment options. Because life is a lot more fun when you Hit Play!
+We are inspired by the opportunity to work together to advance patient care.
+Johnson & Johnson Medical Devices Companies (JJMDC) advance patient care while delivering clinical and economic value to healthcare systems and helps providers address individual needs through a holistic approach.
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Find a Doctor
+© DePuy Synthes 2014-2018. All Rights Reserved.
+This site is published by the DePuy Synthes Companies, which are solely responsible for its content.
+This site is governed solely by applicable laws and governmental regulations.
+This site is for visitors from the United States.
+The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us

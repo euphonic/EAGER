@@ -1,150 +1,323 @@
-The web page information you have requested is for healthcare professionals only. Please select to confirm you are a healthcare professional and proceed.
-OK
-Cancel
-North America
-Europe
-Africa
-North America
-Europe
-Africa
-At Healthineers, our purpose is to enable healthcare providers to increase value by empowering them on their journey towards expanding precision medicine, transforming care delivery, and improving patient experience, all enabled by digitalizing healthcare.
-An estimated five million patients globally everyday benefit from our innovative technologies and services in the areas of diagnostic and therapeutic imaging, laboratory diagnostics and molecular medicine, as well as digital health and enterprise services.
-We are a leading technology company with over 170 years of experience and 18,000 patents globally. With more than 48,000 dedicated colleagues in over 70 countries, we will continue to innovate and shape the future of healthcare.
-Our portfolio
-We are at the center of clinical decision making across the full healthcare spectrum
-Our innovation history
-We have a 120-year track record of industry firsts. View our Global History.
-First industrially manufactured X-ray unit
-Wilhelm Conrad Röntgen discovers X-rays in November 1895. Both our legacy companies & Halske and Reiniger, Gebbert & Schall recognize the potential of this new technology for the field of medicine and start producing the first industrially manufactured X-ray systems. The one pictured above is the Röntgeneinrichtung (X-ray unit) by & Halske from 1896.
-1956
-– first ever dry chemistry testing for glucose in urine
-Our predecessor company Miles launches the first ever test strips called The new method proves to be simpler, more reliable, and faster than previous ways of testing for diabetes: results are available in 10 seconds. Soon the dip-and-read method becomes the preferred way for rapid testing and expands use to other conditions. Today, it is still the standard way to gain an overview when a patient presents with many symptoms.
-With the help of their team, chemist Helen Murray and biochemist Alfred Free develop Their invention heavily impacts the further development of both laboratory diagnostics and point-of-care testing.
-Image courtesy
-1957
-AutoAnalyzer – fully automated discrete chemistry analyzer for whole blood or serum
-The AutoAnalyzer accomplishes in one night what took lab technicians days. It consists of mechanical appliances, dialysis and analysis devices  − and a key innovation: The blood samples flow through the system continuously because they are separated by air bubbles. Deemed the prototype of all large central lab analysis systems, the AutoAnalyzer remains one of the most used automatic lab systems throughout the 1980s.
-When biochemist Leonard Tucker Skeggs watches colleagues analyze blood samples by hand, he wonders: Can this be faster? Skeggs develops the first AutoAnalyzer prototype working at night in his home workshop. He creates one of the largest milestones in lab automatization.
-Image courtesies
-1967
-Vidoson – world’s first real-time ultrasound scanner
-Having passed clinical tests in 1965/66, the world’s first real-time ultrasound imaging system comes to the market in 1967 under the name Vidoson. From this time on, ultrasound makes its way into hospitals and private practices as a diagnostic imaging method.
-German engineer Richard Soldner (shown in the picture) and physicist Heinz Kresse begin developing this ultrasound system in the early 1960s.
-1975
-– our first scanner
-1974, we exhibit our first tomographic image of a human head at the annual meeting of the Radiological Society of North America in Chicago. year later, we introduce SIRETOM, our first computed tomography (CT) scanner for the brain. typical examination takes less than six minutes. The X-ray tube and a detector unit scan the skull from various directions, and an image of absorption distribution in the brain is generated in the computer.
-In 1972, we set up a dedicated development department in Germany. Its founding fathers Friedrich Gudden, Gerhard Linke, Karlheinz Pauli, Benedikt Steinle, and Reiner Lieberuth develop the first scanner and grow the department steadily over the coming years.
-1983
-– first scanner
-After years of R&work, we present MAGNETOM, our first commercial magnetic resonance imaging (MRI) system. That summer, the system is installed for the first time in the and Germany. With the aid of powerful magnetic fields, scanners produce high-quality cross-sectional images without exposing patients to radiation. The sectional images display tissues and organs more clearly than ever before.
-From 1978 on, a team led by Alexander Ganssen (r.) and Arnulf Oppelt develops the scanner. The left picture shows Oppelt in front of the 0.1 Tesla prototype. The unit Tesla measures the magnetic field strength. Today, our MRIs in clinical use have of up to seven Tesla.
-1986
-Stable acridinium ester based chemiluminescence immunoassays
-We invent the first stable acridinium ester based chemiluminescence molecule. Our acridinium ester is non-radioactive, stable, highly-sensitive. It is first used in commercial immunoassays in 1986. The acridinium ester molecule is very versatile, mainly because of its small size. Today, we hold about 40 patents on innovative acridinium ester molecules for advanced diagnostics of heart, liver, and thyroid disease.
-1998
-Our first track-based laboratory automation system ADVIA® Automation connects multiple laboratory analyzers in a single, consolidated, high-volume workstation. The fully automated system allows for multiple testing disciplines like clinical chemistry, immunoassay, hematology, hemostasis, coagulation and urinalysis and requires less sample tubes for analysis.
-In 1997, the development team begins to apply the principle of CentraLink® Data Management System, which consolidates data from multiple analyzers, to sample management on track-based automation. The system is first installed in Regensburg, Germany in late 1998.
-1999
-syngo – first intuitive platform from Developed in 1999, the image processing software syngo facilitates examinations by providing a single user interface for a large number of imaging systems, like X-ray devices or magnetic resonance imaging (MRI) scanners. The software is used in hospitals and practices to generate and post-process images. It integrates patient-specific physiological and imaging data into clinical workflows.
-From 1994 onwards, a dedicated team works on the development of a completely new platform for imaging. Computer scientist Karlheinz Dorn is the chief architect of syngo.
-2001
-In our innovative hybrid system Biograph, we combine positron emission tomography (PET) with computed tomography (CT): scanner visualizes biological processes of life while an integrated system provides millimeter-precise anatomical images of tissues and organs. When they come together they reveal the complete picture: detailed anatomy and biological function at the molecular level.
-Engineer Andres Sommer develops Biograph in collaboration with the team in Knoxville, TN, USA.
-2005
-Definition – world’s first Dual Source scanner
-Two X-ray sources and detectors in one system: With twice the scanning power, we set new standards in image quality, scan speed, and spectral imaging. Dual Source technology enables the validation of coronary angiography with the potential to reduce the need to artificially lower the heart rate. Clinicians can now image the heart without motion artifacts at high heart rates or in cases of arrhythmia.
-The “birth” of our Dual Source technology involves a team of dedicated physicists and engineers: Thomas Flohr, Herbert Bruder, Jürgen Simon, Stefan Schaller, Bernd Ohnesorge, and Bruno Dörrfuß, who is project lead for this system.
-2006
-Dimension Vista® 1500 system – first diagnostic analyzer integrating four technologies in one system
-Our Dimension Vista® 1500 Intelligent Lab System launches as the industry's first ultra-integrated analyzer for high-volume clinical laboratories. Using four advanced detection technologies, the system provides laboratory personnel with the ability to efficiently perform a broad range of high-quality chemistry and immunochemistry tests on one analyzer.
-2008
-Artis zeego – robotic-assisted angiography system
-We design Artis zeego to support surgical and interventional procedures. The flexible robotic stand allows for imaging in all surgical positions and brings faster workflows to the The unique robotic technology enables 3images for larger volumes to visualize large organs or long spines. Since 2008, minimally invasive treatments are on the rise and fixed C-arm systems like Artis zeego become more common in the Hybrid OR.
-Typically, industry robots are separated by a fence to protect the operator. For the Artis zeego however, the robot had to work openly in a clinical environment. To master this challenging task, we closely work with Siemens’ robot-experienced Corporate Technology team.
-2008
-Ysio® – digital radiography, wireless flat panel detector
-Our Ysio® can fully be customized; it’s a digital X-ray system for all clinical demands. highlight is the wireless detector, wi-Detectors convert X-rays to digital image information. At that time, they are usually firmly integrated in the examination table. Ysio’s wi-can be removed and placed directly underneath or next to the patient. Exposures that are difficult or impossible with an integrated detector can now be taken easily.
-2009
-syngo.via – multi-modality 3imaging network
-With syngo.via, our imaging software for reading of clinical cases across different modalities, we place special focus on reading efficiency. When calling up a cardiac case, for example, the software automatically removes the blood pool and ribs, selects an appropriate cardiac phase, and displays the images in the correct layout. The physician can immediately start reading the case.
-To develop syngo.via, we use our in-depth knowledge of disease-specific reading processes and AI-powered post processing algorithms. Our team built a technology that offers the broadest portfolio of clinical applications for routine and advanced reading and reporting.
-2011
-Biograph m– the world’s first integrated, simultaneous whole-body and PET
-Our Biograph mis the first scanner to acquire and data at the same time. Doctors can now see the position of organs, their functioning, and metabolic processes in a single image. This enables more accurate diagnosis and can allow for the early detection of many diseases accompanied by changes in cell metabolism. The hybrid system is especially useful in cancer diagnosis and for examinations of the nervous system and heart.
-Biograph mis developed as part of a community project by our units for molecular imaging in the and magnetic resonance in Germany. To bring this modality to market, we join forces with and research institutions around the world.
-Image courtesy
-2012
-As the world’s first wireless ultrasound system, our Freestyle™ facilitates the use in interventional radiology, anesthesiology, critical care, cath lab, or emergency care. It helps expand ultrasound into new applications, such as improving ultrasound-guided target localization in therapeutic interventions and biopsies.
-To transmit the acquired ultrasound data directly to the screen, our team develops a new radio transmission protocol that’s able to simultaneously transmit data equivalent to ten of the – at that time – latest generation (4G) smart phones.
-2014
-Force – “Free breathing” scanning with dual X-ray sources & detectors
-Force allows access to state-of-the-art computed tomography (CT) to the most sensitive patient groups such as small children or people with renal failure. Its scan speed of up to 74 centimeters per second is so high that it supports free breathing CT.
-With Force, the third generation of our dual source scanners, the 600 people strong development team set new standards in computed tomography. Force is currently being used in a number of leading university hospitals across the globe.
-2014
-teamplay – cloud-based network
-teamplay connects institutions and their imaging devices. The cloud-based solution with its apps monitors quantities such as imaging throughput or dose levels, utilization of staff, rooms and resources of the whole department down to every device and procedure, showing our customers where workflows need adjustments. And it links them to other users and their data to offer comparable benchmarks and exchange of images and reports.
-teamplay started as a prototype at 2014 and has been constantly growing since. Today, clinical institutions in more than 45 countries transform their big data into smart data with teamplay.
-2015
-Mammomat Inspiration edition – wide-angle image acquisition breast tomosynthesis
-Mammography screening means examining healthy women, so low dose and high image quality are key. Our Mammomat Inspiration edition delivers on that. And it comes with a special technology: Its tomosynthesis algorithm reconstructs multiple 2images of the breast into an approximation of a 3image. With that, doctors can better diagnose tumors that are hidden by overlapping breast tissue than with standard 2digital mammography.
-Thomas Mertelmeier (left) and his team develop both the (Progressive Reconstruction, Intelligently Minimizing Exposure) technology and tomosynthesis for our systems over years of research and in close collaboration with clinical partners.
-2015
-Multitom Rax – first Twin Robotic X-ray scanner for enhanced patient care and productivity
-Our Multitom Rax enables the widest range of X-ray examinations with a single scanner in one room: 2radiography, fluoroscopy, angiography, interventions, and 3bone imaging. This is enabled by the two ceiling-mounted robotic arms, which ensure high-quality imaging. They automatically move around the patient, making examinations safer and more convenient; patient repositioning and transfers to other imaging rooms become obsolete.
-2016
-Liquid biopsy
-liquid biopsy is the sampling and analysis of non-solid biological tissue, primarily blood. It is mainly used as a diagnostic and monitoring tool for diseases such as cancer, with the added benefit of being largely non-invasive. With NEOliquid1 we offer a minimally-invasive cancer diagnostics blood test that can help doctors provide a precise diagnosis to guide individualized therapy.
-1 The product (here mentioned) is not available in the for any use.  NEOliquid is CE-Marked for sale in the Availability varies from country to country. Please contact New Oncology Gmbfor further details.
-2017
-The Atellica® Solution addresses common laboratory challenges like growing testing needs and space constraints. Atellica Solution integrates immunoassay and clinical chemistry analyzers and can be combined into more than 300 customizable configurations. With our bidirectional magnetic sample-transport technology, samples are transported ten times faster than conventional conveyors.
-We developed the Atellica Solution through years of intense collaboration – both within our company and with lab professionals around the world. The Atellica Solution is a major part of a comprehensive portfolio of Atellica® diagnostic for the clinical laboratory.
-Do you want to learn more about our history? Check out the Healthineers MedMuseum
-Our locations
-1
-2AdvaMedDX, “Policy Primer on Diagnostics”, June 2011, p. 3.
-Be the first to know about our events, trainings and news
-Would you like to provide detailed feedback?
-Note: to get a direct personal response, please contact us via our email form.
-0 / 125The web page information you have requested is for healthcare professionals only. Please select to confirm you are a healthcare professional and proceed.
-OK
-Cancel
-North America
-Europe
-Africa
-North America
-Europe
-Africa
-Prepare your clinical laboratory workflow for lower Medicare lab reimbursement rates
-1
-Discover how Covenant Health, one of the largest laboratory service providers in the southwestern U.S., improved clinical laboratory workflow in preparation for lower Medicare reimbursement rates.  Reduced costs and enhanced efficiency are just some of the benefits Covenant Health is experiencing as they prepare for the impact of (Protecting Access to Medicare Act) that mandates lower laboratory reimbursement.
-Watch a short, 3-minute video to learn how the organization is mitigating the impact of this new legislation.
-Complete the form to access the video!
-Because of some maintenance activities, this service is not available currently.
-Please try again later.
-An issue occurred on this form. Either, one or more missing and/or incorrect entries are in the form. Each is underlined in red. Or, the data inserted by you seems to be invalid. Please check if you filled in all form fields as expected according to the field names (e.g. ‘First Name’, ‘Last Name’ etc.). Please correct and re-submit your request again. Thank you!
-An issue occurred on this form. The data inserted by you seems to be invalid. Please check if you filled in all form fields as expected according to the field names (e.g. ‘First Name’, ‘Last Name’ etc.). Please correct and re-submit your request again. Thank you!
-First Name
-Last Name
-Not Sure
-Do you feel your facility is prepared for the changes associated with the Protecting Access to Medicare Act (PAMA)?
-would like to be contacted by a Healthineers representative.
-Phone Number
-would like to receive emails from Healthineers on related issues.
-hereby consent to the processing of my above given personal data by the Healthineers company referred to under Corporate Information and for the purpose described above. Further information concerning the processing of your data can be found in the Data Privacy Policy .
-am aware that can partially or completely revoke this consent at any time for the future. Please declare your revocation to the contact address given in the Corporate Information and send it to us via the following e-mail address: dataprivacy.func@siemens-healthineers.com .
-Please enter the letters below
-* Required
-Submit
-Here is the information you requested. To access the video and download, click on the title below.
-Due to technical reasons your request cannot be completed. Please try again or contact us. We apologize for the inconvenience caused.
-Try again
-Be the first to know about our events, trainings and news
-Would you like to provide detailed feedback?
-Note: to get a direct personal response, please contact us via our email form.
-0 / 125
-Dear Visitor,
-We invite you to participate in a short survey about your experience with the website. After your visit, we will ask you some questions about your online experience. We appreciate your feedback! It will take about 5 minutes to complete.
-Would you like to participate?
-✔  Yes
-✕  No
-  Later
+Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+News and Press
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+News and Press
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+Our Latest News
+10/16/2018
+DePuy Synthes Announces Agreement with Ortho Development® Corporation to Promote its KASM® Knee Articulating Spacer Mold 
+16, 2018 Warsaw, – Johnson & Johnson Devices Companies* today announced that DePuy Synthes Sales, Inc. has entered into an exclusive agreement with Ortho Development® Corporation to co-promote in the its KASM® Knee Articulating Spacer Mold. This is a sterile, disposable cement spacer mold for patients who develop an infection after primary knee replacement. This new offering builds upon DePuy Synthes’** commitment to innovative knee focused on helping patients along the care continuum.
+09/26/2018
+DePuy Synthes Expands Spine Portfolio with Nerve Assessment Platform  Designed to Identify & Avoid Nerves During Spine Surgery 
+Los Angeles – September 26, 2018 – Johnson & Johnson Devices Companies* announced today that DePuy Synthes** is introducing MMG, a first-of-its-kind digital mechanomyography platform designed to assess nerve status and identify and avoid peripheral nerves during spine surgery. enables motor nerve monitoring for a variety of spine procedures, including non-fusion procedures such as discectomy and both minimally invasive (MIS) and open spinal fusion surgery.  is being broadly introduced at the 2018 North America Spine Society Meeting in Los Angeles, California. 
+09/12/2018
+Johnson & Johnson GmbAcquires Emerging Implant Technologies Gmbto Enhance Global Offering of Interbody Spine Implants
+Norderstedt, Germany – September 12, 2018 – Johnson & Johnson Devices Companies*, through its subsidiary Johnson & Johnson GmbH, announced today the acquisition of Emerging Implant Technologies Gmb(EIT), a privately held manufacturer of 3D-printed titanium interbody implants for spinal fusion surgery, based in Wurmlingen, Germany. The products in this portfolio leverage EIT’s proprietary advanced cellular titanium, which consists of an open and interconnected porous structure designed to allow bone to grow into the implant. As industry leaders across the full range of orthopaedic and spine specialties, Johnson & Johnson Devices Companies will leverage its global commercial infrastructure to bring EIT’s technologies to patients around the world. 
+08/20/2018
+New National Survey Uncovers the Surprising Impact that Knee and Hip Pain Has on Women’s Emotional Well-Being
+WARSAW, Ind. – August 20, 2018 – While many who suffer from knee or hip pain know that it impacts their everyday activities, results from a new survey show the significant emotional impact of joint pain. This includes impact on romantic and social relationships, ability to pursue hobbies and overall mood. The survey of more than 500 women ages 45-65, including those who have had joint replacement surgery and those planning to have joint replacement surgery, revealed: 
+07/26/2018
+DePuy Synthes Launches Expandable Interbody Implant as Part of a New Procedural Solution for Minimally Invasive Spine Surgery (MIS) that Enhances Surgical Efficiency
+Raynham, – July 26, 2018 – Johnson & Johnson Devices Companies* today announced 
+that DePuy Synthes** is launching the Expandable Interbody Device in the 
+The Implant is designed to treat patients suffering from degenerative disc disease as part of the new offering called (Transforaminal Lumbar Interbody Fusion) Procedural Solution. The complete system includes a comprehensive set of to help simplify key stages of this surgery by enhancing surgical efficiency.
+06/20/2018
+New Suture from DePuy Synthes Designed to Help Address Challenges Associated with Rotator Cuff Surgery
+20, 2018 San Diego, – Johnson & Johnson Devices Companies* through the DePuy Synthes** franchise today announces the launch of Suture to repair soft tissue such as the rotator cuff in the shoulder. Part of the DePuy Synthes Mitek Sports Medicine portfolio, Suture is available on Anchors and adds to DePuy Synthes’ innovative designed to help address unmet patient needs in soft tissue repair. Suture was launched today at the San Diego Shoulder Institute’s 35th Annual Course. 
+Search News & Press
+Search
+Company:
+All Companies
+All Divisions
+Codman & Shurtleff, Inc.
+Corporate Information
+DePuy Mitek, Inc.
+DePuy Orthopaedics, Inc.
+DePuy Spine, Inc.
+Healthcare Professionals
+Year:
+All Years
+Go 
+Media Contacts
+All inquiries can be submitted by email to:
+Media Inquiries
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+DePuy Synthes Companies California Compliance
+NOTICE: this information is provided pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765), which requires certain pharmaceutical and device companies doing business in California to make available their program for compliance with applicable federal and state laws and industry standards regulating the marketing and promotion of their products
+
+INTRODUCTION
+The Operating Companies of DePuy Synthes, under the legal entity DePuy Orthopaedics, Inc., (the "Company") have established a program designed to materially comply with applicable federal and state laws and industry standards relating to the marketing and promotion of its products. Additionally, the Company recognizes that adherence to these standards can be furthered through a compliance program that is informed by the Compliance Program Guidance for Pharmaceutical Manufacturers, published by the Office of Inspector General of the Department of Health and Human Services (the "Guide"). The Guide advises that effective compliance programs are comprised of seven elements. As described below, these elements form the basis of the Company's program for compliance with the standards regulating the marketing and promotion of its products.
+II.
+ Overview of Compliance Program
+1. Written Policies and Procedures
+The Company has written policies to assure substantial compliance with the applicable laws and regulations and standards governing the marketing and promotion of our products. Among these standards are recognized industry codes of conduct including the Code of Ethics on Interactions with Health Care Professionals (AdvaMed Code), published by the Advanced Technology Association ("AdvaMed"). The Company has established written policies that govern activities involving communicating with customers about the appropriate use of our products including appropriate instruction, education, training, service and technical support required for the safe and effective use of our products. The Company also has policies governing activities involving the advancement of scientific and educational activities supporting research and education. These policies include:
+Policies on Educational Grants and Research Grants
+The Company may provide grants for specific educational purposes that benefit patients and customers. These may include, but are not limited to, continuing and paraprofessional education programs, fellowships provided to teaching institutions and similar organizations with a demonstrated commitment to scientific and technical education, and programs operated by organizations that provide high-quality, nationally recognized patient education. Funding of educational programs will generally be provided only to organizations and institutions and not to individual practitioners.
+Research grants to support customer-initiated research may be provided for programs involving research in areas of legitimate interest to the company. All requests are subject to scientific review prior to funding approval.
+Policy on Charitable Contributions and Patient Assistance
+The Company will consider charitable contributions and requests for patient assistance in the areas of children's health, health care education, access to health care and community responsibility, consistent with the Company policies.
+Policy on Travel Expense Reimbursement for CME, Promotional or Product Training Meetings
+The Company will, with very limited exceptions that are in accordance with nationally recognized standards, not reimburse for travel and lodging expenses of attendees at promotional and educational programs.
+The Company may reimburse attendees for their reasonable travel and lodging expenses associated with attendance at product training meetings. Product training meetings will be conducted in locations conducive to the exchange of information such as educational or conference settings. Where face-to-face or hands-on customer training is reasonably necessary for the safe and effective use of the Company's device products is required, the Company may provide training at company facilities, at independent teaching centers such as institutions, or in other appropriate clinical settings.
+Policy on Business Meals
+The Company may occasionally offer a modest meal, consistent with the standards of the AdvaMed Code as part of an educational presentation or a business discussion. Venues that feature entertainment or recreation, and attendance by spouses or guests, are not permitted.
+Policy on the Provision of Educational and Practice-Related Items
+On occasion, the Company representatives may provide items that benefit patients or serve a genuine educational function for Health Care Professionals, consistent with the standards of the AdvaMed Code.
+Total Annual Dollar Limit for Meals and Educational or Practice-related Items 
+Each of the Companies, have established an annual limit of $1,500 for meals and educational items as the aggregate value of the items or activities that may be provided to California health care professionals pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765).
+Policy Prohibiting Entertainment
+It is the policy of the Company not to provide Entertainment (e.g. sporting events, golf outings, concerts, hunting, etc.) to customers.
+2. Assigned Compliance Officer
+The Company has appointed Health Care Compliance Officers. Our Health Care Compliance Officers have been empowered with appropriate authority to exercise independent judgment and has free and unencumbered access to senior management.
+The Company has appointed Health Care Compliance Committees. The committees are comprised of the Company's Health Care Compliance Officers and members of the Company's management team.
+3. Training.
+The Company has an annual Health Care Compliance training process that includes testing and annual certification of appropriate employees. The training covers applicable guidelines governing our compliance program. Employees are also trained on the consequences of failure to comply with the requirements of the company's compliance program.
+4. Communication.
+The Company encourages open and candid discussion between management and employees regarding any compliance concerns. The Company employees are encouraged to report their concerns to their manager, to the Human Resources Department, to the Law Department or to the company's Health Care Compliance Officer.
+5. Auditing and Monitoring. 
+The Company self-assesses and periodically audits its compliance with its policies and procedures.
+6. Enforcement and Disciplinary Guidelines.
+The Company will take disciplinary actions in response to violation of the company's compliance policies or procedures. The Company will conduct a fair and diligent investigation of matters that are brought to the company's attention in order to ensure the consistent application of the company's standards.
+7. Responses To Detected Problems and Actions To Correct Issues.
+The Company requires a prompt and diligent response to potential violations of the company's compliance program, including its standards regulating the marketing and promotion of our products. Actions in response to detected problems may include improving policies, procedures, training, communication and monitoring or may require disciplinary action to prevent future violations.
+For a copy of this California Compliance Program, please call 1-877-889-3636. Provide your name, mailing address and request that a copy of the DePuy Synthes California Compliance program be sent to you.
+LAW
+As part of the Company's ongoing efforts in the area of compliance, we have developed a Comprehensive Compliance Program that is designed to comply with applicable federal and state laws and industry standards relating to the marketing and promotion of our products. To our knowledge as of the date of this declaration, the Company is in compliance with our Comprehensive Compliance Program, as described here, and with California Health & Safety Code sections 119400-119402.
+Dated: May 1, 2018
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+About DePuy Sysnthes Hero Image
+The DePuy Synthes Companies
+Johnson & Johnson Family of Companies
+.
+
+We offer the world’s most comprehensive portfolio of orthopaedic and neuro products and services for joint reconstruction, trauma, spine, sports medicine, neuro, cranio-maxillofacial, power tools and biomaterials.
+DSUS/MOC/0817/0816 11/2017
+DePuy Synthes Joint Reconstruction
+One of the largest orthopaedics companies in the world, with leading for hip, knee and shoulder replacement.
+DePuy Synthes Trauma
+The global leader in orthopaedic trauma devices for internal and external fixation.
+DePuy Synthes Spine
+Offering one of the world’s most diverse portfolios of spinal-care for both traditional and minimally invasive spine surgery.
+DePuy Synthes Mitek Sports Medicine
+leading developer and manufacturer of pain management and minimally invasive solutions, including sports medicine and soft-tissue repair products.
+DePuy Synthes Power Tools
+Delivering a comprehensive range of power instrument systems, reamers and saws to meet a broad spectrum of clinical needs.
+DePuy Synthes Neuro
+Providing a wide range of for the diagnosis and treatment of neurological disorders focusing on neurovascular, neurosurgery and neuromodulation solutions.
+DePuy Synthes CMF
+Offering systems that provide a complete array of implants and instruments for the treatment of facial trauma, tumor resection and reconstruction.
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Start the conversation now.
+DON'PLAY.
+If hip or knee pain is making you live life on pause, it may be time to talk with a doctor about treatment options. Because life is a lot more fun when you Hit Play!
+We are inspired by the opportunity to work together to advance patient care.
+Johnson & Johnson Devices Companies (JJMDC) advance patient care while delivering clinical and economic value to healthcare systems and helps providers address individual needs through a holistic approach.
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Find a Doctor
+© DePuy Synthes 2014-2018. All Rights Reserved.
+This site is published by the DePuy Synthes Companies, which are solely responsible for its content.
+This site is governed solely by applicable laws and governmental regulations.
+This site is for visitors from the United States.
+The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us

@@ -1,2041 +1,323 @@
-JavaScript seems to be disabled in your browser.
-Featuring Audiophile Lending Library
-Log in
-Create an Account
-Log in
-|
-Create an Account
-Search:
-Search
-Shopping Cart: 
-0 items
-Menu
-Home
-What's New? Newsletters!
-About Us
-Lending Library
-FAQs
-Contact
-Brand List
-SHIPPING*
-1-800-328-9973
-Home				
-/
-About Us
-Since 1989 
- has been 
-world´s leading retailer of specialty audio cables
-. But more than that our real specialty is providing high-level expertise on all aspects of high-performance audio. For our customers, we can offer nearly every cable, powerline product, and resonance control product for 
-in-home evaluation
- through our famous 
-Lending Library service
-.
-Business Hours:
-Monday through Friday from 10am to 6pm and Saturday from 11am to 5pm 
-(Sat. showroom hours by appointment only)
-Call:
-800-or (215) 862-4870
-Email:
-Fax:
- 215-862-4871
-Address:
- Company, 125 Union Square, New Hope, 18938
-Cables:
-For our customers we operate Library service offering home trial on over 60 brands of cables. Feedback from Library users drives our cable/component matching database. We can tell you what cables other audiophiles with your components have found to work best. There are many good cables, but only one optimal match for each system. Let us help you draw up your short list of cables for home audition. Learn more about Library in our "FAQ."  (
-International Customers click here
-) 
-Power Line Products:
-Another core specialty area at that are available to try at home through Lending Library. For more information see 
-Power Line Conditioners
- section in our "FAQ."
-Acoustic Treatment and Resonance Control:
- We are masters of these important areas of high-performance audio. Our Acoustic Treatment manufacturers include Acoustic Systems, Tube Traps, Harmonix, Golden Sound, Marigo Labs, RoomTune, Synergistic Research, and Shakti Hallograph.
-Accessories: 
-We have dozens of brands of racks, stands and footers in our Accessories category. resonance characteristics of your components and platforms on which they are sitting will dictate best choices. We can help!
-Used and Demo Component Specials:
-Along with our 
-Ultra Systems
- affiliate company, we offer equipment expertise and many components for in-home evaluation. Used and demo component specials appear in our 
-Used Components
- database. For used cables you can jump to 
-.
-Need to connect with us?
-Simply send form below and we will get in touch with you within 1 business day.
+Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
 Contact Us
-Our Contact Hours are M-10 to 6pm and Saturdays 11 to 5pm EST.
-We would be happy to answer your questions and set up a meeting with you. One of our Audio Experts or office personnel will respond to your inquiry within one business day. If you know person you want to connect with please mention their name in your message.
-Email: 
-Phone: 800 328-9973 or 
-215 862-4870
-Fax: 215 862-4871 
-Address: 125 Union Square, New Hope 18938 USA
-Contact Information
-*
-Name:
-*
-Email:
-Telephone:
-*
-Subject:
-FROM...
-Sales
-Library
-Consultation Request
-Price Request
-Return Authorization Request
-Customer Service
-Accounting Dept
-Shipping Dept
-General Contact
-*
-Brand:
-*
-Product:
-*
-Comment:
-* Required Fields
-We will reply by email within 1 business day.
-Submit
-Categories
-Cables
-Interconnects
-Speaker Cables
-Power Cables
-Tonearm Cables
-Digital Cables
-Digital: SPDIF
-Digital: AES/EBU
-Digital: Firewire
-Digital: Ethernet
-Digital: Optical Toslink or ST
-Cables
-Video Cables
-Video: Composite
-Video: Video
-Video: Component
-Video: DVI
-Video: HDMI
-Video: HDMI-DVI
-Video: RGBHV
-Video: VGA-VGA
-Video: VGA-3 RCA
-Video: VGA-5 BNC
-Subwoofer Cables
-iPod Cables
-Jumper Cables
-Pro Cables
-Cables and Connectors
-Tools and Accessories
-Bulk Speaker Cables
-Bulk Interconnect
-Bulk Digital/Video Bulk Cables
-Bulk Tonearm Bulk Internal Hook Up Wire
-Connectors
-Connectors
-Connectors
-Spade Connectors
-Banana Connectors
-Pin Connectors
-Plugs
-Mini Plug Connectors
-Video Plugs
-Binding Post
-Connectors
-Phono Plugs
-Power Line Products
-Duplex Outlets and Accessories
-Power Conditioners
-Accessories
-Acoustic Treatments
-Fuses
-Lifts
-Adapters
-Accessories
-Cleaners
-Feet
-Misc. Accessories
-Racks and Stands
-Vacuum Tubes & Accessories
-Tubes
-Tube Accessories
-Analog
-Phono Amps
-Turntables
-Tonearms
-Cartridges
-Record Cleaning Machines and Accessories
-Analog Accessories
-Headphone & Accessories
-Headphones
-Full Size Headphones
-In Ear Headphones
-Wireless Headphones
-Headphone Amps
-Headphone Cables
-Headphone Accessories
-Portable Players
-Components
-Receivers
-Amplifiers
-Preamplifier
-Speakers
-Video
-Digital
-Processors and Switches
-Used Cables
-Used Components
-Used A/Line Conditioners
-Used Speakers
-Used PreAmp
-Used Digital
-Used Turntable
-Used Amp
-Used Accessories
-Used Analog
-Used Rack
-Used Headphone and Accessories
-Used Tuner
-Used Footers
-Used Acoustics
-Specials!
-Shop By
-Shopping Options
-Brands
-Brand List
-Abyss                    
-Accuphase                    
-AcousTech Electronics                    
-Acoustic Revive                    
-Acoustic Revive (Used)                    
-Acoustic Sciences Corporation                    
-Acoustic Signature                    
-Acoustic System                    
-Acoustic Zen                    
-Acoustical Systems                    
-Acrolink                    
-Aesthetix                    
-Air Tight                    
-Allnic/Technologies                    
-Alo Audio                    
-Alpha Core Goertz                    
-Alpha Design Labs (Furutech)                    
-                   
-AnalogMagik                    
-Analogue Production                    
-Analysis Plus                    
-Arcam (Used)                    
-Audeze                    
-Audience                    
-Audience (Specials)                    
-Audience (Used)                    
-Audio Desk Systeme                    
-Audio Desk Systeme (Used)                    
-Audio Magic                    
-Audio Replas                    
-Audioengine                    
-Audioquest                    
-Audioquest (Used)                    
-Audiotop                    
-Aural Symphonics                    
-Backert Labs                    
-Sound Enhancement Equipment                    
-Bel Canto                    
-Bellari                    
-Black Cat                    
-Blue Horizon                    
-Bob's Devices                    
-Bybee                    
-Research Lab                    
-Tower                    
-Caig Laboratories                    
-Cardas Audio                    
-Cardas Audio (Used)                    
-Cartridge Man                    
-Cathedral Sound (Used)                    
-Chang Lightspeed                    
-Chisto                    
-Chord                    
-Chord Electronics                    
-ClearAudio Product                    
-ClearAudio Product (Used)                    
-Creek                    
-Crystal                    
-Dana                   
-Labs Silver Sonic                    
-DiMarzio                    
-Audio                    
-DSPeaker                    
-Dynamique Audio                    
-Dynavector                    
-(Euro Audio Team)                    
-Electro-Harmonix                    
-Eleven Audio                    
-Elrod Power Systems                    
-ENIGMAcoustics                    
-Entreq                    
-Epos                    
-Essential Sound Products                    
-Essence of Music                    
-Extreme Phono                    
-Feickert                    
-fo.                   
-Focal                    
-Fosgate                    
-FT-                   
-Furman Sound                    
-Furutech                    
-Genalex                    
-Gingko Audio                    
-Gingko Audio (Used)                    
-Golden Sound                    
-Golden Sound (Used)                    
-Goldring                    
-Grado Labs                    
-Graham Engineering                    
-Gregitek                    
-GutWire                    
-Hana Cartridges                    
-Hanss Acoustics                    
-Harbeth Loudspeakers                    
-Harmonic Technology                    
-Design                    
-Helius Designs                    
-Herbie's Audio Lab                    
-Hi-Fi Racks Limited                    
-HiFi Tuning                    
-HiFiMan                    
-HiFiMan (Used)                    
-High Fidelity Cables                    
-Harmonic Resolution Systems                    
-Ikeda                    
-Improve Audio-Products                    
-IsoAcoustics Inc                    
-Isoclean Power                    
-IsoTek                    
-Jena Labs                    
-Jolida                    
-Jorma Design                    
-Labs                    
-Labs (Specials)                    
-                   
-Kimber Kable                    
-Kirmuss Audio                    
-Kiseki                    
-Koetsu                    
-Kontak                    
-Audio                    
-L' Art du Son                    
-Lamm Industries                    
-Lehmann Audio                    
-LessLoss Audio                    
-Little Fwend                    
-Products                    
-Lyra                    
-Lyric HiFi & Video (Used)                    
-M2Tech                    
-Magnan Audio Cables                    
-Marigo Lab                    
-Master & Dynamics (Used)                    
-Meze Headphones                    
-Millennium                    
-- Music Interface Technologies                    
-- Music Interface Technologies (Specials)                    
-Mobile Fidelity                    
-MorphCords                    
-MrSpeakers                    
-Mullard                    
-Music Hall                    
-Music Hall (Used)                    
-Musical Surroundings                    
-Mytek                    
-Naim Audio                    
-Neotech                    
-Nitty Gritty                    
-NuPrime Audio                    
-NuPrime Audio (Used)                    
-Omega Mikro                    
-Onzow                    
-Ortofon                    
-Oyaide                    
-Periodic Audio                    
-Pneuance Audio                    
-PranaWire                    
-Audio                    
-Pure Vinyl                    
-Purist Audio Design                    
-Quadraspire                    
-Quantum Physics                    
-Questyle Audio Engineering                    
-Rega                    
-Acoustics                    
-Acoustics (Used)                    
-Resonant Woods                    
-Rogers High Fidelity                    
-Rogers High Fidelity (Used)                    
-Rogue Audio                    
-RoomTune/Michael Green Designs                    
-Sennheiser                    
-Sennheiser (Used)                    
-Shakti Innovations                    
-Shelter                    
-Shun Mook                    
-Shunyata Research                    
-Shunyata Research (Used)                    
-Shure                    
-Sieveking Sound                    
-Silent Source                    
-Siltech Cables                    
-Skywire Audio                    
-Snake River Audio                    
-Solid Tech                    
-Solidsteel                    
-Sonoma Acoustics                    
-Sonus Systems                    
-Sony (Used)                    
-Sota Turntables                    
-Sound Anchors                    
-SoundSmith                    
-Sovtek                    
-Spin-Clean                    
-Stealth Audio                    
-SteinMusic                    
-Stillpoints                    
-Straight Wire                    
-Sumiko                    
-Sutherland Engineering                    
-Svetlana                    
-Symposium Acoustics                    
-Symposium Acoustics (Used)                    
-Synergistic Research                    
-Synergistic Research (Ex-Demo)                    
-Synergistic Research (Used)                    
-System Audio                    
-T+Elektroakustik                     
-Tara Labs                    
-Target                    
-Tel Wire                    
-Telos Audio Design                    
-Teo Audio                    
-Tesla/                    
-                   
-TonTräger                    
-Townshend Audio                    
-Tri-Planar                    
-Tung-Sol                    
-UltraBit                    
-Vampire Wire                    
-Van den Hul                    
-Vibrapod                    
-Vicoustic                    
-VooDoo                    
-VooDoo (Special)                    
-Industries (Used)                    
-Walker Audio                    
-Wattgate                    
-                   
-Wells Audio                    
-Wireworld Technology                    
-Wireworld Technology (Specials)                    
-Wolf Audio Systems                    
-WyWires                    
-Xhadow                    
-                   
-                    
-47 Laboratories                    
-All Brands
-decorateDataList('narrow-by-list')
-Newsletter
-Sign Up for Our Newsletter:
-Sign Up
-Most Viewed Newsletters
-All Newsletters
- Partner site
- Partner site
-Free System Consult
-Free Shipping*
- orders over $50
-© 2018
-Privacy Notice
-Condition of Use
-:
- 1-800-328-9973
-LINKS
-Lending Library
-Newsletters
-About Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
 Contact Us
-Faqs
-Sitemap
-1989
-For over 25 years has been known as expert industry specialists in audiophile, home audio / video, mobile (on-the-go) audio and Pro audio markets. Whether you are looking for cutting-edge emerging technology, practical easy-to-use products or have questions about a product, technology or consumer electronics industry in general… let us know, we’d love to talk with you and help in any way we can. All of products that you will find on our site are products that have proven to be best of thousands of consumer electronics products we carry. Quite simply they are peak performers and demonstrate highest quality.
-We are located in Union Square, New Hope, PA, next to New Hope & Ivyland Railroad and not far from Bucks County Playhouse, and Washington's Crossing. short walk across bridge brings you into Lambertville, NJ.
-Newsletter Sign Up
-Send
-var amlabel_selector='.product-image';
-Sign in
-Please enter your email below and we will send you a new password.
-*
-*
-Login
-Forgot Password
-  |  
-Register Now
-*
-Send Password
-Back to Form Login
-Create New Account
-First Name
-*
-Last Name
-*
-Email
-*
-New Password
-*
-Confirm Password
-*
-Submit
-Back to Form Login
-Sign in with
-Facebook Sign in
-Google Sign in
-Amazon Sign in
-Other Login
-Other Social Login
-Facebook Sign in
-Google Sign in
-Amazon Sign in
-Facebook Connect
-You can login using your Facebook account.
-Login
-Need Help?JavaScript seems to be disabled in your browser.
-Featuring Audiophile Lending Library
-Log in
-Create an Account
-Log in
-|
-Create an Account
-Search:
-Search
-Shopping Cart: 
-0 items
-Menu
+ Select your country
 Home
-What's New? Newsletters!
-About Us
-Lending Library
-FAQs
-Contact
-Brand List
-SHIPPING*
-1-800-328-9973
-Home				
-/ 
-Brand
- / 
-Chord Chord 
-Founded in 1985, Chord mission has been to deliver most neutral HiFi cabling, neither adding nor taking away from music. Founder Sally Kennedy started in her home, building very first cables in her kitchen! Quickly exceeding capacity of each new production facility, Chord made its final move to its current Wiltshire location in 2004. Originally concentrated on building interconnects, Chord cables had early success with Cobra and interconnect cables followed by Chord Chameleon analog cables- which are still in line-up today and selling better than ever. 
-Select Chord products are available for audition in your home and on your system through our 
-Cable, Component and Hi-End Headphone Lending Library.
-[show more]
-[show less]
-39 Item(s)
-Show
- per page
-[Grid]
-List
-Filter By Category
-Select From
-Subwoofer Cables (3)
-Digital: Ethernet (4)
-Digital: (7)
-Video: (1)
-Speaker Cables (4)
-Jumper Cables (2)
-Cables (3)
-Interconnects (14)
-Tonearm Cables (2)
-Sort By
-C-Line Interconnect (Pair)
-From
-Chord Select Options
-Clearway Speaker (Pair)
-From
-Chord Select Options
-C-From
-Chord Select Options
-Signature Interconnect (Pair)
-From
-Chord Select Options
-Clearway Interconnect (Pair)
-From
-Chord Select Options
-Signature Tuned Aray Digital
-From
-Chord Select Options
-C-View From
-Chord Select Options
-Indigo Digital
-From
-Chord Select Options
-Sarum Super From
-Chord Select Options
-Sarum Super Streaming Ethernet
-From
-Chord Select Options
-Epic Reference Speaker (Pair)
-From
-Chord Select Options
-Clearway Digital
-From
-Chord Select Options
-Signature Bridging Links Jumpers (Set of 4)
-Chord Add to Cart
-Signature Reference Speaker Cables (Pair)
-From
-Chord Select Options
-Sarum Super Jumper (Set of 4)
-Chord Add to Cart
-C-Stream Ethernet
-From
-Chord Select Options
-Sarum Tuned Aray Interconnect (Pair)
-From
-Chord Select Options
-Indigo Ethernet
-From
-Chord Select Options
-Clearway Analogue Tonearm From
-Chord Select Options
-Indigo Interconnect (Pair)
-From
-Chord Select Options
-Chord Music Interconnect (Pair)
-From
-Chord Select Options
-Clearway Interconnect (Pair)
-From
-Chord Select Options
-Sarum Super Aray Interconnect (Pair)
-From
-Chord Select Options
-Signature  Interconnect (Pair)
-From
-Chord Select Options
-Signature From
-Chord Select Options
-Shawline Digital
-From
-Chord Select Options
-Shawline Interconnect (Pair)
-From
-Chord Select Options
-Epic Streaming Ethernet
-From
-Chord Select Options
-Indigo  Interconnect (Pair)
-From
-Chord Select Options
-Sarum Super Speaker (Pair)
-From
-Chord Select Options
-Sarum Super Digital
-From
-Chord Select Options
-Clearway Subwoofer From
-Chord Select Options
-Shawline Subwoofer From
-Chord Select Options
-Epic Interconnect (Pair)
-From
-Chord Select Options
-Shawline Analogue Tonearm From
-Chord Select Options
-Epic Digital
-From
-Chord Select Options
-Epic Interconnect (Pair)
-From
-Chord Select Options
-Shawline Interconnect (Pair)
-From
-Chord Select Options
-Epic Subwoofer RCA
-From
-Chord Select Options
-39 Item(s)
-Show
- per page
-[Grid]
-List
-Filter By Category
-Select From
-Subwoofer Cables (3)
-Digital: Ethernet (4)
-Digital: (7)
-Video: (1)
-Speaker Cables (4)
-Jumper Cables (2)
-Cables (3)
-Interconnects (14)
-Tonearm Cables (2)
-Sort By
-1
-Categories
-Cables
-Interconnects
-Speaker Cables
-Power Cables
-Tonearm Cables
-Digital Cables
-Digital: SPDIF
-Digital: AES/EBU
-Digital: Firewire
-Digital: Ethernet
-Digital: Optical Toslink or ST
-Cables
-Video Cables
-Video: Composite
-Video: Video
-Video: Component
-Video: DVI
-Video: HDMI
-Video: HDMI-DVI
-Video: RGBHV
-Video: VGA-VGA
-Video: VGA-3 RCA
-Video: VGA-5 BNC
-Subwoofer Cables
-iPod Cables
-Jumper Cables
-Pro Cables
-Cables and Connectors
-Tools and Accessories
-Bulk Speaker Cables
-Bulk Interconnect
-Bulk Digital/Video Bulk Cables
-Bulk Tonearm Bulk Internal Hook Up Wire
-Connectors
-Connectors
-Connectors
-Spade Connectors
-Banana Connectors
-Pin Connectors
-Plugs
-Mini Plug Connectors
-Video Plugs
-Binding Post
-Connectors
-Phono Plugs
-Power Line Products
-Duplex Outlets and Accessories
-Power Conditioners
-Accessories
-Acoustic Treatments
-Fuses
-Lifts
-Adapters
-Accessories
-Cleaners
-Feet
-Misc. Accessories
-Racks and Stands
-Vacuum Tubes & Accessories
-Tubes
-Tube Accessories
-Analog
-Phono Amps
-Turntables
-Tonearms
-Cartridges
-Record Cleaning Machines and Accessories
-Analog Accessories
-Headphone & Accessories
-Headphones
-Full Size Headphones
-In Ear Headphones
-Wireless Headphones
-Headphone Amps
-Headphone Cables
-Headphone Accessories
-Portable Players
-Components
-Receivers
-Amplifiers
-Preamplifier
-Speakers
-Video
-Digital
-Processors and Switches
-Used Cables
-Used Components
-Used A/Line Conditioners
-Used Speakers
-Used PreAmp
-Used Digital
-Used Turntable
-Used Amp
-Used Accessories
-Used Analog
-Used Rack
-Used Headphone and Accessories
-Used Tuner
-Used Footers
-Used Acoustics
-Specials!
-Shop By
-Shopping Options
-Brands
-Brand List
-Abyss                    
-Accuphase                    
-AcousTech Electronics                    
-Acoustic Revive                    
-Acoustic Revive (Used)                    
-Acoustic Sciences Corporation                    
-Acoustic Signature                    
-Acoustic System                    
-Acoustic Zen                    
-Acoustical Systems                    
-Acrolink                    
-Aesthetix                    
-Air Tight                    
-Allnic/Technologies                    
-Alo Audio                    
-Alpha Core Goertz                    
-Alpha Design Labs (Furutech)                    
-                   
-AnalogMagik                    
-Analogue Production                    
-Analysis Plus                    
-Arcam (Used)                    
-Audeze                    
-Audience                    
-Audience (Specials)                    
-Audience (Used)                    
-Audio Desk Systeme                    
-Audio Desk Systeme (Used)                    
-Audio Magic                    
-Audio Replas                    
-Audioengine                    
-Audioquest                    
-Audioquest (Used)                    
-Audiotop                    
-Aural Symphonics                    
-Backert Labs                    
-Sound Enhancement Equipment                    
-Bel Canto                    
-Bellari                    
-Black Cat                    
-Blue Horizon                    
-Bob's Devices                    
-Bybee                    
-Research Lab                    
-Tower                    
-Caig Laboratories                    
-Cardas Audio                    
-Cardas Audio (Used)                    
-Cartridge Man                    
-Cathedral Sound (Used)                    
-Chang Lightspeed                    
-Chisto                    
-Chord                    
-Chord Electronics                    
-ClearAudio Product                    
-ClearAudio Product (Used)                    
-Creek                    
-Crystal                    
-Dana                   
-Labs Silver Sonic                    
-DiMarzio                    
-Audio                    
-DSPeaker                    
-Dynamique Audio                    
-Dynavector                    
-(Euro Audio Team)                    
-Electro-Harmonix                    
-Eleven Audio                    
-Elrod Power Systems                    
-ENIGMAcoustics                    
-Entreq                    
-Epos                    
-Essential Sound Products                    
-Essence of Music                    
-Extreme Phono                    
-Feickert                    
-fo.                   
-Focal                    
-Fosgate                    
-FT-                   
-Furman Sound                    
-Furutech                    
-Genalex                    
-Gingko Audio                    
-Gingko Audio (Used)                    
-Golden Sound                    
-Golden Sound (Used)                    
-Goldring                    
-Grado Labs                    
-Graham Engineering                    
-Gregitek                    
-GutWire                    
-Hana Cartridges                    
-Hanss Acoustics                    
-Harbeth Loudspeakers                    
-Harmonic Technology                    
-Design                    
-Helius Designs                    
-Herbie's Audio Lab                    
-Hi-Fi Racks Limited                    
-HiFi Tuning                    
-HiFiMan                    
-HiFiMan (Used)                    
-High Fidelity Cables                    
-Harmonic Resolution Systems                    
-Ikeda                    
-Improve Audio-Products                    
-IsoAcoustics Inc                    
-Isoclean Power                    
-IsoTek                    
-Jena Labs                    
-Jolida                    
-Jorma Design                    
-Labs                    
-Labs (Specials)                    
-                   
-Kimber Kable                    
-Kirmuss Audio                    
-Kiseki                    
-Koetsu                    
-Kontak                    
-Audio                    
-L' Art du Son                    
-Lamm Industries                    
-Lehmann Audio                    
-LessLoss Audio                    
-Little Fwend                    
-Products                    
-Lyra                    
-Lyric HiFi & Video (Used)                    
-M2Tech                    
-Magnan Audio Cables                    
-Marigo Lab                    
-Master & Dynamics (Used)                    
-Meze Headphones                    
-Millennium                    
-- Music Interface Technologies                    
-- Music Interface Technologies (Specials)                    
-Mobile Fidelity                    
-MorphCords                    
-MrSpeakers                    
-Mullard                    
-Music Hall                    
-Music Hall (Used)                    
-Musical Surroundings                    
-Mytek                    
-Naim Audio                    
-Neotech                    
-Nitty Gritty                    
-NuPrime Audio                    
-NuPrime Audio (Used)                    
-Omega Mikro                    
-Onzow                    
-Ortofon                    
-Oyaide                    
-Periodic Audio                    
-Pneuance Audio                    
-PranaWire                    
-Audio                    
-Pure Vinyl                    
-Purist Audio Design                    
-Quadraspire                    
-Quantum Physics                    
-Questyle Audio Engineering                    
-Rega                    
-Acoustics                    
-Acoustics (Used)                    
-Resonant Woods                    
-Rogers High Fidelity                    
-Rogers High Fidelity (Used)                    
-Rogue Audio                    
-RoomTune/Michael Green Designs                    
-Sennheiser                    
-Sennheiser (Used)                    
-Shakti Innovations                    
-Shelter                    
-Shun Mook                    
-Shunyata Research                    
-Shunyata Research (Used)                    
-Shure                    
-Sieveking Sound                    
-Silent Source                    
-Siltech Cables                    
-Skywire Audio                    
-Snake River Audio                    
-Solid Tech                    
-Solidsteel                    
-Sonoma Acoustics                    
-Sonus Systems                    
-Sony (Used)                    
-Sota Turntables                    
-Sound Anchors                    
-SoundSmith                    
-Sovtek                    
-Spin-Clean                    
-Stealth Audio                    
-SteinMusic                    
-Stillpoints                    
-Straight Wire                    
-Sumiko                    
-Sutherland Engineering                    
-Svetlana                    
-Symposium Acoustics                    
-Symposium Acoustics (Used)                    
-Synergistic Research                    
-Synergistic Research (Ex-Demo)                    
-Synergistic Research (Used)                    
-System Audio                    
-T+Elektroakustik                     
-Tara Labs                    
-Target                    
-Tel Wire                    
-Telos Audio Design                    
-Teo Audio                    
-Tesla/                    
-                   
-TonTräger                    
-Townshend Audio                    
-Tri-Planar                    
-Tung-Sol                    
-UltraBit                    
-Vampire Wire                    
-Van den Hul                    
-Vibrapod                    
-Vicoustic                    
-VooDoo                    
-VooDoo (Special)                    
-Industries (Used)                    
-Walker Audio                    
-Wattgate                    
-                   
-Wells Audio                    
-Wireworld Technology                    
-Wireworld Technology (Specials)                    
-Wolf Audio Systems                    
-WyWires                    
-Xhadow                    
-                   
-                    
-47 Laboratories                    
-All Brands
-decorateDataList('narrow-by-list')
-Newsletter
-Sign Up for Our Newsletter:
-Sign Up
-Most Viewed Newsletters
-All Newsletters
- Partner site
- Partner site
-Free System Consult
-Free Shipping*
- orders over $50
-© 2018
-Privacy Notice
-Condition of Use
-:
- 1-800-328-9973
-LINKS
-Lending Library
-Newsletters
-About Us
+About DePuy Synthes
+News and Press
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+News and Press
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+Our Latest News
+10/16/2018
+DePuy Synthes Announces Agreement with Ortho Development® Corporation to Promote its KASM® Knee Articulating Spacer Mold 
+16, 2018 Warsaw, – Johnson & Johnson Medical Devices Companies* today announced that DePuy Synthes Sales, Inc. has entered into an exclusive agreement with Ortho Development® Corporation to co-promote in its KASM® Knee Articulating Spacer Mold. This is a sterile, disposable cement spacer mold for patients who develop an infection after primary knee replacement. This new offering builds upon DePuy Synthes’** commitment to innovative knee solutions focused on helping patients along care continuum.
+09/26/2018
+DePuy Synthes Expands Spine Portfolio with Nerve Assessment Platform  Designed to Identify & Avoid Nerves During Spine Surgery 
+Los Angeles – September 26, 2018 – Johnson & Johnson Medical Devices Companies* announced today that DePuy Synthes** is introducing MMG, a first-of-its-kind digital mechanomyography platform designed to assess nerve status and identify and avoid peripheral nerves during spine surgery. enables motor nerve monitoring for a variety of spine procedures, including non-fusion procedures such as discectomy and both minimally invasive (MIS) and open spinal fusion surgery.  is being broadly introduced at 2018 North America Spine Society Meeting in Los Angeles, California. 
+09/12/2018
+Johnson & Johnson Medical GmbAcquires Emerging Implant Technologies Gmbto Enhance Global Offering of Interbody Spine Implants
+Norderstedt, Germany – September 12, 2018 – Johnson & Johnson Medical Devices Companies*, through its subsidiary Johnson & Johnson Medical GmbH, announced today acquisition of Emerging Implant Technologies Gmb(EIT), a privately held manufacturer of 3D-printed titanium interbody implants for spinal fusion surgery, based in Wurmlingen, Germany. products in this portfolio leverage EIT’s proprietary advanced cellular titanium, which consists of an open and interconnected porous structure designed to allow bone to grow into implant. As industry leaders across full range of orthopaedic and spine specialties, Johnson & Johnson Medical Devices Companies will leverage its global commercial infrastructure to bring EIT’s technologies to patients around world. 
+08/20/2018
+New National Survey Uncovers Surprising Impact that Knee and Hip Pain Has on Women’s Emotional Well-Being
+WARSAW, Ind. – August 20, 2018 – While many who suffer from knee or hip pain know that it impacts their everyday activities, results from a new survey show significant emotional impact of joint pain. This includes impact on romantic and social relationships, ability to pursue hobbies and overall mood. survey of more than 500 women ages 45-65, including those who have had joint replacement surgery and those planning to have joint replacement surgery, revealed: 
+07/26/2018
+DePuy Synthes Launches Expandable Interbody Implant as Part of a New Procedural Solution for Minimally Invasive Spine Surgery (MIS) that Enhances Surgical Efficiency
+Raynham, – July 26, 2018 – Johnson & Johnson Medical Devices Companies* today announced 
+that DePuy Synthes** is launching Expandable Interbody Device in 
+Implant is designed to treat patients suffering from degenerative disc disease as part of new offering called (Transforaminal Lumbar Interbody Fusion) Procedural Solution. complete system includes a comprehensive set of solutions to help simplify key stages of this surgery by enhancing surgical efficiency.
+06/20/2018
+New Suture from DePuy Synthes Designed to Help Address Challenges Associated with Rotator Cuff Surgery
+20, 2018 San Diego, – Johnson & Johnson Medical Devices Companies* through DePuy Synthes** franchise today announces launch of Suture to repair soft tissue such as rotator cuff in shoulder. Part of DePuy Synthes Mitek Sports Medicine portfolio, Suture is available on Anchors and adds to DePuy Synthes’ innovative solutions designed to help address unmet patient needs in soft tissue repair. Suture was launched today at San Diego Shoulder Institute’s 35th Annual Course. 
+Search News & Press
+Search
+Company:
+All Companies
+All Divisions
+Codman & Shurtleff, Inc.
+Corporate Information
+DePuy Mitek, Inc.
+DePuy Orthopaedics, Inc.
+DePuy Spine, Inc.
+Healthcare Professionals
+Year:
+All Years
+Go 
+Media Contacts
+All inquiries can be submitted by email to:
+Media Inquiries
+Careers - Johnson & Johnson 
 Contact Us
-Faqs
-Sitemap
-1989
-For over 25 years has been known as expert industry specialists in audiophile, home audio / video, mobile (on-the-go) audio and Pro audio markets. Whether you are looking for cutting-edge emerging technology, practical easy-to-use products or have questions about a product, technology or consumer electronics industry in general… let us know, we’d love to talk with you and help in any way we can. All of products that you will find on our site are products that have proven to be best of thousands of consumer electronics products we carry. Quite simply they are peak performers and demonstrate highest quality.
-We are located in Union Square, New Hope, PA, next to New Hope & Ivyland Railroad and not far from Bucks County Playhouse, and Washington's Crossing. short walk across bridge brings you into Lambertville, NJ.
-Newsletter Sign Up
-Send
-var amlabel_selector='.product-image';
-Sign in
-Please enter your email below and we will send you a new password.
-*
-*
-Login
-Forgot Password
-  |  
-Register Now
-*
-Send Password
-Back to Form Login
-Create New Account
-First Name
-*
-Last Name
-*
-Email
-*
-New Password
-*
-Confirm Password
-*
-Submit
-Back to Form Login
-Sign in with
-Facebook Sign in
-Google Sign in
-Amazon Sign in
-Other Login
-Other Social Login
-Facebook Sign in
-Google Sign in
-Amazon Sign in
-Facebook Connect
-You can login using your Facebook account.
-Login
-Need Help?JavaScript seems to be disabled in your browser.
-Featuring Audiophile Lending Library
-Log in
-Create an Account
-Log in
-|
-Create an Account
-Search:
-Search
-Shopping Cart: 
-0 items
-Menu
-Home
-What's New? Newsletters!
-About Us
-Lending Library
-FAQs
-Contact
-Brand List
-SHIPPING*
-1-800-328-9973
-Home				
-/ 
-Brand
- / 
-Vibrapod Vibrapod 
-Vibrapod has long offered affordable and effective, weight specific, isolators to improve performance of audio components. They are particularly useful for use with stacked components, and performance is substantially improved when they are combined with Vibrapod Cones. 
-Select Vibrapod products are available for audition in your home and on your system through our 
-Cable, Component and Hi-End Headphone Lending Library.
-[show more]
-[show less]
-2 Item(s)
-Show
- per page
-[Grid]
-List
-Filter By Category
-Select From
-Feet (2)
-Sort By
-Cones (Single)
-$7.99
-Vibrapod Add to Cart
-Vibrapods (Single)
-From
-$5.99
-Vibrapod Select Options
-2 Item(s)
-Show
- per page
-[Grid]
-List
-Filter By Category
-Select From
-Feet (2)
-Sort By
-1
-Categories
-Cables
-Interconnects
-Speaker Cables
-Power Cables
-Tonearm Cables
-Digital Cables
-Digital: SPDIF
-Digital: AES/EBU
-Digital: Firewire
-Digital: Ethernet
-Digital: Optical Toslink or ST
-Cables
-Video Cables
-Video: Composite
-Video: Video
-Video: Component
-Video: DVI
-Video: HDMI
-Video: HDMI-DVI
-Video: RGBHV
-Video: VGA-VGA
-Video: VGA-3 RCA
-Video: VGA-5 BNC
-Subwoofer Cables
-iPod Cables
-Jumper Cables
-Pro Cables
-Cables and Connectors
-Tools and Accessories
-Bulk Speaker Cables
-Bulk Interconnect
-Bulk Digital/Video Bulk Cables
-Bulk Tonearm Bulk Internal Hook Up Wire
-Connectors
-Connectors
-Connectors
-Spade Connectors
-Banana Connectors
-Pin Connectors
-Plugs
-Mini Plug Connectors
-Video Plugs
-Binding Post
-Connectors
-Phono Plugs
-Power Line Products
-Duplex Outlets and Accessories
-Power Conditioners
-Accessories
-Acoustic Treatments
-Fuses
-Lifts
-Adapters
-Accessories
-Cleaners
-Feet
-Misc. Accessories
-Racks and Stands
-Vacuum Tubes & Accessories
-Tubes
-Tube Accessories
-Analog
-Phono Amps
-Turntables
-Tonearms
-Cartridges
-Record Cleaning Machines and Accessories
-Analog Accessories
-Headphone & Accessories
-Headphones
-Full Size Headphones
-In Ear Headphones
-Wireless Headphones
-Headphone Amps
-Headphone Cables
-Headphone Accessories
-Portable Players
-Components
-Receivers
-Amplifiers
-Preamplifier
-Speakers
-Video
-Digital
-Processors and Switches
-Used Cables
-Used Components
-Used A/Line Conditioners
-Used Speakers
-Used PreAmp
-Used Digital
-Used Turntable
-Used Amp
-Used Accessories
-Used Analog
-Used Rack
-Used Headphone and Accessories
-Used Tuner
-Used Footers
-Used Acoustics
-Specials!
-Shop By
-Shopping Options
-Brands
-Brand List
-Abyss                    
-Accuphase                    
-AcousTech Electronics                    
-Acoustic Revive                    
-Acoustic Revive (Used)                    
-Acoustic Sciences Corporation                    
-Acoustic Signature                    
-Acoustic System                    
-Acoustic Zen                    
-Acoustical Systems                    
-Acrolink                    
-Aesthetix                    
-Air Tight                    
-Allnic/Technologies                    
-Alo Audio                    
-Alpha Core Goertz                    
-Alpha Design Labs (Furutech)                    
-                   
-AnalogMagik                    
-Analogue Production                    
-Analysis Plus                    
-Arcam (Used)                    
-Audeze                    
-Audience                    
-Audience (Specials)                    
-Audience (Used)                    
-Audio Desk Systeme                    
-Audio Desk Systeme (Used)                    
-Audio Magic                    
-Audio Replas                    
-Audioengine                    
-Audioquest                    
-Audioquest (Used)                    
-Audiotop                    
-Aural Symphonics                    
-Backert Labs                    
-Sound Enhancement Equipment                    
-Bel Canto                    
-Bellari                    
-Black Cat                    
-Blue Horizon                    
-Bob's Devices                    
-Bybee                    
-Research Lab                    
-Tower                    
-Caig Laboratories                    
-Cardas Audio                    
-Cardas Audio (Used)                    
-Cartridge Man                    
-Cathedral Sound (Used)                    
-Chang Lightspeed                    
-Chisto                    
-Chord                    
-Chord Electronics                    
-ClearAudio Product                    
-ClearAudio Product (Used)                    
-Creek                    
-Crystal                    
-Dana                   
-Labs Silver Sonic                    
-DiMarzio                    
-Audio                    
-DSPeaker                    
-Dynamique Audio                    
-Dynavector                    
-(Euro Audio Team)                    
-Electro-Harmonix                    
-Eleven Audio                    
-Elrod Power Systems                    
-ENIGMAcoustics                    
-Entreq                    
-Epos                    
-Essential Sound Products                    
-Essence of Music                    
-Extreme Phono                    
-Feickert                    
-fo.                   
-Focal                    
-Fosgate                    
-FT-                   
-Furman Sound                    
-Furutech                    
-Genalex                    
-Gingko Audio                    
-Gingko Audio (Used)                    
-Golden Sound                    
-Golden Sound (Used)                    
-Goldring                    
-Grado Labs                    
-Graham Engineering                    
-Gregitek                    
-GutWire                    
-Hana Cartridges                    
-Hanss Acoustics                    
-Harbeth Loudspeakers                    
-Harmonic Technology                    
-Design                    
-Helius Designs                    
-Herbie's Audio Lab                    
-Hi-Fi Racks Limited                    
-HiFi Tuning                    
-HiFiMan                    
-HiFiMan (Used)                    
-High Fidelity Cables                    
-Harmonic Resolution Systems                    
-Ikeda                    
-Improve Audio-Products                    
-IsoAcoustics Inc                    
-Isoclean Power                    
-IsoTek                    
-Jena Labs                    
-Jolida                    
-Jorma Design                    
-Labs                    
-Labs (Specials)                    
-                   
-Kimber Kable                    
-Kirmuss Audio                    
-Kiseki                    
-Koetsu                    
-Kontak                    
-Audio                    
-L' Art du Son                    
-Lamm Industries                    
-Lehmann Audio                    
-LessLoss Audio                    
-Little Fwend                    
-Products                    
-Lyra                    
-Lyric HiFi & Video (Used)                    
-M2Tech                    
-Magnan Audio Cables                    
-Marigo Lab                    
-Master & Dynamics (Used)                    
-Meze Headphones                    
-Millennium                    
-- Music Interface Technologies                    
-- Music Interface Technologies (Specials)                    
-Mobile Fidelity                    
-MorphCords                    
-MrSpeakers                    
-Mullard                    
-Music Hall                    
-Music Hall (Used)                    
-Musical Surroundings                    
-Mytek                    
-Naim Audio                    
-Neotech                    
-Nitty Gritty                    
-NuPrime Audio                    
-NuPrime Audio (Used)                    
-Omega Mikro                    
-Onzow                    
-Ortofon                    
-Oyaide                    
-Periodic Audio                    
-Pneuance Audio                    
-PranaWire                    
-Audio                    
-Pure Vinyl                    
-Purist Audio Design                    
-Quadraspire                    
-Quantum Physics                    
-Questyle Audio Engineering                    
-Rega                    
-Acoustics                    
-Acoustics (Used)                    
-Resonant Woods                    
-Rogers High Fidelity                    
-Rogers High Fidelity (Used)                    
-Rogue Audio                    
-RoomTune/Michael Green Designs                    
-Sennheiser                    
-Sennheiser (Used)                    
-Shakti Innovations                    
-Shelter                    
-Shun Mook                    
-Shunyata Research                    
-Shunyata Research (Used)                    
-Shure                    
-Sieveking Sound                    
-Silent Source                    
-Siltech Cables                    
-Skywire Audio                    
-Snake River Audio                    
-Solid Tech                    
-Solidsteel                    
-Sonoma Acoustics                    
-Sonus Systems                    
-Sony (Used)                    
-Sota Turntables                    
-Sound Anchors                    
-SoundSmith                    
-Sovtek                    
-Spin-Clean                    
-Stealth Audio                    
-SteinMusic                    
-Stillpoints                    
-Straight Wire                    
-Sumiko                    
-Sutherland Engineering                    
-Svetlana                    
-Symposium Acoustics                    
-Symposium Acoustics (Used)                    
-Synergistic Research                    
-Synergistic Research (Ex-Demo)                    
-Synergistic Research (Used)                    
-System Audio                    
-T+Elektroakustik                     
-Tara Labs                    
-Target                    
-Tel Wire                    
-Telos Audio Design                    
-Teo Audio                    
-Tesla/                    
-                   
-TonTräger                    
-Townshend Audio                    
-Tri-Planar                    
-Tung-Sol                    
-UltraBit                    
-Vampire Wire                    
-Van den Hul                    
-Vibrapod                    
-Vicoustic                    
-VooDoo                    
-VooDoo (Special)                    
-Industries (Used)                    
-Walker Audio                    
-Wattgate                    
-                   
-Wells Audio                    
-Wireworld Technology                    
-Wireworld Technology (Specials)                    
-Wolf Audio Systems                    
-WyWires                    
-Xhadow                    
-                   
-                    
-47 Laboratories                    
-All Brands
-decorateDataList('narrow-by-list')
-Newsletter
-Sign Up for Our Newsletter:
-Sign Up
-Most Viewed Newsletters
-All Newsletters
- Partner site
- Partner site
-Free System Consult
-Free Shipping*
- orders over $50
-© 2018
-Privacy Notice
-Condition of Use
-:
- 1-800-328-9973
-LINKS
-Lending Library
-Newsletters
-About Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from United States. third party trademarks used herein are trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
 Contact Us
-Faqs
-Sitemap
-1989
-For over 25 years has been known as expert industry specialists in audiophile, home audio / video, mobile (on-the-go) audio and Pro audio markets. Whether you are looking for cutting-edge emerging technology, practical easy-to-use products or have questions about a product, technology or consumer electronics industry in general… let us know, we’d love to talk with you and help in any way we can. All of products that you will find on our site are products that have proven to be best of thousands of consumer electronics products we carry. Quite simply they are peak performers and demonstrate highest quality.
-We are located in Union Square, New Hope, PA, next to New Hope & Ivyland Railroad and not far from Bucks County Playhouse, and Washington's Crossing. short walk across bridge brings you into Lambertville, NJ.
-Newsletter Sign Up
-Send
-var amlabel_selector='.product-image';
-Sign in
-Please enter your email below and we will send you a new password.
-*
-*
-Login
-Forgot Password
-  |  
-Register Now
-*
-Send Password
-Back to Form Login
-Create New Account
-First Name
-*
-Last Name
-*
-Email
-*
-New Password
-*
-Confirm Password
-*
-Submit
-Back to Form Login
-Sign in with
-Facebook Sign in
-Google Sign in
-Amazon Sign in
-Other Login
-Other Social Login
-Facebook Sign in
-Google Sign in
-Amazon Sign in
-Facebook Connect
-You can login using your Facebook account.
-Login
-Need Help?JavaScript seems to be disabled in your browser.
-Featuring Audiophile Lending Library
-Log in
-Create an Account
-Log in
-|
-Create an Account
-Search:
-Search
-Shopping Cart: 
-0 items
-Menu
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
 Home
-What's New? Newsletters!
-About Us
-Lending Library
-FAQs
-Contact
-Brand List
-SHIPPING*
-1-800-328-9973
-Home				
-/ 
-Brand
- / 
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+DePuy Synthes Companies California Compliance
+NOTICE: this information is provided pursuant to requirements of Cal. Health & Safety Code § 119402 (1765), which requires certain pharmaceutical and medical device companies doing business in California to make available their program for compliance with applifederal and state laws and industry standards regulating marketing and promotion of their products
 
-Since 1989 has been world´s leading retailer of specialty audio cables. But more than that our real specialty is providing high level expertise on all aspects of high performance audio.
-[show more]
-[show less]
-5 Item(s)
-Show
- per page
-[Grid]
-List
-Filter By Category
-Select From
-Specials! (1)
-Accessories (5)
-Sort By
-Product - Customizable Product for Purposes
-$0.01
-Add to Cart
-Customizable Product for Purposes
-$0.01
-Add to Cart
-Gift Certificate
-From
-Select Options
-Product Three - Customizable Product for Purpose
-Add to Cart
-Freight-Shipping
-$0.01
-Add to Cart
-5 Item(s)
-Show
- per page
-[Grid]
-List
-Filter By Category
-Select From
-Specials! (1)
-Accessories (5)
-Sort By
-1
-Categories
-Cables
-Interconnects
-Speaker Cables
-Power Cables
-Tonearm Cables
-Digital Cables
-Digital: SPDIF
-Digital: AES/EBU
-Digital: Firewire
-Digital: Ethernet
-Digital: Optical Toslink or ST
-Cables
-Video Cables
-Video: Composite
-Video: Video
-Video: Component
-Video: DVI
-Video: HDMI
-Video: HDMI-DVI
-Video: RGBHV
-Video: VGA-VGA
-Video: VGA-3 RCA
-Video: VGA-5 BNC
-Subwoofer Cables
-iPod Cables
-Jumper Cables
-Pro Cables
-Cables and Connectors
-Tools and Accessories
-Bulk Speaker Cables
-Bulk Interconnect
-Bulk Digital/Video Bulk Cables
-Bulk Tonearm Bulk Internal Hook Up Wire
-Connectors
-Connectors
-Connectors
-Spade Connectors
-Banana Connectors
-Pin Connectors
-Plugs
-Mini Plug Connectors
-Video Plugs
-Binding Post
-Connectors
-Phono Plugs
-Power Line Products
-Duplex Outlets and Accessories
-Power Conditioners
-Accessories
-Acoustic Treatments
-Fuses
-Lifts
-Adapters
-Accessories
-Cleaners
-Feet
-Misc. Accessories
-Racks and Stands
-Vacuum Tubes & Accessories
-Tubes
-Tube Accessories
-Analog
-Phono Amps
-Turntables
-Tonearms
-Cartridges
-Record Cleaning Machines and Accessories
-Analog Accessories
-Headphone & Accessories
-Headphones
-Full Size Headphones
-In Ear Headphones
-Wireless Headphones
-Headphone Amps
-Headphone Cables
-Headphone Accessories
-Portable Players
-Components
-Receivers
-Amplifiers
-Preamplifier
-Speakers
-Video
-Digital
-Processors and Switches
-Used Cables
-Used Components
-Used A/Line Conditioners
-Used Speakers
-Used PreAmp
-Used Digital
-Used Turntable
-Used Amp
-Used Accessories
-Used Analog
-Used Rack
-Used Headphone and Accessories
-Used Tuner
-Used Footers
-Used Acoustics
-Specials!
-Shop By
-Shopping Options
-Brands
-Brand List
-Abyss                    
-Accuphase                    
-AcousTech Electronics                    
-Acoustic Revive                    
-Acoustic Revive (Used)                    
-Acoustic Sciences Corporation                    
-Acoustic Signature                    
-Acoustic System                    
-Acoustic Zen                    
-Acoustical Systems                    
-Acrolink                    
-Aesthetix                    
-Air Tight                    
-Allnic/Technologies                    
-Alo Audio                    
-Alpha Core Goertz                    
-Alpha Design Labs (Furutech)                    
-                   
-AnalogMagik                    
-Analogue Production                    
-Analysis Plus                    
-Arcam (Used)                    
-Audeze                    
-Audience                    
-Audience (Specials)                    
-Audience (Used)                    
-Audio Desk Systeme                    
-Audio Desk Systeme (Used)                    
-Audio Magic                    
-Audio Replas                    
-Audioengine                    
-Audioquest                    
-Audioquest (Used)                    
-Audiotop                    
-Aural Symphonics                    
-Backert Labs                    
-Sound Enhancement Equipment                    
-Bel Canto                    
-Bellari                    
-Black Cat                    
-Blue Horizon                    
-Bob's Devices                    
-Bybee                    
-Research Lab                    
-Tower                    
-Caig Laboratories                    
-Cardas Audio                    
-Cardas Audio (Used)                    
-Cartridge Man                    
-Cathedral Sound (Used)                    
-Chang Lightspeed                    
-Chisto                    
-Chord                    
-Chord Electronics                    
-ClearAudio Product                    
-ClearAudio Product (Used)                    
-Creek                    
-Crystal                    
-Dana                   
-Labs Silver Sonic                    
-DiMarzio                    
-Audio                    
-DSPeaker                    
-Dynamique Audio                    
-Dynavector                    
-(Euro Audio Team)                    
-Electro-Harmonix                    
-Eleven Audio                    
-Elrod Power Systems                    
-ENIGMAcoustics                    
-Entreq                    
-Epos                    
-Essential Sound Products                    
-Essence of Music                    
-Extreme Phono                    
-Feickert                    
-fo.                   
-Focal                    
-Fosgate                    
-FT-                   
-Furman Sound                    
-Furutech                    
-Genalex                    
-Gingko Audio                    
-Gingko Audio (Used)                    
-Golden Sound                    
-Golden Sound (Used)                    
-Goldring                    
-Grado Labs                    
-Graham Engineering                    
-Gregitek                    
-GutWire                    
-Hana Cartridges                    
-Hanss Acoustics                    
-Harbeth Loudspeakers                    
-Harmonic Technology                    
-Design                    
-Helius Designs                    
-Herbie's Audio Lab                    
-Hi-Fi Racks Limited                    
-HiFi Tuning                    
-HiFiMan                    
-HiFiMan (Used)                    
-High Fidelity Cables                    
-Harmonic Resolution Systems                    
-Ikeda                    
-Improve Audio-Products                    
-IsoAcoustics Inc                    
-Isoclean Power                    
-IsoTek                    
-Jena Labs                    
-Jolida                    
-Jorma Design                    
-Labs                    
-Labs (Specials)                    
-                   
-Kimber Kable                    
-Kirmuss Audio                    
-Kiseki                    
-Koetsu                    
-Kontak                    
-Audio                    
-L' Art du Son                    
-Lamm Industries                    
-Lehmann Audio                    
-LessLoss Audio                    
-Little Fwend                    
-Products                    
-Lyra                    
-Lyric HiFi & Video (Used)                    
-M2Tech                    
-Magnan Audio Cables                    
-Marigo Lab                    
-Master & Dynamics (Used)                    
-Meze Headphones                    
-Millennium                    
-- Music Interface Technologies                    
-- Music Interface Technologies (Specials)                    
-Mobile Fidelity                    
-MorphCords                    
-MrSpeakers                    
-Mullard                    
-Music Hall                    
-Music Hall (Used)                    
-Musical Surroundings                    
-Mytek                    
-Naim Audio                    
-Neotech                    
-Nitty Gritty                    
-NuPrime Audio                    
-NuPrime Audio (Used)                    
-Omega Mikro                    
-Onzow                    
-Ortofon                    
-Oyaide                    
-Periodic Audio                    
-Pneuance Audio                    
-PranaWire                    
-Audio                    
-Pure Vinyl                    
-Purist Audio Design                    
-Quadraspire                    
-Quantum Physics                    
-Questyle Audio Engineering                    
-Rega                    
-Acoustics                    
-Acoustics (Used)                    
-Resonant Woods                    
-Rogers High Fidelity                    
-Rogers High Fidelity (Used)                    
-Rogue Audio                    
-RoomTune/Michael Green Designs                    
-Sennheiser                    
-Sennheiser (Used)                    
-Shakti Innovations                    
-Shelter                    
-Shun Mook                    
-Shunyata Research                    
-Shunyata Research (Used)                    
-Shure                    
-Sieveking Sound                    
-Silent Source                    
-Siltech Cables                    
-Skywire Audio                    
-Snake River Audio                    
-Solid Tech                    
-Solidsteel                    
-Sonoma Acoustics                    
-Sonus Systems                    
-Sony (Used)                    
-Sota Turntables                    
-Sound Anchors                    
-SoundSmith                    
-Sovtek                    
-Spin-Clean                    
-Stealth Audio                    
-SteinMusic                    
-Stillpoints                    
-Straight Wire                    
-Sumiko                    
-Sutherland Engineering                    
-Svetlana                    
-Symposium Acoustics                    
-Symposium Acoustics (Used)                    
-Synergistic Research                    
-Synergistic Research (Ex-Demo)                    
-Synergistic Research (Used)                    
-System Audio                    
-T+Elektroakustik                     
-Tara Labs                    
-Target                    
-Tel Wire                    
-Telos Audio Design                    
-Teo Audio                    
-Tesla/                    
-                   
-TonTräger                    
-Townshend Audio                    
-Tri-Planar                    
-Tung-Sol                    
-UltraBit                    
-Vampire Wire                    
-Van den Hul                    
-Vibrapod                    
-Vicoustic                    
-VooDoo                    
-VooDoo (Special)                    
-Industries (Used)                    
-Walker Audio                    
-Wattgate                    
-                   
-Wells Audio                    
-Wireworld Technology                    
-Wireworld Technology (Specials)                    
-Wolf Audio Systems                    
-WyWires                    
-Xhadow                    
-                   
-                    
-47 Laboratories                    
-All Brands
-decorateDataList('narrow-by-list')
-Newsletter
-Sign Up for Our Newsletter:
-Sign Up
-Most Viewed Newsletters
-All Newsletters
- Partner site
- Partner site
-Free System Consult
-Free Shipping*
- orders over $50
-© 2018
-Privacy Notice
-Condition of Use
-:
- 1-800-328-9973
-LINKS
-Lending Library
-Newsletters
-About Us
+INTRODUCTION
+Operating Companies of DePuy Synthes, under legal entity DePuy Orthopaedics, Inc., ("Company") have established a program designed to materially comply with applifederal and state laws and industry standards relating to marketing and promotion of its products. Additionally, recognizes that adherence to these standards can be furthered through a compliance program that is informed by Compliance Program Guidance for Pharmaceutical Manufacturers, published by Office of Inspector General of Department of Health and Human Services ("Guide"). Guide advises that effective compliance programs are comprised of seven elements. As described below, these elements form basis of Company's program for compliance with standards regulating marketing and promotion of its products.
+II.
+ Overview of Compliance Program
+1. Written Policies and Procedures
+has written policies to assure substantial compliance with applilaws and regulations and standards governing marketing and promotion of our products. Among these standards are recognized industry codes of conduct including Code of Ethics on Interactions with Health Care Professionals (AdvaMed Code), published by Advanced Medical Technology Association ("AdvaMed"). has established written policies that govern activities involving communicating with customers about appropriate use of our products including appropriate instruction, education, training, service and technical support required for safe and effective use of our products. also has policies governing activities involving advancement of scientific and educational activities supporting medical research and education. These policies include:
+Policies on Educational Grants and Research Grants
+may provide grants for specific educational purposes that benefit patients and customers. These may include, but are not limited to, continuing medical and paraprofessional education programs, fellowships provided to teaching institutions and similar organizations with a demonstrated commitment to scientific and technical education, and programs operated by organizations that provide high-quality, nationally recognized patient education. Funding of educational programs will generally be provided only to organizations and institutions and not to individual practitioners.
+Research grants to support customer-initiated research may be provided for programs involving research in areas of legitimate interest to company. All requests are subject to scientific review prior to funding approval.
+Policy on Charitable Contributions and Patient Assistance
+will consider charitable contributions and requests for patient assistance in areas of children's health, health care education, access to health care and community responsibility, consistent with policies.
+Policy on Travel Expense Reimbursement for CME, Promotional or Product Training Meetings
+will, with very limited exceptions that are in accordance with nationally recognized standards, not reimburse for travel and lodging expenses of attendees at promotional and educational programs.
+may reimburse attendees for their reasonable travel and lodging expenses associated with attendance at product training meetings. Product training meetings will be conducted in locations conducive to exchange of information such as educational or conference settings. Where face-to-face or hands-on customer training is reasonably necessary for safe and effective use of Company's medical device products is required, may provide training at facilities, at independent teaching centers such as medical institutions, or in other appropriate clinical settings.
+Policy on Business Meals
+may occasionally offer a modest meal, consistent with standards of AdvaMed Code as part of an educational presentation or a business discussion. Venues that feature entertainment or recreation, and attendance by spouses or guests, are not permitted.
+Policy on Provision of Educational and Practice-Related Items
+On occasion, representatives may provide items that benefit patients or serve a genuine educational function for Health Care Professionals, consistent with standards of AdvaMed Code.
+Total Annual Dollar Limit for Meals and Educational or Practice-related Items 
+Each of Companies, have established an annual limit of $1,500 for meals and educational items as aggregate value of items or activities that may be provided to California health care professionals pursuant to requirements of Cal. Health & Safety Code § 119402 (1765).
+Policy Prohibiting Entertainment
+It is policy of not to provide Entertainment (e.g. sporting events, golf outings, concerts, hunting, etc.) to customers.
+2. Assigned Compliance Officer
+has appointed Health Care Compliance Officers. Our Health Care Compliance Officers have been empowered with appropriate authority to exercise independent judgment and has free and unencumbered access to senior management.
+has appointed Health Care Compliance Committees. committees are comprised of Company's Health Care Compliance Officers and members of Company's management team.
+3. Training.
+has an annual Health Care Compliance training process that includes testing and annual certification of appropriate employees. training covers appliguidelines governing our compliance program. Employees are also trained on consequences of failure to comply with requirements of company's compliance program.
+4. Communication.
+encourages open and candid discussion between management and employees regarding any compliance concerns. employees are encouraged to report their concerns to their manager, to Human Resources Department, to Law Department or to company's Health Care Compliance Officer.
+5. Auditing and Monitoring. 
+self-assesses and periodically audits its compliance with its policies and procedures.
+6. Enforcement and Disciplinary Guidelines.
+will take disciplinary actions in response to violation of company's compliance policies or procedures. will conduct a fair and diligent investigation of matters that are brought to company's attention in order to ensure consistent application of company's standards.
+7. Responses To Detected Problems and Actions To Correct Issues.
+requires a prompt and diligent response to potential violations of company's compliance program, including its standards regulating marketing and promotion of our products. Actions in response to detected problems may include improving policies, procedures, training, communication and monitoring or may require disciplinary action to prevent future violations.
+For a copy of this California Compliance Program, please call 1-877-889-3636. Provide your name, mailing address and request that a copy of DePuy Synthes California Compliance program be sent to you.
+LAW
+As part of Company's ongoing efforts in area of compliance, we have developed a Comprehensive Compliance Program that is designed to comply with applifederal and state laws and industry standards relating to marketing and promotion of our products. To our knowledge as of date of this declaration, is in compliance with our Comprehensive Compliance Program, as described here, and with California Health & Safety Code sections 119400-119402.
+Dated: May 1, 2018
+Careers - Johnson & Johnson 
 Contact Us
-Faqs
-Sitemap
-1989
-For over 25 years has been known as expert industry specialists in audiophile, home audio / video, mobile (on-the-go) audio and Pro audio markets. Whether you are looking for cutting-edge emerging technology, practical easy-to-use products or have questions about a product, technology or consumer electronics industry in general… let us know, we’d love to talk with you and help in any way we can. All of products that you will find on our site are products that have proven to be best of thousands of consumer electronics products we carry. Quite simply they are peak performers and demonstrate highest quality.
-We are located in Union Square, New Hope, PA, next to New Hope & Ivyland Railroad and not far from Bucks County Playhouse, and Washington's Crossing. short walk across bridge brings you into Lambertville, NJ.
-Newsletter Sign Up
-Send
-var amlabel_selector='.product-image';
-Sign in
-Please enter your email below and we will send you a new password.
-*
-*
-Login
-Forgot Password
-  |  
-Register Now
-*
-Send Password
-Back to Form Login
-Create New Account
-First Name
-*
-Last Name
-*
-Email
-*
-New Password
-*
-Confirm Password
-*
-Submit
-Back to Form Login
-Sign in with
-Facebook Sign in
-Google Sign in
-Amazon Sign in
-Other Login
-Other Social Login
-Facebook Sign in
-Google Sign in
-Amazon Sign in
-Facebook Connect
-You can login using your Facebook account.
-Login
-Need Help?
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from United States. third party trademarks used herein are trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+About DePuy Sysnthes Hero Image
+DePuy Synthes Companies
+Johnson & Johnson Family of Companies
+.
+
+We offer world’s most comprehensive portfolio of orthopaedic and neuro products and services for joint reconstruction, trauma, spine, sports medicine, neuro, cranio-maxillofacial, power tools and biomaterials.
+DSUS/MOC/0817/0816 11/2017
+DePuy Synthes Joint Reconstruction
+One of largest orthopaedics companies in world, with leading solutions for hip, knee and shoulder replacement.
+DePuy Synthes Trauma
+global leader in orthopaedic trauma devices for internal and external fixation.
+DePuy Synthes Spine
+Offering one of world’s most diverse portfolios of spinal-care solutions for both traditional and minimally invasive spine surgery.
+DePuy Synthes Mitek Sports Medicine
+leading developer and manufacturer of pain management and minimally invasive solutions, including sports medicine and soft-tissue repair products.
+DePuy Synthes Power Tools
+Delivering a comprehensive range of power instrument systems, reamers and saws to meet a broad spectrum of clinical needs.
+DePuy Synthes Neuro
+Providing a wide range of solutions for diagnosis and treatment of neurological disorders focusing on neurovascular, neurosurgery and neuromodulation solutions.
+DePuy Synthes CMF
+Offering systems that provide a complete array of implants and instruments for treatment of facial trauma, tumor resection and reconstruction.
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from United States. third party trademarks used herein are trademarks of their respective owners.
+Follow Us
+Back To Top
+×Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to website's privacy policy .
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to website's privacy policy .
+Start conversation now.
+DON'PLAY.
+If hip or knee pain is making you live life on pause, it may be time to talk with a doctor about treatment options. Because life is a lot more fun when you Hit Play!
+We are inspired by opportunity to work together to advance patient care.
+Johnson & Johnson Medical Devices Companies (JJMDC) advance patient care while delivering clinical and economic value to healthcare systems and helps providers address individual needs through a holistic approach.
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to website's privacy policy .
+Find a Doctor
+© DePuy Synthes 2014-2018. All Rights Reserved.
+This site is published by DePuy Synthes Companies, which are solely responsible for its content.
+This site is governed solely by applilaws and governmental regulations.
+This site is for visitors from United States.
+third party trademarks used herein are trademarks of their respective owners.
+Follow Us

@@ -7,7 +7,7 @@ library("diffusr")
 setwd("/Users/sarora/dev/EAGER/data/")
 # windows
 # setwd("C:\\Users\\sarora\\Documents\\GitHub\\EAGER\\data")
-sector <- "green"
+sector <- "synbio"
 
 # copy the label vector from jupyter notebook
 labels <- 

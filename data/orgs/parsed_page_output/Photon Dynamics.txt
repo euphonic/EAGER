@@ -1,977 +1,323 @@
-Utility nav
-Languages                
-English
-日本語
-简体中文
-繁體中文
-한국어
-Menu
-Company
-About
-Our brand story
-Milestones
-Affiliations
-Management
-Corporate Executives
-Business Subsidiary Executives
-Associated Companies
-Orbotech Subsidiaries
-Joint Ventures
-PCB
-& TECHNOLOGIES
-Direct Imaging
-Substrates
-Advanced Flex & Systems
-HDI, Flex, Advanced MLB
-MLB
-QTA
-Solder Mask
-for Touch
-Automated Optical Inspection
-Substrates (Down to 5 micron)
-Inspection (Down to 25 micron)
-Metrology Integrated AOI
-for Touch Sensors
-Automated Optical Shaping
-Inkjet / Additive Printing
-Laser Drilling
-Laser Plotting
-Industry 4.0 / Orbotech Smart Factory
-Computer Aided Manufacturing & Engineering
-
-Engineering
-Featured Solution
-Orbotech Ultra Dimension™
-SUPPORT
-FPD
-& TECHNOLOGIES
-Automated Optical Inspection (AOI)
-Value added applications
-Electrical Testing
-Repair
-Process information & classification
-Featured Solution
-Cutting Edge Solutions
-SUPPORT
-SPTS
-& TECHNOLOGIES
-Plasma Etch
-Plasma Dicing
-Vapor Release Etch
-XeF2 Vapor Release Etch
-Metal Deposition
-Molecular Vapor Deposition  (MVD®)
-PECVD
-Thermal Products
-Vertical Batch Furnaces
-APCVD
-Additive Printing Solutions
-Single Wafer Platforms
-Applications
-Advanced Packaging
-Micro Electro Mechanical Systems (MEMS) 
-Power Devices
-Radio Frequency (RF) Devices
-Manufacturing
-Silicon Semi
-About SPTS
-About SPTS
-Corporate Responsibility
-Awards
-Careers
-Contacts
-Resource Library
-Tech Insights
-MEMS
-1000th module installed
-Aland its Uses in the Electronics Industry (Part I)
-Claritas End-point for DRIE
-Cost-Effective Low Stress Sifor MEMS
-Etch and Deposition Processes for BioManufacturing
-Introduction to Vapor Etch
-Low Temperature for MEMS
-for Mobile Applications
-Microphones
-Morflex – Flexible Process Control for & TSV
-Anti-stiction Coating for MEMS
-Plasma Dicing (Dice Before Grind)
-Plasma Dicing (Dice After Grind)
-Plasma Etch End-Point Control
-Plasma Processes for VCSELs
-Surface Smoothing Processes for High Performance AlPiezoelectrics
-Wafer Level Packaging of MEMS
-Xenon Difluoride  - Dry Vapor Etch for Releasing MEMS
-Advanced Packaging
-Fan-out Wafer Level Packaging
-Blanket Silicon Etching
-High Productivity for UBM/RDL
-Inkjet Printing for Package Marking
-Inkjet Printing for Underfill Dam
-Via Reveal Passivation
-Via Reveal Processing
-Morflex - Flexible Process Control for and Etch
-Power Device Manufacturing
-SiEtch for Power & Devices
-300mm for Power Devices
-RF-IC
-Technology Papers
-Presentations
-R&Projects
-Case Studies
-Literature Library
-News & Events
-& EVENTS
-Press Releases
-Media Coverage
-Videos
-Events
-Webinars
-Gallery
-Articles
-RELATIONS
-For our latest financial releases, filings and reports, visit our 
-Investors section
-COVERAGE
-VIDEOS
-Careers
-CAREERS
-Who we are
-Why Join Us
-Job Search
-Our People
-Career growth
-Benefits and care
-Our Community
-SEARCH
-Israel
-North America
-Asia Pacific
-Europe
-US
-ORBOTECH
-Contact
-About
+Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
 Home
-Company
-About
-About Orbotech
-Virtually every electronic device in the world is produced using orbotech systems
-Orbotech is a leading provider of process innovation technologies, solutions and equipment serving the global electronics manufacturing industry.
-Orbotech has over 30 years of proven experience in product development and project delivery, providing highly-accurate, performance-driven yield enhancement and production solutions for manufacturers of printed circuit boards, flat panel displays, advanced packaging, micro-electro-mechanical systems and other electronic components.
-As the demand of leading designers for devices to be smaller, thinner, wearable and flexible continues to grow, the electronics industry needs to translate this evolving language into the production of smarter devices by supporting miniaturized electronics packages, new form factors and different substrates.
-As masters of The Language of Electronics, Orbotech builds bridges between designer demands and their realization on the electronics manufacturing floor. Our cutting-edge innovations include technologies and automated systems for electronics reading (inspection, verification and testing), electronics writing (inkjet, direct Imaging and repair) and electronics connecting (laser drilling, metal deposition and etch).
-field-proven, enabling partner, Orbotech is poised to drive the supply chain confidently into the future.
-Mission
-Make smart, digital production a reality through continuous technology innovation for a better tomorrow.
-Vision
-Be the global leader in advanced micro manufacturing solutions for electronics and adjacent markets that ensure greater production efficiencies for sustainable profitability.
-Company
-Contact
-Quick Links
-Social Media
-Copyright © 2018 Orbotech. 
-- The Language of Electronics
-Information on this site contains forward looking information — for more information 
-click here
-Company
-About
-Our brand story
-Milestones
-Affiliations
-Management
-Corporate Executives
-Business Subsidiary Executives
-Associated Companies
-Orbotech Subsidiaries
-Joint Ventures
-PCB
-& TECHNOLOGIES
-Direct Imaging
-Substrates
-Advanced Flex & Systems
-HDI, Flex, Advanced MLB
-MLB
-QTA
-Solder Mask
-for Touch
-Automated Optical Inspection
-Substrates (Down to 5 micron)
-Inspection (Down to 25 micron)
-Metrology Integrated AOI
-for Touch Sensors
-Automated Optical Shaping
-Inkjet / Additive Printing
-Laser Drilling
-Laser Plotting
-Industry 4.0 / Orbotech Smart Factory
-Computer Aided Manufacturing & Engineering
-
-Engineering
-FPD
-& TECHNOLOGIES
-Automated Optical Inspection (AOI)
-Value added applications
-Electrical Testing
-Repair
-Process information & classification
-SPTS
-& TECHNOLOGIES
-Plasma Etch
-Plasma Dicing
-Vapor Release Etch
-XeF2 Vapor Release Etch
-Metal Deposition
-Molecular Vapor Deposition  (MVD®)
-PECVD
-Thermal Products
-Vertical Batch Furnaces
-APCVD
-Additive Printing Solutions
-Single Wafer Platforms
-Applications
-Advanced Packaging
-Micro Electro Mechanical Systems (MEMS) 
-Power Devices
-Radio Frequency (RF) Devices
-Manufacturing
-Silicon Semi
-About SPTS
-About SPTS
-Corporate Responsibility
-Awards
-Careers
-Contacts
-Resource Library
-Tech Insights
-MEMS
-1000th module installed
-Aland its Uses in the Electronics Industry (Part I)
-Claritas End-point for DRIE
-Cost-Effective Low Stress Sifor MEMS
-Etch and Deposition Processes for BioManufacturing
-Introduction to Vapor Etch
-Low Temperature for MEMS
-for Mobile Applications
-Microphones
-Morflex – Flexible Process Control for & TSV
-Anti-stiction Coating for MEMS
-Plasma Dicing (Dice Before Grind)
-Plasma Dicing (Dice After Grind)
-Plasma Etch End-Point Control
-Plasma Processes for VCSELs
-Surface Smoothing Processes for High Performance AlPiezoelectrics
-Wafer Level Packaging of MEMS
-Xenon Difluoride  - Dry Vapor Etch for Releasing MEMS
-Advanced Packaging
-Fan-out Wafer Level Packaging
-Blanket Silicon Etching
-High Productivity for UBM/RDL
-Inkjet Printing for Package Marking
-Inkjet Printing for Underfill Dam
-Via Reveal Passivation
-Via Reveal Processing
-Morflex - Flexible Process Control for and Etch
-Power Device Manufacturing
-SiEtch for Power & Devices
-300mm for Power Devices
-RF-IC
-Technology Papers
-Presentations
-R&Projects
-Case Studies
-Literature Library
-News & Events
-Press Releases
-Media Coverage
-Videos
-Events
-Webinars
-Gallery
-Articles
-Careers
-Who we are
-Why Join Us
-Job Search
-Our People
-Career growth
-Benefits and care
-Our Community
-ContactUtility nav
-Languages                
-English
-日本語
-简体中文
-繁體中文
-한국어
-Menu
-Company
-About
-Our brand story
-Milestones
-Affiliations
-Management
-Corporate Executives
-Business Subsidiary Executives
-Associated Companies
-Orbotech Subsidiaries
-Joint Ventures
-PCB
-& TECHNOLOGIES
-Direct Imaging
-Substrates
-Advanced Flex & Systems
-HDI, Flex, Advanced MLB
-MLB
-QTA
-Solder Mask
-for Touch
-Automated Optical Inspection
-Substrates (Down to 5 micron)
-Inspection (Down to 25 micron)
-Metrology Integrated AOI
-for Touch Sensors
-Automated Optical Shaping
-Inkjet / Additive Printing
-Laser Drilling
-Laser Plotting
-Industry 4.0 / Orbotech Smart Factory
-Computer Aided Manufacturing & Engineering
-
-Engineering
-Featured Solution
-Orbotech Ultra Dimension™
-SUPPORT
-FPD
-& TECHNOLOGIES
-Automated Optical Inspection (AOI)
-Value added applications
-Electrical Testing
-Repair
-Process information & classification
-Featured Solution
-Cutting Edge Solutions
-SUPPORT
-SPTS
-& TECHNOLOGIES
-Plasma Etch
-Plasma Dicing
-Vapor Release Etch
-XeF2 Vapor Release Etch
-Metal Deposition
-Molecular Vapor Deposition  (MVD®)
-PECVD
-Thermal Products
-Vertical Batch Furnaces
-APCVD
-Additive Printing Solutions
-Single Wafer Platforms
-Applications
-Advanced Packaging
-Micro Electro Mechanical Systems (MEMS) 
-Power Devices
-Radio Frequency (RF) Devices
-Manufacturing
-Silicon Semi
-About SPTS
-About SPTS
-Corporate Responsibility
-Awards
-Careers
-Contacts
-Resource Library
-Tech Insights
-MEMS
-1000th module installed
-Aland its Uses in the Electronics Industry (Part I)
-Claritas End-point for DRIE
-Cost-Effective Low Stress Sifor MEMS
-Etch and Deposition Processes for BioManufacturing
-Introduction to Vapor Etch
-Low Temperature for MEMS
-for Mobile Applications
-Microphones
-Morflex – Flexible Process Control for & TSV
-Anti-stiction Coating for MEMS
-Plasma Dicing (Dice Before Grind)
-Plasma Dicing (Dice After Grind)
-Plasma Etch End-Point Control
-Plasma Processes for VCSELs
-Surface Smoothing Processes for High Performance AlPiezoelectrics
-Wafer Level Packaging of MEMS
-Xenon Difluoride  - Dry Vapor Etch for Releasing MEMS
-Advanced Packaging
-Fan-out Wafer Level Packaging
-Blanket Silicon Etching
-High Productivity for UBM/RDL
-Inkjet Printing for Package Marking
-Inkjet Printing for Underfill Dam
-Via Reveal Passivation
-Via Reveal Processing
-Morflex - Flexible Process Control for and Etch
-Power Device Manufacturing
-SiEtch for Power & Devices
-300mm for Power Devices
-RF-IC
-Technology Papers
-Presentations
-R&Projects
-Case Studies
-Literature Library
-News & Events
-& EVENTS
-Press Releases
-Media Coverage
-Videos
-Events
-Webinars
-Gallery
-Articles
-RELATIONS
-For our latest financial releases, filings and reports, visit our 
-Investors section
-COVERAGE
-VIDEOS
-Careers
-CAREERS
-Who we are
-Why Join Us
-Job Search
-Our People
-Career growth
-Benefits and care
-Our Community
-SEARCH
-Israel
-North America
-Asia Pacific
-Europe
-US
-ORBOTECH
-Contact
-Milestones
+About DePuy Synthes
+News and Press
+Toggle navigation
+DePuy Synthes
 Home
-Company
-About
-Milestones
-Milestones
-1981 - Company incorporated.
-1982 - Introduction of systems for bare PCBs.
-1984 - Initial public offering on Nasdaq.
-1986 - Introduction of systems for bare production.
-1989 - Introduction of laser plotting systems for bare production.
-1991 - Initial development of systems for FPDs. division established.
-1992 - Merger with Orbot Systems Ltd. Company name changed to Orbotech Ltd.
-1995 - Incorporation of Orbograph Ltd. and initial development of automatic check reading solutions.
-1996 - Joint venture established with Jenoptik, named Laser Imaging Systems GmbH, for the development of laser-based direct imaging technologies.
-1998 - Joint venture established with Valor Computerized Systems Ltd., named Frontline Solutions Ltd., for software for bare production.
-1999 - Acquisition of Japanese developer of systems for FPDs, Acrotec. Orbotech  Display Asia Pacific established.
-2007 - Acquisition of New System Srl for inkjet printing technology.
-2008 - Acquisition of Dynamics, Inc. Test and Repair Solutions for the industry.
-2009 - Joint venture established with Solar, named Orbotech Solar, for the Photovoltaic Solar Energy manufacturing.
-2014 - Acquisition of  Technologies, manufacturer of etch, deposition and thermal equipment for the semiconductor industry.
-Company
-Contact
-Quick Links
-Social Media
-Copyright © 2018 Orbotech. 
-- The Language of Electronics
-Information on this site contains forward looking information — for more information 
-click here
-Company
-About
-Our brand story
-Milestones
-Affiliations
-Management
-Corporate Executives
-Business Subsidiary Executives
-Associated Companies
-Orbotech Subsidiaries
-Joint Ventures
-PCB
-& TECHNOLOGIES
-Direct Imaging
-Substrates
-Advanced Flex & Systems
-HDI, Flex, Advanced MLB
-MLB
-QTA
-Solder Mask
-for Touch
-Automated Optical Inspection
-Substrates (Down to 5 micron)
-Inspection (Down to 25 micron)
-Metrology Integrated AOI
-for Touch Sensors
-Automated Optical Shaping
-Inkjet / Additive Printing
-Laser Drilling
-Laser Plotting
-Industry 4.0 / Orbotech Smart Factory
-Computer Aided Manufacturing & Engineering
-
-Engineering
-FPD
-& TECHNOLOGIES
-Automated Optical Inspection (AOI)
-Value added applications
-Electrical Testing
-Repair
-Process information & classification
-SPTS
-& TECHNOLOGIES
-Plasma Etch
-Plasma Dicing
-Vapor Release Etch
-XeF2 Vapor Release Etch
-Metal Deposition
-Molecular Vapor Deposition  (MVD®)
-PECVD
-Thermal Products
-Vertical Batch Furnaces
-APCVD
-Additive Printing Solutions
-Single Wafer Platforms
-Applications
-Advanced Packaging
-Micro Electro Mechanical Systems (MEMS) 
-Power Devices
-Radio Frequency (RF) Devices
-Manufacturing
-Silicon Semi
-About SPTS
-About SPTS
-Corporate Responsibility
-Awards
+About DePuy Synthes
+News and Press
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
 Careers
-Contacts
-Resource Library
-Tech Insights
-MEMS
-1000th module installed
-Aland its Uses in the Electronics Industry (Part I)
-Claritas End-point for DRIE
-Cost-Effective Low Stress Sifor MEMS
-Etch and Deposition Processes for BioManufacturing
-Introduction to Vapor Etch
-Low Temperature for MEMS
-for Mobile Applications
-Microphones
-Morflex – Flexible Process Control for & TSV
-Anti-stiction Coating for MEMS
-Plasma Dicing (Dice Before Grind)
-Plasma Dicing (Dice After Grind)
-Plasma Etch End-Point Control
-Plasma Processes for VCSELs
-Surface Smoothing Processes for High Performance AlPiezoelectrics
-Wafer Level Packaging of MEMS
-Xenon Difluoride  - Dry Vapor Etch for Releasing MEMS
-Advanced Packaging
-Fan-out Wafer Level Packaging
-Blanket Silicon Etching
-High Productivity for UBM/RDL
-Inkjet Printing for Package Marking
-Inkjet Printing for Underfill Dam
-Via Reveal Passivation
-Via Reveal Processing
-Morflex - Flexible Process Control for and Etch
-Power Device Manufacturing
-SiEtch for Power & Devices
-300mm for Power Devices
-RF-IC
-Technology Papers
-Presentations
-R&Projects
-Case Studies
-Literature Library
-News & Events
-Press Releases
-Media Coverage
-Videos
-Events
-Webinars
-Gallery
-Articles
-Careers
-Who we are
-Why Join Us
-Job Search
-Our People
-Career growth
-Benefits and care
-Our Community
-ContactUtility nav
-Languages                
-English
-日本語
-简体中文
-繁體中文
-한국어
-Menu
-Company
-About
-Our brand story
-Milestones
-Affiliations
-Management
-Corporate Executives
-Business Subsidiary Executives
-Associated Companies
-Orbotech Subsidiaries
-Joint Ventures
-PCB
-& TECHNOLOGIES
-Direct Imaging
-Substrates
-Advanced Flex & Systems
-HDI, Flex, Advanced MLB
-MLB
-QTA
-Solder Mask
-for Touch
-Automated Optical Inspection
-Substrates (Down to 5 micron)
-Inspection (Down to 25 micron)
-Metrology Integrated AOI
-for Touch Sensors
-Automated Optical Shaping
-Inkjet / Additive Printing
-Laser Drilling
-Laser Plotting
-Industry 4.0 / Orbotech Smart Factory
-Computer Aided Manufacturing & Engineering
-
-Engineering
-Featured Solution
-Orbotech Ultra Dimension™
-SUPPORT
-FPD
-& TECHNOLOGIES
-Automated Optical Inspection (AOI)
-Value added applications
-Electrical Testing
-Repair
-Process information & classification
-Featured Solution
-Cutting Edge Solutions
-SUPPORT
-SPTS
-& TECHNOLOGIES
-Plasma Etch
-Plasma Dicing
-Vapor Release Etch
-XeF2 Vapor Release Etch
-Metal Deposition
-Molecular Vapor Deposition  (MVD®)
-PECVD
-Thermal Products
-Vertical Batch Furnaces
-APCVD
-Additive Printing Solutions
-Single Wafer Platforms
-Applications
-Advanced Packaging
-Micro Electro Mechanical Systems (MEMS) 
-Power Devices
-Radio Frequency (RF) Devices
-Manufacturing
-Silicon Semi
-About SPTS
-About SPTS
-Corporate Responsibility
-Awards
-Careers
-Contacts
-Resource Library
-Tech Insights
-MEMS
-1000th module installed
-Aland its Uses in the Electronics Industry (Part I)
-Claritas End-point for DRIE
-Cost-Effective Low Stress Sifor MEMS
-Etch and Deposition Processes for BioManufacturing
-Introduction to Vapor Etch
-Low Temperature for MEMS
-for Mobile Applications
-Microphones
-Morflex – Flexible Process Control for & TSV
-Anti-stiction Coating for MEMS
-Plasma Dicing (Dice Before Grind)
-Plasma Dicing (Dice After Grind)
-Plasma Etch End-Point Control
-Plasma Processes for VCSELs
-Surface Smoothing Processes for High Performance AlPiezoelectrics
-Wafer Level Packaging of MEMS
-Xenon Difluoride  - Dry Vapor Etch for Releasing MEMS
-Advanced Packaging
-Fan-out Wafer Level Packaging
-Blanket Silicon Etching
-High Productivity for UBM/RDL
-Inkjet Printing for Package Marking
-Inkjet Printing for Underfill Dam
-Via Reveal Passivation
-Via Reveal Processing
-Morflex - Flexible Process Control for and Etch
-Power Device Manufacturing
-SiEtch for Power & Devices
-300mm for Power Devices
-RF-IC
-Technology Papers
-Presentations
-R&Projects
-Case Studies
-Literature Library
-News & Events
-& EVENTS
-Press Releases
-Media Coverage
-Videos
-Events
-Webinars
-Gallery
-Articles
-RELATIONS
-For our latest financial releases, filings and reports, visit our 
-Investors section
-COVERAGE
-VIDEOS
-Careers
-CAREERS
-Who we are
-Why Join Us
-Job Search
-Our People
-Career growth
-Benefits and care
-Our Community
-SEARCH
-Israel
-North America
-Asia Pacific
-Europe
-US
-ORBOTECH
-Contact
-Our brand story
+Our Latest News
+10/16/2018
+DePuy Synthes Announces Agreement with Ortho Development® Corporation to Promote its KASM® Knee Articulating Spacer Mold 
+16, 2018 Warsaw, – Johnson & Johnson Medical Devices Companies* today announced that DePuy Synthes Sales, Inc. has entered into an exclusive agreement with Ortho Development® Corporation to co-promote in the its KASM® Knee Articulating Spacer Mold. This is a sterile, disposable cement spacer mold for patients who develop an infection after primary knee replacement. This new offering builds upon DePuy Synthes’** commitment to innovative knee solutions focused on helping patients along the care continuum.
+09/26/2018
+DePuy Synthes Expands Spine Portfolio with Nerve Assessment Platform  Designed to Identify & Avoid Nerves During Spine Surgery 
+Los Angeles – September 26, 2018 – Johnson & Johnson Medical Devices Companies* announced today that DePuy Synthes** is introducing MMG, a first-of-its-kind digital mechanomyography platform designed to assess nerve status and identify and avoid peripheral nerves during spine surgery. enables motor nerve monitoring for a variety of spine procedures, including non-fusion procedures such as discectomy and both minimally invasive (MIS) and open spinal fusion surgery.  is being broadly introduced at the 2018 North America Spine Society Meeting in Los Angeles, California. 
+09/12/2018
+Johnson & Johnson Medical GmbAcquires Emerging Implant Technologies Gmbto Enhance Global Offering of Interbody Spine Implants
+Norderstedt, Germany – September 12, 2018 – Johnson & Johnson Medical Devices Companies*, through its subsidiary Johnson & Johnson Medical GmbH, announced today the acquisition of Emerging Implant Technologies Gmb(EIT), a privately held manufacturer of 3D-printed titanium interbody implants for spinal fusion surgery, based in Wurmlingen, Germany. The products in this portfolio leverage EIT’s proprietary advanced cellular titanium, which consists of an open and interconnected porous structure designed to allow bone to grow into the implant. As industry leaders across the full range of orthopaedic and spine specialties, Johnson & Johnson Medical Devices Companies will leverage its global commercial infrastructure to bring EIT’s technologies to patients around the world. 
+08/20/2018
+New National Survey Uncovers the Surprising Impact that Knee and Hip Pain Has on Women’s Emotional Well-Being
+WARSAW, Ind. – August 20, 2018 – While many who suffer from knee or hip pain know that it impacts their everyday activities, results from a new survey show the significant emotional impact of joint pain. This includes impact on romantic and social relationships, ability to pursue hobbies and overall mood. The survey of more than 500 women ages 45-65, including those who have had joint replacement surgery and those planning to have joint replacement surgery, revealed: 
+07/26/2018
+DePuy Synthes Launches Expandable Interbody Implant as Part of a New Procedural Solution for Minimally Invasive Spine Surgery (MIS) that Enhances Surgical Efficiency
+Raynham, – July 26, 2018 – Johnson & Johnson Medical Devices Companies* today announced 
+that DePuy Synthes** is launching the Expandable Interbody Device in the 
+The Implant is designed to treat patients suffering from degenerative disc disease as part of the new offering called (Transforaminal Lumbar Interbody Fusion) Procedural Solution. The complete system includes a comprehensive set of solutions to help simplify key stages of this surgery by enhancing surgical efficiency.
+06/20/2018
+New Suture from DePuy Synthes Designed to Help Address Challenges Associated with Rotator Cuff Surgery
+20, 2018 San Diego, – Johnson & Johnson Medical Devices Companies* through the DePuy Synthes** franchise today announces the launch of Suture to repair soft tissue such as the rotator cuff in the shoulder. Part of the DePuy Synthes Mitek Sports Medicine portfolio, Suture is available on Anchors and adds to DePuy Synthes’ innovative solutions designed to help address unmet patient needs in soft tissue repair. Suture was launched today at the San Diego Shoulder Institute’s 35th Annual Course. 
+Search News & Press
+Search
+Company:
+All Companies
+All Divisions
+Codman & Shurtleff, Inc.
+Corporate Information
+DePuy Mitek, Inc.
+DePuy Orthopaedics, Inc.
+DePuy Spine, Inc.
+Healthcare Professionals
+Year:
+All Years
+Go 
+Media Contacts
+All inquiries can be submitted by email to:
+Media Inquiries
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
 Home
-Company
-About
-Our brand story
-Our brand story
-The language of electronics
-Today’s electronic devices are a lifestyle celebration. Small, sleek – and even wearable – they impact the way we read, write and connect with one another, enriching the language of communication.
-Enabling their realization is where Orbotech comes in. For over 30 years, our automated digital production systems and innovative technologies have launched a thousand designer dreams into the market. Virtually no notebook, smartphone or tablet would have made it into your hands without us.
-From reading circuit boards and flat panel displays to verify their quality and initiate repair, through writing metalized circuits on multiple surfaces and connecting with better radio frequency and power semiconductor devices, Orbotech is fully fluent in the Language of Electronics – and helping to write its future.
-“Orbotech has chosen ‘The Language of Electronics’ concept as its new tagline to spearhead the Company’s current rebranding effort, reflecting the highly proactive research and development and various commercial growth strategies it is pursuing. The Language of Electronics encompasses much of Orbotech’s current offering and gives us a lot of wingspan for diversification. By saying that we are masters in this richly complex language, we are declaring that Orbotech is a significant enabler in many aspects of realizing designer dreams on the electronics manufacturing floor.”
-- Asher Levy, CEO, Orbotech Ltd
-Want to learn more about the "language of electronics"?
-Company
-Contact
-Quick Links
-Social Media
-Copyright © 2018 Orbotech. 
-- The Language of Electronics
-Information on this site contains forward looking information — for more information 
-click here
-Company
-About
-Our brand story
-Milestones
-Affiliations
-Management
-Corporate Executives
-Business Subsidiary Executives
-Associated Companies
-Orbotech Subsidiaries
-Joint Ventures
-PCB
-& TECHNOLOGIES
-Direct Imaging
-Substrates
-Advanced Flex & Systems
-HDI, Flex, Advanced MLB
-MLB
-QTA
-Solder Mask
-for Touch
-Automated Optical Inspection
-Substrates (Down to 5 micron)
-Inspection (Down to 25 micron)
-Metrology Integrated AOI
-for Touch Sensors
-Automated Optical Shaping
-Inkjet / Additive Printing
-Laser Drilling
-Laser Plotting
-Industry 4.0 / Orbotech Smart Factory
-Computer Aided Manufacturing & Engineering
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+DePuy Synthes Companies California Compliance
+NOTICE: this information is provided pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765), which requires certain pharmaceutical and medical device companies doing business in California to make available their program for compliance with applicable federal and state laws and industry standards regulating the marketing and promotion of their products
 
-Engineering
-FPD
-& TECHNOLOGIES
-Automated Optical Inspection (AOI)
-Value added applications
-Electrical Testing
-Repair
-Process information & classification
-SPTS
-& TECHNOLOGIES
-Plasma Etch
-Plasma Dicing
-Vapor Release Etch
-XeF2 Vapor Release Etch
-Metal Deposition
-Molecular Vapor Deposition  (MVD®)
-PECVD
-Thermal Products
-Vertical Batch Furnaces
-APCVD
-Additive Printing Solutions
-Single Wafer Platforms
-Applications
-Advanced Packaging
-Micro Electro Mechanical Systems (MEMS) 
-Power Devices
-Radio Frequency (RF) Devices
-Manufacturing
-Silicon Semi
-About SPTS
-About SPTS
-Corporate Responsibility
-Awards
+INTRODUCTION
+The Operating Companies of DePuy Synthes, under the legal entity DePuy Orthopaedics, Inc., (the "Company") have established a program designed to materially comply with applicable federal and state laws and industry standards relating to the marketing and promotion of its products. Additionally, the Company recognizes that adherence to these standards can be furthered through a compliance program that is informed by the Compliance Program Guidance for Pharmaceutical Manufacturers, published by the Office of Inspector General of the Department of Health and Human Services (the "Guide"). The Guide advises that effective compliance programs are comprised of seven elements. As described below, these elements form the basis of the Company's program for compliance with the standards regulating the marketing and promotion of its products.
+II.
+ Overview of Compliance Program
+1. Written Policies and Procedures
+The Company has written policies to assure substantial compliance with the applicable laws and regulations and standards governing the marketing and promotion of our products. Among these standards are recognized industry codes of conduct including the Code of Ethics on Interactions with Health Care Professionals (AdvaMed Code), published by the Advanced Medical Technology Association ("AdvaMed"). The Company has established written policies that govern activities involving communicating with customers about the appropriate use of our products including appropriate instruction, education, training, service and technical support required for the safe and effective use of our products. The Company also has policies governing activities involving the advancement of scientific and educational activities supporting medical research and education. These policies include:
+Policies on Educational Grants and Research Grants
+The Company may provide grants for specific educational purposes that benefit patients and customers. These may include, but are not limited to, continuing medical and paraprofessional education programs, fellowships provided to teaching institutions and similar organizations with a demonstrated commitment to scientific and technical education, and programs operated by organizations that provide high-quality, nationally recognized patient education. Funding of educational programs will generally be provided only to organizations and institutions and not to individual practitioners.
+Research grants to support customer-initiated research may be provided for programs involving research in areas of legitimate interest to the company. All requests are subject to scientific review prior to funding approval.
+Policy on Charitable Contributions and Patient Assistance
+The Company will consider charitable contributions and requests for patient assistance in the areas of children's health, health care education, access to health care and community responsibility, consistent with the Company policies.
+Policy on Travel Expense Reimbursement for CME, Promotional or Product Training Meetings
+The Company will, with very limited exceptions that are in accordance with nationally recognized standards, not reimburse for travel and lodging expenses of attendees at promotional and educational programs.
+The Company may reimburse attendees for their reasonable travel and lodging expenses associated with attendance at product training meetings. Product training meetings will be conducted in locations conducive to the exchange of information such as educational or conference settings. Where face-to-face or hands-on customer training is reasonably necessary for the safe and effective use of the Company's medical device products is required, the Company may provide training at company facilities, at independent teaching centers such as medical institutions, or in other appropriate clinical settings.
+Policy on Business Meals
+The Company may occasionally offer a modest meal, consistent with the standards of the AdvaMed Code as part of an educational presentation or a business discussion. Venues that feature entertainment or recreation, and attendance by spouses or guests, are not permitted.
+Policy on the Provision of Educational and Practice-Related Items
+On occasion, the Company representatives may provide items that benefit patients or serve a genuine educational function for Health Care Professionals, consistent with the standards of the AdvaMed Code.
+Total Annual Dollar Limit for Meals and Educational or Practice-related Items 
+Each of the Companies, have established an annual limit of $1,500 for meals and educational items as the aggregate value of the items or activities that may be provided to California health care professionals pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765).
+Policy Prohibiting Entertainment
+It is the policy of the Company not to provide Entertainment (e.g. sporting events, golf outings, concerts, hunting, etc.) to customers.
+2. Assigned Compliance Officer
+The Company has appointed Health Care Compliance Officers. Our Health Care Compliance Officers have been empowered with appropriate authority to exercise independent judgment and has free and unencumbered access to senior management.
+The Company has appointed Health Care Compliance Committees. The committees are comprised of the Company's Health Care Compliance Officers and members of the Company's management team.
+3. Training.
+The Company has an annual Health Care Compliance training process that includes testing and annual certification of appropriate employees. The training covers applicable guidelines governing our compliance program. Employees are also trained on the consequences of failure to comply with the requirements of the company's compliance program.
+4. Communication.
+The Company encourages open and candid discussion between management and employees regarding any compliance concerns. The Company employees are encouraged to report their concerns to their manager, to the Human Resources Department, to the Law Department or to the company's Health Care Compliance Officer.
+5. Auditing and Monitoring. 
+The Company self-assesses and periodically audits its compliance with its policies and procedures.
+6. Enforcement and Disciplinary Guidelines.
+The Company will take disciplinary actions in response to violation of the company's compliance policies or procedures. The Company will conduct a fair and diligent investigation of matters that are brought to the company's attention in order to ensure the consistent application of the company's standards.
+7. Responses To Detected Problems and Actions To Correct Issues.
+The Company requires a prompt and diligent response to potential violations of the company's compliance program, including its standards regulating the marketing and promotion of our products. Actions in response to detected problems may include improving policies, procedures, training, communication and monitoring or may require disciplinary action to prevent future violations.
+For a copy of this California Compliance Program, please call 1-877-889-3636. Provide your name, mailing address and request that a copy of the DePuy Synthes California Compliance program be sent to you.
+LAW
+As part of the Company's ongoing efforts in the area of compliance, we have developed a Comprehensive Compliance Program that is designed to comply with applicable federal and state laws and industry standards relating to the marketing and promotion of our products. To our knowledge as of the date of this declaration, the Company is in compliance with our Comprehensive Compliance Program, as described here, and with California Health & Safety Code sections 119400-119402.
+Dated: May 1, 2018
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
 Careers
-Contacts
-Resource Library
-Tech Insights
-MEMS
-1000th module installed
-Aland its Uses in the Electronics Industry (Part I)
-Claritas End-point for DRIE
-Cost-Effective Low Stress Sifor MEMS
-Etch and Deposition Processes for BioManufacturing
-Introduction to Vapor Etch
-Low Temperature for MEMS
-for Mobile Applications
-Microphones
-Morflex – Flexible Process Control for & TSV
-Anti-stiction Coating for MEMS
-Plasma Dicing (Dice Before Grind)
-Plasma Dicing (Dice After Grind)
-Plasma Etch End-Point Control
-Plasma Processes for VCSELs
-Surface Smoothing Processes for High Performance AlPiezoelectrics
-Wafer Level Packaging of MEMS
-Xenon Difluoride  - Dry Vapor Etch for Releasing MEMS
-Advanced Packaging
-Fan-out Wafer Level Packaging
-Blanket Silicon Etching
-High Productivity for UBM/RDL
-Inkjet Printing for Package Marking
-Inkjet Printing for Underfill Dam
-Via Reveal Passivation
-Via Reveal Processing
-Morflex - Flexible Process Control for and Etch
-Power Device Manufacturing
-SiEtch for Power & Devices
-300mm for Power Devices
-RF-IC
-Technology Papers
-Presentations
-R&Projects
-Case Studies
-Literature Library
-News & Events
-Press Releases
-Media Coverage
-Videos
-Events
-Webinars
-Gallery
-Articles
-Careers
-Who we are
-Why Join Us
-Job Search
-Our People
-Career growth
-Benefits and care
-Our Community
-ContactFor our latest financial releases, filings and reports, visit our Investors section
-Industry research collaborations and affiliations
-HiperLAM
-The HiperLAM, High-Performance Laser-based Additive Manufacturing consortium, is a Research and Innovation initiative which received funding from the European Union's Horizon 2020 under Grant Agreement No. 723879. It is also a part of the Photonics and Factories of the Future Public Private Partnerships.
-Orbotech serves as the Hiperconsortium coordinator and project manager, on top of its role as a key researcher and co-developer of an innovative Laser Induced Forward Transfer (LIFT) technique for Nano-particle metallic inks. is a high resolution additive printing process, that dramatically reduces production costs and time compared to the current subtractive process used in electronics manufacturing.
-For more information on HiperLAM, please click here .
-High-Response
-The HI-project will overcome the current limitation relating to the resolution, viscosity and engineering design through the development of a highly innovative pulsed Electro-static printing technology (ESJET). The Hi-Response project has received funding from the European Union’s Horizon 2020 research and innovation programme under Grant Agreement No. 646296.
-For more information on High-Response, please click here .
-Large Organic Robust Imager for X-Ray Sensing (LORIX)
-The Horizon 2020 project aims to develop, prototype and demonstrate large area X-ray detectors enabled by organic electronics. The project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 644103.
-For more information on LORIX, please click here .
-ILTAM
-is a union of industrial companies, supported by the Israeli Innovation Authority and operating as a non-profit organization. is intended to assist in developing, distributing and deploying new technologies, from Israel and abroad, among the Israeli industry Orbotech takes part in presidency and leads the system engineering activities in the civil (non-defense) industries. We assist in planning industry events while partaking in seminars, conferences, workgroups, technical meetings and more. Orbotech participates in such events by delivering lectures, joining committees and workgroups.
-For more information on ILTAM, please click here .
-International Council on Systems Engineering (INCOSE)
-The International Council on Systems Engineering (INCOSE) is a not-for-profit membership organization founded to develop and disseminate the interdisciplinary principles and practices that enable the realization of successful systems. Their mission is to address complex societal and technical challenges by enabling, promoting, and advancing systems engineering and systems approaches. As one of the leading Israeli companies in the field of system engineering, Orbotech has an active role in the Israeli chapter (INCOSE_IL). This includes planning and partaking in seminars, conferences, workgroups and technical meetings. Orbotech employees participates in the industry events, give lectures and take part in specific committees and workgroups.
-For more information on INCOSE, please click here .
-Israel Innovation Authority
-The Israel Innovation Authority, formerly known as the Office of Chief Scientist, is responsible for the country’s innovation policy and is an independent and impartial public entity that operates for the benefit of the Israeli innovation ecosystem and Israeli economy as a whole. Its role is to nurture and develop Israeli innovation resources, while creating and strengthening the infrastructure and framework needed to support the entire knowledge industry.
-For more information about the Israel Innovation Authority, please click here .
-Responsible Business Alliance (RBA) 
-The Responsible Business Alliance (RBA), formerly the Electronic Industry Citizenship Coalition (EICC), is the world’s largest industry coalition dedicated to electronics supply chain responsibility. The is a nonprofit comprised of electronics, retail, auto and toy companies committed to supporting the rights and wellbeing of workers and communities worldwide affected by the global electronics supply chain. members commit and are held accountable to a common code of conduct and utilize a range of training and assessment tools to support continuous improvement in the social, environmental and ethical responsibility of their supply chains.
-For more information on RBA, please click here .
-Advanced Laser Technologies for Industrial Applications (ALTIA) 
-Advanced Laser Technologies for Industrial Applications (ALTIA) is a consortium of laser manufacturers, component manufacturers, end user companies and researchers in the field of electro-optics from leading research institutions. The consortium develops new laser technologies for industrial use, and places an emphasis on finding inexpensive solutions for high power lasers and high energy pulsed lasers.
-Orbotech is leading the laser applications work group, aimed at demonstrating the feasibility of laser micromachining processes.
-For more information on Altia, please click  here .
-Compound Semiconductor Cluster
-CS-Connected represents organisations who are directly associated with research, development, innovation and manufacturing of compound semiconductor related technologies as well as organisations along the supply chains whose products and services are enabled by compound semiconductors.  The UK, and in particular, Wales, is home to a growing number of organisations and businesses that are active in this increasingly important industry sector.
-Fab Owners Alliance
-The is an international, nonprofit, trade association of semiconductor & fab owners and industry suppliers who meet regularly to discuss and act on common manufacturing issues, combining strengths and resources to become more globally competitive.
-For more information on FOA, please click here .
-International Microelectronics and Packaging Society
-The International Microelectronics Assembly and Packaging Society (IMAPS) is the largest society dedicated to the advancement and growth of microelectronics and electronics packaging technologies through professional education. The Society’s portfolio of technologies is disseminated through symposia, conferences, workshops, professional development courses and other efforts. currently has more than 3,000 members in the United States and more than 3,000 international members around the world.
-For more information on imaps please click here .
-& Sensors Industry Group
-& Sensors Industry Group (MSIG) is a Strategic Association Partner, advancing and sensors across global markets. 
-For more information, please click  here .
-National Microelectronics Institute
-recognises the vital role of the in a World critically dependent on Electronic Systems.
-Our Mission is simple: To increase the quality and quantity of electronic engineering and manufacturing in the UK.
-For more information on nmi, please visit  here .
-SEMI
-is the global industry association serving the manufacturing supply chain for the micro- and nano-electronics industries, including:
-Semiconductors
-Printed and flexible electronics
-Related micro- and nano-electronics
-The industries, companies, and people represents are the architects of the electronics revolution. members are responsible for the innovations and technologies that enable smarter, faster, more powerful, and more affordable electronic products and devices that bring the power of the digital age to more people every day.
-For more information on semi, please visit  here .
-A*Institute of Microelectronics (IME)
-The Institute of Microelectronics (IME) is a research institute of the Science and Engineering Research Council of the Agency for Science, Technology and Research (A*STAR). Positioned to bridge the R&between academia and industry, A*IME's mission is to add value to Singapore's semiconductor industry by developing strategic competencies, innovative technologies and intellectual property. Its key research areas are in integrated circuits design, advanced packaging, bioelectronics and medical devices, MEMS, nanoelectronics, and photonics.
-For more information on IME, please visit  here .
-China int'l & Assembly Show (CPCA)
-Shanghai Ying Zhan Exhibition Service Co., Ltd., a joint-venture with Hong Kong investment, was founded in March, 1997 in Shanghai, concentrating on business consultation and exhibition service. As a member of China Printed Circuit Association and Shanghai Exhibition Association, they enjoy great publicity in both electronic profession and exhibition trade.
-For more information on CPCA, please visit  here .
-Japan Electronics Packaging and Circuits Association (JPCA)
-The Japan Electronics Packaging and Circuits Association (JPCA) was established in 1962 as a voluntary, non-profit organization to support printed wiring board manufacturers and other related industries in Japan. This 365-member organization promotes the development of the industry through initiatives such as standards development, education, market research, technical symposiums, business matching and environmental compliance.
-For more information on JPCA, please visit  here .
-Hong Kong Printed Circuit Association (HKPCA)
-is a non-profit making association which was founded in Hong Kong. Being one of the members of World Electronic Circuits Council (WECC), they have close connections with overseas printed circuit associations and they work to promote and protect the rights and interests of the printed circuit industry.
-For more information on HKPCA, please visit  here .
-Association Connecting Electronics Industries (IPC)
-is the global trade association serving the printed board and electronics assembly industries, their customers and suppliers. is dedicated to furthering the competitive excellence and financial success of its members, who are participants in the electronics industry. 
-For more information on IPC, please visit  here .
-The European Electronics Association (EIPC)
-The EIPC, The European Electronics Association is an international service provider to the European interconnection and packaging Industry. The is a network of professionals of the electronics industry providing platforms to exchange business & technology information for the success of the European electronics industry.
-For more information on EIPC, please visit  here .
- Taiwan Printed Circuit Association (TPCA)
-Taiwan Printed Circuit Association (TPCA) is a non-profit association established in 1998 with theobjective to promote the Taiwan's competitiveness in the circuit board industry and maintain close ties with overseas associations and experts.
-For more information on TPCA, please visit  here .
-Industrial Technology Research Institute (ITRI)
-Industrial Technology Research Institute (ITRI) is one of the world’s leading technology R&institutions aiming to innovate a better future for society. Founded in 1973, has played a vital role in transforming Taiwan's industries from labor-intensive into innovation-driven, focusing on smart living, quality health, and sustainable environment. has incubated over 300 innovative companies, and serves as a pioneer for industries by strengthening its capabilities of multidisciplinary innovation and cooperation with international partners all over the world. 
-For more information on ITRI, please visit  here .
-For more information on Orbotech and collaboration click  here .
-The Society for Information Display (SID)
-The Society for Information Display was formed in 1962 and is comprised of the top scientists, engineers, corporate researchers, and business people of the display industry. was mission is to promulgate display technology, publishing a monthly journal of SID, Information Display magazine, and our annual digest of technical papers, which is presented at our annual spring Display Week Symposium and Exhibition.
-For more information on SID, please visit  here .
-Information on this site contains forward looking information — for more information click here
+About DePuy Sysnthes Hero Image
+The DePuy Synthes Companies
+Johnson & Johnson Family of Companies
+.
+
+We offer the world’s most comprehensive portfolio of orthopaedic and neuro products and services for joint reconstruction, trauma, spine, sports medicine, neuro, cranio-maxillofacial, power tools and biomaterials.
+DSUS/MOC/0817/0816 11/2017
+DePuy Synthes Joint Reconstruction
+One of the largest orthopaedics companies in the world, with leading solutions for hip, knee and shoulder replacement.
+DePuy Synthes Trauma
+The global leader in orthopaedic trauma devices for internal and external fixation.
+DePuy Synthes Spine
+Offering one of the world’s most diverse portfolios of spinal-care solutions for both traditional and minimally invasive spine surgery.
+DePuy Synthes Mitek Sports Medicine
+leading developer and manufacturer of pain management and minimally invasive solutions, including sports medicine and soft-tissue repair products.
+DePuy Synthes Power Tools
+Delivering a comprehensive range of power instrument systems, reamers and saws to meet a broad spectrum of clinical needs.
+DePuy Synthes Neuro
+Providing a wide range of solutions for the diagnosis and treatment of neurological disorders focusing on neurovascular, neurosurgery and neuromodulation solutions.
+DePuy Synthes CMF
+Offering systems that provide a complete array of implants and instruments for the treatment of facial trauma, tumor resection and reconstruction.
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Start the conversation now.
+DON'PLAY.
+If hip or knee pain is making you live life on pause, it may be time to talk with a doctor about treatment options. Because life is a lot more fun when you Hit Play!
+We are inspired by the opportunity to work together to advance patient care.
+Johnson & Johnson Medical Devices Companies (JJMDC) advance patient care while delivering clinical and economic value to healthcare systems and helps providers address individual needs through a holistic approach.
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Find a Doctor
+© DePuy Synthes 2014-2018. All Rights Reserved.
+This site is published by the DePuy Synthes Companies, which are solely responsible for its content.
+This site is governed solely by applicable laws and governmental regulations.
+This site is for visitors from the United States.
+The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us

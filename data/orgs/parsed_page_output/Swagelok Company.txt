@@ -1,777 +1,323 @@
-Internet Explorer 8 or 9 is not supported by this website. Please either 
-update your version of Internet Explorer
-, or use a more up to date browser.
-To give you the best possible experience, this site uses cookies. Continuing to use this site means you agree to our use of cookies. If you’d like to learn more about our cookie policy please 
-click here
-.
-(0)
-Account Summary
-Quote Request
-Upload Part List
-Enter Bill of Materials
-Quote History
-Order History
-Favorites
-Log Out
-Please select your preferred language:
-中文
-Deutsch
-English
-Español
-Français
-日本語
-Русский
-Products
-Fittings
-Valves
-Hoses and Flexible Tubing
-Medium- and High-Pressure Products
-Regulators
-Quick Connects
-Measurement Devices
-Tubing and Tube Accessories
-Filters
-Grab Sample Systems
-Sample Cylinders
-Pre-Engineered Subsystems
-Welding System
-Miniature Modular Systems
-Leak Detectors, Lubricants, Sealants
-Services
-Training and Education
-Evaluation and Advisory Services
-Custom Solutions
-Sales and Service Support
-Industries
-Alternative Fuels
-Chemical and Petrochemical
-Oil and Gas
-Power
-Semiconductor
-Blog
-Toolbox
-Files and Sales Drawings
-Certifications
-Cv Calculator
-Product Catalog
-Regulator Flow Curve Generator
-Software
-About Us
-Newsroom
-Our Business
-Our Values
-Our Leadership
-Global Coverage
-Our Founder
-Careers
-Buy Fittings
-Valves
-Hoses and Flexible Tubing
-Regulators
-Quick-Connects
-Measurement Devices
-Tubing and Tube Accessories
-Filters
-Sample Cylinders
-Miniature Modular Systems
-Welding System
-Leak Detectors Lubricants, Sealants
-Products
-Products
-Fittings
-Products
-Fittings
-Tube Fittings and Tube Adapters
-Medium- and High-Pressure Fittings and Adapters
-Type VCO® L-Ring Face Seal Fittings
-Biopharm Fittings
-Dielectric Fittings
-Flange to Tube Fittings
-Fine Thread Flare Fittings
-Pipe Fittings
-Vacuum Fittings
-VCO® O-Ring Face Seal
-VCR® Metal Gasket Face Seal
-Weld Fittings
-Valves
-Products
-Valves
-Medium-Pressure Ball Valves
-Ball
-Bellows-Sealed
-Bleed and Purge
-Check
-Diaphragm-Sealed Valves
-Excess Flow
-Manifolds
-Medium- and High-Pressure Check Valves
-Medium- and High-Pressure Needle Shutoff and Regulating Valves
-Medium- and High-Pressure Relief Valves
-Metering
-Needle Shutoff and Regulating Valves
-Process Interface Valves (DBB)
-Quarter Turn Plug
-Relief
-Sample Stream Select
-Valve Locks
-Hoses and Flexible Tubing
-Products
-Hoses and Flexible Tubing
-Convoluted 316Core Hose Stainless Braid
-Hose and Flexible Tubing End Connections
-Nylon Core Hose Fiber Braid Reinforced
-Core Hose 302 Braid Reinforced
-Flexible Tubing
-Polyethylene Core Hose Fiber Braid Reinforcement
-Core Hose Smooth Bore with 316Convoluted Cover
-Core Hose Convoluted
-Core Hose Smooth Bore
-Rubber Core Hose Rayon Fiber Reinforced
-Spare Parts and Accessories - Hose and Flexible Tubing
-Vacuum Flexible Tubing Convoluted 321 SS
-Vinyl Flexible Tubing
-Medium- and High-Pressure Products
-Products
-Medium- and High-Pressure Products
-Medium-Pressure Ball Valves
-Medium- and High-Pressure Check Valves
-Medium- and High-Pressure Needle Shutoff and Regulating Valves
-Medium- and High-Pressure Relief Valves
-Medium- and High-Pressure Fittings and Adapters
-Medium- and High-Pressure Tubing
-Regulators
-Products
-Regulators
-Back-Pressure Dome-Loaded
-Back-Pressure, Spring-Loaded
-Pressure-Reducing, Dome-Loaded
-Pressure-Reducing, Spring-Loaded
-Specialty
-Quick Connects
-Products
-Quick Connects
-Full-Flow Quick Connects
-Instrumentation Quick Connects
-Miniature Quick Connects
-PTFE-Sealed Quick Connects
-Spare Parts and Accessories - Quick Connects
-Measurement Devices
-Products
-Measurement Devices
-Flow Sensors
-Pressure Gauges
-Pressure Transducers
-Thermometers
-Thermowells
-Variable Area Flowmeters
-Tubing and Tube Accessories
-Products
-Tubing and Tube Accessories
-Spare Parts and Accessories - Tubing
-Support System
-Tube Benders
-Tube Cutting and Preparation
-Tubing
-Medium- and High-Pressure Tubing
-Filters
-Products
-Filters
-Coalescing - Particle
-High Purity
-Particulate Filters: Inline and Tee
-Spare Parts and Accessories, Filters and Strainers
-Grab Sample Systems
-Sample Cylinders
-Products
-Sample Cylinders
-Compliant
-Miniature Sample Cylinders
-Spare Parts and Accessories - Sample Cylinders
-Compliant
-Pre-Engineered Subsystems
-Products
-Pre-Engineered Subsystems
-Calibration and Switching Modules
-Fast Loop Modules
-Field Station Module (FSM)
-Fluid Distribution Header (FDH)
-Sample Probe Module (SPM)
-Welding System
-Products
-Welding System
-Fixtures and Collets
-Power Supply
-Spare Parts and Accessories - Weld System
-Weld Heads
-Miniature Modular Systems
-Products
-Miniature Modular Systems
-Analytical Modular Platform Components
-Leak Detectors, Lubricants, Sealants
-Products
-Leak Detectors, Lubricants, Sealants
-Heat Exchangers Tube Plugs
-Lubricants
-Sealants
-Snoop® Liquid Leak Detector
-Services
-Services
-Training and Education
-Services
-Training and Education
-Essentials
-Sampling System Training
-Orbital Weld Training
-Materials Science Training
-Steam Services Training
-Advanced Tube Bending
-Our Tech Tip Videos
-Industrial Sampling Systems - the Definitive Reference Guide
-Evaluation and Advisory Services
-Custom Solutions
-Services
-Custom Solutions
-Service Request Form
-Sales and Service Support
-Services
-Sales and Service Support
-eProcurement 
-Delivery and Inventory Services
-Product Selection and Guidance 
-Industries
-Industries
-Alternative Fuels
-Chemical and Petrochemical
-Oil and Gas
-Power
-Semiconductor
-Blog
-Toolbox
-Toolbox
-Files and Sales Drawings
-Certifications
-Toolbox
-Certifications
-Certifications by Product
-Certifications List by Category
-Biopharm Certifications
-Cv Calculator
-Product Catalog
-Regulator Flow Curve Generator
-Software
-Toolbox
-Software
-Commissioner Software
-About Us
-About Us
-Newsroom
-About Us
-Newsroom
-Press Releases
-Media Contacts
-Corporate Fact Sheet
-Success Stories
-Industry Participation
-Published Articles
-Our Business
-About Us
-Our Business
-Message to our Customers
-Business Model
-Services
-Products
-Quality
-Customers and Markets
-Associates
-Supply Chain
-Inventory
-Engineering Innovation
-Shop Floor
-Manufacturing
-Financial Strength
-Information Technology
-Capital Projects Global Customer Survey
-Our Values
-About Us
-Our Values
-Social Responsibility
-Our Leadership
-About Us
-Our Leadership
-Arthur Anton
-William Canady
-Joey Arnold
-Brent Blouch
-James Cavoli
-Ward Dumm
-Joel Feldman
-David Krabill
-Matthew LoPiccolo
-David O’Connor
-Theresa Polachek
-Frank Roddy
-Robert “Bob” Wilson
-Global Coverage
-Our Founder
-Careers
-Buy Buy Fittings
-Valves
-Hoses and Flexible Tubing
-Regulators
-Quick-Connects
-Measurement Devices
-Tubing and Tube Accessories
-Filters
-Sample Cylinders
-Miniature Modular Systems
-Welding System
-Leak Detectors Lubricants, Sealants
-Contact
-My Sales and Service Center
-:
-中文
-Deutsch
-English
-Español
-Français
-日本語
-Русский
-Invalid characters
-Invalid characters
-
-                        An email will be sent to your email address.  If you don’t receive an email shortly, please check the email address and try again or contact your local Sales & Service Center.    
-Register Now
-MORE
-MORE
-MORE
-Newsroom
-Find links to Swagelok’s latest press releases, media contacts, corporate fact sheet, success stories, and industry association participation here.
-Our Business
-is on a mission to push the boundaries of what is possible. We’re always looking for a better way to improve our customers’ experiences.
-Our Values
-is a values-based committed to innovation, customer focus, integrity, respect, continuous improvement, and quality.
-Our Leadership
-Swagelok’s leadership upholds the core values our founder instilled in the in 1947.
-Global Coverage
-is available through more than 220 sales and service centers in 70 countries.
-Our Founder
-Fred Lennon founded under the mantra, “Make the best product possible to help customers succeed, and keep making it better.”
-Locate a Sales and Service Center
-Careers
+Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
 Contact Us
-Safe Product Selection
-Legal
-Privacy
-Imprint
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
 Facebook
-Linkedin
-YoutubeInternet Explorer 8 or 9 is not supported by this website. Please either 
-update your version of Internet Explorer
-, or use a more up to date browser.
-To give you the best possible experience, this site uses cookies. Continuing to use this site means you agree to our use of cookies. If you’d like to learn more about our cookie policy please 
-click here
-.
-(0)
-Account Summary
-Quote Request
-Upload Part List
-Enter Bill of Materials
-Quote History
-Order History
-Favorites
-Log Out
-Please select your preferred language:
-中文
-Deutsch
-English
-Español
-Français
-日本語
-Русский
-Products
-Fittings
-Valves
-Hoses and Flexible Tubing
-Medium- and High-Pressure Products
-Regulators
-Quick Connects
-Measurement Devices
-Tubing and Tube Accessories
-Filters
-Grab Sample Systems
-Sample Cylinders
-Pre-Engineered Subsystems
-Welding System
-Miniature Modular Systems
-Leak Detectors, Lubricants, Sealants
-Services
-Training and Education
-Evaluation and Advisory Services
-Custom Solutions
-Sales and Service Support
-Industries
-Alternative Fuels
-Chemical and Petrochemical
-Oil and Gas
-Power
-Semiconductor
-Blog
-Toolbox
-Files and Sales Drawings
-Certifications
-Cv Calculator
-Product Catalog
-Regulator Flow Curve Generator
-Software
-About Us
-Newsroom
-Our Business
-Our Values
-Our Leadership
-Global Coverage
-Our Founder
-Careers
-Buy Fittings
-Valves
-Hoses and Flexible Tubing
-Regulators
-Quick-Connects
-Measurement Devices
-Tubing and Tube Accessories
-Filters
-Sample Cylinders
-Miniature Modular Systems
-Welding System
-Leak Detectors Lubricants, Sealants
-Products
-Products
-Fittings
-Products
-Fittings
-Tube Fittings and Tube Adapters
-Medium- and High-Pressure Fittings and Adapters
-Type VCO® L-Ring Face Seal Fittings
-Biopharm Fittings
-Dielectric Fittings
-Flange to Tube Fittings
-Fine Thread Flare Fittings
-Pipe Fittings
-Vacuum Fittings
-VCO® O-Ring Face Seal
-VCR® Metal Gasket Face Seal
-Weld Fittings
-Valves
-Products
-Valves
-Medium-Pressure Ball Valves
-Ball
-Bellows-Sealed
-Bleed and Purge
-Check
-Diaphragm-Sealed Valves
-Excess Flow
-Manifolds
-Medium- and High-Pressure Check Valves
-Medium- and High-Pressure Needle Shutoff and Regulating Valves
-Medium- and High-Pressure Relief Valves
-Metering
-Needle Shutoff and Regulating Valves
-Process Interface Valves (DBB)
-Quarter Turn Plug
-Relief
-Sample Stream Select
-Valve Locks
-Hoses and Flexible Tubing
-Products
-Hoses and Flexible Tubing
-Convoluted 316Core Hose Stainless Braid
-Hose and Flexible Tubing End Connections
-Nylon Core Hose Fiber Braid Reinforced
-Core Hose 302 Braid Reinforced
-Flexible Tubing
-Polyethylene Core Hose Fiber Braid Reinforcement
-Core Hose Smooth Bore with 316Convoluted Cover
-Core Hose Convoluted
-Core Hose Smooth Bore
-Rubber Core Hose Rayon Fiber Reinforced
-Spare Parts and Accessories - Hose and Flexible Tubing
-Vacuum Flexible Tubing Convoluted 321 SS
-Vinyl Flexible Tubing
-Medium- and High-Pressure Products
-Products
-Medium- and High-Pressure Products
-Medium-Pressure Ball Valves
-Medium- and High-Pressure Check Valves
-Medium- and High-Pressure Needle Shutoff and Regulating Valves
-Medium- and High-Pressure Relief Valves
-Medium- and High-Pressure Fittings and Adapters
-Medium- and High-Pressure Tubing
-Regulators
-Products
-Regulators
-Back-Pressure Dome-Loaded
-Back-Pressure, Spring-Loaded
-Pressure-Reducing, Dome-Loaded
-Pressure-Reducing, Spring-Loaded
-Specialty
-Quick Connects
-Products
-Quick Connects
-Full-Flow Quick Connects
-Instrumentation Quick Connects
-Miniature Quick Connects
-PTFE-Sealed Quick Connects
-Spare Parts and Accessories - Quick Connects
-Measurement Devices
-Products
-Measurement Devices
-Flow Sensors
-Pressure Gauges
-Pressure Transducers
-Thermometers
-Thermowells
-Variable Area Flowmeters
-Tubing and Tube Accessories
-Products
-Tubing and Tube Accessories
-Spare Parts and Accessories - Tubing
-Support System
-Tube Benders
-Tube Cutting and Preparation
-Tubing
-Medium- and High-Pressure Tubing
-Filters
-Products
-Filters
-Coalescing - Particle
-High Purity
-Particulate Filters: Inline and Tee
-Spare Parts and Accessories, Filters and Strainers
-Grab Sample Systems
-Sample Cylinders
-Products
-Sample Cylinders
-Compliant
-Miniature Sample Cylinders
-Spare Parts and Accessories - Sample Cylinders
-Compliant
-Pre-Engineered Subsystems
-Products
-Pre-Engineered Subsystems
-Calibration and Switching Modules
-Fast Loop Modules
-Field Station Module (FSM)
-Fluid Distribution Header (FDH)
-Sample Probe Module (SPM)
-Welding System
-Products
-Welding System
-Fixtures and Collets
-Power Supply
-Spare Parts and Accessories - Weld System
-Weld Heads
-Miniature Modular Systems
-Products
-Miniature Modular Systems
-Analytical Modular Platform Components
-Leak Detectors, Lubricants, Sealants
-Products
-Leak Detectors, Lubricants, Sealants
-Heat Exchangers Tube Plugs
-Lubricants
-Sealants
-Snoop® Liquid Leak Detector
-Services
-Services
-Training and Education
-Services
-Training and Education
-Essentials
-Sampling System Training
-Orbital Weld Training
-Materials Science Training
-Steam Services Training
-Advanced Tube Bending
-Our Tech Tip Videos
-Industrial Sampling Systems - the Definitive Reference Guide
-Evaluation and Advisory Services
-Custom Solutions
-Services
-Custom Solutions
-Service Request Form
-Sales and Service Support
-Services
-Sales and Service Support
-eProcurement 
-Delivery and Inventory Services
-Product Selection and Guidance 
-Industries
-Industries
-Alternative Fuels
-Chemical and Petrochemical
-Oil and Gas
-Power
-Semiconductor
-Blog
-Toolbox
-Toolbox
-Files and Sales Drawings
-Certifications
-Toolbox
-Certifications
-Certifications by Product
-Certifications List by Category
-Biopharm Certifications
-Cv Calculator
-Product Catalog
-Regulator Flow Curve Generator
-Software
-Toolbox
-Software
-Commissioner Software
-About Us
-About Us
-Newsroom
-About Us
-Newsroom
-Press Releases
-Media Contacts
-Corporate Fact Sheet
-Success Stories
-Industry Participation
-Published Articles
-Our Business
-About Us
-Our Business
-Message to our Customers
-Business Model
-Services
-Products
-Quality
-Customers and Markets
-Associates
-Supply Chain
-Inventory
-Engineering Innovation
-Shop Floor
-Manufacturing
-Financial Strength
-Information Technology
-Capital Projects Global Customer Survey
-Our Values
-About Us
-Our Values
-Social Responsibility
-Our Leadership
-About Us
-Our Leadership
-Arthur Anton
-William Canady
-Joey Arnold
-Brent Blouch
-James Cavoli
-Ward Dumm
-Joel Feldman
-David Krabill
-Matthew LoPiccolo
-David O’Connor
-Theresa Polachek
-Frank Roddy
-Robert “Bob” Wilson
-Global Coverage
-Our Founder
-Careers
-Buy Buy Fittings
-Valves
-Hoses and Flexible Tubing
-Regulators
-Quick-Connects
-Measurement Devices
-Tubing and Tube Accessories
-Filters
-Sample Cylinders
-Miniature Modular Systems
-Welding System
-Leak Detectors Lubricants, Sealants
-Contact
-My Sales and Service Center
-:
-中文
-Deutsch
-English
-Español
-Français
-日本語
-Русский
-Invalid characters
-Invalid characters
-
-                        An email will be sent to your email address.  If you don’t receive an email shortly, please check the email address and try again or contact your local Sales & Service Center.    
-Register Now
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
 Home
-About Us
-Our Values
-Print page
-Newsroom
-Press Releases
-Media Contacts
-Corporate Fact Sheet
-Success Stories
-Industry Participation
-Published Articles
-Our Business
-Message to our Customers
-Business Model
-Services
-Products
-Quality
-Customers and Markets
-Associates
-Supply Chain
-Inventory
-Engineering Innovation
-Shop Floor
-Manufacturing
-Financial Strength
-Information Technology
-Capital Projects Global Customer Survey
-Our Values
+About DePuy Synthes
+News and Press
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+News and Press
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
 Social Responsibility
-Our Leadership
-Arthur Anton
-William Canady
-Joey Arnold
-Brent Blouch
-James Cavoli
-Ward Dumm
-Joel Feldman
-David Krabill
-Matthew LoPiccolo
-David O’Connor
-Theresa Polachek
-Frank Roddy
-Robert “Bob” Wilson
-Global Coverage
-Our Founder
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
 Careers
-Vision for the Long Term
-
-Since 1947, we have been a values-based committed to doing the right thing in all cases.
-
-Our values orientation plays out in everything from supply chain management to engineering, manufacturing, fulfillment, and sales and service.
-
-As a privately held company, we are not under pressure for short-term financial results. In all areas of our business, we attempt to make decisions that are in the best long-term interests of our company, associates, sales and service centers, and our customers.
-Inspired Social Responsibility
-Swagelok’s community giving and sustainability missions are substantive and straightforward.
-Value of Our Values Brochure
-Click here to download Swagelok’s Value of Our Values brochure to learn more about our vision for the long term and our commitment to doing the right thing in all cases.
-Locate a Sales and Service Center
-Careers
+Our Latest News
+10/16/2018
+DePuy Synthes Announces Agreement with Ortho Development® Corporation to Promote its KASM® Knee Articulating Spacer Mold 
+16, 2018 Warsaw, – Johnson & Johnson Medical Devices Companies* today announced that DePuy Synthes Sales, Inc. has entered into an exclusive agreement with Ortho Development® Corporation to co-promote in the its KASM® Knee Articulating Spacer Mold. This is a sterile, disposable cement spacer mold for patients who develop an infection after primary knee replacement. This new offering builds upon DePuy Synthes’** commitment to innovative knee solutions focused on helping patients along the care continuum.
+09/26/2018
+DePuy Synthes Expands Spine Portfolio with Nerve Assessment Platform  Designed to Identify & Avoid Nerves During Spine Surgery 
+Los Angeles – September 26, 2018 – Johnson & Johnson Medical Devices Companies* announced today that DePuy Synthes** is introducing MMG, a first-of-its-kind digital mechanomyography platform designed to assess nerve status and identify and avoid peripheral nerves during spine surgery. enables motor nerve monitoring for a variety of spine procedures, including non-fusion procedures such as discectomy and both minimally invasive (MIS) and open spinal fusion surgery.  is being broadly introduced at the 2018 North America Spine Society Meeting in Los Angeles, California. 
+09/12/2018
+Johnson & Johnson Medical GmbAcquires Emerging Implant Technologies Gmbto Enhance Global Offering of Interbody Spine Implants
+Norderstedt, Germany – September 12, 2018 – Johnson & Johnson Medical Devices Companies*, through its subsidiary Johnson & Johnson Medical GmbH, announced today the acquisition of Emerging Implant Technologies Gmb(EIT), a privately held manufacturer of 3D-printed titanium interbody implants for spinal fusion surgery, based in Wurmlingen, Germany. The products in this portfolio leverage EIT’s proprietary advanced cellular titanium, which consists of an open and interconnected porous structure designed to allow bone to grow into the implant. As industry leaders across the full range of orthopaedic and spine specialties, Johnson & Johnson Medical Devices Companies will leverage its global commercial infrastructure to bring EIT’s technologies to patients around the world. 
+08/20/2018
+New National Survey Uncovers the Surprising Impact that Knee and Hip Pain Has on Women’s Emotional Well-Being
+WARSAW, Ind. – August 20, 2018 – While many who suffer from knee or hip pain know that it impacts their everyday activities, results from a new survey show the significant emotional impact of joint pain. This includes impact on romantic and social relationships, ability to pursue hobbies and overall mood. The survey of more than 500 women ages 45-65, including those who have had joint replacement surgery and those planning to have joint replacement surgery, revealed: 
+07/26/2018
+DePuy Synthes Launches Expandable Interbody Implant as Part of a New Procedural Solution for Minimally Invasive Spine Surgery (MIS) that Enhances Surgical Efficiency
+Raynham, – July 26, 2018 – Johnson & Johnson Medical Devices Companies* today announced 
+that DePuy Synthes** is launching the Expandable Interbody Device in the 
+The Implant is designed to treat patients suffering from degenerative disc disease as part of the new offering called (Transforaminal Lumbar Interbody Fusion) Procedural Solution. The complete system includes a comprehensive set of solutions to help simplify key stages of this surgery by enhancing surgical efficiency.
+06/20/2018
+New Suture from DePuy Synthes Designed to Help Address Challenges Associated with Rotator Cuff Surgery
+20, 2018 San Diego, – Johnson & Johnson Medical Devices Companies* through the DePuy Synthes** franchise today announces the launch of Suture to repair soft tissue such as the rotator cuff in the shoulder. Part of the DePuy Synthes Mitek Sports Medicine portfolio, Suture is available on Anchors and adds to DePuy Synthes’ innovative solutions designed to help address unmet patient needs in soft tissue repair. Suture was launched today at the San Diego Shoulder Institute’s 35th Annual Course. 
+Search News & Press
+Search
+Company:
+All Companies
+All Divisions
+Codman & Shurtleff, Inc.
+Corporate Information
+DePuy Mitek, Inc.
+DePuy Orthopaedics, Inc.
+DePuy Spine, Inc.
+Healthcare Professionals
+Year:
+All Years
+Go 
+Media Contacts
+All inquiries can be submitted by email to:
+Media Inquiries
+Careers - Johnson & Johnson 
 Contact Us
-Safe Product Selection
-Legal
-Privacy
-Imprint
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
 Facebook
-Linkedin
-Youtube
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+DePuy Synthes Companies California Compliance
+NOTICE: this information is provided pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765), which requires certain pharmaceutical and medical device companies doing business in California to make available their program for compliance with applicable federal and state laws and industry standards regulating the marketing and promotion of their products
+
+INTRODUCTION
+The Operating Companies of DePuy Synthes, under the legal entity DePuy Orthopaedics, Inc., (the "Company") have established a program designed to materially comply with applicable federal and state laws and industry standards relating to the marketing and promotion of its products. Additionally, the recognizes that adherence to these standards can be furthered through a compliance program that is informed by the Compliance Program Guidance for Pharmaceutical Manufacturers, published by the Office of Inspector General of the Department of Health and Human Services (the "Guide"). The Guide advises that effective compliance programs are comprised of seven elements. As described below, these elements form the basis of the Company's program for compliance with the standards regulating the marketing and promotion of its products.
+II.
+ Overview of Compliance Program
+1. Written Policies and Procedures
+The has written policies to assure substantial compliance with the applicable laws and regulations and standards governing the marketing and promotion of our products. Among these standards are recognized industry codes of conduct including the Code of Ethics on Interactions with Health Care Professionals (AdvaMed Code), published by the Advanced Medical Technology Association ("AdvaMed"). The has established written policies that govern activities involving communicating with customers about the appropriate use of our products including appropriate instruction, education, training, service and technical support required for the safe and effective use of our products. The also has policies governing activities involving the advancement of scientific and educational activities supporting medical research and education. These policies include:
+Policies on Educational Grants and Research Grants
+The may provide grants for specific educational purposes that benefit patients and customers. These may include, but are not limited to, continuing medical and paraprofessional education programs, fellowships provided to teaching institutions and similar organizations with a demonstrated commitment to scientific and technical education, and programs operated by organizations that provide high-quality, nationally recognized patient education. Funding of educational programs will generally be provided only to organizations and institutions and not to individual practitioners.
+Research grants to support customer-initiated research may be provided for programs involving research in areas of legitimate interest to the company. All requests are subject to scientific review prior to funding approval.
+Policy on Charitable Contributions and Patient Assistance
+The will consider charitable contributions and requests for patient assistance in the areas of children's health, health care education, access to health care and community responsibility, consistent with the policies.
+Policy on Travel Expense Reimbursement for CME, Promotional or Product Training Meetings
+The will, with very limited exceptions that are in accordance with nationally recognized standards, not reimburse for travel and lodging expenses of attendees at promotional and educational programs.
+The may reimburse attendees for their reasonable travel and lodging expenses associated with attendance at product training meetings. Product training meetings will be conducted in locations conducive to the exchange of information such as educational or conference settings. Where face-to-face or hands-on customer training is reasonably necessary for the safe and effective use of the Company's medical device products is required, the may provide training at facilities, at independent teaching centers such as medical institutions, or in other appropriate clinical settings.
+Policy on Business Meals
+The may occasionally offer a modest meal, consistent with the standards of the AdvaMed Code as part of an educational presentation or a business discussion. Venues that feature entertainment or recreation, and attendance by spouses or guests, are not permitted.
+Policy on the Provision of Educational and Practice-Related Items
+On occasion, the representatives may provide items that benefit patients or serve a genuine educational function for Health Care Professionals, consistent with the standards of the AdvaMed Code.
+Total Annual Dollar Limit for Meals and Educational or Practice-related Items 
+Each of the Companies, have established an annual limit of $1,500 for meals and educational items as the aggregate value of the items or activities that may be provided to California health care professionals pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765).
+Policy Prohibiting Entertainment
+It is the policy of the not to provide Entertainment (e.g. sporting events, golf outings, concerts, hunting, etc.) to customers.
+2. Assigned Compliance Officer
+The has appointed Health Care Compliance Officers. Our Health Care Compliance Officers have been empowered with appropriate authority to exercise independent judgment and has free and unencumbered access to senior management.
+The has appointed Health Care Compliance Committees. The committees are comprised of the Company's Health Care Compliance Officers and members of the Company's management team.
+3. Training.
+The has an annual Health Care Compliance training process that includes testing and annual certification of appropriate employees. The training covers applicable guidelines governing our compliance program. Employees are also trained on the consequences of failure to comply with the requirements of the company's compliance program.
+4. Communication.
+The encourages open and candid discussion between management and employees regarding any compliance concerns. The employees are encouraged to report their concerns to their manager, to the Human Resources Department, to the Law Department or to the company's Health Care Compliance Officer.
+5. Auditing and Monitoring. 
+The self-assesses and periodically audits its compliance with its policies and procedures.
+6. Enforcement and Disciplinary Guidelines.
+The will take disciplinary actions in response to violation of the company's compliance policies or procedures. The will conduct a fair and diligent investigation of matters that are brought to the company's attention in order to ensure the consistent application of the company's standards.
+7. Responses To Detected Problems and Actions To Correct Issues.
+The requires a prompt and diligent response to potential violations of the company's compliance program, including its standards regulating the marketing and promotion of our products. Actions in response to detected problems may include improving policies, procedures, training, communication and monitoring or may require disciplinary action to prevent future violations.
+For a copy of this California Compliance Program, please call 1-877-889-3636. Provide your name, mailing address and request that a copy of the DePuy Synthes California Compliance program be sent to you.
+LAW
+As part of the Company's ongoing efforts in the area of compliance, we have developed a Comprehensive Compliance Program that is designed to comply with applicable federal and state laws and industry standards relating to the marketing and promotion of our products. To our knowledge as of the date of this declaration, the is in compliance with our Comprehensive Compliance Program, as described here, and with California Health & Safety Code sections 119400-119402.
+Dated: May 1, 2018
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+About DePuy Sysnthes Hero Image
+The DePuy Synthes Companies
+Johnson & Johnson Family of Companies
+.
+
+We offer the world’s most comprehensive portfolio of orthopaedic and neuro products and services for joint reconstruction, trauma, spine, sports medicine, neuro, cranio-maxillofacial, power tools and biomaterials.
+DSUS/MOC/0817/0816 11/2017
+DePuy Synthes Joint Reconstruction
+One of the largest orthopaedics companies in the world, with leading solutions for hip, knee and shoulder replacement.
+DePuy Synthes Trauma
+The global leader in orthopaedic trauma devices for internal and external fixation.
+DePuy Synthes Spine
+Offering one of the world’s most diverse portfolios of spinal-care solutions for both traditional and minimally invasive spine surgery.
+DePuy Synthes Mitek Sports Medicine
+leading developer and manufacturer of pain management and minimally invasive solutions, including sports medicine and soft-tissue repair products.
+DePuy Synthes Power Tools
+Delivering a comprehensive range of power instrument systems, reamers and saws to meet a broad spectrum of clinical needs.
+DePuy Synthes Neuro
+Providing a wide range of solutions for the diagnosis and treatment of neurological disorders focusing on neurovascular, neurosurgery and neuromodulation solutions.
+DePuy Synthes CMF
+Offering systems that provide a complete array of implants and instruments for the treatment of facial trauma, tumor resection and reconstruction.
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Start the conversation now.
+DON'PLAY.
+If hip or knee pain is making you live life on pause, it may be time to talk with a doctor about treatment options. Because life is a lot more fun when you Hit Play!
+We are inspired by the opportunity to work together to advance patient care.
+Johnson & Johnson Medical Devices Companies (JJMDC) advance patient care while delivering clinical and economic value to healthcare systems and helps providers address individual needs through a holistic approach.
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Find a Doctor
+© DePuy Synthes 2014-2018. All Rights Reserved.
+This site is published by the DePuy Synthes Companies, which are solely responsible for its content.
+This site is governed solely by applicable laws and governmental regulations.
+This site is for visitors from the United States.
+The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us

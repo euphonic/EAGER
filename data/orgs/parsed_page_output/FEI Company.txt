@@ -1,174 +1,323 @@
-Detailed reconstructions are now available with modern cryo-EM.
-5N8Kaicircadian clock backbone model based on a Cryo-density
-The History of Cryo-EM
-Cryo-possesses a long history that includes many groups of researchers who contributed to the evolution and revolution of cryo-in equally important ways. It has taken 40+ years of dedicated work for the structural biology community to develop the myriad technological advancements—detectors, automation, software and more—that have made modern cryo-possible. 
-An Introduction to Cryo-EM
-Cryo-Electron Microscopy (Cryo-EM) begins with vitrification, in which the protein solution is cooled so rapidly that water molecules do not have time to crystallize, forming an amorphous solid that does little or no damage to the sample structure (a process known as vitrification). The sample is then screened for particle concentration, distribution and orientation. Next, a series of images is acquired, and two-dimensional classes are computationally extracted. In the final step, the data is processed by reconstruction software, yielding accurate, detailed, 3models of intricate biological structures at the sub-cellular and molecular scales. These models can reveal interactions that were impossible to visualize previously, a key to scientific results.
-Play Video
-captions off, selected
-This is a modal window.
-This video is either unavailable or not supported in this browser
-Error Code: MEDIA_ERR_SRC_NOT_SUPPORTED
-No compatible source was found for this media.
-If you are using an older browser please try upgrading or installing Flash.
-Session ID: 2018-12-25:c53dc13150fe9e6278a5b Player ID: vjs_video_3
-OK
-Close Modal Dialog
-Caption Settings Dialog
-Beginning of dialog window. Escape will cancel and close the window.
-Text
-Color
+Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+News and Press
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+News and Press
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
 Transparency
-Background
-Color
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+Our Latest News
+10/16/2018
+DePuy Synthes Announces Agreement with Ortho Development® Corporation to Promote its KASM® Knee Articulating Spacer Mold 
+16, 2018 Warsaw, – Johnson & Johnson Medical Devices Companies* today announced that DePuy Synthes Sales, Inc. has entered into an exclusive agreement with Ortho Development® Corporation to co-promote in the its KASM® Knee Articulating Spacer Mold. This is a sterile, disposable cement spacer mold for patients who develop an infection after primary knee replacement. This new offering builds upon DePuy Synthes’** commitment to innovative knee solutions focused on helping patients along the care continuum.
+09/26/2018
+DePuy Synthes Expands Spine Portfolio with Nerve Assessment Platform  Designed to Identify & Avoid Nerves During Spine Surgery 
+Los Angeles – September 26, 2018 – Johnson & Johnson Medical Devices Companies* announced today that DePuy Synthes** is introducing MMG, a first-of-its-kind digital mechanomyography platform designed to assess nerve status and identify and avoid peripheral nerves during spine surgery. enables motor nerve monitoring for a variety of spine procedures, including non-fusion procedures such as discectomy and both minimally invasive (MIS) and open spinal fusion surgery.  is being broadly introduced at the 2018 North America Spine Society Meeting in Los Angeles, California. 
+09/12/2018
+Johnson & Johnson Medical GmbAcquires Emerging Implant Technologies Gmbto Enhance Global Offering of Interbody Spine Implants
+Norderstedt, Germany – September 12, 2018 – Johnson & Johnson Medical Devices Companies*, through its subsidiary Johnson & Johnson Medical GmbH, announced today the acquisition of Emerging Implant Technologies Gmb(EIT), a privately held manufacturer of 3D-printed titanium interbody implants for spinal fusion surgery, based in Wurmlingen, Germany. The products in this portfolio leverage EIT’s proprietary advanced cellular titanium, which consists of an open and interconnected porous structure designed to allow bone to grow into the implant. As industry leaders across the full range of orthopaedic and spine specialties, Johnson & Johnson Medical Devices Companies will leverage its global commercial infrastructure to bring EIT’s technologies to patients around the world. 
+08/20/2018
+New National Survey Uncovers the Surprising Impact that Knee and Hip Pain Has on Women’s Emotional Well-Being
+WARSAW, Ind. – August 20, 2018 – While many who suffer from knee or hip pain know that it impacts their everyday activities, results from a new survey show the significant emotional impact of joint pain. This includes impact on romantic and social relationships, ability to pursue hobbies and overall mood. The survey of more than 500 women ages 45-65, including those who have had joint replacement surgery and those planning to have joint replacement surgery, revealed: 
+07/26/2018
+DePuy Synthes Launches Expandable Interbody Implant as Part of a New Procedural Solution for Minimally Invasive Spine Surgery (MIS) that Enhances Surgical Efficiency
+Raynham, – July 26, 2018 – Johnson & Johnson Medical Devices Companies* today announced 
+that DePuy Synthes** is launching the Expandable Interbody Device in the 
+The Implant is designed to treat patients suffering from degenerative disc disease as part of the new offering called (Transforaminal Lumbar Interbody Fusion) Procedural Solution. The complete system includes a comprehensive set of solutions to help simplify key stages of this surgery by enhancing surgical efficiency.
+06/20/2018
+New Suture from DePuy Synthes Designed to Help Address Challenges Associated with Rotator Cuff Surgery
+20, 2018 San Diego, – Johnson & Johnson Medical Devices Companies* through the DePuy Synthes** franchise today announces the launch of Suture to repair soft tissue such as the rotator cuff in the shoulder. Part of the DePuy Synthes Mitek Sports Medicine portfolio, Suture is available on Anchors and adds to DePuy Synthes’ innovative solutions designed to help address unmet patient needs in soft tissue repair. Suture was launched today at the San Diego Shoulder Institute’s 35th Annual Course. 
+Search News & Press
+Search
+Company:
+All Companies
+All Divisions
+Codman & Shurtleff, Inc.
+Corporate Information
+DePuy Mitek, Inc.
+DePuy Orthopaedics, Inc.
+DePuy Spine, Inc.
+Healthcare Professionals
+Year:
+All Years
+Go 
+Media Contacts
+All inquiries can be submitted by email to:
+Media Inquiries
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
 Transparency
-Window
-Color
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
 Transparency
-Close Modal Dialog
-This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
-Close Modal Dialog
-This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
-Cryo-structures of tau filaments from Alzheimer's disease.
-The Rise of Cryo-EM
-One of the greatest advantages of cryo-relative to conventional structural biology techniques is its ability to analyze large, complex and flexible structures. Oftentimes these cannot be crystallized for X-ray crystallography (XRD) or are too large and complex for nuclear magnetic resonance (NMR) spectroscopy. These include many biologically important proteins, especially those with variable or flexible structures like membrane proteins. The established methods for structure determination, and NMR, are now routinely integrated with cryo-density maps to achieve atomic-resolution models of complex, dynamic molecular assemblies.
-Since the first model based on cryo-reconstruction was deposited with the (Protein Data Bank) in 1997, the number of deposited structures has grown exponentially. Cryo-was responsible for entries to the surpassing 1,000 in 2016, with a quarter of all entries deposited that year alone. Many of these most recent depositions include critical macromolecular assemblies previously thought impervious to structure determination.
-2017 Nobel Peace Prize for Chemistry
-The Nobel Prize in Chemistry 2017 was awarded to three researchers who had spent decades advancing cryo-EM:
-In 1975, Joachim Frank began work on the algorithms that would analyze fuzzy 2images and reconstruct them into sharp 3structures. 
-In the early 1980s, Jacques Dubochet succeeded in vitrifying water, which allowed the biomolecules to retain their shape in a vacuum.
-In 1990, Richard Henderson was the first to use an electron microscope to generate a 3image of a protein at atomic resolution.
-Congratulations to Dr. Jacques Dubochet, Dr. Joachim Frank, and Dr. Richard Henderson.  We are extremely proud of what these researchers and the structural biology community have achieved.
-Resolution Revolution
-Cryo-now regularly breaks the 3Å barrier, allowing for high-resolution solving of structures that are impossible (or nearly so) with the traditional techniques of and Thermo Fisher Scientific pioneered this modern “ Resolution Revolution ” era of cryo-with its introduction of the Titan Krios™ transmission electron microscope in 2008. Recent technological advancements in the microscope design and imaging hardware, along with     enhanced image processing and automation, have helped to catapult the technique’s success. Many leading scientists have recently adopted the technique as one of the most critical tools in their laboratory. This increase in adoption, along with an     unprecedented sharp rise in associated publications, led to Nature Methods naming cryo-as its Method of the Year for 2015 .
-Data courtesy of National University of Singapore.
-Scientific Results
-Cryo-has enabled researchers to define the world’s first protein structures for human ataxia telangiectasia mutated (ATM). is a key trigger protein in the damage response and a prime therapeutic target in cancer research. The research could     prove invaluable in developing new cancer drugs. Science Advances, May 10, 2017 .
-Researchers have used cryo-to determine the ternary complex structure of the calcitonin receptor for a class protein-coupled receptor (GPCR), an important membrane protein complex that has been difficult to analyze by other means. Nature, June 1, 2017 .
-The Thermo Scientific™ Krios Cryo-and Workflow have enabled researchers to more clearly resolve the structure of several viruses, including HIV, Zika, Ebola and rhinovirus PNA, August 9, 2016
-Thermo Fisher Scientific's Solutions for Cryo-EM
-Single Particle Analysis Workflow
-The Challenges of Protein Complex Analysis
-Drug development at the pace requested by today's society requires the study of molecular mechanisms as close as possible to in vivo at high resolution. Until recently, the main technique available to achieve high resolution structures of biological molecules     was crystallography.
-Cryo-EM, the Nature 2015 Method of the Year, is now able to solve near-atomic-resolution structures with volume and clarity. Using Cryo-to understand molecular structures such as proteins, protein complexes, and protein-ribonucleic acid associations-the     fundamental building blocks of life-will lead to wide scale pharmaceutical solutions for treating diseases and disorders.
-The new Thermo Scientific™ Krios™ G3i Cryo Transmission Electron Microscope (Cryo-TEM) enables life science researchers to unravel life at the molecular level—easier, faster, and more reliably than ever before. Its highly stable 300 kplatform and     industry-leading Autoloader (cryogenic sample manipulation robot) are designed for automated applications, such as single particle analysis (SPA) and cryo-tomography. Designed-in connectivity ensures a robust and risk-free pathway throughout the entire     workflow, from sample preparation and optimization to image acquisition and data processing.
-1.
-Heuer, Gerovac, Schmidt, Trowitzsch, Preis, Kötter, Berninghausen, Becker, Beckmann, Tampé   (2017)   Structure of the 40S-ABCE1 post-splitting complex in ribosome recycling and translation initiation.   Nature structural & molecular biology   
-Structure of the 40S-ABCE1 post-splitting complex in ribosome recycling and translation initiation.
-Heuer, Gerovac, Schmidt, Trowitzsch, Preis, Kötter, Berninghausen, Becker, Beckmann, Tampé
-The essential ATP-binding cassette protein ABCE1 splits 80ribosomes into 60and 40subunits after canonical termination or quality-control-based msurveillance processes. However, the underlying splitting mechanism remains enigmatic. Here, we present a cryo-structure of the yeast 40S-ABCE1 post-splitting complex at 3.9-Å resolution. Compared to the pre-splitting state, we observe repositioning of ABCE1's iron-sulfur cluster domain, which rotates 150° into a binding pocket on the 40subunit. This repositioning explains a newly observed anti-association activity of ABCE1. Notably, the movement implies a collision with A-site factors, thus explaining the splitting mechanism. Disruption of key interactions in the post-splitting complex impairs cellular homeostasis. Additionally, the structure of a native post-splitting complex reveals ABCE1 to be part of the 43initiation complex, suggesting a coordination of termination, recycling, and initiation.
-2.
-van Pee, Neuhaus, D'Imprima, Mills, Kühlbrandt, Ö. Yildiz   (2017)   Cryostructures of membrane pore and prepore complex reveal cytolytic mechanism of Pneumolysin.   eLife   6
-Cryostructures of membrane pore and prepore complex reveal cytolytic mechanism of Pneumolysin.
-van Pee, Neuhaus, D'Imprima, Mills, Kühlbrandt, Ö. Yildiz
-Many pathogenic bacteria produce pore-forming toxins to attack and kill human cells. We have determined the 4.5 Å structure of the ~2.2 MDa pore complex of pneumolysin, the main virulence factor of Streptococcus pneumoniae, by cryoThe pneumolysin pore is a 400 Å ring of 42 membrane-inserted monomers. Domain D3 of the soluble toxin refolds into two ~85 Å β-hairpins that traverse the lipid bilayer and assemble into a 168-strand β-barrel. The pore complex is stabilized by salt bridges between β-hairpins of adjacent subunits and an internal α-barrel. The apolar outer barrel surface with large sidechains is immersed in the lipid bilayer, while the inner barrel surface is highly charged. Comparison of the cryopore complex to the prepore structure obtained by electron cryo-tomography and the x-ray structure of the soluble form reveals the detailed mechanisms by which the toxin monomers insert into the lipid bilayer to perforate the target membrane.
-3.
-Škubník, Nováček, Füzik, Přidal, Paxton, Plevka   (2017)   Structure of deformed wing virus, a major honey bee pathogen.   Proceedings of the National Academy of Sciences of the United States of America   114
-Structure of deformed wing virus, a major honey bee pathogen.
-Škubník, Nováček, Füzik, Přidal, Paxton, Plevka
-The worldwide population of western honey bees (Apis mellifera) is under pressure from habitat loss, environmental stress, and pathogens, particularly viruses that cause lethal epidemics. Deformed wing virus (DWV) from the family Iflaviridae, together with its vector, the mite Varroa destructor, is likely the major threat to the world's honey bees. However, lack of knowledge of the atomic structures of iflaviruses has hindered the development of effective treatments against them. Here, we present the virion structures of determined to a resolution of 3.1 Å using cryo-electron microscopy and 3.8 Å by X-ray crystallography. The C-terminal extension of capsid protein VP3 folds into a globular protruding (P) domain, exposed on the virion surface. The domain contains an Asp-His-Ser catalytic triad that is, together with five residues that are spatially close, conserved among iflaviruses. These residues may participate in receptor binding or provide the protease, lipase, or esterase activity required for entry of the virus into a host cell. Furthermore, nucleotides of the genome interact with VP3 subunits. The capsid protein residues involved in the binding are conserved among honey bee iflaviruses, suggesting a putative role of the genome in stabilizing the virion or facilitating capsid assembly. Identifying the RNA-binding and putative catalytic sites within the virion structure enables future analyses of how and other iflaviruses infect insect cells and also opens up possibilities for the development of antiviral treatments.
-4.
-Engel, Gubbey, Neyer, Sainsbury, Oberthuer, Baejen, Bernecky, Cramer   (2017)   Structural Basis of Polymerase Transcription Initiation.   Cell   169
-Structural Basis of Polymerase Transcription Initiation.
-Engel, Gubbey, Neyer, Sainsbury, Oberthuer, Baejen, Bernecky, Cramer
-Transcription initiation at the ribosomal promoter requires polymerase (Pol) and the initiation factors Rrn3 and core factor (CF). Here, we combine X-ray crystallography and cryo-electron microscopy (cryo-EM) to obtain a molecular model for basal Pol initiation. The three-subunit binds upstream promoter DNA, docks to the Pol I-Rrn3 complex, and loads into the expanded active center cleft of the polymerase. unwinding between the Pol protrusion and clamp domains enables cleft contraction, resulting in an active Pol conformation and synthesis. Comparison with the Pol system suggests that promoter specificity relies on a distinct "bendability" and "meltability" of the promoter sequence that enables contacts between initiation factors, DNA, and polymerase.
-5.
-Gu, Wu, Guo, Yan, Lei, Gao, Yang   (2016)   The architecture of the mammalian respirasome.   Nature   537
-The architecture of the mammalian respirasome.
-Gu, Wu, Guo, Yan, Lei, Gao, Yang
-Prefusion structure of MERS-Cospike glycoprotein, conformation 2
-Author: Yuan, et al.
-Taken on a at 3.2 Å resolution
-Structure of SARS-Cospike glycoprotein
-Author: Gui, et al.
-Taken on a at 3.8 Å resolution
-Nucleosome : Class 1
-Taken on a at 3.7 Å resolution
-Life in the extremes: atomic structure of Sulfolobus Turreted Icosahedral Virus
-Author: Veesler, et al.
-Taken on a at 4.5 Å resolution
-Cryo-structure of Dengue virus serotype 3 at 28 degrees C
-Author: Fibriansah, et al.
-Taken on a at 6.0 Å resolution
-Structure of beta-galactosidase at 3.2-resolution obtained by cryo-electron microscopy
-Author: Bartesaghi, et al.
-Taken on a at 3.2 Å resolution
-Cryosingle particle reconstruction of anthrax toxin protective antigen pore at 2.9 Angstrom resolution
-Author: Jiang, et al.
-Taken on a at 2.9 Å resolution
-Atomic structure of a non-enveloped virus reveals psensors for a coordinated process of cell entry
-Author: Zhang, et al.
-Taken on a at 3.3 Å resolution
-Structure of alpha-1 glycine receptor by single particle electron cryo-microscopy, strychnine-bound state
-Author: Du, et al.
-Taken on a at 3.9 Å resolution
-Electron cryo-microscopy of the IST1-CHMP1ESCRT-copolymer
-Author: McCullough, et al.
-Taken on a at 4.0 Å resolution
-Structure of Escherichia coli EF4 in posttranslocational ribosomes (Post EF4)
-Author: Zhang, et al.
-Taken on a at 3.700 Å resolution
-Cryo-structure of the magnesium channel Corin the closed symmetric magnesium-bound state
-Author: Matthies, et al.
-Taken on a at 3.8 Å resolution
-Structure of the yeast 60ribosomal subunit in complex with Arx1, Alb1 and C-terminally tagged Rei1
-Author: Greber, et al.
-Taken on a at 3.410 Å resolution
-Structure of a Chaperone-Usher pilus reveals the molecular basis of rod uncoilin
-Author: Hospenthal, et al.
-Taken on a at 3.8 Å resolution
-Cryo-structure of the flagellar hook of Campylobacter jejuni
-Author: Matsunami, et al.
-Taken on a at 3.5 Å resolution
-Structure of F-ATPase from Pichia angusta, state1
-Author: Vinothkumar, et al.
-Taken on a at 7 Å resolution
-Cryo-structure of a BG505 Env-sCD4-17b-8ANC195 complex
-Author: Wang, et al.
-Taken on a at 8.9 Å resolution
-Ca2+ bound aplysia Slo1
-Taken on a at 3.8 Å resolution
-Dephosphorylated, ATP-free cystic fibrosis transmembrane conductance regulator (CFTR) from zebrafish
-Author: Zhang, et al.
-Taken on a at 3.73 Å resolution
-The 2.8 Electron Microscopy Structure of Adeno-Associated Virus-Bound by a Heparanoid Pentasaccharide
-Author: Xie, et al.
-Taken on a at 2.8 Å resolution
-Volta phase plate cryo-electron microscopy structure of a calcitonin receptor-heterotrimeric Gs protein complex
-Author: Liang, et al.
-Taken on a at 4.1 Å resolution
-Cryo-structure of the human ether-a-go-go related K+ channel
-Author: Wang, et al.
-Taken on a at 3.7 Å resolution
-Cryostructure of type secretion system secretin Gspin E.coli K12
-Author: Yan, et al.
-Taken on a at 3.04 Å resolution
-Structure of a Pancreatic ATP-sensitive Potassium Channel
-Author: Li, et al.
-Taken on a at 5.6 Å resolution
-The resting state of yeast proteasome
-Author: Ding, et al.
-Taken on a at 6.3 Å resolution
-Structure of a eukaryotic voltage-gated sodium channel at near atomic resolution
-Author: Shen, et al.
-Taken on a at 3.8 Å resolution
-Prefusion structure of MERS-Cospike glycoprotein, three-fold symmetry
-Author: Yuan, et al.
-Taken on a at 3.2 Å resolution
-Prefusion structure of MERS-Cospike glycoprotein, conformation 2
-Author: Yuan, et al.
-Taken on a at 3.2 Å resolution
-Structure of SARS-Cospike glycoprotein
-Author: Gui, et al.
-Taken on a at 3.8 Å resolution
-Nucleosome : Class 1
-Taken on a at 3.7 Å resolution
-Life in the extremes: atomic structure of Sulfolobus Turreted Icosahedral Virus
-Author: Veesler, et al.
-Taken on a at 4.5 Å resolution
-Cryo-structure of Dengue virus serotype 3 at 28 degrees C
-Author: Fibriansah, et al.
-Taken on a at 6.0 Å resolution
-Structure of beta-galactosidase at 3.2-resolution obtained by cryo-electron microscopy
-Author: Bartesaghi, et al.
-Taken on a at 3.2 Å resolution
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+DePuy Synthes Companies California Compliance
+NOTICE: this information is provided pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765), which requires certain pharmaceutical and medical device companies doing business in California to make available their program for compliance with applicable federal and state laws and industry standards regulating the marketing and promotion of their products
+
+INTRODUCTION
+The Operating Companies of DePuy Synthes, under the legal entity DePuy Orthopaedics, Inc., (the "Company") have established a program designed to materially comply with applicable federal and state laws and industry standards relating to the marketing and promotion of its products. Additionally, the recognizes that adherence to these standards can be furthered through a compliance program that is informed by the Compliance Program Guidance for Pharmaceutical Manufacturers, published by the Office of Inspector General of the Department of Health and Human Services (the "Guide"). The Guide advises that effective compliance programs are comprised of seven elements. As described below, these elements form the basis of the Company's program for compliance with the standards regulating the marketing and promotion of its products.
+II.
+ Overview of Compliance Program
+1. Written Policies and Procedures
+The has written policies to assure substantial compliance with the applicable laws and regulations and standards governing the marketing and promotion of our products. Among these standards are recognized industry codes of conduct including the Code of Ethics on Interactions with Health Care Professionals (AdvaMed Code), published by the Advanced Medical Technology Association ("AdvaMed"). The has established written policies that govern activities involving communicating with customers about the appropriate use of our products including appropriate instruction, education, training, service and technical support required for the safe and effective use of our products. The also has policies governing activities involving the advancement of scientific and educational activities supporting medical research and education. These policies include:
+Policies on Educational Grants and Research Grants
+The may provide grants for specific educational purposes that benefit patients and customers. These may include, but are not limited to, continuing medical and paraprofessional education programs, fellowships provided to teaching institutions and similar organizations with a demonstrated commitment to scientific and technical education, and programs operated by organizations that provide high-quality, nationally recognized patient education. Funding of educational programs will generally be provided only to organizations and institutions and not to individual practitioners.
+Research grants to support customer-initiated research may be provided for programs involving research in areas of legitimate interest to the company. All requests are subject to scientific review prior to funding approval.
+Policy on Charitable Contributions and Patient Assistance
+The will consider charitable contributions and requests for patient assistance in the areas of children's health, health care education, access to health care and community responsibility, consistent with the policies.
+Policy on Travel Expense Reimbursement for CME, Promotional or Product Training Meetings
+The will, with very limited exceptions that are in accordance with nationally recognized standards, not reimburse for travel and lodging expenses of attendees at promotional and educational programs.
+The may reimburse attendees for their reasonable travel and lodging expenses associated with attendance at product training meetings. Product training meetings will be conducted in locations conducive to the exchange of information such as educational or conference settings. Where face-to-face or hands-on customer training is reasonably necessary for the safe and effective use of the Company's medical device products is required, the may provide training at facilities, at independent teaching centers such as medical institutions, or in other appropriate clinical settings.
+Policy on Business Meals
+The may occasionally offer a modest meal, consistent with the standards of the AdvaMed Code as part of an educational presentation or a business discussion. Venues that feature entertainment or recreation, and attendance by spouses or guests, are not permitted.
+Policy on the Provision of Educational and Practice-Related Items
+On occasion, the representatives may provide items that benefit patients or serve a genuine educational function for Health Care Professionals, consistent with the standards of the AdvaMed Code.
+Total Annual Dollar Limit for Meals and Educational or Practice-related Items 
+Each of the Companies, have established an annual limit of $1,500 for meals and educational items as the aggregate value of the items or activities that may be provided to California health care professionals pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765).
+Policy Prohibiting Entertainment
+It is the policy of the not to provide Entertainment (e.g. sporting events, golf outings, concerts, hunting, etc.) to customers.
+2. Assigned Compliance Officer
+The has appointed Health Care Compliance Officers. Our Health Care Compliance Officers have been empowered with appropriate authority to exercise independent judgment and has free and unencumbered access to senior management.
+The has appointed Health Care Compliance Committees. The committees are comprised of the Company's Health Care Compliance Officers and members of the Company's management team.
+3. Training.
+The has an annual Health Care Compliance training process that includes testing and annual certification of appropriate employees. The training covers applicable guidelines governing our compliance program. Employees are also trained on the consequences of failure to comply with the requirements of the company's compliance program.
+4. Communication.
+The encourages open and candid discussion between management and employees regarding any compliance concerns. The employees are encouraged to report their concerns to their manager, to the Human Resources Department, to the Law Department or to the company's Health Care Compliance Officer.
+5. Auditing and Monitoring. 
+The self-assesses and periodically audits its compliance with its policies and procedures.
+6. Enforcement and Disciplinary Guidelines.
+The will take disciplinary actions in response to violation of the company's compliance policies or procedures. The will conduct a fair and diligent investigation of matters that are brought to the company's attention in order to ensure the consistent application of the company's standards.
+7. Responses To Detected Problems and Actions To Correct Issues.
+The requires a prompt and diligent response to potential violations of the company's compliance program, including its standards regulating the marketing and promotion of our products. Actions in response to detected problems may include improving policies, procedures, training, communication and monitoring or may require disciplinary action to prevent future violations.
+For a copy of this California Compliance Program, please call 1-877-889-3636. Provide your name, mailing address and request that a copy of the DePuy Synthes California Compliance program be sent to you.
+LAW
+As part of the Company's ongoing efforts in the area of compliance, we have developed a Comprehensive Compliance Program that is designed to comply with applicable federal and state laws and industry standards relating to the marketing and promotion of our products. To our knowledge as of the date of this declaration, the is in compliance with our Comprehensive Compliance Program, as described here, and with California Health & Safety Code sections 119400-119402.
+Dated: May 1, 2018
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+About DePuy Sysnthes Hero Image
+The DePuy Synthes Companies
+Johnson & Johnson Family of Companies
+.
+
+We offer the world’s most comprehensive portfolio of orthopaedic and neuro products and services for joint reconstruction, trauma, spine, sports medicine, neuro, cranio-maxillofacial, power tools and biomaterials.
+DSUS/MOC/0817/0816 11/2017
+DePuy Synthes Joint Reconstruction
+One of the largest orthopaedics companies in the world, with leading solutions for hip, knee and shoulder replacement.
+DePuy Synthes Trauma
+The global leader in orthopaedic trauma devices for internal and external fixation.
+DePuy Synthes Spine
+Offering one of the world’s most diverse portfolios of spinal-care solutions for both traditional and minimally invasive spine surgery.
+DePuy Synthes Mitek Sports Medicine
+leading developer and manufacturer of pain management and minimally invasive solutions, including sports medicine and soft-tissue repair products.
+DePuy Synthes Power Tools
+Delivering a comprehensive range of power instrument systems, reamers and saws to meet a broad spectrum of clinical needs.
+DePuy Synthes Neuro
+Providing a wide range of solutions for the diagnosis and treatment of neurological disorders focusing on neurovascular, neurosurgery and neuromodulation solutions.
+DePuy Synthes CMF
+Offering systems that provide a complete array of implants and instruments for the treatment of facial trauma, tumor resection and reconstruction.
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Start the conversation now.
+DON'PLAY.
+If hip or knee pain is making you live life on pause, it may be time to talk with a doctor about treatment options. Because life is a lot more fun when you Hit Play!
+We are inspired by the opportunity to work together to advance patient care.
+Johnson & Johnson Medical Devices Companies (JJMDC) advance patient care while delivering clinical and economic value to healthcare systems and helps providers address individual needs through a holistic approach.
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Find a Doctor
+© DePuy Synthes 2014-2018. All Rights Reserved.
+This site is published by the DePuy Synthes Companies, which are solely responsible for its content.
+This site is governed solely by applicable laws and governmental regulations.
+This site is for visitors from the United States.
+The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us

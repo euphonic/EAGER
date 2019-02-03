@@ -1,1102 +1,323 @@
-Search
-ENTERPRISE
-BUSINESS
-PARTNERNET
-NORTON
-LIFELOCK
-Products & Services
-Products & Services Home
-Products A-Z
-Integrated Cyber Defense
-Integrated Cyber Defense
-Advanced Threat Protection
-Advanced Threat Protection
-Information Protection
-Information Protection
-Endpoint Security
-Endpoint Security
-Email Security
-Email Security
-Network Security
-Network Security
-Cloud Security
-Cloud Security
-Services
-Services
-Business Security
-Business Security
-BRANDS
-Norton
-LifeLock
-Analytics
-DigiCert Website Security
-Norton
-LifeLock
-Analytics
-DigiCert Website Security
-Integrated Cyber Defense
-Integrated Cyber Defense
-Core Services
-Advanced Threat Protection
-Information Protection
-Control Points
-Endpoint Security
-Email Security
-Network Security
-Cloud Security
-The cloud is full of risk. Your security posture shouldn't be.
-Our Integrated Cyber Defense Platform lets you focus on your priorities — digital transformations, supply chain security, cloud migration, you name it — knowing you are protected from end to end
-Learn More
-Advanced Threat Protection
-Advanced Threat Protection
-Endpoint Protection Family 
-Endpoint Detection and Response (EDR)
-Email Security
-Advanced Threat Protection for Email
-Hybrid Cloud Security Family
-Encrypted Traffic Management Family
-Secure Web Gateway Family
-Content & Malware Analysis
-Network Forensics & Security Analytics
-Web Isolation
-WebFilter / Intelligence Services
-Web Application Firewall & Reverse Proxy
-11 Times Running*, Gartner Magic Quadrant Leader for Secure Web Gateways
-Read the Report
-Information Protection
-Information Protection
-Family
-Data Loss Prevention
-Data Loss Prevention Cloud & CloudSOC
-Data Loss Prevention Cloud Service for Email
-Information Centric Security Family
-Information Centric Analytics
-Information Centric Tagging
-Information Centric Encryption
-Identity Family
-VIP
-Access Manager
-Encryption Family
-Endpoint Encryption
-Gateway Email Encryption
-Accelerate Your Readiness with The for Dummies guide
-Read the Guide
-Endpoint Security
-Endpoint Security
-Endpoint Protection Family
-Endpoint Protection
-Endpoint Detection and Response (EDR)
-Advanced Threat Protection
-Endpoint Protection Cloud
-Endpoint Protection Mobile
-Endpoint Protection Small Business Edition
-Protection Suite Enterprise Edition
-Risk Insight
-Family
-Hybrid Cloud Security Family
-Storage Protection
-Cloud Workload Protection
-Data Center Security
-Endpoint Management Family
-Client Management Suite
-Server Management Suite
-Asset Management Suite
-Ghost Solution Suite
-Highest Execution and Furthest Vision in 2018 Gartner for Endpoint Protection
-Read the Report
-Email Security
-Email Security
-Messaging Gateway
-Advanced Threat Protection for Email
-Phishing Readiness
-Mail Security for Microsoft Exchange
-Family
-Data Loss Prevention Cloud Service for Email
-Encryption Family
-Desktop Email Encryption
-Gateway Email Encryption
-Email is still the #1 attack vector—and it’s your job to secure Office 365. Now What?
-View the Checklist
-Network Security
-Network Security
-Secure Web Gateway Family
-Web Security Services
-Proxyand Advanced Secure Gateway
-Web Isolation
-Content & Malware Analysis
-WebFilter / Intelligence Services
-Web Application Firewall & Reverse Proxy
-Management Center and Reporting
-Encrypted Traffic Management Family
-Visibility Appliance
-Network Performance Optimization Family
-CacheFlow
-MACH5 – Optimization
-PacketShaper
-Cloud Access Security Broker (CASB) Family
-Family
-Identity Family
-Web Security is a Top Player in the Radicati Market Quadrant
-Read the Report
-Cloud Security
-Cloud Security
-Cloud Access Security Broker (CASB) Family
-Cloud Data Protection and Security
-CloudAudit – Shadow IT
-CloudGateway
-Cloudfor SaaS
-Cloudfor IaaS
-Hybrid Cloud Security Family
-Cloud Workload Protection
-Control Compliance Suite
-Storage Protection
-Secure Web Gateway Family
-Web Security Services
-Web Isolation
-Malware Analysis Service
-Trusted Mobile Device Security Service
-Web Application Firewall & Reverse Proxy
-Family
-Data Loss Prevention Cloud and CloudSOC
-Data Loss Prevention Cloud Service for Email
-Email Security Family
-Advanced Threat Protection for Email
-Identity Family
-VIP
-Security without compromise: the broadest, deepest protection for the public cloud
-Learn More
-Services
-Services
-Cyber Security Services
-Managed Security Services - Threat Monitoring
-DeepSight Intelligence
-Technical Intelligence
-Adversary Intelligence
-Incident Response Services
-Emergency Response
-Retainers and Response Readiness
-Other Services
-Consulting Services
-Education Services
-Premium Support
-Discover Why
-14 Times a Leader in the Gartner Magic Quadrant
-Read the Report
-Business Security
-Business Security
-Products
-Endpoint Protection Cloud
-Endpoint Protection Cloud Server
-Drive Encryption
-Endpoint Protection Small Business Edition
-Pricing
-Learn
-My Account
-Shop Online
-Welcome to the New Business Security Experience!
-Shopping for the right business products and managing your account is now easier than ever.
-Shop Now
-Solutions
-Solutions Home
-Topics
-Topics
-Industries 
-Industries 
-Government
-Government
-Cloud
-Cloud
-Topics
-Topics
-Advanced Threat Protection 
-Cloud Security
-Election Security
-& Data Privacy 
-Internet of Things (IoT) Security
-Office 365 Security 
-Zero Trust Security
-Internet of Things (IOT) Security
-Unveiling the industry’s first neural network to protect critical infrastructure from cyber warfare
-Learn More 
-Email is still the #1 attack vector—and it’s your job to secure Office 365. Now What?
-View the Checklist
-Industry Solutions
-Industry Solutions
-Automotive
-Education
-Financial Services
-Global Service Providers
-Industrial Control Systems
-Healthcare
-Retail
-Cyber Security and Healthcare: An Evolving Understanding of Risk
-An Executive Healthcare Summary for Healthcare Professionals
-Read the Summary
-Government Solutions
-Government Solutions
-Federal Government
-State & Local
-Election Security 2018
-The good news? It’s not too late to take basic steps to preserve the integrity of our elections—right now
-Learn More
-Cloud Solutions
-Cloud Solutions
-Amazon Web Services
-Oracle Cloud
-Security Best Practices Guide and Configuration Checklist
-has worked together with to develop an essential guide to security
-Download Now
-Support Center
-Support Center Home
-Technical Support 
-Technical Support 
-Connect 
-Connect 
-Manage Your Product
-Manage Your Product
-Training 
-Training 
-Norton Support
-Technical Support 
-Technical Support 
-Product A-Z
-MyLicensing Portal
-Connect User Community
-peer-to-peer community for business customers, partners, and employees
-Join the Conversation
-Connect 
-Forums
-Blogs
-User Groups
-How to Find a Product Forum
-This two-step guide helps you find product support and information in the Connect user community
-Read the Guide
-Manage Your Product
-Maintenance
-Licensing Information
-Getting Started
-Renewals
-Software Upgrades
-Policies
-Connect User Community
-peer-to-peer community for business customers, partners, and employees
-Join the Conversation
-Training 
-Training Courses
-Certification
-E-Library
-Security Awareness Service
-Certification
-Validate your investment in training and experience, and boost your credibility today
-Learn More
-Security Center
-Security Center Home
-Updates 
-Updates 
-Advisories 
-Advisories 
-Publications
-Publications
-Tools 
-Tools 
-Topics 
-Topics 
-Updates 
-Updates 
-Virus Definitions & Updates
-Threats
-Risks
-Vulnerabilities
-Cyber Security Predictions: 2019 and Beyond
-The trends and activities most likely to affect your organization in the coming year
-Read the Blog
-Advisories 
-Advisories 
-Security Advisories
-Analysis from Symantec’s Global Threat Intelligence Team
-Unparalleled understanding and commentary on the cyber threats affecting businesses today
-Stay Informed
-Publications
-Publications
-ISTR
-Blogs
-Monthly Threat Report
-Endpoint Protection Mobile Threat Reports
-Security White Papers
-Research Labs
-Cyber Security Brief Podcast
-Cyber Security news and analysis by threat researchers
-Listen and Subscribe
-Tools 
-Tools 
-Removal Tools
-Spyware Removal
-Treating Infected Systems
-Legitimate Files in Quarantine
-Cyber Security Brief Podcast
-Cyber Security news and analysis by threat researchers
-Listen and Subscribe
-Topics 
-Topics 
-Ransomware
-Cyber Security Predictions: 2019 and Beyond
-The trends and activities most likely to affect your organization in the coming year
-Read the Blog
-Blogs
-Blogs Home
-Blogs
-Blogs
-Categories
-Categories
-Threat Intelligence
-Featured Stories
-Expert Perspectives
-Product Insights
-Corporate Responsibility
-Diversity & Inclusion
-Connect
-Cyber Security Predictions: 2019 and Beyond
-The trends and activities most likely to affect your organization in the coming year
-Read the Blog
-Partner
-Partners Home
-Partner with Partner with PartnerNet
-PartnerNet
-TIPP
-TIPP
-Partner with Partner with Find a Partner
-Enroll in a Partner Program
-Partner Programs
-Product Resources for Partners
-Sign in to PartnerNet
-Sign in to TIPP
-Contact Partner Service
-Contact Partner Service with questions about partnering opportunities and your existing business with Learn More
-PartnerNet
-PartnerNet
-My Dashboard
-Products
-Marketing
-Partner Support Center
-Training
-Other Resources
-Financial Benefits
-Partner Licensing
-Partner Renewal
-Infrastructure Attacks and Stealthy Mining—Threats Go Big and Small
-Read the Report
-TIPP
-TIPP
-My Dashboard
-Marketing
-Support Center
-Infrastructure Attacks and Stealthy Mining—Threats Go Big and Small
-Read the Report
-United States / English
- Sign In/Register
-My Account
-Log out
-About
-About sees more threats, and protects more customers from the next generation of attacks. Learn about the company, read what media and analysts have to say about Symantec, or find positions open in our team.
-Corporate Profile
-Trusted by individuals and companies around the world.
-Management Team
-Business Overview
-Technology Overview
-Experience Center
-Corporate Responsibility
-Learn how we make the world a better and safer place.
-Our Approach
-Our People
-Your Information
-The World
-News Room
-press releases and media resources.
-Press Releases
-Product News
-Media Contacts
-Digital Asset Gallery
-Press Kits
-Investor Relations
-News, events, quarterly results, investor resources and more.
-News & Events
-Financial & Stock Info
-Investor Resources
-Corporate Governance
-Analyst Relations
-Conduct research on and its products.
-Featured Information
-Products & Solutions
-Analyst Recognition
-Analyst Relations Contacts
-Government Affairs
-Global government interaction.
-Recent Activities
-Government Affairs Contacts 
-Political Engagement
+Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+News and Press
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+News and Press
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
 Careers
-Make a difference at Symantec.
-What We Stand For
-Define Your Journey
-Legal and Public Affairs
-Updated content and resources from the Legal & Public Affairs Department.
-License and Service Terms & Repository
-Privacy - GDPR
-Website Terms of Use
-Trademark Usage Guidelines
-Events
-Interact with Symantec’s experts at conferences, tradeshows, and events to keep current on the latest products, solutions and technology. 
-Cyber Security Events
-Webcasts
-Investor Relations Events
-Customer Trust Portal
-Access to information and resources about Symantec’s information security policies, standards and assurance programs over the protection of customer data.
-Policies and Standards
-Customer Success Center
-See how customers have used products and solutions
-Williams Martini Racing
-AIG
-Swinton
-Go Ahead Group
-– GDPR
-Learn more about our commitment to safeguarding your privacy in our products, services, and websites. 
-Global Privacy Statement
-Norton Product & Service Privacy Notice
-Enterprise Products Transparency Notices
- Information for
- Enterprise
- Small Business
- Partners
- Consumer (Norton)
- Our Offerings
- Products
- Products A-Z
- Services
- Solutions
- Buying Programs
- Connect with us
- Support
- Connect Communities
- Security Center
- Find a Partner
- Events
- Webcasts
- Contact Us
- About  Blogs
- Customer Success Center
- Industry Accolades
- Newsroom
- Analyst Relations
- Careers
- Investor Relations
- Corporate Responsibility
- Privacy – GDPR
- Customer Trust Portal
- Ventures
- Acquisitions
- Fireglass
- Analytics
- LifeLock
- Skycure
-About Careers
-News
-Sitemap
-Legal
-Privacy
-Cookies
+Our Latest News
+10/16/2018
+DePuy Synthes Announces Agreement with Ortho Development® to Promote its KASM® Knee Articulating Spacer Mold 
+16, 2018 Warsaw, – Johnson & Johnson Medical Devices Companies* today announced that DePuy Synthes Sales, Inc. has entered into an exclusive agreement with Ortho Development® to co-promote in the its KASM® Knee Articulating Spacer Mold. This is a sterile, disposable cement spacer mold for patients who develop an infection after primary knee replacement. This new offering builds upon DePuy Synthes’** commitment to innovative knee solutions focused on helping patients along the care continuum.
+09/26/2018
+DePuy Synthes Expands Spine Portfolio with Nerve Assessment Platform  Designed to Identify & Avoid Nerves During Spine Surgery 
+Los Angeles – September 26, 2018 – Johnson & Johnson Medical Devices Companies* announced today that DePuy Synthes** is introducing MMG, a first-of-its-kind digital mechanomyography platform designed to assess nerve status and identify and avoid peripheral nerves during spine surgery. enables motor nerve monitoring for a variety of spine procedures, including non-fusion procedures such as discectomy and both minimally invasive (MIS) and open spinal fusion surgery.  is being broadly introduced at the 2018 North America Spine Society Meeting in Los Angeles, California. 
+09/12/2018
+Johnson & Johnson Medical GmbAcquires Emerging Implant Technologies Gmbto Enhance Global Offering of Interbody Spine Implants
+Norderstedt, Germany – September 12, 2018 – Johnson & Johnson Medical Devices Companies*, through its subsidiary Johnson & Johnson Medical GmbH, announced today the acquisition of Emerging Implant Technologies Gmb(EIT), a privately held manufacturer of 3D-printed titanium interbody implants for spinal fusion surgery, based in Wurmlingen, Germany. The products in this portfolio leverage EIT’s proprietary advanced cellular titanium, which consists of an open and interconnected porous structure designed to allow bone to grow into the implant. As industry leaders across the full range of orthopaedic and spine specialties, Johnson & Johnson Medical Devices Companies will leverage its global commercial infrastructure to bring EIT’s technologies to patients around the world. 
+08/20/2018
+New National Survey Uncovers the Surprising Impact that Knee and Hip Pain Has on Women’s Emotional Well-Being
+WARSAW, Ind. – August 20, 2018 – While many who suffer from knee or hip pain know that it impacts their everyday activities, results from a new survey show the significant emotional impact of joint pain. This includes impact on romantic and social relationships, ability to pursue hobbies and overall mood. The survey of more than 500 women ages 45-65, including those who have had joint replacement surgery and those planning to have joint replacement surgery, revealed: 
+07/26/2018
+DePuy Synthes Launches Expandable Interbody Implant as Part of a New Procedural Solution for Minimally Invasive Spine Surgery (MIS) that Enhances Surgical Efficiency
+Raynham, – July 26, 2018 – Johnson & Johnson Medical Devices Companies* today announced 
+that DePuy Synthes** is launching the Expandable Interbody Device in the 
+The Implant is designed to treat patients suffering from degenerative disc disease as part of the new offering called (Transforaminal Lumbar Interbody Fusion) Procedural Solution. The complete system includes a comprehensive set of solutions to help simplify key stages of this surgery by enhancing surgical efficiency.
+06/20/2018
+New Suture from DePuy Synthes Designed to Help Address Challenges Associated with Rotator Cuff Surgery
+20, 2018 San Diego, – Johnson & Johnson Medical Devices Companies* through the DePuy Synthes** franchise today announces the launch of Suture to repair soft tissue such as the rotator cuff in the shoulder. Part of the DePuy Synthes Mitek Sports Medicine portfolio, Suture is available on Anchors and adds to DePuy Synthes’ innovative solutions designed to help address unmet patient needs in soft tissue repair. Suture was launched today at the San Diego Shoulder Institute’s 35th Annual Course. 
+Search News & Press
+Search
+Company:
+All Companies
+All Divisions
+Codman & Shurtleff, Inc.
+Corporate Information
+DePuy Mitek, Inc.
+DePuy Orthopaedics, Inc.
+DePuy Spine, Inc.
+Healthcare Professionals
+Year:
+All Years
+Go 
+Media Contacts
+All inquiries can be submitted by email to:
+Media Inquiries
+Careers - Johnson & Johnson 
 Contact Us
-✕Search
-ENTERPRISE
-BUSINESS
-PARTNERNET
-NORTON
-LIFELOCK
-Products & Services
-Products & Services Home
-Products A-Z
-Integrated Cyber Defense
-Integrated Cyber Defense
-Advanced Threat Protection
-Advanced Threat Protection
-Information Protection
-Information Protection
-Endpoint Security
-Endpoint Security
-Email Security
-Email Security
-Network Security
-Network Security
-Cloud Security
-Cloud Security
-Services
-Services
-Business Security
-Business Security
-BRANDS
-Norton
-LifeLock
-Analytics
-DigiCert Website Security
-Norton
-LifeLock
-Analytics
-DigiCert Website Security
-Integrated Cyber Defense
-Integrated Cyber Defense
-Core Services
-Advanced Threat Protection
-Information Protection
-Control Points
-Endpoint Security
-Email Security
-Network Security
-Cloud Security
-The cloud is full of risk. Your security posture shouldn't be.
-Our Integrated Cyber Defense Platform lets you focus on your priorities — digital transformations, supply chain security, cloud migration, you name it — knowing you are protected from end to end
-Learn More
-Advanced Threat Protection
-Advanced Threat Protection
-Endpoint Protection Family 
-Endpoint Detection and Response (EDR)
-Email Security
-Advanced Threat Protection for Email
-Hybrid Cloud Security Family
-Encrypted Traffic Management Family
-Secure Web Gateway Family
-Content & Malware Analysis
-Network Forensics & Security Analytics
-Web Isolation
-WebFilter / Intelligence Services
-Web Application Firewall & Reverse Proxy
-11 Times Running*, Gartner Magic Quadrant Leader for Secure Web Gateways
-Read the Report
-Information Protection
-Information Protection
-Family
-Data Loss Prevention
-Data Loss Prevention Cloud & CloudSOC
-Data Loss Prevention Cloud Service for Email
-Information Centric Security Family
-Information Centric Analytics
-Information Centric Tagging
-Information Centric Encryption
-Identity Family
-VIP
-Access Manager
-Encryption Family
-Endpoint Encryption
-Gateway Email Encryption
-Accelerate Your Readiness with The for Dummies guide
-Read the Guide
-Endpoint Security
-Endpoint Security
-Endpoint Protection Family
-Endpoint Protection
-Endpoint Detection and Response (EDR)
-Advanced Threat Protection
-Endpoint Protection Cloud
-Endpoint Protection Mobile
-Endpoint Protection Small Business Edition
-Protection Suite Enterprise Edition
-Risk Insight
-Family
-Hybrid Cloud Security Family
-Storage Protection
-Cloud Workload Protection
-Data Center Security
-Endpoint Management Family
-Client Management Suite
-Server Management Suite
-Asset Management Suite
-Ghost Solution Suite
-Highest Execution and Furthest Vision in 2018 Gartner for Endpoint Protection
-Read the Report
-Email Security
-Email Security
-Messaging Gateway
-Advanced Threat Protection for Email
-Phishing Readiness
-Mail Security for Microsoft Exchange
-Family
-Data Loss Prevention Cloud Service for Email
-Encryption Family
-Desktop Email Encryption
-Gateway Email Encryption
-Email is still the #1 attack vector—and it’s your job to secure Office 365. Now What?
-View the Checklist
-Network Security
-Network Security
-Secure Web Gateway Family
-Web Security Services
-Proxyand Advanced Secure Gateway
-Web Isolation
-Content & Malware Analysis
-WebFilter / Intelligence Services
-Web Application Firewall & Reverse Proxy
-Management Center and Reporting
-Encrypted Traffic Management Family
-Visibility Appliance
-Network Performance Optimization Family
-CacheFlow
-MACH5 – Optimization
-PacketShaper
-Cloud Access Security Broker (CASB) Family
-Family
-Identity Family
-Web Security is a Top Player in the Radicati Market Quadrant
-Read the Report
-Cloud Security
-Cloud Security
-Cloud Access Security Broker (CASB) Family
-Cloud Data Protection and Security
-CloudAudit – Shadow IT
-CloudGateway
-Cloudfor SaaS
-Cloudfor IaaS
-Hybrid Cloud Security Family
-Cloud Workload Protection
-Control Compliance Suite
-Storage Protection
-Secure Web Gateway Family
-Web Security Services
-Web Isolation
-Malware Analysis Service
-Trusted Mobile Device Security Service
-Web Application Firewall & Reverse Proxy
-Family
-Data Loss Prevention Cloud and CloudSOC
-Data Loss Prevention Cloud Service for Email
-Email Security Family
-Advanced Threat Protection for Email
-Identity Family
-VIP
-Security without compromise: the broadest, deepest protection for the public cloud
-Learn More
-Services
-Services
-Cyber Security Services
-Managed Security Services - Threat Monitoring
-DeepSight Intelligence
-Technical Intelligence
-Adversary Intelligence
-Incident Response Services
-Emergency Response
-Retainers and Response Readiness
-Other Services
-Consulting Services
-Education Services
-Premium Support
-Discover Why
-14 Times a Leader in the Gartner Magic Quadrant
-Read the Report
-Business Security
-Business Security
-Products
-Endpoint Protection Cloud
-Endpoint Protection Cloud Server
-Drive Encryption
-Endpoint Protection Small Business Edition
-Pricing
-Learn
-My Account
-Shop Online
-Welcome to the New Business Security Experience!
-Shopping for the right business products and managing your account is now easier than ever.
-Shop Now
-Solutions
-Solutions Home
-Topics
-Topics
-Industries 
-Industries 
-Government
-Government
-Cloud
-Cloud
-Topics
-Topics
-Advanced Threat Protection 
-Cloud Security
-Election Security
-& Data Privacy 
-Internet of Things (IoT) Security
-Office 365 Security 
-Zero Trust Security
-Internet of Things (IOT) Security
-Unveiling the industry’s first neural network to protect critical infrastructure from cyber warfare
-Learn More 
-Email is still the #1 attack vector—and it’s your job to secure Office 365. Now What?
-View the Checklist
-Industry Solutions
-Industry Solutions
-Automotive
-Education
-Financial Services
-Global Service Providers
-Industrial Control Systems
-Healthcare
-Retail
-Cyber Security and Healthcare: An Evolving Understanding of Risk
-An Executive Healthcare Summary for Healthcare Professionals
-Read the Summary
-Government Solutions
-Government Solutions
-Federal Government
-State & Local
-Election Security 2018
-The good news? It’s not too late to take basic steps to preserve the integrity of our elections—right now
-Learn More
-Cloud Solutions
-Cloud Solutions
-Amazon Web Services
-Oracle Cloud
-Security Best Practices Guide and Configuration Checklist
-has worked together with to develop an essential guide to security
-Download Now
-Support Center
-Support Center Home
-Technical Support 
-Technical Support 
-Connect 
-Connect 
-Manage Your Product
-Manage Your Product
-Training 
-Training 
-Norton Support
-Technical Support 
-Technical Support 
-Product A-Z
-MyLicensing Portal
-Connect User Community
-peer-to-peer community for business customers, partners, and employees
-Join the Conversation
-Connect 
-Forums
-Blogs
-User Groups
-How to Find a Product Forum
-This two-step guide helps you find product support and information in the Connect user community
-Read the Guide
-Manage Your Product
-Maintenance
-Licensing Information
-Getting Started
-Renewals
-Software Upgrades
-Policies
-Connect User Community
-peer-to-peer community for business customers, partners, and employees
-Join the Conversation
-Training 
-Training Courses
-Certification
-E-Library
-Security Awareness Service
-Certification
-Validate your investment in training and experience, and boost your credibility today
-Learn More
-Security Center
-Security Center Home
-Updates 
-Updates 
-Advisories 
-Advisories 
-Publications
-Publications
-Tools 
-Tools 
-Topics 
-Topics 
-Updates 
-Updates 
-Virus Definitions & Updates
-Threats
-Risks
-Vulnerabilities
-Cyber Security Predictions: 2019 and Beyond
-The trends and activities most likely to affect your organization in the coming year
-Read the Blog
-Advisories 
-Advisories 
-Security Advisories
-Analysis from Symantec’s Global Threat Intelligence Team
-Unparalleled understanding and commentary on the cyber threats affecting businesses today
-Stay Informed
-Publications
-Publications
-ISTR
-Blogs
-Monthly Threat Report
-Endpoint Protection Mobile Threat Reports
-Security White Papers
-Research Labs
-Cyber Security Brief Podcast
-Cyber Security news and analysis by threat researchers
-Listen and Subscribe
-Tools 
-Tools 
-Removal Tools
-Spyware Removal
-Treating Infected Systems
-Legitimate Files in Quarantine
-Cyber Security Brief Podcast
-Cyber Security news and analysis by threat researchers
-Listen and Subscribe
-Topics 
-Topics 
-Ransomware
-Cyber Security Predictions: 2019 and Beyond
-The trends and activities most likely to affect your organization in the coming year
-Read the Blog
-Blogs
-Blogs Home
-Blogs
-Blogs
-Categories
-Categories
-Threat Intelligence
-Featured Stories
-Expert Perspectives
-Product Insights
-Corporate Responsibility
-Diversity & Inclusion
-Connect
-Cyber Security Predictions: 2019 and Beyond
-The trends and activities most likely to affect your organization in the coming year
-Read the Blog
-Partner
-Partners Home
-Partner with Partner with PartnerNet
-PartnerNet
-TIPP
-TIPP
-Partner with Partner with Find a Partner
-Enroll in a Partner Program
-Partner Programs
-Product Resources for Partners
-Sign in to PartnerNet
-Sign in to TIPP
-Contact Partner Service
-Contact Partner Service with questions about partnering opportunities and your existing business with Learn More
-PartnerNet
-PartnerNet
-My Dashboard
-Products
-Marketing
-Partner Support Center
-Training
-Other Resources
-Financial Benefits
-Partner Licensing
-Partner Renewal
-Infrastructure Attacks and Stealthy Mining—Threats Go Big and Small
-Read the Report
-TIPP
-TIPP
-My Dashboard
-Marketing
-Support Center
-Infrastructure Attacks and Stealthy Mining—Threats Go Big and Small
-Read the Report
-United States / English
- Sign In/Register
-My Account
-Log out
-About
-Analyst Relations
-Industry Analyst Relations
-The Industry Analyst program supports industry analysts worldwide. Our global team provides the information, access and dialogue required to research and report on Symantec.
-Featured Information
-Latest Internet Security Threat Trends from the World's Largest Civilian Threat Research
-April 2018
-has the largest civilian threat collection network in the world which records events from 126.5 million attack sensors worldwide, and monitors threat activities in over 157 countries and territories. Join Kevin Haley, Director, Security Response, as he shares the latest trends in both mass attacks and targeted, looking at the threat landscape as covered in the 23rd volume of Symantec's Internet Security Threat (ISTR) Report.
-Innovation Voices
-Innovation is in our DNA, essential to our culture. The attackers are both innovative and relentless. And they only have to be right once—we have to defend against the onslaught, day in, day out. It's fundamental to our culture at that we're never done: we must innovate to stay two steps ahead of the bad actors.
-Learn More
-Products & Solutions
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+Corporate Info
+California Compliance Notice
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+DePuy Synthes Companies California Compliance
+NOTICE: this information is provided pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765), which requires certain pharmaceutical and medical device companies doing business in California to make available their program for compliance with applicable federal and state laws and industry standards regulating the marketing and promotion of their products
 
-solutions
- cover business needs in the cloud, across mobile and virtual space, ensuring business continuity for your organization. Our 
-products
- work to secure and manage data in this information-driven world.
-Analyst Recognition
-has been recognised as a global leader in security technology and innovation. Visit the 
-Industry Accolades
- to see how leading analyst firms have positioned across various products and solutions.
-Analyst Relations Contacts
-The Industry Analyst Relations team serves as a liaison between and the industry analyst community.
-Please reach out to the individuals listed below for any assistance with industry analyst-related inquiries:
-Tony Taddei
- & Global Head of Analyst Relations
-Grace Chung
- Director of Analyst Relations
-Sancharini Mazumdar
- Analyst Relations Lead
-Kathleen Durr
- Analyst Relations Lead
-For General Inquiry please Email 
-Analyst Relations
-You can follow The team on 
-SymantecAR
- and 
-SymantecAR
-.
-Please Note:
-The contacts on this page are available to provide assistance and handle analyst-related inquiries only
-For technical assistance with Symantec’s products, please visit the 
-Technical Support
- website
- Information for
- Enterprise
- Small Business
- Partners
- Consumer (Norton)
- Our Offerings
- Products
- Products A-Z
- Services
- Solutions
- Buying Programs
- Connect with us
- Support
- Connect Communities
- Security Center
- Find a Partner
- Events
- Webcasts
- Contact Us
- About  Blogs
- Customer Success Center
- Industry Accolades
- Newsroom
- Analyst Relations
- Careers
- Investor Relations
- Corporate Responsibility
- Privacy – GDPR
- Customer Trust Portal
- Ventures
- Acquisitions
- Fireglass
- Analytics
- LifeLock
- Skycure
-About Careers
-News
-Sitemap
-Legal
-Privacy
-Cookies
+INTRODUCTION
+The Operating Companies of DePuy Synthes, under the legal entity DePuy Orthopaedics, Inc., (the "Company") have established a program designed to materially comply with applicable federal and state laws and industry standards relating to the marketing and promotion of its products. Additionally, the Company recognizes that adherence to these standards can be furthered through a compliance program that is informed by the Compliance Program Guidance for Pharmaceutical Manufacturers, published by the Office of Inspector General of the Department of Health and Human Services (the "Guide"). The Guide advises that effective compliance programs are comprised of seven elements. As described below, these elements form the basis of the Company's program for compliance with the standards regulating the marketing and promotion of its products.
+II.
+ Overview of Compliance Program
+1. Written Policies and Procedures
+The Company has written policies to assure substantial compliance with the applicable laws and regulations and standards governing the marketing and promotion of our products. Among these standards are recognized industry codes of conduct including the Code of Ethics on Interactions with Health Care Professionals (AdvaMed Code), published by the Advanced Medical Technology Association ("AdvaMed"). The Company has established written policies that govern activities involving communicating with customers about the appropriate use of our products including appropriate instruction, education, training, service and technical support required for the safe and effective use of our products. The Company also has policies governing activities involving the advancement of scientific and educational activities supporting medical research and education. These policies include:
+Policies on Educational Grants and Research Grants
+The Company may provide grants for specific educational purposes that benefit patients and customers. These may include, but are not limited to, continuing medical and paraprofessional education programs, fellowships provided to teaching institutions and similar organizations with a demonstrated commitment to scientific and technical education, and programs operated by organizations that provide high-quality, nationally recognized patient education. Funding of educational programs will generally be provided only to organizations and institutions and not to individual practitioners.
+Research grants to support customer-initiated research may be provided for programs involving research in areas of legitimate interest to the company. All requests are subject to scientific review prior to funding approval.
+Policy on Charitable Contributions and Patient Assistance
+The Company will consider charitable contributions and requests for patient assistance in the areas of children's health, health care education, access to health care and community responsibility, consistent with the Company policies.
+Policy on Travel Expense Reimbursement for CME, Promotional or Product Training Meetings
+The Company will, with very limited exceptions that are in accordance with nationally recognized standards, not reimburse for travel and lodging expenses of attendees at promotional and educational programs.
+The Company may reimburse attendees for their reasonable travel and lodging expenses associated with attendance at product training meetings. Product training meetings will be conducted in locations conducive to the exchange of information such as educational or conference settings. Where face-to-face or hands-on customer training is reasonably necessary for the safe and effective use of the Company's medical device products is required, the Company may provide training at company facilities, at independent teaching centers such as medical institutions, or in other appropriate clinical settings.
+Policy on Business Meals
+The Company may occasionally offer a modest meal, consistent with the standards of the AdvaMed Code as part of an educational presentation or a business discussion. Venues that feature entertainment or recreation, and attendance by spouses or guests, are not permitted.
+Policy on the Provision of Educational and Practice-Related Items
+On occasion, the Company representatives may provide items that benefit patients or serve a genuine educational function for Health Care Professionals, consistent with the standards of the AdvaMed Code.
+Total Annual Dollar Limit for Meals and Educational or Practice-related Items 
+Each of the Companies, have established an annual limit of $1,500 for meals and educational items as the aggregate value of the items or activities that may be provided to California health care professionals pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765).
+Policy Prohibiting Entertainment
+It is the policy of the Company not to provide Entertainment (e.g. sporting events, golf outings, concerts, hunting, etc.) to customers.
+2. Assigned Compliance Officer
+The Company has appointed Health Care Compliance Officers. Our Health Care Compliance Officers have been empowered with appropriate authority to exercise independent judgment and has free and unencumbered access to senior management.
+The Company has appointed Health Care Compliance Committees. The committees are comprised of the Company's Health Care Compliance Officers and members of the Company's management team.
+3. Training.
+The Company has an annual Health Care Compliance training process that includes testing and annual certification of appropriate employees. The training covers applicable guidelines governing our compliance program. Employees are also trained on the consequences of failure to comply with the requirements of the company's compliance program.
+4. Communication.
+The Company encourages open and candid discussion between management and employees regarding any compliance concerns. The Company employees are encouraged to report their concerns to their manager, to the Human Resources Department, to the Law Department or to the company's Health Care Compliance Officer.
+5. Auditing and Monitoring. 
+The Company self-assesses and periodically audits its compliance with its policies and procedures.
+6. Enforcement and Disciplinary Guidelines.
+The Company will take disciplinary actions in response to violation of the company's compliance policies or procedures. The Company will conduct a fair and diligent investigation of matters that are brought to the company's attention in order to ensure the consistent application of the company's standards.
+7. Responses To Detected Problems and Actions To Correct Issues.
+The Company requires a prompt and diligent response to potential violations of the company's compliance program, including its standards regulating the marketing and promotion of our products. Actions in response to detected problems may include improving policies, procedures, training, communication and monitoring or may require disciplinary action to prevent future violations.
+For a copy of this California Compliance Program, please call 1-877-889-3636. Provide your name, mailing address and request that a copy of the DePuy Synthes California Compliance program be sent to you.
+LAW
+As part of the Company's ongoing efforts in the area of compliance, we have developed a Comprehensive Compliance Program that is designed to comply with applicable federal and state laws and industry standards relating to the marketing and promotion of our products. To our knowledge as of the date of this declaration, the Company is in compliance with our Comprehensive Compliance Program, as described here, and with California Health & Safety Code sections 119400-119402.
+Dated: May 1, 2018
+Careers - Johnson & Johnson 
 Contact Us
-✕The cloud is full of risk. Your security posture shouldn't be.
-Our Integrated Cyber Defense Platform lets you focus on your priorities — digital transformations, supply chain security, cloud migration, you name it — knowing you are protected from end to end
-Welcome to the New Business Security Experience!
-Shopping for the right business products and managing your account is now easier than ever.
-Unveiling the industry’s first neural network to protect critical infrastructure from cyber warfare
-An Executive Healthcare Summary for Healthcare Professionals
-Democracy is impossible without cyber security
-The good news? It’s not too late to take basic steps to preserve the integrity of our elections—right now
-Security Best Practices Guide and Configuration Checklist
-has worked together with to develop an essential guide to security
-How to Find a Product Forum
-This two-step guide helps you find product support and information in the Connect user community
-Validate your investment in training and experience, and boost your credibility today
-Cyber Security Predictions: 2019 and Beyond
-The trends and activities most likely to affect your organization in the coming year
-Unparalleled understanding and commentary on the cyber threats affecting businesses today
-Cyber Security news and analysis by threat researchers
-Cyber Security news and analysis by threat researchers
-Cyber Security Predictions: 2019 and Beyond
-The trends and activities most likely to affect your organization in the coming year
-Cyber Security Predictions: 2019 and Beyond
-The trends and activities most likely to affect your organization in the coming year
-Webinars
-Learn and get more insights by attending live interactive webinars in real time or on-demand by Symantec.
-Select the channel below that best fits your needs:
-Cyber Security Strategies
-Connect with industry experts and global thought leaders as they share best practices on the latest cyber security solutions.
-Orla Cox, Director of Security Response, Cyber criminals today are relentless, and they only need to be successful once. With each passing year, not only does the sheer volume of threats increase, but the threat landscape becomes more diverse.
-From the explosion of coinmining activity in 2018, to the 600% rise in targeted activity against Iodevices, attackers are still working relentlessly to discover new avenues to infect networks and steal data, while also covering their tracks.
-Join Orla Cox, Director of Security Response at for this insight-packed webinar, including:
-• How targeted attacks are evolving to exploit new technologies like IoT.
-• The increasing diversity of cyber attacks, and the new method that hackers are using to infect networks and steal information
-• roundup of the year’s most high-profile attacks, and a look at what to expect in the year to come
-Register Today
-No results found
-Suresh Ramkumar, Principal Product Manager, Control Compliance Suite 12.5 is here!
-Please join us for a special webcast on Tuesday, February 12 to learn more about this exciting release.
-We will discuss and demo some of the cool ... View More Control Compliance Suite 12.5 is here!
-Please join us for a special webcast on Tuesday, February 12 to learn more about this exciting release.
-We will discuss and demo some of the cool new features such as
-•Support for APIs to enable integration and automation around commonly used functionality like assets, jobs and standards management
-•Support for offline data collection with agents to enable usage in air-gapped networks
-•Integration with Remedy for ticketing by leveraging APIs and the Workflow Engine
-Don't miss this great opportunity to get the latest information on Control Compliance Suite 12.5! View Less
-Using Advanced Detection and ATT&to Cage Fancy Bear
-Adam Glick, Effectiveness Team Lead, Learn how Endpoint Protection & Response (EDR) and the ATT&framework can expose and thwart persistent adversaries like APT28 otherwise known as Fancy Bear.
-Key Learning Objective... View More Learn how Endpoint Protection & Response (EDR) and the ATT&framework can expose and thwart persistent adversaries like APT28 otherwise known as Fancy Bear.
-Key Learning Objectives:
--  Get an overview of the ATT&framework
--  See how EDR’s Advanced Attack Detections and ATT&support work together to expose threats
--  Learn how an integrated single agent approach to prevention, detection and response can stop even the most stealthy attack methods
-Please Join Us, Register Today View Less
-Deena Thomchick, Sr. Director, Cloud Security, Are you storing sensitive data and running business-critical operations in AWS? The news is full of stories about data exposure or loss involving misconfigurations, misuse, or compromised accounts ... View More Are you storing sensitive data and running business-critical operations in AWS? The news is full of stories about data exposure or loss involving misconfigurations, misuse, or compromised accounts in Analysts are urgently advising organizations to get automated controls and centralized management in place to secure their Iaaoperations.
-As a result, organizations are increasingly looking to security providers such as for solutions to provide visibility, behavior monitoring, access controls, data security, and threat protection for AWS.
-Get security in place fast. Join us to learn how Cloudcan help you:
-Monitor activity and security configurations
-Control access and prevent risky changes or privileged misuse
-Detect malicious insiders and compromised accounts
-Keep S3 buckets private and secure confidential data with DLP
-Defend S3 buckets from advanced malware threats View Less
-John McNiece,Sr. Product Manager, and Arnav Gosch, Product Manager, The Cloud Generation brings a host of new challenges --- vulnerability to increasingly malicious attacks; inability to gain a unified view across multiple cloud and on-premises environments; dispar... View More The Cloud Generation brings a host of new challenges --- vulnerability to increasingly malicious attacks; inability to gain a unified view across multiple cloud and on-premises environments; disparate security policies and tools; and massive traffic to monitor, analyze, and protect.
-Join us for a live webinar where we will take a closer look at some of the greatest security challenges companies are facing as they move to the cloud. We will discuss what companies are experiencing and the solutions they are adopting to bolster their response.
-In this session, you will:
-•. Hear real-world security scenarios as witnessed by a former analyst
-•. Learn why the cloud has been particularly challenging to secure
-•. Find out how Managed Security Services (MSS)  can help to strengthen and improve your cloud strategy through Managed Cloud Defense
-Please Join Us, Register Today View Less
-Orla Cox, Director of Security Response, Cyber criminals today are relentless, and they only need to be successful once. With each passing year, not only does the sheer volume of threats increase, but the threat landscape becomes more div... View More Cyber criminals today are relentless, and they only need to be successful once. With each passing year, not only does the sheer volume of threats increase, but the threat landscape becomes more diverse.
-From the explosion of coinmining activity in 2018, to the 600% rise in targeted activity against Iodevices, attackers are still working relentlessly to discover new avenues to infect networks and steal data, while also covering their tracks.
-Join Orla Cox, Director of Security Response at for this insight-packed webinar, including:
-• How targeted attacks are evolving to exploit new technologies like IoT.
-• The increasing diversity of cyber attacks, and the new method that hackers are using to infect networks and steal information
-• roundup of the year’s most high-profile attacks, and a look at what to expect in the year to come
-Symantec's Security Predictions: 2019 and Beyond
-Dr. Hugh Thompson, Chief Technology Officer, | Nick Savvides, APAC, The threat landscape is ever changing. New threats are rapidly evolving with increasing sophistication, leveraging new and advanced technology. With the new year being just around the corner, how c... View More The threat landscape is ever changing. New threats are rapidly evolving with increasing sophistication, leveraging new and advanced technology. With the new year being just around the corner, how can we be prepared for the shifting threat landscape?
-Join Dr. Hugh Thompson, Chief Technology Officer in our webinar, as he shares his thoughts on Security Predictions in 2019 and beyond. Based on insights gathered from our intelligence, he will touch on new trends that will likely take the limelight in the coming year.
-Learn more about:
-- How Artificial Intelligence (AI) will be leveraged in cyber security
-- How growing 5deployment and adoption will catalyze new attacks
-- Where attacks will be targeted at
-Attend our webinar. Learn what to expect and be prepared in your security posture for 2019.
-Raj Patel: Vice President Cloud Platform Engineering, and Sameer Vasanthapuram: Partner Solutions Architect,AWS
-There is a natural tension between decentralized, distributed DevOps and the traditional command-and-control approach of classic security management. When moving to the cloud, organizations must le... View More There is a natural tension between decentralized, distributed DevOps and the traditional command-and-control approach of classic security management. When moving to the cloud, organizations must learn how to decentralize and democratize the security process.
-Join us on December 18th to learn how to automate security into the DevOps toolchain and strike a balance between agility and security in the cloud.
-During this session, you will learn:
--How DevOps and InfoSec teams can align to the new DevSecOps paradigm
--Why continuous compliance management is a new business imperative
--How to build security in to your Continuous Integration/Continuous Development pipeline
-Jacked, Extorted and Destroyed - The Threats of 2018 and Beyond
-Kevin Haley, Director Security Response, Today’s threats aim to do more than just steal intellectual property. They hijack software updates, destroy devices, steal resources, and take advantage of trusted tools within your network. To top... View More Today’s threats aim to do more than just steal intellectual property. They hijack software updates, destroy devices, steal resources, and take advantage of trusted tools within your network. To top it off, these threats are notoriously difficult to detect.
-Join leading threat expert, Kevin Haley, as he shares insights on trends shaping the threat landscape and how to best-protect your organization.
-Key Learning Objectives:
-• Capabilities you need to protect yourself from these threats
-• Best practices for more efficient and effective endpoint security
-Please Join Us, Register Today View Less
-Eliminate Cloud Compliance Bottlenecks: How to Automate IaaSecurity Monitoring
-Anand Visvanathan, Director of Product Management, and LindaPark, Senior Manager, IaaS, Security & Compliance, Cloud computing enables companies to be more agile and squeeze the inefficiencies out of the development cycle, such as procuring compute resources on demand rather than waiting for But as comp... View More Cloud computing enables companies to be more agile and squeeze the inefficiencies out of the development cycle, such as procuring compute resources on demand rather than waiting for But as companies move fast to deliver new products, security must move faster to keep up with new regulations and threats – or risk slowing down the business.
-Cloud configuration errors can lead to gaping holes in cloud infrastructure deployments and present low hanging fruit for hackers. Security and DevOps teams need a proactive, automated approach to monitoring and securing their cloud management plane.
-Join us for this informative webinar on how to achieve security compliance for public cloud Infrastructure-as-a-Service (IaaS) platforms such as and Microsoft Azure.
-During this webinar, you'll learn:
-•  Why traditional security monitoring tools cannot provide visibility into cloud compliance risks
-•  Why Security and DevOps teams need automated cloud security
-posture management (CSPM) tools to remove compliance bottlenecks
-•  How to migrate your legacy infrastructure to the cloud without compromising security and compliance
-Please Join Us, Register Today View Less
-Ghost Solution Suite 3.3 is here!
-Please join us for a special webcast on Wednesday, December 5 to learn more about this exciting release.
-We will discuss and demo some of the cool new features ... View More Ghost Solution Suite 3.3 is here!
-Please join us for a special webcast on Wednesday, December 5 to learn more about this exciting release.
-We will discuss and demo some of the cool new features such as the new web console, smart wizards, and much more!
-Don't miss this great opportunity to get the latest information on Ghost Solution Suite 3.3! View Less
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Healthcare Professionals
+Hospital Providers
+Ambulatory Surgery Centers
+Patients
+News & Press
+Contact Us
+MORE:
+Careers - Johnson & Johnson
+Privacy Policy
+Legal Notice
+US:
+Facebook
+Twitter
+LinkedIn
+YouTube
+Contact Us
+ Select your country
+Home
+About DePuy Synthes
+Toggle navigation
+DePuy Synthes
+Home
+About DePuy Synthes
+DePuy Synthes
+Overview
+Overview
+Neuro
+(Craniomaxillofacial)
+Joint Reconstruction (Knee, Hip & Shoulder)
+Mitek Sports Medicine
+Power Tools
+Spine
+Trauma
+Corporate Info
+What We Believe
+Our History
+Social Responsibility
+Principles of Collaboration
+Open Payments
+Transparency
+DePuy Synthes Global Code of Conduct
+California Compliance Notice
+Funding Requests
+Funding Requests
+Education Grants
+Fellowships
+Charitable Contributions
+Exhibits and Commercial Sponsorships
+Investigator Initiated Research
+Recall
+News and Press
+Careers
+About DePuy Sysnthes Hero Image
+The DePuy Synthes Companies
+Johnson & Johnson Family of Companies
+.
+
+We offer the world’s most comprehensive portfolio of orthopaedic and neuro products and services for joint reconstruction, trauma, spine, sports medicine, neuro, cranio-maxillofacial, power tools and biomaterials.
+DSUS/MOC/0817/0816 11/2017
+DePuy Synthes Joint Reconstruction
+One of the largest orthopaedics companies in the world, with leading solutions for hip, knee and shoulder replacement.
+DePuy Synthes Trauma
+The global leader in orthopaedic trauma devices for internal and external fixation.
+DePuy Synthes Spine
+Offering one of the world’s most diverse portfolios of spinal-care solutions for both traditional and minimally invasive spine surgery.
+DePuy Synthes Mitek Sports Medicine
+leading developer and manufacturer of pain management and minimally invasive solutions, including sports medicine and soft-tissue repair products.
+DePuy Synthes Power Tools
+Delivering a comprehensive range of power instrument systems, reamers and saws to meet a broad spectrum of clinical needs.
+DePuy Synthes Neuro
+Providing a wide range of solutions for the diagnosis and treatment of neurological disorders focusing on neurovascular, neurosurgery and neuromodulation solutions.
+DePuy Synthes CMF
+Offering systems that provide a complete array of implants and instruments for the treatment of facial trauma, tumor resection and reconstruction.
+Careers - Johnson & Johnson 
+Contact Us
+Privacy Policy
+Legal Notice
+Site Map
+Ethics Hotline
+Consultant Identification & Payments
+California Compliance Notice
+Transparency
+©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
+Back To Top
+×Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Start the conversation now.
+DON'PLAY.
+If hip or knee pain is making you live life on pause, it may be time to talk with a doctor about treatment options. Because life is a lot more fun when you Hit Play!
+We are inspired by the opportunity to work together to advance patient care.
+Johnson & Johnson Medical Devices Companies (JJMDC) advance patient care while delivering clinical and economic value to healthcare systems and helps providers address individual needs through a holistic approach.
+Where does it hurt?
+Enter your zip code:
+Choose a procedure:
+By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
+Find a Doctor
+© DePuy Synthes 2014-2018. All Rights Reserved.
+This site is published by the DePuy Synthes Companies, which are solely responsible for its content.
+This site is governed solely by applicable laws and governmental regulations.
+This site is for visitors from the United States.
+The third party trademarks used herein are the trademarks of their respective owners.
+Follow Us
