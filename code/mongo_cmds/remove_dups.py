@@ -18,7 +18,7 @@ from FirmDB.config import authSource
 from FirmDB.config import authMechanism
 
 MONGODB_DB = "FirmDB"
-TARGET_COLLECTION = "pages_COMBINED"
+TARGET_COLLECTION = "pages_ABOUT2"
 
 client = pymongo.MongoClient(connection_string, username=username, password=password, authSource=authSource,
                              authMechanism=authMechanism)
@@ -32,6 +32,7 @@ def dedup():
                  { "$match": { "count": { "$gt": 1 } }} ]
     grouped_by_url = list(target_col.aggregate(pipeline))
     print ('Found ' + str(len(grouped_by_url)) + ' duplicate urls')
+    # pp.pprint (grouped_by_url)
     
     to_delete_ids = []
 

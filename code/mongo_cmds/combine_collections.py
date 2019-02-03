@@ -20,12 +20,12 @@ from FirmDB.config import authSource
 from FirmDB.config import authMechanism
 
 MONGODB_DB = "FirmDB"
-TARGET_COLLECTION = "pages_COMBINED"
+TARGET_COLLECTION = "pages_ABOUT2"
 
 client = pymongo.MongoClient(connection_string, username=username, password=password, authSource=authSource,
                              authMechanism=authMechanism)
 db = client[MONGODB_DB]
-regex = re.compile('test|' + TARGET_COLLECTION)
+regex = re.compile('pages_a\d')
 
 def insert_col (name):
     source_col = db[name]
@@ -38,8 +38,8 @@ def insert_col (name):
 
 def find_cols ():
     all_col_names = db.list_collection_names()
-    non_test_col_names = [x for x in all_col_names if not regex.search(x)]
-    return non_test_col_names
+    col_names = [x for x in all_col_names if regex.search(x)]
+    return col_names
 
 # run main
 all_cols = find_cols ()
