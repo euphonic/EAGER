@@ -43,12 +43,12 @@ head(in.web_pages)
 
 # number of patents all
 head(in.pat_all)
-num_patents_all_by_firm <- in.pat_all %>% inner_join(in.eager_assignee, by = c("name_clnd")) %>% group_by(name_clnd) %>% 
+num_patents_all_by_firm <- in.pat_all %>% inner_join(in.eager_assignee, by = c("organization_clnd" = "lookup_firm")) %>% group_by(organization_clnd) %>% 
   summarize(num_patents_all = sum(count.p.id.))
 head(num_patents_all_by_firm)
 
 # number of patents 3 industries
-num_patents_3_by_firm <- in.pat_3 %>% inner_join(in.eager_assignee, by = c("organization_clnd")) %>% group_by(organization_clnd) %>% 
+num_patents_3_by_firm <- in.pat_3 %>% inner_join(in.eager_assignee, by = c("organization_clnd" = "lookup_firm")) %>% group_by(organization_clnd) %>% 
   summarize(num_patents_3 = sum(count.epa.id.))
 num_patents_3_by_firm
 

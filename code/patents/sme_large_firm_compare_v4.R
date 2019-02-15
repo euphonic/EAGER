@@ -101,7 +101,9 @@ firm_about_page_measures = in.web_pages %>% group_by(firm_name)  %>%
 # merge in website data (just about page measures)
 head (firm_about_page_measures)
 patents_web_emps <- in.pat_all %>% inner_join(in.eager_assignee, by = c("organization_clnd" = "lookup_firm")) %>% 
-  inner_join(firm_about_page_measures, by = c("organization_clnd" = "firm_name"))
+  inner_join(in.web_pages_all, by = c("organization_clnd" = "firm_name"))
+# patents_about_emps <- in.pat_all %>% inner_join(in.eager_assignee, by = c("organization_clnd" = "lookup_firm")) %>% 
+#  inner_join(in.web_pages, by = c("organization_clnd" = "firm_name"))
 
 nrow(patents_web_emps)
 View(patents_web_emps)
