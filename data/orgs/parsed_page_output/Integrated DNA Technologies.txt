@@ -1,0 +1,713 @@
+Toggle Dropdown
+My account
+Order history
+Wish list
+LabLinker
+OligoCards
+Site admin
+Sign out
+Choose location 
+More >>
+Chat now
+Submit question
+ Protocols
+ FAQs
+ Videos & webinars
+Toggle navigation
+Products & services  
+& RNA
+Custom oligos
+Custom oligos
+Large-scale synthesis
+SameDay oligos
+Inventoried oligos
+Oligo modifications
+Genes & gene fragments
+Double-stranded fragments
+Single-stranded fragments
+Custom gene synthesis
+Next generation sequencing
+Exome
+Panels
+Custom probes & panels
+Adapters
+Blockers
+Hybridization and wash kit
+q
+& PCR
+Gene expression
+Genotyping
+Custom probes
+Custom primers
+Master mixes & reagents
+genome editing
+CRISPR-Cas9
+CRISPR-Cas12a (Cpf1)
+enzymes
+Genome editing detection
+Functional genomics
+interference
+Antisense oligos
+miinhibitors
+Reagents & kits
+Mutation detection
+Microbial detection
+Oligo length standards
+Nuclease detection and control
+Buffers and solutions
+Optional services
+& purification
+Formulation & Packaging 
+Custom quality control
+GMP, & integrations
+services
+products
+services
+Integrations
+OligoCard payment card
+Browse all products and services »
+Support & Education  
+Support
+Frequently asked questions
+User guides and protocols
+Safety data sheets
+How to order
+Certificates of analysis
+Contact us
+Education
+online newsletter
+Webinars & video tutorials
+Biotech basics
+Technical reports
+Publications
+Tools  
+Oligo design & handling
+OligoAnalyzer Tool
+UNAFold Tool
+Resuspension Calculator
+Dilution Calculator
+Genome Editing
+Alt-Predesigned Cas9 crSelection Tool
+Alt-Custom Cas9 crDesign Tool
+CRISPR-Cas9 Design Checker
+q
+Assay Design
+PrimerQuest Tool
+Realtime Tool
+Predesigned 
+q
+Assays
+PrimeTime Multiplex Dye Selection
+Gene Regulation and RNA
+i
+Predesigned DsiSelection Tool
+RNAi Design Tool
+Genotyping
+rhAmp Genotyping Design Tool
+Genes & gene fragments
+Codon Optimization Tool
+gBlocks Gene Fragments Entry Tool
+Order status (Genes & gene fragments only)
+tools
+Target capture probe design & ordering
+Browse all tools »
+Company  
+About
+Our core values
+Payment information
+News & events
+Supplier information
+Privacy
+Contact us
+Sustainability
+2015/16 Sustainability report
+Careers
+General information
+Environmental policy
+Usage, warranty & licenses
+Safety policy
+LabLinker
+Order Menu
+Scientists vote best-in-class for customer experience
+Learn More
+Are you using the best gfor your editing?
+ Introducing new Alt-gRNAs
+Explore guide options
+Advanced technology to minimize off-target effects
+ Alt-HiFi Cas9 nuclease
+Learn More
+Minimizing oligonucleotide cross talk through the most advanced manufacturing
+ TruGrade
+™
+ Oligos
+Get Started
+Previous
+Next
+& RNA
+Save time and resources with industry-leading oligos manufactured to your specifications to accommodate all your diverse research needs.
+Custom oligos
+   •  
+Custom oligos
+Large-scale synthesis
+   •  
+SameDay oligos
+Genes & gene fragments
+Reliably create genomic constructs with sequence-verified gBlocks fragments or simply order cloned products for convenience.
+Double-stranded fragments
+Single-stranded fragments
+   •  
+Custom genes
+Reagents & kits
+High quality genomics reagents to complete experimental workflows.
+Mutation detection
+Nuclease detection & control
+   •  
+Buffers & solutions
+genome editing
+Achieve higher efficiency genome editing and avoid toxicity or innate immune responses with Alt-products.
+CRISPR-Cas9
+   •  
+CRISPR-Cas12a (Cpf1)
+enzymes
+   •  
+Genome editing detection
+q& PCR
+Experience greater sensitivity and better confidence in your data with PrimeTime and rhAmp products.
+Gene expression
+   •  
+Genotyping
+Custom probes
+   •  
+Master mixes & reagents
+GMP, & integrations
+Products manufactured to your specifications through personalized interactions with dedicated account advocates.
+services
+   •  
+products
+services
+   •  
+Integrations
+Next generation sequencing
+Consistently achieve greater sensitivity, higher throughput, and better uniformity with xGen products.
+Exome
+   •  
+Panels
+   •  
+Custom probes
+Adapters
+   •  
+Blockers
+Functional genomics
+Achieve increased potency and better specificity in loss-of-function studies using short oligos.
+interference
+Antisense oligos
+   •  
+miinhibitors
+Optional services
+Customized services to enhance the purity, QC, formulation, or other specifications of select standard product offerings.
+& purification
+   •  
+Formulation &
+packaging
+   •  
+Custom quality control
+OligoAnalyzer
+®
+ Tool
+PrimerQuest
+®
+ Tool
+More tools
+DECODED
+®
+ online newsletter
+Application reviews, lab tips, and citation summaries to facilitate your research
+All articles
+Protocols for genome editing in your model system
+Looking for genome editing protocols? Read about our growing library of protocols and user methods—we may have what you need to get started. And, if you have a novel protocol for using Alt-and/or nucleases, find out how to share it with the research community.
+Sign up for our weekly newsletter to get the latest techniques, tips and educational content. 
+Subscribe
+xGen
+®
+ Hybridization and Wash Kit
+Quick, easy, reproducible target capture workflow
+Learn more
+800 328 2661
+Company
+Careers
+Sustainability
+News & events
+Contact us
+Products
+& RNA
+genome editing
+Next generation sequencing
+Genes & gene fragments
+q& PCR
+Functional genomics
+Reagents and kits
+GMP, & integrations
+Optional services
+OligoCard
+Support
+User guides & protocols
+Safety data sheets
+Frequently asked questions
+Supplier information
+Contact us
+Education
+DECODED
+Webinars & video tutorials
+Biotech basics
+Publications
+Technical reports
+Tools
+OligoAnalyzer Tool
+Oligo Entry
+PrimerQuest Tool
+gBlocks Gene Fragments Entry
+UNAFold
+Codon Optimization Tool
+All tools
+© 2019 Technologies, Inc.
+Usage, warranty & licensing
+ | 
+Privacy policy
+ | 
+Site mapToggle Dropdown
+My account
+Order history
+Wish list
+LabLinker
+OligoCards
+Site admin
+Sign out
+Choose location 
+More >>
+Chat now
+Submit question
+ Protocols
+ FAQs
+ Videos & webinars
+Toggle navigation
+Products & services  
+& RNA
+Custom oligos
+Custom oligos
+Large-scale synthesis
+SameDay oligos
+Inventoried oligos
+Oligo modifications
+Genes & gene fragments
+Double-stranded fragments
+Single-stranded fragments
+Custom gene synthesis
+Next generation sequencing
+Exome
+Panels
+Custom probes & panels
+Adapters
+Blockers
+Hybridization and wash kit
+q
+& PCR
+Gene expression
+Genotyping
+Custom probes
+Custom primers
+Master mixes & reagents
+genome editing
+CRISPR-Cas9
+CRISPR-Cas12a (Cpf1)
+enzymes
+Genome editing detection
+Functional genomics
+interference
+Antisense oligos
+miinhibitors
+Reagents & kits
+Mutation detection
+Microbial detection
+Oligo length standards
+Nuclease detection and control
+Buffers and solutions
+Optional services
+& purification
+Formulation & Packaging 
+Custom quality control
+GMP, & integrations
+services
+products
+services
+Integrations
+OligoCard payment card
+Browse all products and services »
+Support & Education  
+Support
+Frequently asked questions
+User guides and protocols
+Safety data sheets
+How to order
+Certificates of analysis
+Contact us
+Education
+online newsletter
+Webinars & video tutorials
+Biotech basics
+Technical reports
+Publications
+Tools  
+Oligo design & handling
+OligoAnalyzer Tool
+UNAFold Tool
+Resuspension Calculator
+Dilution Calculator
+Genome Editing
+Alt-Predesigned Cas9 crSelection Tool
+Alt-Custom Cas9 crDesign Tool
+CRISPR-Cas9 Design Checker
+q
+Assay Design
+PrimerQuest Tool
+Realtime Tool
+Predesigned 
+q
+Assays
+PrimeTime Multiplex Dye Selection
+Gene Regulation and RNA
+i
+Predesigned DsiSelection Tool
+RNAi Design Tool
+Genotyping
+rhAmp Genotyping Design Tool
+Genes & gene fragments
+Codon Optimization Tool
+gBlocks Gene Fragments Entry Tool
+Order status (Genes & gene fragments only)
+tools
+Target capture probe design & ordering
+Browse all tools »
+Company  
+About
+Our core values
+Payment information
+News & events
+Supplier information
+Privacy
+Contact us
+Sustainability
+2015/16 Sustainability report
+Careers
+General information
+Environmental policy
+Usage, warranty & licenses
+Safety policy
+LabLinker
+Order Menu
+Contact us
+Customer Care and Technical Services
+ are available via phone and email at the numbers and addresses listed below. Use the 
+Chat now
+ button to reach us by web chat.
+We service customers through direct sales and a network of distributors. Our staff includes experts in molecular biology, oligonucleotide design, sequencing, mutagenesis, PCR, and related research applications. We are available for consultation before or after an order is placed.
+Asia Pacific
++65 6775 9187
+Australia
+1 800 092 259
+Canada
+1 800 328 2661
+Europe
++32 (0) 16 28 22 60 | FAX: +32 (0) 16 79 52 32
+Japan
++81 (0) 3 6865 1217
+New Zealand
+0800 480 236
+South Korea
++82 (0) 31 556 3905
+United States
+1 800 328 2661
+Chat online with a representative:
+ Chat now
+Locations and mailing addresses
+Corporate headquarters
+Technologies, Inc.
+8180 McCormick Blvd.
+Skokie, Illinois 60076
+USA
+Production
+Asia Pacific
+Pte. Ltd.
+41 Science Park Road
+#01-28 The Gemini
+Singapore Science Park II
+Singapore 117610
+Area maps, hotels and directions
+Europe
+Technologies, BVBA
+Interleuvenlaan 12A
+B-3001 Leuven
+Area maps, hotels and directions
+United States
+Technologies, Inc.
+1710 Commercial Park
+Coralville, Iowa 52241
+Area maps, hotels and directions
+United States
+Technologies, Inc.
+6828 Nancy Ridge Drive
+San Diego, California 92121
+Area maps, hotels and directions
+Research and development
+Technologies, Inc.
+Center of Excellence for Research & Development
+200 Chesapeake Drive
+Redwood City, California 94063
+Area maps, hotels and directions
+Technologies, Inc.
+1710 Commercial Park
+Coralville, Iowa 52241
+Area maps, hotels and directions
+Sales offices
+Australia Pty Ltd.
+Unit 7/11-13 Brookhollow Avenue
+Baulkham Hills, 2153
+Technologies, KK
+Mita Kokusai Bldg. 24F
+1-4-28 Mita
+Minato-ku, Tokyo 108-0073
+Mbiotech, Inc. – An Company
+942 ITECO, 150, Jojeong-daero
+Hanam-si, Gyeonggi-do 12930
+Distributors
+distributor list
+(57 KB)
+800 328 2661
+Company
+Careers
+Sustainability
+News & events
+Contact us
+Products
+& RNA
+genome editing
+Next generation sequencing
+Genes & gene fragments
+q& PCR
+Functional genomics
+Reagents and kits
+GMP, & integrations
+Optional services
+OligoCard
+Support
+User guides & protocols
+Safety data sheets
+Frequently asked questions
+Supplier information
+Contact us
+Education
+DECODED
+Webinars & video tutorials
+Biotech basics
+Publications
+Technical reports
+Tools
+OligoAnalyzer Tool
+Oligo Entry
+PrimerQuest Tool
+gBlocks Gene Fragments Entry
+UNAFold
+Codon Optimization Tool
+All tools
+© 2019 Technologies, Inc.
+Usage, warranty & licensing
+ | 
+Privacy policy
+ | 
+Site mapToggle Dropdown
+My account
+Order history
+Wish list
+LabLinker
+OligoCards
+Site admin
+Sign out
+Choose location 
+More >>
+Chat now
+Submit question
+ Protocols
+ FAQs
+ Videos & webinars
+Toggle navigation
+Products & services  
+& RNA
+Custom oligos
+Custom oligos
+Large-scale synthesis
+SameDay oligos
+Inventoried oligos
+Oligo modifications
+Genes & gene fragments
+Double-stranded fragments
+Single-stranded fragments
+Custom gene synthesis
+Next generation sequencing
+Exome
+Panels
+Custom probes & panels
+Adapters
+Blockers
+Hybridization and wash kit
+q
+& PCR
+Gene expression
+Genotyping
+Custom probes
+Custom primers
+Master mixes & reagents
+genome editing
+CRISPR-Cas9
+CRISPR-Cas12a (Cpf1)
+enzymes
+Genome editing detection
+Functional genomics
+interference
+Antisense oligos
+miinhibitors
+Reagents & kits
+Mutation detection
+Microbial detection
+Oligo length standards
+Nuclease detection and control
+Buffers and solutions
+Optional services
+& purification
+Formulation & Packaging 
+Custom quality control
+GMP, & integrations
+services
+products
+services
+Integrations
+OligoCard payment card
+Browse all products and services »
+Support & Education  
+Support
+Frequently asked questions
+User guides and protocols
+Safety data sheets
+How to order
+Certificates of analysis
+Contact us
+Education
+online newsletter
+Webinars & video tutorials
+Biotech basics
+Technical reports
+Publications
+Tools  
+Oligo design & handling
+OligoAnalyzer Tool
+UNAFold Tool
+Resuspension Calculator
+Dilution Calculator
+Genome Editing
+Alt-Predesigned Cas9 crSelection Tool
+Alt-Custom Cas9 crDesign Tool
+CRISPR-Cas9 Design Checker
+q
+Assay Design
+PrimerQuest Tool
+Realtime Tool
+Predesigned 
+q
+Assays
+PrimeTime Multiplex Dye Selection
+Gene Regulation and RNA
+i
+Predesigned DsiSelection Tool
+RNAi Design Tool
+Genotyping
+rhAmp Genotyping Design Tool
+Genes & gene fragments
+Codon Optimization Tool
+gBlocks Gene Fragments Entry Tool
+Order status (Genes & gene fragments only)
+tools
+Target capture probe design & ordering
+Browse all tools »
+Company  
+About
+Our core values
+Payment information
+News & events
+Supplier information
+Privacy
+Contact us
+Sustainability
+2015/16 Sustainability report
+Careers
+General information
+Environmental policy
+Usage, warranty & licenses
+Safety policy
+LabLinker
+Order Menu
+Environmental Policy
+Technologies, Inc. is committed to minimizing the environmental impacts of its manufacturing and research operations and its products and services, and to continuously improving its environmental management programs.
+It is policy to:
+Prevent and reduce pollution to air, land, and water through programs that reduce environmental impacts and conserve natural resources.
+Identify, understand and commit to comply with applicable  legal and other requirements to which subscribes.
+Review environmental objectives and targets and set guidelines for reduction of environmental impacts.
+Evaluate the effectiveness of and continually improve our by:
+        
+Reviewing and understanding current environmental legislation
+Implementing an effective that addresses applicable customer and regulatory concerns
+Training and educating employees and those working on behalf of IDT
+Identifying the environmental impacts associated with company activities
+Setting targets and objectives to reduce or eliminate adverse impacts on the environment (e.g., source reduction and waste minimization practices).
+Sustainability
+ page for more information on the steps is taking to reduce environmental impact.
+800 328 2661
+Company
+Careers
+Sustainability
+News & events
+Contact us
+Products
+& RNA
+genome editing
+Next generation sequencing
+Genes & gene fragments
+q& PCR
+Functional genomics
+Reagents and kits
+GMP, & integrations
+Optional services
+OligoCard
+Support
+User guides & protocols
+Safety data sheets
+Frequently asked questions
+Supplier information
+Contact us
+Education
+DECODED
+Webinars & video tutorials
+Biotech basics
+Publications
+Technical reports
+Tools
+OligoAnalyzer Tool
+Oligo Entry
+PrimerQuest Tool
+gBlocks Gene Fragments Entry
+UNAFold
+Codon Optimization Tool
+All tools
+© 2019 Technologies, Inc.
+Usage, warranty & licensing
+ | 
+Privacy policy
+ | 
+Site map

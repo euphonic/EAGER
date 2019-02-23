@@ -12,5 +12,3 @@ for row in csv_in:
     firm = row[0]
     firm_clnd = re.sub('(\.|,| corporation| incorporated| llc| inc| international| gmbh| ltd)', '', firm, flags=re.IGNORECASE).rstrip()
     csv_out.writerow(firm_clnd)
-
-np.is

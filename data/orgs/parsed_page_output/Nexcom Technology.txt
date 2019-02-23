@@ -1,0 +1,273 @@
+Contact Us
+Inquiry 
+RSS
+Worldwide(USA)
+Products
+Solutions
+News
+Support
+Partners
+About 台灣
+中国
+Italia
+日本
+UK
+Industrial Fanless Computer
+Atom™ Compact
+Atom™ Power
+Core™-i Performance
+Front Access Core™-i
+Machine Automation
+Controller
+EtherMotion Controller
+EtherSlave Module
+EtherCAT-based Robot Solutions
+Machine Automation Controller
+PC-based Factory Automation 
+Fieldbus MiniPCIe Modules
+Automation Industrial Computer
+MiniPCIe Module Expansions - COM
+MiniPCIe Module Expansions - LAN
+Softlogic Controller
+Tray Rackmount
+Video
+at TAi2017
+Application Stories
+Predictive Diagnostic Maintenance to Safeguard System in Semiconductor Factoriesy
+PC-Based Controller Integrates Billing System for Car Washes in Dubai
+NEXCOM's 1533Controller Attains Stability to Boost Cookie Packing Outcome
+Panel PC
+Applied Panel PC/ Monitor
+Human Machine Interface
+Industrial Panel PC/ Monitor
+Teach Pendant
+Software Solution 
+IntervalZero - RTOS
+Professional Software Service – BIOS, Bootloader, Kernel, eAPI, Driver & Embedded OS/BSP
+Remote Management Tools - Xcare™ 3.0
+SCADA, SoftImplementation
+Industry Firewall Solution
+Industrial Wireless Solutions
+Industrial Wi-Fi
+Outdoor Wi-Fi
+Remote Network Management
+IoSolutions
+IoGateway
+IoStudio
+Gateway
+Vehicle Telematics Computer
+Vehicle Gateway
+Fleet Management
+Public Transit / Public Works
+First Response Vehicles
+Security
+Vehicle Mount Computer
+Port Management
+Fleet Management
+Warehouse Management 
+Public Transit
+Modular Vehicle Computer System
+Public Transit / Public Works
+First Response Vehicles
+Security
+Railway Computer
+Security w/ software
+Passenger Information System
+Security
+Mobile NVR
+Vehicle w/ software
+Train w/ software
+Vehicle Mount Display
+7"
+8"
+10"
+In-Vehicle Networking
+PoSwitch
+Advanced Telematics Computer
+Video
+Transportation: All-In-One Vehicle Mount Computer for Port and Warehouse Logistics
+In-vehicle Computers Deliver Emergency Healthcare with in the Netherlands
+Application Stories
+Passenger Information System Boosts Customer Satisfaction in European Buses
+3Camera
+Camera
+Box Camera
+Indoor Dome Camera
+Bullet Camera
+Mobile Camera
+Outdoor Dome Camera
+Hardware Platform
+Tower NVR
+Mobile NVR
+Rack NVR
+Panoramic Camera
+180-degree Panoramic Camera
+ANPR/LPR
+High Speed
+Mid Range
+Short Range
+Video
+3Camera for Transportation Business Intelligence
+Application Stories
+NEXCOM's Cameras Augment Surveillance Accuracy and Coverage in Sydney Car Park
+Turn Surveillance Video into Actionable Intelligence
+Digital Signage Player
+High-performance Player
+Multi-display Player
+Player
+Value Player
+Appliance Solutions
+Central Management Appliance
+Media Player Appliance
+Video Wall Signage Solutions
+Interactive Signage Solution Packs
+Digital Signage Solution
+Instant Digital Shelf Solution
+Retail Analytics Solution
+Interactive Gesture Controlled Solution
+Video Analytics Solution
+Kiosk Panel PC
+16:9 Kiosk Panel PC
+Intelligent Kiosk Solution
+Open Frame Panel PC
+4:3 Open Frame Panel PC
+Passenger Information Panel PC
+All-in-one Panel PC
+Display
+Marine Computer
+Fanless Computer
+Panel PC
+POS
+Mid-Range Terminal
+High Performance Terminal
+Touch Monitor
+Box PC
+Embedded Computing
+3.5'' / 5.25'' SBC
+Computer-on-Module
+Mini-MB
+Starter Kits
+Industrial Rackmount Computer
+Industrial Motherboard
+Rackmount System
+1.0/1.3 BackPlane
+1.0/1.3 SBC
+Accelerator
+AIBooster-X8
+Video
+Smart Engine ‧ Smart City at 2019
+Smart Retail Solution at 2018
+Application Stories
+Digital Signage Player Captivates Customers Facilitating Self-Shopping
+Digital Signage Player Helps Bus Passengers Adjust Trips Timely
+Cyber Security Solutions
+Desktop
+- Soc Based Appliance
+- X86 Based Appliance
+Rackmount
+- SoBased Appliance
+- X86 Based Entry Level Appliance
+- X86 Based Mainstream Appliance
+- X86 Based Performance Appliance
+Module
+Edge & Cloud Solutions
+CPE/vAppliance
+SD-Appliance
+Datacenter Appliance
+Industrial Gateway Solutions
+SoC-Based Appliance
+X86-Based Appliance
+Network Peripheral Solutions
+Switch
+Storage
+Video
+Carrier Grade Open Network in 5G
+Networking and Communication: Powerful Enterprise Networking Solution for Cybersecurity Application
+IoGateway
+101
+NMCB101C
+Video Conference System
+Software Package
+ToGazer
+Download
+White Papers
+Open Innovation Platform Helps Shape the Landscape of IoApplications
+WebPromotes Cross-Platform Video Messaging, Inspiring Creative IIoUses
+HealthCare & Medical
+Feb. 5-8, 2019
+ Amsterdam, Netherlands
+Aug. 29 - Sep. 1, 2018
+Nangang, Taipei
+Sep. 18-21, 2018
+Berlin, Germany
+Committed to Customer Success
+Cookie
+Privacy
+SitemapSmart Engine ‧ Smart City at 2019
+Reliable Partner for the Intelligent Solutions
+Founded in 1992 and headquartered in Taipei, Taiwan, is committed to being your trustworthy partner in building the intelligent solutions. To surpass customers' expectations, makes the difference by utilizing its decades of industrial computing experience, a highly talented R&team, and by providing exceptional levels of customer service. With these core strengths, has enabled its customers to win key projects in a diverse range of industries.
+With its focus on delivering these core values to better serve customers, integrates its capabilities and operates six global businesses, which are IoAutomation Solutions (IAS), Intelligent Digital Security (IDS), Internet of Things (IoT), Intelligent Platform & Services (IPS), Mobile Computing Solutions (MCS), and Network and Communication Solutions (NCS). This strategic deployment enables to offer time-to-market, time-to-solution products and service without compromising cost.
+In addition, the service-to-market business model gives core competence to build a strong world-class service network by providing customized service, global logistics, local access, and real-time support. Operating six subsidiaries, from China, Italy, Japan, Taiwan, the United States, to the United Kingdom, is able to better facilitate customers' requirements as well as closely work with global partners in different regions.
+Partners should also be assured that NEXCOM's Taiwan based Headquarters and subsidiary offices in China, and have obtained 9001:2008 Certification.
+Corporate Vision
+To become the industrial leader in providing intelligent solutions, utilizes its industry leading technology, localized customer support and worldwide logistics services. This will be achieved by:
+Great team work
+quality partner in engineering, manufacturing and services
+Business Strategy
+Aim to better support the activities of all its partners, divides its sales force into six dedicated business units to target rapidly expanding vertical markets. This enhances each business unit concentrating on strategic channel accounts and on repeat order business. Moreover, NEXCOM's business units have been set up to serve the requirements of key project accounts, where product and project support are frequently required.
+is working with embedded computing solution providers to envision new opportunities for growth. We'll help you deliver reliable vertical solutions, optimized for the next wave of Ioand Industry 4.0.
+24/7 Production Line Optimal Manufacturing Efficiency
+Over a decade ago, successfully launched the series of Single Board Computers onto the market, and in doing so, gained a solid reputation for product quality and innovation. In subsequent years, has enhanced its reputation for R&excellence with a multitude of high-end products, which has cemented as one of the industry leaders for R&and innovation.
+The mission of R&team is to design exceptional products that meet the stringent requirements of today's global markets. In order to achieve this goal, we have recruited hundreds of talented engineers who have the knowledge and expertise to make NEXCOM's products stand out in this highly competitive market.
+offers solutions for Iogateway, robot controller, connected cars, Industry 4.0, and industrial security applications. The team is encouraged to "Think with New Ideas" and "Know how to make it and do it right first time". In addition, 's R&team has been expanded to over 300 engineers with the ration of software engineers to hardware engineers coming to about 1:1, and remains as one of core competences of the company.
+Versatile Design Capabilities
+High availability network security platform, blade, and cPCI
+Rugged tablet computer and car PC
+Ultra small footprint computer-on-module
+Quality Assurance
+Committed to Customer Success©2011 International Co., Ltd. All Rights Reserved. Cookie Privacy Sitemap
+Take a minute and tell us what you think!Contact Us
+Inquiry 
+RSS
+Worldwide(USA)
+Products
+Solutions
+News
+Support
+Partners
+About 台灣
+中国
+Italia
+日本
+UK
+Home
+Partners
+Partners
+IoAutomation Partners
+Cyber Physical System Partners
+Alliance Partners
+Business Strategic Partners
+Software Solution Partners
+Channel Partners
+Solutions Demo
+see more
+Video
+see more
+Partners
+works closely with worldwide channel partners to deliver products and services with speed, quality and reliability. provides the latest information to our customers and meets channel partners' needs in turn.
+IoAutomation Partners
+and Automation Partners provide system integration and total vertical market solutions for industrial applications.
+Cyber Physical System Partners
+has worked with Cyber Physical System Partners to offer comprehensive solutions to accelerate the convergence of operational and information technology.
+Alliance Partners
+joins the industry alliances and allows our customers to enjoy the synergy.
+Business Strategic Partners
+In alliance with well-established companies across industries, and partners strive to fulfill customer expectations, and by doing so achieve mutual growth.
+Software Solution Partners
+and software partners provide total solutions designed with functions that best suit customer need.
+Channel Partners
+works closely with worldwide channel partners to deliver products and services with speed, quality and reliability. Find a nearby distributor right away.
+Committed to Customer Success
+Cookie
+Privacy
+Sitemap

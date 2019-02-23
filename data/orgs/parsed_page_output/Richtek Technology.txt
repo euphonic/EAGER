@@ -1,0 +1,595 @@
+About Contact Us
+English
+簡体中文
+繁體中文
+Everything
+Product
+Technical Document
+Reference Design
+Design Tools
+Cross Reference
+0
+Parametric Search
+---Select Product Portfolio---
+Linear Regulators (LDO)
+Switching Regulators
+Vcore
+Drivers
+DrMOS
+Power Switches
+Battery Management
+Interface and Controllers
+Drivers
+Rail to Rail Op Amps
+Power Management Multi-Channel ICs (PMIC)
+Supervisors
+Motor Drivers
+AC-DC
+Audio
+Others
+Hi,
+[please login]
+Login
+ / 
+Register
+0
+Driver Solutions
+Motor Drivers
+Automotive Solutions
+Wide Series
+ECG/Solution
+Designer™
+Voltage Regulator
+Driver
+Product
+Quick Search
+Enter your power supply
+requirements:
+Vin(min)
+Vin(max)
+Vout(max)
+Iout(max)
+Search
+Driver
+Quick Search
+Configure Driver Source:
+DC/DC
+AC/DC
+MR16
+Topology:
+ALL
+Boost
+Boost + Current Source
+Buck
+Buck + Boost
+Buck-boost
+Charge Pump
+CP
+CP+CS
+Current Source
+Topology:
+ALL
+Buck
+Buck-Boost
+Flyback
+PSR
+Topology:
+ALL
+Buck
+Two Stage Boost/Buck
+Integrated:
+ALL
+Yes
+No
+Integrated:
+ALL
+Yes
+No
+Integrated:
+ALL
+Yes
+No
+Application:
+ALL
+General Lighting
+Handheld Backlighting
+Monitor Backlighting
+Backlighting
+Backlighting
+Isolation:
+ALL
+Isolation
+Non-Isolation
+Dimmable:
+ALL
+Yes
+No
+Dimming:
+ALL
+Analog
+I2C
+Phase-Cut
+PWM
+PWM-to-Analog
+Dimming:
+ALL
+Analog
+Phase-Cut Dimming
+PWM
+Search
+Featured Products
+3-Axis Digital Accelerometer
+Get EVB
+Free sample
+Not available
+3-Axis Digital Accelerometer
+Get EVB
+Free sample
+Not available
+36V, 2μI
+Q
+, Peak 200mA, Low Dropout Voltage Linear Regulator
+Get EVB
+Free sample
+On Line Buy
+1.2A, 36V, 2.1MHz Synchronous Step-Down Converter
+Get EVB
+Free sample
+On Line Buy
+Low-Power, Integrated ECG/for Heart-Rate Monitoring and Measurements
+Get EVB
+Free sample
+On Line Buy
+Get EVB
+Free sample
+Not available
+1A, 36V, 2.1MHz Synchronous Step-Down Converter
+Get EVB
+Free sample
+On Line Buy
+1A, 5.5V, Ultra Low Dropout Linear Regulator
+Get EVB
+Free sample
+On Line Buy
+Ultra-Low Quiescent Current Buck Converter
+Get EVB
+Free sample
+On Line Buy
+Single Output Supply and Control Voltage Regulator
+Get EVB
+Free sample
+On Line Buy
+with a Diode
+Get EVB
+Free sample
+On Line Buy
+Single Output Supply and Control Voltage Regulator
+Get EVB
+Free sample
+On Line Buy
+Video
+Introducing integrated ECG/solution for heart rate sensors
+How to measure Buck converter loop gain and phase
+- How to make a DC/converter prototype in just a few hours
+Get to Know Us
+About News Release
+Find Products
+Switching Regulators
+Motherboard
+Parametric Search
+Cross Reference
+Get Support
+Technical Documents
+Design Tools
+Contact Us
+My My Profile
+Product Newsletters
+Datasheet Alert
+Follow Us
+Youtube
+LinkedIn
+Facebook
+Mobile Site
+Privacy Policy
+Copyright © 2019 Corporation. All Rights Reserved.
+同意 AGREE
+This website uses cookies to enhance the user experience. By continuing to browse the site you are agreeing to our use of cookies. 
+Find out more here.
+TOPAbout Contact Us
+English
+簡体中文
+繁體中文
+Everything
+Product
+Technical Document
+Reference Design
+Design Tools
+Cross Reference
+0
+Parametric Search
+---Select Product Portfolio---
+Linear Regulators (LDO)
+Switching Regulators
+Vcore
+Drivers
+DrMOS
+Power Switches
+Battery Management
+Interface and Controllers
+Drivers
+Rail to Rail Op Amps
+Power Management Multi-Channel ICs (PMIC)
+Supervisors
+Motor Drivers
+AC-DC
+Audio
+Others
+Hi,
+[please login]
+Login
+ / 
+Register
+0
+About more
+more
+more
+more
+more
+more
+more
+more
+more
+more
+Get to Know Us
+About News Release
+Find Products
+Switching Regulators
+Motherboard
+Parametric Search
+Cross Reference
+Get Support
+Technical Documents
+Design Tools
+Contact Us
+My My Profile
+Product Newsletters
+Datasheet Alert
+Follow Us
+Youtube
+LinkedIn
+Facebook
+Mobile Site
+Privacy Policy
+Copyright © 2019 Corporation. All Rights Reserved.
+同意 AGREE
+This website uses cookies to enhance the user experience. By continuing to browse the site you are agreeing to our use of cookies. 
+Find out more here.
+TOPAbout Contact Us
+English
+簡体中文
+繁體中文
+Everything
+Product
+Technical Document
+Reference Design
+Design Tools
+Cross Reference
+0
+Parametric Search
+---Select Product Portfolio---
+Linear Regulators (LDO)
+Switching Regulators
+Vcore
+Drivers
+DrMOS
+Power Switches
+Battery Management
+Interface and Controllers
+Drivers
+Rail to Rail Op Amps
+Power Management Multi-Channel ICs (PMIC)
+Supervisors
+Motor Drivers
+AC-DC
+Audio
+Others
+Hi,
+[please login]
+Login
+ / 
+Register
+0
+My Profile
+*
+Resend
+*
+*
+Email not match
+*
+*
+Password not match
+*
+*
+*
+*
+*
+*
+Shipping Information
+*
+*
+*
+*
+-
+-
+-
+-
+-
+-
+Get to Know Us
+About News Release
+Find Products
+Switching Regulators
+Motherboard
+Parametric Search
+Cross Reference
+Get Support
+Technical Documents
+Design Tools
+Contact Us
+My My Profile
+Product Newsletters
+Datasheet Alert
+Follow Us
+Youtube
+LinkedIn
+Facebook
+Mobile Site
+Privacy Policy
+Copyright © 2019 Corporation. All Rights Reserved.
+同意 AGREE
+This website uses cookies to enhance the user experience. By continuing to browse the site you are agreeing to our use of cookies. 
+Find out more here.
+TOPAbout Contact Us
+English
+簡体中文
+繁體中文
+Everything
+Product
+Technical Document
+Reference Design
+Design Tools
+Cross Reference
+0
+Parametric Search
+---Select Product Portfolio---
+Linear Regulators (LDO)
+Switching Regulators
+Vcore
+Drivers
+DrMOS
+Power Switches
+Battery Management
+Interface and Controllers
+Drivers
+Rail to Rail Op Amps
+Power Management Multi-Channel ICs (PMIC)
+Supervisors
+Motor Drivers
+AC-DC
+Audio
+Others
+Hi,
+[please login]
+Login
+ / 
+Register
+0
+Product Newsletters
+Subscribe to Newsletter
+Search
+Year
+2018
+2017
+2016
+2015
+2014
+Search
+About 30 results
+3
+6
+9
+results per page.
+1
+2
+3
+4
+5
+Newsletter Issue 30
+2018/11/29
+INTEGRATED, APPLICATIONS
+Newsletter Issue 29
+2018/09/27
+RICHTEK'ECG/2-IN-1 & SOLUTION
+Newsletter Issue 28
+2018/07/26
+APPLICATIONS
+Newsletter Issue 27
+2018/05/24
+APPLICATIONS
+Newsletter Issue 26
+2018/03/29
+PHASE
+Newsletter Issue 25
+2018/01/25
+How to make a DC/converter prototype in just a few hours
+About 30 results
+3
+6
+9
+results per page.
+1
+2
+3
+4
+5
+Get to Know Us
+About News Release
+Find Products
+Switching Regulators
+Motherboard
+Parametric Search
+Cross Reference
+Get Support
+Technical Documents
+Design Tools
+Contact Us
+My My Profile
+Product Newsletters
+Datasheet Alert
+Follow Us
+Youtube
+LinkedIn
+Facebook
+Mobile Site
+Privacy Policy
+Copyright © 2019 Corporation. All Rights Reserved.
+同意 AGREE
+This website uses cookies to enhance the user experience. By continuing to browse the site you are agreeing to our use of cookies. 
+Find out more here.
+TOPAbout Contact Us
+English
+簡体中文
+繁體中文
+Everything
+Product
+Technical Document
+Reference Design
+Design Tools
+Cross Reference
+0
+Parametric Search
+---Select Product Portfolio---
+Linear Regulators (LDO)
+Switching Regulators
+Vcore
+Drivers
+DrMOS
+Power Switches
+Battery Management
+Interface and Controllers
+Drivers
+Rail to Rail Op Amps
+Power Management Multi-Channel ICs (PMIC)
+Supervisors
+Motor Drivers
+AC-DC
+Audio
+Others
+Hi,
+[please login]
+Login
+ / 
+Register
+0
+News Release
+Search
+Year
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+Search
+About 170 results
+10
+20
+30
+results per page.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Last Update
+Title
+2015/10/07
+Monthly Consolidated Sales Report –September 2015
+2015/09/09
+Monthly Consolidated Sales Report –August 2015
+2015/08/07
+Monthly Consolidated Sales Report –July 2015
+2015/07/08
+Monthly Consolidated Sales Report –June 2015
+2015/06/08
+Monthly Consolidated Sales Report –May 2015
+2015/05/07
+Monthly Consolidated Sales Report –April 2015
+2015/04/09
+Monthly Consolidated Sales Report –March 2015
+2015/03/06
+Monthly Consolidated Sales Report –February 2015
+2015/02/06
+Monthly Consolidated Sales Report –January 2015
+2015/01/09
+Monthly Consolidated Sales Report –December 2014
+About 170 results
+10
+20
+30
+results per page.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Get to Know Us
+About News Release
+Find Products
+Switching Regulators
+Motherboard
+Parametric Search
+Cross Reference
+Get Support
+Technical Documents
+Design Tools
+Contact Us
+My My Profile
+Product Newsletters
+Datasheet Alert
+Follow Us
+Youtube
+LinkedIn
+Facebook
+Mobile Site
+Privacy Policy
+Copyright © 2019 Corporation. All Rights Reserved.
+同意 AGREE
+This website uses cookies to enhance the user experience. By continuing to browse the site you are agreeing to our use of cookies. 
+Find out more here.
+TOPUh NO!
+We can't seem to find the 
+page you're looking for 
+Please review the and
+HOME
+PRODUCTS
+APPLICATIONS
+US

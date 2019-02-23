@@ -1,0 +1,284 @@
+Technology, headquartered in Fremont, California, is the world leader in Spin Transfer Torque Magnetic (STT-MRAM) non-volatile memory leveraging perpendicular magnetic tunnel junction (pMTJ) cell structure manufactured on 300mm standard process.
+Backed by more than 270+ granted patents around cell, circuit, and system design leveraging MRAM, our and products provide breakthrough speeds, unlimited endurance and non-volatility while reducing power and cost. With such attributes, our will serve and exceed our customers’ objectives as a replacement for SRAM, eFlash, and in embedded applications in addition to discrete SRAM, non-volatile SRAM, and DRAM.
+Industrial
+The next generation of compute capable, intelligent Ionodes will rely on the integration of the high density, reliable, instant access  “Next Generation MRAM” from that delivers the needed high performance unified memory architecture.
+IoT
+The next generation of compute capable, intelligent Ionodes will rely on the integration of the “Next Generation MRAM”  from that delivers the needed high performance unified memory architecture.
+Consumer
+The next generation of Low Power Portable Consumer devices in all segments from wearables to handheld, to hearables, to portable medical devices will rely on the integration of the high density, instant access, Non Volatile “Next Generation MRAM” from Technology.
+The “Next Generation MRAM” from delivers the needed high performance unified memory architecture to remove memory and input-output bottlenecks safely and reliably.
+(510) 897-3300Søke Forbrukslån
+ | 
+Nappikuulokkeet
+ | 
+Reise Kredittkort
+ | 
+Kraftpriser
+ | 
+Boligalarm Pris 2018
+ | 
+Forsikringsselskaper
+ | 
+Mobilselskaper i Norge
+ | 
+Teambuilding
+PRODUCTS
+Discrete MRAM
+Embedded MRAM
+Embedded 3Cross Point Papers and Conferences
+APPLICATIONS
+Industrial
+IoT
+Consumer
+Storage
+COMPANY
+Leadership
+Board
+News & Insights
+Careers
+CONTACT
+General Inquiry
+Product Inquiry
+Sample Request
+Evaluation Board or Kit Request
+PRODUCTS
+Discrete MRAM
+Embedded MRAM
+Embedded 3Cross Point Papers and Conferences
+APPLICATIONS
+Industrial
+IoT
+Consumer
+Storage
+COMPANY
+Leadership
+Board
+News & Insights
+Careers
+CONTACT
+General Inquiry
+Product Inquiry
+Sample Request
+Evaluation Board or Kit Request
+PRODUCTS
+Discrete MRAM
+Embedded MRAM
+Embedded 3Cross Point Papers and Conferences
+APPLICATIONS
+Industrial
+IoT
+Consumer
+Storage
+COMPANY
+Leadership
+Board
+News & Insights
+Careers
+CONTACT
+General Inquiry
+Product Inquiry
+Sample Request
+Evaluation Board or Kit Request
+var lsjQuery = jQuery;
+COMPANY
+Admin
+The Next Generation Company
+Technology, headquartered in Fremont, California, is the world leader in Spin Transfer Torque Magnetic (STT-MRAM) non-volatile memory leveraging perpendicular magnetic tunnel junction (pMTJ) cell structure manufactured on 300mm standard process.
+Backed by more than 270+ granted patents around cell, circuit, and system design leveraging MRAM, our and products provide breakthrough speeds, unlimited endurance and non-volatility while reducing power and cost. With such attributes, our will serve and exceed our customers’ objectives as a replacement for SRAM, eFlash, and in embedded applications in addition to discrete SRAM, non-volatile SRAM, and DRAM.
+Leadership
+Board
+News & Insights
+Careers
+3450 West Warren Avenue, Fremont, 94538Board
+The Board of Directors consists of venture capitalists and experienced senior executives with successful track records in the memory industry.
+Petro Estakhri – CEO/President/Founder/Director
+Petro Estakhri co-founded and has served as Chief Executive Officer for since August 2006. Prior Estakhri served as the Chief Officer of Lexar Media, Inc. which he founded in 1996. Lexar Media is a pioneer in flash memory for the digital photography, consumer electronics, and communications markets and grew from a private start-up to the 55th largest company in Silicon Valley prior to its acquisition by Micron Technology, Inc. in June 2006. From 1993 to 1996, Estakhri served as the Senior Director of Mass Storage Controller Engineering at Cirrus Logic, Inc., a supplier of semiconductors for Internet entertainment electronics, where he developed one of Cirrus Logic’s primary micro-controllers and co-founded the mass storage memory group. Estakhri also worked at and National Semiconductor. Estakhri has served as a member of a number of boards, including Lexar Media’s as well as Silicon Stor, a company that Estakhri co-founded in 2002. He currently sits on the board of Apixio. Estakhri is a co-author of more than 100 patents related to magnetic media, flash storage controller and systems architecture. Estakhri holds a and an in electrical and computer engineering from the University of California at Davis.
+Umesh Padval – Chairman of the Board
+Umesh Padval is a venture partner at Thomvest Ventures in Redwood City, California. He focusses on venture capital investments in cybersecurity and cloud infrastructure. He currently serves on private company boards of Lastline, Clari, Technology, Avnera, Tactus Technology, Blue Willow and public company boards of Mellanox and Integrated Device Technology. He has extensive board experience serving on over 20 public and private company boards and several audit, compensation and nominating and governance committees.
+Prior to joining Thomvest, Umesh was a successful entrepreneur, investor and of a public company. He most recently worked as an investor at Bessemer Venture Partners office in Menlo Park where he focused on investments in cloud and data center infrastructure, Big data and hardware sectors.
+Prior to Bessemer, he worked as an executive vice president at after its acquisition of a public video infrastructure and distribution company, C-Cube Microsystem. At C-Cube, Umesh served as president and and grew the company profitably to over $300m in revenue and 500 employees with a global presence.
+Previously he was a board member at Skyhigh Networks(Private,Sold to McAfee),Avnera (Private,Sold to Skyworks),C-Cube Microsystem (Public,Sold to LSI), Entropic Communications (Public, Sold to Maxlinear), Silicon Image (Public, Sold to Lattice), Elantec (Public, Sold to Intersil), Berkeley Design Automation (Private,Sold to Mentor Graphics), Monolithic Power systems (Public), Tilera (Private, Sold to chip) and semi (Private, Sold to Apple)
+Umesh holds a Bachelor in from Indian Institute of Technology, Mumbai and a Master’s degree in engineering from Stanford University. He served on several advisory boards at Stanford University and currently serves on the boards of Palo Alto Medical Foundation and Sutter Medical group.
+Don Butler – Director
+Don Butler is a Managing Director with Thomvest Ventures. In addition to his work with and several other companies, Don’s past investments have included Lending Club (NYSE: LC), FlashSoft (acquired by SanDisk), GuardianEdge (acquired by Symantec), and Okena (acquired by Cisco). Prior to Thomvest, Don led the Asian business development efforts for several start-up companies in the software and networking industries as part of his work with Asia Pacific Ventures. He also spent three years as an Analyst with Lehman Brothers, where he worked with clients in the software and semiconductor industries. Don received a in Chinese from and M.A.s in both East Asian Studies and Political Science from Stanford University.
+Eric Stang – Director
+Eric Stang is the Chairman, President, and Chief Executive Officer of Ooma (NYSE: OOMA). Eric joined Ooma from Reliant Technologies, a medical company, where he served as President and and member of the Board of Directors. Prior to Reliant Technologies, Eric acted as Chairman, President, and Chief Executive Officer of Lexar, now a subsidiary of Micron. Under his leadership, Lexar became one of the 50 largest public companies in Silicon Valley, before its acquisition by Micron. Eric also serves as Chairman of the board of directors of Rambus (Nasdaq: RMBS) and is a member of the board of directors of Invensense (NYSE: INVN). He is a graduate of Stanford University and the Harvard Business School.
+Will Stewart – Director
+Will Stewart is an investor and Board Member since October 2006. Mr. Stewart is a General Partner at Rogers Venture Partners (www.rogersvp.com) and is a board member of PokitDok, Docurated, and Trapit. He is the former Co-Founder and Chairman of Mezzanine Capital Partners (www.mezzaninecap.com) which specializes in providing venture debt and equity financing to venture backed companies. Concurrently, he is the former Founder and President of Asia Pacific Ventures (– www.apvco.com) 1990 and has advised over 350 venture backed start-up companies in entering the Japan/Asia marketplace, raising more than $3 billion in equity, debt and joint venture financing over the past 20 plus years. Mr. Stewart was also the founding General Partner of Partners I, and with over $200 million in early stage venture funding under management. Some of Mr. Stewart’s prior venture capital and venture debt successes include SiliconStor (acquired by LSI), Lexar Media (acquired by Micron), SecureTax (acquired by Intuit), Okena (acquired by Cisco), Sharewave (acquired by Cirrus Logic), Packet Engines (acquired by Alcatel). Other past investments in which Mr. Stewart has played a key role as venture capitalist, venture debt provider, and personal investor as well as securing additional global investors and business partners include Web(Sold to Microsoft), Fatbrain.com (Sold to Barnes and Noble), Capstone (NASDAQ: CPST), Epiphany (IPO), Good (acquired by Motorola), Arcot Systems (acquired by CA), Nexabit (acquired by Lucent), Soon(www.soonr.com), Successfactors (acquired by SAP), Plastic Jungle (www.plasticjungle.com), Coremetrics (acquired by IBM), Transitive (acquired by IBM), Tessera (NASDAQ: TSRA), Verisign (NASDAQ: VRSN), (acquired by EMC), Wink (acquired by Reunion.com), Certicom (acquired by RIM), JiWire (www.jiwire.com) and Versata (acquired by Triology). Prior to founding APV, Mr. Stewart was a senior executive for Corporation in Tokyo, Japan. Mr. Stewart has a in Economics from St. Anselm College, Manchester, and an in Finance from Suffolk University, Boston, MA.
+Stuart Nagae is a Partner in the early stage venture capital group at Vulcan Capital. Mr. Nagae has worked for Paul Allen at Vulcan since 2002 and during his tenure has invested across multiple asset classes including private equity and hedge funds, but ultimately chose to focus on venture capital where he enjoys working with start-up management teams to grow their businesses. Prior to Vulcan, he worked in the investment banking group at Morgan. Mr. Nagae received a in international relations from Stanford University and currently serves on the Boards of 4Info and Technology. Stuart is also actively involved in the arts community serving on the board of Seattle-based music non-profit and the theatre production group OnwardHo Productions.
+Investors
+(510) 897-3300Why Avalanche?
+We’re a fast-growing company whose world-class memory, hardware and software engineers are innovating in the enterprise storage market. Our world-class team is designing and building forward-looking vertically integrated solid state storage systems using cutting edge with an eye to next generation memory. With a rich patent portfolio (270+) that continues to grow, we are seeking talented people who are ready to help us build on the innovation to date as we reinvent storage to take advantage of emerging developments.
+Positions Available
+Sr. Product Engineer
+Principal Design Engineer
+Job Description & Responsibilities
+As a principal design engineer at Inc., you will work closely with a highly motivated and innovative design & development team to design & verify the most advanced and complex STT-products
+Involve in architectural definition, design and validation of STT_products
+Run digital and analog simulations on chip and block level
+Architect, design and verify circuits, logic, algorithms to meet product requirements.
+Design simulations, analyze and debug for block and chip level
+Own the design of analog and digital blocks and prepare necessary documentation for design specification
+Requirements 
+6+ years of experience in ASIC/Memory design, Analog or Digital
+Experience in memory design is a strong plus.
+Extensive knowledge and hands on experience on various design circuits preferably in memory
+Deep knowledge of power, performance, area and architecture of chip design
+Deep understanding of circuit design
+Familiar with analog/digital simulation tools
+Familiar with Unix platform, csh, perl and tcl programming
+Strong communication skills with the ability to convey complex technical concepts to other verification peers both verbally and written
+Ability to work independently and in teams
+Highly motivated and self-starter
+Education
+or Ph+6 years of experience in memory or mixed signal design
+Sr. Digital Design Engineer
+Job Description & Responsibilities
+As a Sr. digital design engineer at Inc., you will work with a highly motivated and innovative design team to design & verify the most advanced and complex STT-product.
+Involve in architectural definition, design and validation of STT_products
+Extensive knowledge and hands on experience with non-volatile memory digital circuits
+Involve in coding, verification, synthesis, and power and static timing analysis
+Develop and maintain test benches and test vectors using digital and analog simulation tools.
+Design and verify digital circuits, algorithms to meet product design requirements.
+Design simulations, analyze and debug for block and chip level.
+Own the design of digital blocks, and prepare necessary documentation for design implementation
+Requirements
+3+ years of experience in digital design preferably in non-volatile memories
+Strong Verilog coding and design skills
+Experience with digital simulation, syntheses and timing analysis tools
+Familiar with Perl, C++,Python and tcl scripts
+Familiar with Unix platform, csh, perl and tcl programming;
+Strong communication skills with the ability to convey complex technical concepts to other verification both verbally and in writing to peers
+Ability to work independently and in team
+Highly motivated and self-starter
+Education
+BS+5 or MS+3 years of experience in Digital Design
+Sr. Product Engineer
+Job Description & Responsibilities
+Senior product engineer at Inc., You will work with a highly motivated and innovative design, R&and test team to qualify the most advanced STT-products
+Establish new STT-non-volatile memory products for qualification and volume manufacturing
+Ability to coordinate test and analyze parametric data and failures modes
+Perform silicon debug, failure analysis, and validation on STT-products
+Utilize lab equipment and identify or modify tests to meet product requirements
+Responsibilities
+Work closely with design and test team on first silicon testing and characterization
+Analyze and propose solutions to qualify new products to be introduced into market
+Ensure silicon meets product specification.
+Provide technical support to customers to ensure successful product acceptance
+Requirements
+Basic understanding of circuits and process
+Good multitasking and organizational skills
+Strong communication skills with the ability to convey complex technical concepts to others
+Ability to work independently as well as in teams
+Strong presentation skills and project management skills
+Highly motivated and self-starter
+Education
++6 or +4 years in Product Engineering or Design Engineering
+Interested in applying for one of our open positions?
+Send your resume to careers@avalanche-technology.com .
+(510) 897-3300Leadership
+The leadership team is comprised of seasoned veterans with an extensive track record of developing, manufacturing and marketing revolutionary memory and storage technologies and generating billions of dollars in revenue. Many of the most successful companies in the industry are represented, including Lexar, Micron, NetApp and Seagate. The team has amassed more than 300 patents in storage, memory, architectures and controllers.
+Petro Estakhri – CEO/President/Founder/Director
+Petro Estakhri co-founded and has served as Chief Executive Officer for since August 2006. Prior Estakhri served as the Chief Officer of Lexar Media, Inc. which he founded in 1996. Lexar Media is a pioneer in flash memory for the digital photography, consumer electronics, and communications markets and grew from a private start-up to the 55th largest company in Silicon Valley prior to its acquisition by Micron Technology, Inc. in June 2006. From 1993 to 1996, Estakhri served as the Senior Director of Mass Storage Controller Engineering at Cirrus Logic, Inc., a supplier of semiconductors for Internet entertainment electronics, where he developed one of Cirrus Logic’s primary micro-controllers and co-founded the mass storage memory group. Estakhri also worked at and National Semiconductor. Estakhri has served as a member of a number of boards, including Lexar Media’s as well as Silicon Stor, a company that Estakhri co-founded in 2002. He currently sits on the board of Apixio. Estakhri is a co-author of more than 100 patents related to magnetic media, flash storage controller and systems architecture. Estakhri holds a and an in electrical and computer engineering from the University of California at Davis.
+Bob Netter – Chief Financial Officer
+Bob Netter brings more than 40 years of executive-level financial experience from companies that span a variety of manufacturing industries and markets, including semiconductors, electronics, chemicals and professional/consumer audio. Netter has worked with or consulted with companies internationally, including Europe, Japan, and Australia. Netter has had both line and staff experience including being with four high growth companies. For the previous five years, he was the and a key member of the executive business team of International Petroleum Products and Additives Company, Inc. (IPAC), where he managed all aspects of finance, tax and human resources. Prior to IPAC, Netter was a Regional Managing Director for Focus (2004-2009), a national Investment Banking firm where he successfully completed several M&and related transactions. The investment banking engagements included venture capital and private equity transactions, M&transactions, debt restructurings and private placements including conventional, asset based and mezzanine debt as well as turn-around assistance. Prior to Focus Netter held positions with Lexar Media (LEXR), a leader in flash memory technology, FormFactor (FORM), a developer of advanced semiconductor wafer probe cards and Acoustics, now part of Harman International Industries, Inc. (HAR), a publicly held international manufacturer of world leading analog and digital audio products. Netter is a licensed and a former licensed Registered Representative; he received a in Accounting from Hofstra University, Hempstead, NY.
+Dr. Rajiv Ranjan – CTO/Founder
+Rajiv Ranjan co-founded and has served as at since August 2006. Previously, Ranjan was the Executive Director of R&at Seagate, where he led development that fueled a doubling of revenue to more than $10His pioneering efforts have led to the productization of low-noise media perpendicular media and laser texturing. These technologies are now widely used in the storage devices that revolutionized the data storage industry. Ranjan has been recognized by both the United States Congress and the Prime Minister of India for his research in the field of magnetic recording, where he holds more than 75 patents. Prior to Seagate, he directed Komag’s R&team, which under his direction pioneered the granular and oriented media technology, enabling revenue grow to over $600Ranjan received his Phin Material Science and Engineering from Iowa State University on a full United States Department of Energy scholarship. He received the prestigious SIMS-86 award from the Instrument Society of America for his design of a transducer for magneto-acoustic detection. Ranjan graduated from the India Institute of Technology, Kharagpur as a Silver medalist in the field of Metallurgical Engineering. He has published more than 60 papers in the magnetic recording field and has lectured at Berkeley, Stanford University and Carnegie Mellon University on magnetic recording technologies.
+Dr. Yiming Huai – of Yiming Huai joined as of in September 2008. Huai is a highly accomplished technologist and entrepreneur in magnetic and semiconductor technologies, and most recently was co-founder, board member, and of Engineering of Grandis, Inc, a pioneer in the Spin Torque Transfer (STT-MRAM). Grandis was acquired by Samsung in 2011. While at Grandis, Huai successfully raised more than $25in private and government funding. He also established the Grandis experienced engineering team and extensive patent portfolio. He has played critical role for Grandis in establishing strategic partnerships with Renesas and Hynix. Prior to Grandis, Huai served as Sr. Director of Thin Film of Manufacturing at Read-Rite Corporation (now Western Digital), where he led the development and volume production of industry leading heads for hard disk drives from 1996 to 2002. He previously worked as a Staff Scientist at the Lawrence Livermore National Laboratory (LLNL) and as a Post-Doctoral Fellow at the National Research Council in Ottawa, Canada. He received and Ph.degrees, both in Physics, from the University of Montreal in Canada. He has published more than 100 papers in scientific journals, holds more than 110 patents and has more another 20+ patents pending. He has given more than 50 invited talks on STT-and has served as Conference Chairman and Organizer for major international magnetic conferences and workshops. In 1996, he received the prestigious R&100 Award with his peers for his outstanding work on Ultra-High Density Magnetic Sensors.
+Ebrahim Abedifard – of Engineering
+Ebrahim Abedifard has served as of Engineering for since September 2008. Abedifard has more than 28 years of experience in the design of non-volatile memories. Most recently he served as Director of Design Engineering at Micron Technology, where he led multiple design teams on key high speed non-volatile memory products, including the fastest Flash (200MB/S, 8Gb, 50nm) and 143MHz Synchronous Flash memory. His most recent project was leading the design of Micron’s 34nm 32Gb flash; he also successfully designed and transferred to production multiple other high volume flash memories. He holds more than 100 patents with many additional patents pending. Prior to Micron he served as Design Manager for Xicor Inc. for and products. Abedifard holds a from Utah State University and a from California State University, Fullerton.
+Danny Sabour – of Marketing and Business Development
+Danny Sabour has more than 30 years of experience in the high-tech industry building and leading successful business development, marketing organizations. Prior to joining Avalanche, Sabour was of New Memory Business Development at Cypress Semiconductor focusing on new memory architectures. Prior to that, Sabour was of new Marketing at Spansion which held the number 1 position for Flash memory. Previous executive positions included director of strategic marketing at MicroChip, Lecroy and most notably Intel where he held many positions in the mobile group, the chipset group and microprocessor division. At Intel he held positions defining the roadmap and owning the executive relationships at multi-national OEMs. Sabour received a Master of Science degree in Computer Science and Electronic Engineering from the University College London.
+Sam Nemazie – of Operations
+Sam Nemazie has more than 35 years of experience in silicon and system level architecture, design and manufacturing. Before joining as of System and Applications Engineering, Nemazie led the development and release to production of many and Flash Controllers at Micron Technology. Prior to that, he served as of Engineering at Lexar Media where he again released to production numerous generations of CF, and Memory products. Nemazie received his Master of Science in Electrical Engineering from the University of Michigan. He also holds a Bachelor of Science in Electrical & Mechanical Engineering from the University of Michigan.
+(510) 897-3300Penger på Dagen
+ | 
+Kuulokkeet
+ | 
+Alle Kredittkort
+ | 
+Beste Strømleverandør
+ | 
+Husalarm
+ | 
+Sammenlign Forsikring
+ | 
+Billigste Mobilabonnement 2018
+ | 
+Bredbåndsleverandør
+PRODUCTS
+Discrete MRAM
+Embedded MRAM
+Embedded 3Cross Point Papers and Conferences
+APPLICATIONS
+Industrial
+IoT
+Consumer
+Storage
+COMPANY
+Leadership
+Board
+News & Insights
+Careers
+CONTACT
+General Inquiry
+Product Inquiry
+Sample Request
+Evaluation Board or Kit Request
+PRODUCTS
+Discrete MRAM
+Embedded MRAM
+Embedded 3Cross Point Papers and Conferences
+APPLICATIONS
+Industrial
+IoT
+Consumer
+Storage
+COMPANY
+Leadership
+Board
+News & Insights
+Careers
+CONTACT
+General Inquiry
+Product Inquiry
+Sample Request
+Evaluation Board or Kit Request
+PRODUCTS
+Discrete MRAM
+Embedded MRAM
+Embedded 3Cross Point Papers and Conferences
+APPLICATIONS
+Industrial
+IoT
+Consumer
+Storage
+COMPANY
+Leadership
+Board
+News & Insights
+Careers
+CONTACT
+General Inquiry
+Product Inquiry
+Sample Request
+Evaluation Board or Kit Request
+var lsjQuery = jQuery;
+COMPANY
+Admin
+News & Insights
+Admin
+Persistent Memory Productization driven by & ML
+Admin
+Introduces New Family of Low Energy Non-Volatile Memory for Battery Powered IoDevices Capable of Data Logging and Machine Learning
+Admin
+Introduces New Family of Non-Volatile Memory for Data Logging, Ioand Machine Learning
+Admin
+How and are Driving Memory Architecture Changes
+Admin
+and Partner for Development and 28nm Production
+Leadership
+Board
+News & Insights
+Careers
+3450 West Warren Avenue, Fremont, 94538

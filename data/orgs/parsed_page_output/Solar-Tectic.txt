@@ -1,0 +1,82 @@
+Semiconductor Thin-Films on Inexpensive Substrates
+Menu
+Skip to content
+Home
+About Us
+Photovoltaic Technology
+1c-Si Sapphire
+1c-Si Eutectic
+1c-Si Laser Eutectic
+1c-Nanowire
+1c-Si Semi² (tandem)
+1c-HTc Tapes
+Si Ribbon
+1c-Mgon Glass
+1c-Organic
+1c-Hybrid
+1c-Perovskite/Crystalline Silicon Thin-Film Tandem
+1c-III-V/Crystalline Silicon Thin-Film Tandem
+1c-Silicides
+Display Technology
+LEDs
+OLEDs
+MicroLEDs
+Ceramic Glass/Photovoltaic Glass
+5G
+News
+Publications
+Solar-Tectic™ is pleased to present
+Tandem Thin Film Solar Cells for High Efficiency
+Materials include perovskites, III-V, CIGS, Silicon, etc. The technology is patented.
+Also LT1— a new display technology
+Singe crystal silicon thin film on ordinary soda-lime glass for photovoltaic (and display) applications.
+▪
+Einkristall-Silizium-Dünnschicht-auf normalen Glas für Photovoltaik (und Display)-Anwendungen.
+▪
+Monocristal de silicium en couches minces sur verre ordinaire pour le photovoltaïque ( et l’affichage ) applications
+▪
+普通のガラス上に単結晶シリコン薄膜のための 太陽光発電（および表示）アプリケーション。
+▪
+일반 유리에 단결정 실리콘 박막에 대한 태양 광 발전 (그리고 표시) 응용 프로그램입니다.
+▪
+單晶矽薄膜普通玻璃上 光伏（和顯示）的應用程序。
+▪
+एक साधारण काँच पर क्रिस्टल सिलिकॉन पतली फिल्म के लिए आवेदन फोटोवोल्टिक (और प्रदर्शन).
+▪
+Único cristal de silício de filme fino de vidro comum para fotovoltaicos (e exibição) aplicações.
+▪
+Cristal único de silicio de película delgada sobre vidrio ordinario para fotovoltaicos (y mostrar) aplicaciones.
+▪
+واحد الكريستال السليكون الأغشية الرقيقة على الزجاج العادي لل الضوئية (والعرض) التطبيقات
+▪
+גביש סרט דק אחת סיליקון על זכוכית רגילה עבו פוטו (ותצוגה) יישומים
+▪
+Тонкая пленка монокристаллического кремния на обычном стекле для применения в фотоэлектрических элементах (и дисплеях).
+▪
+For licensing, investment opportunities, or general questions, contact Thomas Davis, Jr. at Carter Ledyard & Milburn LLP:  
+▪
+YOU
+© 2019 
+Powered by 
+WordPress
+ThemegraphyMenu
+About Us
+While the average price of utility-scale solar is now under $1 per watt and below 6 cents per kilowatt-hour, almost unthinkable just a few years ago, the cost of solar must come down even further in order truly to be competitive in the marketplace (without subsidies).
+We1 believe the best approach to lowering the cost of solar electricity further is to increase cell efficiency because this lowers the “balance of system” (BoS) costs, such as installation. Higher efficiency solar cells means that fewer panels (and surrounding materials) are needed and costs come down dramatically.
+This can be done by manufacturing ”tandem” or heterojunction solar cells made of a very high quality semiconductor thin-film deposited on an inexpensive substrate, on which an even thinner extremely efficient semiconductor film is deposited. These two layers combined, also known as a “tandem” design, can potentially achieve efficiencies as high as 30% (the current record efficiencies of modules in the market are around 25%). And our manufacturing process is simple and uses common processes well known in the semiconductor industry (display industry). Specifically, our “kerf-less,” modified liquid phase epitaxy technology allows for the growth of continuous (single crystal or highly textured, large grain) semiconductor ultra-thin films on ordinary (soda-lime) glass on which materials such as perovskites, or III-compounds, are then deposited. All our core technologies are now patented and can be easily found online.
+Very simply, our patented technology has the following advantages which make it ideal:2
+Higher light conversion efficiency (due to single crystal, or high texture and large grain).
+Less semiconductor material use (due to thin-film and inexpensive substrate).
+Low temperature film deposition while still allowing for high quality material (due to eutectic manufacturing method) allowing for deposition on flexible substrates such as plastic.
+tandem (perovskite/silicon thin film for example) solar cell structure that could achieve efficiencies of up to 30% (in theory as high as 45%).
+In addition to solar cells, Solar-Tectic™ (ST) has proprietary technology and know-how for a variety of other electronic devices which are closely related from a materials science point of view. For example, recently announced breakthroughs for its Field Effect Transistor (TFTs, FETs) technology used in displays. Very high mobility material, made at low temperature, was demonstrated for the first time using our patented technology (see News section).
+has recently received a patent for ceramic glass (sapphire), consisting of a thin layer of sapphire (crystalline Al2O3) on ordinary soda-lime glass or other kinds of glasses. This product is being developed for use as a substrate for deposition of highly oriented semiconductor films for purposes, as well as for display applications like covers for smartphones, etc. where hardness for anti-scratch is needed.
+Solar-Tectic™ also holds proprietary technology for LEDs, OLEDs, and and a variety of other optoelectronic devices such as microand laser-diodes.
+Solar-Tectic™ derives its name from the word ‘eutectic’, a fascinating physical phenomenon occurring when two elements — such as silicon and a metal – are combined to form an alloy. Many of our patented technologies, such as ‘1c-Si Eutectic’, and ‘1c-Si Laser Eutectic’, and tandem solar cells take advantage of this phenomenon for low temperature deposition of films and with excellent material quality applicable to solar and displays.  (Our process is not the same as traditional metal induced crystallization (MIC)).
+We have a wide portfolio of proprietary technologies, including one in which single crystal silicon nanowires are grown on ordinary (soda-lime) glass for photovoltaic and other applications; and another for manufacturing superconducting tapes for use with solar modules for efficiently transferring solar energy to and from the modules and to and from public utility electrical power grids and computer-based, automated electrical power “smart grids.”
+We are currently conducting intensive R&in many of the above areas.
+is one of only three companies in the that are actively developing perovskite solar cells, and probably the only company that holds exclusive (5 patents).
+At Solar-Tectic™ we don’t much like the word ‘disruptive’. But we believe that our technology will be transformative in the solar and display industries, improving living standards and contributing significantly to the fight against climate change.”
+SOLAR-TECTIC™ 416 Long Hill Road East • Briarcliff Manor, 10510 • United States of America
+1 Our company’s technology is based primarily on the inventions of the late Dr. Praveen Chaudhari, recipient of the National Medal of Technology (1995)
+2  See “The Future of Solar Energy: An Interdisciplinary study”, copyright MITEI, May 2015.

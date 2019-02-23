@@ -1,0 +1,551 @@
+This website uses cookies
+We use cookies to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. You consent to our cookies if you continue to use our website. For more information please see our Privacy Policy .
+Unclassified (2)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+2blades.org
+Stores the user's cookie consent state for the current domain
+1 year
+https
+twitter.com
+The cookie is used in context with the local-storage function in the browser. This function allows the website to load faster by pre-loading certain procedures.
+Persistent
+HTML
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+Name
+Provider
+Purpose
+Expiry
+Type
+lang
+cdn.syndication.twimg.com
+Session
+HTTP
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+_ga
+2blades.org
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+HTTP
+_gid
+2blades.org
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+IDE
+doubleclick.net
+Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+1 year
+1 day
+HTTP
+NID
+google.com
+Registers a unique that identifies a returning user's device. The is used for targeted ads.
+6 months
+Stores the user's video player preferences using embedded YouTube video
+Persistent
+HTML
+yt-remote-fast-check-period
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML
+yt-remote-session-app
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML
+yt-remote-session-name
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML
+i/jot
+twitter.com
+Sets a unique for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+Session
+Pixel
+GPS
+youtube.com
+Registers a unique on mobile devices to enable tracking based on geographical location.
+1 day
+HTTP
+PREF
+youtube.com
+Registers a unique that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+8 months
+HTTP
+VISITOR_INFO1_LIVE
+youtube.com
+Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+179 days
+HTTP
+YSC
+youtube.com
+Registers a unique to keep statistics of what videos from YouTube the user has seen.
+Session
+HTTP
+yt-remote-cast-installed
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML
+yt-remote-connected-devices
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Persistent
+HTML
+i/jot/syndication
+twitter.com
+Pending
+Session
+Pixel
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+https
+twitter.com
+Pending
+Persistent
+HTML
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 27/01/2019 by Cookiebot
+Discovering, advancing, and delivering genetic improvements in crop disease resistance
+Thanks for signing up!
+Bridging the GapSkip to main content
+2The Unmet Need
+How We Work
+Our Team
+Overview
+Management & Directors
+2Group, The Sainsbury Laboratory
+Scientific Advisory Board
+2Groups
+Overview
+Norwich, UK
+Projects & Technology
+Current Projects
+Technology Patent Estate and Development
+Project Grants
+Potential Future Projects
+News & Media
+News
+In the News
+Newsletters
+Infographics
+Videos
+Management & Directors
+Dr. Roger Freedman
+Chairman
+2Projects
+Wheat Stem Rust
+Dr. Roger Freedman works for David Sainsbury, the settlor of the Gatsby and until recently the Minister of Science and Innovation. Dr. Freedman established the Gatsby Foundation’s programs in plant science and neuroscience and continues to serve the Foundation’s much expanded plant science program. He has been a member of the governing council of the Sainsbury Laboratory in Norwich since its establishment and is a member of the management board of the second Sainsbury Laboratory now established in Cambridge. He initiated development of (now PBL), the technology licensing company based at the John Innes Centre, remaining as a non-executive director of the company for the first ten years of its operation. In parallel with these activities, he has also been involved in developing the practical applications of new technologies through commercial development. Dr. Freedman has advised venture capital funds in the and Europe on plant biotechnology investments and has acted as a scientific advisor, research director, director or chairman of start up technology companies in the and the Dr. Freedman got his at Cambridge and received his Ph.for research in molecular genetics at the Laboratory of Molecular Biology, before getting his first introduction to America as a postdoc at the Stanford Department of Biochemistry.
+Dr. Diana Horvath
+President, Director
+847-425-1277
+2Projects
+Late Blight of Potato in Africa
+Tomato Bacterial Diseases
+Dr. Diana Horvath’s interests are in the delivery of seed with improved disease resistance, particularly for smallholder farmers.  Before joining Roger Freedman to set up 2Blades, she served as Science Director at Capital, a New York venture capital firm that invested in companies developing agricultural biotechnologies. Focusing on technology and intellectual property, she helped to build and manage a portfolio of companies involved in forestry biotechnology, transcriptome and proteome analysis, small molecule discovery, and embryonic stem cells. Prior to that, Dr. Horvath conducted research on the molecular mechanisms of plant disease resistance as a National Science fellow and Zeneca Plant Science fellow at the Rockefeller University.  Dr. Horvath received her Ph.in biochemistry and molecular biology from Northwestern University.  She spent a year conducting research on maize and millet production in southern Africa at the Department of Agricultural Research in Botswana, after graduating from Tufts University with a in Biology.
+Dr. Lynne Reuber
+Program Director
+Related Links
+2Masterclass
+2Projects
+Citrus Canker
+Corn Stalk and Ear Rots
+Resistance Gene Diversity
+Wheat Stem Rust
+Dr. Lynne Reuber’s goal is to translate the recent revolutionary academic discoveries in plant pathology to disease resistant crops to the field.  Prior to joining 2Blades, Dr. Reuber was a Director of Research at Mendel Biotechnology, Inc., where she managed an inter-company collaboration to determine the mode of action of transcription factors providing yield and stress tolerance traits, led new trait discovery programs in the areas of yield, resource use efficiency, and disease resistance, and managed technology licensing relationships.  Dr. Reuber’s scientific background spans the interactions of plants with both disease causing and beneficial microbes. She conducted research as an postdoctoral fellow at Harvard Medical School on the defense reactions of plants to bacterial and fungal pathogens, after graduate work as a National Science fellow investigating symbiotic plant-microbe interactions.  She holds a Ph.in Biology from Massachusetts Institute of Technology and a in Biology and Chemistry from Drury University. Dr. Reuber joined 2in 2014.
+Dr. Dieuwertje van der Does
+Group Leader, sub-Saharan Africa projects
+Related Links
+BecA-Hub
+Dr. van der Does is interested in advancing research on disease resistant crops for sub-Saharan Africa.  She spent years at the BecA-Hub in Nairobi, Kenya, on projects on potato, soybean, and tomato. Before joining 2Blades, Dr. van der Does worked as a post-doctoral researcher at The Sainsbury Laboratory in Norwich, UK, working on danger perception in plants and was supported by a long-term fellowship from the European Molecular Biology Organization (EMBO). Dr. van der Does received her Phin plant pathology from Utrecht University, the Netherlands, and received her B.Sc. and M.Sc. in biology from the University of Amsterdam, the Netherlands.
+Dr. Peter van Esse
+Group Leader, The Sainsbury Laboratory, Norwich
+Related Links
+Dr. van Esse, The Sainsbury Laboratory
+2Group
+2Group Blog
+Masterclass
+Video: Interview with Peter
+2Projects
+Asian Soybean Rust
+Corn Stalk and Ear Rots
+Dr. Peter van Esse is the Principal Investigator of the 
+2Group
+ in the Sainsbury Laboratory (TSL) in Norwich. Before joining 2Blades, Dr. van Esse was awarded a personal grant by The Netherlands Organization for Scientific Research (NWO). This allowed him to build on his graduate and postdoctoral research on fungal effector proteins of major pathogens of vegetable crops at the Wageningen University in the Laboratory of Phytopathology. Dr. van Esse received both his M.Sc. in Biotechnology and his Ph.in plant pathology from the Wageningen University and Research Centre, the Netherlands.
+Susan Nycum
+Director
+Susan Nycum provides mediation and arbitration services in domestic and international and technology related disputes.  Formerly, she was an international partner of Baker & McKenzie where she was chair of the firm’s North America Intellectual Property (IP) and Information Technology (IT) practice group, a coordinator of the firm’s global practice group and a member of the firm’s governing bodies for North America and for Asia Pacific. Ms. Nycum was a member of the National Science advisory board that approved funding for the Internet.  She has been an advisor to the governments of Brazil, Canada, Finland, Germany, India, Israel, Singapore, Thailand and the United States for and policy. Susan Nycum is the former Chair of the section of Science and Technology and former President of the Computer Law Association. She was the Chair of the International Bar Association committee on software protection and committee on computer crime. She was twice the appointee to the National Conference of Lawyers and Scientists.  She is a member of the panel, the Commercial panel and the Large Complex Case panel of the American Arbitration Association; member of the Technology panel and the Electronic Discovery panel; fellow of the College of Commercial Arbitrators, fellow of the American Bar Foundation, fellow of the ACM, fellow of the College of Law Practice Management; member of the California Academy of Distinguished Neutrals, Board member of the Mediation Society and several other international mediation organizations.  She is listed in the Best Lawyers of America and the Northern California Super Lawyers.
+Dr. Eric Ward
+Director
+Related Links
+AgBiome
+Dr. Eric Ward is the co-of AgBiome.  Between 2007 and 2012, he served as the President of the 2and as Group Leader of the 2Group at the Sainsbury Laboratory.  Prior to that he served as of Cropsolution, Inc., a crop protection chemical discovery company, and before that he was Co-President of Novartis (now Syngenta) Agribusiness Biotechnology Research, where he was responsible for a staff of 270, including researchers and all administrative functions, including finance, patents, business development, public affairs, human resources, and facilities.  Simultaneously, Dr. Ward was head of target discovery for Novartis Crop Protection AG, where he implemented a fully integrated agricultural chemical lead discovery program based on proprietary molecular targets.  This program relied on extensive interactions with biotech firms and academic labs.  Prior to that, he was a Research Director for the Novartis herbicide business unit, during which time his team invented Acuron™ herbicide tolerance technology, developed corn and sugar beet varieties engineered with the Acuron™ gene, and built the patent strategy to protect the technology.  In 1994-5, he worked in Basel, Switzerland as a project leader for Ciba Crop Protection in the Weed Control business unit.  Dr. Ward began his career in 1988 with Ciba-Geigy as a postdoctoral associate, during which time he pioneered methods for cloning of large fragments from plants.  He received his Ph.in plant biology from Washington University in St. Louis in 1988, where he was a graduate fellow of the National Science Foundation.  He received his in biology magna cum laude from Duke University in 1982. 
+2Group, The Sainsbury Laboratory
+Dr. Peter van Esse
+Group Leader
+Related Links
+Video: Interview with Peter
+2Projects
+Asian Soybean Rust
+Corn Stalk and Ear Rots
+Dr. Peter van Esse is the Principal Investigator of the 
+2Group
+ in the Sainsbury Laboratory (TSL) in Norwich. Before joining 2Blades, Dr. van Esse was awarded a personal grant by The Netherlands Organization for Scientific Research (NWO). This allowed him to build on his graduate and postdoctoral research on fungal effector proteins of major pathogens of vegetable crops at the Wageningen University in the Laboratory of Phytopathology. Dr. van Esse received both his M.Sc. in Biotechnology and his Ph.in plant pathology from the Wageningen University and Research Centre, the Netherlands.
+Dr. Carolina Grandellis
+Research Associate
+2Projects
+Corn Stalk and Ear Rots
+Dr. Carolina Grandellis joined the 2Group in 2017. Her work focuses on the discovery of novel plant immune receptors that confer durable genetic resistance to devastating plant diseases. Prior to taking up her position, Dr. Grandellis worked as a postdoctoral fellow at the
+Institute of Molecular and
+Cellular Biology of
+Rosario in Argentina
+studying plant-pathogen interactions between citrus and 
+Xanthomonas
+citri
+sp.
+citri
+, the pathogen that causes citrus canker. She also spent three years working at the
+Institute
+of
+Agrobiotechnology
+of
+Rosario
+in Argentina on plant transformation. Dr. Grandellis carried out her Ph.at the Genetic Engineering and Molecular Biology Institute in Argentina studying the role of calcium dependent protein kinases from potato.
+Ruud Grootens
+Laboratory Technician
+Mr. Grootens graduated with a BSc Diploma from University of Applied Science in August 2018. During his studies, he conducted an internship at Radboud University (Nijmegen) working with 
+Solanum dulcamara 
+accessions to investigate the genetic background of genes involved in glycoalkaloid biosynthesis, and their involvement in slug and snail deterrence. Mr. Grootens also spent six months at the James Hutton Institute (Dundee, Scotland) in Dr. Edgar Huitema’s Group, using CRISPR-Cas9 mediated gene knockout in 
+Phytophthora capsici
+. Prior to his undergraduate studies, Mr. Grootens conducted a 6-month internship at Wageningen University with Professor Gert Kema where he screened 
+Zymoseptoria tritici
+ isolates over a panel of durum wheat cultivars and identified a gene conferring resistance to this disease. Mr. Grootens has also investigated protein extraction from spent yeast biomass from bioreactors, and conducted quantitative analysis of aquatic pathogens at the National Institute for Health and Welfare in Kuopio, Finland.
+Dr. Yogesh Gupta
+Research Associate
+2Projects
+Asian Soybean Rust
+Dr. Yogesh Gupta joined the 
+2Group
+ at Norwich in November, 2014, to study the soybean rust pathogen, 
+Phakopsora pachyrhizi
+, which infects legumes and cause severe yield losses to soybean production. Before joining 2Blades, Dr. Gupta was awarded the Halpin rice blast Ph.scholarship to work with Prof. Nick Talbot’s group at the University of Exeter, During his graduate studies, Dr. Gupta defined the role of the exocyst complex in protein secretion during appressorium-mediated host invasion by the rice blast fungus, 
+Magnaporthe oryzae
+. Prior to this, he worked at NRCPB, New Delhi as a Senior Research Fellow on allele mining of rice blast resistance genes from land races and wild relatives of rice. Dr. Gupta received his M.Sc. in Agricultural Biotechnology from the Agricultural University, Palampur, India, where he used marker-assisted selection for pyramiding rice blast resistance genes in susceptible rice cultivar.
+Dr. Nadine Ilk
+Research Associate
+2Projects
+Asian Soybean Rust
+In 2014, Dr. Ilk joined the 
+2Group
+ at to study the genetics of disease resistance against 
+Phakopsora pachyrhizi
+ in legumes.  Prior to her position at 2Blades, she conducted postdoctoral research on the genetics of developmental processes in response to abiotic stress factors at the Max-Planck Institute for Plant Breeding Research in Cologne (MPIPZ). Dr. Ilk was awarded a Ph.fellowship of the International Max-Planck Research School and graduated 
+magna cum laude
+ in studying the natural variation of plant performance traits in Arabidopsis in the Department of plant breeding and genetics of Maarten Koornneef at the Before starting her doctoral studies, Dr. Ilk was a guest lecturer at the Rajamangala University of Bangkok, Thailand. She received her M.Sc. in biology at the Ruhr-University of Bochum, Germany. Dr. Ilk is currently a participant in the 2master class in “Preparing the next generation of leaders and entrepreneurs in Ag-Biotech.”
+Dr. Cintia Kawashima
+Research Associate
+2Projects
+Asian Soybean Rust
+Dr. Cintia Kawashima joined the 
+2Group
+ to develop durable race independent resistance against Asian Soybean Rust, a devastating disease caused by the biotrophic fungal pathogen, 
+Phakopsora pachyrhizi
+. Prior to taking up her current position in The Sainsbury Laboratory, Dr. Kawashima worked as a postdoctoral fellow in the group of professor Tamas Dalmay, working on the role of miRNAs in the regulation of sulphate assimilation in Arabidopsis at the University of East Anglia in Norwich. Prior to this research, she worked for 10 months as an academic visitor on polyamine biosynthesis in Arabidopsis at the Institute of Food Research in Norwich. Before moving to the UK, Dr. Kawashima was awarded a Mombukagakusho scholarship and carried out her Ph.on sulphur metabolism in Arabidopsis in the group of professor Kazuki Saito at Chiba University, Japan. Dr. Kawashima graduated in Biological Sciences from the North Fluminense State University, Brazil and received her M.Sc. in plant biotechnology from the same university.
+Lesley Milnes
+Laboratory Technician
+2Projects
+Corn Stalk and Ear Rots
+Lesley Milnes joined the 2Group in 2017, working with Dr. Freddy Boutrot as a laboratory technician on research into genetic resistances to corn fungal diseases. In 2015, Ms. Milnes started a nine month placement working with Agriculture & Horticulture Development Board (AHDB), researching possible biocontrol solutions against fungal pathogens infecting stored potatoes. Ms. Milnes received a B.Sc. (Hons) in Plant Science from the University of Nottingham in 2015.
+Dr. Marion Navarri
+Research Associate
+2Projects
+Corn Stalk and Ear Rots
+Dr Marion Navarri joined the 2Group to work on a collaborative project to identify genes that confer resistance to plant diseases of economic importance. Dr. Navarri is interested in understanding the eliciting activities of fungal pathogens. During her PhD she studied deep-sea fungi producing antimicrobial compounds against pathogens of clinical interest in Dr. Gaetan Burgaud’s group, at the University of Bretagne Loire, France as part of the European project MaCu(Marine microorganisms: Cultivation methods for improving their Biotechnological Applications). Dr. Navarri received her M.Sc. in Fundamental and Applied Microbiology from the University of Brest and also graduated from the School of Engineering in Food, specializing in food microbiology and safety.
+Dr. Brian Rigney
+Research Associate
+2Projects
+Asian Soybean Rust
+Dr. Rigney joined the 2Group in 2017 to study the genetics of disease resistance against 
+Phakopsora pachyrhiz
+i in diverse legume species.  Prior to his position at 2Blades, he completed his Ph.in potato genetics with Dr. Dan Milbourne’s lab at Teagasc Oak Park, Ireland. During his Ph.D., he mapped potato nematode resistance genes and validated the efficacy of molecular markers in a commercial breeding program to improve resistance levels towards nematodes, through pyramiding of different resistance sources.  Dr. Rigney also holds an Res in Crop Science from The James Hutton Institute, formally known as the Scottish Crop Research Institute (SCRI), in partnership with The University of Dundee.
+Dr. Kathrin Thor
+Research Associate
+2Projects
+Asian Soybean Rust
+Dr Kathrin Thor joined the 2group at in Norwich in July 2018 to investigate the interaction between 
+Phakopsora pachyrhizi
+ and soybean and other legume species. Before joining 2Blades, she worked in the group of Cyril Zipfel at to identify new players of the plant immune signaling pathway. Prior to this she was a senior postdoc at the plant nutrition group at the University of Halle-Wittenberg in Germany. In both positions her main interest lay in deciphering calcium signaling components in plant stress responses. She earned her Ph.at the University of Bern in Switzerland working on peptide transporters in Arabidopsis and their role in nitrogen uptake and allocation and received her diploma from the University of Hohenheim in Germany.
+Scientific Advisory Board
+Professor Sir David Baulcombe
+University of Cambridge
+Related Links
+Prof. Baulcombe's website
+Professor Sir David Baulcombe is a Royal Society Research Professor and the Regius Professor of Botany in the Plant Sciences Department of the University of Cambridge. He was a student in Botany at Leeds (BSc) and Edinburgh (PhD) Universities. After periods in Montreal, the University of Georgia and the Cambridge Plant Breeding Institute, he spent 20 years at the Sainsbury Laboratory, Norwich. He joined Cambridge University in 2007.  Sir David is a Fellow of the Royal Society and a foreign associate member of the National Academy of Sciences. His awards include the 2006 Royal Medal of the Royal Society, the 2008 Lasker Award for basic biomedical sciences, the Wolf Prize for Agriculture in 2010 and the 2012 Balzan Prize. He was knighted in June 2009.  Sir David’s interests center on gene silencing and epigenetics – the science of how nurture can influence nature. These topics link to disease resistance in plants and understanding of hybrids including hybrid crops. He is also interested in the application of science to develop sustainable agriculture. 
+Professor James Carrington
+Donald Danforth Plant Science Center
+Related Links
+Donald Danforth Plant Science Center
+Prof. James Carrington joined the Donald Danforth Plant Science Center as president in 2011.  Previously he served as the Director of the Center for Genome Research and Biocomputing, the Stewart Professor for Gene Research, and Distinguished Professor of Botany and Plant Pathology at Oregon State University.  He received his doctorate in Plant Pathology from the University of California, Berkeley, and began his prominent career as a professor in the Department of Biology at Texas A&University, where he stayed for nine years. Dr. Carrington also served on the faculty at Washington State University before his tenure at His awards include the Presidential Young Investigator Award from the National Science Foundation, the Ruth Allen Award from the American Society for Phytopathology and the Humboldt Research Award from the Alexander von Humboldt Foundation. He has been elected a Member of the National Academies of Science and a Fellow of the American Academy of Microbiology, the American Phytopathological Society, and the American Association for the Advancement of Science.
+Professor Jeff Dangl
+University of North Carolina, Chapel Hill
+Related Links
+Prof. Dangl's website
+Prof. Jeff Dangl is an Investigator.  He is also the John Couch Professor of Biology and a member of the Curriculum in Genetics.  He received dual Bachelor’s degrees in Biology and English (Modern Literature) form Stanford University in 1981.  He received his Ph.in 1986 for work concerning structure-function relationships among of chimaeric monoclonal antibodies from the Genetics Department of the Stanford Medical School.  In 1986, Dr. Dangl was awarded an Plant Biology Fellowship to pursue post-doctoral research at the Max Planck Institute of Plant Breeding in Cologne, Germany, in the department of Prof. Klaus Hahlbrock.  In 1989, he began his own group at the Max Delbrück Laboratory, also in Cologne.  In 1995, the Dangl lab moved to the University of North Carolina at Chapel Hill.  The Dangl lab has contributed significantly to the use of Arabidopsis genetics as a tool to analyze plant-pathogen interactions.  Dr. Dangl is an elected member of the National Academy of Sciences (2007) and the German Academy of Sciences (“Die Leopoldina”, 2003).  He is a past member of the National Research Council’s Board of Life Sciences  and is a past member of the North American Arabidopsis Steering Committee (elected) and the ‘Eukaryotic Genetics’ and ‘Genetics, Variation and Evolution’ grant panels. He currently a member of the reviewing editorial boards of Science, Cell, and PLoBiology and served as co-Editor in Chief of Current Opinions in Plant Biology. Research in the Dangl lab is funded by HHMI, the Gordon and Betty Moore Foundation, NIH, NSF, and DOE.
+Dr. Jeff Ellis
+Plant Industry
+Related Links
+CSIRO
+Dr. Jeff Ellis leads a research group in Plant Industry, Australia that was among the first to clone and characterize plant disease resistance genes and describe their products as a new class of nucleotide binding site-leucine rich repeat proteins.  His laboratory developed the Activator tagging system for cloning of the L6 and rust resistance genes in flax in 1994 and 1997.  L6 was one of the first cloned genes. Since this time, the group has isolated a number of further genes that control other rust resistance specificities and have investigated the molecular basis of gene-for-gene resistance specificity through the study of chimeric alleles in transgenic flax, showing that the leucine-rich repeat region is the main player.  Dr. Ellis and his research team remain one of the leading laboratories in plant disease resistance research and this team has recently isolated and characterized the flax rust avirulence genes that correspond to the flax L5, L6 L7 and resistance genes and using yeast hybrid analysis, demonstrated that there is direct interaction between L6 and AvrL567 proteins.  In addition to working with the model flax-flax rust system and the fundamental basis of rust resistance, the Ellis group has a strong grains industry focus on the delivery of improved rust resistance in wheat through increased efficiency of resistance breeding based on gene cloning and transfer and marker technology.  Dr. Ellis was elected Fellow of the Royal Society in May, 2009.
+Professor Jonathan Jones
+The Sainsbury Laboratory, Norwich
+Related Links
+Prof. Jones' website
+Prof. Jonathan Jones is a leading researcher in plant/microbe interactions.  He graduated in Botany from the Cambridge Natural Sciences tripos (1976) and completed his Ph.on cereal chromosomes supervised by Dick Flavell at the Plant Breeding Institute, Trumpington, in 1980.  Dr. Jones was a postdoctoral fellow with Fred Ausubel at Harvard University in 1981 and 1982, working on symbiotic nitrogen fixation.  From 1983-1988, he worked in the private sector at a startup agbiotech company (Advanced Genetic Sciences, Oakland, California) founded to exploit new developments in molecular biology for crop improvement.  In 1988, he moved to the to be one of the first recruits at The Sainsbury Laboratory, Norwich.  He has published landmark papers on plant resistance genes and mechanisms, and on investigating the effector complements of the oomycete pathogens 
+Hyaloperonospora arabidopsidis
+ and 
+Albugo candida
+ using next-generation sequencing methods.  He also pioneers innovative methods to accelerate cloning and deployment of novel genes for resistance to , the potato late blight pathogen. Dr. Jones has co-founded 2 companies; Mendel Biotechnology, founded in 1997 to carry out genomics experiments to discover and exploit key regulators of crop productivity, and Norfolk Plant Sciences Ltd, to combine health promoting traits and disease resistance traits in potato and tomato.  Dr. Jones was elected a Professor at the University of East Anglia in 1997, a member of in 1998, Fellow of the Royal Society in 2003, and Foreign Associate of the National Academy of Sciences in 2015.  He has participated in several Royal Society working groups on food security.
+Professor Sophien Kamoun
+The Sainsbury Laboratory, Norwich
+Related Links
+Prof. Kamoun's website
+Prof. Sophien Kamoun joined The Sainsbury Laboratory in 2007 and served as Head of Laboratory in 2009-2014. Dr. Kamoun received his degree from Pierre and Marie Curie University, and his Ph.in Genetics from the University of California at Davis in 1991. He then was a postdoctoral fellow at the Center for Engineering Plants for Resistance Against Pathogens, Davis, and at the Department of Phytopathology, Wageningen University, Netherlands. From 1998-2007, Dr. Kamoun carried out research on oomycete molecular genetics on the faculty at the Ohio State University, Department of Plant Pathology, Wooster campus. At the Sainsbury Laboratory, Dr. Kamoun continues to exploit genomics resources to improve understanding of plant pathosystems, unravel novel processes and concepts in plant-microbe interactions, and devise original disease management strategies based on the gained knowledge. Throughout his career, Dr. Kamoun made a number of significant contributions to the science of molecular plant pathology. Dr. Kamoun pioneered genomics and molecular biology methods to reveal fundamental insights into the biology of eukaryotic plant pathogens. He discovered several effector families from pathogenic oomycetes and fungi, and showed how they can suppress plant immunity. He demonstrated how antagonistic coevolution with host plants accelerates evolution of effector genes and emergence of new virulent pathogens. His pioneering work in plant pathology has resulted in new approaches to control of some of the world’s most serious crop diseases. Dr. Kamoun is a Thomson Reuters Highly Cited Researcher (2014-2017). He received several awards, notably the American Phytopathological Society Syngenta Award in 2003, the Ohio State University Pomerene Teaching Award in 2004, the Krauss Award in 2006, the Daiwa Adrian Prize in 2010, and the Noel Keen Award in 2013. Recently, he was recognized by award of the Kuwait Prize 2017 in recognition of his international leadership in pathology research and development of disease-resistant crop species. He was elected to Academia Europaea in 2011, in 2015, and has won successive European Research Council (ERC) Advanced Investigator grants in 2011 and 2017.
+Professor Dr. Paul Schulze-Lefert
+Max-Planck-Institut für Züchtungsforschung (MPIZ), Cologne
+Related Links
+Prof. Dr. Schulze-Lefert's website
+Prof. Dr. Paul Schulze-Lefert was trained in biochemistry and genetics at Marburg, Freiburg, and Cologne Universities, Germany.  After a Ph.thesis on cis-and trans-active factors regulating plant gene expression in response to light, he became interested in fundamental processes controlling plant microbe interactions.  Major research areas are the innate immune system of plants and functions of the plant microbiota.  Dr. Schulze-Lefert worked from 1989 to 1990 as postdoctoral fellow in Francesco Salamini’s department at the Cologne on the development of marker technologies in plant genomes.  In 1991 he started his own research group at the Aachen with a focus on plant disease resistance mechanisms to fungal pathogens.  From 1995 to 2000, he held a senior research position and supervised a research team in the Sainsbury Laboratory at the John Innes Centre, England.  Since 2000 he is head of the Department of Plant Microbe Interactions at the Max-Planck-Institut für Züchtungsforschung (MPIZ), Cologne, and Honorary Professor at the University of Cologne since 2003.  Dr. Schulze-Lefert is an elected member since 2006.  In 2010 he was elected to the National Academy of Sciences, USA, and to the “Deutsche Akademie der Naturforscher Leopoldina”, Germany.  He was elected Fellow to the American Academy of Microbiology in 2011.  Much of his current work is dedicated to bridging traditional research areas like genetics, biochemistry, and cell biology in the endeavor of increasing our understanding of the molecular mechanisms that control plant microbe interactions. 
+Professor Brian Staskawicz
+University of California, Berkeley
+Related Links
+Prof. Staskawicz's website
+Prof. Brian John Staskawicz, Ph.is the Maxine Elliot Professor of Plant and Microbial Biology Department at the University of California, Berkeley. Dr. Staskawicz received his Ph.from University of California, Berkeley, from Yale University and from Bates College.  Dr. Staskawicz is recognized as a world leading plant molecular pathologist.  His contributions include cloning the first bacterial effector gene and plant disease resistant genes.  His current work involves elucidation of the molecular basis of plant innate immunity in both the model plant Arabidopsis thaliana and the agronomically important plants.  major focus in the laboratory currently involves employing genomic strategies including gene editing to engineer durable disease resistance in several crops species. He was elected a member of National Academy of Sciences in 1998 and is a Fellow of the American Phytopathological Society and American Academy of Microbiology.  Dr. Staskawicz is the recipient of a number of awards, including being named a Fulbright Scholar in 1991, the American Phytopathological Society’s Ruth Allen Award in 1995, the Honors Award in 1995, American Phytopathological Society’s Noel Keen Award for Excellence in Molecular Plant Pathology in 2004 and  received a Doctor Honoris Causa, Wageningen University in 2013. Dr. Staskawicz serves as an external advisor to the Sainsbury Laboratory in Norwich.  He also serves as an editor for P.N.A.S., Cell Host-Microbe.
+Professor Cyril Zipfel
+Institute of Plant & Microbial Biology, University of Zurich
+Professor Zipfel holds the Chair of Molecular & Cellular Plant Physiology at the University of Zurich (Switzerland) (since June 2018). Before that, he was Senior Group Leader and Head of The Sainsbury Laboratory (TSL) in Norwich (UK) where he had his group since 2007. He performed his doctoral (2001-2005) and post-doctoral research (2005-2007) in the laboratories of Profs. Thomas Boller (Friedrich-Miescher Institute, Basel, Switzerland) and Jonathan Jones (Norwich, UK) (supported by an Long-Term Post-Doctoral Fellowship), respectively. He is a pioneer and leader in the field of plant innate immunity and receptor kinases. His work is focused on understanding the molecular basis of plant innate immunity mediated by surface-localized immune receptors, as well as the application of this research to engineer disease resistance in crops. He was awarded competitive European Research Council grants in 2012 and 2018, is a Highly Cited Researcher (since 2014), and was awarded the Charles Albert Shull Award from the American Society of Plant Biologists in 2015 and the 4th Tsuneko & Reiji Okazaki Award from Nagoya University in 2018. He was elected to the European Molecular Biology Organisation in 2018. He also assumes editorial duties for the journals Science Signaling, Annual Review of Plant Biology, PLoPathogens, Molecular Plant, and Reports.
+Elsewhere on the site
+Sign up for our newsletter
+Thanks for signing up!
+Subscribe
+Bridging the Gap
+Important crop disease resistance solutions have failed to move beyond the lab bench.  2bridges the gap between the laboratory and the field, translating research in durable disease resistance into practical applications.
+Navigate
+The Unmet Need
+How We Work
+Our Team
+Overview
+Management & Directors
+2Group, The Sainsbury Laboratory
+Scientific Advisory Board
+2Groups
+Overview
+Norwich, UK
+Projects & Technology
+Current Projects
+Technology Patent Estate and Development
+Project Grants
+Potential Future Projects
+News & Media
+News
+In the News
+Newsletters
+Infographics
+Videos
+About 2Learn More
+Infographics
+Data Resources
+Newsletters
+Major crop disease outbreaks
+Privacy Policy
+Get involved
+Contact
+2+1 847 425 1277
+Twitter
+YouTube
+&copy2019 2Foundation. All rights reserved.This website uses cookies
+We use cookies to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. You consent to our cookies if you continue to use our website. For more information please see our Privacy Policy .
+Unclassified (2)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+2blades.org
+Stores the user's cookie consent state for the current domain
+1 year
+https
+twitter.com
+The cookie is used in context with the local-storage function in the browser. This function allows the website to load faster by pre-loading certain procedures.
+Persistent
+HTML
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+Name
+Provider
+Purpose
+Expiry
+Type
+lang
+cdn.syndication.twimg.com
+Session
+HTTP
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+_ga
+2blades.org
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+HTTP
+_gid
+2blades.org
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+IDE
+doubleclick.net
+Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
+1 year
+1 day
+HTTP
+NID
+google.com
+Registers a unique that identifies a returning user's device. The is used for targeted ads.
+6 months
+Stores the user's video player preferences using embedded YouTube video
+Persistent
+HTML
+yt-remote-fast-check-period
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML
+yt-remote-session-app
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML
+yt-remote-session-name
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML
+i/jot
+twitter.com
+Sets a unique for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers.
+Session
+Pixel
+GPS
+youtube.com
+Registers a unique on mobile devices to enable tracking based on geographical location.
+1 day
+HTTP
+PREF
+youtube.com
+Registers a unique that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
+8 months
+HTTP
+VISITOR_INFO1_LIVE
+youtube.com
+Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
+179 days
+HTTP
+YSC
+youtube.com
+Registers a unique to keep statistics of what videos from YouTube the user has seen.
+Session
+HTTP
+yt-remote-cast-installed
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Session
+HTML
+yt-remote-connected-devices
+youtube.com
+Stores the user's video player preferences using embedded YouTube video
+Persistent
+HTML
+i/jot/syndication
+twitter.com
+Pending
+Session
+Pixel
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+https
+twitter.com
+Pending
+Persistent
+HTML
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 27/01/2019 by Cookiebot
+i
+We teach crops how to fight more plant diseases
+At 2Blades, we pursue a better understanding of plant pathogens and the best solutions to the diseases they cause. The insights we find, which are at times unexpected or difficult to predict, provide new strategies for keeping plants healthy. 
+2works to apply these innovations to the breeding of significant crops for commercial and subsistence agriculture. We seek to get these healthier plants into the hands of farmers all over the world, so that farmers can stop losing crops to disease and can grow more efficiently with less need for crop protection chemicals.
+Fighting crop disease is an important part of a sustainable system for producing food now and in the future, as the world works to feed more people and conserve our natural resources.
+Our History
+2was established in 2004 as a 501(c)3 charitable organization to implement practical uses of important innovations in plant science that address the rising incidence of crop disease.  
+Remarkable advances have been realized in plant science over the past twenty years, including genome sequencing, molecular marker technologies, and tools for genome engineering.  These advances have vastly improved the understanding of plants and their interaction with pathogens, and they create opportunities for better means of breeding for durable disease resistance.  Yet typically these opportunities have stalled at the basic research stage.
+      “Technology transfer from lab bench to marketplace has historically been underdeveloped within the agricultural research enterprise.”  President’s Council of Advisors on Science and Technology, The White House
+Working together with world leading scientists in plant-pathogen interactions, 2has scouted and supported the most significant advances in the understanding of plant disease and immunity, as well as enabling technologies to develop disease resistant crops.
+Elsewhere on the site
+Thanks for signing up!
+Bridging the Gap

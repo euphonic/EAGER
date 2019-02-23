@@ -1,0 +1,1131 @@
+It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Toggle navigation
+Home
+Products and Services
+Company
+Overview
+Data Converters
+Sub-Millimeter Wave Schottky Diodes
+MMIC-Power Amplifier
+Optical Microlenses
+Semiconductor Fabrication Services
+Test and Measurement
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Custom Products
+Standard Products
+Subsystems FAQs
+Subsystems
+HMIR
+Read Out Integrated Circuits (ROICs)
+Laser Eye Protection
+Judson Technologies
+Research and Development
+Optics
+Liquid Crystal Devices
+Photonics
+Electronics
+Thermal Acoustic Management
+RF/Millimeter Wave
+Data Converters
+III-Devices
+MEMS
+Power Devices
+Sensors Overview
+Information Sciences
+Materials
+Composite Materials
+Functional Materials
+Biomaterials
+Company Information
+About Us
+Careers
+Contact Us
+Maps
+Diversity Statement
+Ethics Statement
+News
+Quality Assurance
+Business Units
+Sensors
+Judson Techologies
+Company
+Terms and Conditions
+Customers
+Suppliers
+James Webb Space Telescope (JWST)
+planned space observatory optimized for observations in the 
+infrared which will use a 6.5 meter primary mirror.
+EXtreme ACcuracy Tasked Ordnance (EXACTO)
+Guided Bullet Demonstrates Repeatable 
+ Performance Against Moving Targets
+Near Earth Object Camera (NEOCam)
+mission designed to discover and characterize most of the 
+potentially hazardous asteroids that are near the Earth
+Page Content
+Products Services
+Providing solutions to customers' technical problems is a key element of our mission.
+Learn more 
+Research Development
+​For over 40 years, we have embraced innovation in science and engineering.
+Learn more
+About Us​
+Delivering the Winning Technical Edge by Providing R&and Specialty Products .
+Custom-Page-Rich-Text-1
+Page Footer
+​
+​​Products Services
+Company
+Overview
+Data Converters
+Semiconductor Fabrication Services
+Power Amplifier
+Optical Microlenses
+Sub-Millimeter Wave Schottky Diodes
+Test Measurement 
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Subsystems
+Laser Eye Protection 
+Judson Technologies
+Overview 
+D
+Company
+Overview
+Electronics
+Information Sciences
+Materials
+Optics
+Sensors
+Overview
+Company Information
+About Us
+Careers
+Ethics Statetment
+News
+Quality Assurance
+​
+Business Units
+Company
+Sensors
+Judson Technologies
+​ 
+ © Technologies
+​It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Toggle navigation
+Home
+Products and Services
+Company
+Overview
+Data Converters
+Sub-Millimeter Wave Schottky Diodes
+MMIC-Power Amplifier
+Optical Microlenses
+Semiconductor Fabrication Services
+Test and Measurement
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Custom Products
+Standard Products
+Subsystems FAQs
+Subsystems
+HMIR
+Read Out Integrated Circuits (ROICs)
+Laser Eye Protection
+Judson Technologies
+Research and Development
+Optics
+Liquid Crystal Devices
+Photonics
+Electronics
+Thermal Acoustic Management
+RF/Millimeter Wave
+Data Converters
+III-Devices
+MEMS
+Power Devices
+Sensors Overview
+Information Sciences
+Materials
+Composite Materials
+Functional Materials
+Biomaterials
+Company Information
+Currently selected
+About Us
+Careers
+Contact Us
+Maps
+Diversity Statement
+Ethics Statement
+News
+Quality Assurance
+Business Units
+Sensors
+Judson Techologies
+Company
+Terms and Conditions
+Customers
+Suppliers
+Custom-Page-Rich-Text-1
+​
+Company Information
+and  / 
+Company Information
+Company Information
+Ethics Statement
+Careers
+Quality Management Statement
+About Us
+Terms and Conditions for Customers
+Terms and Conditions for Suppliers
+Contact Us
+Maps
+Diversity Statement
+James Webb Space Telescope (JWST)
+Near Earth Object Camera (NEOCam)
+News
+Custom-Page-Rich-Text-2
+Page Content
+​is comprised of Company and Sensors, which includes Judson Technologies. 
+As Teledyne's Central Research Laboratory, Company transitions technologies developed with contract R&investments from Government R&funding agencies into various businesses. We are a technology leader in high performance compound semiconductor devices and integrated circuits, ceramic and functional materials, efficient real-time information processing algorithms, and optical sensors and assemblies.
+Sensors is a leader in high performance systems for military, space, astronomy, and commercial applications. Our products include infrared (IR) visible sensors, Read-Out Integrated Circuits (ROICs), and tactical cameras, camera electronics embedded with advanced algorithms, and laser eye and sensor protection devices filters.
+Page Footer
+​
+​​Products Services
+Company
+Overview
+Data Converters
+Semiconductor Fabrication Services
+Power Amplifier
+Optical Microlenses
+Sub-Millimeter Wave Schottky Diodes
+Test Measurement 
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Subsystems
+Laser Eye Protection 
+Judson Technologies
+Overview 
+D
+Company
+Overview
+Electronics
+Information Sciences
+Materials
+Optics
+Sensors
+Overview
+Company Information
+About Us
+Careers
+Ethics Statetment
+News
+Quality Assurance
+​
+Business Units
+Company
+Sensors
+Judson Technologies
+​ 
+ © Technologies
+​Enhance Memory and Skill Learning While Sleeping
+Researchers at Imaging, have developed a new approach that enhances memory and skill learning while people sleep. In experiments conducted on over 100 human subjects, they demonstrated an up to 25% improvement in memory compared to subjects that did not use the new device.
+The approach leverages a phenomenon in the brain called memory replay which is thought to be involved in the transfer of information from short-term to long-term memory (a process termed consolidation) that takes place during sleep. The research focused on detecting biomarkers that indicated the brain was in the critical period of memory consolidation. Then,  by applying either a short sound or noninvasive electrical stimulation, they could trigger a boost in learning. The research suggests that this closed-loop approach, which tightly couples and prescribes interventions based on ongoing brain activity in real-time, significantly improves learning in real-world tasks in people.
+The research was conducted as part of a large scale collaboration with researchers from RioGrande Neurosciences, the University of California at Riverside, and Intific Inc., and funded by the Defense Advanced Research Projects Agency's (DARPA) Restoring Active Memory (RAM) Replay program.
+As part of their ongoing research, has demonstrated that this approach improves learning across a number of domains. First, it improved learning to navigate a new 3environment simulated in virtual reality. Here, participants who received the closed-loop intervention realized an almost 40% benefit in their navigation time compared to controls, indicating an increase in understanding and retention of the virtual city layout. Second, they have also demonstrated significant effects in boosting memory on more standard educational material. For example, they found that noninvasive electrical stimulation could improve an individual's test scores on lecture material by >10% (a full letter grade improvement) two days after the material was learned without any additional study of the material.  Finally, ongoing work is demonstrating an over 15% improvement on memory tests of facts.
+ “Through this research we have gained great confidence that these approaches can make a difference in people's lives by enhancing learning on a number of different tasks.", says Dr. Stephen Simons who is the lead investigator for Teledyne's team on the project. “Furthermore, the noninvasive nature of these interventions and their application during sleep means that these benefits can be realized with minimal disruption to people's everyday routines."
+3 September 2014
+Achieves Success in Live Fire Testing of Guided Munitions Under DARPA'Program
+OAKS, Calif. – September 3, 2014 – Technologies Incorporated (NYSE:TDY) announced today that its subsidiary, Imaging, LLC, recently demonstrated the first-ever precision guided munition capability in live fire testing of guided .50 caliber bullets under the Defense Advanced Research Projects Agency (DARPA) Tactical Technology Office’s EXtreme ACcuracy Tasked Ordnance (EXACTO) program. The objective of the program is to develop and demonstrate a highly accurate small caliber weapon system capable of addressing moving targets at extreme ranges and in high winds.
+“We are pleased to have successfully demonstrated such an advanced capability designed to further empower our military personnel,” said Robert Mehrabian, Chairman, President, and Chief Executive Officer of Teledyne.
+Teledyne’s team for the program includes Alliant Techsystems, Cubic Defense Applications, the Charles Stark Draper Laboratory, and Brown Engineering, Inc.
+Technologies Incorporated is a leading provider of sophisticated instrumentation, digital products and software, aerospace and defense electronics, and engineered systems. Technologies’ operations are primarily located in the United States, Canada, the United Kingdom, and Western and Northern Europe. For more information, visit Technologies’ website at www.teledyne.com or Imaging’s website at www.teledyne-si.com.
+Contact: Jason VanWees (805) 373-4542
+Approved for Public Release, Distribution Unlimited​
+Page FooterIt looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Toggle navigation
+Home
+Products and Services
+Company
+Overview
+Data Converters
+Sub-Millimeter Wave Schottky Diodes
+MMIC-Power Amplifier
+Optical Microlenses
+Semiconductor Fabrication Services
+Test and Measurement
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Custom Products
+Standard Products
+Subsystems FAQs
+Subsystems
+HMIR
+Read Out Integrated Circuits (ROICs)
+Laser Eye Protection
+Judson Technologies
+Research and Development
+Optics
+Liquid Crystal Devices
+Photonics
+Electronics
+Thermal Acoustic Management
+RF/Millimeter Wave
+Data Converters
+III-Devices
+MEMS
+Power Devices
+Sensors Overview
+Information Sciences
+Materials
+Composite Materials
+Functional Materials
+Biomaterials
+Company Information
+Currently selected
+About Us
+Careers
+Contact Us
+Maps
+Diversity Statement
+Ethics Statement
+News
+Quality Assurance
+Business Units
+Sensors
+Judson Techologies
+Company
+Terms and Conditions
+Customers
+Suppliers
+Custom-Page-Rich-Text-1
+​Careers
+and  / 
+Company Information
+ / 
+Careers
+Page Content
+​
+Imaging, is a powerhouse of technical innovation with a broad range of R&and commercialization initiatives. Our extensive resources, commitment to quality and responsiveness are focused on success. If you are interested in creating cutting edge, high value technical solutions for today's fast-paced technical market, we have the opportunities you are looking for.
+Job Listings
+Diversity Statement
+Employee Benefits Overview
+Recruiter Policy
+Thank you for your interest in Imaging. does not accept unsolicited resumes from agencies with which we do not have an existing relationship. All recruiter-forwarded, third party resumes will be considered property of and treated as a direct application. reserves the right to contact the candidate directly. Receipt of any unsolicited resume does not constitute an agreement between and the recruiter, nor will the recruiter receive any compensation from Imaging. conducts background checks and drug testing.
+is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation, gender identity and pregnancy, national origin, disability, or protected Veteran status, or any other characteristic protected by applicable federal, state, or local law. To see our Policy on EEO 
+click here
+.You may also view the Is The Law Poster by 
+clicking here
+.
+To confirm the authenticity of any recruitment related correspondence, please email teledynerecruitment@teledyne.com or call (805) 373-4545.
+If you need assistance or an accommodation while seeking employment, please email teledynerecruitment@teledyne.com or call (805) 373-4545. Determinations on requests for reasonable accommodation will be made on a case-by-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will receive a response.
+Participates in 
+E-Verify
+ and 
+Pay Transparency
+Add link
+Updated...
+Size
+<<
+>>
+Image
+<<
+>>
+Color
+<<
+>>
+Image Preview:
+Clear
+Use transparent gif
+Label Alignment:
+Open In New Window
+Flip text color (from light to dark)
+Custom Tip
+Some description here.
+Close
+Custom-Page-Rich-Text-2
+Page Footer
+​
+​​Products Services
+Company
+Overview
+Data Converters
+Semiconductor Fabrication Services
+Power Amplifier
+Optical Microlenses
+Sub-Millimeter Wave Schottky Diodes
+Test Measurement 
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Subsystems
+Laser Eye Protection 
+Judson Technologies
+Overview 
+D
+Company
+Overview
+Electronics
+Information Sciences
+Materials
+Optics
+Sensors
+Overview
+Company Information
+About Us
+Careers
+Ethics Statetment
+News
+Quality Assurance
+​
+Business Units
+Company
+Sensors
+Judson Technologies
+​ 
+ © Technologies
+​It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Toggle navigation
+Home
+Products and Services
+Company
+Overview
+Data Converters
+Sub-Millimeter Wave Schottky Diodes
+MMIC-Power Amplifier
+Optical Microlenses
+Semiconductor Fabrication Services
+Test and Measurement
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Custom Products
+Standard Products
+Subsystems FAQs
+Subsystems
+HMIR
+Read Out Integrated Circuits (ROICs)
+Laser Eye Protection
+Judson Technologies
+Research and Development
+Optics
+Liquid Crystal Devices
+Photonics
+Electronics
+Thermal Acoustic Management
+RF/Millimeter Wave
+Data Converters
+III-Devices
+MEMS
+Power Devices
+Sensors Overview
+Information Sciences
+Materials
+Composite Materials
+Functional Materials
+Biomaterials
+Company Information
+Currently selected
+About Us
+Careers
+Contact Us
+Maps
+Diversity Statement
+Ethics Statement
+News
+Quality Assurance
+Business Units
+Sensors
+Judson Techologies
+Company
+Terms and Conditions
+Customers
+Suppliers
+Custom-Page-Rich-Text-1
+About Us​
+ Preparing James Webb Space Telescope’s (JWST) fine guidance sensor focal plane array (FPA) for cryogenic performance testing.
+and  / 
+Company Information
+ / 
+About Us
+Company Information
+Ethics Statement
+Careers
+Quality Management Statement
+About Us
+Currently selected
+Terms and Conditions for Customers
+Terms and Conditions for Suppliers
+Contact Us
+Maps
+Diversity Statement
+James Webb Space Telescope (JWST)
+Near Earth Object Camera (NEOCam)
+News
+Custom-Page-Rich-Text-2
+Page Content
+​is comprised of  Company and Sensors, which includes Judson  Technologies. 
+          As Teledyne’s Central Research Laboratory, Company transitions technologies developed with contract R& investments from Government R&funding agencies into various  businesses. We are a technology leader in high performance  compound semiconductor devices and integrated circuits, ceramic and  functional materials, efficient real-time information processing  algorithms, and optical sensors and assemblies.
+          Sensors is a leader in high performance  systems for military, space, astronomy, and commercial  applications. Our products include infrared (IR) visible sensors,  Read-Out Integrated Circuits (ROICs), and tactical  cameras, camera electronics embedded with advanced algorithms, and laser eye and sensor protection devices filters.
+Page Footer
+​
+​​Products Services
+Company
+Overview
+Data Converters
+Semiconductor Fabrication Services
+Power Amplifier
+Optical Microlenses
+Sub-Millimeter Wave Schottky Diodes
+Test Measurement 
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Subsystems
+Laser Eye Protection 
+Judson Technologies
+Overview 
+D
+Company
+Overview
+Electronics
+Information Sciences
+Materials
+Optics
+Sensors
+Overview
+Company Information
+About Us
+Careers
+Ethics Statetment
+News
+Quality Assurance
+​
+Business Units
+Company
+Sensors
+Judson Technologies
+​ 
+ © Technologies
+​It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Toggle navigation
+Home
+Products and Services
+Company
+Overview
+Data Converters
+Sub-Millimeter Wave Schottky Diodes
+MMIC-Power Amplifier
+Optical Microlenses
+Semiconductor Fabrication Services
+Test and Measurement
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Custom Products
+Standard Products
+Subsystems FAQs
+Subsystems
+HMIR
+Read Out Integrated Circuits (ROICs)
+Laser Eye Protection
+Judson Technologies
+Research and Development
+Optics
+Liquid Crystal Devices
+Photonics
+Electronics
+Thermal Acoustic Management
+RF/Millimeter Wave
+Data Converters
+III-Devices
+MEMS
+Power Devices
+Sensors Overview
+Information Sciences
+Materials
+Composite Materials
+Functional Materials
+Biomaterials
+Company Information
+Currently selected
+About Us
+Careers
+Contact Us
+Maps
+Diversity Statement
+Ethics Statement
+News
+Quality Assurance
+Business Units
+Sensors
+Judson Techologies
+Company
+Terms and Conditions
+Customers
+Suppliers
+Custom-Page-Rich-Text-1
+​Contact Information
+and  / 
+Company Information
+ / 
+Contact Us
+Page Content
+​Media Contact
+Juli Hotchkiss
+Company
+Electronics Semiconductor Fabrication Services
+Pam Flores
+Mixed Signal Products
+Sales
+Ron Latreille
+(805) 373-4686
+Support
+Edward Merlo
+Information Sciences
+​
+Sensors
+Juli Hotchkiss
+​
+Judson Technologies
+Phone: (215) 368-6900
+Fax: (215) 362-6107
+Custom-Page-Rich-Text-2
+Page Footer
+​
+​​Products Services
+Company
+Overview
+Data Converters
+Semiconductor Fabrication Services
+Power Amplifier
+Optical Microlenses
+Sub-Millimeter Wave Schottky Diodes
+Test Measurement 
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Subsystems
+Laser Eye Protection 
+Judson Technologies
+Overview 
+D
+Company
+Overview
+Electronics
+Information Sciences
+Materials
+Optics
+Sensors
+Overview
+Company Information
+About Us
+Careers
+Ethics Statetment
+News
+Quality Assurance
+​
+Business Units
+Company
+Sensors
+Judson Technologies
+​ 
+ © Technologies
+​It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Toggle navigation
+Home
+Products and Services
+Company
+Overview
+Data Converters
+Sub-Millimeter Wave Schottky Diodes
+MMIC-Power Amplifier
+Optical Microlenses
+Semiconductor Fabrication Services
+Test and Measurement
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Custom Products
+Standard Products
+Subsystems FAQs
+Subsystems
+HMIR
+Read Out Integrated Circuits (ROICs)
+Laser Eye Protection
+Judson Technologies
+Research and Development
+Optics
+Liquid Crystal Devices
+Photonics
+Electronics
+Thermal Acoustic Management
+RF/Millimeter Wave
+Data Converters
+III-Devices
+MEMS
+Power Devices
+Sensors Overview
+Information Sciences
+Materials
+Composite Materials
+Functional Materials
+Biomaterials
+Company Information
+Currently selected
+About Us
+Careers
+Contact Us
+Maps
+Diversity Statement
+Ethics Statement
+News
+Quality Assurance
+Business Units
+Sensors
+Judson Techologies
+Company
+Terms and Conditions
+Customers
+Suppliers
+Custom-Page-Rich-Text-1
+​​MAPS​
+and  / 
+Company Information
+ / 
+Maps
+Page Content
+​
+Company - Thousand Oaks, CA
+1049 Camino Dos Rios, Thousand Oaks, 91360
+Phone: (805) 373-4545 Fax: (805) 373-4775
+Company - Durham, NC
+5001 Miami Blvd., Suite 200, Durham, 27703
+ Phone: (919) 323-3486 
+​Sensors - Camarillo, CA
+5212 Verdugo Way, Camarillo, 93012
+Phone: (805) 373-4545 Fax: (805) 373-4687
+​
+Judson Technologies - Montgomeryville, PA
+ 221 Commerce Drive, Montgomeryville, 18936
+ Phone: (215) 368-6900 Fax: (215) 362-6107
+Custom-Page-Rich-Text-2
+Page Footer
+​
+​​Products Services
+Company
+Overview
+Data Converters
+Semiconductor Fabrication Services
+Power Amplifier
+Optical Microlenses
+Sub-Millimeter Wave Schottky Diodes
+Test Measurement 
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Subsystems
+Laser Eye Protection 
+Judson Technologies
+Overview 
+D
+Company
+Overview
+Electronics
+Information Sciences
+Materials
+Optics
+Sensors
+Overview
+Company Information
+About Us
+Careers
+Ethics Statetment
+News
+Quality Assurance
+​
+Business Units
+Company
+Sensors
+Judson Technologies
+​ 
+ © Technologies
+​Page Content
+​Imaging, conducts its business in compliance with the laws of the United States and other jurisdictions in which it operates and according to the highest ethical standards. Integrity is the cornerstone of the way does business. Ethical conduct is not only the right thing to do, it is good business.
+Employees and consultants of shall adhere to this policy. The following summarizes Imaging’s high-level policies on key ethical business issues
+Corporate Citizenship – and its employees will comply with all applicable laws and regulations.
+Work Place Conduct – employees will act in a fair, honest and lawful manner in all business relationships with customers, suppliers, employees, applicants, and community members.
+Quality – No employee shall knowingly misrepresent the condition or status of Imaging's research, products or services. Constant validation through testing and accurate documentation ensures that products meet or exceed performance and quality specifications. is committed to complying with external quality systems such as 9001-2000.
+Procurement Integrity – No employee, either directly or through an intermediary, may knowingly obtain confidential information from or concerning a customer, supplier or competitor, unless the information is provided with the consent of all concerned parties.
+Conflicts of Interest – All employees will conduct themselves with the highest standards of integrity, honesty and fair dealing to preclude conflicts between the interests of and the personal interests of employees.
+Providing Cost or Pricing Data to the Government – Cost or pricing data shall be current, accurate and complete in accordance with the Truth in Negotiations Act. Employees will not make any material or non-approved substitutions from specifications and will ensure that all products meet or exceed contractual specifications.
+Charges to Government – Only costs that are allowable and allocable to a contract under law and Federal Acquisition Regulations may be charged to the Government.
+Financial Accounting, Records and Communications – Documents will be prepared as completely, honestly, and accurately as possible. Disbursements of funds and receipts will be properly and promptly recorded. Any inaccurate description of labor costs is strictly prohibited.
+Business Courtesies and Kickbacks – will conduct business on the basis of quality, performance and price without giving or accepting anything of value that could, in fact or in appearance, influence the outcome of a transaction or negotiation.
+International Business Practices – employees will comply with the provisions of the Foreign Corrupt Practices Act and all export control laws and regulations.
+Employing and Recruiting Government Personnel – complies with laws and regulations concerning employment and recruiting of current or former Government personnel.
+Classified and Proprietary Information – All employees will deal with sensitive information (including Government classified information, proprietary information, and proprietary information of others) in the proper manner, both as a matter of national security and to assure compliance with applicable laws, regulations and contractual requirements. Unauthorized access, dissemination, acceptance or handling of such material is prohibited and may constitute a violation of law.
+Compliance Program maintains a program to enforce the letter and spirit of this policy. Violations of Imaging's standards will be met with disciplinary actions up to and including discharge from the company and/or legal action.
+employees and anyone conducting business with are encouraged to report any violations of Imaging's Code of Business Conduct or other related policies to Imaging's Ombudsman. Also, employees may contact the Defense Hotline for Fraud, Waste and Abuse Reporting. will not retaliate against employees who have conscientiously reported potential illegal or unethical acts.
+Responsibilities The Business Standards Compliance Committee, appointed by the President and Chief Executive Officer, reviews the activities of Imaging's standards of business conduct and compliance program and approves actions concerning ethics issues. The Senior Vice President and Chief Operations Officer has overall responsibility for compliance with this policy.
+The head of each business division is responsible for compliance with this policy by all employees within that division.
+Questions or concerns regarding Imaging's Standards of Business Conduct or its application to specific situations may be addressed to the members of the Business Standards Compliance Committee, Imaging's Ombudsman, Imaging's Internal Control Department, or any of the signatory executives.
+Page FooterIt looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Toggle navigation
+Home
+Products and Services
+Company
+Overview
+Data Converters
+Sub-Millimeter Wave Schottky Diodes
+MMIC-Power Amplifier
+Optical Microlenses
+Semiconductor Fabrication Services
+Test and Measurement
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Custom Products
+Standard Products
+Subsystems FAQs
+Subsystems
+HMIR
+Read Out Integrated Circuits (ROICs)
+Laser Eye Protection
+Judson Technologies
+Research and Development
+Optics
+Liquid Crystal Devices
+Photonics
+Electronics
+Thermal Acoustic Management
+RF/Millimeter Wave
+Data Converters
+III-Devices
+MEMS
+Power Devices
+Sensors Overview
+Information Sciences
+Materials
+Composite Materials
+Functional Materials
+Biomaterials
+Company Information
+Currently selected
+About Us
+Careers
+Contact Us
+Maps
+Diversity Statement
+Ethics Statement
+News
+Quality Assurance
+Business Units
+Sensors
+Judson Techologies
+Company
+Terms and Conditions
+Customers
+Suppliers
+Custom-Page-Rich-Text-1
+​
+​ 
+and  / 
+Company Information
+ / 
+Quality Management Statement
+Company Information
+Ethics Statement
+Careers
+Quality Management Statement
+Currently selected
+About Us
+Terms and Conditions for Customers
+Terms and Conditions for Suppliers
+Contact Us
+Maps
+Diversity Statement
+James Webb Space Telescope (JWST)
+Near Earth Object Camera (NEOCam)
+News
+Custom-Page-Rich-Text-2
+Page Content
+Quality Management Statement
+As meets higher production demands, it is increasingly important to maintain the highest level of quality assurance. Sensor's Quality Management System (QMS) is both 9001:2015 and AS9100certified for the design and manufacturing of high technology products within the Aerospace, Defense, and Space communities and is a member of the International Aerospace Quality Group (IAQG) Online Aerospace Supplier Information System (OASIS).
+Sensors became AS9100certified after successfully passing the certification audit on March 29, 2018. Since the original certification audit, Sensors has passed yearly surveillance audits and external audit renewal for maintaining both 9001 and AS9100 standards.
+We support the contract and process plans of our customers through quality plans and procedures. Our quality management system provides for compliant products, inspection, testing, and quality monitoring to ensure Customer and contract requirement conformance. Additional product activities are added to our as needed to support customer and business plans.
+links to our certificates:
+Sensors
+Judson Technologies
+​​
+Page Footer
+​
+​​Products Services
+Company
+Overview
+Data Converters
+Semiconductor Fabrication Services
+Power Amplifier
+Optical Microlenses
+Sub-Millimeter Wave Schottky Diodes
+Test Measurement 
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Subsystems
+Laser Eye Protection 
+Judson Technologies
+Overview 
+D
+Company
+Overview
+Electronics
+Information Sciences
+Materials
+Optics
+Sensors
+Overview
+Company Information
+About Us
+Careers
+Ethics Statetment
+News
+Quality Assurance
+​
+Business Units
+Company
+Sensors
+Judson Technologies
+​ 
+ © Technologies
+​Page Content
+​Diversity       is an integral element in our mission to deliver the  winning       technical edge in advanced R&technology and product  solutions.       employs men and women  from       over 40 different countries that reflect a wide background        of education, experience       and culture.
+recognizes that our success  as an enterprise       depends on the talent, skills and expertise of  our people and our ability to       function as tightly integrated        teams. We are dedicated to developing and maintaining an inclusive,  high-performing,       creative culture       in which all team members  leverage each others’ talents and backgrounds,       and encourage  innovative and independent thinking. We place importance on the        development of people who help create       the company’s success.
+Alongside       innovation and excellence, integrity and  fairness have always       been cornerstone values in how we conduct  business. The diversity       embraces  in our people translates       to an environment that promotes looking  at challenges from       different perspectives:       perspectives that  lead to new solution approaches and real       results for our  customers.
+Page FooterIt looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Toggle navigation
+Home
+Products and Services
+Company
+Overview
+Data Converters
+Sub-Millimeter Wave Schottky Diodes
+MMIC-Power Amplifier
+Optical Microlenses
+Semiconductor Fabrication Services
+Test and Measurement
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Custom Products
+Standard Products
+Subsystems FAQs
+Subsystems
+HMIR
+Read Out Integrated Circuits (ROICs)
+Laser Eye Protection
+Judson Technologies
+Research and Development
+Optics
+Liquid Crystal Devices
+Photonics
+Electronics
+Thermal Acoustic Management
+RF/Millimeter Wave
+Data Converters
+III-Devices
+MEMS
+Power Devices
+Sensors Overview
+Information Sciences
+Materials
+Composite Materials
+Functional Materials
+Biomaterials
+Company Information
+About Us
+Careers
+Contact Us
+Maps
+Diversity Statement
+Ethics Statement
+News
+Quality Assurance
+Business Units
+Sensors
+Judson Techologies
+Company
+Terms and Conditions
+Customers
+Suppliers
+Custom-Page-Rich-Text-1
+​Company
+and  / 
+Company Information
+ / 
+Company
+Page Content
+Custom-Page-Rich-Text-2
+Page Footer
+​
+​​Products Services
+Company
+Overview
+Data Converters
+Semiconductor Fabrication Services
+Power Amplifier
+Optical Microlenses
+Sub-Millimeter Wave Schottky Diodes
+Test Measurement 
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Subsystems
+Laser Eye Protection 
+Judson Technologies
+Overview 
+D
+Company
+Overview
+Electronics
+Information Sciences
+Materials
+Optics
+Sensors
+Overview
+Company Information
+About Us
+Careers
+Ethics Statetment
+News
+Quality Assurance
+​
+Business Units
+Company
+Sensors
+Judson Technologies
+​ 
+ © Technologies
+​It looks like your browser does not have JavaScript enabled. Please turn on JavaScript and try again.
+Toggle navigation
+Home
+Products and Services
+Company
+Overview
+Data Converters
+Sub-Millimeter Wave Schottky Diodes
+MMIC-Power Amplifier
+Optical Microlenses
+Semiconductor Fabrication Services
+Test and Measurement
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Custom Products
+Standard Products
+Subsystems FAQs
+Subsystems
+HMIR
+Read Out Integrated Circuits (ROICs)
+Laser Eye Protection
+Judson Technologies
+Research and Development
+Currently selected
+Optics
+Liquid Crystal Devices
+Photonics
+Electronics
+Thermal Acoustic Management
+RF/Millimeter Wave
+Data Converters
+III-Devices
+MEMS
+Power Devices
+Sensors Overview
+Information Sciences
+Materials
+Composite Materials
+Functional Materials
+Biomaterials
+Company Information
+About Us
+Careers
+Contact Us
+Maps
+Diversity Statement
+Ethics Statement
+News
+Quality Assurance
+Business Units
+Sensors
+Judson Techologies
+Company
+Terms and Conditions
+Customers
+Suppliers
+Custom-Page-Rich-Text-1
+​Thermal Acoustic Management
+and  / 
+Research and Development
+ / 
+Thermal Acoustic Management
+Research and Development
+Optics
+Electronics
+Sensors Overview
+Information Sciences
+Materials
+Custom-Page-Rich-Text-2
+Page Content
+Bi-porous wick structures for heat pipe and vapor chamber. (image below)
+​
+Company carries out R&in thermal management for power technology. The goal is to provide effective thermal management solutions for electronic packaging by exploiting advanced cooling technology, effective thermal analysis, experimental validation and prototype demonstration.
+ We use active and passive approaches to achieve high power density electronics packaging. This includes closed loop spray/microjet array cooling and high-heat flux pipes. In addition, a miniature refrigeration system for chip level cooling has been developed based on thermoacoustics principles.
+ Controlling acoustics and vibrations is critical to sensitive electronic and optical assembly. We develop sonic crystals for vibration and sound isolation at specified frequency bands. The engineered crystal is continuum-based or truss-like in structure. The sonic crystal lattice can be one to two orders smaller than the corresponding wavelengths it controls. This allows for significant acoustic wave control at low frequencies.
+Page Footer
+​
+​​Products Services
+Company
+Overview
+Data Converters
+Semiconductor Fabrication Services
+Power Amplifier
+Optical Microlenses
+Sub-Millimeter Wave Schottky Diodes
+Test Measurement 
+Sensors
+Overview
+Cameras by Infrared and Visible FPAs
+Subsystems
+Laser Eye Protection 
+Judson Technologies
+Overview 
+D
+Company
+Overview
+Electronics
+Information Sciences
+Materials
+Optics
+Sensors
+Overview
+Company Information
+About Us
+Careers
+Ethics Statetment
+News
+Quality Assurance
+​
+Business Units
+Company
+Sensors
+Judson Technologies
+​ 
+ © Technologies
+​

@@ -1,0 +1,598 @@
+Process
+Technologies
+14nm
+28nm
+Advanced Technologies
+A+/Mature Technologies
+Technologies
+Embedded High Voltage
+BCD
+Embedded Nonvolatile Memory
+IoT
+Sensor Solutions
+AUTO
+SM
+World-class
+Manufacturing
+300 mm Manufacturing Leadership
+Competitiveness through Productivity
+Advanced Automation
+Fab Info
+Backend
+Services
+Turnkey Solution
+Testing Service
+Package Solution Development
+Product Yield Management Service
+Design
+Support
+Mask Service
+Silicon Shuttle
+Libraries and IP
+Design Verification
+Design for Manufacturing
+Design Kit and Manual
+Design Flow Reference
+My UMC
+English
+繁體中文
+简体中文
+日本語
+한국어
+28-nanometer Technology
+>
+2017 Corporate Social Responsibility Report
+>
+Enabling the IoEra
+42018 Financial Results
+>Teleconference Live Webcast and Replay
+>Audio
+Receives Highest Platinum Award for 2018 Taiwan Corporate Sustainability Report
+Issues Follow-up Statement Regarding Recent Legal Developments
+About UMC
+Overview
+Leadership
+History
+Intellectual Property Security Policy
+Awards
+Certificates
+Investors
+Financials
+Reports
+Events
+Stock Info
+Corporate Governance
+FAQs
+Contact IR
+Corporate Sustainability
+Committee Chairman Message
+Reports and Results
+Operation and Commitment
+Protecting the Environment
+Empowering the Employees
+Stakeholder Engagement
+videos
+Press Center
+Press Releases
+Photo Gallery
+Literatures
+Careers
+Job Search
+Working Environment
+Employee Benefits
+Popular Links
+Gear Radio Introduces Complete Bluetooth 5 Low-Power Solution for IoSoApplications
+40nm Technology Reinvigorated
+Cadence Virtuoso Available on 28HPC
+U
+Readiness for 28HPC
+U
+28-nanometer Technology
+Contact
+Sitemap
+Terms of Use
+Copyright © Corporation 2010-2019, All Rights Reserved.Process
+Technologies
+14nm
+28nm
+Advanced Technologies
+A+/Mature Technologies
+Technologies
+Embedded High Voltage
+BCD
+Embedded Nonvolatile Memory
+IoT
+Sensor Solutions
+AUTO
+SM
+World-class
+300 mm Manufacturing Leadership
+Competitiveness through Productivity
+Advanced Automation
+Fab Info
+Backend
+Turnkey Solution
+Testing Service
+Package Solution Development
+Product Yield Management Service
+Design
+Mask Service
+Silicon Shuttle
+Libraries and IP
+Design Verification
+Design for Manufacturing
+Design Kit and Manual
+Design Flow Reference
+My UMC
+English
+繁體中文
+简体中文
+日本語
+한국어
+SUSTAINABILITY
+Committee Chairman Message
+Reports and Results
+Reports
+Economic Performance Indicators
+Society Performance Indicators
+Environmental Performance Indicators
+Awards
+Certificates
+Operation and Commitment
+Protecting the Environment
+Empowering Employees
+Serving the Community
+Corporate Social Responsibility Report
+2017 Corporate Social Responsibility Report
+This report was verified by Taiwan Ltd. in March 2018 according to Sustainability Reporting Standards Comprehensive option and the Accountability 1000 Assurance Standard . The verification report is attached in the appendix of this report.
+Consolidated Version (pdf): 
+Download Consolidated
+2017 Annual Performance Summary
+previous Corporate Environmental Reports, please contact 
+Back to Top
+A+
+A-
+Contact Us
+Download
+Report
+Leadership
+About UMC
+Overview
+Leadership
+History
+Intellectual Property Security Policy
+Awards
+Certificates
+Investors
+Financials
+Reports
+Events
+Stock Info
+Corporate Governance
+FAQs
+Contact IR
+Corporate Responsibility
+Committee Chairman Message
+Reports and Results
+Operation and Commitment
+Protecting the Environment
+Empowering the Employees
+Stakeholder Engagement
+videos
+Press Center
+Press Releases
+Photo Gallery
+Literatures
+Careers
+Job Search
+Working Environment
+Employee Benefits
+Popular Links
+Gear Radio Introduces Complete Bluetooth 5 Low-Power Solution for IoSoApplications
+40nm Technology Reinvigorated
+Cadence Virtuoso Available on 28HPC
+U
+Readiness for 28HPC
+U
+28-nanometer Technology
+Contact
+Sitemap
+Terms of Use
+Copyright © Corporation 2010-2019, All Rights Reserved.Stan Hung / Chairman
+Chairman Hung                                graduated from Tam Kang University in Taiwan with a degree in                                accounting. He joined in 1991 and has served as UMC's Chief                                Financial Officer, and previous to becoming chairman he was senior vice president of the company. In 2004, Institutional                                Investor Magazine recognized Mr. Hung as the semiconductor sector's                                best in their Asia Equities Market Report. Mr. Hung is also                                chairman of Faraday Technology Corporation.
+Chien / President
+Chien currently serves as UMC's Co-President, in charge of the core manufacturing and technology aspects of including R&and operations.
+Mr. Chien has more than 30 years of semiconductor R&experience. He joined in 1989, and throughout his years at the company, he has led multiple functions including (advanced tech development), (specialty tech development), (customer engineering), (technology transfer and development), (& design support) and (Corporate marketing). Prior to his current position, Mr. Chien was UMC’s Senior Vice President.
+During his career, Mr. Chien has authored 21 tech publications and holds 176 semiconductor related patents worldwide. In 1998, he earned the National Innovation Award issued by MOEA, and later won CPMA's National R&Manager Excellence Award in 2001.
+Jason Wang / President
+Jason Wang currently serves as UMC’s Co-President, in charge of the company’s business aspects including corporate strategy & planning, sales & marketing, and customer engineering.
+Mr. Wang joined as Vice President of Corporate Marketing in 2008, and from 2009 to 2014, served as President of UMC-USA, responsible for business operation efficiency enhancement and North American strategic business development. He was appointed to Senior Vice President in November 2014, where he served until his current position as President.
+Before joining UMC, Mr. Wang spent 18 years at Trident Microsystems in numerous leadership positions. Mr. Wang was named vice president of Trident's Business Operations and Finance (Asia) after leading the company's strategic restructuring plan in 2003 to transform from a Graphics to a Digital Media company, increasing its enterprise value by $2 billion in 2006.Process
+Technologies
+14nm
+28nm
+Advanced Technologies
+A+/Mature Technologies
+Technologies
+Embedded High Voltage
+BCD
+Embedded Nonvolatile Memory
+IoT
+Sensor Solutions
+AUTO
+SM
+World-class
+300 mm Manufacturing Leadership
+Competitiveness through Productivity
+Advanced Automation
+Fab Info
+Backend
+Turnkey Solution
+Testing Service
+Package Solution Development
+Product Yield Management Service
+Design
+Mask Service
+Silicon Shuttle
+Libraries and IP
+Design Verification
+Design for Manufacturing
+Design Kit and Manual
+Design Flow Reference
+My UMC
+English
+繁體中文
+简体中文
+日本語
+한국어
+UMC
+Overview
+Leadership
+History
+Intellectual Property Security Policy
+Awards and Certificates
+Intellectual Property Protection
+We are entering an era in which reusable intellectual property (IP) is rapidly becoming essential to the design of advanced semiconductors. This presents opportunities as well as challenges to developers, semiconductor designers, and foundries. Among the most basic issues is the security of - how its integrity and its content can be preserved and protected throughout a complex process that begins from an idea to the finished product.
+This document represents our formal commitment to 
+protection
+. The policies on how is handled by employees and how we audit compliance with these policies are described in detail. We will gladly respond to any of your questions regarding these policies and are eager to hear your suggestions on how they can be improved.
+However, we all know that policies, procedures, and contracts are meaningless unless they are based on an underlying philosophy of trust and respect. That is why bases its policies on three principles:
+Integrity -
+We insist on honesty when dealing with our customers and ourselves.
+Partnership -
+Long-term partnerships provide the greatest success and can only exist in an atmosphere of respect and mutual support. 
+Commitment -
+is committed to the success of our partners; only when that is achieved can we too, achieve our goals.
+Back to Top
+A+
+A-
+Leadership
+About UMC
+Overview
+Leadership
+History
+Intellectual Property Security Policy
+Awards
+Certificates
+Investors
+Financials
+Reports
+Events
+Stock Info
+Corporate Governance
+FAQs
+Contact IR
+Corporate Responsibility
+Committee Chairman Message
+Reports and Results
+Operation and Commitment
+Protecting the Environment
+Empowering the Employees
+Stakeholder Engagement
+videos
+Press Center
+Press Releases
+Photo Gallery
+Literatures
+Careers
+Job Search
+Working Environment
+Employee Benefits
+Popular Links
+Gear Radio Introduces Complete Bluetooth 5 Low-Power Solution for IoSoApplications
+40nm Technology Reinvigorated
+Cadence Virtuoso Available on 28HPC
+U
+Readiness for 28HPC
+U
+28-nanometer Technology
+Contact
+Sitemap
+Terms of Use
+Copyright © Corporation 2010-2019, All Rights Reserved.Process
+Technologies
+14nm
+28nm
+Advanced Technologies
+A+/Mature Technologies
+Technologies
+Embedded High Voltage
+BCD
+Embedded Nonvolatile Memory
+IoT
+Sensor Solutions
+AUTO
+SM
+World-class
+300 mm Manufacturing Leadership
+Competitiveness through Productivity
+Advanced Automation
+Fab Info
+Backend
+Turnkey Solution
+Testing Service
+Package Solution Development
+Product Yield Management Service
+Design
+Mask Service
+Silicon Shuttle
+Libraries and IP
+Design Verification
+Design for Manufacturing
+Design Kit and Manual
+Design Flow Reference
+My UMC
+English
+繁體中文
+简体中文
+日本語
+한국어
+UMC
+Overview
+Leadership
+History
+Intellectual Property Security Policy
+Awards and Certificates
+Milestones
+1980-1999
+2000-2009
+2010-2017
+Company Chronology
+1980
+May
+established
+1985
+July
+1995
+July
+July - September
+September
+1996
+January
+0.35-micron volume production.
+1997
+October
+0.25-micron volume production.
+1998
+April
+Acquires Holtek Semiconductor fab.
+December
+1999
+March
+0.18-micron volume production.
+November
+Back to Top
+A+
+A-
+Leadership
+About UMC
+Overview
+Leadership
+History
+Intellectual Property Security Policy
+Awards
+Certificates
+Investors
+Financials
+Reports
+Events
+Stock Info
+Corporate Governance
+FAQs
+Contact IR
+Corporate Responsibility
+Committee Chairman Message
+Reports and Results
+Operation and Commitment
+Protecting the Environment
+Empowering the Employees
+Stakeholder Engagement
+videos
+Press Center
+Press Releases
+Photo Gallery
+Literatures
+Careers
+Job Search
+Working Environment
+Employee Benefits
+Popular Links
+Gear Radio Introduces Complete Bluetooth 5 Low-Power Solution for IoSoApplications
+40nm Technology Reinvigorated
+Cadence Virtuoso Available on 28HPC
+U
+Readiness for 28HPC
+U
+28-nanometer Technology
+Contact
+Sitemap
+Terms of Use
+Copyright © Corporation 2010-2019, All Rights Reserved.Process
+Technologies
+14nm
+28nm
+Advanced Technologies
+A+/Mature Technologies
+Technologies
+Embedded High Voltage
+BCD
+Embedded Nonvolatile Memory
+IoT
+Sensor Solutions
+World-class
+300 mm Manufacturing Leadership
+Competitiveness through Productivity
+Advanced Automation
+Fab Info
+Backend
+Turnkey Solution
+Testing Service
+Package Solution Development
+Product Yield Management Service
+Design
+Mask Service
+Silicon Shuttle
+Libraries and IP
+Design Verification
+Design for Manufacturing
+Design Kit and Manual
+Design Flow Reference
+My UMC
+English
+繁體中文
+简体中文
+日本語
+한국어
+Has Adopted the Human Rights Principles of Leading International Advocacy Groups
+is proud to follow the International Labor Office Tripartite Declaration of Principles, the Guidelines for Multinational Enterprises, and the Universal Declaration of Human Rights, and also abides by the Code
+2017 Corporate Social Responsibility Report 
+2017 Corporate Social Responsibility Report 
+>
+Watch the latest Video 
+Video
+Committee Chairman Message
+Focus, Nurture, and Continuity make up the core attitude of in promoting corporate sustainability. As a global leader in the semiconductor industry, not only do we pursue stable growth in our core businesses, ... 
+
+Reports and Results
+Corporate Social Responsibility Report
+Economic Performance Indicators
+Society Performance Indicators
+Environmental Performance Indicators
+Awards
+Certificates
+Operation and Commitment
+Committee
+Risk Management
+Stakeholder Engagement
+Supplier and Contractor Management
+Corporate Governance
+Code of Conduct
+Protecting the Environment
+Global Warming Change Initiative
+Water Resource Management
+Green Foundry
+Green Fab
+Green Products and Services
+Eco-echo Ecological Conservation Hope Project
+Empowering the Employees
+Education and Training
+Healthy and Safe Environment
+Safe Working Environment
+Labor and Human Rights
+Competitive Remuneration
+Serving the Community
+Social welfare
+Fire Brigade
+Energy Saving Service 
+News
+Jan. 29,2019 UMC42018 Financial Results
+Nov. 22,2018 Receives Highest Platinum Award for 2018 Taiwan Corporate Sustainability Report
+Nov. 9,2018 Issues Follow-up Statement Regarding Recent Legal Developments
+Leadership
+About UMC
+Overview
+Leadership
+History
+Intellectual Property Security Policy
+Awards
+Certificates
+Investors
+Financials
+Reports
+Events
+Stock Info
+Corporate Governance
+FAQs
+Contact IR
+Corporate Responsibility
+Committee Chairman Message
+Reports and Results
+Operation and Commitment
+Protecting the Environment
+Empowering the Employees
+Stakeholder Engagement
+videos
+Press Center
+Press Releases
+Photo Gallery
+Literatures
+Careers
+Job Search
+Working Environment
+Employee Benefits
+Popular Links
+Gear Radio Introduces Complete Bluetooth 5 Low-Power Solution for IoSoApplications
+40nm Technology Reinvigorated
+Cadence Virtuoso Available on 28HPC
+U
+Readiness for 28HPC
+U
+28-nanometer Technology
+Contact
+Sitemap
+Terms of Use
+Copyright © Corporation 2010-2019, All Rights Reserved.(NYSE: UMC, TWSE: 2303) is a leading global semiconductor foundry that provides advanced production for applications spanning every major sector of the electronics industry. UMC's comprehensive foundry solutions enable chip designers to leverage the company's sophisticated technology and manufacturing, which include world-class 28nm High-K/Metal Gate technology, 14nm Finvolume production, specialty process platforms specifically developed for AI, 5and Ioapplications and the automotive industry's highest-rated AEC-Q100 Grade-0 manufacturing capabilities for the production of ICs found in vehicles. UMC's 11 wafer fabs are strategically located throughout Asia and are able to produce over 600,000 wafers per month. The company employs over 20,000 people worldwide, with offices in Taiwan, China, Europe, Japan, Korea, Singapore, and the States. can be found on the web at http://www.umc.com .
+The Industry Leader
+Founded in 1980 as Taiwan's first semiconductor company, led the development of the commercial semiconductor industry in Taiwan. It was the first local company to offer foundry services, as well as the first semiconductor company to list on the Taiwan Stock Exchange (1985). is responsible for many local industry innovations, including the introduction of the employee share bonus system, often credited as a primary factor in the development of a prominent electronics industry in Taiwan. also enables customers to access complete supply chain information online through the Myonline service portal, an industry first when it was introduced in 1998.
+Leading Foundry Solutions
+is committed to the timely delivery of leading-edge solutions that serve the specific and unique requirements of our customers in the face of today's advanced applications. collaborates closely with customers as well as partners throughout the entire supply chain, including equipment, tool, and vendors to work synergistically towards each customer's Sosilicon success. We also possess the required knowledge in system design and architecture necessary to properly integrate customer designs with advanced process technologies and The result is a greater chance of first pass silicon success for today's Sodesigns.
+UMC's comprehensive foundry solutions start from a common logic-based platform, where designers can choose the process technology and transistor options that best fit their application. From there, technologies such as and embedded Flash can be used to further fine-tune the process for customers' individual needs. Furthermore, as has become a critical resource for today's SoCs, we have worked to provide basic design building blocks as well as more complex that are optimized for portability and cost, developed both internally and from third-party partners.
+With advanced technology, a broad portfolio, system knowledge, and advanced 300mm manufacturing, offers comprehensive solutions that help customers deliver successful results in a timely fashion.
+World-Class Manufacturing
+is a 300mm manufacturing leader with several advanced 300mm fabs in operation. Fab 12in Tainan, Taiwan has been in volume production for customer products since 2002 and is currently manufacturing 14 and 28nm products. The multi-phase complex is actually three separate fabs, consisting of Phases 1&2, 3&4, and 5&6. Fab 12A's total production capacity is currently over 75,000 wafers month. UMC's second 300mm fab, Fab 12i, is located in Singapore's Pasir Ris Wafer Park. This second-generation 300mm facility is also in volume production, with capacity at 50,000 wafers per month. UMC's newest 300mm fab, Fab 12in Xiamen, China, began volume production in Q4, 2016. The total design capacity of Fab 12is 50,000 wafers per month when fully equipped. Combined with our seven 200mm fabs and one 150mm specialty fab, has a total monthly capacity of over 600,000 8" equivalent wafers.
+Comprehensive Services
+UMC's core services as a pure play foundry involve delivering the world's leading-edge technology through advanced research & development while providing the most advanced manufacturing capabilities. This includes 28nm gate-last, volume production and 300mm wafer fabs in Taiwan, Singapore and China. In addition, employs a comprehensive program, protected by a security policy to guard the intellectual property rights of our customers and vendors. View UMC's complete Foundry Solutions, or for other foundry services and general customer engagement procedure, please refer to the company's Service Flow chart .
+Fab Operationshas an effective corporate governance framework that is consistent with Taiwan's Company Act, Securities and Exchange Act, and other related laws and regulations. also established the "Corporate Governance Practice Principles", "Ethical Corporate Management Best Practice Principles" and "Corporate Social Responsibility Principles" as practical company considerations to protect shareholders' equity, respect stakeholders, enhance information transparency, strengthen the competency of the Board, and uphold corporate integrity and code of conduct.
+1. Basic criteria: shared visions, gender, independence and culture etc.
+2. Professionalism: educational background, professional skills and industry experience etc.
+3. Corporate sustainability and communal participation: corporate governance, environmental sustainability, corporate social responsibility, legal compliance and human rights protection etc.
+Each board member shall possess the indispensable knowledge, skill, and experience to perform their duties; the capabilities with which the Board as a whole shall equip include the followings: business acumen, knowledge of accounting and financial analysis, business management, crisis management, industry knowledge, global perspective, leadership and decision-making.
+At least one among the independent directors of the Company shall be an accounting or finance professional.
+Each director must be held by a person having neither a spousal relationship nor a relationship within the second degree of kinship with any other directors.
+The performance assessment of the Board shall be reviewed annually according to the assessment guideline and procedure of the Company; the results will be referenced for nomination and election of the directors.
+Nomination and Election
+The Company shall have nine (9) to eleven (11) directors who serve a term of three years, elected at the shareholders’ meeting from persons of legal capacity through a nominating system adopted from 2006.  director may be re-elected.
+At least three (3) directors or one-fifth of all directors, whichever is higher, shall be independent directors.  Their qualifications, shareholding limitations, whether or not they concurrently serve in other positions, methods of nomination and election, and other related matters shall be subject to applicable laws.
+According to Article 192-1 of the Company Act, announced on March 20, 2018, the period for accepting the nomination of director candidates (including independent directors), the number of directors to be elected, the place designated for accepting the roster of director nominees and other necessary matters.  Any shareholder holding 1% or more of the outstanding shares of the Company may nominate candidate(s) for directors in writing.  Any shareholder qualified to nominate may submit nominee(s) to the director, and shall send, during the nomination period from April 3 to April 16, 2018, the name, educational background and past work experience of the nominee(s), a letter signed by each nominee consenting to act as director if elected, a written statement issued by each nominee assuring that he/she is not prohibited from acting under any of the circumstances set forth in Article 30 of the Company Act, and other relevant documents signed and provided by each nominee to via registered mail sent to the Finance Division of the Company.  There were no nominations from stockholders except those from the Board during the nomination period.
+The Company established "the Rules for Performance Assessment of the Board of Directors" in October of 2015 and conducts self-evaluation of the Board's performance annually. The evaluation covers the following aspects such as awareness of the duties of directors, the degree of participation in the Company's operations, understanding of the business and its risks, the improvement of policy decision quality, the composition and structure of the board of directors, the election and continuing professional development of directors, internal control and Audit Committee communications, oversight of the financial reporting process, oversight of the external audit function and so on.
+The conclusion of self-assessment of the Board of Directors and functional committee in 2017 is that the Board and the functional committee is functioning efficiently and as intended.
+To improve the operating efficiency of the Board of Directors and enhance corporate governance, "the Rules for Performance Assessment of the Board of Directors" was revised by and approved by the Board of Directors in October of 2017, which requires the Company's board performance assessment to be conducted by an external independent professional institution or a panel of external experts and scholars at least once every three years.
+The Company engaged with Taiwan Corporate Governance Association to conduct an assessment of board performance and efficiency, and completed the evaluation on March 7, 2018. The assessment comprised of 8 scopes and 38 indicators including Composition, Direction, Authorization, Monitoring, Communication, Internal control, Risk management and Discipline of the Board, and was executed through online self-assessment and due diligence.
+The report concluded that the discretion of the company's long-term strategy was incorporated into the composition of the Board, and the establishment of the Nominating Committee surpassed governmental regulations; the independent directors with diversified background were devoted to and were fully accountable with regard to their duties of direction and monitoring; the intensive communication between board members and management team ensured timely and sufficient information delivery, thus building an open and transparent culture for the Board.The report also provided recommendations on periodic assessment and human resource development for the Company to enhance the efficiency of the Board.
+Audit Committee
+The Audit Committee assists the Board of Directors in performing its supervision functions. It is also responsible for tasks defined by the Company Act, Securities and Exchange Act and other relevant regulations. Since is listed on the NYSE, it also has to comply with the regulations regarding foreign issuers. The Audit Committee is comprised of all independent directors. Cheng-Li Huang and Wenyi Chu qualify as audit committee financial experts. The Committee shall meet at least once every quarter, and may be convened any time if necessary.
+The Committee's duty and responsibility includes the following items: supervising the financial reporting of the Company, internal audit, internal control of the Company, material transactions of assets and derivatives, loans, endorsements, guarantees, engaging and removing the Company's independent auditors and accessing such auditors' compensation and independence, and appointing or removing managers of finance, accounting and internal audit divisions. The Committee is also responsible for dealing with any whistleblower cases received and periodically reviewing the Company's compliance with government law, documentation that involves government agencies, and the compliance of the employees' Code of Conduct. The Committee may also engage an attorney, certified public accountant, or other professional to assist them in exercising the Committee's duties. For further information regarding UMC's audit committee charter, please click on the link below.
+The goal of Remuneration Committee's operation is to strengthen corporate governance and risk control, and to evaluate and monitor the Company's remuneration system for its directors and managers while considering the provision of incentives to facilitate talent retention. The committee shall be composed of all the Company's independent directors, and convene meetings accordance with the laws.
+The Capital Budget Committee shall comprise of members from the Company's independent directors and non-executive directors. The Committee's goal includes review of the Company's capital expenditure budget, with the intent to strengthen long-term corporate strategy, financial planning and business performance.
+Nominating Committee
+The Nominating Committee shall comprise of members from the Company's independent directors. The Committee's goal is to assist the Board of Directors (“the Board”) to enhance management mechanism and to improve corporate governance for the Company’s sustainable development. The objectives of the Committee are as follows: 1. To constitute nomination policy and succession plans of the directors and the executives, then to search, to review and to propose the candidate list of the directors and the executives accordingly. 2. To construct and to develop the operation of the Board and the sub-committees, as well as to plan and to execute the performance assessment of the Board, the sub-committees and the executive(s). 3. To enhance corporate governance system and practices in order to protect the interests of stakeholders.
+Phone: 0800-024-399 (toll free) or 03-5782258 ext.31425
+Please note that all information is governed by the following Terms & Conditions .Receives Highest Platinum Award for 2018 Taiwan Corporate Sustainability Report
+Hsinchu, Taiwan, November 22, 2018 – Corporation (NYSE:UMC; TWSE: 2303) ("UMC"), a leading global semiconductor foundry, today announced that the company has achieved the highest Platinum honors for the “Top 50 Corporate Sustainability Report Award” and the first "English Reportage Award." UMC’s strong scores in the Taiwan Corporate Sustainability Report led the company to achieve the top rank among all corporations in the electronic information manufacturing sector, its 11th consecutive honor since this award was established. The foundry is Taiwan’s earliest and most decorated company to transparently promote sustainable development and social responsibility. The award was presented by Wellington Koo, chairman of the Financial Supervisory Commission, (Taiwan), during a ceremony held today at the Grand Hotel in Taipei.
+Chien, co-president at UMC, said, "has consistently maintained the spirit of integrity and transparency while publishing our non-financial annual report for the past 18 years so that we may effectively communicate our sustainable practices with our stakeholders. We believe that sustainable development is a key strategy for business operations, with transparent, trustworthy and sustainable information disclosure demonstrating our sustainable credibility and competitiveness. This year’s first place accomplishment encourages us to be even more active in sustainable practices to help create a beautiful society.”
+Since 2006, has published its Corporate Social Responsibility Report in accordance with the guidelines of the Global Reporting Initiative (GRI). This year, in addition to following the AA1000 Assurance Standard Type High level assurance, also sought third party verification to ensure the quality of the content disclosure. Additionally, the company follows the latest Standards Comprehensive Option to prepare the report content. The status of the company's sustainable development and social responsibility practices were publicized in 2017.
+About the Taiwan Corporate Sustainability Report Award
+The Taiwan Corporate Sustainability Report Award was established by the Taiwan Institute for Sustainable Energy in 2008. It was set up to encourage companies to enhance the quality of sustainability practices and quantity of governance information, strengthen commitment to maintaining sustainable development, promote a friendly environment and enhance social welfare. In 2018, the award was divided into two categories: "Corporate Sustainability Report" and "English Reportage Award." The assessment criteria included completeness, credibility, communication, accessibility, transparency, timeliness, and interactivity.
+About UMC
+(NYSE: UMC, TWSE: 2303) is a leading global semiconductor foundry that provides advanced production for applications spanning every major sector of the electronics industry. UMC’s comprehensive foundry solutions enable chip designers to leverage the company’s sophisticated technology and manufacturing, which include world-class 28nm High-K/Metal Gate technology, 14nm Finvolume production, specialty process platforms specifically developed for AI, 5and Ioapplications and the automotive industry’s highest-rated AEC-Q100 Grade-0 manufacturing capabilities for the production of ICs found in vehicles. UMC’s 11 wafer fabs are strategically located throughout Asia and are able to produce over 600,000 wafers per month. The company employs more than 20,000 people worldwide, with offices in Taiwan, China, Europe, Japan, Korea, Singapore, and the States. can be found on the web at http://www.umc.com .
+Note from Concerning Forward-Looking Statements

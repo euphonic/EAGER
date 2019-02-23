@@ -1,0 +1,640 @@
+object(Concrete\Core\Page\Page)#2416 (34) {   ["controller":protected]=>   ["blocksAliasedFromMasterCollection":protected]=>   ["cPointerOriginalID":protected]=>   ["cPointerExternalLink":protected]=>   ["cPointerExternalLinkNewWindow":protected]=> string(1) "0"   ["isMasterCollection":protected]=> string(1) "0"   ["cInheritPermissionsFromCID":protected]=> string(1) "1"   ["cIsSystemPage":protected]=> string(1) "0"   ["siteTreeID":protected]=> string(1) "1"   ["siteTree"]=>   ["cID"]=> string(3) "430"   ["vObj":protected]=> object(Concrete\Core\Page\Collection\Version\Version)#2412 (20) {     ["cvID"]=> string(1) "1"     ["cvIsApproved"]=> string(1) "1"     ["cvIsNew"]=> string(1) "0"     ["cvHandle"]=> string(34) "livelight-chats-cassie-shortsleeve"     ["cvName"]=> string(36) "#LiveLight Chats: Cassie Shortsleeve"     ["cvDescription"]=>     ["cvDateCreated"]=> string(19) "2018-05-05 05:21:25"     ["cvDatePublic"]=> string(19) "2018-05-05 05:21:25"     ["pTemplateID"]=> string(1) "6"     ["cvAuthorUID"]=>     ["cvApproverUID"]=>     ["cvComments"]=> string(15) "Initial Version"     ["pThemeID"]=> string(1) "2"     ["cvPublishDate"]=>     ["cID"]=> string(3) "430"     ["attributes":protected]=> array(0) {     }     ["layoutStyles"]=> array(0) {     }     ["isMostRecent":protected]=>     ["customAreaStyles":protected]=>     ["error"]=> string(0) ""   }   ["cHandle":protected]=>   ["cDateAdded":protected]=> string(19) "2018-05-05 05:21:25"   ["cDateModified":protected]=> string(19) "2018-05-05 05:21:25"   ["attributes":protected]=> array(0) {   }   ["error"]=> bool(false)   ["pkgID"]=> string(1) "0"   ["cPointerID"]=> string(1) "0"   ["cIsActive"]=> string(1) "1"   ["cFilename"]=>   ["ptID"]=> string(1) "5"   ["cDisplayOrder"]=> string(3) "181"   ["cInheritPermissionsFrom"]=> string(6) "PARENT"   ["cOverrideTemplatePermissions"]=> string(1) "1"   ["cCheckedOutUID"]=>   ["cIsTemplate"]=> string(1) "0"   ["uID"]=>   ["cPath"]=> string(49) "/learn/healthy/livelight-chats-cassie-shortsleeve"   ["cParentID"]=> string(3) "162"   ["cChildren"]=> string(1) "0"   ["cCacheFullPageContent"]=> string(2) "-1"   ["cCacheFullPageContentOverrideLifetime"]=> string(1) "0"   ["cCacheFullPageContentLifetimeCustom"]=> string(1) "0" }
+object(Concrete\Core\Page\Page)#2436 (34) {   ["controller":protected]=>   ["blocksAliasedFromMasterCollection":protected]=>   ["cPointerOriginalID":protected]=>   ["cPointerExternalLink":protected]=>   ["cPointerExternalLinkNewWindow":protected]=> string(1) "0"   ["isMasterCollection":protected]=> string(1) "0"   ["cInheritPermissionsFromCID":protected]=> string(1) "1"   ["cIsSystemPage":protected]=> string(1) "0"   ["siteTreeID":protected]=> string(1) "1"   ["siteTree"]=>   ["cID"]=> string(3) "248"   ["vObj":protected]=> object(Concrete\Core\Page\Collection\Version\Version)#2432 (20) {     ["cvID"]=> string(1) "1"     ["cvIsApproved"]=> string(1) "1"     ["cvIsNew"]=> string(1) "0"     ["cvHandle"]=> string(40) "lighting-revives-2-million-years-history"     ["cvName"]=> string(43) "Lighting Revives 2 Million Years of History"     ["cvDescription"]=>     ["cvDateCreated"]=> string(19) "2017-08-29 22:54:18"     ["cvDatePublic"]=> string(19) "2017-08-29 22:54:18"     ["pTemplateID"]=> string(1) "6"     ["cvAuthorUID"]=>     ["cvApproverUID"]=>     ["cvComments"]=> string(15) "Initial Version"     ["pThemeID"]=> string(1) "2"     ["cvPublishDate"]=>     ["cID"]=> string(3) "248"     ["attributes":protected]=> array(0) {     }     ["layoutStyles"]=> array(0) {     }     ["isMostRecent":protected]=>     ["customAreaStyles":protected]=>     ["error"]=> string(0) ""   }   ["cHandle":protected]=>   ["cDateAdded":protected]=> string(19) "2017-08-29 22:54:18"   ["cDateModified":protected]=> string(19) "2018-04-05 21:34:26"   ["attributes":protected]=> array(0) {   }   ["error"]=> bool(false)   ["pkgID"]=> string(1) "0"   ["cPointerID"]=> string(1) "0"   ["cIsActive"]=> string(1) "1"   ["cFilename"]=>   ["ptID"]=> string(1) "5"   ["cDisplayOrder"]=> string(2) "48"   ["cInheritPermissionsFrom"]=> string(6) "PARENT"   ["cOverrideTemplatePermissions"]=> string(1) "1"   ["cCheckedOutUID"]=>   ["cIsTemplate"]=> string(1) "0"   ["uID"]=>   ["cPath"]=> string(58) "/learn/technology/lighting-revives-2-million-years-history"   ["cParentID"]=> string(3) "163"   ["cChildren"]=> string(1) "0"   ["cCacheFullPageContent"]=> string(2) "-1"   ["cCacheFullPageContentOverrideLifetime"]=> string(1) "0"   ["cCacheFullPageContentLifetimeCustom"]=> string(1) "0" }
+object(Concrete\Core\Page\Page)#2444 (34) {   ["controller":protected]=>   ["blocksAliasedFromMasterCollection":protected]=>   ["cPointerOriginalID":protected]=>   ["cPointerExternalLink":protected]=>   ["cPointerExternalLinkNewWindow":protected]=> string(1) "0"   ["isMasterCollection":protected]=> string(1) "0"   ["cInheritPermissionsFromCID":protected]=> string(1) "1"   ["cIsSystemPage":protected]=> string(1) "0"   ["siteTreeID":protected]=> string(1) "1"   ["siteTree"]=>   ["cID"]=> string(3) "460"   ["vObj":protected]=> object(Concrete\Core\Page\Collection\Version\Version)#2440 (20) {     ["cvID"]=> string(1) "1"     ["cvIsApproved"]=> string(1) "1"     ["cvIsNew"]=> string(1) "0"     ["cvHandle"]=> string(49) "5-scientific-facts-you-need-know-about-blue-light"     ["cvName"]=> string(52) "5 Scientific Facts You Need to Know About Blue Light"     ["cvDescription"]=>     ["cvDateCreated"]=> string(19) "2018-06-14 22:41:50"     ["cvDatePublic"]=> string(19) "2018-06-14 22:41:50"     ["pTemplateID"]=> string(1) "6"     ["cvAuthorUID"]=>     ["cvApproverUID"]=>     ["cvComments"]=> string(15) "Initial Version"     ["pThemeID"]=> string(1) "2"     ["cvPublishDate"]=>     ["cID"]=> string(3) "460"     ["attributes":protected]=> array(0) {     }     ["layoutStyles"]=> array(0) {     }     ["isMostRecent":protected]=>     ["customAreaStyles":protected]=>     ["error"]=> string(0) ""   }   ["cHandle":protected]=>   ["cDateAdded":protected]=> string(19) "2018-06-14 22:41:50"   ["cDateModified":protected]=> string(19) "2018-06-18 05:46:42"   ["attributes":protected]=> array(0) {   }   ["error"]=> bool(false)   ["pkgID"]=> string(1) "0"   ["cPointerID"]=> string(1) "0"   ["cIsActive"]=> string(1) "1"   ["cFilename"]=>   ["ptID"]=> string(1) "5"   ["cDisplayOrder"]=> string(3) "222"   ["cInheritPermissionsFrom"]=> string(6) "PARENT"   ["cOverrideTemplatePermissions"]=> string(1) "1"   ["cCheckedOutUID"]=>   ["cIsTemplate"]=> string(1) "0"   ["uID"]=>   ["cPath"]=> string(64) "/learn/science/5-scientific-facts-you-need-know-about-blue-light"   ["cParentID"]=> string(3) "164"   ["cChildren"]=> string(1) "0"   ["cCacheFullPageContent"]=> string(2) "-1"   ["cCacheFullPageContentOverrideLifetime"]=> string(1) "0"   ["cCacheFullPageContentLifetimeCustom"]=> string(1) "0" }
+Learn
+Find inspiration from our community of visionary leaders in lighting #LiveLight
+Lighting Solutions
+Create lighting designs that capture the essence and emotion of any given environment
+Explore Projects
+Explore and be inspired by projects that celebrate an unmatched quality of light
+All Markets
+Hospitality / Hotel
+Residential / Historical
+Museum / Gallery
+Brings Beautiful Art to Life
+At Soraa, we use light to add new dimension to every space – and every human experience.clear
+PRO
+PRODUCTS
+Lamps
+Directional Luminaires
+Ambient Luminaires
+Snap System
+Light Engines
+TECHNOLOGY
+Color and White
+PROJECTS
+Museum / Gallery
+Hospitality / Hotel
+Restaurant
+Residential / Historical
+Retail / Commercial
+BUY
+Agents
+Distributors 
+Showrooms
+Online Retailers
+The bold new trajectory of directional lighting
+>
+Quickship Products are ready to ship within 48 hours after your order is placed.
+>
+HOME
+RADIANT
+HEALTHY
+SHOP
+PROJECTS
+Museum /
+Gallery
+Hospitality /
+Hotel
+Restaurant
+Residential /
+Historical
+Retail /
+Commercial
+LEARN
+Beautiful
+Healthy
+Technology
+Science
+View All
+clear
+PRO
+HOME
+PROJECTS
+LEARN
+Color: with Co-Founder Shuji Nakamura
+We leverage science to produce unparalleled spectrum and quality, bringing nature’s light indoors to make illumination something to see and experience.
+You’ve been in our light.
+If you’ve never heard of before, there’s a good chance it has inspired you in your favorite museum, store, hotel or restaurant. Professionals choose for an unmatched quality of light, and how it helps bring atmosphere and emotion to life in the spaces they design.
+Museums
+Restaurants
+Hotels
+Retail
+"has transformed our paintings and sculptures and patrons’ experience and reactions to them, which is something that has really given us an advantage."
+The quality of light matters.
+pioneered full spectrum color rendering light, the heart of which is our proprietary technology manufactured in California, a technological breakthrough that we further enhance by focusing on every aspect of producing the most natural light possible.
+Full Spectrum Color
+Natural White™
+Beam, Shadow, and Uniformity
+Color Science (TM-30)
+Color™
+Flicker Free™
+An expanding portfolio of products.
+We began our heritage for high quality light with a line of lamps in 2013 to establish our reputation for full spectrum light. Our expanded product offerings bring superior light to all spaces.
+Professional Lamps
+Consumer Lamps
+Snap System™
+Directional Luminaires
+Ambient Luminaires
+Optical Light Engines
+commitment to research.
+We support and conduct research to develop insights and expertise to deliver breakthrough products. We are conscious and curious of how light impacts your well-being, productivity and emotion, and of how to make light look and feel better.
+Quality of Light
+Dynamic Light
+GaN-on-GaN
+Internet of Things
+heritage of invention and innovation.
+Our founder Shuji Nakamura, Nobel Prize winner and the father of modern day lighting, wanted to create a light source that would match the characteristics of our most natural illumination: the sun. It is why the company is called SORAA, which means “sky” in kanji.
+It was an ambitious endeavor that would take years of invention and effort, a mission we continue today with the passion to innovate products that move the technology of lighting forward to improve lives and lifestyles.
+Founder, Shuji Nakamura
+The Fab
+Management Team
+Jeffery Parker
+Chief Executive Officer
+Grewal
+Chief Product Officer
+Kieran Drain, Ph.D.
+Chief Operating Officer
+George Stringer
+SVP, Global Sales & Channel Marketing
+Rafael Aldaz
+SVP, Product Development
+Michael Leshkiw
+SVP, Finance
+Board of Directors
+Charles Giancarlo
+Chairman
+Zeb Rice
+Angeleno Group
+Steven DenBaars
+Co-Founder of Afshin Mohebbi
+Capital
+Samir Kaul
+Khosla Ventures
+Tom Foody
+NEA
+Jeffrey Parker
+Chief Executive Officer
+Investors
+Stay connected with Sign Up
+Pro
+Lamps
+Luminaires
+Snap System
+Light Engines
+Resources
+Quick Ship
+Distributors
+Sales Agents
+Showrooms
+Online Retailers 
+Customer Login
+Home
+Shop Home
+Order Status
+Returns
+Shipping Policy
+Warranty
+Terms & Conditions
+Privacy Policy
+Contact Home
+Home FAQs
+Company
+About Media & Events
+Contact Careers
+Patents
+Legal
+FAQs
+Terms of Use
+ and 
+PrivacyPro
+Products
+Quick Ship
+LAMPS
+Optical Light Engine
+Snap System
+Luminaires
+Resources
+Applications
+Compatibility
+Literature & Tools
+Programs
+Technical Papers
+FAQs
+TM-30
+Buy
+Quick Ship
+Distributors
+Sales Agents
+Buy Online
+Showrooms
+Login
+Search
+Home
+About About
+News
+Team
+Contact Us
+Sign Up
+In the Press
+Pro System Magazine November - December 2017
+The Secret To Great Art Gallery? It Might Not Be What You Think.
+Lighting Designers On The Best Lightbulbs You Can Buy
+Lux Recommends: AR111 Lamps
+Blue-Free White Light Breaks The Paradigm Of Circadian Lighting
+Lights Art
+Soraa’s Sky Bulb Wins Lamp Innovation Award
+AN’s Picks From International
+The Impact Of Lighting Designers, Demonstrated At Trade Show
+Brings Light To The Oldest Museum
+GaOn GaGallery
+When Geoff Met Shuji
+Lamps Bring The London 2012 Olympic Cauldron Back To Life
+2015 Products Issue: Lamps And Ballasts 
+Smart Lighting Heats Up
+The Latest Lighting Technology Launches 
+LEDs Magazine Recognises The Industry’s Best At Las Vegas Sapphire Gala
+Reviews Soraa's MR16 Lamp
+Full Spectrum Lighting For Design
+2014 Product Innovation Awards
+Could Nobel Prize-Winning Innovation Have Almost Been Overlooked By Silicon Valley?
+Light-Maker's Founder Wins Nobel Prize
+Nobel Winner Known For Battle In Japan Went On To Silicon Valley
+2 MR16 Wins Money-Saving Product Of The Year
+Under Some Bulbs Whites Aren't 'Whiter Than White'
+Advancements Drive Quality Of Light Gains
+Aims For Better Light Quality With Gallium Nitride Tech
+LEDs Render Colors And Whites Without Beam Striations, Artifacts Or Shadows
+Betting On GaOn GaFor Efficient White Light
+Press Releases
+Rediscover the Beauty of Ambient Light
+FREMONT, | September 4, 2018
+Soraa, Adjustable Luminaire Receives EdisonReport's Top 10 Award
+Nashville, | May 7, 2018
+“LIGHT” DISINFECTION
+Fremont, | May 4, 2018
+  UPLIFT
+Chicago, | May 2, 2018 
+PAST
+Athens, Greece | March 5, 2018
+Feed your body and soul with light: introducing home lighting with benefits
+Fremont, | January 30, 2018
+Brings An Architect's Vision to Light in Johannesburg
+London, | November 14, 2017
+Brings Out The Colour In Tokyo Art
+London, | September 20, 2017
+Sky™ Recognized By Illuminating Engineering Society (IES) 2017 Progress Report
+FREMONT, | Aug  14, 2017
+Brings Out The Best At Glass Tokyo Art Exhibit
+FREMONT, | July 31, 2017
+Brings Health Store Philosophy To Light
+FREMONT, | May 30, 2017
+Sky Wins Prestigious International Innovation Award
+FREMONT, | May  10, 2017
+Expands into Directional Luminaires: Introducing Arc™
+FREMONT, | May  08, 2017
+Chosen To Vividly Illuminate One Of The World's Largest Antique Galleries
+FREMONT, | April  18, 2017
+Lights Up Disruptive Mesh Club in Johannesburg
+FREMONT, | April  03, 2017
+Lighting Strikes Right Balance of Shadow and Light in Perth
+FREMONT, | March  22, 2017
+Lamps Illuminate Historic British Wine Cellar
+FREMONT, | March  7, 2017
+Lighting Enhances Dining Experience at Hong Kong Restaurant
+FREMONT, | February  22, 2017
+Brings Beautiful and Efficient Lighting to the World's Oldest Public Museum
+FREMONT, | February  07, 2017
+Brings History To Life At Detroit Institute of Arts
+FREMONT, | January  11, 2017
+Announces Helia™: The Healthy Light Environment  That Replicates Natural Sunlight to Promote Sleep and Health
+FREMONT, | January 02, 2017
+Soraa's Perfect Lighting Brings Sophistication to Elite Fitness Club
+FREMONT, | December 28, 2016
+Soraa’s Lamp Line Becomes the First to Receive California’s JA8-2016-Certification
+FREMONT, | December 20, 2016
+Modernizes Lighting at Iconic Nicolas Sursock Museum in Lebanon
+FREMONT, | November 09, 2016
+Perfectly Illuminates Glass Art at the Crocker Art Museum
+FREMONT, | October 26, 2016
+Soraa's LEDs Bring Two Million Years of History to Life
+FREMONT, | October 12, 2016
+Launches Vivid GU24 Base PAR20, PAR30 and PAR38 Lamps
+FREMONT, | September 14, 2016
+Lighting Adds To Perfect Authenticity of Sydney's Spice Room
+FREMONT, | September 02, 2016
+LEDs Illuminate Award-Winning Couture At Heritage Museums & Gardens 
+FREMONT, | Aug 02, 2016
+Soraa’s Lighting Brings Celebrities To Life At Madame Tussauds
+FREMONT, | July 19, 2016
+Perfectly Illuminates Historic Staten Island Museum
+FREMONT, | July 11, 2016
+Soraa’s Lighting Brings Art To Life In Hong Kong Hotel
+FREMONT, | June 22, 2016
+Lights And Protects Rare Native American Artifacts At Brinton Museum 
+FREMONT, | June 07, 2016
+LEDs Perfectly Illuminate The Natural Artistry In The “Fairy Grottoes” 
+FREMONT, | May 26, 2016
+Soraa’s Lighting Brings Style and Innovation to Kenneth Cole Store
+FREMONT, | May 10, 2016
+Wraps Up Another Successful International with Brilliant Luminaires, Lamps and Accessories
+FREMONT, | May 02, 2016
+Hires Todd Antes as Senior Vice President of Marketing
+FREMONT, | April 22, 2016
+Moves Beyond Lamps by Creating the Industry’s First Ambient Luminaires with Glare Free, Uniform and High Quality Light 
+FREMONT, | April 20, 2016
+Soraa’s Lighting Brings Sophistication And Warmth To Seaside City Restaurant
+FREMONT, | April 07, 2016
+Rediscover the Beauty of Ambient Light
+FREMONT, | September 4, 2018
+ 
+Chicago, |  May 2, 2018 
+“LIGHT” DISINFECTION
+Fremont, | May 4, 2018
+Lighting Links Modern Athens Restaurant with its Historic Past
+ATHENS, | March 5, 2018
+Feed your body and soul with light: introducing home lighting with benefits
+Fremont, | January 30, 2018
+Soraa, Adjustable Luminaire Receives EdisonReport's Top 10 Award
+Nashville, | May 7, 2018
+Soraa’s Lighting Brings Efficient And Sophisticated Lighting To Historic Museum
+FREMONT, | March 29, 2016
+Supports TM-30 As Superior Color Test For The Lighting Industry 
+FREMONT, | March 14, 2016
+Showcases Brilliance at Light + Building 2016
+FREMONT, | March 10, 2016
+Expands Line of Vivid And Brilliant GU10 Lamps
+FREMONT, | March 02, 2016
+Launches Flicker Free™ MR16 Lamps
+FREMONT, | February 18, 2016
+Soraa’s Perfect Lighting Brings Sophistication To Boxing Center
+FREMONT, | February 08, 2016
+Soraa’s Lighting Illuminates Crosswater Showroom
+FREMONT, | January 14, 2016
+  Makes Lighting Perfection Possible With New 230v Large Lamps 
+FREMONT, | November 30, 2015
+Retail Week White Paper: Lighting’s Profound Effect on Retail Shopping
+FREMONT, | November 12, 2015
+Moves Forward With New York Manufacturing Expansion Plans
+FREMONT, | October 29, 2015
+SORAA’s Breakthrough Lighting Technology Spurs Global Growth
+FREMONT, | September 29, 2015
+SORAA’s Lighting Makes The Atmosphere In London’s Yauatcha City Restaurant Simply Perfect
+FREMONT, | September 24, 2015
+SORAA’s Perfectly Tailored Lighting Makes Gieves & Hawkes’ Flagship Store Shine
+FREMONT, | July 29, 2015
+Launches World’s First 4-Degree AR111 Lamp 
+FREMONT, | July 16, 2015
+Displays Brilliant Innovations At Lightfair International 2015 
+FREMONT, | May 06, 2015
+Perfect Lighting Design Requires The Perfect Size Light—Delivers With New PAR20 Lamp
+FREMONT, | March 26, 2015
+Commissions Ann Reo To Guide Its Rapidly Expanding Product Portfolio
+FREMONT, | March 18, 2015
+Soraa’s Lamps Shine Brightest In Multiple Awards Programs
+FREMONT, | March 03, 2015
+Soraa’s New Optical Light Engines Are Poised To Inspire New Fixture Designs
+FREMONT, | February 17, 2015
+Completes Its Line Of Brilliantly Efficient PAR30 And AR111 Lamps
+FREMONT, | December 18, 2014
+Soraa’s New Full Visible Spectrum GU10 Lamps Outshine The Competition
+FREMONT, | November 25, 2014
+Solves Compatibility Issues By Launching New Constant Current Lamp
+FREMONT, | November 10, 2014
+Founder Shuji Nakamura Wins Nobel Prize In Physics
+FREMONT, | October 07, 2014
+Raises The Bar On MR16 Lamp Performance
+FREMONT, | October 06, 2014
+New Research Proves Whiteness And Color Rendering Has Strong Effect On Led Lamp Preference
+FREMONT, | September 17, 2014
+Launches The World’s First Full-Visible-Spectrum Line Of Light Engines
+FREMONT, | May 30, 2014
+Customize Lighting With a SNAP
+FREMONT, | May 29, 2014
+Soraa’s Simply Perfect Lamps Just Got Larger
+FREMONT, | May 15, 2014
+Snap System™ Wins Prestigious Red Dot Design Award
+FREMONT, | May 08, 2014
+Soraa’s Award-Winning, Full-Visible-Spectrum MR16 Lamps Receive Energy Star Label
+FREMONT, | April 30, 2014
+Unveils Simply Perfect™ and AR111 Lamps at Light + Building
+FREMONT, | March 27, 2014
+Awards
+Progress Report 2017
+Light Sources | Sky
+Innovation Awards 2017
+Technical Innovation Award, Lamps | Sky
+Awards 2016
+Architectural Lighting Product (3rd Place) | MR16 Flicker Free™ Lamp
+2016
+Product Innovation Award | PAR20 Lamp
+ Magazine Sapphire Award 2016
+Lamp Design | BR30
+ Lighting Design Awards 2015
+Light Source of the Year | Optical Light Engine
+ Magazine Sapphire Award 2015
+Lamp Design | PAR30
+ Red Dot Award 2014
+Product Design | SYSTEM
+ 2014
+Product Innovation Award | & MR16 GU10
+ Lighting Design Awards 2014
+Highly Commended | & MR16
+ International Design Award 2013
+Lighting Product | SYSTEM
+ Progress Report 2013
+Lighting Product | SYSTEM
+ Lux Awards 2013
+Highly Commended | Manufacturer of the Year
+ Lux Awards 2013
+Lux Person of the Year | Shuji Nakamura
+ Red Dot Award 2013
+Product Design | MR16 Lamp
+ 2013
+Product Innovation Award | SYSTEM
+Events
+Expo
+Nov 14 - 15 | New York | #3
+Legal
+Patents
+Careers
+Events
+Contact
+FAQPro
+Products
+Quick Ship
+LAMPS
+Optical Light Engine
+Snap System
+Luminaires
+Resources
+Applications
+Compatibility
+Literature & Tools
+Programs
+Technical Papers
+FAQs
+TM-30
+Buy
+Quick Ship
+Distributors
+Sales Agents
+Buy Online
+Showrooms
+Login
+Search
+Home
+About About
+News
+Team
+Contact Us
+Sign Up
+Legal
+Patents
+Careers
+Events
+Contact
+FAQPro
+Products
+Quick Ship
+LAMPS
+Optical Light Engine
+Snap System
+Luminaires
+Resources
+Applications
+Compatibility
+Literature & Tools
+Programs
+Technical Papers
+FAQs
+TM-30
+Buy
+Quick Ship
+Distributors
+Sales Agents
+Buy Online
+Showrooms
+Login
+Search
+Home
+About About
+News
+Team
+Contact Us
+Sign Up
+Contact Us
+TOUCH
+We'd love to hear from you!
+HEADQUARTERS
+Customer Service & Sales
+Technical Support (North America)
+Technical Support (International)
+:
+General Inquiries
+(510) 456-2200
+INTERNATIONAL
+JAPAN
+CENTER
+General Info
+North America
+Press Inquiries
+Investors
+TO:
+Legal
+Patents
+Careers
+Events
+Contact
+FAQAugust 2017 - by Exhibit – History of the World in 100 Objects, a collection of the British Museum.
+From the earliest tools made of humble stone to colorful Javanese shadow puppets, the objects in the exhibit provide an unwritten insight into human cultures across time, from two million years ago to the present. The challenge was to find the right lighting to accurately render colors and whiteness while meeting specific lighting guidelines to keep artefacts safe.
+To meet these guidelines, Soraa’s Australian partners,  Lighting Options Australia , and lighting designers at Illuminated Design installed lamps throughout the exhibit after rigorous tests and evaluations of several brands. Utilizing every color in the rainbow, especially deep red emission, Soraa’s lamps render warm tones beautifully and accurately, and achieve a color-rendering index (CRI) of 95 and deep red (R9) rendering of 95. And unlike blue-based white LEDs without any violet emission, the company’s lamps have violet emissions to properly excite fluorescing brightening agents, including natural objects and white materials, such as textiles and paper. Plus, with no and radiation, low heat output and the ability to dim to specified light levels the precious objects were protected.
+“This is one of the best known exhibits on loan to the museum. Soraa’s Vivid™ lamps and accompanying Snap System™ provided the flexibility needed with this exhibition to protect these rare artifacts and illuminate them perfectly,” said Ben Conick, Lighting Options Australia. “delivered the rights options and simply the best lighting for this project.”
+“Soraa’s lamps are excellent, with great color rendering, color temperature, beam angles and additional lenses to change the distribution. The magnetic Snap system is quite impressive,” said Frederika Perey of Illuminated Design. “They are easy to apply, allowing me the flexibility to change the approach during the focusing process. This is critical when lighting exhibits, such as the History of the World in 100 Objects exhibition.”
+-->
+By clicking "Continue" or continuing to use our site, you acknowledge that you accept our Privacy Policy and Terms and Conditions. We also use cookies to provide you with the best possible experience on our website. You can find out more about the cookies we use and learn how to manage them here. Feel free to check out our policies anytime for more information.
+Continueclear
+PRO
+PRODUCTS
+Lamps
+Directional Luminaires
+Ambient Luminaires
+Snap System
+Light Engines
+TECHNOLOGY
+Color and White
+PROJECTS
+Museum / Gallery
+Hospitality / Hotel
+Restaurant
+Residential / Historical
+Retail / Commercial
+BUY
+Agents
+Distributors 
+Showrooms
+Online Retailers
+The bold new trajectory of directional lighting
+>
+Quickship Products are ready to ship within 48 hours after your order is placed.
+>
+HOME
+RADIANT
+HEALTHY
+SHOP
+PROJECTS
+Museum /
+Gallery
+Hospitality /
+Hotel
+Restaurant
+Residential /
+Historical
+Retail /
+Commercial
+LEARN
+Beautiful
+Healthy
+Technology
+Science
+View All
+clear
+PRO
+HOME
+PROJECTS
+LEARN
+Blue Light Facts
+Science
+5 Scientific Facts You Need to Know About Blue Light
+June 2018 - by Aurelien David 
+like this
+We know that blue light impacts our sleep, but to what extent? Blue light disrupts the circadian cycle by suppressing the production of melatonin at bedtime, for example, but it can also help mitigate sleep deprivation in the morning.
+The studies listed below are just a few examples of the vast literature available in the field of blue light and its effect on sleep, and the results summarized below have been repeated and confirmed. Taken together, these studies lead to the following conclusions:
+Blue light has a direct and well-understood physiological impact on our sleep.
+At night, blue light keeps us awake. Typical domestic light levels are sufficient, and so are electronic displays.
+This effect can be detrimental. It delays the onset of sleep, and may also induce more serious long-term health problems.
+Use of blue-reduced light at home mitigates these negative effects. Internationally-recognized calculations are able to predict how much a light source influences our circadian cycle, and a reduction by -40% is sufficient to help sleep.
+In the morning, blue-rich white light can help synchronize our sleep cycle. In particular, light which mimics the natural cycle of daylight in the morning helps wakefulness.
+Soraa’s healthy products were designed based on such scientific findings. 
+Healthy lamps
+ emit a “Blue-free” spectrum which reduces “melanopic lumens” by -40% compared to conventional white bulbs, thus providing the same reduced stimulation which has been demonstrated to be useful in studies. This improvement comes at no cost on the quality of the light, which retains a natural white tint and color rendering.
+Read below for synopses of the studies.
+Action Spectrum for Melatonin Regulation in Humans: Evidence for a Novel Circadian Photoreceptor [2001, Thomas Jefferson University]
+One-line summary: Blue light wakes us up
+This is a foundational article on the topic of blue light and sleep. While the scientific world already knew that light had an impact on our sleep patterns, the details of the mechanism were not well-known. The researchers exposed subjects to light at various wavelengths (i.e. colors) and various intensities, and measured how their physiology responded to the light. Namely, they looked at how blood melatonin levels were affected – this is an indication of a disruption to the circadian cycle. They found that the subjects’ melatonin was most suppressed under blue-cyan light, with the effect tailing off for shorter wavelengths (violet light) and longer wavelengths (green light). Because this wavelength-response did not correspond to that of any known cell in the human eye (i.e. to the known response of our visual rods and cones), the authors posited that there must exist another, yet-unknown light sensor in our eyes besides the rod and cones. This sensor, the so-called ipcell, was indeed identified the following year. The authors also measured how much light was necessary to have an impact on our circadian cycle, and found that the total dose of blue light (the intensity of the light multiplied by the fraction of blue content) was what mattered.
+Read Full Study
+Exposure to Room Light before Bedtime Suppresses Melatonin Onset and Shortens Melatonin Duration in Humans [2011, Brigham Hospital Boston / Harvard Medical School]
+One-line summary: Regular indoor light is enough to keep us awake – and may have other health effects
+Melatonin is closely correlated to our sleep cycle, and blue light of sufficient intensity suppresses melatonin, which suggests that it delays sleep. Following this discovery, a number of studies were performed to understand whether standard levels of indoor light were sufficient to have an effect on sleep. This article is one such study. The researchers exposed subjects to two levels of light in the evening: either a very dim intensity, or a typical indoor intensity. They found that, compared to the dim-light case, the typical light intensity indeed caused a very strong suppression of melatonin around sleep time. The scientists concluded that modern exposure to electric lighting has a disruptive impact on our physiology, and mentioned a few possible health implications (including shortened sleep cycle and increased risk of diabetes and some cancers).
+Read Full Study
+Light at night, chronodisruption, melatonin suppression, and cancer risk: a review. [2007, University of Texas and others]
+One-line summary: There is evidence that light exposure at night elevate risks of some cancers.
+The impact of light on melatonin and the circadian cycle has potential health effects beyond just affecting sleep; for instance, melatonin levels are correlated to some cancer risks. In this article, researchers reviewed a large number of existing studies examining the effect of light exposure on cancer risk. They concluded that there was increasing evidence that light at night could elevate the risk of some cancers, due to the disruption of the circadian cycle. The authors added that it may be prudent to limit light exposure at night, including that coming from light pollution.
+Read Full Study
+Effects of Artificial Dawn and Morning Blue Light on Daytime Cognitive Performance, Well-being, Cortisol and Melatonin Levels [2013, Univ. Basel]
+One-line summary: Suitable light exposure in the morning can help mitigate sleep deprivation
+The effect of light on sleep is a cause for concern (due to its deleterious impact at night) but also presents an opportunity: proper exposure to blue-rich light in the morning is expected to be beneficial for wakefulness. In this study, researchers placed subjects in a state of sleep deprivation (6-hr nights) and then exposed them to various light regimens in the morning: either dim light, bright blue light, or “dawn simulation” (a cycle of white light with changing color, which mimics a natural sunrise). The blue light regimen had the most effect on melatonin and cortisol levels; whereas the dawn simulation had the most effect on improving the subjects’ mood and well-being. The researchers concluded that the dawn simulator was the most suited to address sleep deprivation, and was superior to simple exposure to blue light.
+Read Full Study
+Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness [2014, Brigham hospital Boston / Harvard Med school]
+One-line summary: Light from a tablet can also disrupt sleep
+Beyond general lighting, we are also exposed to other sources of blue light, especially from electronic devices. In this article, researchers investigated whether using an e-reader tablet – which is lit by light-emitting diodes having an intense blue peak – could have such an effect. Users had to read either a regular book or a bright e-reader for four hours before bedtime. Their melatonin level and other measures of sleep were recorded. The researchers found that, while reading a book had no effect, the e-reader caused a suppression of melatonin and disrupted sleep, including a delay in the onset of sleep and reduced alertness the next morning. This study indicates that blue light from electronic devices has the same disruptive potential as lighting.
+Read Full Study
+The effects of spectral tuning of evening ambient light on melatonin suppression, alertness and sleep [2017, Brigham hospital Boston / Harvard Medical School]
+One-line summary: Reducing the amount of blue in general lighting improves sleep
+The advent of “sleep-friendly” light-emitting products raises the question: are these in fact efficient to reduce the effects of blue light? This recent article investigates this, in a situation relevant to domestic use. The researchers exposed subjects to modest amounts of light (corresponding to a typical bedroom’s light intensity) for eight hours before bedtime. Two light sources were compared, one with regular amounts of blue light and the other with reduced amounts of blue light. The researchers found that the reduced-blue light indeed had a reduced effect on melatonin and helped reduce alertness at bedtime. In addition, they calculated each light’s expected impact on the circadian cycle by using the “melanopic lux”, a quantity recently proposed by the (the global scientific authority on illumination) to quantify how blue light affects our biology. They found that the reduced-blue light had 40% less melanopic lux than the regular light. This study therefore demonstrates that using light with a reduced blue content mitigates light’s effect on sleep; more specifically, the melanopic lux of a light is a good indicator of this effect, and a 40% reduction in this quantity is sufficient to provide benefits.
+Read Full Study
+Aurelien David  - Chief Scientist
+Before joining in 2010, Aurelien worked with the Advanced Laboratories of Lumileds, a leader in light engine engineering, to study the efficiency of GaN-based Prior to this, while working on his Phin Applied Physics, Aurelien had the opportunity to work with Soraa’s co-founders while attending the University of California, Santa Barbara. With over twelve years of experience in advanced research, Aurelien has been a key contributor to Soraa’s progress in core technology and quality of light approach. Aurelian’s field of expertise includes semiconductor physics and color science. Aurelien has his Phin Applied Physics from the University of California, Santa Barbara and holds a Phand Masters in Physics from Ecole polytechnique, Palaiseau, France.
+Related Products
+More Science Articles
+Blue Light Filter Isn't Going to Solve Your Sl...
+Science
+How to Test for Flicker at Home
+Science
+The Blue & Black Dress Effect: Lighting &amp...
+Science
+Part 3: Picking the Brain of a Scientist A...
+Science
+Search all Articles
+Stay connected with Sign Up
+Pro
+Lamps
+Luminaires
+Snap System
+Light Engines
+Resources
+Quick Ship
+Distributors
+Sales Agents
+Showrooms
+Online Retailers 
+Customer Login
+Home
+Shop Home
+Order Status
+Returns
+Shipping Policy
+Warranty
+Terms & Conditions
+Privacy Policy
+Contact Home
+Home FAQs
+Company
+About Media & Events
+Contact Careers
+Patents
+Legal
+FAQs
+Terms of Use
+ and 
+Privacy

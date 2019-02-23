@@ -1,0 +1,1151 @@
+Products
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+PRODUCTS
+Products
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+& TOPICS
+Latest News
+View All
+News Release
+New Products
+Topics
+Events
+RSS
+Jan. 11, 2019
+Topics
+ABLIC, Award in 2018 at the First Exhibition ― “Top 10 Best Industrial Electronics and Smart Factory Technology and Solution Providers”　－
+Jan. 07, 2019
+Topics
+New Year Message from the President
+Dec. 14, 2018
+Topics
+[by TechanaLye] Operational Amplifier for Automotive Use S-19630AB, supporting fuel-efficient and comfortable driving
+Dec. 10, 2018
+New Products
+Automotive, 105°Operation, Battery Monitoring for 3-Serial to 6-Serial Cell Pack S-19192 Series
+Dec. 10, 2018
+News Release
+Inc. launches the S-19192 Series, a 3-serial to 6-serial cell battery monitoring for automotive use.
+See More
+Dec. 10, 2018
+News Release
+Inc. launches the S-19192 Series, a 3-serial to 6-serial cell battery monitoring for automotive use.
+Nov. 13, 2018
+News Release
+Inc. launches the S-1318 Series compact regulator with world’s top class low current consumption of 95nA! An ideal power supply for Ioand wearable devices that reduces current consumption to one-tenth of our conventional products!
+Oct. 24, 2018
+News Release
+Inc., The World’s first (*1) “(*2) Hall IC” That Will Bring Innovation to the Development and Manufacture of Brushless Motors
+Sep. 13, 2018
+News Release
+Inc. Launches the S-19630AB, a Zero-drift Operational Amplifier for Automotive Use with a Wide Operation Voltage Range
+Aug. 20, 2018
+News Release
+Inc. launches the S-85M0Series of ultra-high efficiency step-down switching regulators in the industry’s most compact (*) size
+See More
+Dec. 10, 2018
+New Products
+Automotive, 105°Operation, Battery Monitoring for 3-Serial to 6-Serial Cell Pack S-19192 Series
+Nov. 12, 2018
+New Products
+5.5 Input, 100 mA, 95 nSuper Low Current Consumption Voltage Regulator S-1318 Series
+Sep. 07, 2018
+New Products
+Automotive, 125°Operation, Low Input Offset Voltage Operational Amplifier S-19630A
+Aug. 01, 2018
+New Products
+5.6 Input, 50 mA, Low EMI, Synchronous Step-down Switching Regulator with 260 nQuiescent Current S-85M0Series (product)
+Jul. 25, 2018
+New Products
+105°Operation, 5.5 Input, 200 mVoltage Regulator S-1313xxxSeries
+See More
+Jan. 11, 2019
+Topics
+ABLIC, Award in 2018 at the First Exhibition ― “Top 10 Best Industrial Electronics and Smart Factory Technology and Solution Providers”　－
+Jan. 07, 2019
+Topics
+New Year Message from the President
+Dec. 14, 2018
+Topics
+[by TechanaLye] Operational Amplifier for Automotive Use S-19630AB, supporting fuel-efficient and comfortable driving
+Nov. 12, 2018
+Topics
+[by TechanaLye] Deploying the results in a new business to the existing market. What is the new product model conducts?
+Nov. 05, 2018
+Topics
+Notice of E-Mail Domain Change
+See More
+Nov. 19, 2018
+Events
+to Participate in the 2018 in Shenzhen, China
+Oct. 17, 2018
+Events
+to Exhibit at electronica 2018 in München (Munich)
+Sep. 21, 2018
+Events
+will be exhibiting at 2018.
+Feb. 14, 2018
+Events
+will participate to the electronica China 2018 in Shanghai.
+Oct. 30, 2017
+Events
+will participate to the 2017 in Shenzhen
+See More
+SUPPORT
+Support / Contact Us
+Package
+/ No Longer Available
+Information / Tools
+Technical Question Form
+Global Sales Offices
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
+Privacy Policy
+Web Site Privacy Policy
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptProducts
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+HOME
+Corporate Profile
+is a coined word combining (possible) and (short for “integrated circuit”), expressing that technology enables possibilities.
+Our logo consists of an upwards arrow, representing growth, combined with a diamond (◆), representing integrated circuits, which together form an “A”, the first letter of the company name. This, as a whole, expresses our corporate vision of striving to help society grow through technology.  
+Corporate Profile
+Message
+Outline
+Vision
+History
+Business Field
+Integrated Production System
+Quality / Environment
+Worldwide Locations
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Worldwide Locations
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
+Privacy Policy
+Web Site Privacy Policy
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptOur Group’s Approach to CSR
+We aim to contribute to a richer, more sustainable future by providing analog semiconductor-based solutions. The Policy was formulated in March 2017 and has applied to the group as a whole since January 2018. It sets out and clarifies our philosophy concerning the social responsibilities of our group, the direction of our initiatives, and our commitment to our stakeholders.
+The policy is a set of guidelines providing details of our aims and initiatives for achieving our corporate philosophy. Although our operations are centered on business-to-business transactions, we are focused on the consumers and future society that exist ahead of our clients, and strive to develop products and solutions that will bring happiness to people and promote sustainable communities. We have identified four important means of achieving this: (1) creating innovative social value through our operations; (2) conserving the global environment; (3) providing safe, health and worthwhile working environments; (4) instilling energy and pride in our group.
+Policy
+Policy
+We use our innovative solutions centered on analog semiconductors to bring new joy to people’s lives and contribute to achieving a sustainable, prosperous future.
+For this goal, we are committed to taking the following actions with passion:
+We integrate all our knowledge and technology to provide innovative products and solutions that influence customers and society.
+We provide products and services which achieve a leading position worldwide for environmental performance, while striving to minimize the environmental impact of business activities.
+We prioritize the safety and health of all employees and provide a rewarding work environment.
+On a foundation of strict compliance in accordance with laws and regulations and social demands, we foster a vibrant working environment that respects human rights and diversity in order to build a company group that all employees can be proud of.
+Effective January 5, 2018
+Framework for Promoting CSR
+Committee was established in March 2017 to promote socially responsible operations and sustainable development. The Internal Control Department (currently the Office of Initiatives) acts as Secretariat. It is chaired by the President & Representative Director, and comprised of the full-time members of the Board of Directors and the heads of the corporate departments.
+The Committee is responsible for and authorized to formulate the basic guidelines concerning for the group as a whole, discuss and approve goals for each year, monitor and review activities, foster within the company, formulate and foster charters and codes of corporate behavior, investigate and address compliance-related issues, and discuss and make decisions concerning the establishment of rules for risk management, etc. It met on nine occasions between March and December 2017.
+In 2017, the Internal Control Department undertook the hands-on work for promoting from March to September. In the remaining months of the year, this was done by the Internal Audit Department, which reports directly to the President, and has been done by the Office of Initiatives since March, 2018.
+Framework for Promoting CSR
+Management
+From April to December 2017 (when was still consolidated with Seiko Instruments Inc.), the Committee led the way in formulating the annual goals and putting in place a framework for compliance, risk management, labor health and safety, etc. for the forthcoming de-consolidation in January 2018. Specifically, it provided relevant company regulations, educated members of the board, division heads, and rank-and-file employees about compliance, put in place a framework and systems concerning risk management for the as a whole, unified the management of labor safety and health, and undertook the sharing of information and education for the as a whole.
+The plan is to promote activities in accordance with PDCA-style management (plan, do, check, act) by having the Committee discuss and approve the annual goals that will be formulated by each department in accordance with the new Policy from January 2018. The idea is to phase in management across other companies in the group and have it pursued by the group as a whole.
+Outline of Management
+Goals
+Each department is considering and formulating goals for CSR-related activities in accordance with the new Policy. This led to the drawing up a Plan for 2018, which has been in effect since April 2018.
+Activities for spreading knowledge about inside the were carried out in 2016 and 2017 to foster greater understanding about and familiarity with the Policy. study session was organized for members of the Board of Directors in 2016. Sixteen people took part. In the following year, a total of five seminars were organized for managerial staff and rank-and-file employees. They were attended by about 600 members of staff.
+Findings of questionnaire concerning Basic Seminar for Managerial Staff
+Did the seminar help you understand CSR?
+Mention any parts of the seminar that made an impression. List any comments.
+・Gained a good understanding of ・Gained a good understanding of how the company stands to benefit; common assumptions in Japan won’t work, etc. (approx. 40%) ・Need to take a moral view ・Felt the need for ・Need to familiarize people across the ・Labor and human rights ・Specific activities ・Changes to the key theme of CSR
+Expectations, requests, etc. concerning activities
+・Conduct seminars for rank-and-file employees (approx. 30%) (need for understanding across the as a whole; education for local staff outside of Japan) ・ Briefings on specific initiatives (approx. 30%) ・ Effective use to enhance corporate value ・ Putting into practice ・ Making work worthwhile ・ Need to draw attention to inside the ・ Provide arrangements for responding to clients ・ Instilling pride in the ・ Dealing with CSR-related risks ・ Contributing to community development ・ Make all employees familiar with the ideals and policy (approx. 12%)
+seminar in progress
+Familiarizing Staff with During 2018
+Briefings were held in various locations of the Group between February and May 2018 to familiarize staff with the Corporate Philosophy, Policy, Code of Conduct, etc.
+Briefing in Seoul
+Briefing in Shenzhen
+Briefing in Shanghai
+Briefing in Los Angeles
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. »Privacy Policy
+AcceptProducts
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+HOME
+Corporate Profile
+Vision
+SMALL
+Developing and manufacturing 
+ultra-small products
+SMART
+Providing power-saving analog 
+semiconductors leading to a “smart” society
+SIMPLE
+Providing simple, easy-to-use products 
+contributing to miniaturization and cost reduction
+The origin of our products lies in the development of ICs for quartz watches. We downsized quartz mechanisms from the size of a locker to something small enough to be worn on a wrist, and succeeded in bringing to production analog semiconductors that function accurately while using only a minute amount of energy. The safe and reliable leading-edge technology cultivated through our research and manufacturing is seeing increasing utilization in the latest key devices, including those for automobiles, smartphones, and healthcare.
+Corporate Profile
+Message
+Outline
+Vision
+History
+Business Field
+Integrated Production System
+Quality / Environment
+Worldwide Locations
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Worldwide Locations
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
+Privacy Policy
+Web Site Privacy Policy
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptProducts
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+HOME
+Corporate Profile
+History
+HISTORY
+2018
+   Change Name to “Inc.”
+2017
+High-efficiency SWRs
+2016
+Established Inc.
+2016
+Medical device ICs
+2015
+High-power dissipation packages (TO-252-5S)
+2015
+Wireless power ICs
+2014
+Timer ICs for automotive use
+2013
+Magnetism sensor ICs for automotive use
+2011
+Ultra-small 0.8 x 0.8 mm packages (HSNT)
+2009
+High-power dissipation packages (HSOP-6)
+2009
+Power supply ICs for automotive use
+2005
+Ultra-low voltage operation charge pumps
+2003
+Ultra-small packages (SNT)
+2003
+for automotive use
+1999
+Lithium-ion battery protection ICs (Secondary protection)
+1996
+Began the post process at the Akita plant.
+1993
+Lithium-ion battery protection ICs / EEPROM
+1990
+Real-time clock ICs
+1987
+Completed the 6-inch line for the wafer process.
+1986
+Non-volatile memories
+1985
+Temperature sensor ICs
+1984
+Magnetism sensor ICs
+1983
+Voltage regulators and voltage detectors
+1979
+Completed the 4-inch line for the wafer process.
+1979
+Analog quartz ICs
+1970
+Completed the 2-inch line for development.
+1968
+Began R&D.
+1937
+Established 1937 Daini Seikosha Co., Ltd.
+ (the present-day Seiko Instruments Inc.)
+1881
+Established Hattori 
+(the present-day Seiko Holdings Corporation)
+2017
+High-efficiency SWRs
+Established 2016
+2016
+Medical device ICs
+High-power dissipation packages (TO-252-5S)
+2015
+2015
+Wireless power ICs
+2014
+Timer ICs for automotive use
+2013
+Magnetism sensor ICs for automotive use
+Ultra-small 0.8 x 0.8 mm packages (HSNT)
+2011
+High-power dissipation packages (HSOP-6)
+2009
+2009
+Power supply ICs for automotive use
+2005
+Ultra-low voltage operation charge pumps
+Ultra-small packages (SNT)
+2003
+2003
+for automotive use
+1999
+Lithium-ion battery protection ICs (Secondary protection)
+Began the post process at the Akita plant.
+1996
+1993
+Lithium-ion battery protection ICs / EEPROM
+1990
+Real-time clock ICs
+Completed the 6-inch line for the wafer process.
+1987
+1986
+Non-volatile memories
+1985
+Temperature sensor ICs
+1984
+Magnetism sensor ICs
+1983
+Voltage regulators and voltage detectors
+Completed the 4-inch line for the wafer process.
+1979
+1979
+Analog quartz ICs
+Completed the 2-inch line for development.
+1970
+Began R&D.
+1968
+Established 1937 Daini Seikosha Co., Ltd.
+(the present-day Seiko Instruments Inc.)
+1937
+Established Hattori 
+(the present-day Seiko Holdings Corporation)
+1881
+Corporate Profile
+Message
+Outline
+Vision
+History
+Business Field
+Integrated Production System
+Quality / Environment
+Worldwide Locations
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Worldwide Locations
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
+Privacy Policy
+Web Site Privacy Policy
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptProducts
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+HOME
+Corporate Profile
+Company Outline
+Outline
+Name
+Inc.
+Head Office
+1-8, Nakase, Mihama-ku, Chiba-shi, Chiba 261-8507, Japan 
+MAP
+Corporate name change
+January 5, 2018
+Start of Operation
+January 5, 2016
+Business Line
+Development, manufacture, and sale of semiconductors
+Capital
+¥9,250 million
+   Development Bank of Japan Inc. 70% investment
+   Seiko Instruments Inc. 30% investment
+Fiscal Year End
+End of March
+Annual Sales (FY2017)
+32,800 million yen (consolidated)
+Number of Employees
+948 (consolidated) 
+    As of March 31, 2018
+President and CEO
+Nobumasa Ishiai
+Directors and Auditors
+Director and Senior Vice President
+   Tadashi Hashimoto
+Director
+   Hiroshi Murakami
+Director
+   Takashi Mikkaichi
+Director
+   Yoichi Hojo　
+Director
+   Chihiro Shima　
+Director
+   Yoshiaki Asaga　
+Director
+   Tetsu Kobayashi　
+Director
+   Shinji Nureki　
+Director
+   Youichi Takahashi
+Senior Vice President 
+   Seiji Tanaka
+Senior Vice President 
+   Koshi Maemura
+Senior Vice President 
+   Jun Osanai
+Senior Vice President 
+   Akira Takayama
+Senior Vice President 
+   Norifumi Nagano
+Audit and Supervisory Board Member 
+   Hayao Watanabe
+Audit and Supervisory Board Member 
+   Fumihiko Nagasu
+Audit and Supervisory Board Member 
+   Hiroaki Sahara  
+As of December 28, 2018
+Corporate Profile
+Message
+Outline
+Vision
+History
+Business Field
+Integrated Production System
+Quality / Environment
+Worldwide Locations
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Worldwide Locations
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
+Privacy Policy
+Web Site Privacy Policy
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptProducts
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+HOME
+Corporate Profile
+Vision
+SMALL
+Developing and manufacturing 
+ultra-small products
+SMART
+Providing power-saving analog 
+semiconductors leading to a “smart” society
+SIMPLE
+Providing simple, easy-to-use products 
+contributing to miniaturization and cost reduction
+The origin of our products lies in the development of ICs for quartz watches. We downsized quartz mechanisms from the size of a locker to something small enough to be worn on a wrist, and succeeded in bringing to production analog semiconductors that function accurately while using only a minute amount of energy. The safe and reliable leading-edge technology cultivated through our research and manufacturing is seeing increasing utilization in the latest key devices, including those for automobiles, smartphones, and healthcare.
+Corporate Profile
+Message
+Outline
+Vision
+History
+Business Field
+Integrated Production System
+Quality / Environment
+Worldwide Locations
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Worldwide Locations
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
+Privacy Policy
+Web Site Privacy Policy
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptPart3 “S-85S1Series” and “S-1740/1741 Series”, New IoRegulators respond to a request by a startup company
+10/29/2018
+Techanalye Co.,Ltd.
+This time, introduce the new function, “the Supply Voltage Divided Output” which is prepared both in the Ultrahigh Efficiency Switching Regulator “ S-85S1Series ” and the Voltage Regulator “ S-1740/1741 Series ”.
+Regulators are indispensable for supplying stable voltages and it is also important to monitor remaining battery life for battery-powered products such as mobile, wearable and Iodevices. Existing and other companies’ regulators did not have this function and battery voltage divider had to be processed using external circuit to monitor the battery life (see left of the Figure 1).
+Fig.1 The new function “Supply Voltage Divided Output” in the S-85S1P
+“Supply Voltage Divided Output Regulator” is the regulator which a supply voltage divided output feature is added to. As in the right of the Figure 1, “the Supply Voltage Divided Output” circuit is included in the regulator and it divides the input voltage (Vin), outputs the voltage through the buffer, and inputs the voltage into a A/converter pin of a microcontroller to make it possible to monitor the voltage. It resolves the problems in the external circuit such as the variation of the resistances, the input impedance mismatch with the A/converter and so on. It increases the accurate understanding of the remaining battery life, reduces the mounting area and improves the power performance because of integrating the external circuit into the regulator (See Figure 2). This function which brings “throwing one stone to get three birds” into reality was accomplished not only by the ABLIC’s effort but also by a startup company’s request.
+Fig.2 “Supply Voltage Divided Output Regulator” make it possible to connect to a microcontroller A/converter directly and…
+High accuracy : No variation of the resistances, No input impedance mismatch with a
+A/converter on a microcontroller
+Miniaturization : Remove external circuit and reduce the mounting area
+Power performance improvement : Self-current consumption of the “supply voltage divided output” is reduced to 280 n(typical).
+The company is Braveridge Co., Ltd which is based at Kyushu, develops and produces Iodevices as well as develops and manufactures low power wireless modules such as (Bluetooth Low Energy), LoRaand (see footnote). To develop Iodevices which meet these standard specifications, the monitoring remaining battery life function which enables low power consumption and long-term battery life is essential. It is preferable to be designed as small as possible to improve the use-friendliness of the –portable devices. To realize these requests, developed the “Supply Voltage Divided Output Regulator”. Figure 3 shows the Braveridge’s Human Tracker which S-85S1is mounted in.
+Fig.3 Braveridge requests the Supply Voltage Divided Output Regulator for their Ioproducts.
+Generally, venture companies don’t have ample money and they have small human resources. Therefore, they have some superior technologies, but it is difficult to say they have a wide variety of skills. However, they have a passion for technology and innovation. They have a great source of ideas.
+ABLIC’s activity doesn’t only invest in a venture companies but also provides technical support and cultivates their business. invests into Japanese new business fields through supporting the startup companies.
+does not support them unilaterally. incorporates their fresh ideas, converts the vector from “Product-Out”, which is a concept that a company assumes a use case and a specification inside a company and develops the products, to “Market-In”, which is a concept that a company focuses on the customer’s requirements, and develops a new products which are improved usability, development efficiency and cost efficiency. It would not be obtained by conventional methods.
+“Supply Voltage Divided Output Regulator” is the product developed utilizing the advantages of the startup company and the historic old company, that is, Japanese old and new organization.
+Note : LoRaWAN、SIGFOX…One of the standard specification to provide LPWA（Low Power Wide Area, Wireless communication technologies for battery-efficient and ubiquitous wide-area connectivity). Both use unlicensed band frequencies.
+Contributed by Techanalye Co.,Ltd.
+The company name “Techanalye” is derived from a newly coined word which combined “Technology”, “Analyze” and “for everyone”.
+Techanalye reports system structure and trends by analyzing every single electronic device.
+Ultrahigh efficiency step-down switching regulator S-85S1series
+voltage regulator S-1740/1741 series
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. »Privacy Policy
+Accept

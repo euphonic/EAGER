@@ -1,0 +1,1159 @@
+This website uses cookies
+By clicking Accept, you consent to MaxLinear's  privacy, cookie, and other policies  associated with the use of our site.
+Unclassified (4)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+__cfduid
+crazyegg.com
+Used by the content network, Cloudflare, to identify trusted web traffic.
+1 year
+Stores the user's cookie consent state for the current domain
+1 year
+HTTP
+CFID
+maxlinear-hr.silkroad.com
+This cookie is used in context with the CFtoken cookie. The cookie stores a specific for the visitor and the visitor's device and browser.
+Session
+HTTP
+CFTOKEN
+maxlinear-hr.silkroad.com
+This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted. This information is stored in the cookie.
+Session
+HTTP
+JSESSIONID
+maxlinear-hr.silkroad.com
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+OAX
+247realmedia.com
+2 years
+2 years
+HTTP
+bcookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+bscookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+lidc
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+1 day
+HTTP
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+BigIPCookie
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+ENABLEEPOSTINGSCACHE
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+jobApplyInfo
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+SEARCHURL
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 06/01/2019 by Cookiebot
+DOCSIS, Moand G.hn solutions that enable bandwidth expansion into and throughout the home
+Solutions for 4and 5wireless, 400Gbps optical and multi-Gigabit wireline communication networks
+Power Management and Interface products that address industrial and multi-market applicationsThis website uses cookies
+By clicking Accept, you consent to MaxLinear's  privacy, cookie, and other policies  associated with the use of our site.
+Unclassified (4)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+__cfduid
+crazyegg.com
+Used by the content network, Cloudflare, to identify trusted web traffic.
+1 year
+Stores the user's cookie consent state for the current domain
+1 year
+HTTP
+CFID
+maxlinear-hr.silkroad.com
+This cookie is used in context with the CFtoken cookie. The cookie stores a specific for the visitor and the visitor's device and browser.
+Session
+HTTP
+CFTOKEN
+maxlinear-hr.silkroad.com
+This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted. This information is stored in the cookie.
+Session
+HTTP
+JSESSIONID
+maxlinear-hr.silkroad.com
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+OAX
+247realmedia.com
+2 years
+2 years
+HTTP
+bcookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+bscookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+lidc
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+1 day
+HTTP
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+BigIPCookie
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+ENABLEEPOSTINGSCACHE
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+jobApplyInfo
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+SEARCHURL
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 06/01/2019 by CookiebotThis website uses cookies
+By clicking Accept, you consent to MaxLinear's  privacy, cookie, and other policies  associated with the use of our site.
+Unclassified (4)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+__cfduid
+crazyegg.com
+Used by the content network, Cloudflare, to identify trusted web traffic.
+1 year
+Stores the user's cookie consent state for the current domain
+1 year
+HTTP
+CFID
+maxlinear-hr.silkroad.com
+This cookie is used in context with the CFtoken cookie. The cookie stores a specific for the visitor and the visitor's device and browser.
+Session
+HTTP
+CFTOKEN
+maxlinear-hr.silkroad.com
+This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted. This information is stored in the cookie.
+Session
+HTTP
+JSESSIONID
+maxlinear-hr.silkroad.com
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+OAX
+247realmedia.com
+2 years
+2 years
+HTTP
+bcookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+bscookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+lidc
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+1 day
+HTTP
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+BigIPCookie
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+ENABLEEPOSTINGSCACHE
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+jobApplyInfo
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+SEARCHURL
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 06/01/2019 by Cookiebot
+You’re wicked smart, and you thrive on innovation, strive for excellence,
+and revel in work on a fast-paced team of high achievers in the world of semiconductor communications technology. is where your passion and will find a welcoming home with like-minded team mates.
+Come talk to us by applying online via our job posting link below. We will match your career goals with our career opportunities. is a global, NYSE-traded company (NYSE:MXL), in San Diego, CA, with design centers in Carlsbad, Irvine, and San Jose, California; Shanghai, China and Bangalore, India with more to come! We strive for excellence in all we do through innovation and creativity, speed and precision, persistance and perserverance, patience and passion, open-mindedness and critical thought, vigilance and hard work.We consider people our most valued asset. We are committed to the objective of enabling each person to achieve his or her full potential — and we continue to aggressively pursue new talent like you! We cultivate an environment that fosters respect, leadership and teamwork.
+offers unique and exciting career paths and competitive benefits packages worldwide. Our compensation package includes company stock programs, medical, dental, 401K, and Flexible Spending Account plans.
+Be part of a select and elite employee group — start your best career experience now by applying online!This website uses cookies
+By clicking Accept, you consent to MaxLinear's  privacy, cookie, and other policies  associated with the use of our site.
+Unclassified (4)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+__cfduid
+crazyegg.com
+Used by the content network, Cloudflare, to identify trusted web traffic.
+1 year
+Stores the user's cookie consent state for the current domain
+1 year
+HTTP
+CFID
+maxlinear-hr.silkroad.com
+This cookie is used in context with the CFtoken cookie. The cookie stores a specific for the visitor and the visitor's device and browser.
+Session
+HTTP
+CFTOKEN
+maxlinear-hr.silkroad.com
+This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted. This information is stored in the cookie.
+Session
+HTTP
+JSESSIONID
+maxlinear-hr.silkroad.com
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+OAX
+247realmedia.com
+2 years
+2 years
+HTTP
+bcookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+bscookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+lidc
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+1 day
+HTTP
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+BigIPCookie
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+ENABLEEPOSTINGSCACHE
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+jobApplyInfo
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+SEARCHURL
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 06/01/2019 by Cookiebot
+2 Rue Jean Perrin
+India
+p. +91-80-4240-5000
+f. +91-80-4240-5100
+Singapore, 556741
+p. +65-671-57051
+Gongdao 5th Rd., East Dist.,
+Hsinchu City 300, Taiwan (R.O.C.)
+p. +886-3-5011-700
+f.  +886-3-5722-310
+Taiwan (Taipei)
+Taiwan, ROC
+p. +886-2-8195-3509This website uses cookies
+By clicking Accept, you consent to MaxLinear's  privacy, cookie, and other policies  associated with the use of our site.
+Unclassified (4)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+__cfduid
+crazyegg.com
+Used by the content network, Cloudflare, to identify trusted web traffic.
+1 year
+Stores the user's cookie consent state for the current domain
+1 year
+HTTP
+CFID
+maxlinear-hr.silkroad.com
+This cookie is used in context with the CFtoken cookie. The cookie stores a specific for the visitor and the visitor's device and browser.
+Session
+HTTP
+CFTOKEN
+maxlinear-hr.silkroad.com
+This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted. This information is stored in the cookie.
+Session
+HTTP
+JSESSIONID
+maxlinear-hr.silkroad.com
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+OAX
+247realmedia.com
+2 years
+2 years
+HTTP
+bcookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+bscookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+lidc
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+1 day
+HTTP
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+BigIPCookie
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+ENABLEEPOSTINGSCACHE
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+jobApplyInfo
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+SEARCHURL
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 06/01/2019 by Cookiebot
+Kishore Seendripu, Ph.D.
+Chief Executive Officer
+Kishore Seendripu, Ph.has served as our Chairman, President, and Chief Executive Officer since the company’s inception in September 2003 and is also a cofounder of the company. From July 1996 to July 2002, Dr. Seendripu served in both engineering & engineering management roles developing integrated radio frequency & mixed-signal systems-on-chip solutions addressing wireless and broadband communications markets. He has previously worked at Rockwell Semiconductor Systems (predecessor of Skyworks), Broadcom Corporation, and Silicon Wave Inc. (acquired by Qualcomm). From 1990 to 1996 Dr. Seendripu served as a graduate research assistant at the Lawrence Berkeley Livermore National Laboratories, and at the Electronics Research Laboratory, Berkeley.
+Dr. Seendripu received a Ph.in Electrical Engineering and a in Materials Science Engineering from the University of California at Berkeley, a Tech degree from the Indian Institute of Technology, Bombay, India, and a from the Wharton School, University of Pennsylvania.
+Steven Litchfield
+Chief Financial Officer & Chief Corporate Strategy Officer
+Mr. Litchfield most recently served as Executive Vice President and Chief Strategy Officer of Microsemi Corporation, a provider of analog and mixed-signal semiconductor solutions that was acquired by Microchip Technology, Inc. in May 2018.  Mr. Litchfield served in that position from 2009 until the closing of the acquisition by Microchip. Previously, he served as Microsemi’s Vice President, Analog and Mixed Signal Group from 2006 to 2009, as its Vice President, Corporate Marketing and Business Development from 2003 to 2006, and as its Director, Business Development from 2001 to 2003.  Prior to joining Microsemi, Mr. Litchfield was an equity research analyst at Banc of America Securities and a production engineer at Toyota Motor Corporation. Mr. Litchfield also serves on the board of directors of several early stage technology companies that are not publicly traded.
+Mr. Litchfield holds a Bachelor of Science in Industrial Engineering from Purdue University and a from the University of Southern California Marshall School of Business.
+Curtis Ling, Ph.D.
+Chief Technical Officer
+Curtis Ling, Ph.is a co-founder and has served as our Chief Technical Officer since April 2006. From March 2004 to July 2006, Dr. Ling served as our Chief Financial Officer, and from September 2003 to March 2004, as a co-founder, he consulted for us. From July 1999 to July 2003, Dr. Ling served as a principal engineer at Silicon Wave, Inc. From August 1993 to May 1999, Dr. Ling served as a professor at the Hong Kong University of Science and Technology.
+Dr. Ling received a in Electrical Engineering from the California Institute of Technology and an and Ph.in Electrical Engineering from the University of Michigan, Ann Arbor.
+Michael Bollesen
+Vice President of Sales
+Michael Bollesen is Vice President of Sales and brings a proven success record in leading and expanding Global Sales.  Mr. Bollesen global business experience and results orientation will be a compliment to and a strong addition to the executive team.
+Mr. Bollesen has 25 years’ experience in the semiconductor industry with a legacy of success at Cypress Semiconductor.  Over the course of his career he has served as the President of Cypress China, Sales for Asia Pacific, of the Cypress China business unit and Module business unit.  Mr. Bollesen also held the positions of President Cypress Japan and Sales Japan, Director Datacom applications, and Director of Marketing.  During Mr. Bollesen career he also lived in China for 13 years and was a successful leader in the region.
+Mr. Bollesen received a in Electrical Engineering from the University of Minnesota and a from Santa Clara University’s Leavey School of Business.
+Kathi Guiney
+Vice President of Human Resources
+Kathi Guiney joined as Vice President of Human Resources in November 2011. Ms. Guiney brings to over 25 years of Human Resources expertise in both domestic and international business environments. Prior to MaxLinear, she served as President and Executive Consultant of YES!HRSolutions; contributing expertise to fast growth privately held companies in multiple industries. Ms. Guiney also has a successful career track record in dynamic leadership roles at major public companies including Schultz, a global financial services company and at Western Digital Corporation, a leader in storage technology.
+Ms. Guiney received a Bachelor of Science degree from the University of Oregon, Eugene and has earned the national and international professional human resource accreditations.
+Michael LaChance
+Vice President of Operations
+Michael LaChance has served as our Vice President, Operations since November 2011. From May 2011 to November 2011, Mr. LaChance served as our Senior Director, Operations. From November 2009 to April 2010, he served as Senior Director, Product Operations for Telegent Systems, Inc., a fabless semiconductor company. From March 1998 to March 2009, he served as Vice President, Product Operations at Broadcom Corporation. From March 1984 to March 1998, he served as Senior Director, Product Operations at Silicon Systems, Inc. which was subsequently acquired by Texas Instruments, Inc., a designer and manufacturer of semiconductors.
+Mr. LaChance received a in Electrical Engineering and in Biological Science from the University of California, Irvine.
+James Lougheed
+Vice President of Marketing, High Performance Analog
+James Lougheed was appointed Vice President of Marketing, High Performance Analog, in May 2017, following the acquisition of Exar Corporation by MaxLinear. From 2008 to 2017, Mr. Lougheed served in multiple senior leadership roles at Exar Corporation, including Sr Vice President of Global Sales & Marketing. Mr. Lougheed brings over 20 years of experience in the electronic industry, spanning sales and marketing of analog and mixed-signal semiconductors, electronic systems, and component distribution. Prior to Exar, he also held sales and marketing responsibilities at Cirrus Logic, Apexone Microelectronics, and Future Electronics.
+Mr. Lougheed received an associate degree in electrical and electronic engineering, a postgraduate certificate in management, and a from the University of Southern Queensland, Australia.
+Madhukar Reddy, Ph.D.
+Vice President of and Systems Engineering
+Madhukar Reddy, Ph.has served as our Vice President, and Systems Engineering since November 2006. From January 2005 to November 2006, Dr. Reddy served as our Director, RF/Mixed-Signal Design. From July 2002 to January 2005, he served as Manager, Design at Skyworks Solutions. From January 1999 to July 2002, he served as Design Engineer and Group Leader at Conexant Systems. From January 1997 to December 1998, he served as Designer at Rockwell Semiconductor Systems. Since 2005, Dr. Reddy has been a member of the Technical Program Committee of the Symposium.
+Dr. Reddy received a Tech degree from the Indian Institute of Technology, Madras, India, and an and Ph.in Electrical Engineering from the University of California, Santa Barbara.
+Will Torgerson
+Vice President & General Manager of Broadband Group
+Will Torgerson joined as Vice President of Global Sales in November 2012 and in 2015 assumed the role of General Manager, and Vice President  of the Company’s global Broadband business. Mr. Torgerson brings to over 16 years sales and semiconductor experience. Prior to MaxLinear, he served as Vice President of America Sales for SMSC, Inc., a fabless semiconductor company serving the enterprise, automotive, PC, CE, and industrial markets. Prior to SMSC, Mr. Torgerson was the Vice President of Global Sales at StarGen, Inc., Director of America Sales at Technology, Sales and Field Application Engineering at Actel, Inc., and began his career at Intergraph Corporation as a design engineer.
+Mr. Torgerson received a degree from the University of Alabama, Huntsville and an from University of New York, Stonybrook.
+Brendan Walsh
+Vice President of Product Line Marketing, Infrastructure Group
+Brendan Walsh joined in 2004 as Vice President of Business Development.  Since September 2014, he has served as Vice President of Product Line Marketing, Infrastructure Group. Prior to MaxLinear, Mr. Walsh was the Director of Business Development and Venture Investment in the Corporate Mergers and Acquisitions Department of Philips Electronics N.V., an electronics company. From August 1999 to October 2000, he served as a strategic investment manager for Hikari Tsushin Inc., a retailer of mobile devices and venture capital firm focusing on mobile technologies.
+Mr. Walsh received a from the University of California, Davis and an from the Wharton School, University of Pennsylvania.This website uses cookies
+By clicking Accept, you consent to MaxLinear's  privacy, cookie, and other policies  associated with the use of our site.
+Unclassified (4)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+__cfduid
+crazyegg.com
+Used by the content network, Cloudflare, to identify trusted web traffic.
+1 year
+Stores the user's cookie consent state for the current domain
+1 year
+HTTP
+CFID
+maxlinear-hr.silkroad.com
+This cookie is used in context with the CFtoken cookie. The cookie stores a specific for the visitor and the visitor's device and browser.
+Session
+HTTP
+CFTOKEN
+maxlinear-hr.silkroad.com
+This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted. This information is stored in the cookie.
+Session
+HTTP
+JSESSIONID
+maxlinear-hr.silkroad.com
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+OAX
+247realmedia.com
+2 years
+2 years
+HTTP
+bcookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+bscookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+lidc
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+1 day
+HTTP
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+BigIPCookie
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+ENABLEEPOSTINGSCACHE
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+jobApplyInfo
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+SEARCHURL
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 06/01/2019 by Cookiebot
+Gigabit-class powerline backhaul provides significantly higher data rates and lower latency than traditional Wi-Fi mesh solutions Advanced TR-069 support delivers carrier-grade remote management capabilities   CARLSBAD, – January 15, 2019 – MaxLinear, Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial …
+January 9, 2019
+New 10 Gigabit ready gateway platforms will deliver new speed, lower latency and high capacity for ultra-connected homes. – – January 9, 2019 – Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications, today announced that …
+January 8, 2019
+Comtrend’s GCA-6000 Ethernet over Coax Adapter & PG-9173 Ethernet over Powerline Adapter, based on G.hn technology, leverage in-home coaxial cables or powerlines to deliver robust connectivity at home. Chunghwa Telecom subscribers can enjoy full-speed gigabit broadband service without the bottlenecks of a congested wireless spectrum.   – January 8, 2019 – …
+January 4, 2019
+Zinwell’s 3rd generation ZRA-003 integrates MaxLinear’s AirPHY™ gigabit wireless data modem with jjPlus’ 65wireless power module into a wall-mounted outdoor-to-indoor for broadband service providers   CARLSBAD, – Jan. 4, 2018 – MaxLinear, Inc. (NYSE:MXL), a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and …
+November 28, 2018
+Carlsbad, Calif. – November 28, 2018 – MaxLinear, Inc. (NYSE:  MXL), a leading provider of radio frequency (RF), analog, and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications, today announced the expansion of its board to include semiconductor industry veteran Daniel Artusi and finance and accounting …
+November 20, 2018
+MxL935xx based 100/400connectivity validated with switch to help drive faster adoption of higher performance data center networks CARLSBAD, – Nov., 20, 2018 – Inc. (NYSE: MXL), a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications, and Innovium, a …
+September 25, 2018
+– Sept. 25, 2018 – MaxLinear, Inc. (NYSE:MXL), a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications, today announced support for 400 Gbps breakout mode clocking in its MxL9354x products. The functionality will be on display at the company’s …
+September 24, 2018
+New chipset builds upon the success of 400 Gbps data center transceiver chipset announced at 2018 to extend MaxLinear’s leadership position in optical interconnects Rome – Sept. 25, 2018 – MaxLinear, Inc. (NYSE:MXL), a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial …
+MxL541brings Full-Spectrum Capture™ features, low power draw and Unicable support to next-generation Evobox set-top boxes CARLSBAD, Calif. – Sept. 18, 2018 – MaxLinear, Inc. (NYSE:MXL), a leading provider of radio frequency (RF), analog and mixed-signal integrated circuits for the connected home, wired and wireless infrastructure, and industrial and multimarket applications, today announced Cyfrowy Polsat, Poland’s …
+MaxLinear’s MxL213with Full Spectrum Capture™ Provides Cost-Effective Solution for Inspur’s Smart Cable Gateway
+Posted By on
+September 18, 2018
+CARLSBAD, Calif. – Sept. 18, 2018 – Inc. (NYSE: MXL), a leading provider of radio frequency (RF) and mixed-signal integrated circuits for the connected home and wired and wireless infrastructure markets, today announced that Inspur Group has selected its MxL213Full-Spectrum Capture™cable front-end receiver for its next generation of smart cable gateway set-top boxes …This website uses cookies
+By clicking Accept, you consent to MaxLinear's  privacy, cookie, and other policies  associated with the use of our site.
+Unclassified (4)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+__cfduid
+crazyegg.com
+Used by the content network, Cloudflare, to identify trusted web traffic.
+1 year
+Stores the user's cookie consent state for the current domain
+1 year
+HTTP
+CFID
+maxlinear-hr.silkroad.com
+This cookie is used in context with the CFtoken cookie. The cookie stores a specific for the visitor and the visitor's device and browser.
+Session
+HTTP
+CFTOKEN
+maxlinear-hr.silkroad.com
+This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted. This information is stored in the cookie.
+Session
+HTTP
+JSESSIONID
+maxlinear-hr.silkroad.com
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+OAX
+247realmedia.com
+2 years
+2 years
+HTTP
+bcookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+bscookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+lidc
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+1 day
+HTTP
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+BigIPCookie
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+ENABLEEPOSTINGSCACHE
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+jobApplyInfo
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+SEARCHURL
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 06/01/2019 by Cookiebot
+was founded in 2003. The company’s original high performance, radio-frequency receiver products capture and process digital and analog broadband signals for applications including terrestrial, cable and satellite television and broadband. These products include both receivers and receiver systems-on-chip, or SoCs, which incorporate highly integrated radio system architecture and demodulator technology. The company’s products were based on its pioneering low power, low cost process technology.
+In 2015, the company acquired Entropic, the world leader in semiconductor solutions for the connected home. Entropic pioneered multimedia over coax (MoCA) home networking technology. The company’s technology transforms how traditional broadcast and streaming video is seamlessly, reliably, and securely delivered, processed, and distributed into and throughout the home.
+also offers optical networking driver and trans-impedance amplifier ICs for 100/ 400optical data center networks. The devices use advanced technology that cut in half the number of channels needed in optical transmission modules, reducing power consumption, size and cost for 100Gbps and 400Gbps networks.
+technology is trusted by leading telephone, cable and satellite operators, set-top box manufacturers, networking equipment providers and consumer technology providers.
+Find out more about MaxLinear’s impact on broadband and networking industries at the Our Difference page.This website uses cookies
+By clicking Accept, you consent to MaxLinear's  privacy, cookie, and other policies  associated with the use of our site.
+Unclassified (4)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+__cfduid
+crazyegg.com
+Used by the content network, Cloudflare, to identify trusted web traffic.
+1 year
+Stores the user's cookie consent state for the current domain
+1 year
+HTTP
+CFID
+maxlinear-hr.silkroad.com
+This cookie is used in context with the CFtoken cookie. The cookie stores a specific for the visitor and the visitor's device and browser.
+Session
+HTTP
+CFTOKEN
+maxlinear-hr.silkroad.com
+This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted. This information is stored in the cookie.
+Session
+HTTP
+JSESSIONID
+maxlinear-hr.silkroad.com
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+OAX
+247realmedia.com
+2 years
+2 years
+HTTP
+bcookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+bscookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+lidc
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+1 day
+HTTP
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+BigIPCookie
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+ENABLEEPOSTINGSCACHE
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+jobApplyInfo
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+SEARCHURL
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 06/01/2019 by Cookiebot
+Conflict Mineral Policy
+As a fabless semiconductor company supplying Integrated Circuits (ICs) to customers worldwide, uses only world-class manufacturers to produce its products. MaxLinear’s supply chain spans the globe, with suppliers in many countries.
+MaxLinear’s suppliers also have their own suppliers for the materials used in MaxLinear’s products. In particular, some or all of these minerals may be used in the manufacture of MaxLinear’s products:
+Gold
+Tantalum (columbite-tantalite ore and its derivatives)
+Tin (cassiterite ore and its derivatives)
+Tungsten (wolframite ore and its derivatives)
+The United States government has identified these four minerals as being potentially “conflict minerals,” which originate in the Democratic Republic of the Congo (DRC) or certain adjoining countries. In August 2012, the Securities and Exchange Commission (SEC) adopted requirements that require publicly-traded companies to report annually concerning the presence of “conflict minerals” that are necessary to the functionality or production of products they manufacture or contract to manufacture.
+has taken the following actions to ensure that no conflict minerals are used in its products:
+has notified its manufacturing suppliers that, to the best of their ability or knowledge, they are not to source any conflict minerals and use them in MaxLinear’s products.
+requires each of its manufacturing suppliers to complete the Electronics Industries Citizenship Coalition (EICC) Conflict Minerals Survey and to comply with the Code of Conduct, which requires that suppliers have a policy to reasonably assure that the tantalum, tin, tungsten, and gold in the products they manufacture are conflict-free. Suppliers must ensure that all parts used to manufacture products supplied to originate from certified conflict-free smelters validated as compliant to the Conflict-Free Smelter (CFS) protocol, using the Compliant Smelter List. The program is a global program where an independent third-party evaluates a smelter’s procurement activities and determines if the smelter demonstrated that materials they processed originated from conflict-free sources. Through this industry-collaborative effort, smelters are audited globally. The list of compliant smelters and refiners is posted at www.conflictfreesmelter.org.
+The use of conflict minerals in the electronics industry is extremely complicated due to the multi-layered international supply chain. expects its suppliers to use materials that are environmentally safe and sourced from socially responsible suppliers.
+Environmental Policy Statement
+recognizes the importance of protecting and maintaining the quality of the environment as an integral part of the company’s business operations. We acknowledge our responsibility to ensure products and services provided to our customers are done so in and environmentally safe and sound manner.
+is committed to being a “Green Partner” in sustaining the environment by:
+Providing products to our customers that use approved environmentally friendly
+materials.
+Preventing pollution by minimizing waste and promoting recycling of reusable
+materials.
+Modern slavery statement for financial year 2015/16
+This statement is made pursuant to s.54 of the United Kingdom (“UK”) Modern Slavery Act 2015 and sets out the steps that Inc. has taken and is continuing to take to ensure that modern slavery or human trafficking is not taking place within our business or supply chain.
+Modern slavery encompasses slavery, servitude, human trafficking and forced labour. Inc. has a zero tolerance approach to any form of modern slavery. We are committed to acting ethically and with integrity and transparency in all business dealings and to putting effective systems and controls in place to safeguard against any form of modern slavery taking place within the business or our supply chain.
+Our business
+About Group Business
+MaxLinear, Inc. is a provider of radio frequency, or RF, and mixed-signal integrated circuits for cable and satellite broadband communications and the connected home, and wired and wireless infrastructure markets. Our high performance receiver products capture and process digital and analog broadband signals to be decoded for various applications. These products include both receivers and receiver systems-on-chip (SoCs), which incorporate our highly integrated radio system architecture and the functionality necessary to receive and demodulate broadband signals, and physical medium devices that provide a constant current source, current-to-voltage regulation, and data alignment and retiming functionality in optical interconnect applications. Through our acquisition of Entropic Communications, Inc., or Entropic, in April of 2015, we provide semiconductor solutions for the connected home, ranging from MoCA® (Multimedia over Coax Alliance) solutions that transform how traditional broadcast and Internet Protocol- (IP) based streaming video content is seamlessly, reliably, and securely delivered, processed, and distributed into and throughout the home. Through our acquisition of the Microsemi wireless infrastructure access business in April of 2016, we provide integrated circuits for wireless infrastructure markets, including wideband transceivers and synthesizers for 3G, 4G, and future 5cellular base station and remote radio head (RRH) unit platforms. Through our recently closed acquisition of the Broadcom wireless infrastructure backhaul business in July of 2016, we also provide modem and transceiver solutions into cellular infrastructure backhaul applications.
+large percentage of our products are shipped to Asia, and we believe that a significant number of the systems designed by these customers and incorporating our semiconductor products are then sold outside Asia. For example, we believe revenue generated from sales of our digital terrestrial set-top box relate principally to sales to Asian set-top box manufacturers delivering products into Europe, Middle East, and Africa, or markets.  There is a growing portion of our business, related specifically to our high-speed optical interconnect products, that are shipped to, and are ultimately consumed in Asian markets, with the majority of these products being purchased by end customers in China.
+The is based in the United States and we operate internationally in the following countries:
+Canada
+France
+India
+Israel
+Japan
+Korea
+China
+Taiwan
+Singapore
+United Kingdom
+We currently use several major third-party vendors to supply the goods we sell, including UMC, Silterra Malaysia Sdn Bhd, Global Foundries, SMIC, TSMC, Jazz Semiconductor, and Semiconductor.  We do not have long-term supply contracts with any of our third-party vendors. We make substantially all of our purchases on a purchase order basis, and none of our contract manufactures are required to supply us products for any specific period or in any specific quantity.
+The Business
+The principal activities of the company during the year were the selling, marketing and development of semi-conductors.
+Due to the restructuring plans of the company, the United Kingdom operations underwent a major reduction of the workforce with the closure of the Belfast Office in 2015.  The business is no longer continuing to pursue wins for all set-top box system-on-a-chip (SoC) products already commercialised and will not continue to invest to support those programs, and has discontinued all new set-top box Soproduct development.  The company believes the set-top box Sobusiness will not contribute meaningful revenue beyond the next several quarters, based on products it has already brought to market.  It is expected that the Company will continue to support the parent with sales and marketing activities across the range of products, spanning broadband and wired and wireless infrastructure markets.
+United Kingdom Limited was acquired by Inc. on 1st May 2015.
+In 2016, the business has not engaged any third party suppliers and the work done by our members of staff is directly related to our business.
+Our high risk areas
+We have not identified any areas of the business to be considered to be high risk. Employees are paid on commercial terms and we comply with all the relevant employment and other laws as required.
+Our policies
+We operate a number of internal policies to ensure that we are conducting business in an ethical and transparent manner. These include:
+Anti-slavery policy.  This policy sets out the organisation’s stance on modern slavery and explains how employees can identify any instances of this and where they can go for help.
+Recruitment policy. We operate a robust recruitment policy, including conducting eligibility to work in the checks for all employees to safeguard against human trafficking or individuals being forced to work against their will.
+Whistleblowing policy. We operate a whistleblowing policy so that all employees know that they can raise concerns about how colleagues are being treated, or practices within our business or supply chain, without fear of reprisals.
+Code of business conduct.  This code explains the manner in which we behave as an organisation and how we expect our employees and suppliers to act.
+Our suppliers
+Inc operates a supplier policy and maintains a preferred supplier list.  We conduct due diligence on all suppliers before allowing them to become a preferred supplier.  This due diligence includes an online search to ensure that particular organisation has never been convicted of offenses relating to modern slavery and on site audits which include a review of working conditions.  Our anti-slavery policy forms part of our contract with all suppliers and they are required to confirm that no part of their business operations contradicts this policy.
+In addition to the above, as part of our contract with suppliers, we require that they confirm to us that:
+They have taken steps to eradicate modern slavery within their business
+They hold their own suppliers to account over modern slavery
+(For based suppliers) They pay their employees at least the national minimum wage / national living wage (as appropriate)
+(For international suppliers) They pay their employees any prevailing minimum wage applicable within their country of operations
+We may terminate the contract at any time should any instances of modern slavery come to light
+Training
+We regularly conduct training for our procurement/buying teams so that they understand the signs of modern slavery and what to do if they suspect that it is taking place within our supply chain.
+Our performance indicators
+We will know the effectiveness of the steps that we are taking to ensure that slavery and/or human trafficking is not taking place within our business or supply chain if:
+No reports are received from employees, the public, or law enforcement agencies to indicate that modern slavery practices have been identified.
+Approval for this statement
+This statement was approved by the Board of Directors on December 20, 2016.
+Name: Kishore SeendripuThis website uses cookies
+By clicking Accept, you consent to MaxLinear's  privacy, cookie, and other policies  associated with the use of our site.
+Unclassified (4)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+__cfduid
+crazyegg.com
+Used by the content network, Cloudflare, to identify trusted web traffic.
+1 year
+Stores the user's cookie consent state for the current domain
+1 year
+HTTP
+CFID
+maxlinear-hr.silkroad.com
+This cookie is used in context with the CFtoken cookie. The cookie stores a specific for the visitor and the visitor's device and browser.
+Session
+HTTP
+CFTOKEN
+maxlinear-hr.silkroad.com
+This cookie is used to determine which type of device the visitor is using, so the website can be properly formatted. This information is stored in the cookie.
+Session
+HTTP
+JSESSIONID
+maxlinear-hr.silkroad.com
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+maxlinear.com
+sdbj.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+OAX
+247realmedia.com
+2 years
+2 years
+HTTP
+bcookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+bscookie
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+2 years
+HTTP
+lidc
+linkedin.com
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+1 day
+HTTP
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+BigIPCookie
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+ENABLEEPOSTINGSCACHE
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+jobApplyInfo
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+SEARCHURL
+maxlinear-hr.silkroad.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 06/01/2019 by Cookiebot
+Disclaimer
+By selecting any of these links identified on this page, you will be leaving the web site. The site you choose to visit is not affiliated with MaxLinear, and is not responsible for the content of the site you are about to access. Any views expressed in these materials do not necessarily represent, and should not be attributed to MaxLinear, its officers, directors, or employer, or any of its affiliates. accepts no legal responsibility for, and does not endorse or otherwise promote, any material or opinion that may be accessed through these sites, nor for any material or other loss or damage that results from access to, or denial of access to, any of these sites.
+10/16/18
+10/2/2018
+02/02/18
+10/24/18
+09/26/17
+02/16/17
+02/10/17
+01/06/17
+09/09/16
+06/16/16
+09/16/15
+04/16/15

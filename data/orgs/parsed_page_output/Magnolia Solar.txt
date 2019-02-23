@@ -1,0 +1,191 @@
+Warning:  session_start() [ function.session-start ]: Cannot send session cookie - headers already sent by (output started at /home/content/97/4659197/html/index.php:5) in /home/content/97/4659197/html/index.php on line 5
+Warning:  session_start() [ function.session-start ]: Cannot send session cache limiter - headers already sent (output started at /home/content/97/4659197/html/index.php:5) in /home/content/97/4659197/html/index.php on line 5
+- Home Page
+Nanostructured cell design
+Harness sunlight for economic growth
+Please visit investors page to get more details about our corporate information and "Investor Relations".
+Feb 4, 2016
+Enter Email: 
+Woburn, 01801
+(781) 497-2900  (PHONE)
+(781) 735-0575 (FAX)
+Albany, Location:
+Inc.
+Albany , 12203
+(518) 618-4200 (PHONE)
+(518) 514-1200 (FAX)
+Warning:  Unknown: open(/home/content/97/4659197/tmp/sess_4v0lp0qclpeqt4np6r7bb26444, O_RDWR) failed: No such file or directory (2) in Unknown on line 0Advisory Board
+has a very dynamic management and advisory board members with significant experience in a wide range of areas including executive management of small and large enterprises, research and development and academia.
+Dr. Zhong Wang
+Professor Wang is a world-renowned expert in nanostructure growth and characterization of semiconductor materials and devices for Energy harvesting technology and is a distinguished professor and director, at the Center for Nanostructure Characterization at Georgia Tech University.
+Professor Wang has done pioneering work on Zinc Oxide (ZnO), Zinc Sulphide (ZnS) and related materials based nanostructures, i.e. nanowires and nanorods growth technology, growth demonstration and pioneering work in its applications for Energy harvesting technology and other optical sensor applications. His Pioneering work in Nanogenerators for Energy harvesting has been recognized worldwide as one of the 10 most impacting technology for the next 10-30 years by Technology Review, New Scientist and other International publications. He is an inventor or co-inventor of many patents and has authored or co-authored more than 650 publications, many of which were published in some of the most prestigious journals. Amongst many other high honors, Professor Wang is a Fellow of the American Physical Society (APS) and American Association of Advancement of Science (AAAS).
+Dr. Tom Surek
+Dr Surek's career in photovoltaic, or PV, the direct conversion of sunlight to electricity, dates back more than 37 years to the formative stages of terrestrial programs. Dr Surek began his pioneering work on the growth of shaped silicon crystals at Harvard University in 1973, followed by research at Mobil Tyco Energy Corporation from 1975 to 1978. His innovative work on shaped crystal growth of silicon has culminated in the first of the new technologies to be commercialized on a large scale, the edge-defined film-fed growth, or EFG, process.
+Dr Surek joined the National Renewable Energy Laboratory, or NREL, in 1978 and served in a program management capacity during his entire SERI/career of nearly 29 years until his retirement in July 2007. For his last 20 years at NREL, Dr Surek led R&activities in thin film photovoltaics as manager of the Program for the Department of Energy, or Under his leadership, world-record efficiencies were achieved in crystalline silicon, thin-film, and concentrator cells, and many of these technologies are now being commercialized worldwide.
+Following his retirement from NREL, Dr Surek has been active as a world renowned consultant and continues his professional career to promote clean, renewable energy technologies. He expects to apply his more than 37-year experience in technologies to help advance the adoption of systems to produce clean, cost-effective electricity in residential, commercial, and utility-scale applications.
+Dr. Fred Schubert
+Professor Schubert is a world-renowned expert in optoelectronic devices and nanostructure-based antireflection coating technology and a Wellfleet Senior Constellation Professor of physics at the Rensselear Polytechnic Institute (RPI) in Troy, NY.Management Team
+has a very dynamic management and advisory board members with significant experience in a wide range of areas including executive management of small and large enterprises, research and development and academia.
+Dr. Ashok Sood, President & CEO
+Dr. Ashok Sood is President, Chief Executive Officer and a Director of Corporation.. He is a 35-year industry veteran with experience that includes developing and managing cells, optical, and optoelectronics technology products for several major corporations, including Lockheed-Martin, Systems, Loral, Honeywell, and Tyco International. Dr. Sood was instrumental in development and managed optical and optoelectronics technology for these companies as a TechnologyManager in the optoelectronics group and worked to develop ribbon silicon cells, CdTe, Cdand HgCdTe, GaN/AlGaN, Znsemiconductor devices. Many of the technologies and products developed have become large product lines at these companies.
+Dr Sood was involved in design and development of cells at Mobil-Tyco Energy Corporation now under the management of RWE-Schott Solar. He contributed to design and development of Silicon Ribbon cells and was instrumental in design improvements to enhance the cell efficiency of ribbon cells. Dr Sood was also Senior Engineer at Tyco Laboratories, Inc., (Now Tyco International) where he built and set up optical and electronic measurement facilities for silicon p-n junction cells and developed processes for building high efficiency cells for space applications.  This work led to a joint venture with Kyoto Ceramics in Japan.
+Dr. Sood has also led the development of optoelectronics and imaging devices for various defense applications, including EO, and imaging, secure communications, and self-protection applications. Dr. Sood has led the efforts resulting in DARPA/Dosponsorship of several projects.  He has also led various industry and University teams bridging centers of excellence for material sciences across the United States. Dr. Sood received his Ph.and in Engineering from the University of Pennsylvania and has an and a in Physics (Honors) from Delhi University in India.
+Dr. Yash Puri, Executive & CFO
+Dr. Yash Puri is Executive Vice President, Chief Financial Officer and a Director of the Optical. He has many years of photovoltaic technology and applications experience both in the private sector and in the academia. Previously Dr. Puri was of Finance for Equipment Technologies, Inc., (presently known as Solar, Inc., a an equipment manufacturer serving the semiconductor and the photovoltaic industries. He helped this high technology startup, formed in 1994, to grow to revenue of about $20 million. The company won rewards and considerable recognition; it was a New England finalist in the Ernst & Young Entrepreneur of the Year award.
+Dr. Puri is also a Professor of Finance at the University of Massachusetts and has been Chairman of the Management and Finance Department, and acting Associate Dean. In these positions, he successfully managed several externally funded projects and gained experience in technology and growth management. Dr. Puri holds a in Physics, a in Solid State Physics, and a from the University of Delhi.  He also holds a in Finance and a in International Business from Indiana University, Bloomington.
+Mr. James Egerton, Executive VP
+Mr. Egerton is executive vice president for product development at Solar. Mr. Egerton has over thirty years of experience in development of microelectronics, optoelectronics and nanotechnology specifically in silicon, GaAs, HgCdTe, Zndevices and processes. Mr. Egerton has the experience and the expertise in taking R+technologies and transitioning it to manufacturing and reducing product costs. He has developed both electronic and optical devices and associated fabrication process while improving yield and lower cost for several technologies.
+He has a broad range of experience including IBM, Draper Lab, Honeywell, Loral, Nantero and Lockheed Martin. Mr. Egerton holds a bachelor degree in physics from the Evergreen State College, a Masters in Government and Management from Harvard University and an Advanced Diploma in Entrepreneurship from the University of Cambridge. He also attended Stanford University studying electronic device design and processing and sustainable energy conversion and storage. Mr. Egerton is co-inventor on 4 patents and five pending patents. He has authored and co-authored twenty two publications in technologies that can be applied to photovoltaic cells.
+Dr. Roger Welser, CTORenewable
+Economical
+Scalable
+Environmentally safe
+Career Opportunity
+ strives to assemble a diverse and talented group of associates. Periodically, we look for high caliber scientists, engineers, managers and technicians with research and development experience in the area of semiconductor, nanotechnology, and cell product development. We are looking for technical knowledge in materials science, semiconductor, semiconductor materials processing, physics & chemistry, module integration and packaging engineering. Experience with standard processing tools, materials growth techniques, device fabrication & testing etc. are considered as essential requirements. To find more information about a job opportunity with us please 
+contact us
+US
+Solar, Inc.
+Inc.Magnolia's Quest
+is working in several directions to help drive the cost of power down to achieve parity with power delivered by the electricity grid. In pursuing this quest, we use revolutionary photovoltaic cell device designs and methods of manufacturing.
+There are wide disparities in the consumption of electric power among the countries of the world. In the United States we consume about 12,900 kilo-Watt-hour (kWh) electricity per capita annually. In contrast, that number is about 2,175 kWh in China and about 465 kWh in India. As we pursue grid parity in photovoltaic technology, we seek to help provide electricity to the about two billion people in the world who do not have access to electric power at present with a viable alternative. Our quest is help reduce these wide disparities in electricity consumption.
+We believe that as disparity in electricity consumption is reduced, increases in power consumption will help improve economic life for people who have no or limited access to electric power.
+We seek to be a part of the many forces in the world that are working towards improving economic life in the developing parts of the world. We aim to help accomplish this goal while reducing dependence on fossil fuels and helping to reduce carbon emissions by providing a low-cost, high efficiency modular source of electric power that is at par with what the cost for electricity is in most of the developed world.
+In addition to developing economically viable commercial products, is also seeking to develop cell products for military ground forces, avionics and space systems.
+US
+Albany , 12203
+(518) 618-4200 (PHONE)
+(518) 514-1200 (FAX)About Solar, Inc. strives to develop and produce low cost, high efficiency, thin film cell modules.      Our goal is to make strong impact towards green technology.
+Advantage
+Magnolia´s thin film cells offer      - substantially lower cost than crystalline cells,      use less expensive materials, significant gains in efficiency vs.      other thin film cells and modules by application of proprietary nano/micro technologies;      and, has the potential for lowest cost/watt technology.
+At Solar, Inc. our main priority is to provide customers and business partners with unparalleled & D, product development, manufacturing strategy and new generation products in cell industry. Our cell solutions address three primary goals:
+Efficiency - employs multiple approaches using nano/micro materials processes and a proprietary composite design to a broader spectrum of light energy.
+Cost - Unlike high cost multi-layer triple junction cell design, technology uses a proprietary inexpensive materials and process to reduce cost per unit power.
+Manufacturing - Our solutions are developed to enable scalable manufacturing strategy at lower cost per unit.
+Corporate
+Our leadership, business model and technology defines our success.      We strive to assemble a diverse and talented group of associates to drive our business in a thriving cell industry.      leadership is committed to green revolution. Our approach focuses on overall efficiency to deliver renewable, economical, scalable and environmentally safe technology.      management is guided by the Company's core values of care, integrity, teamwork, commitment and excellence.
+has a well defined strategic approach that includes:
+Seasoned executive management and technical team
+Extensive industrial experience with advanced degrees
+Key technology development funded by federal government agencies such as DARPA, DoD, and NASA
+& base in Micro and Nano technology for cell
+robust network of technology partners
+US
+Albany , 12203
+(518) 618-4200 (PHONE)
+(518) 514-1200 (FAX)Magnolia's Values
+management is guided by the Company's core values of care, integrity, teamwork, commitment and excellence.
+Care - We care for the benefit and security of everyone associated with our business operations, we keep an open and transparent chain of communication with employees, customers, partners and suppliers. We empower our people by cultivating a positive environment through support, rewards and recognition. We take time to ensure support and growth of our community and protect the environment.
+Integrity - Our business operation and staff integrity is very important to us. We take pride in our services to customers by providing honest, trustworthy and professional advice and value added products, while keeping the overall cost and carbon foot-print manageable.
+Teamwork - We believe in teamwork. Achieving energy independence is a cooperative teamwork between our employees, partners and suppliers; and above all we treat our customers as part of our team to synergistically offer most value for the price.
+Commitment - The possibility of achieving energy independence depends on one thing - commitment. is committed to deliver the promise of green technology through innovation in new generation cells and other future energy devices first for our nation and finally for the world. We realize that we have a role to play in the green revolution and we are fully committed to play that role towards the energy reclamation for the long-term.
+Excellence - To be more competitive and successful we believe in excellence. We take pride in our work and our staff. We strive to find ways for excellence by defining better protocols, standards of operation, safety, quality and constantly creating a learning environment that adheres to our core values and best business practices.
+We Believe in:
+Responsibility to offer better life for the future generation
+Protecting our natural resources
+Mother nature offers ample energy to harvest from
+Albany , 12203
+(518) 618-4200 (PHONE)
+(518) 514-1200 (FAX)Magnolia's Vision
+By one estimate, some two billion people at present have no access to electricity. Our vision is to deploy power everywhere, since many of those without electricity are not connected to the power grid. Of all the sources of electricity, power is the
+only modularly scalable power source. Traditional sources of electricity such as hydro, coal, nuclear, and natural gas require setting up a plant that connects to the supply grid. Even wind energy farms have to be centralized to generate several hundred megawatt power to be cost effective. In comparison, power can be an effective source of electricity for projects that require from a few kilowatts electricity to several hundred megawatt power. The scalability of the electric power makes it the unique technology to deploy wherever there is no grid or when large electricity generation is needed to supplement output of a power plant to meet electricity requirements during the peak demand hours.
+plans to become a major supplier of power by serving both commercial and defense market. By supplying high efficiency, low cost panels, we expect development of applications that will help sustain life in areas with no grid. There are several applications that can benefit this decentralized power market. These applications include power to extend hours of economic activity, access to telecommunications, preservation of medical supplies, and improvement in night-time security. For the defense markets, is developing its technology of flexible substrates so that the power modules can be packed and stowed when not in use. Our vision is to provide a portable source for our soldiers to recharge batteries for electronic gear while on filed missions away from a base.
+is developing its technology in the New York's Capital Region and plans to establish its first manufacturing facilities in this area to create high-paying technical jobs in the United States. Based on recent developments in the photovoltaic market, while many silicon crystal technology based manufacturers have moved overseas to use cheap labor, companies using thin-film technologies have continued to sustain operations in the By adding high value in its product, expects that it will create high paying jobs in the while competing effectively with foreign manufacturers.
+Many state governments or agencies have established aggressive goals to use renewable energy to meet a portion of their electricity requirement. For example, New York has established an aggressive goal commonly referred to as 30x15, which aims to acquire 30 percent of its electricity requirements from renewable sources. By providing a domestic source of cost-effective power, Magnolia's vision is to help state and federal governments meet their targets of renewable energy deployment while creating high-paying jobs in the United States.
+US
+Albany , 12203
+(518) 618-4200 (PHONE)
+(518) 514-1200 (FAX)is a Delaware Corporation incorporated in January 2008. The Company was formed with a vision to realize and participate in the green energy revolution of America. The founders of understand the success, security and bright future of our nation relies in the energy independence. To fulfill the promise of green technology, has assembled a world-class management team to implement its product and business strategies. The Company's & team has demonstrated experience in conducting state-of-the-art research to determine technology trends and then develop products to meet that demand, significantly ahead of the competition. The founder and have substantial experience in successfully introducing new technology in a robust market. The Company is working to protect its intellectual property and adding key technical personnel to validate and commercialize new generation of cell technologies.
+Solar's mission is to commercialize its nanotechnology-based, high efficiency, thin film technology that can be deposited on glass and other flexible structures. This technology has the ability to capture a larger part of the spectrum to produce high efficiency cells, and incorporates very unique nanostructure-based antireflection coating technology to further increase the cell's efficiency thereby reducing the cost per watt. The Company's goal is to increase its cell efficiency from the present thin film cells of 8%-10% to those rivaling crystalline silicon based cells at substantially lower cost.
+Albany , 12203
+(518) 618-4200 (PHONE)
+(518) 514-1200 (FAX)Albany , 12203
+(518) 618-4200 (PHONE)
+(518) 514-1200 (FAX)
+128 North (also 95 North)
+Take Exit 36 for Washington Street. Stay in right lane taking a right at lights at end of the ramp onto Washington Street. Get in left lane and go through adjoing traffic light and take first driveway on left into Cummings Park office complex and proceed toward rear of complex to left end of second large office building. Enter door marked "52 A-D".
+128 South (also 95 South)
+On I-95 South (also 128 South) take the exit (Exit 36) for Washington Street. Stay in right lane taking a right at end of the ramp and proceed up the hill to traffic lights. Take a right onto Washington Street. Get in left lane and go through two adjoining sets of lights and take first driveway on left into Cummings Park office complex and proceed toward rear of complex to left end of second large office building. Enter door marked "52 A-D".
+From 93 North
+Take Exit for I-95 South (also 128 South). On I-95 South (also 128 South) take the first exit (Exit 36) for Washington Street. Stay in right lane taking a right at end of the ramp and proceed up the hill to traffic lights. Take a right onto Washington Street. Get in left lane and go through two adjoining sets of lights and take first driveway on left into Cummings Park office complex and proceed toward rear of complex to left end of second large office building. Enter door marked "52 A-D".
+From 93 South
+Take Exit for I-95 South (also 128 South). On I-95 South (also 128 South) take the first exit (Exit 36) for Washington Street and follow the directions as above.
+Please fill out the form * Required Field
+*  Name:  
+   Company:  
+*  E-mail:  
+*  Confirm  
+E-mail:  Magnolia's Approach
+We combine best business practices and nanotechnology: The key to our long-term strategy is the people we work with. We hire the best technical talent we can find and encourage them to explore and innovate. Our employees are working with some of the world-renowned experts in nanotechnologies of interest to us. This team is working to develop several nanotechnology applications that have the promise to significantly enhance the efficiency of thin-film cells and lead to one of the lowest costs in the industry.
+We keep capital cost low by leveraging existing facilities, rather than use investor funds: established its research office in the College of Nanoscale Science and Engineering's (CNSE)
+Nanotech Center in the State University of New York, Albany, New York and in Rensselear Polytechnic Institute in Troy, New York. Collectively, this gives us access to about $6 billion in capital resources. By using these facilities for the development of our technology, we are deferring the expenditure of capital costs until our technology and the manufacturing process is well defined. This approach avoids the pitfall of spending investor funds on capital equipment which may not prove to be the most effective approach for manufacturing and significantly reduces the technology risk inherent in any developmental effort.
+We use government grants for product development: Our highly talented team has been very successful at attracting grant funding from the state and federal government. We have already announced several awards that have has received. This government funding has supported most of the thin-film cell developmental effort so far. continues to seek new opportunities to access grant funds from various governmental agencies.
+We have highly talented employees and members of the technical advisory board: Solar's team is highly talented. About 80 percent of our technical employees have doctoral degrees in their fields, are experts in Nanoscale materials technologies, are industry veterans with an average of over ten years of experience in technologies related to the development of thin-film cells, and have previously received funding from the government for technology development.
+US
+Albany , 12203
+(518) 618-4200 (PHONE)
+(518) 514-1200 (FAX)will pursue specific, definable, market segments with a multi-tiered, multi-channel approach. We will leverage our technologies with a licensing agreement in one key area and a direct sales and distribution strategy in the other using established distributors. We will look to foreign markets in the future through established distributors for additional revenue. Our proven nanotechnology approach offers significant innovation to revolutionize technology.
+Our competitive edge lies with our technology and our philosophy. Our technology is designed to improve cell efficiency at significantly lower cost.  We believe in customer satisfaction and quality assurance. Through years of research and experience we have developed energy solutions that are more cost effective and will make broad integration cheaper and easier than ever. In addition, we aim to provide technology to pave the way to achieve green energy for our nation and increase employment in the New York and Boston area. Our company will strive to provide disruptive products through proprietary nanotechnology.
+We believe that the enormous task of energy independence will be a cooperative endeavor. Therefore, our strategy includes partnership with other companies, universities and government agencies.
+Our Strategy:
+Develop our international reach and presence
+Establish strategic global capabilities
+Add value by creating new strategic market positions
+Albany , 12203
+(518) 618-4200 (PHONE)
+(518) 514-1200 (FAX)has developed a number of revolutionary new thin film cell technologies that employ nanostructured materials and designs.  Magnolia's transformational approach to thin film cells is based upon breakthrough discoveries in nanostructured cell designs and optical coatings engineering.
+has developed anti-reflective coatings that are far superior to what is being used in the industry today. Most cells suffer from a reduction of efficiency due to reflection of some of the incident sun light away from the cell. The energy in the reflected light is not converted to electric power and the loss of this power affects the efficiency of the cell. Our anti-reflection technology reduces the loss of power due to reflection of negligible levels, thereby allowing more sun light to be absorbed for a higher efficiency.
+The engineering employed in our technology is designed to increase the photovoltaic operating voltage while capturing a larger part of the spectrum,
+and the unique nanostructure-based optical coatings to minimize reflection losses which enhances the light trapping within the photovoltaic devices. Our design uses nanostructure to horizontally scatter light that enters the cell to substantially increase the travel path of the light. This innovation addresses another shortcoming of the traditional cells where the travel path, particularly in thin-film cells, is small and therefore all the energy that enters the cell is not converted to electric power.
+With this approach, is aiming to dramatically enhance the power-generating capability of photovoltaic systems by developing low cost, thin film technology that delivers unprecedented levels of electrical energy per unit area. has filed several patent applications for its revolutionary photovoltaic cell device designs and methods of manufacturing.  The technologies related to these patent filings address the fundamental performance limitations in existing thin film cells. These technologies result in higher electric conversion efficiency by increasing both the voltage and current output of thin film cells
+US
+Albany , 12203
+(518) 618-4200 (PHONE)
+(518) 514-1200 (FAX)Research > Cells
+Solar, Inc. technology is looking into unconventional cell designs. The new design is achieved by the use of our vast experience in nanotechnology.       Historically, crystalline silicon (c-Si) has been used as the light-absorbing semiconductor in most cells, even though it is a relatively poor absorber of light and requires a considerable thickness (several hundred microns) of material. Nevertheless, it has proved convenient because it yields stable cells with good efficiencies (11-16%, half to two-thirds of the theoretical maximum) and uses process technology developed from the huge knowledge base of the microelectronics industry.
+Various Technologies
+Nanostructure Cells
+Technology Notes"Magnolia's" innovation enhances quantum effects in nanostructures for higher efficiency cells.
+Current power technology has little chance to compete with fossil fuels or large electric grids. Today's cells are simply not efficient enough and are currently too expensive to manufacture for large-scale electricity generation. However, potential advancements in nanotechnology may open the door to the production of cheaper and more efficient cells.
+Photovoltaics is the diode action in a cell for generating electricity from light and today it is fast becoming an important product to meet the goals of green revolution. Presently the cell market is dominated by wafer based crystalline Si cells. Unfortunately, single crystal cells are very costly. Further these cells are simply not efficient enough and are currently difficult and expensive for large-scale electricity generation. Attempts are being made to reduce the cost by using thinner thin-film process with higher conversion efficiency. In the course of developing thin-film technology researchers have stumbled upon the opportunity of using nanotechnology. Nanotechnology is expected to will play an important role in the future to increase efficiency and significantly lower cost.
+Nanotechnology is considered as the key for materials innovation and technological progress in almost all branches of engineering. Nanotechnology offers the long desired cross-cutting technologies that hold the secrets for decisive technological breakthroughs in the energy sector, particularly for cells, thus making significant contributions to sustainable energy supply towards the green revolution.
+Nanotechnology applications have demonstrated surprising results in many fields of medicine and electronics by showing cost-effective and efficient technology solutions. research shows the most promising and cost effective solutions towards the development of very high efficiency cells.
+Technology NotesRenewable
+Economical
+Scalable
+Environmentally safe
+Company Overview
+Video Description:About Solar, Inc. strives to develop and produce low cost, high efficiency, thin film cell modules.      Our goal is to make strong impact towards green technology.
+Advantage
+Magnolia´s thin film cells offer      - substantially lower cost than crystalline cells,      use less expensive materials, significant gains in efficiency vs.      other thin film cells and modules by application of proprietary nano/micro technologies;      and, has the potential for lowest cost/watt technology.
+At Solar, Inc. our main priority is to provide customers and business partners with unparalleled & D, product development, manufacturing strategy and new generation products in cell industry. Our cell solutions address three primary goals:
+Efficiency - employs multiple approaches using nano/micro materials processes and a proprietary composite design to a broader spectrum of light energy.
+Cost - Unlike high cost multi-layer triple junction cell design, technology uses a proprietary inexpensive materials and process to reduce cost per unit power.
+Manufacturing - Our solutions are developed to enable scalable manufacturing strategy at lower cost per unit.
+Corporate
+Our leadership, business model and technology defines our success.      We strive to assemble a diverse and talented group of associates to drive our business in a thriving cell industry.      leadership is committed to green revolution. Our approach focuses on overall efficiency to deliver renewable, economical, scalable and environmentally safe technology.      management is guided by the Company's core values of care, integrity, teamwork, commitment and excellence.
+has a well defined strategic approach that includes:
+Seasoned executive management and technical team
+Extensive industrial experience with advanced degrees
+Key technology development funded by federal government agencies such as DARPA, DoD, and NASA
+& base in Micro and Nano technology for cell
+robust network of technology partners
+US
+Albany , 12203
+(518) 618-4200 (PHONE)
+(518) 514-1200 (FAX)Albany , 12203
+(518) 618-4200 (PHONE)
+(518) 514-1200 (FAX)
+128 North (also 95 North)
+Take Exit 36 for Washington Street. Stay in right lane taking a right at lights at end of the ramp onto Washington Street. Get in left lane and go through adjoing traffic light and take first driveway on left into Cummings Park office complex and proceed toward rear of complex to left end of second large office building. Enter door marked "52 A-D".
+128 South (also 95 South)
+On I-95 South (also 128 South) take the exit (Exit 36) for Washington Street. Stay in right lane taking a right at end of the ramp and proceed up the hill to traffic lights. Take a right onto Washington Street. Get in left lane and go through two adjoining sets of lights and take first driveway on left into Cummings Park office complex and proceed toward rear of complex to left end of second large office building. Enter door marked "52 A-D".
+From 93 North
+Take Exit for I-95 South (also 128 South). On I-95 South (also 128 South) take the first exit (Exit 36) for Washington Street. Stay in right lane taking a right at end of the ramp and proceed up the hill to traffic lights. Take a right onto Washington Street. Get in left lane and go through two adjoining sets of lights and take first driveway on left into Cummings Park office complex and proceed toward rear of complex to left end of second large office building. Enter door marked "52 A-D".
+From 93 South
+Take Exit for I-95 South (also 128 South). On I-95 South (also 128 South) take the first exit (Exit 36) for Washington Street and follow the directions as above.
+Please fill out the form * Required Field
+*  Name:  
+   Company:  
+*  E-mail:  
+*  Confirm  
+E-mail:  

@@ -1,0 +1,37 @@
+Press F1 for help, anywhere in the system
+User name:
+There's a problem with your browser software.
+Your browser doesn't accept session cookies. (These are a special type of cookie which are destroyed once     you close your browser, and therefore do not affect your privacy.)
+This is almost certainly because the "Privacy" settings in your browser are at very high levels.     (However, it could also be because you are using firewall or privacy software which destroys cookies     regardless of your browser's settings.)
+To use this site you need to change Internet Explorer's settings so that it accepts session      cookies. The steps are as follows:
+Select the Tools menu
+Select the "Internet zone"
+Or...
+Click on the "Advanced" button
+Select "Override automatic cookie handling"
+Select "Always allow session cookies"
+After that, please click here to try reloading the page, or use the      Refresh button on your browser toolbar.
+Your browser software does not seem to include some features needed by this web site.     It does not implement one or more of the elements of Javascript which this site needs.     Supported browsers are as follows (plus all later versions):
+Internet Explorer (Windows) 6.0+
+Mozilla 1.6+
+Firefox 1.0+
+Netscape 6.0+
+Safari 2.0+
+If your browser is on the above list then it may mean that its "Security" or     "Privacy" settings are set to very high levels - far higher than is needed to browse this      site in safety.
+Browsers which are not currently supported, because of their lack of features, include     Konqueror, Opera, and Internet Explorer 5.0.
+Your browser software does not seem to include some features needed by this web site (XMLHTTP).      Supported browsers are as follows (plus all later versions):
+Internet Explorer (Windows) 6.0+
+Mozilla 1.6+
+Firefox 1.0+
+Netscape 6.0+
+Safari 2.0+
+If your browser is on the above list then it probably means that its "Security" or      "Privacy" settings are set to very high levels - far higher than is needed to browse this       site in safety.
+Browsers which are not currently supported, because of their lack of features, include      Konqueror.
+To use this site you need to change Internet Explorer's settings so that it can      create XmlHttp connections. The steps are as follows:
+Select the Tools menu
+Select the "Internet zone"
+Either...
+Click on the "Default level" button and then click on OK
+Or...
+Scroll down the list to "Run Activecontrols and plug-ins"
+Change the setting to either "Enable" or "Prompt"
