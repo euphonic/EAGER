@@ -1,6 +1,7 @@
 import csv
 import re
-import numpy as np
+
+# windows version
 
 f_in = open('data\\orgs\\tmp_cleaning\\from-v5.csv')
 csv_in = csv.reader(f_in)
