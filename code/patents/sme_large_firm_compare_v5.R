@@ -195,6 +195,7 @@ cor.test(g1.df$count.p.id., g1.df$about_exact.count, alternative="two.sided", me
 # merge in website data (measures for all pages)
 nrow(setdiff(in.eager_assignee$lookup_firm, in.web_pages_all$firm_name))
 web_emps <- in.eager_assignee %>%  inner_join(in.web_pages_all, by = c("lookup_firm" = "firm_name"))
+nrow(web_emps)
 setdiff(patents_web_emps$lookup_firm, in.pat_all$organization_clnd)
 
 head (in.web_pages_all)
