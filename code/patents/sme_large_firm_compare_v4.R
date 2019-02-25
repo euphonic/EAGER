@@ -24,11 +24,12 @@ in.pat_all <- read.csv("patents_overall.csv", header = TRUE, stringsAsFactors = 
 in.ass_first_year <- read.csv("assignees_first-year.csv", header = TRUE, stringsAsFactors = FALSE)
 in.lookup <- read.csv("assignee-2-patent-lookup.csv", header = TRUE, stringsAsFactors = FALSE) 
 
-in.eager_assignee <- read.csv("..//..//orgs//emps//eager_emps.csv", header = TRUE, stringsAsFactors = FALSE) 
+in.eager_assignee <- read.csv("..//..//orgs//emps//eager_emps_v2.csv", header = TRUE, stringsAsFactors = FALSE) 
 in.eager_assignee$max_emps <- as.numeric(gsub(",", "", in.eager_assignee$max_emps))
 in.eager_assignee$sme <- 1
 colnames (in.eager_assignee)
 nrow(in.eager_assignee)
+nrow(in.eager_assignee[in.eager_assignee$size_state == 'FirmSize.UNDEFINED',]) # == 42
 in.eager_assignee <- in.eager_assignee[in.eager_assignee$size_state != 'FirmSize.UNDEFINED',]
 nrow(in.eager_assignee)
 in.eager_assignee[which(in.eager_assignee$size_state == 'FirmSize.LARGE_FIRM'), 21] <- 0
@@ -100,13 +101,15 @@ firm_about_page_measures = in.web_pages %>% group_by(firm_name)  %>%
 
 # merge in website data (just about page measures)
 head (firm_about_page_measures)
-patents_web_emps <- in.pat_all %>% inner_join(in.eager_assignee, by = c("organization_clnd" = "lookup_firm")) %>% 
-  inner_join(in.web_pages_all, by = c("organization_clnd" = "firm_name"))
-# patents_about_emps <- in.pat_all %>% inner_join(in.eager_assignee, by = c("organization_clnd" = "lookup_firm")) %>% 
-#  inner_join(in.web_pages, by = c("organization_clnd" = "firm_name"))
+nrow(setdiff(in.eager_assignee$lookup_firm, in.web_pages_all$firm_name))
+web_emps <- in.eager_assignee %>%  inner_join(in.web_pages_all, by = c("lookup_firm" = "firm_name"))
+setdiff(patents_web_emps$lookup_firm, in.pat_all$organization_clnd)
 
-nrow(patents_web_emps)
+patents_web_emps <- in.pat_all %>% inner_join(in.eager_assignee, by = c("organization_clnd" = "lookup_firm")) %>% 
+  inner_join(in.web_pages, by = c("organization_clnd" = "firm_name"))
+nrow (patents_web_emps)
 View(patents_web_emps)
+
 #--------------
 # Create Theme
 #--------------
@@ -192,14 +195,15 @@ cor.test(g1.df$count.p.id., g1.df$about_exact.count, alternative="two.sided", me
 head (in.web_pages_all)
 patents_web_emps_all <- in.pat_all %>% inner_join(in.eager_assignee, by = c("organization_clnd" = "lookup_firm")) %>% 
   inner_join(in.web_pages_all, by = c("organization_clnd" = "firm_name"))
+nrow(patents_web_emps_all)
 
 g2.df <- patents_web_emps_all %>% arrange(max_emps) %>% as.data.frame()
 head (g2.df)
-nrow (g2.df)
-g2.a <- ggplot(data=g2.df, aes(x=max_emps, y=num_pages)) +
-  geom_point(alpha=.4, size=4, color="#0037ff") +
-  labs(x="Employees", y="Number ofpages\nat depth of 1") +
-  scale_x_continuous(labels=comma, limits=c(0,40000)) +
+View(g2.df)
+g2.a <- ggplot(data=g2.df[g2.df$sme ==1, ], aes(x=max_emps, y=num_pages)) +
+  geom_point(alpha=.4, size=2, color="#0037ff") +
+  labs(x="Employees", y="Number of pages\nat depth of 1") +
+  scale_x_continuous(labels=comma, limits=c(0,500)) +
   scale_y_continuous(limits=c(0,400), breaks=seq(0,400,by=100)) +
   geom_smooth(method = "lm") +
   theme.eager_chart_SCATTER

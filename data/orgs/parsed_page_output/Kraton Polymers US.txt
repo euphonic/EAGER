@@ -1,322 +1,1352 @@
-Healthcare Professionals
-Hospital Providers
-Ambulatory Surgery Centers
-Patients
-News & Press
-Contact Us
-MORE:
-Careers - Johnson & Johnson
-Privacy Policy
-Legal Notice
-US:
-Facebook
-Twitter
-LinkedIn
-YouTube
-Contact Us
- Select your country
-Home
-About DePuy Synthes
-News and Press
+This website uses cookies
+We use cookies as set out in our Privacy Statement . You consent to our cookies if you continue to use our website.
+Unclassified (6)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+kraton.com
+Stores the user's cookie consent state for the current domain
+1 year
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+s_cc
+adobe.com
+Session
+HTTP
+s_fid
+adobe.com
+Saves the current Flash version that is available in the user's browser.
+5 years
+HTTP
+s_vi
+adobe.com
+Registers a unique that identifies the user's device for return visits.
+2 years
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+__utm.gif
+google-analytics.com
+Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+Session
+Pixel
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+__utma
+kraton.com
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+2 years
+HTTP
+__utmb
+kraton.com
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+1 day
+HTTP
+__utmc
+kraton.com
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Session
+HTTP
+__utmt
+kraton.com
+Used to throttle the speed of requests to the server.
+1 day
+HTTP
+__utmz
+kraton.com
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+6 months
+HTTP
+p.gif
+typekit.net
+Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+mbox
+adobe.com
+This cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency.
+1 day
+HTTP
+ads/ga-audiences
+google.com
+Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+Session
+Pixel
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+sat_domain
+adobe.com
+Pending
+HTTP
+visitor_type
+careerarc.com
+Pending
+Session
+HTTP
+sjSE
+kraton.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 24/01/2019 by Cookiebot
 Toggle navigation
-DePuy Synthes
-Home
-About DePuy Synthes
-News and Press
-DePuy Synthes
-Overview
-Overview
-Neuro
-(Craniomaxillofacial)
-Joint Reconstruction (Knee, Hip & Shoulder)
-Mitek Sports Medicine
-Power Tools
-Spine
-Trauma
-Corporate Info
-What We Believe
-Our History
-Social Responsibility
-Principles of Collaboration
-Open Payments
-Transparency
-DePuy Synthes Global Code of Conduct
-California Compliance Notice
-Funding Requests
-Funding Requests
-Education Grants
-Fellowships
-Charitable Contributions
-Exhibits and Commercial Sponsorships
-Investigator Initiated Research
-Recall
-News and Press
-Careers
-Our Latest News
-10/16/2018
-DePuy Synthes Announces Agreement with Ortho Development® Corporation to Promote its KASM® Knee Articulating Spacer Mold 
-16, 2018 Warsaw, – Johnson & Johnson Medical Devices Companies* today announced that DePuy Synthes Sales, Inc. has entered into an exclusive agreement with Ortho Development® Corporation to co-promote in the its KASM® Knee Articulating Spacer Mold. This is a sterile, disposable cement spacer mold for patients who develop an infection after primary knee replacement. This new offering builds upon DePuy Synthes’** commitment to innovative knee solutions focused on helping patients along the care continuum.
-09/26/2018
-DePuy Synthes Expands Spine Portfolio with Nerve Assessment Platform  Designed to Identify & Avoid Nerves During Spine Surgery 
-Los Angeles – September 26, 2018 – Johnson & Johnson Medical Devices Companies* announced today that DePuy Synthes** is introducing MMG, a first-of-its-kind digital mechanomyography platform designed to assess nerve status and identify and avoid peripheral nerves during spine surgery. enables motor nerve monitoring for a variety of spine procedures, including non-fusion procedures such as discectomy and both minimally invasive (MIS) and open spinal fusion surgery.  is being broadly introduced at the 2018 North America Spine Society Meeting in Los Angeles, California. 
-09/12/2018
-Johnson & Johnson Medical GmbAcquires Emerging Implant Technologies Gmbto Enhance Global Offering of Interbody Spine Implants
-Norderstedt, Germany – September 12, 2018 – Johnson & Johnson Medical Devices Companies*, through its subsidiary Johnson & Johnson Medical GmbH, announced today the acquisition of Emerging Implant Technologies Gmb(EIT), a privately held manufacturer of 3D-printed titanium interbody implants for spinal fusion surgery, based in Wurmlingen, Germany. The products in this portfolio leverage EIT’s proprietary advanced cellular titanium, which consists of an open and interconnected porous structure designed to allow bone to grow into the implant. As industry leaders across the full range of orthopaedic and spine specialties, Johnson & Johnson Medical Devices Companies will leverage its global commercial infrastructure to bring EIT’s technologies to patients around the world. 
-08/20/2018
-New National Survey Uncovers the Surprising Impact that Knee and Hip Pain Has on Women’s Emotional Well-Being
-WARSAW, Ind. – August 20, 2018 – While many who suffer from knee or hip pain know that it impacts their everyday activities, results from a new survey show the significant emotional impact of joint pain. This includes impact on romantic and social relationships, ability to pursue hobbies and overall mood. The survey of more than 500 women ages 45-65, including those who have had joint replacement surgery and those planning to have joint replacement surgery, revealed: 
-07/26/2018
-DePuy Synthes Launches Expandable Interbody Implant as Part of a New Procedural Solution for Minimally Invasive Spine Surgery (MIS) that Enhances Surgical Efficiency
-Raynham, – July 26, 2018 – Johnson & Johnson Medical Devices Companies* today announced 
-that DePuy Synthes** is launching the Expandable Interbody Device in the 
-The Implant is designed to treat patients suffering from degenerative disc disease as part of the new offering called (Transforaminal Lumbar Interbody Fusion) Procedural Solution. The complete system includes a comprehensive set of solutions to help simplify key stages of this surgery by enhancing surgical efficiency.
-06/20/2018
-New Suture from DePuy Synthes Designed to Help Address Challenges Associated with Rotator Cuff Surgery
-20, 2018 San Diego, – Johnson & Johnson Medical Devices Companies* through the DePuy Synthes** franchise today announces the launch of Suture to repair soft tissue such as the rotator cuff in the shoulder. Part of the DePuy Synthes Mitek Sports Medicine portfolio, Suture is available on Anchors and adds to DePuy Synthes’ innovative solutions designed to help address unmet patient needs in soft tissue repair. Suture was launched today at the San Diego Shoulder Institute’s 35th Annual Course. 
-Search News & Press
-Search
-Company:
-All Companies
-All Divisions
-Codman & Shurtleff, Inc.
-Corporate Information
-DePuy Mitek, Inc.
-DePuy Orthopaedics, Inc.
-DePuy Spine, Inc.
-Healthcare Professionals
-Year:
-All Years
-Go 
-Media Contacts
-All inquiries can be submitted by email to:
-Media Inquiries
-Careers - Johnson & Johnson 
-Contact Us
-Privacy Policy
-Legal Notice
-Site Map
-Ethics Hotline
-Consultant Identification & Payments
-California Compliance Notice
-Transparency
-©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
-Back To Top
-×Healthcare Professionals
-Hospital Providers
-Ambulatory Surgery Centers
-Patients
-News & Press
-Contact Us
-MORE:
-Careers - Johnson & Johnson
-Privacy Policy
-Legal Notice
-US:
-Facebook
-Twitter
-LinkedIn
-YouTube
-Contact Us
- Select your country
-Home
-About DePuy Synthes
-Corporate Info
-California Compliance Notice
+Tread Enhancement Technology,
+Laying stronger
+For the adhesives industry,sustainability is becoming an essential value proposition. Increasing consumer demand and regulations have contributed to the growth of sustainable initiatives globally....
+Pioneer Honored by Polymer Modified Asphalt Paving Industry
+– January 21, 2019 Corporation (NYSE: KRA), a leading global producer of styrenic block copolymers, specialty and high-value performance products derived from pine wood pulping co-products, announces that Willem Vonk – a employee of 48 years and a modified asphalt pioneer – will be honored by the Association of Modified Asphalt Producers (AMAP).
+Special treats were in store for the record-breaking 992 attendees at the 2018 Automotive Engineered Polyolefins Conference in Troy, Mich., to celebrate the event’s 20th anniversary. Attendees from around the globe gathered Oct. 7 to 10 to discuss the latest automotive innovations in thermoplastic polyolefins (TPOs), thermoplastic elastomers (TPEs), thermoplastic vulcanizates (TPVs), and short- and long-glass polypropylene (PP) ompounds.
+develops, manufactures and markets biobased chemicals and specialty that deliver exceptional value and enhance the lives of people all over the world.This website uses cookies
+We use cookies as set out in our Privacy Statement . You consent to our cookies if you continue to use our website.
+Unclassified (6)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+kraton.com
+Stores the user's cookie consent state for the current domain
+1 year
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+s_cc
+adobe.com
+Session
+HTTP
+s_fid
+adobe.com
+Saves the current Flash version that is available in the user's browser.
+5 years
+HTTP
+s_vi
+adobe.com
+Registers a unique that identifies the user's device for return visits.
+2 years
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+__utm.gif
+google-analytics.com
+Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+Session
+Pixel
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+__utma
+kraton.com
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+2 years
+HTTP
+__utmb
+kraton.com
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+1 day
+HTTP
+__utmc
+kraton.com
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Session
+HTTP
+__utmt
+kraton.com
+Used to throttle the speed of requests to the server.
+1 day
+HTTP
+__utmz
+kraton.com
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+6 months
+HTTP
+p.gif
+typekit.net
+Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+mbox
+adobe.com
+This cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency.
+1 day
+HTTP
+ads/ga-audiences
+google.com
+Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+Session
+Pixel
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+sat_domain
+adobe.com
+Pending
+HTTP
+visitor_type
+careerarc.com
+Pending
+Session
+HTTP
+sjSE
+kraton.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 24/01/2019 by Cookiebot
 Toggle navigation
-DePuy Synthes
-Home
-About DePuy Synthes
-Corporate Info
-California Compliance Notice
-DePuy Synthes
-Overview
-Overview
-Neuro
-(Craniomaxillofacial)
-Joint Reconstruction (Knee, Hip & Shoulder)
-Mitek Sports Medicine
-Power Tools
-Spine
-Trauma
-Corporate Info
-What We Believe
-Our History
-Social Responsibility
-Principles of Collaboration
-Open Payments
-Transparency
-DePuy Synthes Global Code of Conduct
-California Compliance Notice
-Funding Requests
-Funding Requests
-Education Grants
-Fellowships
-Charitable Contributions
-Exhibits and Commercial Sponsorships
-Investigator Initiated Research
-Recall
-News and Press
-Careers
-DePuy Synthes Companies California Compliance
-NOTICE: this information is provided pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765), which requires certain pharmaceutical and medical device companies doing business in California to make available their program for compliance with applicable federal and state laws and industry standards regulating the marketing and promotion of their products
-
-INTRODUCTION
-The Operating Companies of DePuy Synthes, under the legal entity DePuy Orthopaedics, Inc., (the "Company") have established a program designed to materially comply with applicable federal and state laws and industry standards relating to the marketing and promotion of its products. Additionally, the Company recognizes that adherence to these standards can be furthered through a compliance program that is informed by the Compliance Program Guidance for Pharmaceutical Manufacturers, published by the Office of Inspector General of the Department of Health and Human Services (the "Guide"). The Guide advises that effective compliance programs are comprised of seven elements. As described below, these elements form the basis of the Company's program for compliance with the standards regulating the marketing and promotion of its products.
-II.
- Overview of Compliance Program
-1. Written Policies and Procedures
-The Company has written policies to assure substantial compliance with the applicable laws and regulations and standards governing the marketing and promotion of our products. Among these standards are recognized industry codes of conduct including the Code of Ethics on Interactions with Health Care Professionals (AdvaMed Code), published by the Advanced Medical Technology Association ("AdvaMed"). The Company has established written policies that govern activities involving communicating with customers about the appropriate use of our products including appropriate instruction, education, training, service and technical support required for the safe and effective use of our products. The Company also has policies governing activities involving the advancement of scientific and educational activities supporting medical research and education. These policies include:
-Policies on Educational Grants and Research Grants
-The Company may provide grants for specific educational purposes that benefit patients and customers. These may include, but are not limited to, continuing medical and paraprofessional education programs, fellowships provided to teaching institutions and similar organizations with a demonstrated commitment to scientific and technical education, and programs operated by organizations that provide high-quality, nationally recognized patient education. Funding of educational programs will generally be provided only to organizations and institutions and not to individual practitioners.
-Research grants to support customer-initiated research may be provided for programs involving research in areas of legitimate interest to the company. All requests are subject to scientific review prior to funding approval.
-Policy on Charitable Contributions and Patient Assistance
-The Company will consider charitable contributions and requests for patient assistance in the areas of children's health, health care education, access to health care and community responsibility, consistent with the Company policies.
-Policy on Travel Expense Reimbursement for CME, Promotional or Product Training Meetings
-The Company will, with very limited exceptions that are in accordance with nationally recognized standards, not reimbfor travel and lodging expenses of attendees at promotional and educational programs.
-The Company may reimbattendees for their reasonable travel and lodging expenses associated with attendance at product training meetings. Product training meetings will be conducted in locations conducive to the exchange of information such as educational or conference settings. Where face-to-face or hands-on customer training is reasonably necessary for the safe and effective use of the Company's medical device products is required, the Company may provide training at company facilities, at independent teaching centers such as medical institutions, or in other appropriate clinical settings.
-Policy on Business Meals
-The Company may occasionally offer a modest meal, consistent with the standards of the AdvaMed Code as part of an educational presentation or a business discussion. Venues that feature entertainment or recreation, and attendance by spouses or guests, are not permitted.
-Policy on the Provision of Educational and Practice-Related Items
-On occasion, the Company representatives may provide items that benefit patients or serve a genuine educational function for Health Care Professionals, consistent with the standards of the AdvaMed Code.
-Total Annual Dollar Limit for Meals and Educational or Practice-related Items 
-Each of the Companies, have established an annual limit of $1,500 for meals and educational items as the aggregate value of the items or activities that may be provided to California health care professionals pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765).
-Policy Prohibiting Entertainment
-It is the policy of the Company not to provide Entertainment (e.g. sporting events, golf outings, concerts, hunting, etc.) to customers.
-2. Assigned Compliance Officer
-The Company has appointed Health Care Compliance Officers. Our Health Care Compliance Officers have been empowered with appropriate authority to exercise independent judgment and has free and unencumbered access to senior management.
-The Company has appointed Health Care Compliance Committees. The committees are comprised of the Company's Health Care Compliance Officers and members of the Company's management team.
-3. Training.
-The Company has an annual Health Care Compliance training process that includes testing and annual certification of appropriate employees. The training covers applicable guidelines governing our compliance program. Employees are also trained on the consequences of failure to comply with the requirements of the company's compliance program.
-4. Communication.
-The Company encourages open and candid discussion between management and employees regarding any compliance concerns. The Company employees are encouraged to report their concerns to their manager, to the Human Resources Department, to the Law Department or to the company's Health Care Compliance Officer.
-5. Auditing and Monitoring. 
-The Company self-assesses and periodically audits its compliance with its policies and procedures.
-6. Enforcement and Disciplinary Guidelines.
-The Company will take disciplinary actions in response to violation of the company's compliance policies or procedures. The Company will conduct a fair and diligent investigation of matters that are brought to the company's attention in order to ensure the consistent application of the company's standards.
-7. Responses To Detected Problems and Actions To Correct IssThe Company requires a prompt and diligent response to potential violations of the company's compliance program, including its standards regulating the marketing and promotion of our products. Actions in response to detected problems may include improving policies, procedures, training, communication and monitoring or may require disciplinary action to prevent future violations.
-For a copy of this California Compliance Program, please call 1-877-889-3636. Provide your name, mailing address and reqthat a copy of the DePuy Synthes California Compliance program be sent to you.
-LAW
-As part of the Company's ongoing efforts in the area of compliance, we have developed a Comprehensive Compliance Program that is designed to comply with applicable federal and state laws and industry standards relating to the marketing and promotion of our products. To our knowledge as of the date of this declaration, the Company is in compliance with our Comprehensive Compliance Program, as described here, and with California Health & Safety Code sections 119400-119402.
-Dated: May 1, 2018
-Careers - Johnson & Johnson 
-Contact Us
-Privacy Policy
-Legal Notice
-Site Map
-Ethics Hotline
-Consultant Identification & Payments
-California Compliance Notice
-Transparency
-©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
-Back To Top
-×Healthcare Professionals
-Hospital Providers
-Ambulatory Surgery Centers
-Patients
-News & Press
-Contact Us
-MORE:
-Careers - Johnson & Johnson
-Privacy Policy
-Legal Notice
-US:
-Facebook
-Twitter
-LinkedIn
-YouTube
-Contact Us
- Select your country
-Home
-About DePuy Synthes
+Who We Are
+develops, manufacture and market biobased chemicals  and specialty polymers. We are the inventor of styrenic block co(SBC) and  a pioneer in pine chemicals. Our products are used in countless industrial,  consumer and medical applications, helping to improve performance, safety and  sustainability.
+Formed from Shell Chemical Company, has since emerged  as a leader in our own right. Through the development of high performance,  sustainable solutions that deliver exceptional value to our customers, we  enable them to make products that enhance the lives of people all over the  world. Today, more than half a century since our signature product was created,  continues to deliver innovations that change the way we live.
+employs approximately 2,000 employees in more than 18  locations across four continents. Our global talent and diverse expertise  enable us to deliver compelling, innovative solutions that make a positive  difference for our customers, in our jobs and to the world.
+To be an admired  Fortune 500 specialty chemical company delivering exceptional value to our  shareholders, customers and employees.
+Our vision sets the stage for us to continue redefining the  specialty chemical industry, just as we did over 50 years ago when we invented  – and the industry. Today, through our unique chemistry and commitment  to R&D, we are addressing market needs from increasing demand for higher  performance to solving health and environmental concerns. We are up to the  challenge as we continue to deliver compelling, innovative solutions that  differentiate our customers, increase value to our shareholders and enrich the  lives of our employees – all of which are essential to our company’s growth.  Because at Kraton, we believe a win-win  strategy is the right way to do business.
+Our Values
+Safety. We value the health of our people and environment.
+Integrity. We are compliant, respectful and ethical.
+Verve. We value talent and passion.
+Relationships. We listen, communicate and collaborate.
+Creativity. We innovate in everything we do.
+Ownership. We make it happen.
+companyThis website uses cookies
+We use cookies as set out in our Privacy Statement . You consent to our cookies if you continue to use our website.
+Unclassified (6)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+kraton.com
+Stores the user's cookie consent state for the current domain
+1 year
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+s_cc
+adobe.com
+Session
+HTTP
+s_fid
+adobe.com
+Saves the current Flash version that is available in the user's browser.
+5 years
+HTTP
+s_vi
+adobe.com
+Registers a unique that identifies the user's device for return visits.
+2 years
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+__utm.gif
+google-analytics.com
+Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+Session
+Pixel
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+__utma
+kraton.com
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+2 years
+HTTP
+__utmb
+kraton.com
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+1 day
+HTTP
+__utmc
+kraton.com
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Session
+HTTP
+__utmt
+kraton.com
+Used to throttle the speed of requests to the server.
+1 day
+HTTP
+__utmz
+kraton.com
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+6 months
+HTTP
+p.gif
+typekit.net
+Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+mbox
+adobe.com
+This cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency.
+1 day
+HTTP
+ads/ga-audiences
+google.com
+Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+Session
+Pixel
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+sat_domain
+adobe.com
+Pending
+HTTP
+visitor_type
+careerarc.com
+Pending
+Session
+HTTP
+sjSE
+kraton.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 24/01/2019 by Cookiebot
+Toggle navigationThis website uses cookies
+We use cookies as set out in our Privacy Statement . You consent to our cookies if you continue to use our website.
+Unclassified (6)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+kraton.com
+Stores the user's cookie consent state for the current domain
+1 year
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+s_cc
+adobe.com
+Session
+HTTP
+s_fid
+adobe.com
+Saves the current Flash version that is available in the user's browser.
+5 years
+HTTP
+s_vi
+adobe.com
+Registers a unique that identifies the user's device for return visits.
+2 years
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+__utm.gif
+google-analytics.com
+Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+Session
+Pixel
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+__utma
+kraton.com
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+2 years
+HTTP
+__utmb
+kraton.com
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+1 day
+HTTP
+__utmc
+kraton.com
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Session
+HTTP
+__utmt
+kraton.com
+Used to throttle the speed of requests to the server.
+1 day
+HTTP
+__utmz
+kraton.com
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+6 months
+HTTP
+p.gif
+typekit.net
+Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+mbox
+adobe.com
+This cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency.
+1 day
+HTTP
+ads/ga-audiences
+google.com
+Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+Session
+Pixel
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+sat_domain
+adobe.com
+Pending
+HTTP
+visitor_type
+careerarc.com
+Pending
+Session
+HTTP
+sjSE
+kraton.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 24/01/2019 by Cookiebot
 Toggle navigation
-DePuy Synthes
-Home
-About DePuy Synthes
-DePuy Synthes
-Overview
-Overview
-Neuro
-(Craniomaxillofacial)
-Joint Reconstruction (Knee, Hip & Shoulder)
-Mitek Sports Medicine
-Power Tools
-Spine
-Trauma
-Corporate Info
-What We Believe
+Who We Are
+develops, manufactures and markets biobased  chemicals  and specialty that deliver exceptional value and enhance the lives of  people all over the world. As  a leading global producer of styrenic block co(SBC) and pine  chemicals, we manufacture high-performance materials that differentiate our customers’ products and meet multi-market needs.  Our global footprint, reliable supply, extensive  expertise and integrated portfolio of high-quality products enable our customers to push the boundaries of  performance to power the future of innovation.
+has more than 800 customers across a diverse range of  end markets in over 70 countries worldwide. We are committed to providing the  superior product development, exceptional technical service, sustainable  solutions and reliable quality supply that gives you the innovation edge.
+Vision
+To be an admired  Fortune 500 specialty chemical company delivering exceptional value to our  shareholders, customers and employees.
+Our vision sets the stage for us to continue redefining the specialty  chemical industry, just as we did over 50 years ago when we invented – and  the industry. Today, through our unique chemistry and commitment to  R&D, we are addressing market needs that include increasing  demand for higher performance and solving health  and environmental concerns. We are up to the challenge as we continue to  deliver compelling, innovative solutions that help our customers  differentiate their products, drive value for our shareholders and enrich the lives  of our employees – all of which are essential to our company’s continued growth.  Because at Kraton, we believe  a win-win strategy is the right way to do business.
+companyToggle navigation
+Company
+About Who We Are
+Core Values
+Health, Safety, Environment and Security
+Quality
+Management Systems/ISO
+Executive Profiles
+Board of Directors
+Executive Leadership
+Organization & Structure
+Our Locations
+History
 Our History
-Social Responsibility
-Principles of Collaboration
-Open Payments
-Transparency
-DePuy Synthes Global Code of Conduct
-California Compliance Notice
-Funding Requests
-Funding Requests
-Education Grants
-Fellowships
-Charitable Contributions
-Exhibits and Commercial Sponsorships
-Investigator Initiated Research
-Recall
-News and Press
-Careers
-About DePuy Sysnthes Hero Image
-The DePuy Synthes Companies
-Johnson & Johnson Family of Companies
-.
-
-We offer the world’s most comprehensive portfolio of orthopaedic and neuro products and services for joint reconstruction, trauma, spine, sports medicine, neuro, cranio-maxillofacial, power tools and biomaterials.
-DSUS/MOC/0817/0816 11/2017
-DePuy Synthes Joint Reconstruction
-One of the largest orthopaedics companies in the world, with leading solutions for hip, knee and shoulder replacement.
-DePuy Synthes Trauma
-The global leader in orthopaedic trauma devices for internal and external fixation.
-DePuy Synthes Spine
-Offering one of the world’s most diverse portfolios of spinal-care solutions for both traditional and minimally invasive spine surgery.
-DePuy Synthes Mitek Sports Medicine
-leading developer and manufacturer of pain management and minimally invasive solutions, including sports medicine and soft-tissue repair products.
-DePuy Synthes Power Tools
-Delivering a comprehensive range of power instrument systems, reamers and saws to meet a broad spectrum of clinical needs.
-DePuy Synthes Neuro
-Providing a wide range of solutions for the diagnosis and treatment of neurological disorders focusing on neurovascular, neurosurgery and neuromodulation solutions.
-DePuy Synthes CMF
-Offering systems that provide a complete array of implants and instruments for the treatment of facial trauma, tumor resection and reconstruction.
-Careers - Johnson & Johnson 
+Markets 
+Adhesives
+Automotive
+Coatings
+Compounding
+Fuel Additives
+Inks
+Lubricants
+Medical
+Elastic Nonwovens
+Oil Gels
+Oilfield Chemicals
+Personal Care 
+Polymer Modification
+Paving
+Roofing
+Sealants
+Tires
+Wire & Cable
+Products 
+Polymer Segment
+CARIFLEX™ Isoprene Rubber Latex
+CARIFLEX™ Isoprene Rubber
+KRATON™ SIS
+KRATON™ Milled SIS
+KRATON™ OE
+KRATON™ Milled SBS
+KRATON™ SIBS
+KRATON™ MALEATED
+KRATON™ OE
+KRATON™ OE
+KRATON™ SEP(S)
+Market Development Grades
+Chemical Segment
+AQUATAC™ PRODUCTS
+CENTURY™ PRODUCTS
+CENWAX™ PRODUCTS
+SYLFAT™ PRODUCTS
+SYLVABLEND™ PRODUCTS
+SYLVACOTE™ PRODUCTS
+SYLVALITE™ PRODUCTS
+SYLVAPINE™ PRODUCTS
+SYLVARES™ PRODUCTS
+SYLVAROAD™ PRODUCTS
+SYLVAROS™ PRODUCTS
+SYLVATAC™ PRODUCTS
+SYLVATAL™ PRODUCTS
+SYLVATRAXX™ PRODUCTS
+UNIDYME™ PRODUCTS
+UNI-REZ™ PRODUCTS
+UNI-TAC™ PRODUCTS
+ZONATAC™ PRODUCTS
+Investors 
+Investor Relations
+Overview
+Manufacturing and Research Facilities
+News & Events
+Press Releases
+Events
+Presentations
+Financial Information
+Annual Reports
+Annual Meeting Materials
+Filings
+MEASURES
+Stock Information
+Stock Quote & Chart
+Historical Price Lookup
+Investment Calculator
+Corporate Governance
+Highlights
+Board of Directors
+Executive Officers
+Committee Composition
+Compliance
+Ethics Policy
+Guidelines
+Shareholder Services
+Information ReqE-mail Alerts
+Feeds
+Contacts
+Sustainability 
+Overview
+Strategy and Management  
+Operations
+Supply Chain
+Products
+Innovation 
+Overview
+Careers 
+Who We Are
+Our People 
+Our Commitment 
+ Jobs
+ Search
+English 
+中国话 
+日本語
+Board of Directors
+Directors Biographies
+Dan Smith (Chairman)
+Mr. Smith was named a director and Chairman in September  2009. Mr. Smith began his career as an engineer with Atlantic Richfield Company  in 1968. He was elected President of Lyondell Chemical Company in August 1994  and Chief Executive Officer in December 1996. He was also elected Chief  Executive Officer of Equistar Chemicals, in December 1997 and Millennium  Chemicals Inc. in November 2004, each a wholly-owned subsidiary of Lyondell. Mr.  Smith retired from each of these Chief Executive Officer positions in December  2007. Mr. Smith is a director of Magnolia Oil & Gas  Corporation, Orion Engineered Carbons, and Nexeo Solutions, Inc.  During the past five years, Mr. Smith served on the board of directors of  Northern Tier Energy He also serves as a member of the College of  Engineering Advisory Council at Lamar University. Mr. Smith is a graduate of  Lamar University with a degree in chemical engineering.
+BAUSCH
+Ms. Bausch was named a director in August  2017. Ms. Bausch is the President of Carlisle Fluid Technologies at Carlisle  Companies, Inc. From 2014 to October 2017, Ms. Bausch served as the Global Vice  President, Global Industrial Coatings at Industries, Inc. Ms. Bausch began  her career at Dow Corning Corporation in 1988, and most recently served at Dow  Corning Corporation’s Business Vice President, Finished Products from 2011 to  2014. Ms. Bausch earned a degree in business administration from Alma  College and an from the University of Michigan-Flint.
+BLINN
+Mr.  Blinn was named a director in August 2017. Mr. Blinn served in various  positions at Flowserve Corp., including, most recently as the Chief Executive  Officer and President from October 2009 until March 2017 and Chief Financial  Officer from October 2004 to October 2009. Prior to Flowserve, Mr. Blinn held  senior finance, treasury and planning positions at FedEx Kinko’s Office and  Print Services, Inc., Centex Corp., FirstPlus Financial Inc., Electronic Data  Systems Corp. and Commercial Capital Funding Inc. Mr. Blinn also was formerly  an attorney with Smith, Barshop, Stoffer and Millsap, where he represented  large financial institutions, foreign corporations and insurance companies in  litigation issMr. Blinn currently serves on the board of directors of Texas  Instruments, Inc. Mr. Blinn earned a degree, an and a degree from  the Southern Methodist University.  
+Anna Catalano
+Ms.  Catalano was named a director in September 2011. Ms. Catalano served in various  capacities for plc, and its predecessor Amoco Corporation, from 1979 until  her retirement in 2003, including from 2000 to 2003, as Group Vice President,  Global Marketing, for plc. Ms. Catalano currently serves on the boards of  directors of FrontDoor, Inc., HollyFrontier  Corporation and Willis Towers Watson, and during the past five years, she  previously served on the boards of directors of Chemtura Corporation and Mead  Johnson Nutrition Company. Ms. Catalano also serves as an advisory board member  of The World Innovation Network and serves on  the national board of the Alzheimer’s Association. Ms. Catalano received her  in marketing and business administration from the University of Illinois  and is a graduate of the Indiana University Graduate School of Business,  Executive Partnership Program.
+Kevin Fogarty
+Mr. Fogarty was named a director in  September 2009. Mr. Fogarty was appointed our President and Chief Executive  Officer in January 2008. Prior to being appointed President and Chief Executive  Officer, Mr. Fogarty served as our Executive Vice President of Global Sales and  Marketing from June 2005. Mr. Fogarty joined us from Invista, where he had  served as President for Polymer and Resins since May 2004. For the 13 years  prior to his most recent position with Invista, Mr. Fogarty held a variety of  roles within the Koch Industries, Inc. family of companies, including KoSa. In  January 2012, Mr. Fogarty joined the board of directors of Glatfelter  Company. Mr. Fogarty earned a degree in engineering from Dalhousie  University, formerly known as the Technical University of Nova Scotia. 
+Dominique Fournier
+Mr.  Fournier was named a director in February 2012. Mr. Fournier was the Chief  Executive Officer of Infineum International Limited, a joint venture specialty  chemical company owned between Shell and ExxonMobil, from January 2005 until  December 2011. From 1976 to 2004, he held various manufacturing and marketing positions  in ExxonMobil’s (and its predecessor Exxon) chemical businesses as well as  senior leadership positions, including Vice President, from 1998 to 2004  and Managing Director – Exxon Chemical France, from 1996 to 1997. Mr. Fournier  has a mechanical engineering degree from I’Ecole des Mines de Saint-Etienne in  Paris, France. 
+John Gallagher III
+John Gallagher  is the of Stellar Holdings, a privately held investment company  formed in 2009. Previously, Mr. Gallagher was the Chief Operating Officer at  Milacron (and Fluids) from May 2014 until May 2016 and served on  Milacron’s Board of Directors from August 2012 until May 2015. Mr. Gallagher  served in various senior executive capacities with Celanese Corporation from  2005 until 2009, including as Executive Vice President and President, Acetyl  and Celanese Asia from 2007 to 2009 and Executive Vice President and Chief  Financial Officer of Celanese Corporation from 2005 to 2007. Prior to his  service with Celanese, Mr. Gallagher  served in several executive positions with Great Lakes Chemical Corporation  including acting Chief Executive  Officer, Chief Financial Officer and Senior Vice President, Global Supply  Chain. Prior to that time, Mr.  Gallagher was Vice President and Chief Financial Officer of from 1999  to 2001; served in various capacities  at AlliedSignal, Inc., including as Chief Financial Officer, Bendix Commercial  Vehicle Systems Division, from 1995  to 1999; and worked as a senior manager for the public accounting firm Price Waterhouse  from 1986 to 1994. Mr. Gallagher received a Bachelor of Science degree in  Accounting from the University of Delaware  and is a Certified Public Accountant (inactive).
+Barry Goldstein
+Mr. Goldstein was named a director in  September 2009. Mr. Goldstein retired as Executive Vice President and Chief  Financial Officer of Office Depot, Inc. in October 2000, which he first joined  as Chief Financial Officer in May 1987. Mr. Goldstein was previously with Grant  Thornton from 1969 through May 1987, where he was named a Partner in 1976.  During the past five years, Mr. Goldstein served on the boards of directors of  Stock Holdings, Inc., Interline Brands, Inc., and Generac Holdings Inc. He  received a degree in economics from the Wharton School at the University  of Pennsylvania.
+Karen Twitchell
+Ms. Twitchell was named a director in  December 2009. From 2010 to 2013, Ms. Twitchell served as the Executive Vice  President and Chief Financial Officer of Landmark Aviation. From 2001 to 2009, Ms. Twitchell was a Vice  President and Treasurer of LyondellBasell Industries and Lyondell Chemical  Company. Prior to that, she served as a Vice President and Treasurer of Kaiser  Aluminum Corporation and Southdown, Inc. Before joining Southdown, Ms.  Twitchell was an investment banker with Credit Suisse First Boston in its  corporate finance department. Ms. Twitchell serves on the board of directors  of Chemicals, Inc. and Trecora Resources. Ms.  Twitchell holds a in economics from Wellesley College and an from  Harvard University. 
+Billie Williamson
+Ms. Williamson  was named a director in August 2018. Ms. Williamson served in various roles at  Ernst & Young ("EY") from 1974 to 1993 and 1998 to 2011, most  recently as Senior Global Client Service Partner. Ms. Williamson was also EY's  Americas Inclusiveness Officer, a member of its Americas Executive Board, which  functions as the Board of Directors for dealing with strategic and  operational matters, and a member of the Executive Board. Ms.  Williamson serves as a director of Pentair plc and Cushman & Wakefield plc. During the past  five years, Ms. Williamson served on the board of directors of Group Ltd., Inc., Janus Capital Group,  Exelis Inc. and Annie’s Incorporated. Ms. Williamson earned a degree in  accounting from Southern Methodist University. 
+company
 Contact Us
-Privacy Policy
-Legal Notice
-Site Map
-Ethics Hotline
-Consultant Identification & Payments
-California Compliance Notice
-Transparency
-©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
-Back To Top
-×Where does it hurt?
-Enter your zip code:
-Choose a procedure:
-By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
-Where does it hurt?
-Enter your zip code:
-Choose a procedure:
-By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
-Start the conversation now.
-DON'PLAY.
-If hip or knee pain is making you live life on pause, it may be time to talk with a doctor about treatment options. Because life is a lot more fun when you Hit Play!
-We are inspired by the opportunity to work together to advance patient care.
-Johnson & Johnson Medical Devices Companies (JJMDC) advance patient care while delivering clinical and economic value to healthcare systems and helps providers address individual needs through a holistic approach.
-Where does it hurt?
-Enter your zip code:
-Choose a procedure:
-By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
-Find a Doctor
-© DePuy Synthes 2014-2018. All Rights Reserved.
-This site is published by the DePuy Synthes Companies, which are solely responsible for its content.
-This site is governed solely by applicable laws and governmental regulations.
-This site is for visitors from the United States.
-The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
+Privacy Statement
+Code of Conduct
+Terms of Use
+California Transparency Act 
+Conflict Minerals 
+Supplier Code of Conduct
+Slavery and Human Trafficking Statement
+Resources 
+Literature
+Safety Data Sheets
+ ©
+ Corporation. 
+To the topThis website uses cookies
+We use cookies as set out in our Privacy Statement . You consent to our cookies if you continue to use our website.
+Unclassified (6)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+kraton.com
+Stores the user's cookie consent state for the current domain
+1 year
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+s_cc
+adobe.com
+Session
+HTTP
+s_fid
+adobe.com
+Saves the current Flash version that is available in the user's browser.
+5 years
+HTTP
+s_vi
+adobe.com
+Registers a unique that identifies the user's device for return visits.
+2 years
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+__utm.gif
+google-analytics.com
+Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+Session
+Pixel
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+__utma
+kraton.com
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+2 years
+HTTP
+__utmb
+kraton.com
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+1 day
+HTTP
+__utmc
+kraton.com
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Session
+HTTP
+__utmt
+kraton.com
+Used to throttle the speed of requests to the server.
+1 day
+HTTP
+__utmz
+kraton.com
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+6 months
+HTTP
+p.gif
+typekit.net
+Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+mbox
+adobe.com
+This cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency.
+1 day
+HTTP
+ads/ga-audiences
+google.com
+Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+Session
+Pixel
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+sat_domain
+adobe.com
+Pending
+HTTP
+visitor_type
+careerarc.com
+Pending
+Session
+HTTP
+sjSE
+kraton.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 24/01/2019 by Cookiebot
+Toggle navigation
+Integrity
+Verve
+Relationships
+Creativity
+OwnershipThis website uses cookies
+We use cookies as set out in our Privacy Statement . You consent to our cookies if you continue to use our website.
+Unclassified (6)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+kraton.com
+Stores the user's cookie consent state for the current domain
+1 year
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+s_cc
+adobe.com
+Session
+HTTP
+s_fid
+adobe.com
+Saves the current Flash version that is available in the user's browser.
+5 years
+HTTP
+s_vi
+adobe.com
+Registers a unique that identifies the user's device for return visits.
+2 years
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+__utm.gif
+google-analytics.com
+Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+Session
+Pixel
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+__utma
+kraton.com
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+2 years
+HTTP
+__utmb
+kraton.com
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+1 day
+HTTP
+__utmc
+kraton.com
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Session
+HTTP
+__utmt
+kraton.com
+Used to throttle the speed of requests to the server.
+1 day
+HTTP
+__utmz
+kraton.com
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+6 months
+HTTP
+p.gif
+typekit.net
+Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+mbox
+adobe.com
+This cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency.
+1 day
+HTTP
+ads/ga-audiences
+google.com
+Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+Session
+Pixel
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+sat_domain
+adobe.com
+Pending
+HTTP
+visitor_type
+careerarc.com
+Pending
+Session
+HTTP
+sjSE
+kraton.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 24/01/2019 by Cookiebot
+Toggle navigation
+Pioneering Innovation
+Kraton’s legacy of innovations began in the 1950s, since we  were founded as part of Shell Chemical Company. Today, continues to  provide high-performance, sustainable solutions that deliver exceptional value  to customers, enabling them to make products that enhance the lives of people  all over the world. After more than half a century of innovation,  remains committed to redefining the industry through better chemistry.This website uses cookies
+We use cookies as set out in our Privacy Statement . You consent to our cookies if you continue to use our website.
+Unclassified (6)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+kraton.com
+Stores the user's cookie consent state for the current domain
+1 year
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+s_cc
+adobe.com
+Session
+HTTP
+s_fid
+adobe.com
+Saves the current Flash version that is available in the user's browser.
+5 years
+HTTP
+s_vi
+adobe.com
+Registers a unique that identifies the user's device for return visits.
+2 years
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+__utm.gif
+google-analytics.com
+Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+Session
+Pixel
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+__utma
+kraton.com
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+2 years
+HTTP
+__utmb
+kraton.com
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+1 day
+HTTP
+__utmc
+kraton.com
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Session
+HTTP
+__utmt
+kraton.com
+Used to throttle the speed of requests to the server.
+1 day
+HTTP
+__utmz
+kraton.com
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+6 months
+HTTP
+p.gif
+typekit.net
+Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+mbox
+adobe.com
+This cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency.
+1 day
+HTTP
+ads/ga-audiences
+google.com
+Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+Session
+Pixel
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+sat_domain
+adobe.com
+Pending
+HTTP
+visitor_type
+careerarc.com
+Pending
+Session
+HTTP
+sjSE
+kraton.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 24/01/2019 by Cookiebot
+Our Locations
+Toggle navigation
+Global Reach
+Poilus de la Guerre 14-18
+80215
+Berre, France
+Berre
+Niort
+Wesseling
+asia
+Mailiao Township, Yunlin County
+Manufacturing Facility
+Joint Venture between and Japan Synthetic Rubber Co.
+Kamisu City, IbarakiThis website uses cookies
+We use cookies as set out in our Privacy Statement . You consent to our cookies if you continue to use our website.
+Unclassified (6)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+kraton.com
+Stores the user's cookie consent state for the current domain
+1 year
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+s_cc
+adobe.com
+Session
+HTTP
+s_fid
+adobe.com
+Saves the current Flash version that is available in the user's browser.
+5 years
+HTTP
+s_vi
+adobe.com
+Registers a unique that identifies the user's device for return visits.
+2 years
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+__utm.gif
+google-analytics.com
+Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+Session
+Pixel
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+__utma
+kraton.com
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+2 years
+HTTP
+__utmb
+kraton.com
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+1 day
+HTTP
+__utmc
+kraton.com
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Session
+HTTP
+__utmt
+kraton.com
+Used to throttle the speed of requests to the server.
+1 day
+HTTP
+__utmz
+kraton.com
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+6 months
+HTTP
+p.gif
+typekit.net
+Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+mbox
+adobe.com
+This cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency.
+1 day
+HTTP
+ads/ga-audiences
+google.com
+Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+Session
+Pixel
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+sat_domain
+adobe.com
+Pending
+HTTP
+visitor_type
+careerarc.com
+Pending
+Session
+HTTP
+sjSE
+kraton.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 24/01/2019 by Cookiebot
+Toggle navigationThis website uses cookies
+We use cookies as set out in our Privacy Statement . You consent to our cookies if you continue to use our website.
+Unclassified (6)
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+CookieConsent
+kraton.com
+Stores the user's cookie consent state for the current domain
+1 year
+Session
+HTTP
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+We do not use cookies of this type
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Name
+Provider
+Purpose
+Expiry
+Type
+s_cc
+adobe.com
+Session
+HTTP
+s_fid
+adobe.com
+Saves the current Flash version that is available in the user's browser.
+5 years
+HTTP
+s_vi
+adobe.com
+Registers a unique that identifies the user's device for return visits.
+2 years
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+2 years
+1 day
+careerarc.com
+kraton.com
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+1 day
+HTTP
+__utm.gif
+google-analytics.com
+Google Analytics Tracking Code that logs details about the visitor's browser and computer.
+Session
+Pixel
+collect
+google-analytics.com
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Session
+Pixel
+__utma
+kraton.com
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+2 years
+HTTP
+__utmb
+kraton.com
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+1 day
+HTTP
+__utmc
+kraton.com
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Session
+HTTP
+__utmt
+kraton.com
+Used to throttle the speed of requests to the server.
+1 day
+HTTP
+__utmz
+kraton.com
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+6 months
+HTTP
+p.gif
+typekit.net
+Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+Session
+Pixel
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Name
+Provider
+Purpose
+Expiry
+Type
+mbox
+adobe.com
+This cookie is used to collect non-personal information on the visitor's behavior and non-personal visitor statistics, which can be used by a third-party ad-targeting agency.
+1 day
+HTTP
+ads/ga-audiences
+google.com
+Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
+Session
+Pixel
+Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
+Name
+Provider
+Purpose
+Expiry
+Type
+sat_domain
+adobe.com
+Pending
+HTTP
+visitor_type
+careerarc.com
+Pending
+Session
+HTTP
+sjSE
+kraton.com
+Pending
+Session
+HTTP
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+You can at any time change or withdraw your consent from the Cookie Declaration on our website.
+Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
+Cookie declaration last updated on 24/01/2019 by Cookiebot
+Toggle navigation
+safe and socially responsible operations
+is committed to safe and socially responsible  operations. Therefore, we continuously work to improve our products and  processes with the goal of reducing our own emissions and customers’  environmental footprint. To achieve this, we developed a materiality assessment  of our sustainability impacts and opportunities in the value chain focusing on environmental,  social and governance (ESG) assessments of our operations. These focus areas  will guide our sustainability efforts and initiatives as we continue to make a  positive difference to our customers, in our jobs and to the world.
+Material topics

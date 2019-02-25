@@ -1,323 +1,1151 @@
-Healthcare Professionals
-Hospital Providers
-Ambulatory Surgery Centers
-Patients
-News & Press
-Contact Us
-MORE:
-Careers - Johnson & Johnson
+Products
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+PRODUCTS
+Products
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+& TOPICS
+Latest News
+View All
+News Release
+New Products
+Topics
+Events
+RSS
+Jan. 11, 2019
+Topics
+ABLIC, Award in 2018 at the First Exhibition ― “Top 10 Best Industrial Electronics and Smart Factory Technology and Solution Providers”　－
+Jan. 07, 2019
+Topics
+New Year Message from the President
+Dec. 14, 2018
+Topics
+[by TechanaLye] Operational Amplifier for Automotive Use S-19630AB, supporting fuel-efficient and comfortable driving
+Dec. 10, 2018
+New Products
+Automotive, 105°Operation, Battery Monitoring for 3-Serial to 6-Serial Cell Pack S-19192 Series
+Dec. 10, 2018
+News Release
+Inc. launches the S-19192 Series, a 3-serial to 6-serial cell battery monitoring for automotive use.
+See More
+Dec. 10, 2018
+News Release
+Inc. launches the S-19192 Series, a 3-serial to 6-serial cell battery monitoring for automotive use.
+Nov. 13, 2018
+News Release
+Inc. launches the S-1318 Series compact regulator with world’s top class low current consumption of 95nA! An ideal power supply for Ioand wearable devices that reduces current consumption to one-tenth of our conventional products!
+Oct. 24, 2018
+News Release
+Inc., The World’s first (*1) “(*2) Hall IC” That Will Bring Innovation to the Development and Manufacture of Brushless Motors
+Sep. 13, 2018
+News Release
+Inc. Launches the S-19630AB, a Zero-drift Operational Amplifier for Automotive Use with a Wide Operation Voltage Range
+Aug. 20, 2018
+News Release
+Inc. launches the S-85M0Series of ultra-high efficiency step-down switching regulators in the industry’s most compact (*) size
+See More
+Dec. 10, 2018
+New Products
+Automotive, 105°Operation, Battery Monitoring for 3-Serial to 6-Serial Cell Pack S-19192 Series
+Nov. 12, 2018
+New Products
+5.5 Input, 100 mA, 95 nSuper Low Current Consumption Voltage Regulator S-1318 Series
+Sep. 07, 2018
+New Products
+Automotive, 125°Operation, Low Input Offset Voltage Operational Amplifier S-19630A
+Aug. 01, 2018
+New Products
+5.6 Input, 50 mA, Low EMI, Synchronous Step-down Switching Regulator with 260 nQuiescent Current S-85M0Series (product)
+Jul. 25, 2018
+New Products
+105°Operation, 5.5 Input, 200 mVoltage Regulator S-1313xxxSeries
+See More
+Jan. 11, 2019
+Topics
+ABLIC, Award in 2018 at the First Exhibition ― “Top 10 Best Industrial Electronics and Smart Factory Technology and Solution Providers”　－
+Jan. 07, 2019
+Topics
+New Year Message from the President
+Dec. 14, 2018
+Topics
+[by TechanaLye] Operational Amplifier for Automotive Use S-19630AB, supporting fuel-efficient and comfortable driving
+Nov. 12, 2018
+Topics
+[by TechanaLye] Deploying the results in a new business to the existing market. What is the new product model conducts?
+Nov. 05, 2018
+Topics
+Notice of E-Mail Domain Change
+See More
+Nov. 19, 2018
+Events
+to Participate in the 2018 in Shenzhen, China
+Oct. 17, 2018
+Events
+to Exhibit at electronica 2018 in München (Munich)
+Sep. 21, 2018
+Events
+will be exhibiting at 2018.
+Feb. 14, 2018
+Events
+will participate to the electronica China 2018 in Shanghai.
+Oct. 30, 2017
+Events
+will participate to the 2017 in Shenzhen
+See More
+SUPPORT
+Support / Contact Us
+Package
+/ No Longer Available
+Information / Tools
+Technical Question Form
+Global Sales Offices
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
 Privacy Policy
-Legal Notice
-US:
-Facebook
-Twitter
-LinkedIn
-YouTube
-Contact Us
- Select your country
-Home
-About DePuy Synthes
-News and Press
-Toggle navigation
-DePuy Synthes
-Home
-About DePuy Synthes
-News and Press
-DePuy Synthes
-Overview
-Overview
-Neuro
-(Craniomaxillofacial)
-Joint Reconstruction (Knee, Hip & Shoulder)
-Mitek Sports Medicine
-Power Tools
-Spine
-Trauma
-Corporate Info
-What We Believe
-Our History
-Social Responsibility
-Principles of Collaboration
-Open Payments
-Transparency
-DePuy Synthes Global Code of Conduct
-California Compliance Notice
-Funding Requests
-Funding Requests
-Education Grants
-Fellowships
-Charitable Contributions
-Exhibits and Commercial Sponsorships
-Investigator Initiated Research
-Recall
-News and Press
-Careers
-Our Latest News
-10/16/2018
-DePuy Synthes Announces Agreement with Ortho Development® to Promote its KASM® Knee Articulating Spacer Mold 
-16, 2018 Warsaw, – Johnson & Johnson Medical Devices Companies* today announced that DePuy Synthes Sales, Inc. has entered into an exclusive agreement with Ortho Development® to co-promote in the its KASM® Knee Articulating Spacer Mold. This is a sterile, disposable cement spacer mold for patients who develop an infection after primary knee replacement. This new offering builds upon DePuy Synthes’** commitment to innovative knee solutions focused on helping patients along the care continuum.
-09/26/2018
-DePuy Synthes Expands Spine Portfolio with Nerve Assessment Platform  Designed to Identify & Avoid Nerves During Spine Surgery 
-Los Angeles – September 26, 2018 – Johnson & Johnson Medical Devices Companies* announced today that DePuy Synthes** is introducing MMG, a first-of-its-kind digital mechanomyography platform designed to assess nerve status and identify and avoid peripheral nerves during spine surgery. enables motor nerve monitoring for a variety of spine procedures, including non-fusion procedures such as discectomy and both minimally invasive (MIS) and open spinal fusion surgery.  is being broadly introduced at the 2018 North America Spine Society Meeting in Los Angeles, California. 
-09/12/2018
-Johnson & Johnson Medical GmbAcquires Emerging Implant Technologies Gmbto Enhance Global Offering of Interbody Spine Implants
-Norderstedt, Germany – September 12, 2018 – Johnson & Johnson Medical Devices Companies*, through its subsidiary Johnson & Johnson Medical GmbH, announced today the acquisition of Emerging Implant Technologies Gmb(EIT), a privately held manufacturer of 3D-printed titanium interbody implants for spinal fusion surgery, based in Wurmlingen, Germany. The products in this portfolio leverage EIT’s proprietary advanced cellular titanium, which consists of an open and interconnected porous structure designed to allow bone to grow into the implant. As industry leaders across the full range of orthopaedic and spine specialties, Johnson & Johnson Medical Devices Companies will leverage its global commercial infrastructure to bring EIT’s technologies to patients around the world. 
-08/20/2018
-New National Survey Uncovers the Surprising Impact that Knee and Hip Pain Has on Women’s Emotional Well-Being
-WARSAW, Ind. – August 20, 2018 – While many who suffer from knee or hip pain know that it impacts their everyday activities, results from a new survey show the significant emotional impact of joint pain. This includes impact on romantic and social relationships, ability to pursue hobbies and overall mood. The survey of more than 500 women ages 45-65, including those who have had joint replacement surgery and those planning to have joint replacement surgery, revealed: 
-07/26/2018
-DePuy Synthes Launches Expandable Interbody Implant as Part of a New Procedural Solution for Minimally Invasive Spine Surgery (MIS) that Enhances Surgical Efficiency
-Raynham, – July 26, 2018 – Johnson & Johnson Medical Devices Companies* today announced 
-that DePuy Synthes** is launching the Expandable Interbody Device in the 
-The Implant is designed to treat patients suffering from degenerative disc disease as part of the new offering called (Transforaminal Lumbar Interbody Fusion) Procedural Solution. The complete system includes a comprehensive set of solutions to help simplify key stages of this surgery by enhancing surgical efficiency.
-06/20/2018
-New Suture from DePuy Synthes Designed to Help Address Challenges Associated with Rotator Cuff Surgery
-20, 2018 San Diego, – Johnson & Johnson Medical Devices Companies* through the DePuy Synthes** franchise today announces the launch of Suture to repair soft tissue such as the rotator cuff in the shoulder. Part of the DePuy Synthes Mitek Sports Medicine portfolio, Suture is available on Anchors and adds to DePuy Synthes’ innovative solutions designed to help address unmet patient needs in soft tissue repair. Suture was launched today at the San Diego Shoulder Institute’s 35th Annual Course. 
-Search News & Press
-Search
-Company:
-All Companies
-All Divisions
-Codman & Shurtleff, Inc.
-Corporate Information
-DePuy Mitek, Inc.
-DePuy Orthopaedics, Inc.
-DePuy Spine, Inc.
-Healthcare Professionals
-Year:
-All Years
-Go 
-Media Contacts
-All inquiries can be submitted by email to:
-Media Inquiries
-Careers - Johnson & Johnson 
-Contact Us
+Web Site Privacy Policy
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptProducts
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+HOME
+Corporate Profile
+is a coined word combining (possible) and (short for “integrated circuit”), expressing that technology enables possibilities.
+Our logo consists of an upwards arrow, representing growth, combined with a diamond (◆), representing integrated circuits, which together form an “A”, the first letter of the company name. This, as a whole, expresses our corporate vision of striving to help society grow through technology.  
+Corporate Profile
+Message
+Outline
+Vision
+History
+Business Field
+Integrated Production System
+Quality / Environment
+Worldwide Locations
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Worldwide Locations
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
 Privacy Policy
-Legal Notice
-Site Map
-Ethics Hotline
-Consultant Identification & Payments
-California Compliance Notice
-Transparency
-©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
-Back To Top
-×Healthcare Professionals
-Hospital Providers
-Ambulatory Surgery Centers
-Patients
-News & Press
-Contact Us
-MORE:
-Careers - Johnson & Johnson
+Web Site Privacy Policy
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptOur Group’s Approach to CSR
+We aim to contribute to a richer, more sustainable future by providing analog semiconductor-based solutions. The Policy was formulated in March 2017 and has applied to the group as a whole since January 2018. It sets out and clarifies our philosophy concerning the social responsibilities of our group, the direction of our initiatives, and our commitment to our stakeholders.
+The policy is a set of guidelines providing details of our aims and initiatives for achieving our corporate philosophy. Although our operations are centered on business-to-business transactions, we are focused on the consumers and future society that exist ahead of our clients, and strive to develop products and solutions that will bring happiness to people and promote sustainable communities. We have identified four important means of achieving this: (1) creating innovative social value through our operations; (2) conserving the global environment; (3) providing safe, health and worthwhile working environments; (4) instilling energy and pride in our group.
+Policy
+Policy
+We use our innovative solutions centered on analog semiconductors to bring new joy to people’s lives and contribute to achieving a sustainable, prosperous future.
+For this goal, we are committed to taking the following actions with passion:
+We integrate all our knowledge and technology to provide innovative products and solutions that influence customers and society.
+We provide products and services which achieve a leading position worldwide for environmental performance, while striving to minimize the environmental impact of business activities.
+We prioritize the safety and health of all employees and provide a rewarding work environment.
+On a foundation of strict compliance in accordance with laws and regulations and social demands, we foster a vibrant working environment that respects human rights and diversity in order to build a company group that all employees can be proud of.
+Effective January 5, 2018
+Framework for Promoting CSR
+Committee was established in March 2017 to promote socially responsible operations and sustainable development. The Internal Control Department (currently the Office of Initiatives) acts as Secretariat. It is chaired by the President & Representative Director, and comprised of the full-time members of the Board of Directors and the heads of the corporate departments.
+The Committee is responsible for and authorized to formulate the basic guidelines concerning for the group as a whole, discuss and approve goals for each year, monitor and review activities, foster within the company, formulate and foster charters and codes of corporate behavior, investigate and address compliance-related issues, and discuss and make decisions concerning the establishment of rules for risk management, etc. It met on nine occasions between March and December 2017.
+In 2017, the Internal Control Department undertook the hands-on work for promoting from March to September. In the remaining months of the year, this was done by the Internal Audit Department, which reports directly to the President, and has been done by the Office of Initiatives since March, 2018.
+Framework for Promoting CSR
+Management
+From April to December 2017 (when was still consolidated with Seiko Instruments Inc.), the Committee led the way in formulating the annual goals and putting in place a framework for compliance, risk management, labor health and safety, etc. for the forthcoming de-consolidation in January 2018. Specifically, it provided relevant company regulations, educated members of the board, division heads, and rank-and-file employees about compliance, put in place a framework and systems concerning risk management for the as a whole, unified the management of labor safety and health, and undertook the sharing of information and education for the as a whole.
+The plan is to promote activities in accordance with PDCA-style management (plan, do, check, act) by having the Committee discuss and approve the annual goals that will be formulated by each department in accordance with the new Policy from January 2018. The idea is to phase in management across other companies in the group and have it pursued by the group as a whole.
+Outline of Management
+Goals
+Each department is considering and formulating goals for CSR-related activities in accordance with the new Policy. This led to the drawing up a Plan for 2018, which has been in effect since April 2018.
+Activities for spreading knowledge about inside the were carried out in 2016 and 2017 to foster greater understanding about and familiarity with the Policy. study session was organized for members of the Board of Directors in 2016. Sixteen people took part. In the following year, a total of five seminars were organized for managerial staff and rank-and-file employees. They were attended by about 600 members of staff.
+Findings of questionnaire concerning Basic Seminar for Managerial Staff
+Did the seminar help you understand CSR?
+Mention any parts of the seminar that made an impression. List any comments.
+・Gained a good understanding of ・Gained a good understanding of how the company stands to benefit; common assumptions in Japan won’t work, etc. (approx. 40%) ・Need to take a moral view ・Felt the need for ・Need to familiarize people across the ・Labor and human rights ・Specific activities ・Changes to the key theme of CSR
+Expectations, requests, etc. concerning activities
+・Conduct seminars for rank-and-file employees (approx. 30%) (need for understanding across the as a whole; education for local staff outside of Japan) ・ Briefings on specific initiatives (approx. 30%) ・ Effective use to enhance corporate value ・ Putting into practice ・ Making work worthwhile ・ Need to draw attention to inside the ・ Provide arrangements for responding to clients ・ Instilling pride in the ・ Dealing with CSR-related risks ・ Contributing to community development ・ Make all employees familiar with the ideals and policy (approx. 12%)
+seminar in progress
+Familiarizing Staff with During 2018
+Briefings were held in various locations of the Group between February and May 2018 to familiarize staff with the Corporate Philosophy, Policy, Code of Conduct, etc.
+Briefing in Seoul
+Briefing in Shenzhen
+Briefing in Shanghai
+Briefing in Los Angeles
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. »Privacy Policy
+AcceptProducts
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+HOME
+Corporate Profile
+Vision
+SMALL
+Developing and manufacturing 
+ultra-small products
+SMART
+Providing power-saving analog 
+semiconductors leading to a “smart” society
+SIMPLE
+Providing simple, easy-to-use products 
+contributing to miniaturization and cost reduction
+The origin of our products lies in the development of ICs for quartz watches. We downsized quartz mechanisms from the size of a locker to something small enough to be worn on a wrist, and succeeded in bringing to production analog semiconductors that function accurately while using only a minute amount of energy. The safe and reliable leading-edge technology cultivated through our research and manufacturing is seeing increasing utilization in the latest key devices, including those for automobiles, smartphones, and healthcare.
+Corporate Profile
+Message
+Outline
+Vision
+History
+Business Field
+Integrated Production System
+Quality / Environment
+Worldwide Locations
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Worldwide Locations
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
 Privacy Policy
-Legal Notice
-US:
-Facebook
-Twitter
-LinkedIn
-YouTube
-Contact Us
- Select your country
-Home
-About DePuy Synthes
-Corporate Info
-California Compliance Notice
-Toggle navigation
-DePuy Synthes
-Home
-About DePuy Synthes
-Corporate Info
-California Compliance Notice
-DePuy Synthes
-Overview
-Overview
-Neuro
-(Craniomaxillofacial)
-Joint Reconstruction (Knee, Hip & Shoulder)
-Mitek Sports Medicine
-Power Tools
-Spine
-Trauma
-Corporate Info
-What We Believe
-Our History
-Social Responsibility
-Principles of Collaboration
-Open Payments
-Transparency
-DePuy Synthes Global Code of Conduct
-California Compliance Notice
-Funding Requests
-Funding Requests
-Education Grants
-Fellowships
-Charitable Contributions
-Exhibits and Commercial Sponsorships
-Investigator Initiated Research
-Recall
-News and Press
-Careers
-DePuy Synthes Companies California Compliance
-NOTICE: this information is provided pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765), which requires certain pharmaceutical and medical device companies doing business in California to make available their program for compliance with applicable federal and state laws and industry standards regulating the marketing and promotion of their products
-
-INTRODUCTION
-The Operating Companies of DePuy Synthes, under the legal entity DePuy Orthopaedics, Inc., (the "Company") have established a program designed to materially comply with applicable federal and state laws and industry standards relating to the marketing and promotion of its products. Additionally, the Company recognizes that adherence to these standards can be furthered through a compliance program that is informed by the Compliance Program Guidance for Pharmaceutical Manufacturers, published by the Office of Inspector General of the Department of Health and Human Services (the "Guide"). The Guide advises that effective compliance programs are comprised of seven elements. As described below, these elements form the basis of the Company's program for compliance with the standards regulating the marketing and promotion of its products.
-II.
- Overview of Compliance Program
-1. Written Policies and Procedures
-The Company has written policies to assure substantial compliance with the applicable laws and regulations and standards governing the marketing and promotion of our products. Among these standards are recognized industry codes of conduct including the Code of Ethics on Interactions with Health Care Professionals (AdvaMed Code), published by the Advanced Medical Technology Association ("AdvaMed"). The Company has established written policies that govern activities involving communicating with customers about the appropriate use of our products including appropriate instruction, education, training, service and technical support required for the safe and effective use of our products. The Company also has policies governing activities involving the advancement of scientific and educational activities supporting medical research and education. These policies include:
-Policies on Educational Grants and Research Grants
-The Company may provide grants for specific educational purposes that benefit patients and customers. These may include, but are not limited to, continuing medical and paraprofessional education programs, fellowships provided to teaching institutions and similar organizations with a demonstrated commitment to scientific and technical education, and programs operated by organizations that provide high-quality, nationally recognized patient education. Funding of educational programs will generally be provided only to organizations and institutions and not to individual practitioners.
-Research grants to support customer-initiated research may be provided for programs involving research in areas of legitimate interest to the company. All requests are subject to scientific review prior to funding approval.
-Policy on Charitable Contributions and Patient Assistance
-The Company will consider charitable contributions and requests for patient assistance in the areas of children's health, health care education, access to health care and community responsibility, consistent with the Company policies.
-Policy on Travel Expense Reimbursement for CME, Promotional or Product Training Meetings
-The Company will, with very limited exceptions that are in accordance with nationally recognized standards, not reimburse for travel and lodging expenses of attendees at promotional and educational programs.
-The Company may reimburse attendees for their reasonable travel and lodging expenses associated with attendance at product training meetings. Product training meetings will be conducted in locations conducive to the exchange of information such as educational or conference settings. Where face-to-face or hands-on customer training is reasonably necessary for the safe and effective use of the Company's medical device products is required, the Company may provide training at company facilities, at independent teaching centers such as medical institutions, or in other appropriate clinical settings.
-Policy on Business Meals
-The Company may occasionally offer a modest meal, consistent with the standards of the AdvaMed Code as part of an educational presentation or a business discussion. Venues that feature entertainment or recreation, and attendance by spouses or guests, are not permitted.
-Policy on the Provision of Educational and Practice-Related Items
-On occasion, the Company representatives may provide items that benefit patients or serve a genuine educational function for Health Care Professionals, consistent with the standards of the AdvaMed Code.
-Total Annual Dollar Limit for Meals and Educational or Practice-related Items 
-Each of the Companies, have established an annual limit of $1,500 for meals and educational items as the aggregate value of the items or activities that may be provided to California health care professionals pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765).
-Policy Prohibiting Entertainment
-It is the policy of the Company not to provide Entertainment (e.g. sporting events, golf outings, concerts, hunting, etc.) to customers.
-2. Assigned Compliance Officer
-The Company has appointed Health Care Compliance Officers. Our Health Care Compliance Officers have been empowered with appropriate authority to exercise independent judgment and has free and unencumbered access to senior management.
-The Company has appointed Health Care Compliance Committees. The committees are comprised of the Company's Health Care Compliance Officers and members of the Company's management team.
-3. Training.
-The Company has an annual Health Care Compliance training process that includes testing and annual certification of appropriate employees. The training covers applicable guidelines governing our compliance program. Employees are also trained on the consequences of failure to comply with the requirements of the company's compliance program.
-4. Communication.
-The Company encourages open and candid discussion between management and employees regarding any compliance concerns. The Company employees are encouraged to report their concerns to their manager, to the Human Resources Department, to the Law Department or to the company's Health Care Compliance Officer.
-5. Auditing and Monitoring. 
-The Company self-assesses and periodically audits its compliance with its policies and procedures.
-6. Enforcement and Disciplinary Guidelines.
-The Company will take disciplinary actions in response to violation of the company's compliance policies or procedures. The Company will conduct a fair and diligent investigation of matters that are brought to the company's attention in order to ensure the consistent application of the company's standards.
-7. Responses To Detected Problems and Actions To Correct Issues.
-The Company requires a prompt and diligent response to potential violations of the company's compliance program, including its standards regulating the marketing and promotion of our products. Actions in response to detected problems may include improving policies, procedures, training, communication and monitoring or may require disciplinary action to prevent future violations.
-For a copy of this California Compliance Program, please call 1-877-889-3636. Provide your name, mailing address and request that a copy of the DePuy Synthes California Compliance program be sent to you.
-LAW
-As part of the Company's ongoing efforts in the area of compliance, we have developed a Comprehensive Compliance Program that is designed to comply with applicable federal and state laws and industry standards relating to the marketing and promotion of our products. To our knowledge as of the date of this declaration, the Company is in compliance with our Comprehensive Compliance Program, as described here, and with California Health & Safety Code sections 119400-119402.
-Dated: May 1, 2018
-Careers - Johnson & Johnson 
-Contact Us
+Web Site Privacy Policy
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptProducts
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+HOME
+Corporate Profile
+History
+HISTORY
+2018
+   Change Name to “Inc.”
+2017
+High-efficiency SWRs
+2016
+Established Inc.
+2016
+Medical device ICs
+2015
+High-power dissipation packages (TO-252-5S)
+2015
+Wireless power ICs
+2014
+Timer ICs for automotive use
+2013
+Magnetism sensor ICs for automotive use
+2011
+Ultra-small 0.8 x 0.8 mm packages (HSNT)
+2009
+High-power dissipation packages (HSOP-6)
+2009
+Power supply ICs for automotive use
+2005
+Ultra-low voltage operation charge pumps
+2003
+Ultra-small packages (SNT)
+2003
+for automotive use
+1999
+Lithium-ion battery protection ICs (Secondary protection)
+1996
+Began the post process at the Akita plant.
+1993
+Lithium-ion battery protection ICs / EEPROM
+1990
+Real-time clock ICs
+1987
+Completed the 6-inch line for the wafer process.
+1986
+Non-volatile memories
+1985
+Temperature sensor ICs
+1984
+Magnetism sensor ICs
+1983
+Voltage regulators and voltage detectors
+1979
+Completed the 4-inch line for the wafer process.
+1979
+Analog quartz ICs
+1970
+Completed the 2-inch line for development.
+1968
+Began R&D.
+1937
+Established 1937 Daini Seikosha Co., Ltd.
+ (the present-day Seiko Instruments Inc.)
+1881
+Established Hattori 
+(the present-day Seiko Holdings Corporation)
+2017
+High-efficiency SWRs
+Established 2016
+2016
+Medical device ICs
+High-power dissipation packages (TO-252-5S)
+2015
+2015
+Wireless power ICs
+2014
+Timer ICs for automotive use
+2013
+Magnetism sensor ICs for automotive use
+Ultra-small 0.8 x 0.8 mm packages (HSNT)
+2011
+High-power dissipation packages (HSOP-6)
+2009
+2009
+Power supply ICs for automotive use
+2005
+Ultra-low voltage operation charge pumps
+Ultra-small packages (SNT)
+2003
+2003
+for automotive use
+1999
+Lithium-ion battery protection ICs (Secondary protection)
+Began the post process at the Akita plant.
+1996
+1993
+Lithium-ion battery protection ICs / EEPROM
+1990
+Real-time clock ICs
+Completed the 6-inch line for the wafer process.
+1987
+1986
+Non-volatile memories
+1985
+Temperature sensor ICs
+1984
+Magnetism sensor ICs
+1983
+Voltage regulators and voltage detectors
+Completed the 4-inch line for the wafer process.
+1979
+1979
+Analog quartz ICs
+Completed the 2-inch line for development.
+1970
+Began R&D.
+1968
+Established 1937 Daini Seikosha Co., Ltd.
+(the present-day Seiko Instruments Inc.)
+1937
+Established Hattori 
+(the present-day Seiko Holdings Corporation)
+1881
+Corporate Profile
+Message
+Outline
+Vision
+History
+Business Field
+Integrated Production System
+Quality / Environment
+Worldwide Locations
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Worldwide Locations
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
 Privacy Policy
-Legal Notice
-Site Map
-Ethics Hotline
-Consultant Identification & Payments
-California Compliance Notice
-Transparency
-©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
-Back To Top
-×Healthcare Professionals
-Hospital Providers
-Ambulatory Surgery Centers
-Patients
-News & Press
-Contact Us
-MORE:
-Careers - Johnson & Johnson
+Web Site Privacy Policy
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptProducts
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+HOME
+Corporate Profile
+Company Outline
+Outline
+Name
+Inc.
+Head Office
+1-8, Nakase, Mihama-ku, Chiba-shi, Chiba 261-8507, Japan 
+MAP
+Corporate name change
+January 5, 2018
+Start of Operation
+January 5, 2016
+Business Line
+Development, manufacture, and sale of semiconductors
+Capital
+¥9,250 million
+   Development Bank of Japan Inc. 70% investment
+   Seiko Instruments Inc. 30% investment
+Fiscal Year End
+End of March
+Annual Sales (FY2017)
+32,800 million yen (consolidated)
+Number of Employees
+948 (consolidated) 
+    As of March 31, 2018
+President and CEO
+Nobumasa Ishiai
+Directors and Auditors
+Director and Senior Vice President
+   Tadashi Hashimoto
+Director
+   Hiroshi Murakami
+Director
+   Takashi Mikkaichi
+Director
+   Yoichi Hojo　
+Director
+   Chihiro Shima　
+Director
+   Yoshiaki Asaga　
+Director
+   Tetsu Kobayashi　
+Director
+   Shinji Nureki　
+Director
+   Youichi Takahashi
+Senior Vice President 
+   Seiji Tanaka
+Senior Vice President 
+   Koshi Maemura
+Senior Vice President 
+   Jun Osanai
+Senior Vice President 
+   Akira Takayama
+Senior Vice President 
+   Norifumi Nagano
+Audit and Supervisory Board Member 
+   Hayao Watanabe
+Audit and Supervisory Board Member 
+   Fumihiko Nagasu
+Audit and Supervisory Board Member 
+   Hiroaki Sahara  
+As of December 28, 2018
+Corporate Profile
+Message
+Outline
+Vision
+History
+Business Field
+Integrated Production System
+Quality / Environment
+Worldwide Locations
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Worldwide Locations
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
 Privacy Policy
-Legal Notice
-US:
-Facebook
-Twitter
-LinkedIn
-YouTube
-Contact Us
- Select your country
-Home
-About DePuy Synthes
-Toggle navigation
-DePuy Synthes
-Home
-About DePuy Synthes
-DePuy Synthes
-Overview
-Overview
-Neuro
-(Craniomaxillofacial)
-Joint Reconstruction (Knee, Hip & Shoulder)
-Mitek Sports Medicine
-Power Tools
-Spine
-Trauma
-Corporate Info
-What We Believe
-Our History
-Social Responsibility
-Principles of Collaboration
-Open Payments
-Transparency
-DePuy Synthes Global Code of Conduct
-California Compliance Notice
-Funding Requests
-Funding Requests
-Education Grants
-Fellowships
-Charitable Contributions
-Exhibits and Commercial Sponsorships
-Investigator Initiated Research
-Recall
-News and Press
-Careers
-About DePuy Sysnthes Hero Image
-The DePuy Synthes Companies
-Johnson & Johnson Family of Companies
-.
-
-We offer the world’s most comprehensive portfolio of orthopaedic and neuro products and services for joint reconstruction, trauma, spine, sports medicine, neuro, cranio-maxillofacial, power tools and biomaterials.
-DSUS/MOC/0817/0816 11/2017
-DePuy Synthes Joint Reconstruction
-One of the largest orthopaedics companies in the world, with leading solutions for hip, knee and shoulder replacement.
-DePuy Synthes Trauma
-The global leader in orthopaedic trauma devices for internal and external fixation.
-DePuy Synthes Spine
-Offering one of the world’s most diverse portfolios of spinal-care solutions for both traditional and minimally invasive spine surgery.
-DePuy Synthes Mitek Sports Medicine
-leading developer and manufacturer of pain management and minimally invasive solutions, including sports medicine and soft-tissue repair products.
-DePuy Synthes Power Tools
-Delivering a comprehensive range of power instrument systems, reamers and saws to meet a broad spectrum of clinical needs.
-DePuy Synthes Neuro
-Providing a wide range of solutions for the diagnosis and treatment of neurological disorders focusing on neurovascular, neurosurgery and neuromodulation solutions.
-DePuy Synthes CMF
-Offering systems that provide a complete array of implants and instruments for the treatment of facial trauma, tumor resection and reconstruction.
-Careers - Johnson & Johnson 
-Contact Us
+Web Site Privacy Policy
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptProducts
+Power Management ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Switching Regulators (DC-Converters)
+Power Sequencer
+Boost Charge Pump ICs
+Composite ICs
+Lithium-ion Battery Protection ICs
+Memory
+Serial (SPI, I2C, Microwire)
+Sensors
+Temperature Sensor ICs
+Magnetic Sensor ICs (Hall Effect ICs)
+Faint Signal Detection ICs
+Sensor
+Timer ICs / ASSPs
+Real-Time Clock ICs
+Power Sequencer
+Wireless Power IC
+Amplifiers
+Operational Amplifiers
+Comparators
+Automotive ICs
+Voltage Regulators (Regulators)
+Voltage Detectors (Reset ICs)
+Watchdog Timer
+Antenna diagnosis ICs
+Composite ICs
+Li-ion Battery Protection ICs / Protection ICs
+Serial EEPROMs (SPI, I2C, Microwire)
+Magnetic Sensor ICs (Hall Effect ICs)
+Real-Time Clock ICs
+Convenience Timer
+Operational Amplifiers
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Datasheet Search
+Support
+Support
+Global Sales Offices
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Corporate Profile
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Inheriting the Seiko Instruments Inc. business and continuing to evolve, Inc. is a maker of analog semiconductors.
+HOME
+Corporate Profile
+Vision
+SMALL
+Developing and manufacturing 
+ultra-small products
+SMART
+Providing power-saving analog 
+semiconductors leading to a “smart” society
+SIMPLE
+Providing simple, easy-to-use products 
+contributing to miniaturization and cost reduction
+The origin of our products lies in the development of ICs for quartz watches. We downsized quartz mechanisms from the size of a locker to something small enough to be worn on a wrist, and succeeded in bringing to production analog semiconductors that function accurately while using only a minute amount of energy. The safe and reliable leading-edge technology cultivated through our research and manufacturing is seeing increasing utilization in the latest key devices, including those for automobiles, smartphones, and healthcare.
+Corporate Profile
+Message
+Outline
+Vision
+History
+Business Field
+Integrated Production System
+Quality / Environment
+Worldwide Locations
+Message
+Company Outline
+Vision
+History
+Business Field
+Integrated Production System
+Management
+Worldwide Locations
+Inc. - specialized manufacturer of analog semiconductors
+News
+News Release
+New Products
+Topics
+Events
+COLUMN
+Products
+Power Management IC
+Memory
+Sensor
+Timer ICs / ASSPs
+Amplifiers
+Automotive ICs
+Healthcare
+Ultrasound Digital Transmit Pulsers
+Ultrasound Linear Transmit Pulsers
+High-Voltage Analog Switches
+Support
+Technical Question Form
+/ No Longer Available
+Package
+Information / Tools
+Corporate Profile
+Global Sales Offices
+Message
+Vision
+Company Outline
+History
+Business Field
+Integrated Production System
+Management
+Quality / Environment
+Worldwide Locations
+English
+English
+日本語
+簡体中文
+Website Use Terms and Conditions
 Privacy Policy
-Legal Notice
-Site Map
-Ethics Hotline
-Consultant Identification & Payments
-California Compliance Notice
-Transparency
-©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
-Back To Top
-×Where does it hurt?
-Enter your zip code:
-Choose a procedure:
-By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
-Where does it hurt?
-Enter your zip code:
-Choose a procedure:
-By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
-Start the conversation now.
-DON'PLAY.
-If hip or knee pain is making you live life on pause, it may be time to talk with a doctor about treatment options. Because life is a lot more fun when you Hit Play!
-We are inspired by the opportunity to work together to advance patient care.
-Johnson & Johnson Medical Devices Companies (JJMDC) advance patient care while delivering clinical and economic value to healthcare systems and helps providers address individual needs through a holistic approach.
-Where does it hurt?
-Enter your zip code:
-Choose a procedure:
-By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
-Find a Doctor
-© DePuy Synthes 2014-2018. All Rights Reserved.
-This site is published by the DePuy Synthes Companies, which are solely responsible for its content.
-This site is governed solely by applicable laws and governmental regulations.
-This site is for visitors from the United States.
-The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
+Web Site Privacy Policy
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies.  
+»Privacy Policy
+AcceptPart3 “S-85S1Series” and “S-1740/1741 Series”, New IoRegulators respond to a request by a startup company
+10/29/2018
+Techanalye Co.,Ltd.
+This time, introduce the new function, “the Supply Voltage Divided Output” which is prepared both in the Ultrahigh Efficiency Switching Regulator “ S-85S1Series ” and the Voltage Regulator “ S-1740/1741 Series ”.
+Regulators are indispensable for supplying stable voltages and it is also important to monitor remaining battery life for battery-powered products such as mobile, wearable and Iodevices. Existing and other companies’ regulators did not have this function and battery voltage divider had to be processed using external circuit to monitor the battery life (see left of the Figure 1).
+Fig.1 The new function “Supply Voltage Divided Output” in the S-85S1P
+“Supply Voltage Divided Output Regulator” is the regulator which a supply voltage divided output feature is added to. As in the right of the Figure 1, “the Supply Voltage Divided Output” circuit is included in the regulator and it divides the input voltage (Vin), outputs the voltage through the buffer, and inputs the voltage into a A/converter pin of a microcontroller to make it possible to monitor the voltage. It resolves the problems in the external circuit such as the variation of the resistances, the input impedance mismatch with the A/converter and so on. It increases the accurate understanding of the remaining battery life, reduces the mounting area and improves the power performance because of integrating the external circuit into the regulator (See Figure 2). This function which brings “throwing one stone to get three birds” into reality was accomplished not only by the ABLIC’s effort but also by a startup company’s request.
+Fig.2 “Supply Voltage Divided Output Regulator” make it possible to connect to a microcontroller A/converter directly and…
+High accuracy : No variation of the resistances, No input impedance mismatch with a
+A/converter on a microcontroller
+Miniaturization : Remove external circuit and reduce the mounting area
+Power performance improvement : Self-current consumption of the “supply voltage divided output” is reduced to 280 n(typical).
+The company is Braveridge Co., Ltd which is based at Kyushu, develops and produces Iodevices as well as develops and manufactures low power wireless modules such as (Bluetooth Low Energy), LoRaand (see footnote). To develop Iodevices which meet these standard specifications, the monitoring remaining battery life function which enables low power consumption and long-term battery life is essential. It is preferable to be designed as small as possible to improve the use-friendliness of the –portable devices. To realize these requests, developed the “Supply Voltage Divided Output Regulator”. Figure 3 shows the Braveridge’s Human Tracker which S-85S1is mounted in.
+Fig.3 Braveridge requests the Supply Voltage Divided Output Regulator for their Ioproducts.
+Generally, venture companies don’t have ample money and they have small human resources. Therefore, they have some superior technologies, but it is difficult to say they have a wide variety of skills. However, they have a passion for technology and innovation. They have a great source of ideas.
+ABLIC’s activity doesn’t only invest in a venture companies but also provides technical support and cultivates their business. invests into Japanese new business fields through supporting the startup companies.
+does not support them unilaterally. incorporates their fresh ideas, converts the vector from “Product-Out”, which is a concept that a company assumes a use case and a specification inside a company and develops the products, to “Market-In”, which is a concept that a company focuses on the customer’s requirements, and develops a new products which are improved usability, development efficiency and cost efficiency. It would not be obtained by conventional methods.
+“Supply Voltage Divided Output Regulator” is the product developed utilizing the advantages of the startup company and the historic old company, that is, Japanese old and new organization.
+Note : LoRaWAN、SIGFOX…One of the standard specification to provide LPWA（Low Power Wide Area, Wireless communication technologies for battery-efficient and ubiquitous wide-area connectivity). Both use unlicensed band frequencies.
+Contributed by Techanalye Co.,Ltd.
+The company name “Techanalye” is derived from a newly coined word which combined “Technology”, “Analyze” and “for everyone”.
+Techanalye reports system structure and trends by analyzing every single electronic device.
+Ultrahigh efficiency step-down switching regulator S-85S1series
+voltage regulator S-1740/1741 series
+Copyright © Inc. 2019, All Rights Reserved.
+This site uses cookies. By continuing to browse the site, you are agreeing to our use of cookies. »Privacy Policy
+Accept

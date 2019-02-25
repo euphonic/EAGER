@@ -1,323 +1,225 @@
-Healthcare Professionals
-Hospital Providers
-Ambulatory Surgery Centers
-Patients
-News & Press
-Contact Us
-MORE:
-Careers - Johnson & Johnson
-Privacy Policy
-Legal Notice
-US:
-Facebook
+Distributed Access Architecture (DAA) is the future for networks. The deployment of AOI's Remote solution provides the economic and scale advantages in the migration of  networks to DAA.
+is a world-leading supplier of diode lasers, photodiodes, and related modules and equipment, manufacturing our devices in our own semiconductor fabrication facility.
+Total Integration
+Our state-of–the-art semiconductor components coupled with an production line enables us to deliver performance with the fastest lead times at the most competitive cost.
+Our entire facility is ISO9001:2008 registered. We have maintained this registration since 2011, and continue to adhere to the principles of constantly improving ourselves and our products.
+We are a leading provider of fiber‑optic networking products. We serve four growing end-markets: internet data centers (Data Center), Cable Television Broadband (CATV), fiber-to-the-home (FTTH), and telecommunications. We design and manufacture a range of optical communications products employing our vertical integration strategy from laser chips, components, subassemblies and modules to complete turn-key equipment. We design, manufacture and integrate our own analog and digital lasers using a proprietary Molecular Beam Epitaxy (MBE) fabrication process, which we believe is unique in our industry. The lasers we manufacture are proven to be reliable over time and highly tolerant of changes in temperature and humidity (delivering millions of hours service), making them well-suited to the and markets where networking equipment is often installed outdoors.
+All three of our end markets are driven by bandwidth demand fueled by the growth of network‑connected devices, that included video traffic, cloud computing and online social networking. To address this increased bandwidth demand, and telecommunications service providers are competing directly against each other by providing bundles of voice, video and data services to their subscribers and investing to enhance the capacity, reliability and capability of their networks. The trend of rising bandwidth consumption also impacts the internet data center market, as reflected in the shift to higher speed server connections. As a result of these trends, fiber‑optic networking technology is becoming essential in all four of our target markets, as it is often the only economic way to deliver the desired bandwidth.
+« Select an application or product type from the left for more information
+- Broadband
+Rocompliant package  •  Fully GR-468 Telcordia compliant
+The market is our largest and most established market, for which we supply a broad array of products including lasers, transmitters and turn-key equipment. In 2012, we were the leading provider of optical components and the second largest provider of subsystems to the industry, according to research firm Ovum Limited, or Ovum. Sales of headend, node and distribution equipment have contributed significantly to our growth in recent years as a result of our ability to meet the needs of equipment vendors who have begun to outsource both the design and manufacture of this equipment. While equipment vendors have relied upon third parties to assemble portions of their products, within the past four years certain of our customers have accelerated the outsourcing of both the design and manufacturing of both headend equipment and node equipment to third parties. The shift is due in part to the sophisticated engineering expertise needed to perform this work. We believe that our extensive high-speed optical, mixed‑signal semiconductor and mechanical engineering capabilities position us well to benefit from these industry dynamics.
+Data Rates from 1.25to 100G
+Ethernet & Fibre Channel & Sonet/SDH
+Downstream/Upstream rates up to 2.5 Gbps  •  Wide operating temperature range
+Rocompliant package  •  Fully GR-468 Telcordia compliant
+The market generally refers to the Passive Optical Networks, or PONs, that telecommunications service providers are deploying. PONs take their name from the use of passive splitters to divide the optical signal provided to each residential user over a shared fiber-optic cable from a service provider’s central office. The equipment in the service provider’s central office is called an optical line terminal, or OLT, and the equipment at the end user is an optical network unit, or supports significantly greater bandwidth than does the legacy copper wire network, although the connection speed to a user (the “downstream” speed) is higher than the connection speed from the user (the “upstream” speed). In the U.S., Verizon’s service and AT&T’s uVerse offering are examples of deployments, and PONs have been widely deployed in Japan, Korea and selected cities in Europe as well. According to a 2013 Infonetics report, worldwide subscribers are expected to grow from 57 million in 2012 to 149 million in 2017, representing a of 21%, with the growth of higher speed connections among those subscribers being greater than the overall growth of connectivity.
+Over time, the technology used in PONs has evolved to meet the increased bandwidth demand from users. At present, the most commonly deployed technology is GPON, or Gigabit PON, which delivers up to 2.5 gigabits per second of data downstream, split among subscribers, and 1.5 gigabits per second upstream. Due to the splitting of the bandwidth among multiple users—often as many as 32—the actual bandwidth delivered to an individual subscriber is far less than the 2.5 gigabits per second supported by the equipment. To deliver more bandwidth to a subscriber, a service provider can reduce the split ratio or change the technology. Reducing the number of subscribers supported by a single may be less expensive for modest, incremental upgrades, but may not be the most economical solution to deliver the significant increases in bandwidth needed to support 1 gigabit per second service to the home, as encouraged by the FCC’s Gigabit Challenge.
+One approach that does support 1 gigabit per second service to the home connection is WDM-PON, or wavelength division multiplexing Well-proven in other areas of the network for decades, technology enables the transmission of multiple wavelengths of data over a single fiber-optic strand, thus significantly increasing the bandwidth of the physical fiber connection. Due to this significant increase in bandwidth supported with WDM-PON, the cost per bit delivered to a subscriber is lower than that for GPON—at faster connection speeds. In addition to providing more bandwidth, WDM-offers a subscriber superior privacy and the service provider better scalability because each subscriber has a dedicated wavelength rather than a shared one.
+and SFP+ Compliant  •  Rocompliant
+In contrast with transceivers used in data centers and datacom, which are typically designed for shorter reach applications, telecom transceivers are primarily designed for longer reach and often for broader operating temperatures for outdoor installation, and for other telecom-specific applications such as CPRI.
+AOI's telecom product portfolio includes and SFP+ MSA-compliant pluggable modules with data rates up to 10and utilizing TDM, DWDM, and for use in transport and wireless backhaul in support of modern wireless networks as well as fronthaul applications such as and also offers pluggable modules and discrete components designed for legacy networks and applications including and CDMA.
+CATV
+We offer a complete line of highly linear lasers and photodiodes for Cable Television applications
+Wireless
+Analog lasers with wider frequency responses for CDMA, W-CDMA, GSM, and antenna remoting and other high-frequency applications.
+Low Capacitance Photodiodes for use in 1310-nm and 1550-nm Analog Applications
+High performance and high-reliability optical BiDi and triplexer modules for applications
+Compliant with QSFP+ SFF-8436
+Compliant with 802.3ba-2010
+SFP+ Compliant
+Compliant
+Tel 281-295-1800Founded in February 1997, Optoelectronics, Inc. (AOI) designs, develops, and manufactures advanced optical devices, packaged optical components, optical subsystems, laser transmitters, and fiber optic transceivers.
+These products are used in fiber optic communications equipment for (Fiber-to-the-Home), point-to-point telecom, datacom and access networks, and systems supporting cable television (CATV), network infrastructure.
+is a vertically integrated company with a state-of–the-art semiconductor component fab at our Headquarters near Houston, Texas. Coupled with an production line at our China operation, a high degree of manufacturing integration enables us to deliver performance with fast lead times at a competitive cost.
+transceiver products feature lasers with superior performance and excellent reliability. The transceivers are designed in and manufactured from our Taiwan Division. Each division of has assembled a world-class pool of talent, from professionals, to mechanical engineers, and digital circuit designers, all with the goal of developing best-in-class products.
+Broad product lines make capable of extending its addressable market to more fiber optic applications. Equipped with excellent design capability, key in-house optical components, and volume manufacturing facilities, is offering a uniquely high level of price competiveness and performance.
+Tel 281-295-1800Acceptance of Terms
+When you access this web site ("Web Site" or "Site"), you acknowledge that you have read and agree to abide by the terms described below ("Terms"). If you do not agree to the Terms discussed here, you should exit this Web Site now.
+Copyright
+Unless otherwise indicated, information contained in this Site is Copyright © 2000-2016 Optoelectronics, Inc. ("AOI") or the original creator of the material. All Rights Reserved. Except as stated herein, none of the material may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means, including, but not limited to, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of or the copyright owner. Permission is granted to display, copy, distribute and download the materials on this Site for personal, informational, non-commercial use only, provided you do not modify the materials and that you retain all copyright and other proprietary notices contained in the materials. You also may not, without AOI's permission, "mirror" any material contained on this Site on any other server. This permission terminates automatically if you breach any of these Terms. Upon termination, you must immediately destroy any downloaded and printed materials. Any unauthorized use of any material contained on this Site may violate copyright laws, trademark laws, the laws of privacy and publicity, and communications regulations and statutes.
+Trademarks
+All product and brand names are trademarks or registered trademarks of their respective holders. Optoelectronics, Inc., AOI, the logo, QuantuMax, and "Bringing the World to Light" are trademarks, service marks, or registered trademarks of AOI's trademarks may be used publicly only with permission from Fair use of AOI's trademarks in advertising and promotion of products requires proper acknowledgement.
+Patents
+The products described on this Site may be covered by one or more and foreign patents and pending applications.
+Other Terms
+No Warranty
+Material on this Site is provided "as is" and does not constitute a warranty of any kind, either express or implied. disclaims all warranties, expressed or implied. This includes but is not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement. It also includes any expressed or implied warranties arising from any course of dealing, usage or trade practice. While attempts to provide accurate information on this Web Site, it assumes no responsibility for accuracy. may change the information on the Site, or the products mentioned, at any time without notice. Mention of non-products or services is for information purposes only and constitutes neither an endorsement nor a recommendation.
+Third Party Web Sites
+may provide hyperlinks or pointers on this Site to other web sites maintained by third parties. The links to any such third party web sites are provided for your convenience and information only. The content in any linked web site is not under our control and if you decide to access any such web site, you do so entirely at our own risk. The fact that we provide a link to a third party web site does not mean that we endorse, authorize or sponsor any such site or that we are affiliated with such third party.
+Legal Documents
+Forward-Looking Statements; Limitation of Liability
+Some of the information on this Site may contain projections or other forward-looking statements regarding future events or the future financial performance of We wish to caution you that these statements are only predictions and that actual events or results may differ materially.
+expressly disclaims all liability for the use or interpretation by others of information contained in this Site. visitor who uses, or makes decisions based upon, information contained in this Site does so at the visitor's own risk. is not liable for any direct, indirect, special, incidental or consequential damages arising out of the use, or the inability to use, the material on this Site. This includes but is not limited to the loss of data or loss of profit, even if was advised of the possibility of such damages.
+Submissions
+does not want you to, and you should not, send any confidential information or proprietary information to via the Web Site. Any submission by you becomes the property of and you grant the authority and right to use that information. By sending materials or information, you grant an unrestricted, irrevocable license to use, reproduce, display, perform, modify, transmit and distribute such material or information and you further agree that is free to use any ideas, concepts, know-how or techniques that you provide for any purpose.
+Compliance and Revision of Terms
+Compliance and Revision of Terms. makes no representation that the information contained in this Site or that access to this Site is appropriate or available for use throughout the world. You are responsible for compliance with all applicable local laws in the geography from which you access this Site, including but not limited to, all applicable export and import laws and regulations. Any claims relating to AOI’s Site shall be governed by the laws of the State of Texas, USA, exclusive of its conflict of law provisions. may unilaterally revise these Terms and conditions without notice and any such changes shall be effective upon posting.
+Tel 281-295-1800Skip to main content
+About Our
+Company
+Overview
+Management Team
+Board of Directors
+Global Compliance
+Visit AOI
+Our
+Products
+Applications
+- Broadband
+Data Center
+FTTH
+Telecom
+Sensing
+Product Types
+Components
+Transceivers
+Investor
+Relations
+News &
+Events
+Overview
+Events
+Contact &
+Careers
+Overview
+Careers
+Benefits
+Life in Houston
+Online Contact Form
 Twitter
 LinkedIn
-YouTube
-Contact Us
- Select your country
-Home
-About DePuy Synthes
-News and Press
-Toggle navigation
-DePuy Synthes
-Home
-About DePuy Synthes
-News and Press
-DePuy Synthes
-Overview
-Overview
-Neuro
-(Craniomaxillofacial)
-Joint Reconstruction (Knee, Hip & Shoulder)
-Mitek Sports Medicine
-Power Tools
-Spine
-Trauma
-Corporate Info
-What We Believe
-Our History
-Social Responsibility
-Principles of Collaboration
-Open Payments
-Transparency
-DePuy Synthes Global Code of Conduct
-California Compliance Notice
-Funding Requests
-Funding Requests
-Education Grants
-Fellowships
-Charitable Contributions
-Exhibits and Commercial Sponsorships
-Investigator Initiated Research
-Recall
-News and Press
-Careers
-Our Latest News
-10/16/2018
-DePuy Synthes Announces Agreement with Ortho Development® Corporation to Promote its KASM® Knee Articulating Spacer Mold 
-16, 2018 Warsaw, – Johnson & Johnson Medical Devices Companies* today announced that DePuy Synthes Sales, Inc. has entered into an exclusive agreement with Ortho Development® Corporation to co-promote in the its KASM® Knee Articulating Spacer Mold. This is a sterile, disposable cement spacer mold for patients who develop an infection after primary knee replacement. This new offering builds upon DePuy Synthes’** commitment to innovative knee solutions focused on helping patients along the care continuum.
-09/26/2018
-DePuy Synthes Expands Spine Portfolio with Nerve Assessment Platform  Designed to Identify & Avoid Nerves During Spine Surgery 
-Los Angeles – September 26, 2018 – Johnson & Johnson Medical Devices Companies* announced today that DePuy Synthes** is introducing MMG, a first-of-its-kind digital mechanomyography platform designed to assess nerve status and identify and avoid peripheral nerves during spine surgery. enables motor nerve monitoring for a variety of spine procedures, including non-fusion procedures such as discectomy and both minimally invasive (MIS) and open spinal fusion surgery.  is being broadly introduced at the 2018 North America Spine Society Meeting in Los Angeles, California. 
-09/12/2018
-Johnson & Johnson Medical GmbAcquires Emerging Implant Technologies Gmbto Enhance Global Offering of Interbody Spine Implants
-Norderstedt, Germany – September 12, 2018 – Johnson & Johnson Medical Devices Companies*, through its subsidiary Johnson & Johnson Medical GmbH, announced today the acquisition of Emerging Implant Technologies Gmb(EIT), a privately held manufacturer of 3D-printed titanium interbody implants for spinal fusion surgery, based in Wurmlingen, Germany. The products in this portfolio leverage EIT’s proprietary advanced cellular titanium, which consists of an open and interconnected porous structure designed to allow bone to grow into the implant. As industry leaders across the full range of orthopaedic and spine specialties, Johnson & Johnson Medical Devices Companies will leverage its global commercial infrastructure to bring EIT’s technologies to patients around the world. 
-08/20/2018
-New National Survey Uncovers the Surprising Impact that Knee and Hip Pain Has on Women’s Emotional Well-Being
-WARSAW, Ind. – August 20, 2018 – While many who suffer from knee or hip pain know that it impacts their everyday activities, results from a new survey show the significant emotional impact of joint pain. This includes impact on romantic and social relationships, ability to pursue hobbies and overall mood. The survey of more than 500 women ages 45-65, including those who have had joint replacement surgery and those planning to have joint replacement surgery, revealed: 
-07/26/2018
-DePuy Synthes Launches Expandable Interbody Implant as Part of a New Procedural Solution for Minimally Invasive Spine Surgery (MIS) that Enhances Surgical Efficiency
-Raynham, – July 26, 2018 – Johnson & Johnson Medical Devices Companies* today announced 
-that DePuy Synthes** is launching the Expandable Interbody Device in the 
-The Implant is designed to treat patients suffering from degenerative disc disease as part of the new offering called (Transforaminal Lumbar Interbody Fusion) Procedural Solution. The complete system includes a comprehensive set of solutions to help simplify key stages of this surgery by enhancing surgical efficiency.
-06/20/2018
-New Suture from DePuy Synthes Designed to Help Address Challenges Associated with Rotator Cuff Surgery
-20, 2018 San Diego, – Johnson & Johnson Medical Devices Companies* through the DePuy Synthes** franchise today announces the launch of Suture to repair soft tissue such as the rotator cuff in the shoulder. Part of the DePuy Synthes Mitek Sports Medicine portfolio, Suture is available on Anchors and adds to DePuy Synthes’ innovative solutions designed to help address unmet patient needs in soft tissue repair. Suture was launched today at the San Diego Shoulder Institute’s 35th Annual Course. 
-Search News & Press
-Search
-Company:
-All Companies
-All Divisions
-Codman & Shurtleff, Inc.
-Corporate Information
-DePuy Mitek, Inc.
-DePuy Orthopaedics, Inc.
-DePuy Spine, Inc.
-Healthcare Professionals
-Year:
-All Years
-Go 
-Media Contacts
-All inquiries can be submitted by email to:
-Media Inquiries
-Careers - Johnson & Johnson 
-Contact Us
-Privacy Policy
-Legal Notice
-Site Map
-Ethics Hotline
-Consultant Identification & Payments
-California Compliance Notice
-Transparency
-©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
-Back To Top
-×Healthcare Professionals
-Hospital Providers
-Ambulatory Surgery Centers
-Patients
-News & Press
-Contact Us
-MORE:
-Careers - Johnson & Johnson
-Privacy Policy
-Legal Notice
-US:
+Google+
 Facebook
-Twitter
-LinkedIn
-YouTube
-Contact Us
- Select your country
-Home
-About DePuy Synthes
-Corporate Info
-California Compliance Notice
-Toggle navigation
-DePuy Synthes
-Home
-About DePuy Synthes
-Corporate Info
-California Compliance Notice
-DePuy Synthes
 Overview
-Overview
-Neuro
-(Craniomaxillofacial)
-Joint Reconstruction (Knee, Hip & Shoulder)
-Mitek Sports Medicine
-Power Tools
-Spine
-Trauma
-Corporate Info
-What We Believe
-Our History
-Social Responsibility
-Principles of Collaboration
-Open Payments
-Transparency
-DePuy Synthes Global Code of Conduct
-California Compliance Notice
-Funding Requests
-Funding Requests
-Education Grants
-Fellowships
-Charitable Contributions
-Exhibits and Commercial Sponsorships
-Investigator Initiated Research
-Recall
-News and Press
-Careers
-DePuy Synthes Companies California Compliance
-NOTICE: this information is provided pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765), which requires certain pharmaceutical and medical device companies doing business in California to make available their program for compliance with applicable federal and state laws and industry standards regulating the marketing and promotion of their products
+Management Team
+Board of Directors
+Global Compliance
+Visit AOI
+About Our Company
+Our Locations
+World Headquarters - Houston
+13139 Jess Pirtle Blvd.
+Driving Directions (From 59)
+Head south on 59 and exit at US-90 and turn right.
 
-INTRODUCTION
-The Operating Companies of DePuy Synthes, under the legal entity DePuy Orthopaedics, Inc., (the "Company") have established a program designed to materially comply with applicable federal and state laws and industry standards relating to the marketing and promotion of its products. Additionally, the Company recognizes that adherence to these standards can be furthered through a compliance program that is informed by the Compliance Program Guidance for Pharmaceutical Manufacturers, published by the Office of Inspector General of the Department of Health and Human Services (the "Guide"). The Guide advises that effective compliance programs are comprised of seven elements. As described below, these elements form the basis of the Company's program for compliance with the standards regulating the marketing and promotion of its products.
-II.
- Overview of Compliance Program
-1. Written Policies and Procedures
-The Company has written policies to assure substantial compliance with the applicable laws and regulations and standards governing the marketing and promotion of our products. Among these standards are recognized industry codes of conduct including the Code of Ethics on Interactions with Health Care Professionals (AdvaMed Code), published by the Advanced Medical Technology Association ("AdvaMed"). The Company has established written policies that govern activities involving communicating with customers about the appropriate use of our products including appropriate instruction, education, training, service and technical support required for the safe and effective use of our products. The Company also has policies governing activities involving the advancement of scientific and educational activities supporting medical research and education. These policies include:
-Policies on Educational Grants and Research Grants
-The Company may provide grants for specific educational purposes that benefit patients and customers. These may include, but are not limited to, continuing medical and paraprofessional education programs, fellowships provided to teaching institutions and similar organizations with a demonstrated commitment to scientific and technical education, and programs operated by organizations that provide high-quality, nationally recognized patient education. Funding of educational programs will generally be provided only to organizations and institutions and not to individual practitioners.
-Research grants to support customer-initiated research may be provided for programs involving research in areas of legitimate interest to the company. All requests are subject to scientific review prior to funding approval.
-Policy on Charitable Contributions and Patient Assistance
-The Company will consider charitable contributions and requests for patient assistance in the areas of children's health, health care education, access to health care and community responsibility, consistent with the Company policies.
-Policy on Travel Expense Reimbursement for CME, Promotional or Product Training Meetings
-The Company will, with very limited exceptions that are in accordance with nationally recognized standards, not reimburse for travel and lodging expenses of attendees at promotional and educational programs.
-The Company may reimburse attendees for their reasonable travel and lodging expenses associated with attendance at product training meetings. Product training meetings will be conducted in locations conducive to the exchange of information such as educational or conference settings. Where face-to-face or hands-on customer training is reasonably necessary for the safe and effective use of the Company's medical device products is required, the Company may provide training at company facilities, at independent teaching centers such as medical institutions, or in other appropriate clinical settings.
-Policy on Business Meals
-The Company may occasionally offer a modest meal, consistent with the standards of the AdvaMed Code as part of an educational presentation or a business discussion. Venues that feature entertainment or recreation, and attendance by spouses or guests, are not permitted.
-Policy on the Provision of Educational and Practice-Related Items
-On occasion, the Company representatives may provide items that benefit patients or serve a genuine educational function for Health Care Professionals, consistent with the standards of the AdvaMed Code.
-Total Annual Dollar Limit for Meals and Educational or Practice-related Items 
-Each of the Companies, have established an annual limit of $1,500 for meals and educational items as the aggregate value of the items or activities that may be provided to California health care professionals pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765).
-Policy Prohibiting Entertainment
-It is the policy of the Company not to provide Entertainment (e.g. sporting events, golf outings, concerts, hunting, etc.) to customers.
-2. Assigned Compliance Officer
-The Company has appointed Health Care Compliance Officers. Our Health Care Compliance Officers have been empowered with appropriate authority to exercise independent judgment and has free and unencumbered access to senior management.
-The Company has appointed Health Care Compliance Committees. The committees are comprised of the Company's Health Care Compliance Officers and members of the Company's management team.
-3. Training.
-The Company has an annual Health Care Compliance training process that includes testing and annual certification of appropriate employees. The training covers applicable guidelines governing our compliance program. Employees are also trained on the consequences of failure to comply with the requirements of the company's compliance program.
-4. Communication.
-The Company encourages open and candid discussion between management and employees regarding any compliance concerns. The Company employees are encouraged to report their concerns to their manager, to the Human Resources Department, to the Law Department or to the company's Health Care Compliance Officer.
-5. Auditing and Monitoring. 
-The Company self-assesses and periodically audits its compliance with its policies and procedures.
-6. Enforcement and Disciplinary Guidelines.
-The Company will take disciplinary actions in response to violation of the company's compliance policies or procedures. The Company will conduct a fair and diligent investigation of matters that are brought to the company's attention in order to ensure the consistent application of the company's standards.
-7. Responses To Detected Problems and Actions To Correct Issues.
-The Company requires a prompt and diligent response to potential violations of the company's compliance program, including its standards regulating the marketing and promotion of our products. Actions in response to detected problems may include improving policies, procedures, training, communication and monitoring or may require disciplinary action to prevent future violations.
-For a copy of this California Compliance Program, please call 1-877-889-3636. Provide your name, mailing address and request that a copy of the DePuy Synthes California Compliance program be sent to you.
-LAW
-As part of the Company's ongoing efforts in the area of compliance, we have developed a Comprehensive Compliance Program that is designed to comply with applicable federal and state laws and industry standards relating to the marketing and promotion of our products. To our knowledge as of the date of this declaration, the Company is in compliance with our Comprehensive Compliance Program, as described here, and with California Health & Safety Code sections 119400-119402.
-Dated: May 1, 2018
-Careers - Johnson & Johnson 
-Contact Us
-Privacy Policy
-Legal Notice
-Site Map
-Ethics Hotline
-Consultant Identification & Payments
-California Compliance Notice
-Transparency
-©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
-Back To Top
-×Healthcare Professionals
-Hospital Providers
-Ambulatory Surgery Centers
-Patients
-News & Press
-Contact Us
-MORE:
-Careers - Johnson & Johnson
-Privacy Policy
-Legal Notice
-US:
-Facebook
+Proceed west on US-90 to Gillingham and turn right.
+
+is located on the southwest corner of the intersection.
+HOTELS
+Sugar Land Marriott Town Square
+16090 City Walk
+H
+yatt Place Houston/Sugar Land
+16730 Creekbend Dr.
+*Ask for AOI's Corporate Rate
+Taiwan
+No. 18, Gong 4th Rd., Linkou District,
+China
+No. 88, Qiushi Rd.
+Atlanta
+3025 Breckinridge Blvd Suite 130
+About Us
+Products
+Investors
+News & Events
+Contact
+Legal
+®Management Team
+Dr. Thompson Lin  |  Founder, President, Chief Executive Officer, and Chairman of the Board
+Dr. Stefan Murry  |  Chief Financial Officer and Chief Strategy Officer
+Stefan Murry, Ph.D., has served as our Chief Financial Officer since August 2014. Previously, Dr. Murry served as our Chief Strategy Officer from December, 2012, our Vice President of Sales and Marketing from June 2004 until December 2012, our Director of Sales and Marketing from January 2000 to June 2004 and as a Senior Engineer of Device Packaging from February 1997 to January 2000. He also previously served as Research Associate and Mission Control Specialist with the Space Vacuum Epitaxy Center in Houston, Dr. Murry has been issued multiple patents in the industry, as well as in various related and complimentary industries. Dr. Murry received and degrees in Physics and a Ph.in Electrical Engineering from the University of Houston.
+Dr. Fred Chang  |  Senior Vice President and North America General Manager
+Hung‑Lun (Fred) Chang, Ph.D., has served as the Senior Vice President of the Optical Component Business Unit since October 2012. Previously, Dr. Chang served as Vice President of our Optical Module Division from March 2005 until October 2012, our Director of Manufacturing from June 2002 to March 2004, and as our Deputy Packaging Manager from April 2001 to May 2002. Dr. Chang has held numerous positions in the industry throughout his career. His most recent position prior to joining us was Deputy Manager of the Optical Active Component Group at Hon‑Hai Precision Industry Co., Ltd., which is based in Taiwan. He was also a researcher and project manager of the Optoelectronic Module Technology group at Chunghwa Telecom Co., Ltd. from 1996 to 2000. Dr. Chang received a degree in Electrophysics and a Ph.in Electro‑Optical Engineering from National Chiao Tung University in Taiwan.
+Dr. Klaus Alex Anselm  |  Vice President Semiconductor Products
+Dr. Klaus Alex Anselm joined in 1999 and has served as our Vice President of Semiconductor Products since 2008. Previously, Dr. Anselm was responsible for fundamental developments in the use of Molecular Beam Epitaxy for Bell Laboratories, Lucent Technologies. Dr. Anselm earned his Ph.in Electrical Engineering from the University of Texas. Dr. Anselm holds twenty-three patents and has written more than forty journal articles and conference presentations.
+Shu-Hua (Joshua) Yeh  |  Senior Vice President and Asia General Manager
+Shu‑Hua (Joshua) Yeh has served as our Asia General Manager since February 2015 and as Senior Vice President of our Network Equipment Module Business Unit since November 2012. Previously, Mr. Yeh served as our General Manager of our Video Equipment Division of Global Technology Inc., our China subsidiary, since its acquisition by us in March 2006 and had served as its President and Chief Executive Officer from April 2002 until the acquisition. From May 1995 to April 2002, Mr. Yeh served as a Vice President of Sales and Marketing of Twoway Technology Inc. Mr. Yeh received a degree in Mechanical Engineering and an in Automatic Control Science from National Chung Shing University in Taiwan.
+David Kuo | Vice President, General Counsel & Corporate Secretary
+David Kuo joined in 2007 and has served as our Vice President and General Counsel since August 2013 and as our Corporate Secretary since November 2012. Previously, Mr. Kuo served as our Assistant General Counsel from May 2009 until August 2013, and as our Asia Legal Manager from January 2011 until August 2013. Mr. Kuo holds a from South Texas College of Law and a degree in Real Estate from Baylor University.
+Tel 281-295-1800Treating all stakeholders with dignity and respect,
+Ensuring safe working conditions across our supply chain
+Operating in an environmentally responsible manner, and
+Commitment to continuous improvement
+AOI's policy represents a statement of our commitment to that is based on and consistent with the Responsible Business Alliance (RBA), formerly known as the Electronic Industry Citizenship Coalition (EICC), Code of Conduct.  The Code of Conduct is a set of standards on social, environmental and ethical issues in the electronics industry supply chain.
+We enforce these commitments through our Code of Business Conduct and Ethics, Environmental Management System, Employee Handbook and SOPs which are applicable to all our employees and operations and our Supplier Code of Conduct, which our business partners (including suppliers) are directed to comply with.
+Conflict Minerals Policy Statement
+Section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) enacted in July 2010 imposes certain reporting obligations on Securities and Exchange Commission (SEC) registrants whose manufactured products contain conflict minerals which are necessary to the functionality or production of their products. Conflict Minerals are defined as tin, tantalum, tungsten, and gold that originates from the Democratic Republic of the Congo (DRC) or an adjoining country.
+As directed by the Dodd-Frank Act, the has adopted rules requiring publicly traded companies to disclose whether they use tantalum, tin, gold and tungsten that originated in the or an adjoining country and if so, to issue a report identifying their products that are not conflict free and their due diligence efforts to determine the source and chain of custody of the metals. Conflict Free means the product does not contain tantalum, tin, gold and tungsten that directly or indirectly finances or benefits armed groups in the or an adjoining country.
+supports efforts to eliminate the use of tantalum, tin, gold and tungsten from improper sources that could promote such serious problems in the and adjoining countries.
+Accordingly, AOI’s policy on Conflict Minerals is:
+strives to have a Conflict Free supply chain, and is committed to sourcing products and materials from conflict-free sources
+expects our vendors to have policies and processes in place to be able to trace the source of their materials and products to ensure that any Conflict Minerals contained in products we purchase from our vendors do not originate from conflict mines within the and the surrounding region
+will provide applicable vendors with the standardized Electronic Industry Citizenship Coalition/Global E-Sustainability Initiative (EICC/GeSI) Conflict Minerals Reporting Template (CMRT) that traces the metals back through the supply chain. also supports industry initiatives such as the Conflict-Free Sourcing Initiative (CFSI) Conflict Free Smelter Program (CFSP) to validate responsible and sustainable sources. Our objective is to have a conflict-free supply chain. If becomes aware of a vendor whose supply chain includes metals from a conflict source, will take the appropriate actions to remedy the situation in a timely manner, including reassessment of vendor relationships, to achieve that objective. expects our vendors to take similar measures with their vendors to ensure alignment throughout the supply chain.
+Tel 281-295-1800Skip to main content
+About Our
+Company
+Overview
+Management Team
+Board of Directors
+Global Compliance
+Visit AOI
+Our
+Products
+Applications
+- Broadband
+Data Center
+FTTH
+Telecom
+Sensing
+Product Types
+Components
+Transceivers
+Investor
+Relations
+News &
+Events
+Overview
+Events
+Contact &
+Careers
+Overview
+Careers
+Benefits
+Life in Houston
+Online Contact Form
 Twitter
 LinkedIn
-YouTube
-Contact Us
- Select your country
-Home
-About DePuy Synthes
-Toggle navigation
-DePuy Synthes
-Home
-About DePuy Synthes
-DePuy Synthes
+Google+
+Facebook
 Overview
-Overview
-Neuro
-(Craniomaxillofacial)
-Joint Reconstruction (Knee, Hip & Shoulder)
-Mitek Sports Medicine
-Power Tools
-Spine
-Trauma
-Corporate Info
-What We Believe
-Our History
-Social Responsibility
-Principles of Collaboration
-Open Payments
-Transparency
-DePuy Synthes Global Code of Conduct
-California Compliance Notice
-Funding Requests
-Funding Requests
-Education Grants
-Fellowships
-Charitable Contributions
-Exhibits and Commercial Sponsorships
-Investigator Initiated Research
-Recall
-News and Press
-Careers
-About DePuy Sysnthes Hero Image
-The DePuy Synthes Companies
-Johnson & Johnson Family of Companies
-.
+Management Team
+Board of Directors
+Global Compliance
+Visit AOI
+About Our Company
+Dr. Thompson Lin   |  
+Chairman of the Board of Directors
 
-We offer the world’s most comprehensive portfolio of orthopaedic and neuro products and services for joint reconstruction, trauma, spine, sports medicine, neuro, cranio-maxillofacial, power tools and biomaterials.
-DSUS/MOC/0817/0816 11/2017
-DePuy Synthes Joint Reconstruction
-One of the largest orthopaedics companies in the world, with leading solutions for hip, knee and shoulder replacement.
-DePuy Synthes Trauma
-The global leader in orthopaedic trauma devices for internal and external fixation.
-DePuy Synthes Spine
-Offering one of the world’s most diverse portfolios of spinal-care solutions for both traditional and minimally invasive spine surgery.
-DePuy Synthes Mitek Sports Medicine
-leading developer and manufacturer of pain management and minimally invasive solutions, including sports medicine and soft-tissue repair products.
-DePuy Synthes Power Tools
-Delivering a comprehensive range of power instrument systems, reamers and saws to meet a broad spectrum of clinical needs.
-DePuy Synthes Neuro
-Providing a wide range of solutions for the diagnosis and treatment of neurological disorders focusing on neurovascular, neurosurgery and neuromodulation solutions.
-DePuy Synthes CMF
-Offering systems that provide a complete array of implants and instruments for the treatment of facial trauma, tumor resection and reconstruction.
-Careers - Johnson & Johnson 
-Contact Us
-Privacy Policy
-Legal Notice
-Site Map
-Ethics Hotline
-Consultant Identification & Payments
-California Compliance Notice
-Transparency
-©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
-Back To Top
-×Where does it hurt?
-Enter your zip code:
-Choose a procedure:
-By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
-Where does it hurt?
-Enter your zip code:
-Choose a procedure:
-By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
-Start the conversation now.
-DON'PLAY.
-If hip or knee pain is making you live life on pause, it may be time to talk with a doctor about treatment options. Because life is a lot more fun when you Hit Play!
-We are inspired by the opportunity to work together to advance patient care.
-Johnson & Johnson Medical Devices Companies (JJMDC) advance patient care while delivering clinical and economic value to healthcare systems and helps providers address individual needs through a holistic approach.
-Where does it hurt?
-Enter your zip code:
-Choose a procedure:
-By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
-Find a Doctor
-© DePuy Synthes 2014-2018. All Rights Reserved.
-This site is published by the DePuy Synthes Companies, which are solely responsible for its content.
-This site is governed solely by applicable laws and governmental regulations.
-This site is for visitors from the United States.
-The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
+Chih‑Hsiang (Thompson) Lin, Ph.D., founded Optoelectronics, Inc. in February 1997 and has been President and Chief Executive Officer since our inception. He currently serves as the Chairman of our Board, a position he has held since January 2014. He has served as a director on our Board since 1997, and he served as Chairman of our Board from May 2000 through September 2002, and again from June 2008 through October 2009. Dr. Lin has also served as a research associate professor and senior research scientist at the University of Houston. Dr. Lin holds a degree in Nuclear Engineering from National Tsing Hua University in Taiwan and a degree and a Ph.in Electrical and Computer Engineering from University of Missouri‑Columbia. The Board believes that Dr. Lin is qualified to serve as a director based on his extensive background in business management, his role as founder, President and Chief Executive Officer and his years of service on our Board.
+Chairman of the Compensation Committee and Member of the Corporate Governance Committee
+
+William Yeh has served as a director on our Board since May 2000. Since 1997, he has served as the Chief Executive Officer and President of Golden Star Management, Inc. a real estate investment and management company. He is currently serving as an Advisor of Hanmi Bank for Texas Region. He served as a Senior Vice President of United Central Bank, now Hanmi Bank, overseeing the Houston region from 1997 to 2012. He also served as the Vice Chairman of Central Bancorp, Inc., the holding company of United Central Bank, from 1997 to 2014. Mr. Yeh received a degree from National Cheng Kung University in Taiwan and a degree from University of Houston—Clear Lake.
+Chairman of the Audit Committee and Member of the Corporate Governance Committee  
+
+Richard Black has served as a director on our Board since August 2001. Since 1983, he has served as the Chairman and Chief Executive Officer of ECRM, Incorporated, a worldwide supplier of laser based imaging equipment. From 2014 to 2016, he also served as President and Chief Executive Officer and a director of CRON‑ECRM LLC, a worldwide supplier of laser based imaging equipment. Beginning in 1989, Mr. Black was a director of Oak Technology, Inc., a manufacturer of semi‑conductors for optical storage and laser printers, and then became President in 1998 and Vice Chairman of the board of directors in 1999 until its merger with Zoran, Inc. in 2003. He served as a director and chairman of the audit committee of Group, a manufacturer of lasers, laser systems, semi‑conductor equipment, from 1998 to 2012, and was its chairman of its board of directors from 2006 to 2012. He served as a director and Chairman of the audit committee of Alliance Fiber Optics Products, Inc. (NASDAQ: AFOP) from 2002 until its acquisition by Corning in 2016. He serves as a director of Enterprises, Inc., a defense technology company, a position he has held since 2000. Mr. Black received a degree in Engineering from Texas A&University, an from Harvard University and an honorary Ph.from Beloit College.
+Member of the Audit Committee
+
+Alan Moore has served as a director on our Board since March 2013. Since 1995, he has served as the President of Red Oak Capital, a private equity company. Since 2007, Mr. Moore has served as a Manager of Silver Tree Fund Management, LLC, a real estate investment fund. From 1999 to May 2006, Mr. Moore cofounded and served as the Treasurer of Silver Tree Partners, Inc., a real estate development and investment company. From March 1998 to October 1999, Mr. Moore served as the Chief Financial Officer of Window on Wall Street (sold to Trade Station Group, Inc. in 1999). Previously, Mr. Moore was a co‑founder of Fossil, Inc. (NASDAQ: FOSL). Mr. Moore received a degree in Accounting and a BA degree in Business Control Systems from the University of North Texas.
+Member of the Audit Committee
+
+Alex Ignatiev, Ph.D.  has served as a director on our Board since February 2013, and previously served as a director on our Board from June 2008 to October 2009 and from May 2001 to August 2002. Since 2005, he has served as a director of the Center for Advanced Materials at the University of Houston. Since 2010, he has served as the Hugh Roy and Lillie Cranz Cullen professor of physics, chemistry and electrical and computer engineering at the University of Houston. From March 2013 to September 2015, Dr. Ignatiev served as the Chief Science Officer of Smart Grid Intelligent Management, Inc., which develops operating systems and alternative energy source integration. Since February 2009, he has served as the Chief Technology Officer of Quarius Technologies, LP, a renewable energy company, since February 2006, he has served as a vice president and Chief Technology Officer at Nano EnerTex, Inc., a nanomaterials company, from January 2005 to September 2015, he has served as a Vice President of Virtual Vision LLP, which develops artificial retinas, and since May 2002, he has served as the Chief Technology Officer and Chief Science Officer of Metal Oxide Technologies, LLC., which develops, manufactures and sells superconducting wire. Dr. Ignatiev received a Ph.in Materials Science from Cornell University.
+Chairman of the Governance Committee and Member of the Compensation Committee
+
+Min‑Chu (Mike) Chen, Ph.D.  has served as a director on our Board since February 2013. Since September 2016, he has served as Vice Chairman of the board of directors of Shandong SicerKline Advanced Material Co., Ltd., a surface‑etched silicon carbide and alumina mini‑whisker manufacturing plant for ceramic applications. Since April 2014, he has served as a director of Harbin NeoTek Medical Devices Co., Ltd. Since January 2012, he has served as an executive director of FGel Nanotek, Inc., a food and beverage additive company based on nanotechnology. Since November 2011, he has served as the Asia Pacific Director for Flow Control Group Pte. Ltd., a petroleum equipment manufacturer and services company. Since May 2010, he has served as executive director of C&International Services, Inc., a petrochemical equipment services and marketing company. Since 2003, he has served as a director of Seth Nanotechnology Inc., a nanotechnology patent portfolio company owning more than 10 patents in fullerene derivatives and related application technologies, and since 2001, he has been a partner and member of the board of directors of EverRich Capital Inc., a financial consulting company. From September 2008 to April 2010, Dr. Chen served as the Chief Executive Officer of SilverPAC, Inc., a consumer electronics business, and from March 1994 to June 2002, Dr. Chen served as a board member of PCTEL, Inc. (NASDAQ: PCTI). Dr. Chen received a Ph.in Ocean Engineering from Oregon State University.
+Che-Wei Lin  |  
+Member of the Compensation Committee
+
+Che‑Wei Lin has served as a director on our Board since January 2014, and previously served as a director on our Board from December 2006 to October 2009. Since November 2007, Mr. Lin has served as the President of ASMedia Technology Inc., a chipset manufacturer. Since November 2009, Mr. Lin has also served as the Corporate Vice President of the Motherboard Business Unit of the Open Platform Business Group of ASUSTek Computer Inc., a computer hardware and electronics company. Mr. Lin was employed at Technologies, Inc., a manufacturer of integrated circuits and motherboard chipsets, from 1993 to 2007 in various positions, including President of the Desktop Platform Business Unit, Vice President of the System Platform Division and Vice President of and Chipset Product Marketing. Mr. Lin received a in Electrical Engineering from Fu Jen University in Taiwan and a in Electrical Engineering from the University of Missouri.
+About Us
+Products
+Investors
+News & Events
+Contact
+Legal
+®

@@ -1,323 +1,2679 @@
-Healthcare Professionals
-Hospital Providers
-Ambulatory Surgery Centers
-Patients
-News & Press
+SOLUTIONS
+Enterprise Software
+BYOD
+Communications
+Content Collaboration
+Emergency Mass Communication
+Mobile Applications
+Remote Connectivity
+Unified Endpoint Management
+Licensing
+Licensing for IoDevice Manufacturers
+Licensing for Smartphone Manufacturers
+Transportation Asset Tracking
+Real-time Visibility for Transportation Assets
+Embedded Systems
+Automotive Software
+Static Application Security Testing
+Cryptography, Key Management & Digital Certificates
+PRODUCTS
+Spark Platform
+Endpoint Management
+UEM
+Applications
+Dynamics Platform
+Dynamics Apps
+Marketplace for Enterprise Software
+Automotive
+Platform for Instrument Clusters
+Platform
+All Products
+Resource Center
+Enterprise Product Overview
+Content Collaboration
+Workspaces
+Messaging, Voice & Text
+Enterprise
+Secufor Government
+Spark Communications Services
+Identity & Access Management
+Enterprise Identity
+2FA
+Transportation Asset Tracking
+Radar
+Enterprise Mobility Suite
+Alerts & Crisis Communications
+AtHoc
+Embedded
+Certicom Asset Management System
+Real Time Operating Systems
+Hypervisor
+Devices
+All Devices
+Apps for Android Smartphones
+Static Application Security Testing
+Jarvis
+SERVICES
+Professional Services
+Cybersecurity Consulting
+Enterprise Consulting
+Professional Services
+Support & Training
+Technical Support
+Incident Response Team
+Technical Training
+Product Training
+INDUSTRIES
+Education
+Universities & Colleges
+Financial Services
+Banking
+Insurance
+Government
+Central Government
+Defense & Security
+Public Safety & Law Enforcement
+Healthcare
+Healthcare
+Life Sciences
+Manufacturing
+Industrial Automation
+Professional Services
+Legal & Consulting
+Transportation
+Automotive
+Railways
+Transportation & Logistics
+Success Stories
+PARTNERS
+Partner Program
+Program Overview
+Solutions Providers
+ISVs
+Become a Partner
+Solutions Provider
+ISV
+Find a Partner
+Partner Apps
+Training Partners
+Partners
+SUPPORT
+Support Overview
+Enterprise Platforms & Apps
+UEM
+Mobility Suites
+Workspaces
+2FA
+Enterprise Identity
+Enterprise
+AtHoc
+Cloud
+WorkLife
+Supported Apps
+Enterprise BRIDGE
+Enterprise Support Services
+Enterprise Support Services
+Enterprise Consulting
+Training & Accreditation
+Smartphones & Apps
+Smartphones
+Smartphone Apps
+Desktop Software Downloads
+Product Information
+Documentation and Manuals
+Portals & Resources
+myAccount & Admin Portal
+Software Lifecycle
+Knowledge Base
+Support
+Radar Support
+Developer Network
+Developer Network
+Help Blog
+Support Videos
 Contact Us
-MORE:
-Careers - Johnson & Johnson
+BLOG
+Blogs
+Enterprise Blog
+Developer Blog
+Support Blog
+Register for Updates
+Contact Sales
+Contact Us
+to Acquire Cylance
+And add Premiere and Cybersecurity Capabilities
+Learn More
+Single Platform for Securing the Enterprise of Things 
+Secure 
+Secure 
+Secure 
+Secure Alerts & Crisis Communications
+Secure 
+Secure 
+Secure 
+MP
+02
+The first non-device to be protected by Secure embedded technology
+The most intelligent keyboard ever, and a battery that lasts up to 2 days, all on the BlackBerry® KEY2, powered by Android.
+Industry Recognition
+Leader
+MarketScape: Worldwide Enterprise Mobility Management Software 2018 Vendor Assessment
+REPORT
+Leader
+Gartner Unified Endpoint Management Magic Quadrant (July 2018)
+REPORT
+Tech Innovator Award
+Enterprise has been selected as winner of the Editor's Choice Category
+Read the Blog Post
+Top
+English
+German
+French
+Spanish
+Arabic
+Indonesian
+Japanese
+Chinese
+Company
+Newsroom
+Investors
+Careers
+Leadership
+Corporate Responsibility
+Certifications
+Customer Success
+Enterprise Platform & Apps
+Developer Network
+Inside Developers Blog
+Help Blog
+Overview
+Accessibility
+Patents
+Trademarks
 Privacy Policy
-Legal Notice
-US:
+Contact Us
+Support
 Facebook
 Twitter
-LinkedIn
 YouTube
+Instagram
+Read more hereSOLUTIONS
+Enterprise Software
+BYOD
+Communications
+Content Collaboration
+Emergency Mass Communication
+Mobile Applications
+Remote Connectivity
+Unified Endpoint Management
+Licensing
+Licensing for IoDevice Manufacturers
+Licensing for Smartphone Manufacturers
+Transportation Asset Tracking
+Real-time Visibility for Transportation Assets
+Embedded Systems
+Automotive Software
+Static Application Security Testing
+Cryptography, Key Management & Digital Certificates
+PRODUCTS
+Spark Platform
+Endpoint Management
+UEM
+Applications
+Dynamics Platform
+Dynamics Apps
+Marketplace for Enterprise Software
+Automotive
+Platform for Instrument Clusters
+Platform
+All Products
+Enterprise Product Overview
+Content Collaboration
+Workspaces
+Messaging, Voice & Text
+Enterprise
+Secufor Government
+Spark Communications Services
+Identity & Access Management
+Enterprise Identity
+2FA
+Transportation Asset Tracking
+Radar
+Enterprise Mobility Suite
+Alerts & Crisis Communications
+AtHoc
+Embedded
+Certicom Asset Management System
+Real Time Operating Systems
+Hypervisor
+Devices
+All Devices
+Apps for Android Smartphones
+Static Application Security Testing
+Jarvis
+Resource Center
+SERVICES
+Professional Services
+Cybersecurity Consulting
+Enterprise Consulting
+Professional Services
+Support & Training
+Technical Support
+Incident Response Team
+Technical Training
+Product Training
+INDUSTRIES
+Education
+Universities & Colleges
+Financial Services
+Banking
+Insurance
+Government
+Central Government
+Defense & Security
+Public Safety & Law Enforcement
+Healthcare
+Healthcare
+Life Sciences
+Manufacturing
+Industrial Automation
+Professional Services
+Legal & Consulting
+Transportation
+Automotive
+Railways
+Transportation & Logistics
+Success Stories
+PARTNERS
+Partner Program
+Program Overview
+Solutions Providers
+ISVs
+Become a Partner
+Solutions Provider
+ISV
+Find a Partner
+Partner Apps
+Training Partners
+Partners
+SUPPORT
+Support Overview
+Enterprise Platforms & Apps
+UEM
+Mobility Suites
+Workspaces
+2FA
+Enterprise Identity
+Enterprise
+AtHoc
+Cloud
+WorkLife
+Supported Apps
+Enterprise BRIDGE
+Enterprise Support Services
+Enterprise Support Services
+Enterprise Consulting
+Training & Accreditation
+Smartphones & Apps
+Smartphones
+Smartphone Apps
+Desktop Software Downloads
+Product Information
+Documentation and Manuals
+Portals & Resources
+myAccount & Admin Portal
+Software Lifecycle
+Knowledge Base
+Support
+Radar Support
+Developer Network
+Developer Network
+Help Blog
+Support Videos
 Contact Us
- Select your country
-Home
-About DePuy Synthes
-News and Press
-Toggle navigation
-DePuy Synthes
-Home
-About DePuy Synthes
-News and Press
-DePuy Synthes
-Overview
-Overview
-Neuro
-(Craniomaxillofacial)
-Joint Reconstruction (Knee, Hip & Shoulder)
-Mitek Sports Medicine
-Power Tools
-Spine
-Trauma
-Corporate Info
-What We Believe
-Our History
-Social Responsibility
-Principles of Collaboration
-Open Payments
-Transparency
-DePuy Synthes Global Code of Conduct
-California Compliance Notice
-Funding Requests
-Funding Requests
-Education Grants
-Fellowships
-Charitable Contributions
-Exhibits and Commercial Sponsorships
-Investigator Initiated Research
-Recall
-News and Press
+BLOG
+Blogs
+Enterprise Blog
+Developer Blog
+Support Blog
+Register for Updates
+Contact Sales
+Contact Us
+Securing the Enterprise of Things
+Our Vision
+connected world, in which you are safe and your data is yours.
+PRIVACY
+CYBERSECURITY
+Our Mission
+To be the world’s leading provider of end-to-end mobility solutions that are the most secure and trusted.
+ENDPOINTS
+WORKFORCE
+Company
+Newsroom
+Investors
 Careers
-Our Latest News
-10/16/2018
-DePuy Synthes Announces Agreement with Ortho Development® Corporation to Promote its KASM® Knee Articulating Spacer Mold 
-16, 2018 Warsaw, – Johnson & Johnson Medical Devices Companies* today announced that DePuy Synthes Sales, Inc. has entered into an exclusive agreement with Ortho Development® Corporation to co-promote in the its KASM® Knee Articulating Spacer Mold. This is a sterile, disposable cement spacer mold for patients who develop an infection after primary knee replacement. This new offering builds upon DePuy Synthes’** commitment to innovative knee solutions focused on helping patients along the care continuum.
-09/26/2018
-DePuy Synthes Expands Spine Portfolio with Nerve Assessment Platform  Designed to Identify & Avoid Nerves During Spine Surgery 
-Los Angeles – September 26, 2018 – Johnson & Johnson Medical Devices Companies* announced today that DePuy Synthes** is introducing MMG, a first-of-its-kind digital mechanomyography platform designed to assess nerve status and identify and avoid peripheral nerves during spine surgery. enables motor nerve monitoring for a variety of spine procedures, including non-fusion procedures such as discectomy and both minimally invasive (MIS) and open spinal fusion surgery.  is being broadly introduced at the 2018 North America Spine Society Meeting in Los Angeles, California. 
-09/12/2018
-Johnson & Johnson Medical GmbAcquires Emerging Implant Technologies Gmbto Enhance Global Offering of Interbody Spine Implants
-Norderstedt, Germany – September 12, 2018 – Johnson & Johnson Medical Devices Companies*, through its subsidiary Johnson & Johnson Medical GmbH, announced today the acquisition of Emerging Implant Technologies Gmb(EIT), a privately held manufacturer of 3D-printed titanium interbody implants for spinal fusion surgery, based in Wurmlingen, Germany. The products in this portfolio leverage EIT’s proprietary advanced cellular titanium, which consists of an open and interconnected porous structure designed to allow bone to grow into the implant. As industry leaders across the full range of orthopaedic and spine specialties, Johnson & Johnson Medical Devices Companies will leverage its global commercial infrastructure to bring EIT’s technologies to patients around the world. 
-08/20/2018
-New National Survey Uncovers the Surprising Impact that Knee and Hip Pain Has on Women’s Emotional Well-Being
-WARSAW, Ind. – August 20, 2018 – While many who suffer from knee or hip pain know that it impacts their everyday activities, results from a new survey show the significant emotional impact of joint pain. This includes impact on romantic and social relationships, ability to pursue hobbies and overall mood. The survey of more than 500 women ages 45-65, including those who have had joint replacement surgery and those planning to have joint replacement surgery, revealed: 
-07/26/2018
-DePuy Synthes Launches Expandable Interbody Implant as Part of a New Procedural Solution for Minimally Invasive Spine Surgery (MIS) that Enhances Surgical Efficiency
-Raynham, – July 26, 2018 – Johnson & Johnson Medical Devices Companies* today announced 
-that DePuy Synthes** is launching the Expandable Interbody Device in the 
-The Implant is designed to treat patients suffering from degenerative disc disease as part of the new offering called (Transforaminal Lumbar Interbody Fusion) Procedural Solution. The complete system includes a comprehensive set of solutions to help simplify key stages of this surgery by enhancing surgical efficiency.
-06/20/2018
-New Suture from DePuy Synthes Designed to Help Address Challenges Associated with Rotator Cuff Surgery
-20, 2018 San Diego, – Johnson & Johnson Medical Devices Companies* through the DePuy Synthes** franchise today announces the launch of Suture to repair soft tissue such as the rotator cuff in the shoulder. Part of the DePuy Synthes Mitek Sports Medicine portfolio, Suture is available on Anchors and adds to DePuy Synthes’ innovative solutions designed to help address unmet patient needs in soft tissue repair. Suture was launched today at the San Diego Shoulder Institute’s 35th Annual Course. 
-Search News & Press
-Search
-Company:
-All Companies
-All Divisions
-Codman & Shurtleff, Inc.
-Corporate Information
-DePuy Mitek, Inc.
-DePuy Orthopaedics, Inc.
-DePuy Spine, Inc.
-Healthcare Professionals
-Year:
-All Years
-Go 
-Media Contacts
-All inquiries can be submitted by email to:
-Media Inquiries
-Careers - Johnson & Johnson 
+Leadership
+Corporate Responsibility
 Contact Us
+Transforming and Empowering Securely Connected Organizations
+The Enterprise of Things represents the next great wave in business transformation. is leading the way with a single platform for securing, managing and optimizing how intelligent endpoints are deployed in the enterprise, enabling our customers to stay ahead of the technology curve that will reshape every industry.
+Quick Facts
+Innovation
+23% of revenue invested in R&D
+37,500 patents
+18 major development centers in 7 countries
+Financials
+*
+Total non-software and services revenue of $219 million in Q3’19, an increase of 10% year-over-year
+Recurring software and service revenue of 88%
+Eleventh consecutive quarter of non-operating income
+$2.4 billion of cash at November 30, 2018
+NYSE: BB; TSX: BB
+*
+As of  December 20, 2018
+Customers
+All 7 of the G7 governments
+10 of the 10 world's largest commercial banks
+10 of the 10 world's largest insurance companies
+8 of the 10 world's largest aerospace and defence contracts
+All 5 of the world's largest media companies
+Fully 54% of the Fortune 100
+Operations
+Global Headquarters: Waterloo, Ontario, Canada
+Operations in: 27 countries
+Founded in: 1984
+Analyst Recognition
+MarketScape: Worldwide Enterprise Mobility Management Software 2018 Vendor Assessment
+Spotlight
+“It's time to get the image of people in the late '90s frantically typing on their CrackBerries out of your head. That's BlackBerry's past. Software and services that makes for other companies is its future. And it looks like a bright one.” 
+“The self-driving car — equipped with software designed in Ottawa — is no mere hunk of metal. It’s the culmination of years of innovation and effort, a source of futuristic inspiration for Ottawa.”
+is back – this time as a software company – and it’s focusing on growing its channel strategy as a way to strengthen its cyber security solutions.
+Top
+English
+German
+French
+Spanish
+Arabic
+Indonesian
+Japanese
+Chinese
+Company
+Newsroom
+Investors
+Careers
+Leadership
+Corporate Responsibility
+Certifications
+Customer Success
+Enterprise Platform & Apps
+Developer Network
+Inside Developers Blog
+Help Blog
+Overview
+Accessibility
+Patents
+Trademarks
 Privacy Policy
-Legal Notice
-Site Map
-Ethics Hotline
-Consultant Identification & Payments
-California Compliance Notice
-Transparency
-©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
-Back To Top
-×Healthcare Professionals
-Hospital Providers
-Ambulatory Surgery Centers
-Patients
-News & Press
 Contact Us
-MORE:
-Careers - Johnson & Johnson
-Privacy Policy
-Legal Notice
-US:
+Support
 Facebook
 Twitter
-LinkedIn
 YouTube
+Instagram
+Read more hereSOLUTIONS
+Enterprise Software
+BYOD
+Communications
+Content Collaboration
+Emergency Mass Communication
+Mobile Applications
+Remote Connectivity
+Unified Endpoint Management
+Licensing
+Licensing for IoDevice Manufacturers
+Licensing for Smartphone Manufacturers
+Transportation Asset Tracking
+Real-time Visibility for Transportation Assets
+Embedded Systems
+Automotive Software
+Static Application Security Testing
+Cryptography, Key Management & Digital Certificates
+PRODUCTS
+Spark Platform
+Endpoint Management
+UEM
+Applications
+Dynamics Platform
+Dynamics Apps
+Marketplace for Enterprise Software
+Automotive
+Platform for Instrument Clusters
+Platform
+All Products
+Enterprise Product Overview
+Content Collaboration
+Workspaces
+Messaging, Voice & Text
+Enterprise
+Secufor Government
+Spark Communications Services
+Identity & Access Management
+Enterprise Identity
+2FA
+Transportation Asset Tracking
+Radar
+Enterprise Mobility Suite
+Alerts & Crisis Communications
+AtHoc
+Embedded
+Certicom Asset Management System
+Real Time Operating Systems
+Hypervisor
+Devices
+All Devices
+Apps for Android Smartphones
+Static Application Security Testing
+Jarvis
+Resource Center
+SERVICES
+Professional Services
+Cybersecurity Consulting
+Enterprise Consulting
+Professional Services
+Support & Training
+Technical Support
+Incident Response Team
+Technical Training
+Product Training
+INDUSTRIES
+Education
+Universities & Colleges
+Financial Services
+Banking
+Insurance
+Government
+Central Government
+Defense & Security
+Public Safety & Law Enforcement
+Healthcare
+Healthcare
+Life Sciences
+Manufacturing
+Industrial Automation
+Professional Services
+Legal & Consulting
+Transportation
+Automotive
+Railways
+Transportation & Logistics
+Success Stories
+PARTNERS
+Partner Program
+Program Overview
+Solutions Providers
+ISVs
+Become a Partner
+Solutions Provider
+ISV
+Find a Partner
+Partner Apps
+Training Partners
+Partners
+SUPPORT
+Support Overview
+Enterprise Platforms & Apps
+UEM
+Mobility Suites
+Workspaces
+2FA
+Enterprise Identity
+Enterprise
+AtHoc
+Cloud
+WorkLife
+Supported Apps
+Enterprise BRIDGE
+Enterprise Support Services
+Enterprise Support Services
+Enterprise Consulting
+Training & Accreditation
+Smartphones & Apps
+Smartphones
+Smartphone Apps
+Desktop Software Downloads
+Product Information
+Documentation and Manuals
+Portals & Resources
+myAccount & Admin Portal
+Software Lifecycle
+Knowledge Base
+Support
+Radar Support
+Developer Network
+Developer Network
+Help Blog
+Support Videos
 Contact Us
- Select your country
-Home
-About DePuy Synthes
-Corporate Info
-California Compliance Notice
-Toggle navigation
-DePuy Synthes
-Home
-About DePuy Synthes
-Corporate Info
-California Compliance Notice
-DePuy Synthes
-Overview
-Overview
-Neuro
-(Craniomaxillofacial)
-Joint Reconstruction (Knee, Hip & Shoulder)
-Mitek Sports Medicine
-Power Tools
-Spine
-Trauma
-Corporate Info
-What We Believe
-Our History
-Social Responsibility
-Principles of Collaboration
-Open Payments
-Transparency
-DePuy Synthes Global Code of Conduct
-California Compliance Notice
-Funding Requests
-Funding Requests
-Education Grants
-Fellowships
-Charitable Contributions
-Exhibits and Commercial Sponsorships
-Investigator Initiated Research
-Recall
-News and Press
+BLOG
+Blogs
+Enterprise Blog
+Developer Blog
+Support Blog
+Register for Updates
+Contact Sales
+Contact Us
+Enterprise Partner Program
+Differentiate Your Business and Grow Revenue with the Secure Platform
+Become a Partner
+One of the most significant productivity enhancements of modern time, the mobile workforce, unleashes endless opportunities across applications, devices and Ioendpoints. Recognized for delivering the world's most secure and integrated mobile solutions, is uniquely positioned to meet increased demand.
+By becoming a Partner, you will have access to resources and tools to help shape your expertise and, most importantly, grow your business.
+Choose the Relationship That Best Suits Your Business Model
+Solution Providers
+Deliver best-in class secure solutions to your customers, leveraging the secure platform, while developing profitable services to address a multi-billion-dollar market.
+Independent Software Vendors (ISV)
+Leverage the Secure development platform to create applications that meet corporate and government requirements.
+Service and Training Partners
+Authorized Training Partners deliver world class technical training to partners and customers, allowing them to gain expert knowledge on solutions.
+Value Added Integrators (VAI)
+Deliver integration services and build upon BlackBerry’s embedded technologies to design and develop secure solutions for applications such as automotive systems, medical surgical robots, smart grids, industrial automation and more.
+Partner Success Stories
+“is to date the only organization we’ve worked strategically with to build out technology support for Qlik Sense
+®
+. They are the first vendor to do so, and thus far the only one who’s stepped up to the plate. In essence, is the reason we can engage Enterprise customers and prospects with Qlik Sense
+®
+ for all secure mobile use cases.”
+     Marcus Adams
+®
+“As an comes to market, they have a choice of where to prioritize – technology or marketing. Our partnership with lets us focus on building a better core experience in iAnnotate. We leverage theplatform to amplify what we build and maximize our sales and marketing potential. Their ecosystem is one of the strongest on the market, and we wouldn’t have many of our current clients without it.”
+     Ravi Bhatt
+Top
+English
+German
+French
+Spanish
+Arabic
+Indonesian
+Japanese
+Chinese
+Company
+Newsroom
+Investors
 Careers
-DePuy Synthes Companies California Compliance
-NOTICE: this information is provided pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765), which requires certain pharmaceutical and medical device companies doing business in California to make available their program for compliance with applicable federal and state laws and industry standards regulating the marketing and promotion of their products
+Leadership
+Corporate Responsibility
+Certifications
+Customer Success
+Enterprise Platform & Apps
+Developer Network
+Inside Developers Blog
+Help Blog
+Overview
+Accessibility
+Patents
+Trademarks
+Privacy Policy
+Contact Us
+Support
+Facebook
+Twitter
+YouTube
+Instagram
+Read more hereSOLUTIONS
+Enterprise Software
+BYOD
+Communications
+Content Collaboration
+Emergency Mass Communication
+Mobile Applications
+Remote Connectivity
+Unified Endpoint Management
+Licensing
+Licensing for IoDevice Manufacturers
+Licensing for Smartphone Manufacturers
+Transportation Asset Tracking
+Real-time Visibility for Transportation Assets
+Embedded Systems
+Automotive Software
+Static Application Security Testing
+Cryptography, Key Management & Digital Certificates
+PRODUCTS
+Spark Platform
+Endpoint Management
+UEM
+Applications
+Dynamics Platform
+Dynamics Apps
+Marketplace for Enterprise Software
+Automotive
+Platform for Instrument Clusters
+Platform
+All Products
+Enterprise Product Overview
+Content Collaboration
+Workspaces
+Messaging, Voice & Text
+Enterprise
+Secufor Government
+Spark Communications Services
+Identity & Access Management
+Enterprise Identity
+2FA
+Transportation Asset Tracking
+Radar
+Enterprise Mobility Suite
+Alerts & Crisis Communications
+AtHoc
+Embedded
+Certicom Asset Management System
+Real Time Operating Systems
+Hypervisor
+Devices
+All Devices
+Apps for Android Smartphones
+Static Application Security Testing
+Jarvis
+Resource Center
+SERVICES
+Professional Services
+Cybersecurity Consulting
+Enterprise Consulting
+Professional Services
+Support & Training
+Technical Support
+Incident Response Team
+Technical Training
+Product Training
+INDUSTRIES
+Education
+Universities & Colleges
+Financial Services
+Banking
+Insurance
+Government
+Central Government
+Defense & Security
+Public Safety & Law Enforcement
+Healthcare
+Healthcare
+Life Sciences
+Manufacturing
+Industrial Automation
+Professional Services
+Legal & Consulting
+Transportation
+Automotive
+Railways
+Transportation & Logistics
+Success Stories
+PARTNERS
+Partner Program
+Program Overview
+Solutions Providers
+ISVs
+Become a Partner
+Solutions Provider
+ISV
+Find a Partner
+Partner Apps
+Training Partners
+Partners
+SUPPORT
+Support Overview
+Enterprise Platforms & Apps
+UEM
+Mobility Suites
+Workspaces
+2FA
+Enterprise Identity
+Enterprise
+AtHoc
+Cloud
+WorkLife
+Supported Apps
+Enterprise BRIDGE
+Enterprise Support Services
+Enterprise Support Services
+Enterprise Consulting
+Training & Accreditation
+Smartphones & Apps
+Smartphones
+Smartphone Apps
+Desktop Software Downloads
+Product Information
+Documentation and Manuals
+Portals & Resources
+myAccount & Admin Portal
+Software Lifecycle
+Knowledge Base
+Support
+Radar Support
+Developer Network
+Developer Network
+Help Blog
+Support Videos
+Contact Us
+BLOG
+Blogs
+Enterprise Blog
+Developer Blog
+Support Blog
+Register for Updates
+Contact Sales
+Contact Us
+Newsroom
+Company
+Newsroom
+Investors
+Careers
+Leadership
+Corporate Responsibility
+Top Features
+News
+Appoints Bryan Palma as President and Chief Operating Officer
+News
+Jan.7.2019
+Survey Finds Consumers Don't Trust Connected Devices to Keep Data Safe and Secure
+News
+to Acquire Cylance and Add Premier and Cybersecurity Capabilities
+Press Releases
+Empowers the Electronics Industry to Build IoDevices Consumers Can Trust
+today announced it is scaling its Secure technology and licensing strategy to empower the electronics industry to rapidly bring-to-market safe and secure Iodevices.
+RELEASES
+Media Gallery
+GALLERY
+Top
+English
+German
+French
+Spanish
+Arabic
+Indonesian
+Japanese
+Chinese
+Company
+Newsroom
+Investors
+Careers
+Leadership
+Corporate Responsibility
+Certifications
+Customer Success
+Enterprise Platform & Apps
+Developer Network
+Inside Developers Blog
+Help Blog
+Overview
+Accessibility
+Patents
+Trademarks
+Privacy Policy
+Contact Us
+Support
+Facebook
+Twitter
+YouTube
+Instagram
+Read more hereSOLUTIONS
+Enterprise Software
+BYOD
+Communications
+Content Collaboration
+Emergency Mass Communication
+Mobile Applications
+Remote Connectivity
+Unified Endpoint Management
+Licensing
+Licensing for IoDevice Manufacturers
+Licensing for Smartphone Manufacturers
+Transportation Asset Tracking
+Real-time Visibility for Transportation Assets
+Embedded Systems
+Automotive Software
+Static Application Security Testing
+Cryptography, Key Management & Digital Certificates
+PRODUCTS
+Spark Platform
+Endpoint Management
+UEM
+Applications
+Dynamics Platform
+Dynamics Apps
+Marketplace for Enterprise Software
+Automotive
+Platform for Instrument Clusters
+Platform
+All Products
+Enterprise Product Overview
+Content Collaboration
+Workspaces
+Messaging, Voice & Text
+Enterprise
+Secufor Government
+Spark Communications Services
+Identity & Access Management
+Enterprise Identity
+2FA
+Transportation Asset Tracking
+Radar
+Enterprise Mobility Suite
+Alerts & Crisis Communications
+AtHoc
+Embedded
+Certicom Asset Management System
+Real Time Operating Systems
+Hypervisor
+Devices
+All Devices
+Apps for Android Smartphones
+Static Application Security Testing
+Jarvis
+Resource Center
+SERVICES
+Professional Services
+Cybersecurity Consulting
+Enterprise Consulting
+Professional Services
+Support & Training
+Technical Support
+Incident Response Team
+Technical Training
+Product Training
+INDUSTRIES
+Education
+Universities & Colleges
+Financial Services
+Banking
+Insurance
+Government
+Central Government
+Defense & Security
+Public Safety & Law Enforcement
+Healthcare
+Healthcare
+Life Sciences
+Manufacturing
+Industrial Automation
+Professional Services
+Legal & Consulting
+Transportation
+Automotive
+Railways
+Transportation & Logistics
+Success Stories
+PARTNERS
+Partner Program
+Program Overview
+Solutions Providers
+ISVs
+Become a Partner
+Solutions Provider
+ISV
+Find a Partner
+Partner Apps
+Training Partners
+Partners
+SUPPORT
+Support Overview
+Enterprise Platforms & Apps
+UEM
+Mobility Suites
+Workspaces
+2FA
+Enterprise Identity
+Enterprise
+AtHoc
+Cloud
+WorkLife
+Supported Apps
+Enterprise BRIDGE
+Enterprise Support Services
+Enterprise Support Services
+Enterprise Consulting
+Training & Accreditation
+Smartphones & Apps
+Smartphones
+Smartphone Apps
+Desktop Software Downloads
+Product Information
+Documentation and Manuals
+Portals & Resources
+myAccount & Admin Portal
+Software Lifecycle
+Knowledge Base
+Support
+Radar Support
+Developer Network
+Developer Network
+Help Blog
+Support Videos
+Contact Us
+BLOG
+Blogs
+Enterprise Blog
+Developer Blog
+Support Blog
+Register for Updates
+Contact Sales
+Contact Us
+Investor Information
+Company
+Newsroom
+Investors
+Careers
+Leadership
+Corporate Responsibility
+Contact Us
+Investor Highlights
+Fiscal Third Quarter 2019 Results
+to Acquire Cylance
+Security Summit
+TSX: BB
+Volume:
+52 Week High:
+52 Week Low:
+Detailed Stock Information
+NYSE: BB
+Volume:
+52 Week High:
+52 Week Low:
+Detailed Stock Information
+®
+ stock quote data provided is for informational purposes only, and is not intended to be relied on or used for trading, business or financial purposes. Quotes are delayed at least 20 minutes. Refresh your browser to view updated quotes. Market data provided and powered by Q4 Inc. and usage of this data is subject to BlackBerry’s website terms of use.
+News & Events
+Upcoming Events
+Date: Monday December 10, 2018
 
-INTRODUCTION
-The Operating Companies of DePuy Synthes, under the legal entity DePuy Orthopaedics, Inc., (the "Company") have established a program designed to materially comply with applicable federal and state laws and industry standards relating to the marketing and promotion of its products. Additionally, the Company recognizes that adherence to these standards can be furthered through a compliance program that is informed by the Compliance Program Guidance for Pharmaceutical Manufacturers, published by the Office of Inspector General of the Department of Health and Human Services (the "Guide"). The Guide advises that effective compliance programs are comprised of seven elements. As described below, these elements form the basis of the Company's program for compliance with the standards regulating the marketing and promotion of its products.
-II.
- Overview of Compliance Program
-1. Written Policies and Procedures
-The Company has written policies to assure substantial compliance with the applicable laws and regulations and standards governing the marketing and promotion of our products. Among these standards are recognized industry codes of conduct including the Code of Ethics on Interactions with Health Care Professionals (AdvaMed Code), published by the Advanced Medical Technology Association ("AdvaMed"). The Company has established written policies that govern activities involving communicating with customers about the appropriate use of our products including appropriate instruction, education, training, service and technical support required for the safe and effective use of our products. The Company also has policies governing activities involving the advancement of scientific and educational activities supporting medical research and education. These policies include:
-Policies on Educational Grants and Research Grants
-The Company may provide grants for specific educational purposes that benefit patients and customers. These may include, but are not to, continuing medical and paraprofessional education programs, fellowships provided to teaching institutions and similar organizations with a demonstrated commitment to scientific and technical education, and programs operated by organizations that provide high-quality, nationally recognized patient education. Funding of educational programs will generally be provided only to organizations and institutions and not to individual practitioners.
-Research grants to support customer-initiated research may be provided for programs involving research in areas of legitimate interest to the company. All requests are subject to scientific review prior to funding approval.
-Policy on Charitable Contributions and Patient Assistance
-The Company will consider charitable contributions and requests for patient assistance in the areas of children's health, health care education, access to health care and community responsibility, consistent with the Company policies.
-Policy on Travel Expense Reimbursement for CME, Promotional or Product Training Meetings
-The Company will, with very exceptions that are in accordance with nationally recognized standards, not reimburse for travel and lodging expenses of attendees at promotional and educational programs.
-The Company may reimburse attendees for their reasonable travel and lodging expenses associated with attendance at product training meetings. Product training meetings will be conducted in locations conducive to the exchange of information such as educational or conference settings. Where face-to-face or hands-on customer training is reasonably necessary for the safe and effective use of the Company's medical device products is required, the Company may provide training at company facilities, at independent teaching centers such as medical institutions, or in other appropriate clinical settings.
-Policy on Business Meals
-The Company may occasionally offer a modest meal, consistent with the standards of the AdvaMed Code as part of an educational presentation or a business discussion. Venues that feature entertainment or recreation, and attendance by spouses or guests, are not permitted.
-Policy on the Provision of Educational and Practice-Related Items
-On occasion, the Company representatives may provide items that benefit patients or serve a genuine educational function for Health Care Professionals, consistent with the standards of the AdvaMed Code.
-Total Annual Dollar Limit for Meals and Educational or Practice-related Items 
-Each of the Companies, have established an annual limit of $1,500 for meals and educational items as the aggregate value of the items or activities that may be provided to California health care professionals pursuant to the requirements of Cal. Health & Safety Code § 119402 (1765).
-Policy Prohibiting Entertainment
-It is the policy of the Company not to provide Entertainment (e.g. sporting events, golf outings, concerts, hunting, etc.) to customers.
-2. Assigned Compliance Officer
-The Company has appointed Health Care Compliance Officers. Our Health Care Compliance Officers have been empowered with appropriate authority to exercise independent judgment and has free and unencumbered access to senior management.
-The Company has appointed Health Care Compliance Committees. The committees are comprised of the Company's Health Care Compliance Officers and members of the Company's management team.
-3. Training.
-The Company has an annual Health Care Compliance training process that includes testing and annual certification of appropriate employees. The training covers applicable guidelines governing our compliance program. Employees are also trained on the consequences of failure to comply with the requirements of the company's compliance program.
-4. Communication.
-The Company encourages open and candid discussion between management and employees regarding any compliance concerns. The Company employees are encouraged to report their concerns to their manager, to the Human Resources Department, to the Law Department or to the company's Health Care Compliance Officer.
-5. Auditing and Monitoring. 
-The Company self-assesses and periodically audits its compliance with its policies and procedures.
-6. Enforcement and Disciplinary Guidelines.
-The Company will take disciplinary actions in response to violation of the company's compliance policies or procedures. The Company will conduct a fair and diligent investigation of matters that are brought to the company's attention in order to ensure the consistent application of the company's standards.
-7. Responses To Detected Problems and Actions To Correct Issues.
-The Company requires a prompt and diligent response to potential violations of the company's compliance program, including its standards regulating the marketing and promotion of our products. Actions in response to detected problems may include improving policies, procedures, training, communication and monitoring or may require disciplinary action to prevent future violations.
-For a copy of this California Compliance Program, please call 1-877-889-3636. Provide your name, mailing address and request that a copy of the DePuy Synthes California Compliance program be sent to you.
-LAW
-As part of the Company's ongoing efforts in the area of compliance, we have developed a Comprehensive Compliance Program that is designed to comply with applicable federal and state laws and industry standards relating to the marketing and promotion of our products. To our knowledge as of the date of this declaration, the Company is in compliance with our Comprehensive Compliance Program, as described here, and with California Health & Safety Code sections 119400-119402.
-Dated: May 1, 2018
-Careers - Johnson & Johnson 
-Contact Us
+Event: International Economic Forum of the Americas- Toronto Global Forum
+View Replay
+See the Latest Announcements from Read Press Releases
+Financial Reports
+Report
+FY2019
+FY2018
+FY2017
+Financial Information
+Q1
+Q2
+Q3
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Supplemental Financial Information 
+Q1
+Q2
+Q3
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Earnings Press Release
+Q1
+Q2
+Q3
+Q1
+Q2
+Q3
+Q4
+Q1
+Q2
+Q3
+Q4
+Annual Report
+-
+2018
+2017
+Transcripts
+Q1
+Q2
+Q3
+Q4
+Investor Presentations
+Analyst Day 2018 Strategic Overview
+Investor Presentation Q3FY19
+Security Summit 2018 Presentation
+Presentation June 2018
+Corporate Governance
+Find out about policies and more.
+DOCUMENTS
+DIRECTORS
+Security Filings
+files documents electronically with the Canadian Securities Administrators database and the Securities and Exchange Commission database. To access the public securities filings, either visit the website and do a public database search under or go to the Securities and Exchange Commission website to view BlackBerry’s filings.
+SEDAR
+EDGAR
+Contact Info
+(519) 888 - 7465 ext 75950
+Investor Relations
+Request Email Alerts
+Request Printed Reports
+FAQ
+Top
+English
+German
+French
+Spanish
+Arabic
+Indonesian
+Japanese
+Chinese
+Company
+Newsroom
+Investors
+Careers
+Leadership
+Corporate Responsibility
+Certifications
+Customer Success
+Enterprise Platform & Apps
+Developer Network
+Inside Developers Blog
+Help Blog
+Overview
+Accessibility
+Patents
+Trademarks
 Privacy Policy
-Legal Notice
-Site Map
-Ethics Hotline
-Consultant Identification & Payments
-California Compliance Notice
-Transparency
-©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
-Back To Top
-×Healthcare Professionals
-Hospital Providers
-Ambulatory Surgery Centers
-Patients
-News & Press
 Contact Us
-MORE:
-Careers - Johnson & Johnson
-Privacy Policy
-Legal Notice
-US:
+Support
 Facebook
 Twitter
-LinkedIn
 YouTube
+Instagram
+Read more hereExecutive Chairman & Chief Executive Officer
+As Executive Chairman and of Limited, John Chen is responsible for defining the company’s vision and goals, setting its strategy, and ensuring the team’s execution matches corporate objectives. Appointed in November 2013, John has led through a successful pivot from hardware icon to software leader. Today the company is poised to leverage its brand strength and heritage in mobile security along with its enterprise cybersecurity and embedded software growth engines to accelerate into the Enterprise of Things, an emerging category with billions of connected devices and massive market potential.
+John came to a distinguished leader and proven turnaround executive with more than 40 years of engineering and management experience along with a reputation that extends well-beyond the technology industry. Prior to joining BlackBerry, John served as Chairman and of Sybase Inc. where he re-invented the company and led it through 55 consecutive quarters of profitability, providing outstanding shareholder returns during his 15-year tenure.
+global business leader with a strong interest in policy, John has testified before Congress on U.S.–China trade relations and was appointed by President George Bush to serve on the President's Export Council. In 2006, he was appointed co-chair of the Secure Borders and Open Doors Advisory Committee. Additionally, John chaired the U.S.-China Policy Advisory Roundtable for the Center for Strategic and International Studies (CSIS), served on the Board of the National Committee on China Relations from 2012-2018, and has been a member of the Committee of 100 since 1997 and its Chairman from 2009-2011.
+John graduated magna cum laude from Brown University with a bachelor's degree in electrical engineering and a master's in electrical engineering from the California Institute of Technology (Caltech). John has an honorary professorship from Shanghai University, and honorary doctorates from San Jose State University, City University of Hong Kong, and Hong Kong University of Science and Technology. John has received awards from the U.S.-Asia Institute, the U.S.-China Policy Foundation, the California-Asia Business Council, and the U.S.-Pan Asian American Chamber of Commerce Education Foundation.
+Steve Capelli
+Chief Financial Officer
+Steve Capelli is the Chief Financial Officer responsible for BlackBerry’s financial operations including corporate accounting, pricing, compensation and functions related to field support. He is also responsible for global sales operations and cross functional synergies to improve operational efficiency and drive revenue growth.
+Steve has 25 years of executive experience leading finance and operations organizations in the software and technology industry.
+Prior to joining BlackBerry, Steve was President of Worldwide Field Operations at Sybase with responsibility for more than $1 billion in annual revenue. Steve also led international operations at Sybase as General Manager with responsibility for sales, operations, finance, customer support, marketing and human resources. Prior to Sybase, Steve was Chief Financial Officer of Siemens Pyramid. Earlier in his career, he served in controllership roles at Digital Equipment Corporation, Unisys Corporation and Grace and Company.
+Steve received a bachelor’s degree in accounting from The College of New Jersey and an in finance from Rutgers University. He currently serves on corporate boards with representation on audit, compensation and governance committees.
+Randall Cook
+Chief Legal Officer & Corporate Secretary
+Randall joined in August 2018 to assume oversight of the company’s worldwide legal affairs, including litigation, M&A, government relations, public policy, regulatory compliance, licensing, contracting and guardianship, as well as Global Corporate Security for Ltd.
+Randall has a wide range of expertise as an award-winning technology company general counsel, and a track record of success going back 25 years in public and private companies, private practice and Government service. Immediately prior to BlackBerry, he was General Counsel for software-maker Calypso Technology. That followed more than 13 years at Advent Software, where he served as Senior Vice President, General Counsel and Corporate Secretary, and where his legal department was recognized as a national Best Legal Department finalist by Corporate Counsel magazine and Best Legal Department for M&among emerging companies by the Recorder.
+Early in his career, Randall also held several positions with the Government, advising senior officials on technology, intellectual property and international trade issues, and serving on interagency committees. His roles included serving as a Special Assistant Attorney at the Attorney’s Office in Washington, where he was the lead prosecutor for intellectual property piracy and other cases.  He also served as Special Counsel at the Department of Commerce, and as an attorney in the Executive Office of the President at the Trade Representative’s office.
+Randall graduated summa cum laude and was a member of Phi Beta Kappa at Claremont McKenna College. He received his law degree from the University of California, Berkeley, School of Law and is admitted to the State Bar of California, the Supreme Court Bar and the Court of Appeals for the Circuit.
+Billy Ho
+Executive Vice President, Enterprise Products and Value Added Solutions
+Billy leads the Enterprise Product Management and Software organizations.
+Prior to joining BlackBerry, Billy served as Senior Vice President of Product & Technology Operations at Sybase, Inc. where he was responsible for Sybase technology research, product development and customer support. He held many other leadership positions within Sybase, including General Manager of the Business Unit, Senior Vice President and General Manager of the e-Business Division, and Vice President of the Product Development, Enterprise Solutions Division. He has also been a Director of Engineering at Unisys and Siemens.
+Billy earned a in Computer Science from California Institute of Technology in Pasadena, California and a in Electrical Engineering from McGill University in Montreal, Canada.
+Bryan Palma
+As President and Chief Operating Officer at BlackBerry, Bryan Palma is responsible for the company’s Technology Solutions, Enterprise Software and Services, and Mobility Solutions operating units.
+Palma has nearly 20 years of experience turning strategy into profit at some of the world’s largest and respected organizations.
+Before joining BlackBerry, Palma was the Senior Vice President and General Manager of Cisco's $8America's Customer Experience business unit where he led the development and execution of technical support, professional, managed, and subscription services across a global team of engineers, consultants, and customer success specialists.
+Prior to Cisco, Bryan was the Vice President of Cyber and Security Solutions at Boeing, where he was responsible for the cyber security solutions portfolio, which included offensive cyber security, critical infrastructure protection, cyber security software, and managed security services. Bryan also served as Vice President of Service Delivery Operations at Hewlett Packard and PepsiCo’s first Chief Information Security Officer.
+Before joining the private sector, Bryan was a special agent with the Secret Service where he helped pioneer efforts to combat cybercrime. As co-founder of the Agency’s Electronic Crimes Taskforce, he influenced the development of electronic crime task forces throughout the world.
+Bryan holds a bachelor’s degree from the University of Richmond, and master’s degrees from Duke University’s Fuqua School of Business and the University of Maryland.
+Nita White-Ivy
+Executive Vice President, Human Resources
+Nita is responsible for leading the team to design and deliver global programs, initiatives, partnerships, solutions and services in all facets of to support the achievement of the company’s operational goals and strategic objectives.
+Before joining BlackBerry, Nita served as Chief People Officer and Chief Human Resources Officer for Cloud and SuccessFactors. Prior to that, she was Vice President of Worldwide Human Resources for Sybase, Inc., where she was responsible for providing and implementing high quality, state-of-the-art human resource and security services and programs for Sybase employees, management, executives and campuses worldwide.
+Nita has an from Santa Clara University, Santa Clara, Calif., and has also completed several courses towards an in Counseling Psychology from the same institution. She earned her in Business Administration with finance and accounting major with honors.
+Carl Wiese
+President, Global Sales
+Carl Wiese is President, Global Sales, and is responsible for driving BlackBerry’s go-to-market strategy and advancing the company’s global sales and services efforts to drive growth.
+Prior to BlackBerry, Carl spent more than a decade at Cisco in a variety of leadership roles, most recently as Senior Vice President leading the company’s global collaboration business, directing sales and go-to-market strategy. He also served as Vice President of & Canada Advanced Technologies, focused on driving sales and deployment processes for new and emerging technologies that represented some of the company’s highest potential growth segments.
+Carl has over 25 years’ experience in sales, marketing, services, and product management for high-technology companies. Previously, Carl held executive positions at Apple, Avaya, Lucent and Texas Instruments.
+Carl holds a Bachelor of Science degree from Oklahoma State University.
+Mark Wilson
+Chief Marketing Officer
+As Chief Marketing Officer, Mark Wilson is responsible for delivering the message through thought leadership and other opportunities that promote the brand. He also leads technology partner and developer programs, industry solutions and corporate events.
+Before joining BlackBerry, he was chief marketing officer for Avaya, senior vice president of marketing for Sybase, an Company, leader of the strategy practice at Consulting’s Information, Communication and Entertainment Group, and a marketing manager for AT& Mark was named by BtoMagazine as one of the Best Marketers from 2009-2011 and 2013. He was also named to the 2013 Fiercelist of CMOs to watch. 
+Mark holds an and an in public policy studies from The University of Chicago. He received his from University of California at Santa Barbara.
+Senior Leaders
+Charles Eagan
+Chief Technology Officer
+Appointed in June 2018, Charles Eagan is the Chief Technology Officer for BlackBerry. In this role, Charles oversees the standardization and integration of all company products and is responsible for the advancement of new technologies and partnerships, with an emphasis on defining BlackBerry’s Enterprise of Things platform as well as driving innovation within emerging markets.
+Charles was previously the Global Head of Electronics at Dyson Ltd (U.K.), focused on Iodevice deployment. Prior to that he served as BlackBerry’s Global Head of Device Software, and spearheaded development of the 10 operating system and the transition to secure Android.
+Charles was formerly Vice President of Engineering for Software, where he concentrated on the automotive and embedded markets. He also worked at Cisco and directed development of the seminal CRS-1 carrier routing system.
+In 2008, Charles co-founded Crank Software, a company dedicated to the development of embedded tools and technologies that enabled rapid building of highly functional graphical interfaces. Earlier in his career, he built connected devices for Honda in the areas of process control, factory automation and robotics.
+Charles is a noted speaker, thought leader and Ioexpert who has been at the forefront of new frontiers in digital connectivity for over three decades. He graduated with honors from the University of Waterloo (Canada) with a bachelor’s degree in applied mathematics and electrical engineering minor.  
+Vito Giallorenzo
+Vito leads BlackBerry's Corporate Development activities, including strategy and M&He is also responsible for Strategic Partnerships and Alliances.
+Vito joined after more than a decade working as a technology investment banker in New York and London, at Morgan Stanley and, most recently, as Managing Director at Perella Weinberg Partners.
+He has also worked at Naspers as Corporate Development Principal and held several engineering roles at Cisco Systems earlier in his career.
+Vito received a Master of Science in Mechanical Engineering from both the Politecnico di Milano and the University of Illinois, and a Masters of Business Administration from INSEAD.
+Kaivan Karimi
+Senior Vice President and Co-Head of Technology Solutions – Sales
+As Senior Vice President and Co-Head of Technology Solutions (BTS), Kaivan Karimi is responsible for driving growth of embedded software and cybersecurity-related solutions for mission-critical applications in automotive, medical, defense, and industrial markets. His responsibilities include sales, product marketing, partner ecosystem management, and operationalizing growth strategies.
+Kaivan has over 23 years of operational and leadership experience in the software and semiconductor industries focused on automotive, telecom, and industrial markets. Prior to joining BlackBerry, he served as the Vice President and General Manager of Atmel wireless MCUs and Iobusiness unit. Kaivan holds graduate degrees in engineering (MSEE) and business (MBA).
+Steve Rai
+As Deputy Chief Financial Officer, Steve Rai is responsible for BlackBerry’s non-field financial operations including corporate FP&A, treasury, tax, procurement, and investor relations. Previously, Steve was Vice President and Corporate Controller for BlackBerry. In this role he was responsible for overseeing various aspects of the Organization, including: Financial Reporting, Accounting, Tax, Revenue, Compliance, Payroll, Insurance and Equity Administration.
+Steve brings more than 25 years of progressive experience in financial management, business advisory and assurance services to and Canadian public companies, ranging from start-ups to multinational corporations.
+Before joining BlackBerry, Steve was Corporate Controller for PMC-Sierra. He previously held senior management positions with Venture Exchange and PricewaterhouseCoopers 
+Steve holds a Bachelor of Business Administration degree with an accounting and finance major from Simon Fraser University in British Columbia, Canada. He is a Certified Public Accountant through the American Institute of Certified Public Accountants in Illinois (USA) and a member of the Chartered Professional Accountants in British Columbia, Canada.
+Neelam Sandhu
+Neelam Sandhu is responsible for the operations of the office, including supporting the in managing key customer and government relationships globally, preparation for and management of executive meetings and other engagements, and driving special cross-functional projects to deliver operational efficiencies.  Neelam also manages BlackBerry’s travel strategy and operations.
+Since joining in 2009 Neelam has held various positions, based out of the company’s United Kingdom, New York and California offices. Her responsibilities have included Brand Management, Brand Messaging, Marketing Operations, Go-To-Market for the Curve and Porsche Design products and Corporate Strategic Initiatives.    
+Neelam holds a bachelor’s degree, with honors, in Business Management, from the University of Leicester and an Executive Certification in Financial Analysis from the University of California at Berkeley’s Haas School of Business.
+Alex Thurber
+Senior Vice President and General Manager, Mobility Solutions
+Alex Thurber is Senior Vice President and General Manager of Mobility Solutions for BlackBerry. He is responsible for BlackBerry’s global mobility product roadmap and joint development. He oversees the manufacturing supply chain, repair, customer support and product quality functions.
+Alex has more than 25 years of experience in high-tech security. He joined in 2016 as the Senior Vice President of Global Sales. Prior to BlackBerry, he founded Thurber Technology Group, a technology company that became one of Portland Oregon’s first Internet service providers, focused on providing secure connectivity to the newly commercialized Internet.
+In 1997, Alex’s company was the fastest growing technology company in Oregon, and the 75th fastest-growing technology company in the United States. In 1999, Alex was named Oregon’s Technology Entrepreneur of the Year.
+After selling his company, he spent 10 years at Cisco Systems, responsible for developing global go-to-market strategies for both security and mobility solutions. Alex left Cisco to spend three years as the head of Worldwide Channels for McAfee. After McAfee was acquired by Intel, Alex went on to run worldwide sales for two smaller security companies in the Northwest, ending by developing and executing a complete sales turnaround for WatchGuard Technologies of Seattle.
+John Wall
+As Senior Vice President and Co-Head of Technology Solutions (BTS), John Wall is responsible for  the planning, design, and development of Software Systems (embedded software), Certicom (cryptography applications), Paratek (antenna tuning) and Jarvis (Static Application Security Testing)  products and the direction of its engineering services programs.
+John has been an integral member of the team since 1993. He has held a variety of roles within the organization, including vice president of engineering and services. He holds a Bachelor’s of Engineering, in Electrical and Electronics Engineering from Carleton University in Ottawa.
+Mike Webber
+Chief Information Officer & Chief Information Security Officer
+Mike Webber is the Chief Information Officer and Chief Information Security Officer at BlackBerry. In this role he manages Corporate Information Technology and Technology Services that are provided to customers globally.
+Mike previously served as Vice President, Cyber Security and Core Networking at BlackBerry, responsible for all aspects of cybersecurity and networking for the Corporation and customer services. He has more than 30 years of experience in Information Technology and has held leadership roles at IBM, AT&T, and Cisco, focused on networking, cybersecurity, and a wide range of and customer service responsibilities.
+Mike holds a Bachelor of Science degree, with honors, in Geology from the University of Reading, and is a British Computer Society Chartered Professional.
+BESbswyBESbswyBESbswyBESbswySOLUTIONS
+Enterprise Software
+BYOD
+Communications
+Content Collaboration
+Emergency Mass Communication
+Mobile Applications
+Remote Connectivity
+Unified Endpoint Management
+Licensing
+Licensing for IoDevice Manufacturers
+Licensing for Smartphone Manufacturers
+Transportation Asset Tracking
+Real-time Visibility for Transportation Assets
+Embedded Systems
+Automotive Software
+Static Application Security Testing
+Cryptography, Key Management & Digital Certificates
+PRODUCTS
+Spark Platform
+Endpoint Management
+UEM
+Applications
+Dynamics Platform
+Dynamics Apps
+Marketplace for Enterprise Software
+Automotive
+Platform for Instrument Clusters
+Platform
+All Products
+Enterprise Product Overview
+Content Collaboration
+Workspaces
+Messaging, Voice & Text
+Enterprise
+Secufor Government
+Spark Communications Services
+Identity & Access Management
+Enterprise Identity
+2FA
+Transportation Asset Tracking
+Radar
+Enterprise Mobility Suite
+Alerts & Crisis Communications
+AtHoc
+Embedded
+Certicom Asset Management System
+Real Time Operating Systems
+Hypervisor
+Devices
+All Devices
+Apps for Android Smartphones
+Static Application Security Testing
+Jarvis
+Resource Center
+SERVICES
+Professional Services
+Cybersecurity Consulting
+Enterprise Consulting
+Professional Services
+Support & Training
+Technical Support
+Incident Response Team
+Technical Training
+Product Training
+INDUSTRIES
+Education
+Universities & Colleges
+Financial Services
+Banking
+Insurance
+Government
+Central Government
+Defense & Security
+Public Safety & Law Enforcement
+Healthcare
+Healthcare
+Life Sciences
+Manufacturing
+Industrial Automation
+Professional Services
+Legal & Consulting
+Transportation
+Automotive
+Railways
+Transportation & Logistics
+Success Stories
+PARTNERS
+Partner Program
+Program Overview
+Solutions Providers
+ISVs
+Become a Partner
+Solutions Provider
+ISV
+Find a Partner
+Partner Apps
+Training Partners
+Partners
+SUPPORT
+Support Overview
+Enterprise Platforms & Apps
+UEM
+Mobility Suites
+Workspaces
+2FA
+Enterprise Identity
+Enterprise
+AtHoc
+Cloud
+WorkLife
+Supported Apps
+Enterprise BRIDGE
+Enterprise Support Services
+Enterprise Support Services
+Enterprise Consulting
+Training & Accreditation
+Smartphones & Apps
+Smartphones
+Smartphone Apps
+Desktop Software Downloads
+Product Information
+Documentation and Manuals
+Portals & Resources
+myAccount & Admin Portal
+Software Lifecycle
+Knowledge Base
+Support
+Radar Support
+Developer Network
+Developer Network
+Help Blog
+Support Videos
 Contact Us
- Select your country
-Home
-About DePuy Synthes
-Toggle navigation
-DePuy Synthes
-Home
-About DePuy Synthes
-DePuy Synthes
-Overview
-Overview
-Neuro
-(Craniomaxillofacial)
-Joint Reconstruction (Knee, Hip & Shoulder)
-Mitek Sports Medicine
-Power Tools
-Spine
-Trauma
-Corporate Info
-What We Believe
-Our History
-Social Responsibility
-Principles of Collaboration
-Open Payments
-Transparency
-DePuy Synthes Global Code of Conduct
-California Compliance Notice
-Funding Requests
-Funding Requests
-Education Grants
-Fellowships
-Charitable Contributions
-Exhibits and Commercial Sponsorships
-Investigator Initiated Research
-Recall
-News and Press
+BLOG
+Blogs
+Enterprise Blog
+Developer Blog
+Support Blog
+Register for Updates
+Contact Sales
+Contact Us
+Partner Program
+Get the tools you need to develop and promote your apps
+TODAY
+Join the Program
+Access Resources
+Grow Your Business with Join the ®
+ Partner Program to leverage the comprehensive 
+®
+ Development Platform
+, promote your app in the 
+Marketplace for Enterprise Software
+ and obtain ®
+ Dynamics Certification  to reach more customers and grow revenue.
+As a ®
+ Partner, you'll be able to get your ®
+ UEM, Dynamics, AppConfig, ®
+ Workspaces and Secure Communication applications in front of thousands of potential customers.
+ 
+Already a Partner?
+Access resources
+Exclusive Benefits for Partners
+Establish your expertise
+Certify your Dynamics application as ®
+ Secure and list it on the Marketplace
+Host application trials and betas with your customers
+Access resources
+Enjoy white glove access to technical specialists
+Get free extensions to developer trial licenses
+Manage new leads and existing customers through a web-based portal
+Expand your customer base
+Offer your solution to ®
+ customers in a central location for users and admins
+Deliver your Dynamics application to multiple customers without having to customize 
+List your AppConfig community and customizable applications
+MORE
+How to Get Started
+Get started with the Partner Program today:
+Complete the registration form
+Once you complete the 
+registration form
+ a representative will review your application and follow up with you.
+Get access to your partner resources
+Once you are accepted into the program, you will be granted access to the portal and can start taking advantage of the benefits listed above.
+Complete your certification process
+Getting certified indicates to customers that your application meets the high Dynamics security standards.
+List your application on the Enterprise Marketplace
+Your certified application will now be available to customers and admins.
+UP
+Top
+English
+German
+French
+Spanish
+Arabic
+Indonesian
+Japanese
+Chinese
+Company
+Newsroom
+Investors
 Careers
-About DePuy Sysnthes Hero Image
-The DePuy Synthes Companies
-Johnson & Johnson Family of Companies
+Leadership
+Corporate Responsibility
+Certifications
+Customer Success
+Enterprise Platform & Apps
+Developer Network
+Inside Developers Blog
+Help Blog
+Overview
+Accessibility
+Patents
+Trademarks
+Privacy Policy
+Contact Us
+Support
+Facebook
+Twitter
+YouTube
+Instagram
+Read more hereSOLUTIONS
+Enterprise Software
+BYOD
+Communications
+Content Collaboration
+Emergency Mass Communication
+Mobile Applications
+Remote Connectivity
+Unified Endpoint Management
+Licensing
+Licensing for IoDevice Manufacturers
+Licensing for Smartphone Manufacturers
+Transportation Asset Tracking
+Real-time Visibility for Transportation Assets
+Embedded Systems
+Automotive Software
+Static Application Security Testing
+Cryptography, Key Management & Digital Certificates
+PRODUCTS
+Spark Platform
+Endpoint Management
+UEM
+Applications
+Dynamics Platform
+Dynamics Apps
+Marketplace for Enterprise Software
+Automotive
+Platform for Instrument Clusters
+Platform
+All Products
+Enterprise Product Overview
+Content Collaboration
+Workspaces
+Messaging, Voice & Text
+Enterprise
+Secufor Government
+Spark Communications Services
+Identity & Access Management
+Enterprise Identity
+2FA
+Transportation Asset Tracking
+Radar
+Enterprise Mobility Suite
+Alerts & Crisis Communications
+AtHoc
+Embedded
+Certicom Asset Management System
+Real Time Operating Systems
+Hypervisor
+Devices
+All Devices
+Apps for Android Smartphones
+Static Application Security Testing
+Jarvis
+Resource Center
+SERVICES
+Professional Services
+Cybersecurity Consulting
+Enterprise Consulting
+Professional Services
+Support & Training
+Technical Support
+Incident Response Team
+Technical Training
+Product Training
+INDUSTRIES
+Education
+Universities & Colleges
+Financial Services
+Banking
+Insurance
+Government
+Central Government
+Defense & Security
+Public Safety & Law Enforcement
+Healthcare
+Healthcare
+Life Sciences
+Manufacturing
+Industrial Automation
+Professional Services
+Legal & Consulting
+Transportation
+Automotive
+Railways
+Transportation & Logistics
+Success Stories
+PARTNERS
+Partner Program
+Program Overview
+Solutions Providers
+ISVs
+Become a Partner
+Solutions Provider
+ISV
+Find a Partner
+Partner Apps
+Training Partners
+Partners
+SUPPORT
+Support Overview
+Enterprise Platforms & Apps
+UEM
+Mobility Suites
+Workspaces
+2FA
+Enterprise Identity
+Enterprise
+AtHoc
+Cloud
+WorkLife
+Supported Apps
+Enterprise BRIDGE
+Enterprise Support Services
+Enterprise Support Services
+Enterprise Consulting
+Training & Accreditation
+Smartphones & Apps
+Smartphones
+Smartphone Apps
+Desktop Software Downloads
+Product Information
+Documentation and Manuals
+Portals & Resources
+myAccount & Admin Portal
+Software Lifecycle
+Knowledge Base
+Support
+Radar Support
+Developer Network
+Developer Network
+Help Blog
+Support Videos
+Contact Us
+BLOG
+Blogs
+Enterprise Blog
+Developer Blog
+Support Blog
+Register for Updates
+Contact Sales
+Contact Us
+Enterprise Partner Program for Solutions Providers
+ Grow Your Business with Enroll Today
+Newsletter
+Committed to Your Success
+Disruptive technology has created challenges for enterprise technology providers, while also generating significant opportunity for growth. Companies are increasingly looking at mobility to transform the way they run their business, demanding secure solutions to mobilize their people, processes and data.  
+The ®
+ Enterprise Partner Program (BEPP) for Solutions Providers gives you access to the tools and support you need to seize these opportunities and drive value and profitability.
+What’s New in Software: Empowering the Mobile Workforce
+offers your customers one platform for the Enterprise of Things, across every major operating system and network. Discover new business capabilities in software, such as:
+®
+ Workspaces user experience upgrades
+Increased Microsoft
+®
+ integration across the portfolio
+New iOS, Android™ and Windows management enhancements
+Improve Your Competitive Position Through Specialization
+has expanded its solutions provider program with several exciting enhancements.
+Workspaces Specialization
+Develop in-depth skills for the Enterprise File Sync and Share (EFSS) space.
+Advisor
+Get the required skills and tools to advise your customers on how to improve security.
+Crisis Communication Specialization
+Build your expertise in providing solutions for crisis communication.
+News and Recognition
+IDC
+has been recognized as a Leader in the Marketscape: Worldwide Enterprise Mobility Management Software 2018 Vendor Assessment
+Download Report
+Program Recognition
+Earns a 5-Star Rating in 2017 and 2018 Partner Program Guide
+Learn More
+Gartner
+has been recognized as a Leader in the Gartner Unified Endpoint Management Magic Quadrant (July 2018)
+Download Report
+Success Stories
+Partners are exceeding market expectations with software and services
+Learn More
+Partner With is committed to your success from the ground up. Join the Partner Program for access to the tools and best practices that will allow you to grow your business and expand your offerings.
+Enroll Today
+Top
+English
+German
+French
+Spanish
+Arabic
+Indonesian
+Japanese
+Chinese
+Company
+Newsroom
+Investors
+Careers
+Leadership
+Corporate Responsibility
+Certifications
+Customer Success
+Enterprise Platform & Apps
+Developer Network
+Inside Developers Blog
+Help Blog
+Overview
+Accessibility
+Patents
+Trademarks
+Privacy Policy
+Contact Us
+Support
+Facebook
+Twitter
+YouTube
+Instagram
+Read more hereSOLUTIONS
+Enterprise Software
+BYOD
+Communications
+Content Collaboration
+Emergency Mass Communication
+Mobile Applications
+Remote Connectivity
+Unified Endpoint Management
+Licensing
+Licensing for IoDevice Manufacturers
+Licensing for Smartphone Manufacturers
+Transportation Asset Tracking
+Real-time Visibility for Transportation Assets
+Embedded Systems
+Automotive Software
+Static Application Security Testing
+Cryptography, Key Management & Digital Certificates
+PRODUCTS
+Spark Platform
+Endpoint Management
+UEM
+Applications
+Dynamics Platform
+Dynamics Apps
+Marketplace for Enterprise Software
+Automotive
+Platform for Instrument Clusters
+Platform
+All Products
+Enterprise Product Overview
+Content Collaboration
+Workspaces
+Messaging, Voice & Text
+Enterprise
+Secufor Government
+Spark Communications Services
+Identity & Access Management
+Enterprise Identity
+2FA
+Transportation Asset Tracking
+Radar
+Enterprise Mobility Suite
+Alerts & Crisis Communications
+AtHoc
+Embedded
+Certicom Asset Management System
+Real Time Operating Systems
+Hypervisor
+Devices
+All Devices
+Apps for Android Smartphones
+Static Application Security Testing
+Jarvis
+Resource Center
+SERVICES
+Professional Services
+Cybersecurity Consulting
+Enterprise Consulting
+Professional Services
+Support & Training
+Technical Support
+Incident Response Team
+Technical Training
+Product Training
+INDUSTRIES
+Education
+Universities & Colleges
+Financial Services
+Banking
+Insurance
+Government
+Central Government
+Defense & Security
+Public Safety & Law Enforcement
+Healthcare
+Healthcare
+Life Sciences
+Manufacturing
+Industrial Automation
+Professional Services
+Legal & Consulting
+Transportation
+Automotive
+Railways
+Transportation & Logistics
+Success Stories
+PARTNERS
+Partner Program
+Program Overview
+Solutions Providers
+ISVs
+Become a Partner
+Solutions Provider
+ISV
+Find a Partner
+Partner Apps
+Training Partners
+Partners
+SUPPORT
+Support Overview
+Enterprise Platforms & Apps
+UEM
+Mobility Suites
+Workspaces
+2FA
+Enterprise Identity
+Enterprise
+AtHoc
+Cloud
+WorkLife
+Supported Apps
+Enterprise BRIDGE
+Enterprise Support Services
+Enterprise Support Services
+Enterprise Consulting
+Training & Accreditation
+Smartphones & Apps
+Smartphones
+Smartphone Apps
+Desktop Software Downloads
+Product Information
+Documentation and Manuals
+Portals & Resources
+myAccount & Admin Portal
+Software Lifecycle
+Knowledge Base
+Support
+Radar Support
+Developer Network
+Developer Network
+Help Blog
+Support Videos
+Contact Us
+BLOG
+Blogs
+Enterprise Blog
+Developer Blog
+Support Blog
+Register for Updates
+Contact Sales
+Contact Us
+Become a Solutions Provider
+Build new capabilities on a single secured mobility platform
+TODAY
+Join an Award-winning Program
+The ®
+ Enterprise Partner Program for Solutions Providers is designed to increase your value, stimulate growth and drive profitability. 
+This program was awarded a 
+5-Star rating
+ in the 2017 and 2018 Partner Program Guide, a recognition that proves is delivering substantial value for our partners.
+Your Path to Success Starts Here
+The Secure Platform addresses every aspect of the enterprise mobility curve, so you can support changing customer needs in an increasingly fragmented world of endpoints. The more applications you attach to your offering, the easier it will be to create a SaaS-based recurring revenue stream.
+At BlackBerry, we’ve embraced disruptive technology to become a leading software security company that is prepared for the Enterprise of Things— and we invite our partners to do so too.
+Growth
+Leverage a platform built on open APIs and SDKs to evolve your business with a greater variety of secure business apps and services.
+Profitability
+Choose from over 100 out-of-the-box apps on a single platform, making it easy to maximize your revenue while lowering costs. 
+Value
+Stand out in a competitive marketplace with personalized value-added services throughout the lifecycle of customer ownership.
+Support for Your Evolving Business Model
+Regardless of your business model, there is a partnership option designed just for you. New partners enter the program as a Registered Partner. This entry-level status gives you the ability to purchase software and services. As you continue to define and develop your business with you can explore new ways to partner with us.
+Resell On-premise or Cloud with Services
+Complement your services offering by reselling Enterprise Mobility Suites with services and support included
+Choose from a range of profitable billing options that seamlessly provide expansion and upgrades
+Pick your delivery preference including and Azure
+Resell On-premise or Cloud with your own System Integration
+Differentiate your company with knowledge and expertise in design and architecture 
+Deliver implementation and deployment capabilities
+Accelerate a new revenue stream with the option to mobilize and secure application workflows
+Managed Services (MSP)
+Deliver an end-to-end secure mobile practice through competencies.
+Deliver software as a Subscription Service (SaaS).
+Integrate the Secure platform, with workflow applications leveraging the Dynamics SDK
+Get an incremental services discount
+At any time, you can also add specialization(s):
+Workspaces Specialization
+Develop in-depth skills for Enterprise File Sync and Share (EFSS) 
+Advisor
+Get the required skills and tools to provide cybersecurity risk assessments to customers 
+Crisis Communication Specialization
+Build your expertise in providing solutions for crisis communication.
+What Partners Are Saying
+Check out what Solution Providers are saying about the benefits of their partnership with BlackBerry.
+View the infographic
+Download the Report
+Featured Case Study
+"Security is something our customers really demand, and a core pillar of our organization. That’s why we use BlackBerry. They’re better for the security minded than MobileIron or AirWatch, and their solutions are the most innovative."
+Petra Bauman
+Get Started
+Join the award-winning partner program to get access to the tools that will help you build your expertise and expand your business opportunities.
+Your application will be reviewed by and, if approved, a welcome email will be sent detailing the tools and benefits available to grow your business.
+Your organization must be a legally registered company
+Your organization must have an operational corporate website
+By accepting the following agreements you agree that you have the authority to bind the company and must
+Use your individual email address: no group/alias email addresses
+Use your organization’s corporate email domain
+is unable to process applications that do not adhere to the above requirements. All applications go through an approval process, and reserves the right to decline.
+TODAY
+Top
+English
+German
+French
+Spanish
+Arabic
+Indonesian
+Japanese
+Chinese
+Company
+Newsroom
+Investors
+Careers
+Leadership
+Corporate Responsibility
+Certifications
+Customer Success
+Enterprise Platform & Apps
+Developer Network
+Inside Developers Blog
+Help Blog
+Overview
+Accessibility
+Patents
+Trademarks
+Privacy Policy
+Contact Us
+Support
+Facebook
+Twitter
+YouTube
+Instagram
+Read more hereSOLUTIONS
+Enterprise Software
+BYOD
+Communications
+Content Collaboration
+Emergency Mass Communication
+Mobile Applications
+Remote Connectivity
+Unified Endpoint Management
+Licensing
+Licensing for IoDevice Manufacturers
+Licensing for Smartphone Manufacturers
+Transportation Asset Tracking
+Real-time Visibility for Transportation Assets
+Embedded Systems
+Automotive Software
+Static Application Security Testing
+Cryptography, Key Management & Digital Certificates
+PRODUCTS
+Spark Platform
+Endpoint Management
+UEM
+Applications
+Dynamics Platform
+Dynamics Apps
+Marketplace for Enterprise Software
+Automotive
+Platform for Instrument Clusters
+Platform
+All Products
+Enterprise Product Overview
+Content Collaboration
+Workspaces
+Messaging, Voice & Text
+Enterprise
+Secufor Government
+Spark Communications Services
+Identity & Access Management
+Enterprise Identity
+2FA
+Transportation Asset Tracking
+Radar
+Enterprise Mobility Suite
+Alerts & Crisis Communications
+AtHoc
+Embedded
+Certicom Asset Management System
+Real Time Operating Systems
+Hypervisor
+Devices
+All Devices
+Apps for Android Smartphones
+Static Application Security Testing
+Jarvis
+Resource Center
+SERVICES
+Professional Services
+Cybersecurity Consulting
+Enterprise Consulting
+Professional Services
+Support & Training
+Technical Support
+Incident Response Team
+Technical Training
+Product Training
+INDUSTRIES
+Education
+Universities & Colleges
+Financial Services
+Banking
+Insurance
+Government
+Central Government
+Defense & Security
+Public Safety & Law Enforcement
+Healthcare
+Healthcare
+Life Sciences
+Manufacturing
+Industrial Automation
+Professional Services
+Legal & Consulting
+Transportation
+Automotive
+Railways
+Transportation & Logistics
+Success Stories
+PARTNERS
+Partner Program
+Program Overview
+Solutions Providers
+ISVs
+Become a Partner
+Solutions Provider
+ISV
+Find a Partner
+Partner Apps
+Training Partners
+Partners
+SUPPORT
+Support Overview
+Enterprise Platforms & Apps
+UEM
+Mobility Suites
+Workspaces
+2FA
+Enterprise Identity
+Enterprise
+AtHoc
+Cloud
+WorkLife
+Supported Apps
+Enterprise BRIDGE
+Enterprise Support Services
+Enterprise Support Services
+Enterprise Consulting
+Training & Accreditation
+Smartphones & Apps
+Smartphones
+Smartphone Apps
+Desktop Software Downloads
+Product Information
+Documentation and Manuals
+Portals & Resources
+myAccount & Admin Portal
+Software Lifecycle
+Knowledge Base
+Support
+Radar Support
+Developer Network
+Developer Network
+Help Blog
+Support Videos
+Contact Us
+BLOG
+Blogs
+Enterprise Blog
+Developer Blog
+Support Blog
+Register for Updates
+Contact Sales
+Contact Us
+Become an Marketplace Partner
+Comments
+Email
+Complete the form below to request to join the Partner Program.
+Country/Region*
+By completing this form, you agree to processing your personal data for the purpose of contacting you about the software or service you have selected.
+
+	              Click here if you’d like to receive marketing updates from BlackBerry.  By clicking here you agree to processing your personal data in order to provide you with marketing updates.  We may also use your registration information to build a profile of your interests to help us create a more personalized experience for you.  You can 
+unsubscribe
+ at any time at this link or through the 
+Privacy Policy
+Submit
+Thank you for your request. representative will contact you soon.
+Error submitting form.  Please try again later.
+Benefits to Becoming a Partner
+Certify your Dynamics application as Secure.
+List your AppConfig community, and customizable applications.
+Host application Trials and Betas with your customers.
+Manage new leads and existing customers through a web-based Portal.
+Gain white glove access to technical specialists.
+Free extensions to developer trial licenses.
+Promote your solution in the central location for Users and Admins to find applications that work with UEM.
+Deliver your Dynamics application to customers without having to customize special versions.
+Top
+English
+German
+French
+Spanish
+Arabic
+Indonesian
+Japanese
+Chinese
+Company
+Newsroom
+Investors
+Careers
+Leadership
+Corporate Responsibility
+Certifications
+Customer Success
+Enterprise Platform & Apps
+Developer Network
+Inside Developers Blog
+Help Blog
+Overview
+Accessibility
+Patents
+Trademarks
+Privacy Policy
+Contact Us
+Support
+Facebook
+Twitter
+YouTube
+Instagram
+Read more hereSOLUTIONS
+Enterprise Software
+BYOD
+Communications
+Content Collaboration
+Emergency Mass Communication
+Mobile Applications
+Remote Connectivity
+Unified Endpoint Management
+Licensing
+Licensing for IoDevice Manufacturers
+Licensing for Smartphone Manufacturers
+Transportation Asset Tracking
+Real-time Visibility for Transportation Assets
+Embedded Systems
+Automotive Software
+Static Application Security Testing
+Cryptography, Key Management & Digital Certificates
+PRODUCTS
+Spark Platform
+Endpoint Management
+UEM
+Applications
+Dynamics Platform
+Dynamics Apps
+Marketplace for Enterprise Software
+Automotive
+Platform for Instrument Clusters
+Platform
+All Products
+Enterprise Product Overview
+Content Collaboration
+Workspaces
+Messaging, Voice & Text
+Enterprise
+Secufor Government
+Spark Communications Services
+Identity & Access Management
+Enterprise Identity
+2FA
+Transportation Asset Tracking
+Radar
+Enterprise Mobility Suite
+Alerts & Crisis Communications
+AtHoc
+Embedded
+Certicom Asset Management System
+Real Time Operating Systems
+Hypervisor
+Devices
+All Devices
+Apps for Android Smartphones
+Static Application Security Testing
+Jarvis
+Resource Center
+SERVICES
+Professional Services
+Cybersecurity Consulting
+Enterprise Consulting
+Professional Services
+Support & Training
+Technical Support
+Incident Response Team
+Technical Training
+Product Training
+INDUSTRIES
+Education
+Universities & Colleges
+Financial Services
+Banking
+Insurance
+Government
+Central Government
+Defense & Security
+Public Safety & Law Enforcement
+Healthcare
+Healthcare
+Life Sciences
+Manufacturing
+Industrial Automation
+Professional Services
+Legal & Consulting
+Transportation
+Automotive
+Railways
+Transportation & Logistics
+Success Stories
+PARTNERS
+Partner Program
+Program Overview
+Solutions Providers
+ISVs
+Become a Partner
+Solutions Provider
+ISV
+Find a Partner
+Partner Apps
+Training Partners
+Partners
+SUPPORT
+Support Overview
+Enterprise Platforms & Apps
+UEM
+Mobility Suites
+Workspaces
+2FA
+Enterprise Identity
+Enterprise
+AtHoc
+Cloud
+WorkLife
+Supported Apps
+Enterprise BRIDGE
+Enterprise Support Services
+Enterprise Support Services
+Enterprise Consulting
+Training & Accreditation
+Smartphones & Apps
+Smartphones
+Smartphone Apps
+Desktop Software Downloads
+Product Information
+Documentation and Manuals
+Portals & Resources
+myAccount & Admin Portal
+Software Lifecycle
+Knowledge Base
+Support
+Radar Support
+Developer Network
+Developer Network
+Help Blog
+Support Videos
+Contact Us
+BLOG
+Blogs
+Enterprise Blog
+Developer Blog
+Support Blog
+Register for Updates
+Contact Sales
+Contact Us
+Unified Endpoint Management - UEM
+Manage Your Diverse Set of Endpoints
+Smartphones
+Desktop
+Wearables
+Register For Updates
+Contact Sales
+Securely Address Endpoint Diversity with Flexibility
+How do you effectively manage your growing fleet of devices while keeping corporate data secure? As new device types proliferate and the lines between desktops, laptops, tablets, smartphones, wearables and even Ioblur, how do you stay in control?
+Whether on premise or in the cloud, BlackBerry® UEM, a key component of the BlackBerry® Enterprise Mobility Suite, allows your organization to secure and manage all the intelligent endpoints in your enterprise. Cloud provides the most secure management platform for identity, device and application management with all the advantages of a cloud service. 
+Smartphones
+iOS
+Android
+Windows Phone
+The Enterprise Mobility Suite provides shared device and day one support for the latest ireleases. Use a layered security model and ease support for the wide range of iplatforms, spanning the entire suite of applications, leading applications and heightened security for native iapplications. 
+Zero-touch enrollment with the Enterprise Mobility Suite enables large-scale Android deployments.
+With Android support that spans the entire suite of applications, a wide range of leading applications and comprehensive support for 
+Samsung Knox Workspace
+ and Android for enterprise you can empower employees with mobile productivity.
+Operations teams can set both 
+MDM
+ and app-specific policies on Windows Phone devices, while users can utilize business-grade secure email and other apps built on the Dynamics Platform.
+Use the gold standard for managing BlackBerry® 10 devices. 
+BlackBerry® UEM
+ manages a wide array of devices and policies from a unified console.  devices can be managed from the same solution used for iOS, Android, Windows, macand more.
+Desktop
+Windows
+macOS
+Provide robust support for Windows 10 devices whether desktop, laptop or tablet devices, such as Microsoft Surface. With the Enterprise Mobility Suite, operations teams can set 
+MDM
+ policies on Windows devices, allowing to take a lightweight, modern management approach to supporting PCs. Managing PCs with policies allows to quickly and easily set up and support Windows devices.
+In addition, with 
+®
+ Access
+ for Windows organizations can easily deploy HTML5 apps, including a version of the ®
+ Work productivity app, into a containerized environment with offline access, providing an alternative to legacy deployments.
+Manage your maclaptops with the same technology you use to manage your mobile devices. 
+UEM
+ manages policies for laptops running macfrom a unified console.  And with 
+Access
+ for macOS organizations can easily deploy HTML5 apps, including a version of the Work productivity app, into a containerized environment with offline access, providing an alternative to legacy deployments.
+Wearables
+Worldwide shipments for enterprise and industrial wearables are expected to increase from 2.3 million in 2015 to 66.4 million units annually by 2021
+1
+. As the number and diversity of these devices increase in the enterprise, organizations must find new ways to ensure secure management, control, and enablement capabilities.
+Smart Glasses
+Apple Watch
+Android Wear
+As smart glasses appear in the workplace, they require new levels of security and support. software provides comprehensive tools and policies for secure management and control of these devices. Connect them to the secure network, ensure compliance with software updates, provision third party apps and more, 
+Enable a new era of productivity with 
+Work
+ by managing and securing access to corporate email and calendar notifications on Apple Watch devices through a comprehensive set of device and app policy controls. This capability offers enterprises a new way to unite usability and enterprise-grade security.
+Provide comprehensive security and enterprise mobility management for Android Wear with the Enterprise Mobility Suite. Ensure security and ease support for a wide range of Android Wear devices through 
+MAM
+, fostering improved mobile productivity at the wrist.
+Tractica Research: Enterprise and Industrial Wearable Shipments and Revenue, World Markets: 2015-2021
+Top
+English
+German
+French
+Spanish
+Arabic
+Indonesian
+Japanese
+Chinese
+Company
+Newsroom
+Investors
+Careers
+Leadership
+Corporate Responsibility
+Certifications
+Customer Success
+Enterprise Platform & Apps
+Developer Network
+Inside Developers Blog
+Help Blog
+Overview
+Accessibility
+Patents
+Trademarks
+Privacy Policy
+Contact Us
+Support
+Facebook
+Twitter
+YouTube
+Instagram
+Read more hereSOLUTIONS
+Enterprise Software
+BYOD
+Communications
+Content Collaboration
+Emergency Mass Communication
+Mobile Applications
+Remote Connectivity
+Unified Endpoint Management
+Licensing
+Licensing for IoDevice Manufacturers
+Licensing for Smartphone Manufacturers
+Transportation Asset Tracking
+Real-time Visibility for Transportation Assets
+Embedded Systems
+Automotive Software
+Static Application Security Testing
+Cryptography, Key Management & Digital Certificates
+PRODUCTS
+Spark Platform
+Endpoint Management
+UEM
+Applications
+Dynamics Platform
+Dynamics Apps
+Marketplace for Enterprise Software
+Automotive
+Platform for Instrument Clusters
+Platform
+All Products
+Enterprise Product Overview
+Content Collaboration
+Workspaces
+Messaging, Voice & Text
+Enterprise
+Secufor Government
+Spark Communications Services
+Identity & Access Management
+Enterprise Identity
+2FA
+Transportation Asset Tracking
+Radar
+Enterprise Mobility Suite
+Alerts & Crisis Communications
+AtHoc
+Embedded
+Certicom Asset Management System
+Real Time Operating Systems
+Hypervisor
+Devices
+All Devices
+Apps for Android Smartphones
+Static Application Security Testing
+Jarvis
+Resource Center
+SERVICES
+Professional Services
+Cybersecurity Consulting
+Enterprise Consulting
+Professional Services
+Support & Training
+Technical Support
+Incident Response Team
+Technical Training
+Product Training
+INDUSTRIES
+Education
+Universities & Colleges
+Financial Services
+Banking
+Insurance
+Government
+Central Government
+Defense & Security
+Public Safety & Law Enforcement
+Healthcare
+Healthcare
+Life Sciences
+Manufacturing
+Industrial Automation
+Professional Services
+Legal & Consulting
+Transportation
+Automotive
+Railways
+Transportation & Logistics
+Success Stories
+PARTNERS
+Partner Program
+Program Overview
+Solutions Providers
+ISVs
+Become a Partner
+Solutions Provider
+ISV
+Find a Partner
+Partner Apps
+Training Partners
+Partners
+SUPPORT
+Support Overview
+Enterprise Platforms & Apps
+UEM
+Mobility Suites
+Workspaces
+2FA
+Enterprise Identity
+Enterprise
+AtHoc
+Cloud
+WorkLife
+Supported Apps
+Enterprise BRIDGE
+Enterprise Support Services
+Enterprise Support Services
+Enterprise Consulting
+Training & Accreditation
+Smartphones & Apps
+Smartphones
+Smartphone Apps
+Desktop Software Downloads
+Product Information
+Documentation and Manuals
+Portals & Resources
+myAccount & Admin Portal
+Software Lifecycle
+Knowledge Base
+Support
+Radar Support
+Developer Network
+Developer Network
+Help Blog
+Support Videos
+Contact Us
+BLOG
+Blogs
+Enterprise Blog
+Developer Blog
+Support Blog
+Register for Updates
+Contact Sales
+Contact Us
+Our Principles
+Innovation and Collaboration Fosters Sustainable Growth
+Company
+Newsroom
+Investors
+Careers
+Leadership
+Corporate Responsibility
+Contact Us
+Company Driven by Ideas
+BlackBerry® is committed to global sustainability by improving the economic, social and environmental impacts of our day-to-day operations. teams implement programs across the organization to identify, execute and measure sustainable initiatives.
+has a variety of core principles that guide how we view our corporate responsibility, community involvement and environmental impact.
+Responsibility
+operations have a social, environmental and economic impact. That’s a fact we take seriously and dedicate ourselves to managing responsibly.
+Environment
+is committed to reducing our environmental footprint and seeking sustainable programs and policies at every stage in the product life cycle.
+Corporate Responsibility Report and Other Resources
+Top
+English
+German
+French
+Spanish
+Arabic
+Indonesian
+Japanese
+Chinese
+Company
+Newsroom
+Investors
+Careers
+Leadership
+Corporate Responsibility
+Certifications
+Customer Success
+Enterprise Platform & Apps
+Developer Network
+Inside Developers Blog
+Help Blog
+Overview
+Accessibility
+Patents
+Trademarks
+Privacy Policy
+Contact Us
+Support
+Facebook
+Twitter
+YouTube
+Instagram
+Read more hereSOLUTIONS
+Enterprise Software
+BYOD
+Communications
+Content Collaboration
+Emergency Mass Communication
+Mobile Applications
+Remote Connectivity
+Unified Endpoint Management
+Licensing
+Licensing for IoDevice Manufacturers
+Licensing for Smartphone Manufacturers
+Transportation Asset Tracking
+Real-time Visibility for Transportation Assets
+Embedded Systems
+Automotive Software
+Static Application Security Testing
+Cryptography, Key Management & Digital Certificates
+PRODUCTS
+Spark Platform
+Endpoint Management
+UEM
+Applications
+Dynamics Platform
+Dynamics Apps
+Marketplace for Enterprise Software
+Automotive
+Platform for Instrument Clusters
+Platform
+All Products
+Enterprise Product Overview
+Content Collaboration
+Workspaces
+Messaging, Voice & Text
+Enterprise
+Secufor Government
+Spark Communications Services
+Identity & Access Management
+Enterprise Identity
+2FA
+Transportation Asset Tracking
+Radar
+Enterprise Mobility Suite
+Alerts & Crisis Communications
+AtHoc
+Embedded
+Certicom Asset Management System
+Real Time Operating Systems
+Hypervisor
+Devices
+All Devices
+Apps for Android Smartphones
+Static Application Security Testing
+Jarvis
+Resource Center
+SERVICES
+Professional Services
+Cybersecurity Consulting
+Enterprise Consulting
+Professional Services
+Support & Training
+Technical Support
+Incident Response Team
+Technical Training
+Product Training
+INDUSTRIES
+Education
+Universities & Colleges
+Financial Services
+Banking
+Insurance
+Government
+Central Government
+Defense & Security
+Public Safety & Law Enforcement
+Healthcare
+Healthcare
+Life Sciences
+Manufacturing
+Industrial Automation
+Professional Services
+Legal & Consulting
+Transportation
+Automotive
+Railways
+Transportation & Logistics
+Success Stories
+PARTNERS
+Partner Program
+Program Overview
+Solutions Providers
+ISVs
+Become a Partner
+Solutions Provider
+ISV
+Find a Partner
+Partner Apps
+Training Partners
+Partners
+SUPPORT
+Support Overview
+Enterprise Platforms & Apps
+UEM
+Mobility Suites
+Workspaces
+2FA
+Enterprise Identity
+Enterprise
+AtHoc
+Cloud
+WorkLife
+Supported Apps
+Enterprise BRIDGE
+Enterprise Support Services
+Enterprise Support Services
+Enterprise Consulting
+Training & Accreditation
+Smartphones & Apps
+Smartphones
+Smartphone Apps
+Desktop Software Downloads
+Product Information
+Documentation and Manuals
+Portals & Resources
+myAccount & Admin Portal
+Software Lifecycle
+Knowledge Base
+Support
+Radar Support
+Developer Network
+Developer Network
+Help Blog
+Support Videos
+Contact Us
+BLOG
+Blogs
+Enterprise Blog
+Developer Blog
+Support Blog
+Register for Updates
+Contact Sales
+Contact Us
+to Acquire Cylance and Add Premier and Cybersecurity Capabilities
+November 16, 2018
+Next-Generation Machine Learning to Complement Entire Technology Portfolio
+Integrated Solutions to be First to Intelligently Protect Fixed and Mobile Endpoints
+Embeddable Technology to Accelerate Development of Spark EoPlatform 
+WATERLOO, Ont. and IRVINE, Calif.
+ – November 16, 2018 – 
+ (NYSE: BB; TSX: BB) today announced it has entered into a definitive agreement to wholly acquire 
+Cylance
+, an artificial intelligence and cybersecurity leader, for $1.4 billion in cash, plus the assumption of unvested employee incentive awards. Pending regulatory approvals and other customary closing conditions, 
+the deal is expected to close prior to the end of BlackBerry’s current fiscal year (February 2019).
+“Cylance’s leadership in artificial intelligence and cybersecurity will immediately complement our entire portfolio, 
+UEM
+ and 
+QNX
+ in particular. We are very excited to onboard their team and leverage our newly combined expertise,” said John Chen, Executive Chairman and of BlackBerry. “We believe adding Cylance’s capabilities to our trusted advantages in privacy, secure mobility, and embedded systems will make 
+Spark
+ indispensable to realizing the Enterprise of Things.”
+According to Gartner in its most recent Internet of Things Backbone Survey: security was cited as the top barrier to Iosuccess (35%), with privacy concerns (25%), and potential risks and liabilities (25%) also in the top five.
+Cylance is a pioneer in applying artificial intelligence, algorithmic science, and machine learning to cybersecurity software that has proven highly effective at predicting and preventing known and unknown threats to fixed endpoints. The fast-growing company has become a market leader with an advanced and lightweight agent that resides on the endpoint, operates both online and off, and requires a minimum of memory and power to function. Founded in 2012, Cylance generates highly recurring revenue from over 3,500 active enterprise customers, including more than 20% of the Fortune 500.
+“Our highly skilled cybersecurity workforce and market leadership in next-generation endpoint solutions will be a perfect fit within where our customers, teams and technologies will gain immediate benefits from BlackBerry’s global reach,” said Stuart McClure, Co-Founder, Chairman, and of Cylance. “We are eager to leverage BlackBerry’s mobility and security strengths to adapt our advanced technology to deliver a single platform.”
+Spark Platform
+Spark is a next-generation secure chip-to-edge communications platform for the Eothat will create and leverage trusted connections between any endpoint. Designed for ultra-security and industry-specific safety-certifications, such as 26262 in automobiles, Spark will leverage the company’s deep portfolio of technology that includes FIPS-validated, app-level, 256-bit encryption to ensure data is always protected. Spark enables organizations to comply with stringent multi-national regulatory requirements. In fact, is the only Eoplatform provider to achieve Common Criteria EAL4+ for both iand Android, offering the highest level of security in the market.
+expects that after the anticipated close of the transaction, Cylance will operate as a separate business unit within Limited.
+Investor conference call details
+will host an investor conference call beginning at 8:30 a.m. ET, Friday, November 16, 2018. The call can be accessed by dialing (866) 393-4306 and providing Conference #2284588, or live streamed on the company’s website at 
 .
-
-We offer the world’s most comprehensive portfolio of orthopaedic and neuro products and services for joint reconstruction, trauma, spine, sports medicine, neuro, cranio-maxillofacial, power tools and biomaterials.
-DSUS/MOC/0817/0816 11/2017
-DePuy Synthes Joint Reconstruction
-One of the largest orthopaedics companies in the world, with leading solutions for hip, knee and shoulder replacement.
-DePuy Synthes Trauma
-The global leader in orthopaedic trauma devices for internal and external fixation.
-DePuy Synthes Spine
-Offering one of the world’s most diverse portfolios of spinal-care solutions for both traditional and minimally invasive spine surgery.
-DePuy Synthes Mitek Sports Medicine
-leading developer and manufacturer of pain management and minimally invasive solutions, including sports medicine and soft-tissue repair products.
-DePuy Synthes Power Tools
-Delivering a comprehensive range of power instrument systems, reamers and saws to meet a broad spectrum of clinical needs.
-DePuy Synthes Neuro
-Providing a wide range of solutions for the diagnosis and treatment of neurological disorders focusing on neurovascular, neurosurgery and neuromodulation solutions.
-DePuy Synthes CMF
-Offering systems that provide a complete array of implants and instruments for the treatment of facial trauma, tumor resection and reconstruction.
-Careers - Johnson & Johnson 
-Contact Us
+replay of the call will be available on November 16, 2018 by dialing (855) 859-2056 and entering Conference #2284588. 
+Additional details on the acquisition and the two companies can be found at 
+.
+Perella Weinberg Partners acted as exclusive financial advisor and Morrison Foerster acted as legal advisor to BlackBerry. Cylance was advised on the transaction by Morgan Stanley and Jones Day.
+About (NYSE: BB; TSX: BB) enables the Enterprise of Things by providing the technology that allows endpoints to trust one another, communicate securely, and maintain privacy. Based in Waterloo, Ontario, the company was founded in 1984 and operates globally. For more information, visit 
+ and follow 
+@.
+About Cylance
+Cylance develops artificial intelligence to deliver prevention-first, predictive security products and smart, simple, secure solutions that change how organizations approach endpoint security. Cylance provides full spectrum predictive threat prevention and visibility across the enterprise to combat the most notorious and advanced cybersecurity attacks. With AI-based malware prevention, threat hunting, automated detection and response, and expert security services, Cylance protects the endpoint without increasing staff workload or costs. We call it the Science of Safe. Learn more at 
+.
+Forward-looking statements in this news release are made pursuant to the "safe harbor" provisions of the Private Securities Litigation Reform Act of 1995 and applicable Canadian securities laws. When used herein, words such as "expect", "anticipate", "estimate", "may", "will", "should", "intend", "believe", and similar expressions, are intended to identify forward-looking statements. These forward-looking statements include statements relating to the proposed acquisition of Cylance and expectations regarding the timing and benefits thereof.  Forward-looking statements are based on estimates and assumptions made by in light of its experience and its perception of historical trends, current conditions and expected future developments, as well as other factors that believes are appropriate in the circumstances. Many factors could cause BlackBerry's actual results, performance or achievements to differ materially from those expressed or implied by the forward-looking statements, including the risk that may be unable to obtain regulatory approvals required for the proposed acquisition or may be unable to obtain those approvals on favorable terms; the risk that the required regulatory approvals may delay the proposed acquisition; the risk that a condition to the closing of the proposed acquisition may not be satisfied or the acquisition agreement may be terminated prior to closing; risks associated with the integration of the Cylance business; and those risks described in the "Risk Factors" section of BlackBerry's Annual Information Form, which is included in its Annual Report on Form 40-(copies of which filings may be obtained at 
+ or 
+). These factors should be considered carefully, and readers should not place undue reliance on BlackBerry's forward-looking statements. has no intention and undertakes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+and related trademarks, names and logos are the property of and are registered and/or used in the and countries around the world. All other marks are the property of their respective owners. is not responsible for any third-party products or services.
+###
+Media Contacts:
+(519) 597-7273
+Investor Contact:
+(519) 888-7465
+Back
+Top
+English
+German
+French
+Spanish
+Arabic
+Indonesian
+Japanese
+Chinese
+Company
+Newsroom
+Investors
+Careers
+Leadership
+Corporate Responsibility
+Certifications
+Customer Success
+Enterprise Platform & Apps
+Developer Network
+Inside Developers Blog
+Help Blog
+Overview
+Accessibility
+Patents
+Trademarks
 Privacy Policy
-Legal Notice
-Site Map
-Ethics Hotline
-Consultant Identification & Payments
-California Compliance Notice
-Transparency
-©DePuy Synthes 2014-2018. All rights reserved. This site is published by DePuy Synthes Companies which is solely responsible for its content. This site is intended for visitors from the United States. The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
-Back To Top
-×Where does it hurt?
-Enter your zip code:
-Choose a procedure:
-By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
-Where does it hurt?
-Enter your zip code:
-Choose a procedure:
-By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
-Start the conversation now.
-DON'PLAY.
-If hip or knee pain is making you live life on pause, it may be time to talk with a doctor about treatment options. Because life is a lot more fun when you Hit Play!
-We are inspired by the opportunity to work together to advance patient care.
-Johnson & Johnson Medical Devices Companies (JJMDC) advance patient care while delivering clinical and economic value to healthcare systems and helps providers address individual needs through a holistic approach.
-Where does it hurt?
-Enter your zip code:
-Choose a procedure:
-By choosing "Find a Doctor" acknowledge that I've reviewed and agree to the website's privacy policy .
-Find a Doctor
-© DePuy Synthes 2014-2018. All Rights Reserved.
-This site is published by the DePuy Synthes Companies, which are solely responsible for its content.
-This site is governed solely by applicable laws and governmental regulations.
-This site is for visitors from the United States.
-The third party trademarks used herein are the trademarks of their respective owners.
-Follow Us
+Contact Us
+Support
+Facebook
+Twitter
+YouTube
+Instagram
+Read more here

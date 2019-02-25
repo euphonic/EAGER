@@ -1,0 +1,5 @@
+,Nearest Neighbors,Linear SVM,RBF SVM,Decision Tree,Random Forest,Neural Net,AdaBoost,Naive Bayes,SVC,QDA
+Count based features, 0.673 , 0.732 , 0.727 , 0.741 , 0.744 , 0.737 , 0.735 , 0.739 , 0.692 , 0.732 
+Text features, 0.818 , 0.732 , 0.831 , 0.814 , 0.732 , 0.876 , 0.843 , 0.728 , 0.832 , 0.345 
+All features minus header text, 0.825 , 0.732 , 0.829 , 0.805 , 0.732 , 0.887 , 0.865 , 0.729 , 0.841 , 0.483 
+All features, 0.822 , 0.732 , 0.833 , 0.815 , 0.732 , 0.892 , 0.851 , 0.730 , 0.847 , 0.456 
