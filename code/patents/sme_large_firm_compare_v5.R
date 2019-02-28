@@ -9,7 +9,7 @@ loadfonts(device = "pdf")
 library (ggplot2)
 library(scales)
 
-setwd("/Users/sarora/dev/EAGER/data/patents/measures/")
+setwd("/Users/Sanjay/dev/EAGER/data/patents/measures/")
 
 #--------------
 # Create Theme
@@ -49,16 +49,20 @@ in.pat_all <- read.csv("patents_overall.csv", header = TRUE, stringsAsFactors = 
 in.ass_first_year <- read.csv("assignees_first-year.csv", header = TRUE, stringsAsFactors = FALSE)
 in.lookup <- read.csv("assignee-2-patent-lookup.csv", header = TRUE, stringsAsFactors = FALSE) 
 
-in.eager_assignee <- read.csv("..//..//orgs//emps//eager_emps_v2.csv", header = TRUE, stringsAsFactors = FALSE) 
+in.eager_assignee <- read.csv("..//..//orgs//emps//eager_emps_v3.csv", header = TRUE, stringsAsFactors = FALSE) 
 in.eager_assignee$max_emps <- as.numeric(gsub(",", "", in.eager_assignee$max_emps))
 in.eager_assignee$sme <- 1
 colnames (in.eager_assignee)
 nrow(in.eager_assignee)
-nrow(in.eager_assignee[in.eager_assignee$size_state == 'FirmSize.UNDEFINED',]) # == 42
-in.eager_assignee <- in.eager_assignee[in.eager_assignee$size_state != 'FirmSize.UNDEFINED',]
+nrow(in.eager_assignee[in.eager_assignee$size_state == 'FirmSize.UNDEFINED',]) # == 97
+# nrow(in.eager_assignee[in.eager_assignee$hit_url == '',]) # == 199
+# in.eager_assignee <- in.eager_assignee[in.eager_assignee$size_state != 'FirmSize.UNDEFINED' ,]
 nrow(in.eager_assignee)
 in.eager_assignee[which(in.eager_assignee$size_state == 'FirmSize.LARGE_FIRM'), 21] <- 0
+nrow(in.eager_assignee[in.eager_assignee$sme == 1, ])
+nrow(in.eager_assignee[in.eager_assignee$sme == 0, ])
 in.eager_assignee <- in.eager_assignee[,c(1,2,7,15:21)]
+
 View(in.eager_assignee)
 
 in.web_pages <- read.csv("..//..//orgs//about//about_predicted_and_labels.csv", header = TRUE, stringsAsFactors = FALSE) # just about page measures
@@ -71,6 +75,9 @@ nrow (in.web_pages)
 head(in.pat_all)
 head (in.eager_assignee)
 count_assignees_by_size <- in.pat_all %>% inner_join(in.eager_assignee, by = c("organization_clnd" = "lookup_firm")) %>% count(sme)
+count_assignees_by_size
+anti_join(in.pat_all, in.eager_assignee, by = c("organization_clnd" = "lookup_firm"))
+nrow(anti_join(in.eager_assignee, in.pat_all, by = c("lookup_firm" = "organization_clnd")))
 count_assignees_by_size
 
 # average number of employees 
