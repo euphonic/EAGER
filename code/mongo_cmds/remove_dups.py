@@ -38,10 +38,11 @@ def dedup():
 
     for doc in grouped_by_url:
         dups = doc['dups']
-        # print ('\tPopping: ' + str(dups.pop(0)))
+        print ('\tPopping: ' + str(dups.pop())) # do not delete this line as it pops the last occurrence!
         to_delete_ids.append(dups)
 
     flattened = [item for sublist in to_delete_ids for item in sublist] 
+    print ('Preparing to remove', len(flattened), ' items')
     # pp.pprint(flattened)
     return flattened
 
@@ -52,3 +53,4 @@ def batch_delete (ids):
 # run main
 to_delete_ids = dedup ()
 batch_delete (to_delete_ids)
+

@@ -25,7 +25,7 @@ TARGET_COLLECTION = "pages_ABOUT2"
 client = pymongo.MongoClient(connection_string, username=username, password=password, authSource=authSource,
                              authMechanism=authMechanism)
 db = client[MONGODB_DB]
-regex = re.compile('pages_a\d')
+regex = re.compile('pages_a\dm?')
 
 def insert_col (name):
     source_col = db[name]

@@ -27,8 +27,6 @@ MISSING_FILE = "../../data/orgs/chunks/" + CHUNK + "_missing.csv"
 MONGODB_DB = "FirmDB"
 MONGODB_COLLECTION = "pages_" + CHUNK
 
-regex_p = re.compile(r'https?://(www\.)?', re.IGNORECASE)
-
 def get_url_aggregates ():
 
     client = pymongo.MongoClient(connection_string, username=username, password=password, authSource=authSource, authMechanism=authMechanism)
@@ -63,7 +61,10 @@ def read_firms_csv(filename):
         for row in reader:
             firm = {
                 'firm_name': row[0],
-                'url': row[1]
+                'url': row[1],
+                'is_about': row[2],
+                'descriptor': row[3],
+                'total_about_pages': row[4]
             }
 
             firm['domain'] = urlparse(firm['url']).netloc
@@ -82,7 +83,7 @@ def compare (firms, mongo_results):
             print (firm['url'] + " in mongo") 
         else:
             print (firm['url'] + " NOT in mongo")
-            csv_out.writerow([firm['firm_name'], firm['url']])
+            csv_out.writerow([firm['firm_name'], firm['url'],firm['is_about'],firm['descriptor'],firm['total_about_pages']])
 
 # 1. 
 firms = read_firms_csv(CHUNK_FILE)
