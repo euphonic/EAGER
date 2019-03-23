@@ -6,13 +6,10 @@ import pprint
 import pymongo
 import traceback
 from time import sleep
-import requests
 import getopt
-from config import connection_string
-from config import username
-from config import password
-from config import authSource
-from config import authMechanism
+from collections import defaultdict
+
+connection_string = 'mongodb://localhost'
 
 options, remainder = getopt.getopt(sys.argv[1:], 'tv')
 
@@ -21,22 +18,25 @@ if (options is None or len(options) == 0):
     sys.exit()
 
 test_mode = None
+collection_string = None
 for opt, arg in options:
     if opt in ('-t'):
+        collection_string = 'bingResults_finalTest'
         test_mode = True
     elif opt in ('-v'):
+        collection_string = 'bingResults_training'
         test_mode = False
 
-mdbc = pymongo.MongoClient(connection_string, username=username, password=password, authSource=authSource, authMechanism=authMechanism)
+mdbc = pymongo.MongoClient(connection_string)
 db = mdbc["EAGER"]
-col = db["bingResults"]
+col = db[collection_string]
 
 pp = pprint.PrettyPrinter(indent=4)
 
-f_in = open('/home/eager/EAGER/data/orgs/workshop/all_demo.csv')
+f_in = open('/Users/sanjay/dev/EAGER/data/modeling/urls/training/firm-urls-v5-unique.csv')
 csv_in = csv.reader(f_in)
 
-f_out = open('/home/eager/EAGER/data/orgs/workshop/bing-final-test-matrix-v2.csv', 'w')
+f_out = open('/Users/sanjay/dev/EAGER/data/modeling/urls/final_test/bing-firm-final-urls-out-v2.csv', 'w')
 csv_out = csv.writer(f_out)
 
 if not test_mode:
@@ -52,6 +52,8 @@ acquired_merged_pat = re.compile("merge*|acquisition|acquire|formerly|(last earn
 def ngrams(string):
     words = re.findall(r'\w+', string)
     return words
+
+seen_firms = {}
 
 for row in csv_in:
     firm = row[0]
@@ -84,11 +86,13 @@ for row in csv_in:
     print("\tNumber of results: " + str(results.count()))
 
     hits = results.next()['webPages']['value']
-    acquired_merged = 0
+    acquired_merged     = 0
     public = 0
 
     rank = 0
     firm_words = ngrams(firm_clnd)
+
+    seen_firms[firm] = 0
 
     for hit in hits:
         hit_url = hit['url']
@@ -135,4 +139,10 @@ for row in csv_in:
         else:
             out = [firm, firm_length, url, name_clnd, name_length, hit_url, hit_url_length, rank, matches, public, acquired_merged, outcome]
 
+        if outcome:
+            seen_firms[firm] = outcome
+
         print(csv_out.writerow(out))
+
+print ("seen firms:")
+pp.pprint(seen_firms)
