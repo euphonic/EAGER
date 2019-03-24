@@ -25,24 +25,25 @@ in.pat_3 <- read.csv("patents_3industries.csv", header = TRUE, stringsAsFactors 
 in.pat_all <- read.csv("patents_overall.csv", header = TRUE, stringsAsFactors = FALSE)
 
 in.ass_first_year <- read.csv("assignees_first-year.csv", header = TRUE, stringsAsFactors = FALSE)
-in.lookup <- read.csv("assignee-2-patent-lookup.csv", header = TRUE, stringsAsFactors = FALSE) 
-
-in.eager_assignee <- read.csv("../eager_assignee.csv", header = TRUE, stringsAsFactors = FALSE) 
-in.eager_assignee$employees <- as.numeric(gsub(",", "", in.eager_assignee$employees))
-in.eager_assignee$sme <- in.eager_assignee$employees
-in.eager_assignee[which(in.eager_assignee$employees > 500 & in.eager_assignee$thes_types=="Corporate"), 5] <- 0
-in.eager_assignee[which(in.eager_assignee$employees < 500 & !is.na(in.eager_assignee$employees) & in.eager_assignee$thes_types=="Corporate"), 5] <- 1
-View(in.eager_assignee)
-
-in.web_pages <- read.csv("../../analysis/measures/simple_web_measures_v1.csv", header = TRUE, stringsAsFactors = FALSE) 
-
 # first year of patent for firm 
 colnames(in.ass_first_year)[1] <- 'first_year'
 head (in.ass_first_year)
 
+in.lookup <- read.csv("assignee-2-patent-lookup.csv", header = TRUE, stringsAsFactors = FALSE) 
+
+in.eager_assignee <- read.csv("../eager_assignee_v2.csv", header = TRUE, stringsAsFactors = FALSE) 
+head(in.eager_assignee)
+in.eager_assignee$sme <- 1
+colnames(in.eager_assignee)
+in.eager_assignee[which(in.eager_assignee$size_state == 'FirmSize.LARGE_FIRM'), 21] <- 0
+head(in.eager_assignee)
+
+in.web_pages <- read.csv("../../analysis/measures/simple_web_measures_v1.csv", header = TRUE, stringsAsFactors = FALSE) 
+head(in.web_pages)
+
 # number of patents all
 head(in.pat_all)
-num_patents_all_by_firm <- in.pat_all %>% inner_join(in.eager_assignee, by = c("organization_clnd")) %>% group_by(organization_clnd) %>% 
+num_patents_all_by_firm <- in.pat_all %>% inner_join(in.eager_assignee, by = c("name_clnd")) %>% group_by(name_clnd) %>% 
   summarize(num_patents_all = sum(count.p.id.))
 head(num_patents_all_by_firm)
 

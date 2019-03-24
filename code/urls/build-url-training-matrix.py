@@ -36,7 +36,7 @@ pp = pprint.PrettyPrinter(indent=4)
 f_in = open('/home/eager/EAGER/data/orgs/workshop/all_demo.csv')
 csv_in = csv.reader(f_in)
 
-f_out = open('/home/eager/EAGER/data/orgs/workshop/bing-final-test-matrix.csv', 'w')
+f_out = open('/home/eager/EAGER/data/orgs/workshop/bing-final-test-matrix-v2.csv', 'w')
 csv_out = csv.writer(f_out)
 
 if not test_mode:

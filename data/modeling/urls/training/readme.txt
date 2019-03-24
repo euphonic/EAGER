@@ -1,1 +1,1 @@
-this directory is has urls identified from training
+this directory has urls identified from training
