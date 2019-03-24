@@ -50,7 +50,7 @@ select count(epa.id), ea.final_lookup_firm_clnd -- or number?
 from eager_patent_all epa, eager_assignee ea, patent_assignee pa
 where epa.id = pa.patent_id
 and pa.assignee_id = ea.id
-group by ea.organization_clnd;
+group by ea.final_lookup_firm_clnd;
  -- change table for specific industries 
 
 -- count inventors (overall) group by patent 
@@ -67,12 +67,14 @@ from eager_patent_all epa, patent_inventor pi
 where epa.id = pi.patent_id
 group by epa.id;
 
--- count number of assignees (overall for patents assigned to an organization in this study), group by patentn (some of which may fall outside the study's scope)
-select count(pa.assignee_id), pa.patent_id
-	(select p.id
-	from patent p, patent_assignee pa, eager_assignee ea
-	where ea.id = pa.assignee_id
-	and pa.patent_id = p.id)
+-- count number of assignees (overall for patents assigned to an organization in this study), group by patent (some of which may fall outside the study's scope)
+select count(pa.assignee_id), p.id
+from patent p, patent_assignee pa
+where p.id in 
+(select p.id
+from patent p, patent_assignee pa, eager_assignee ea
+where ea.id = pa.assignee_id
+and pa.patent_id = p.id)
 group by p.id;
 
 -- count number of assignees (limiting to focal patents), group by patent
@@ -84,15 +86,15 @@ group by pa.patent_id;
 -- employee data come from LinkedIn
 
 -- first year of patent for assignees in study
-select year(min(p.`date`)), ea.organization_clnd -- need to get year
+select year(min(p.`date`)), ea.final_lookup_firm_clnd -- need to get year
 from patent p, eager_assignee ea, patent_assignee pa
 where p.id = pa.patent_id
 and pa.assignee_id = ea.id
-group by ea.organization_clnd; -- could also segment by industry if needed
+group by ea.final_lookup_firm_clnd; -- could also segment by industry if needed
 
 
 -- FIFTH: export patent and assignee numbers (all)
-select ea.organization_clnd, p.id from 
+select ea.final_lookup_firm_clnd, p.id from 
 eager_assignee ea, patent_assignee pa, patent p
 where ea.id = pa.assignee_id
 and p.id = pa.patent_id;

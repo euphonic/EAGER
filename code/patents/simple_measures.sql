@@ -68,11 +68,13 @@ where epa.id = pi.patent_id
 group by epa.id;
 
 -- count number of assignees (overall for patents assigned to an organization in this study), group by patentn (some of which may fall outside the study's scope)
-select count(pa.assignee_id), pa.patent_id
-	(select p.id
-	from patent p, patent_assignee pa, eager_assignee ea
-	where ea.id = pa.assignee_id
-	and pa.patent_id = p.id)
+select count(pa.assignee_id), p.id
+from patent p, patent_assignee pa
+where p.id in 
+(select p.id
+from patent p, patent_assignee pa, eager_assignee ea
+where ea.id = pa.assignee_id
+and pa.patent_id = p.id)
 group by p.id;
 
 -- count number of assignees (limiting to focal patents), group by patent
