@@ -1,0 +1,1473 @@
+count(p.id),lookup_firm
+14,"22nd Century Limited"
+9688,"3M Innovative Properties Company"
+3,"540 Grid Solutions"
+140,"646840 Alberta"
+100,"AAC Technologies Pte"
+3,Aadigen
+378,"ABB AB"
+948,"ABB Research"
+1098,"ABB Technology"
+915,"Abbott Cardiovascular Systems"
+24,"Abbott Molecular"
+145,"Abbott Point of Care"
+554,AbbVie
+16,"Abengoa Bioenergy New Technologies"
+435,"ABL IP Holding"
+2,Ablexis
+58,"Abraxis Bioscience"
+455,AC
+3,"ACACIA RESEARCH GROUP"
+445,"Access Business Group"
+190,AccuRay
+31,"Accuri Cytometers"
+32,ACell
+749,Acer
+2386,"Acushnet Company"
+78,"Acorn Technologies"
+44,ACUCELA
+15,"Adaptive Biotechnologies Corp"
+7,adaptiveARC
+8,ADASA
+285,Adeka
+40,"Adhesives Research"
+159,"adidas AG"
+22,"Adlens Beacon"
+7,"ADMA Products"
+3216,"Adobe Systems"
+471,Adtran
+173,"Advanced Analogic Technologies"
+2,"Advanced Aqua Group"
+1527,"Advanced Cardiovascular Systems"
+21,"Advanced Cell Technology"
+4,"ADVANCED CERAMIC FIBERS"
+10,"Advanced Fusion Technologies"
+1,"ADVANCED INNOVATION CENTER"
+4,"Advanced Silicon Group"
+730,"Advanced Technology Materials"
+8,"Advanced Water Technology"
+5,Adynxx
+77,Aerogen
+14,"Aerosol Dynamics"
+1,AFMODEL
+3,"AG ENERGY SOLUTIONS"
+45,"AGC Flat Glass North America"
+10,"Agena Bioscience"
+2553,"AGFA-GEVAERT NV"
+6,Agienic
+4274,"Agilent Technologies"
+289,Agrigenetics
+16,Agrivida
+8,AgroFresh
+2986,"AIR PRODUCTS AND CHEMICALS"
+4,"Ajinomoto Althea"
+15,"Akron Polymer Systems"
+4429,"Alcatel Lucent"
+324,"Alcon Research"
+57,Alcotek
+5,"Alencon Acquisition Co"
+105,"Alexion Pharmaceuticals"
+4,"ALF OPERATING PARTNERS"
+18,"Algenol Biotech"
+1,"ALGETERNAL TECHNOLOGIES"
+4,"All Power Labs"
+5,"Allertein Therapeutics"
+183,"Alliance for Sustainable Energy"
+189,"Allison Transmission"
+233,"Alnylam Pharmaceuticals"
+405,"Alpha and Omega Semiconductor"
+1372,"ALSTOM Technology"
+7,"AltaRock Energy"
+7,"Altex Technologies"
+6,Altivera
+6060,"Amazon Technologies"
+10,Ambature
+2,Amberwave
+327,"American Air Liquide"
+2,"AMERICAN BIO ENERGY CONVERTING CORP"
+45,"American Piledriving Equipment"
+2,"American Science and Technology"
+72,"Amgen Fremont"
+1241,Amgen
+45,"Amicus Therapeutics"
+880,"Amkor Technology"
+39,"AMO Wavefront Sciences"
+17,"Ampio Pharmaceuticals"
+66,Amprius
+23,AMPT
+46,"Amtech Systems"
+2931,"Analog Devices"
+153,Andritz
+2,Aneeve
+2052,Anelva
+1,"Angaza Design"
+25,"Angiotech Pharmaceuticals (US)"
+1,"Angstron Materials"
+1,Anlinx
+1,"Annam Biosciences"
+5,"Ansun Biopharma"
+41,"Antaya Technologies"
+9,Anterios
+31,"API Intellectual Property Holdings"
+14059,Apple
+464,"Applied Biosystems"
+5,"Applied Genetic Technologies"
+7810,"Applied Materials"
+251,"APPLIED MATERIALS ISRAEL"
+7,"Applied Membrane Technologies"
+32,"Applied NanoStructured Solutions"
+6,"Applied Nanostructures"
+98,"Applied Optoelectronics"
+1,"APPLIED STEMCELL"
+1,"APPLIED SUNSHINE"
+5,"ARBOR THERAPEUTICS"
+3,"Arch Biosurgery"
+190,"Archer Daniels Midland Company"
+9,"Arcturus Therapeutics"
+1,"Areesys Technologies"
+3,"Arisaph Pharmaceuticals"
+276,Arkema
+3,"Arkival Technology Corp"
+3,"Armageddon Energy"
+1,"Arpin Renewable Energy"
+43,"Arrowhead Center"
+412,"Asahi Kasei Kabushiki Kaisha"
+19,"ASCENT SOLAR TECHNOLOGIES"
+24,Aseptia
+311,"ASM America"
+168,"ASM IP HOLDING BV"
+2,"ASM IP Holdings"
+2820,"ASML Netherlands BV"
+33,Astech
+89,AstenJohnson
+11,"Astex Pharmaceuticals"
+24,"ASTUTE MEDICAL"
+848,AT&T
+720,"ATC Technologies"
+862,"ATI Technologies ULC"
+4,Atleisure
+3,"Atom Nanoelectronics"
+5,ATOMERA
+149,"Atomic Energy Council-Institute of Nuclear Energy Research"
+10,Atonometrics
+196,"Atotech Deutschland"
+97,"Atrium Medical"
+1,ATTOSTAT
+59,"aTyr Pharma"
+30,"Aurora Alage"
+40,Aurrion
+7,"Aushon Biosystems"
+17,Auterra
+2,"Autonomic Materials"
+1572,"Avago Technologies General IP (Singapore) Pte"
+225,"Avalanche Technology"
+3,"Avant Garde Therapeutics & Technologies"
+16,"Avantor Performance Materials"
+4,"Avello Bioenery"
+29,Avertech
+1251,"Avery Dennison"
+49,"AVI BioPharma"
+78,AVOGY
+361,"Avon Products"
+34,"Avtaec Limited"
+2,AxioMx
+42,"AZ Electronic Materials (Luxembourg) SARL"
+8,"BG Negev Technologies and Applications"
+23,"Babcock Power Services"
+1133,"BAE Systems Information and Electronic Systems Integration"
+5456,"Baker Hughes"
+2,Bakersun
+56,"Banpil Photonics"
+414,"Basell Polyolefine"
+4706,BASF
+397,"BASF Coatings"
+15,"BASF Enzymes"
+217,"BASF Plant Science"
+3145,"BASF SE"
+390,"Battelle Energy Alliance"
+1585,"Battelle Memorial Institute"
+1035,"Bausch & Lomb"
+150,BAXALTA
+734,"Baxter Healthcare SA"
+2034,Baxter
+1028,"Bayer Cropscience AG"
+705,"Bayer Materialscience"
+183,BCE
+9,"Bechtel Hydrocarbon Technology Solutions"
+1,Becton
+270,"Beijing BOE Display Technology Co"
+402,"Bell Helicopter Textron"
+83,"Bemis Company"
+149,"Bend Research"
+2,"BERKEN ENERGY"
+1,"Beryllium Discovery Corp"
+7,Bestway
+67,"BHA Technologies"
+17,Bi-Modal
+1,"Big Belly Solar"
+23,"Bigelow Aerospace"
+30,"BIND Therapeutics"
+587,"Bio-Rad Laboratories"
+9,"Biocare Medical"
+127,"Biocon Limited"
+4,"Biogenic Reagents Ventures"
+14,"Biological Dynamics"
+8,"BioNano Genomics"
+49,Bioneer
+181,"Biosense Webster (Israel)"
+29,"Biosphere Medical"
+2,"Biotechnology Foundation"
+4,bioTheranostics
+5,Biotta
+2,"Biozoom Technologies"
+50,Bird-B-Gone
+42,Bisco
+41,Bitrode
+4177,"BlackBerry Limited"
+1,"BLANC VINEYARDS LLC"
+12,"Blue Sea Systems"
+99,"Bluestar Silicones France"
+2127,"BOE Technology Group Co"
+1739,"Boehringer Ingelheim"
+189,"Boehringer Ingelheim Vetmedica"
+2,"BOLTIER R&D"
+1,"Bosch Energy Storage Solutions"
+42,Bostik
+878,"Boston Scientific Neuromodulation"
+3582,"Boston Scientific Scimed"
+365,"BP North America"
+2,"Braun Intertec Geothermal"
+153,"Brewer Science"
+191,Bridgelux
+3946,Bridgestone
+1,"Brightfield Transportation Solutions"
+6,"BRIGHTLEAF TECHNOLOGIES"
+3794,"Bristol-Myers Squibb Company"
+11043,BROADCOM
+289,"Brookhaven Science Associates"
+1,"BROOKLYN QUANTUM WORKS"
+59,Brother
+12140,"Brother Kogyo Kabushiki Kaisha"
+2,"Bruin Biometrics"
+8,BTPATENT
+85,BTU
+194,"Buckman Laboratories"
+2,"Building Envelope Innovations"
+122,"Butamax(TM) Advanced Biofuels"
+1154,CA
+879,Cabot
+1673,"Cadence Design Systems"
+35,"Calient Technologies"
+5,"California Industrial Facilities Resources"
+36,"Callahan Cellular LLC"
+3,Calysta
+4,"Cambridge Electronics"
+165,"CAMBRIDGE ENTERPRISE LIMITED"
+85,Canon
+65780,"Canon Kabushiki Kaisha"
+26,"Canon Nanotechnologies"
+81,"Canon US Life Sciences"
+3,CAPAT
+32,"CARBO Ceramics"
+35,Carbon3D
+3346,"Cardiac Pacemakers"
+16,"Cardiva Medical"
+479,"Carestream Health"
+5,"Caribou Biosciences"
+868,"Carl Zeiss Meditec AG"
+263,"Carl Zeiss Microscopy"
+10,"Carver Scientific"
+3910,"Casio Computer Co"
+245,Cavium
+53,Cbrite
+78,"Cedar Ridge Research"
+3264,Celanese
+1,"CellPrint IP Holding"
+14,CELLTRION
+11,"Cellular Research"
+74,"Centre de Recherche Industrielle du Quebec"
+187,Ceramatec
+18,CERION
+673,Certain-teed
+54,"Cetac Technologies"
+1842,Cetus
+771,"Cheil Industries"
+25,Chemtreat
+249,"Chevron Oronitz Company"
+585,"Chevron Phillips Chemical Company LP"
+1662,"Chevron USA"
+28,"Child Laboratories"
+184,"Chipmos Technologies"
+2475,Chiron
+91,"Christie Digital Systems"
+19,Chromalox
+11,"Cima NanoTech Israel"
+12458,"Cisco Technology"
+37,"Claret Medical"
+17,"Clean Energy Labs"
+3,Cleanvantage
+6,"Clearside Biomedical"
+35,"CLEARSIGN COMBUSTION"
+2,"CMC ICOS BIOLOGICS"
+604,"CNH Industrial America"
+10,"Coactive Drive"
+211,Codexis
+19,"Coleman Cable"
+3400,"Colgate-Palmolive Company"
+572,"Coloplast A/S"
+776,"Columbia Insurance Company"
+1,"Combined Energies"
+869,"Commonwealth Scientific & Industrial Research Organization"
+3,"Community Power"
+50,"Complete Genomics"
+6,"Component Re-Engineering Company"
+782,"Conexant Systems"
+2,"Confluence Energy"
+1738,Conoco
+589,"ConocoPhillips Company"
+5,"Continental Manufacturing"
+143,"Conversant Intellectual Property Management"
+97,"Cook Biotech"
+1185,"COOK MEDICAL TECHNOLOGIES"
+13,"Cool Planet Energy Systems"
+3,"CoolEarth Solar"
+1174,"Cooper Technologies Company"
+4,"Copernicus Therapeutics"
+11,"Coriant Advanced Technology"
+1530,"Cornell Research Foundation"
+39,"Corporation for National Research Initiatives"
+10,"Courtagen Life Sciences"
+7,"COVERIS FLEXIBLES US"
+3369,"Covidien LP"
+15,"CP KELCO APS"
+49,"CP Kelco US"
+363,CPC
+1,"CPT IP Holdings"
+2092,Cree
+55,Crepaco
+31,Crestovo
+28,"Cristal USA"
+74,"Cross Match Technologies"
+149,Crossbar
+28,"Crystal Solar"
+2,Crystalplex
+67,"CSEM Centre Suisse d'Electronique et de Microtechnique SA-Recherche et Developpement"
+287,"CUMMINS FILTRATION IP"
+2,"Cura Vac"
+2,"Custom Electronics"
+1,"CYBERCITY 3D"
+236,Cyberonics
+8,CyboEnergy
+3,"CYKL Technology"
+3,"Cymatics Laboratories Corp"
+2776,"Cypress Semiconductor Corp"
+169,"D-Wave Systems"
+2,"Da Yu Enterprises LLC"
+2457,"Daikin Industries"
+1653,Dana
+498,"Dana-Farber Cancer Institute"
+329,"Danisco US"
+36,"Daylight Solutions"
+497,"DCG SYSTEMS"
+50,"DECA Technologies"
+19,"Deep Science"
+1,"Deep Well Power"
+600,"DEKA Products Limited Partnership"
+45,Delavau
+150,"Dell Software"
+5038,"Delphi Technologies"
+1948,"Delta Electronics"
+12900,Denso
+207,Dentsply
+13,"Deployable Space Systems"
+1096,"DePuy Synthes Products"
+6,"Dermazone Solutions"
+185,Dexerials
+2,"DHPC TECHNOLOGIES"
+100,Dialight
+130,Dialogic
+43,Diamicron
+79,"Diamond Innovations"
+587,DIC
+5,"Digital Wind Systems"
+30,DiscoveRx
+3,DISCOVERYBIOMED
+1266,"Disney Enterprises"
+16,"DNA Twopointo"
+40,DNA20
+21,"Dogwood Pharmaceuticals"
+941,"Dolby Laboratories Licensing"
+1,"Domtar Paper Company"
+860,"Dongbu Hitek Co"
+915,"Dow AgroSciences"
+2776,"Dow Corning"
+2475,"Dow Global Technologies"
+65,"Dow Technology Investments"
+67,DPD
+10,"DPx Holdings BV"
+201,"Dr Reddy's Laboratories"
+286,"Dresser-Rand Company"
+24,"DRS Network &#x26; Imaging Systems"
+107,"DSP Group"
+66,"DuPont Teijin Films US Limited Partnership"
+49,Dymax
+4,"Dynamic Solutions Worldwide"
+323,"E Ink"
+2,"E I du Pont de Nemours and Company duPont Displays"
+3,"E Techorporation"
+3,"Easel Biotechnologies"
+1678,"Eastman Chemical Company"
+21414,"Eastman Kodak Company"
+5868,Eaton
+24,"Echogen Power Systems"
+679,"EchoStar Technologies"
+1474,Ecolab
+13,ECOSYNTHETIX
+8,"Ecovative Design"
+24,Egenera
+659,"Eisai Co"
+257,"ELC Management"
+1,Elcriton
+25,ElectraTherm
+17,Electrix
+19,"Electronic Warfare Associates"
+10,Electrovaya
+3,"Element One"
+10,"Elenion Technologies"
+676,Elwha
+8,Em-Tech
+260,Embro
+5181,EMC
+135,"EMD Technologies"
+1396,"Empire Technology Development"
+17,Energen
+2,"ENERGY ENGINEERING SYSTEMS"
+1,"ENERGY INDEPENDENCE OF AMERICA CORP"
+11,Energysolutions
+5,"Enginuity Worldwide"
+2,"Englewood Lab"
+233,"ENI SpA"
+52,"ENI Technology"
+3,eNow
+25,"Ensyn Renewables"
+4,"Entech Solar"
+380,Entegris
+3,"Envision Solar"
+18,Envisionit
+611,"EPCOS AG"
+62,Epizyme
+10,"ESCAPE THERAPEUTICS"
+3,"eSionic Corp"
+15,Esolar
+2105,"Ethicon Endo-Surgery"
+30,"Ethox Chemicals"
+46,Evernote
+188,"Everspin Technologies"
+94,"Evoqua Water Technologies"
+16,Evri
+48,Exatec
+1,"Excelsior Nanotech"
+4,EXOS
+41,"Express Imaging Systems"
+19,"Extech/Exterior Technologies"
+2306,"ExxonMobil Chemical Patents"
+1342,"ExxonMobil Research and Engineering Company"
+800,"ExxonMobil Upstream Research Company"
+1721,Facebook
+1208,"Fairchild Semiconductor"
+10,"FastCAP Systems"
+62,"Faurecia Interior Systems"
+115,"Federal Signal"
+442,"FEI Company"
+136,Fenwal
+9,Ferric
+404,Ferro
+2,"Fezza Family Properties"
+20,FHT
+32,Fianium
+781,Fike
+602,"Fina Technology"
+1313,Finisar
+213,"First Solar"
+367,"Flextronics AP"
+262,"FLIR Systems"
+11,Floadia
+18,"FLOW CONTROL"
+133,Fluidigm
+11081,"Ford Global Technologies"
+31,"Forest Concepts"
+52,"Foret Plasma Labs"
+5,"Formula Plastics"
+56,FPInnovations
+5536,"Freescale Semiconductor"
+23,"FRONT EDGE TECHNOLOGY"
+4586,"Fuji Electric Co"
+9577,"Fuji Xerox Co"
+9514,FUJIFILM
+150,"FUJIFILM Dimatix"
+33876,"Fujitsu Limited"
+1667,"Fujitsu Semiconductor Limited"
+4,"FULL CIRCLE BIOCHAR"
+2086,"Furukawa Electric Co"
+1496,"FutureWei Technologies"
+5,fybr
+41,GDO
+10,"Galectin Therapeutics"
+27,Galemed
+9,GangaGen
+2,Gardner-Gibson
+29,"Garland Industries"
+2,"Garrity Power Services"
+187,"Gas Technology Institute"
+7,"GCP Applied Technologies"
+9,"GE Healthcare Dharmacon"
+201,"GE Healthcare Limited"
+144,"GE-Hitachi Nuclear Energy Americas"
+47,"GED Intergrated Solution"
+6,"Gemex Systems"
+493,GEN-PROBE
+1,"GENCO SCIENCES"
+2461,Genentech
+41692,"GENERAL ELECTRIC COMPANY"
+11163,"GENERAL MOTORS"
+97,Genesco
+30,"Genia Technologies"
+13,Genisphere
+82,Genomatica
+42,"Genomic Health"
+1454,Genzyme
+23,"George Mason Research Foundation"
+32,"Georgia-Pacific Gypsum"
+4,GeoSynFuels
+2,"GEOTHERMAL ENERGY PROJECT"
+8,"Gestion Ultra"
+1,"GIGA SOLAR FPC"
+13,"Gilead Biologics"
+22,"Gilead Connecticut"
+508,"Gilead Sciences"
+9,"GlassPoint Solar"
+220,"GlaxoSmithKline Biologicals SA"
+4,GLIKNIK
+6,"Global Eagle Entertainment"
+15,"Global Filtration Systems"
+262,"Global OLED Technology"
+2,"Global Solar Water Power Systems"
+3684,GLOBALFOUNDRIES
+507,"Globus Medical"
+1,"Glucan Biorenewables"
+11,GLYCON
+11123,"GM Global Technology Operations"
+30,"GOAL ZERO"
+267,"GOJO Industries"
+69,GOLBA
+14372,Google
+935,"GOOGLE TECHNOLOGY HOLDINGS"
+1,GOSOLARLIFE
+19,"GR Intellectual Reserve"
+74,Gracenote
+132,"Grain Processing"
+2,"Gram Power"
+119,Grandis
+1,"Graphene Technologies"
+3,"Great American Duck Races"
+396,Greatbatch
+1,"Green Box Batteries"
+2,"Green Extraction Technologies"
+3,"Green Solar Transportation"
+2,"GREENFIELD MASTER IPCO LIMITED"
+2,"GREENHILL ANTIBALLISTICS"
+6,"Greyrock Energy"
+1,"GROW ENERGY"
+865,Gtech
+4,GTherm
+727,"Guardian Industries"
+26,"Gula Consulting Limited Liability Company"
+120,"H R D"
+134,"Hadasit Medical Research Services & Development Company"
+178,"Haier US Appliance Solutions"
+5308,"Halliburton Energy Services"
+1617,"HAMAMATSU PHOTONICS KK"
+1752,"Hamilton Sundstrand"
+2,"Handstand Innovations"
+73,Handylab
+787,"HARMAN INDUSTRIES"
+3322,Harris
+1005,"Headway Technologies"
+1,"Heat Seal"
+2150,"Heidelberger Druckmaschinen AG"
+73,"Heliae Development"
+2,"Helios Focus"
+720,"Henkel AG & Co KGaA"
+20,"Heraeus Precious Metals North America Conshohocken"
+731,"Hewlett Packard Enterprise Development LP"
+21017,"Hewlett-Packard Development Company LP"
+136,"Hewlett-Packard Indigo BV"
+976,"HGST NETHERLANDS BV"
+5,"HIQ SOLAR"
+38517,Hitachi
+2384,"Hitachi High-Technologies"
+1628,"Hitachi Metals"
+3,"HM&#xb3; ENERGY"
+12,"HNO Greenfuels"
+73,"Hollingsworth & Vose Company"
+1,"Hollywood Trucks"
+17936,"Hon Hai Precision Industry Co"
+12026,"Honda Motor Co"
+13972,Honeywell
+640,Hosiden
+85,"HOWARD INDUSTRIES"
+2207,Hoya
+1166,"HRL Laboratories"
+1683,HTC
+18,HTS
+35,Humanetics
+25,"Hunt Energy Enterprises"
+550,"Hunter Douglas"
+6241,"Hynix Semiconductor"
+36,Hysitron
+5826,"Hyundai Motor Company"
+100,"IBC Pharmaceuticals"
+16,iBio
+87,"Ibis Biosciences"
+1,"IDEA TREE"
+40,"Ideal Power"
+8,IDEALAB
+37,"IDEX Health &#x26; Science"
+120,"Ignis Innovation"
+55,II-VI
+188,"III HOLDINGS 1"
+4933,"Illinois Tool Works"
+218,IMDS
+527,IMEC
+33,Immunolight
+17,"Immunopath Profile"
+106,"Imperial Innovations Limited"
+263,"IMRA America"
+24,"Inaeris Technologies"
+1,iNanoBio
+107,Incept
+50,"Incyte Holdings"
+45,"Industrial Origami"
+6,"Industrial Science & Technology Network"
+1,"Industrial Solar Heating Systems"
+6825,"Industrial Technology Research Institute"
+13,INENTEC
+11548,"Infineon Technologies AG"
+149,"Infineon Technologies Americas Corp"
+418,Infinera
+148,"INFINEUM LIMITED"
+402,Innolux
+35,Innovalight
+3,"Innovation Hammer"
+2,Inphenix
+271,Instron
+1025,"Integrated Device Technology"
+47,"Integrated DNA Technologies"
+11,"Integrated Nano-Technologies"
+2,"Integrated Solar Technology"
+33603,Intel
+442,"INTEL IP"
+6,"Intellectual Keystone Technology"
+118,"Intercontinental Great Brands"
+162,Interez
+3,"Interface Performance Materials"
+719,Intermolecular
+111916,"International Business Machines"
+50,"International Technology"
+241,INTEVAC
+2,"Intrexon CEU"
+1,IntriEnergy
+635,"Intuitive Surgical Operations"
+314,Invensas
+11,"Inventus Holdings"
+17,"InView Technology"
+67,"InVisage Technologies"
+307,"INVISTA North America Sarl"
+26,Iogen
+4,"Ion Power Group"
+1112,"Isis Pharmaceuticals"
+20,"ITN Energy Systems"
+288,"Ivoclar Vivadent AG"
+2,"J E WHITE"
+102,"JAC Products"
+125,"Janssen Biotech"
+551,"JFE STEEL"
+489,JNC
+536,"Johns Manville"
+354,"Johnson & Johnson Consumer Companies"
+748,"Johnson &#x26; Johnson Vision Care"
+1062,"Johnson Controls Technology Company"
+246,"Johnson Matthey PLC"
+301,JOLED
+26,"Joule Unlimited Technologies"
+2,"JSI Equipment Solutions"
+1023,JSR
+254,"JX Nippon Mining & Metals"
+6,"k-Space Associates"
+9,"KS CO"
+26,"Kabushiki Kaisha Eighting"
+46385,"Kabushikikaisha Toshiba"
+22,"KAI Pharmaceuticals"
+142,Kajima
+19,"Kala Pharmaceuticals"
+52,Kamtec
+1152,Kaneka
+583,"Kansai Paint Co"
+89,Kansei
+6281,Kao
+853,"Karsten Manufacturing"
+2,"Kashiv Pharma"
+1914,"Kawasaki Jukogyo Kabushiki Kaisha"
+150,"Kemira OY"
+93,Kerr
+1595,"Kia Motors"
+4441,"Kimberly-Clark Worldwide"
+20,"Kinestral Technologies"
+1,"Kinetech Power Company"
+1,"King Electric Vehicles"
+10,KINO
+4,Kiverdi
+1,"KJ BIOSCIENCES"
+944,KLA-Tencor
+1213,"Kobe Steel Limited"
+3,"Koch Biological Solutions"
+115,"Kodak Alaris"
+35,"KOLO TECHNOLOGIES"
+208,"KOLON INDUSTRIES"
+208,"Korea Kumho Petrochemical Co"
+1,"KR Design House"
+154,"Kraton Polymers US"
+50,Kronos
+1,"kSep Systems"
+1677,KT
+3,KUBIX
+329,"Kulite Semiconductor Products"
+238,Kureha
+2373,"KYOCERA DOCUMENT SOLUTIONS"
+17,"L-3 Communications Cincinnati Electronics"
+3,"Lake Lite"
+2283,"Lam Research"
+50,Landauer
+10,"Laserline Mfg"
+2,"LATITUDE PHARMACEUTICALS"
+657,"Lattice Semiconductor"
+1,"LAVA ENERGY SYSTEMS"
+737,"Lawrence Livermore National Security"
+14,"Lehigh Technologies"
+247,"Lextar Electronics Corp"
+2,"LG Bionano"
+5766,"LG Display Co"
+24264,"LG Electronics"
+5,"LG NANOH2O"
+26,"LGS Innovations"
+894,"Life Technologies"
+24,"LifeNet Health"
+1,"Linne Industries"
+564,Lintec
+22,"Lion Copolymer Geismar"
+1,"LIQUID X PRINTED METALS"
+14,"Liquidia Technologies"
+20,"Litron Laboratories Limited"
+14,"Little Kids"
+33,Livetv
+4355,"Lockheed Martin"
+9,"Locus Energy"
+2,"Lof Solar"
+17,"Longhorn Vaccines and Diagnostics"
+1,"LORDO AMERICA"
+491,"Los Alamos National Security"
+5,"Lovelace Respiratory Research Institute"
+1,"LUCERA LABS"
+8,Lumenco
+58,"Lumentum Operations"
+64,"Luna Innovations"
+3,"Lux Bio Group"
+20,"Lyotropic Therapeutics"
+16,Ma-West
+2762,"Macronix Co"
+325,Magna
+314,"Magnachip Semiconductor"
+7,"Magnolia Optical Technologies"
+8,"Magnolia Solar"
+684,MAHLE
+85,"Mainstream Engineering Corp"
+702,Mallinckrodt
+1,"Manta Instruments"
+91,"MANUFACTURING RESOURCES"
+25,"Marathon Equipment Company"
+1,"Marine Biotech"
+32,"Marine Polymer Technologies"
+329,Markel
+3,"Masimo Semiconductor"
+33,Materia
+3,"MATERIALS ANALYSIS TECHNOLOGY (US) CORP"
+6,"Matrix Genetics"
+1,"Matrix Odyssey"
+154,"Mattson Technology"
+960,"Maxim Integrated Products"
+290,MAXLINEAR
+6,"Maxout Renewables"
+11,"MBC Ventures"
+144,"McAlister Technologies"
+18,"McElroy Manufacturing"
+524,MCI
+14,"Medgenics Medical Israel"
+2439,Mediatek
+61,"Medical Diagnostic Laboratories"
+61,"Medicis Pharmaceutical"
+32,MEDport
+548,"Medtronic Vascular"
+1697,"Merck Patent"
+1247,"MERCK SHARP & DOHME CORP"
+69,"Meso Scale Technologies"
+6,"Met Tech"
+149,Metabolix
+9,"Meyer Tool"
+1948,"Michelin Recherche et Technique SA"
+44,"Michigan Biotechnology Institute"
+1,"Micro Cooling Concepts"
+658,"Microchip Technology"
+2,"Microchips Biotech"
+14,MicroContinuum
+16,"MicroLink Devices"
+24867,"Micron Technology"
+31,"Microsemi SoC"
+5903,"MICROSOFT TECHNOLOGY LICENSING"
+59,Microsurge
+3,"Midori USA"
+76,"Midrex Technologies"
+1,"MIETAMARK GENETICS"
+2,"MILLENIUM SYNTHFUELS"
+839,"Milliken & Company"
+1106,"Minebea Co"
+182,Mintera
+25,MirTech
+2,"Mission Product Holdings"
+6561,"Mitsubishi Electric"
+2019,"Mitsubishi Metal"
+212,"Mitsubishi Polyester Film"
+195,"Molecular Imprints"
+12,"Molecular Rebar Design"
+872,"Momentive Performance Materials"
+3,"Monarch Power Corp"
+8,"Monolithe Semiconductor"
+59,MonoSol
+4139,"Monsanto Technology"
+13,"MONTEREY RESEARCH"
+183,Morpho
+103,Moxtek
+1,Mumetel
+5331,"Murata Manufacturing Co"
+222,Musco
+358,mVerify
+386,"Nalco Company"
+17,Nanao
+1,"NANO CELL SYSTEMS"
+2,"Nano Technics Company"
+10,NANOBIO
+49,"Nanoco Technologies"
+5,nanoComposix
+1,Nanocopocia
+84,NanoGram
+10,Nanoholdings
+17,NanoLab
+27,NanoMech
+40,Nanomix
+1,NanoOncology
+8,NANOPHARMACEUTICALS
+1,NANOPHTHALMICS
+5,"Nanoquantum Sciences"
+4,"Nanoridge Materials"
+3,"Nanospectra Biosciences"
+4,Nanostatics
+163,Nanosys
+2,"Nanotech Biomachines"
+1,"NanoTech Lubricants"
+155,"Nanotek Instruments"
+162,"Nant Holdings IP"
+245,Nantero
+4,"National Education"
+40,"Nationwide Children's Hospital"
+17,"NCC Nano"
+26979,NEC
+534,"Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO"
+57,NeoPhotonics
+10,NeoVision
+2132,"Nestec S A"
+1502,NetApp
+7,Neumedicines
+13,"NeuMoDx Molecular"
+3,"Neural Signals"
+3,"Neutronic Perpetual Innovations"
+252,"New England Biolabs"
+5,"New Technology Ventures"
+5,"Newdoll Enterprises"
+1,"NEWFIELD THERAPEUTICS"
+14,Newlans
+118,Newport
+50,"Nexcom Technology"
+2071,"NGK Spark Plug Co"
+1987,NICHIA
+7491,Nikon
+106,"Nippon Chemi-Con"
+1485,"Nippon Shokubai Co"
+8327,"Nissan Motor Co"
+427,"Nissan North America"
+29,nLIGHT
+334,"NLT TECHNOLOGIES"
+799,NOK
+8361,Nokia
+1522,"Nokia Technologies Oy"
+16,Nokomis
+7,"Nordic Technologies"
+1420,Nordson
+524,"Northrop Grumman Systems"
+13,"Northwest Biotherapeutics"
+187,"NOVA Chemicals (International) SA"
+2,"NOVA PANGAEA TECHNOLOGIES LIMITED"
+78,"Nova Technologies"
+2837,"Novartis AG"
+2,NovaSolix
+913,"Novellus Systems"
+32,Novon
+819,"Novozymes A/S"
+281,Novozymes
+49,"Novozymes North America"
+3,"Novus Energy"
+2,"Novus Technology"
+88,"Nthdegree Technologies Worldwide"
+16,"NuOrtho Surgical"
+50,"Nutech Ventures"
+3167,Nvidia
+404,"NXP USA"
+5,OBI
+1,"OAS Design Group"
+36,"Oceanit Laboratories"
+45,"Oculus VR"
+239,"OFS Fitel"
+4,"Ojai Retinal Technology"
+1593,"Oki Data"
+4739,OLYMPUS
+64,"Olympus NDT"
+686,"OmniVision Technologies"
+2421,Omron
+2,"One Earth Designs"
+24,"Opel Solar"
+5,"OPTERRA ENERGY SERVICES"
+20,Optodot
+5677,Oracle
+42,"OrbusNeich Medical"
+72,"Ormat Technologies"
+7,"Ormet Circuits"
+113,"Ortho-Clinical Diagnostics"
+24,"OSI Optoelectronics"
+1266,"Osram Sylvania"
+38,"Ostendo Technologies"
+611,"OTSUKA PHARMACEUTICAL CO"
+111,"Ovonic Battery Company"
+329,"Owens-Brockway Glass Container"
+701,PACCAR
+223,"Pacific Biosciences of California"
+2,"Pacific Industrial Development"
+19,"Pacific Light Technologies Corp"
+1406,"Palo Alto Research Center"
+1053,"Panasonic Intellectual Property of America"
+3875,"Panasonic Intellectual Property Management Co"
+15906,Pansonic
+68,"Paratek Pharmaceuticals"
+1,Pardev
+64,"Parion Sciences"
+1138,Parker-Hannifin
+43,"PAX Scientific"
+87,"PDF Solutions"
+519,Pegatron
+86,"Pelican Imaging"
+8,"PELLION TECHNOLOGIES"
+2,"Pendar Technologies"
+8,"Pentair Thermal Management"
+43,"Pentron Clinical Technologies"
+12,"Performance Plants"
+5,"Perkinelmer Holdings"
+1,"PeterBrod Corp"
+9,PetraSolar
+1,"Peytant Solutions"
+3933,Pfizer
+2,Pharmatrophix
+80,Pharmion
+592,"Philip Morris USA"
+171,"Phillips 66 Company"
+67,"Phoseon Technology"
+78,"Photon Dynamics"
+7,Piksel
+7,"Pinnacle Technology"
+27,"Pioneer Energy"
+1007,"Pioneer Hi Bred"
+293,Pixar
+22,"Pixelligent Technologies"
+6,"Plant Sensory Systems"
+1,"Plasma Tech Holdings"
+24,Plasma-Therm
+27,PLEX
+12,"PluroGen Therapeutics"
+2,"PLYCEM USA"
+39,PNM
+65,"POET Research"
+1,"POLAR LIGHT TECHNOLOGIES AB"
+1,"Polaris Products"
+133,Poly-Med
+104,PolyOne
+89,"PolyPlus Battery Company"
+5,Polysar
+7,PortaFire
+3,"POSiFA MICROSYSTEMS"
+774,"Power Integrations"
+4211,"PPG Industries Ohio"
+895,PQ
+143,"Praxair ST Technology"
+1269,"Praxair Technology"
+2,"Precision Custom Coatings"
+7,"Previvo Genetics"
+12,"Princeton Optronics"
+167,"Production Resource Group LLC"
+12,"Professional Compounding Centers of America"
+21,"ProNAi Therapeutics"
+7,"Propagation Research Associates"
+91,Prosoft
+56,Proterra
+36,"Proton Power"
+109,"PTC Therapeutics"
+7,"Pulse Therapeutics"
+2,"Pyrexar Medical"
+59,"QD Vision"
+173,Qiagen
+17942,QUALCOMM
+590,"QUALCOMM MEMS Technologies"
+111,Quallion
+1,Qualsig
+4,Quantapore
+16,"Quantum Devices"
+22,"Quantum Materials"
+18,QuantumScape
+213,"Quest Diagnostics Investments"
+2,QUSWAMI
+30,"RA Miller Industries"
+712,"RJ Reynolds Tobacco Company"
+55,"RP Scherer Technologies"
+2,"RADIANCE SOLAR"
+1,"Rapamycin Holdings"
+173,"Raytheon BBN Technologies Corp"
+5926,"Raytheon Company"
+4,"Rebellion Photonics"
+1505,"Red Hat"
+25,"Redwood Systems"
+428,"Regeneron Pharmaceuticals"
+105,"Reliance Controls"
+27,Relypsa
+5248,"Renesas Electronics"
+4,"Renewable Algal Energy"
+1,"Renewable Opportunities"
+16,"Renewable Power Conversion"
+28,Renmatix
+2,"RenovaCare Sciences Corp"
+29,"RES USA"
+254,"Research Triangle Institute"
+21,Revera
+4,Revivicor
+6,"Reynolds Technologies"
+622,"RF Micro Devices"
+358,"Rhodia Operations"
+271,"Richtek Technology ROC"
+20529,"Ricoh Company Limited"
+2,"Rillito Rive Solar"
+13,"Rima Enterprises"
+36,"RINAT NEUROSCIENCE CORP"
+1,"Rio Grande Valley Sugar Growers"
+199,"Riverbed Technology"
+20689,"Robert Bosch"
+161,"Roche Diabetes Care"
+468,"Roche Diagnostics"
+11,"Roche Innovation Center Copenhagen A/S"
+324,"Roche Molecular Systems"
+1739,"Rockwell Automation Technologies"
+1640,"Rockwell Collins"
+1,"Rohm and Haas Chemicals"
+2801,"Rohm and Haas Company"
+484,"Rohm and Haas Electronic Materials"
+237,Roho
+3,Roll-N-Lock
+135,"Rolls-Royce North American Technologies"
+2376,"Rolls-Royce PLC"
+499,ROM
+256,"Rosemount Aerospace"
+236,"Ruse Technologies"
+874,"S C Johnson & Son"
+1060,"SC Johnson & Son"
+23,"S&S X-Ray Products"
+319,"SABIC GLOBAL TECHNOLOGIES BV"
+704,"SAE Magnetics (HK)"
+3,"Sagacious Investment Group LLC"
+343,"SAINT-GOBAIN ABRASIFS"
+17,"Saint-Gobain Adfors Canada"
+343,"Saint-Gobain Ceramics & Plastics"
+191,"Saint-Gobain Performance Plastics"
+59,"Samsung Corning Precision Materials Co"
+8379,"SAMSUNG DISPLAY CO"
+4203,"Samsung Electro-Mechanics Co"
+2,"Samsung Electronics"
+72139,"Samsung Electronics Co"
+5302,"Samsung SDI Co"
+1839,Sandia
+666,"SanDisk 3D"
+1952,"SanDisk Technologies"
+159,"Sangamo BioSciences"
+540,"Sanken Electric Co"
+834,Sanofi
+40,Santoku
+13,"Sanuvox Technologies"
+8238,"Sanyo Electric Co"
+45,"Sarepta Therapeutics"
+1,"SB ENERGY"
+6649,"Schlumberger Technology"
+8,"Schneider Electric Solar Inverters USA"
+396,"Schneider Electric USA"
+2,"SCHOTTKY LSI"
+87,"Scientific Design Company"
+87,"SD Technologies"
+71,SDCmaterials
+3,"SEaB Energy Holdings"
+6659,"Seagate Technology"
+6,"SEEK THERMAL"
+5,Seetron
+23298,"Seiko Epson"
+2063,"Seiko Instruments"
+35,"SEIKO NPC"
+2,"Selas Heat Technology Company"
+9,"Selecta Biosciences"
+1,Selkermetrics
+29,"SELMAN AND ASSOCIATES"
+1513,"Semiconductor Components Industries LLC"
+11757,"Semiconductor Energy Laboratory Co"
+983,"Semiconductor Manufacturing (Shanghai)"
+8,Semics
+94,"Semileds Optoelectronics Co"
+26,Semprius
+10,Senaya
+6,"Senga Advisors"
+158,"Sensor Electronic Technology"
+2,Sensor-Kinesis
+26,"SeQual Technologies"
+125,Sequenom
+15,ServiceNow
+19722,"Sharp Kabushiki Kaisha"
+1975,"Sharp Laboratories of America"
+7190,"Shell Oil Company"
+1938,"Shenzhen China Star Optoelectronics Technology Co"
+1825,Shimadzu
+4273,"Shin-Etsu Chemical Co"
+6,"Shoals Technologies Group"
+1,"SHOW ME ENERGY"
+3,Shubin
+341,"Sick AG"
+139,"SICPA Holding SA"
+25875,"Siemens Aktiengesellschaft"
+328,Siemens
+1027,"Siemens Energy"
+664,"Siemens Industry"
+1703,"Siemens Medical Solutions USA"
+12,"Sienna Biopharmaceuticals"
+8,"Sienna Labs"
+6,"Sierra Sciences"
+99,"Sigma-Aldrich Co"
+242,Sigmatel
+102,"SII Semiconductor"
+5,"Sila Nanotechnologies"
+143,"Silicon Genesis"
+11,"Silicon Space Technology Corp"
+385,"Silicon Storage Technology"
+534,"Siliconware Precision Industries Co"
+22,"Silicor Materials"
+27,"Siluria Technologies"
+108,"Sima Therapeutics"
+20,Simbol
+2,"Simple Approach Systems"
+1,Sinewatts
+5,"Singular Bio"
+18,Singulex
+3,"Sinton Consulting"
+61,"Sion Power"
+3,Sirnaomics
+26,"SixPoint Materials"
+3632,"SK Hynix"
+516,"SK Telecom Co"
+3,"Smart Planet Technologies"
+1021,"Smith &#x26; Nephew"
+2,"SNS NANO FIBER TECHNOLOGY"
+2,SOL-ELECTRICA
+36,"Sola USA"
+3,SolaBlock
+39,"SolAero Technologies Corp"
+9,"Solaire Generation"
+60,Solan
+21,"Solar Junction"
+8,"Solar Tectic"
+110,SolarCity
+3,"Solaris Holdings Limited"
+2,SolarLego
+7,"Solarmer Energy"
+4,"SolarReserve Technology"
+1,SOLARTONIC
+4,"SolarWorld Americas"
+63,SOLAZYME
+1,"SOLENA FUELS"
+69,Solexel
+1,"Solight Solar"
+1,"Soliton Lasers"
+189,Solutia
+77,"Solvay Specialty Polymers USA"
+3,"SonoGene LLC"
+47276,Sony
+312,"Sony Interactive Entertainment"
+1,"Sophoro Biotechnologies"
+162,Soraa
+72,"Soraa Laser Diode"
+895,"Southwest Research Institute"
+24,SPC
+1,"SPICE SOLAR"
+8,"SRG Global"
+488,"St Jude Medical"
+16,"St Microelectronics"
+5,"Stablcor Technology"
+6,"STANDARD ALCOHOL COMPANY OF AMERICA"
+993,"Stanley Electric Co"
+4,"Star Technology and Research"
+1,"Starlight Energy Holdings"
+1,"Starsource Scientific"
+1553,"STATS ChipPAC"
+393,"STMicroelectronics Limited"
+7635,"STMicroelectronics SA"
+83,"Stora Enso Oyj"
+228,Stratasys
+2,"Strategic Solar Energy"
+6,"Suganit Systems"
+396,Sumco
+146,"Sumitomo Electric Device Innovations"
+6735,"Sumitomo Electric Industries"
+2522,"Sumitomo Rubber Industries"
+3184,"SUMITOMO WIRING SYSTEMS"
+394,"Sun Chemical"
+37,"Sun Drilling Products"
+3,"Sun Synchrony"
+23,"Suncore Photovoltaics"
+2,"SunCulture Solar"
+14,"Sundrop Fuels"
+32,SunEdison
+39,"SunEdison Semiconductor Limited"
+2,Sungevity
+33,"Sunlight Photonics"
+17,SunLink
+399,SunPower
+1,SunRun
+9,"Sunrun South"
+1,SUNSALUTER
+4,Supremex
+95,Surebeam
+3,"Sustainable Technologies"
+141,"Swagelok Company"
+6,"Sweetwater Energy"
+4,"Swift Engineering"
+2651,Symantec
+12,"Synaptic Research"
+1036,"Syngenta Participations AG"
+1513,Synopsys
+41,"Synthetic Genomics"
+7,Synthezyme
+2,"SYNTHOMER USA"
+1688,Sysmex
+2,"System Biosciences"
+136,THEM
+14570,"Taiwan Semiconductor Manufacturing Company"
+126,"Taiyo Ink Mfg Co"
+123,"Takara Bio"
+674,"Takeda Pharmaceutical Company Limited"
+95,Tamura
+185,"Tanaka Kikinzoku Kogyo KK"
+1,"Tarveda Therapeutics"
+315,"Tata Consultancy Services Limited"
+1,"Tau Therapeutics"
+3,"Taxon Biosciences"
+5646,TDK
+3,"Teal Sales"
+27,"TECHNOLOGY RESEARCH"
+1,TECNIUM
+2,Tekkware
+59,"TEKNOR APEX COMPANY"
+198,"Tela Innovations"
+136,"Teledyne Scientific & Imaging"
+59,Tensor
+424,"Teradata US"
+1,"Terra Caloric"
+14,"TerraVia Holdings"
+1,"Tersus Environmental"
+2,"Tesla Nanocoatings"
+740,Tessera
+11,"Tessera Advanced Technologies"
+11,TetraSun
+304,"Texas Instruments Deutschland"
+21496,"Texas Instruments"
+29,"Texas Research"
+1122,"The Babcock & Wilcox Company"
+43,"THE BOARD INSTITUTE"
+13080,"The Boeing Company"
+1,"The Carbon Cable Company"
+713,"The Charles Stark Draper Laboratory"
+20,"The Eastern Co"
+434,"The Gates"
+6120,"The Goodyear Tire & Rubber Company"
+102,"The Henry M Jackson Foundation for the Advancement of Military Medicine"
+111,"The Iams Company"
+44,"The Jackson Laboratory"
+8,"The Paymaster"
+13130,"The Procter & Gamble Company"
+49,"The Samuel Roberts Noble Foundation"
+8,"THE SWEET LIVING GROUP"
+3,TheGreenCell
+16,"Theraclone Sciences"
+25,"Therapeutic Proteins"
+277,"Thermo Finnigan"
+95,"Thermo Fisher Scientific"
+1,"Thermorefinery Technologies"
+1,"Thermoretinary Technologies"
+158,Thoratec
+43,Thorlabs
+11,"Thorlabs Quantum Electronics"
+9,"Thorn Bioscience"
+49,"THYSSENKRUPP INDUSTRIAL SOLUTIONS"
+265,Ticona
+53,"Tigo Energy"
+346,"TIME WARNER CABLE ENTERPRISES"
+320,TMC
+241,"Toda Kogyo"
+6433,"Tokyo Electron Limited"
+884,"Tokyo Ohka Kogyo Co"
+2,"TOMOWAVE LABORATORIES"
+1991,"Toray Industries"
+94,"Toray Plastics (America)"
+63,"Toshiba America Electronic Components"
+3789,"Toshiba Tec Kabushiki Kaisha"
+778,Tosoh
+54,"Total Marketing Services"
+19069,"Toyota Jidosha Kabushiki Kaisha"
+1449,"Toyota Motor Engineering & Manufacturing North America"
+8,"TP Solar"
+28,Traex
+223,TRANE
+22,"Transilwrap Company"
+144,"Transitions Optical"
+4,"Transposagen Biopharmaceuticals"
+4,"Transtron Solutions"
+27,"Travis Industries"
+3,"TRI ALPHA ENERGY"
+72,"TRIDONIC & CO KG"
+28,"Triple Ring Technologies"
+5,"TRITON MICROTECHNOLOGIES"
+25,"Triune IP"
+3,"Truckee Applied Genomics"
+4,"True-Safe Technologies"
+191,"TT Technologies"
+30,"Tufts Medical Center"
+1,"Turf Group"
+29,"Turtle Beach"
+55,Twitter
+3,"Two Blades Foundation"
+2050,"Tyco Electronics"
+56,"Tyco Electronics UK"
+2,"U S MICROPOWER"
+46,"US NUTRACEUTICALS"
+61,"US Smokeless Tobacco Company"
+1269,"Ube Industries"
+169,"UCB Pharma SA"
+397,"UChicago Argonne"
+1344,Uni-Charm
+42,"Unifrax I"
+187,"UNISANTIS ELECTRONICS SINGAPORE PTE"
+2,"Uniseal Solutions"
+21,"Unistrut Corp"
+4436,"United Microelectronics Corp"
+7660,"United Technologies"
+236,"Unity Semiconductor"
+386,"Universal Display"
+14,"Universal Leaf Tobacco Co"
+4852,UOP
+1001,UT-Battelle
+59,"UTC FIRE & SECURITY"
+20,"UVIC INDUSTRY PARTNERSHIPS"
+50,"UWM Research Foundation"
+5,"V35A Enterprises"
+9,"Vadient Optics"
+17,Valicor
+4,VALTED
+648,"Varian Semiconductor Equipment Associates"
+7,"Vascular BioSciences"
+12,"Vaxiion Therapeutics"
+4,"VEECO PRECISION SURFACE PROCESSING"
+174,"Ventana Medical Systems"
+14,Veracode
+4,Veracyte
+78,"VERILY LIFE SCIENCES"
+7,"VERLASE TECHNOLOGIES"
+1,"Verliant Energy"
+493,VIASAT
+2,"VINDICO NANOBIO TECHNOLOGY"
+1,"Vindico NanoBioTechnology"
+8,VINYLAST
+56,"VIOLIN MEMORY"
+86,Virent
+3,"VivaLnk Limited (Cayman Islands)"
+167,Vizio
+1297,VMware
+196,"Volterra Semiconductor"
+13,"Vorbeck Materials"
+24,Voxtel
+3,"W&Wsens Devices"
+1,"WADHAM ENERGY LP"
+50,WAFERTECH
+1600,"Warsaw Orthopedic"
+264,"Waters Technologies"
+154,"Watlow Electric Manufacturing Company"
+1,"Wave Energy Conversion of America"
+1,"WCA Group"
+21,"Weatherford Canada Partnership"
+2,"WELL Shield"
+152,Wenger
+30,"Wentworth Laboratories"
+685,"Western Digital (Fremont)"
+1952,"Western Digital Technologies"
+6,"WestPoint Home"
+18,WHATSAPP
+16,Wikipad
+1078,"Winbond Electronics Corp"
+28,Winecom
+34,"Wireless Environment"
+57,"WiSys Technology Foundation"
+1,"Wizard Labs"
+13,Wostec
+2,WOVN
+55,"Wyatt Technology"
+130,"X DEVELOPMENT"
+6,"Xenogenic Development Limited Liability Company"
+22238,Xerox
+153,Xintec
+176,Xyleco
+26,Yageo
+4106,Yamaha
+896,"Yeda Research and Development Co"
+1,Yissum
+41,"ZENA TECHNOLOGIES"
+77,"Zeno Semiconductor"
+1,"Zephyr Energy Systems"
+258,"ZIH Corp"
+55,Ziptronix
+64,"Zoetis Services"
+26,ZON
+813,Zygo
+12,"Zyvex Labs"

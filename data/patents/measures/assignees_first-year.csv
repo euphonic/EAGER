@@ -1,0 +1,1473 @@
+year(min(p.`date`)),lookup_firm
+2014,"22nd Century Limited"
+1999,"3M Innovative Properties Company"
+2008,"540 Grid Solutions"
+1984,"646840 Alberta"
+1984,"AAC Technologies Pte"
+2016,Aadigen
+2000,"ABB AB"
+1994,"ABB Research"
+1989,"ABB Technology"
+2007,"Abbott Cardiovascular Systems"
+2014,"Abbott Molecular"
+2009,"Abbott Point of Care"
+1981,AbbVie
+2013,"Abengoa Bioenergy New Technologies"
+2007,"ABL IP Holding"
+2016,Ablexis
+2008,"Abraxis Bioscience"
+1979,AC
+2012,"ACACIA RESEARCH GROUP"
+2002,"Access Business Group"
+1981,AccuRay
+2008,"Accuri Cytometers"
+2003,ACell
+1976,Acer
+1976,"Acushnet Company"
+1989,"Acorn Technologies"
+1989,ACUCELA
+2015,"Adaptive Biotechnologies Corp"
+2013,adaptiveARC
+2002,ADASA
+1980,Adeka
+1982,"Adhesives Research"
+1992,"adidas AG"
+2012,"Adlens Beacon"
+2003,"ADMA Products"
+1991,"Adobe Systems"
+1978,Adtran
+2000,"Advanced Analogic Technologies"
+2016,"Advanced Aqua Group"
+1983,"Advanced Cardiovascular Systems"
+1998,"Advanced Cell Technology"
+2015,"ADVANCED CERAMIC FIBERS"
+1995,"Advanced Fusion Technologies"
+2016,"ADVANCED INNOVATION CENTER"
+2015,"Advanced Silicon Group"
+1976,"Advanced Technology Materials"
+1990,"Advanced Water Technology"
+2011,Adynxx
+1998,Aerogen
+1976,"Aerosol Dynamics"
+2016,AFMODEL
+2012,"AG ENERGY SOLUTIONS"
+2008,"AGC Flat Glass North America"
+2014,"Agena Bioscience"
+1976,"AGFA-GEVAERT NV"
+2010,Agienic
+1990,"Agilent Technologies"
+1983,Agrigenetics
+2010,Agrivida
+2001,AgroFresh
+1976,"AIR PRODUCTS AND CHEMICALS"
+2015,"Ajinomoto Althea"
+2010,"Akron Polymer Systems"
+2007,"Alcatel Lucent"
+2009,"Alcon Research"
+1982,Alcotek
+2012,"Alencon Acquisition Co"
+1996,"Alexion Pharmaceuticals"
+2010,"ALF OPERATING PARTNERS"
+2015,"Algenol Biotech"
+2017,"ALGETERNAL TECHNOLOGIES"
+2014,"All Power Labs"
+2012,"Allertein Therapeutics"
+2008,"Alliance for Sustainable Energy"
+2011,"Allison Transmission"
+2008,"Alnylam Pharmaceuticals"
+2006,"Alpha and Omega Semiconductor"
+1989,"ALSTOM Technology"
+2012,"AltaRock Energy"
+1998,"Altex Technologies"
+2006,Altivera
+2002,"Amazon Technologies"
+2012,Ambature
+2015,Amberwave
+1989,"American Air Liquide"
+2012,"AMERICAN BIO ENERGY CONVERTING CORP"
+1993,"American Piledriving Equipment"
+2016,"American Science and Technology"
+2006,"Amgen Fremont"
+1985,Amgen
+2009,"Amicus Therapeutics"
+1989,"Amkor Technology"
+2008,"AMO Wavefront Sciences"
+2013,"Ampio Pharmaceuticals"
+2005,Amprius
+2003,AMPT
+1988,"Amtech Systems"
+1976,"Analog Devices"
+2000,Andritz
+2017,Aneeve
+1976,Anelva
+2016,"Angaza Design"
+1999,"Angiotech Pharmaceuticals (US)"
+2016,"Angstron Materials"
+2016,Anlinx
+2016,"Annam Biosciences"
+2013,"Ansun Biopharma"
+2000,"Antaya Technologies"
+1989,Anterios
+2012,"API Intellectual Property Holdings"
+1987,Apple
+1987,"Applied Biosystems"
+2005,"Applied Genetic Technologies"
+1976,"Applied Materials"
+2004,"APPLIED MATERIALS ISRAEL"
+1984,"Applied Membrane Technologies"
+2012,"Applied NanoStructured Solutions"
+2011,"Applied Nanostructures"
+2002,"Applied Optoelectronics"
+2016,"APPLIED STEMCELL"
+2016,"APPLIED SUNSHINE"
+2013,"ARBOR THERAPEUTICS"
+2015,"Arch Biosurgery"
+1976,"Archer Daniels Midland Company"
+2015,"Arcturus Therapeutics"
+2016,"Areesys Technologies"
+2013,"Arisaph Pharmaceuticals"
+1994,Arkema
+2014,"Arkival Technology Corp"
+2009,"Armageddon Energy"
+2016,"Arpin Renewable Energy"
+2005,"Arrowhead Center"
+1981,"Asahi Kasei Kabushiki Kaisha"
+2007,"ASCENT SOLAR TECHNOLOGIES"
+1998,Aseptia
+1988,"ASM America"
+2005,"ASM IP HOLDING BV"
+2015,"ASM IP Holdings"
+2002,"ASML Netherlands BV"
+1976,Astech
+2000,AstenJohnson
+2006,"Astex Pharmaceuticals"
+1994,"ASTUTE MEDICAL"
+1976,AT&T
+1984,"ATC Technologies"
+1994,"ATI Technologies ULC"
+2016,Atleisure
+2015,"Atom Nanoelectronics"
+2016,ATOMERA
+2005,"Atomic Energy Council-Institute of Nuclear Energy Research"
+1977,Atonometrics
+1993,"Atotech Deutschland"
+1986,"Atrium Medical"
+2016,ATTOSTAT
+2007,"aTyr Pharma"
+2012,"Aurora Alage"
+2010,Aurrion
+2009,"Aushon Biosystems"
+2012,Auterra
+2016,"Autonomic Materials"
+2006,"Avago Technologies General IP (Singapore) Pte"
+2010,"Avalanche Technology"
+2012,"Avant Garde Therapeutics & Technologies"
+2011,"Avantor Performance Materials"
+2012,"Avello Bioenery"
+1985,Avertech
+1991,"Avery Dennison"
+2000,"AVI BioPharma"
+2013,AVOGY
+1976,"Avon Products"
+1976,"Avtaec Limited"
+2016,AxioMx
+2012,"AZ Electronic Materials (Luxembourg) SARL"
+2007,"BG Negev Technologies and Applications"
+2011,"Babcock Power Services"
+2001,"BAE Systems Information and Electronic Systems Integration"
+1988,"Baker Hughes"
+2016,Bakersun
+2006,"Banpil Photonics"
+2001,"Basell Polyolefine"
+1976,BASF
+1999,"BASF Coatings"
+2015,"BASF Enzymes"
+2001,"BASF Plant Science"
+2008,"BASF SE"
+2005,"Battelle Energy Alliance"
+1976,"Battelle Memorial Institute"
+1976,"Bausch & Lomb"
+1988,BAXALTA
+1997,"Baxter Healthcare SA"
+1988,Baxter
+2003,"Bayer Cropscience AG"
+2004,"Bayer Materialscience"
+1980,BCE
+2013,"Bechtel Hydrocarbon Technology Solutions"
+1991,Becton
+2013,"Beijing BOE Display Technology Co"
+1984,"Bell Helicopter Textron"
+1976,"Bemis Company"
+1976,"Bend Research"
+2015,"BERKEN ENERGY"
+2016,"Beryllium Discovery Corp"
+2007,Bestway
+1985,"BHA Technologies"
+1980,Bi-Modal
+2016,"Big Belly Solar"
+2005,"Bigelow Aerospace"
+1981,"BIND Therapeutics"
+1976,"Bio-Rad Laboratories"
+2003,"Biocare Medical"
+1976,"Biocon Limited"
+2014,"Biogenic Reagents Ventures"
+2013,"Biological Dynamics"
+2014,"BioNano Genomics"
+2000,Bioneer
+2012,"Biosense Webster (Israel)"
+2002,"Biosphere Medical"
+2014,"Biotechnology Foundation"
+2009,bioTheranostics
+2014,Biotta
+2014,"Biozoom Technologies"
+2006,Bird-B-Gone
+1984,Bisco
+1978,Bitrode
+2013,"BlackBerry Limited"
+2016,"BLANC VINEYARDS LLC"
+2001,"Blue Sea Systems"
+2008,"Bluestar Silicones France"
+2005,"BOE Technology Group Co"
+1976,"Boehringer Ingelheim"
+1986,"Boehringer Ingelheim Vetmedica"
+2016,"BOLTIER R&D"
+2016,"Bosch Energy Storage Solutions"
+1991,Bostik
+2008,"Boston Scientific Neuromodulation"
+2002,"Boston Scientific Scimed"
+2001,"BP North America"
+2015,"Braun Intertec Geothermal"
+1988,"Brewer Science"
+2008,Bridgelux
+1978,Bridgestone
+2017,"Brightfield Transportation Solutions"
+2015,"BRIGHTLEAF TECHNOLOGIES"
+1976,"Bristol-Myers Squibb Company"
+1982,BROADCOM
+1998,"Brookhaven Science Associates"
+2016,"BROOKLYN QUANTUM WORKS"
+1990,Brother
+1977,"Brother Kogyo Kabushiki Kaisha"
+2015,"Bruin Biometrics"
+2011,BTPATENT
+1994,BTU
+1976,"Buckman Laboratories"
+2013,"Building Envelope Innovations"
+2010,"Butamax(TM) Advanced Biofuels"
+1976,CA
+1976,Cabot
+1994,"Cadence Design Systems"
+2012,"Calient Technologies"
+2013,"California Industrial Facilities Resources"
+2012,"Callahan Cellular LLC"
+2016,Calysta
+2016,"Cambridge Electronics"
+2008,"CAMBRIDGE ENTERPRISE LIMITED"
+1976,Canon
+1976,"Canon Kabushiki Kaisha"
+2014,"Canon Nanotechnologies"
+2009,"Canon US Life Sciences"
+1996,CAPAT
+1989,"CARBO Ceramics"
+1986,Carbon3D
+1977,"Cardiac Pacemakers"
+2008,"Cardiva Medical"
+2007,"Carestream Health"
+2016,"Caribou Biosciences"
+2002,"Carl Zeiss Meditec AG"
+2013,"Carl Zeiss Microscopy"
+1997,"Carver Scientific"
+1976,"Casio Computer Co"
+2011,Cavium
+1997,Cbrite
+2009,"Cedar Ridge Research"
+1976,Celanese
+2016,"CellPrint IP Holding"
+2010,CELLTRION
+2014,"Cellular Research"
+1976,"Centre de Recherche Industrielle du Quebec"
+1983,Ceramatec
+2014,CERION
+1976,Certain-teed
+1990,"Cetac Technologies"
+1976,Cetus
+1976,"Cheil Industries"
+2000,Chemtreat
+2002,"Chevron Oronitz Company"
+2001,"Chevron Phillips Chemical Company LP"
+1989,"Chevron USA"
+1980,"Child Laboratories"
+1998,"Chipmos Technologies"
+1976,Chiron
+2001,"Christie Digital Systems"
+1993,Chromalox
+2009,"Cima NanoTech Israel"
+1998,"Cisco Technology"
+1998,"Claret Medical"
+2012,"Clean Energy Labs"
+2014,Cleanvantage
+2015,"Clearside Biomedical"
+2014,"CLEARSIGN COMBUSTION"
+2015,"CMC ICOS BIOLOGICS"
+2014,"CNH Industrial America"
+1999,"Coactive Drive"
+1996,Codexis
+1998,"Coleman Cable"
+1976,"Colgate-Palmolive Company"
+1978,"Coloplast A/S"
+1999,"Columbia Insurance Company"
+2016,"Combined Energies"
+1976,"Commonwealth Scientific & Industrial Research Organization"
+2010,"Community Power"
+2008,"Complete Genomics"
+2014,"Component Re-Engineering Company"
+1980,"Conexant Systems"
+2014,"Confluence Energy"
+1976,Conoco
+2003,"ConocoPhillips Company"
+1986,"Continental Manufacturing"
+2014,"Conversant Intellectual Property Management"
+2003,"Cook Biotech"
+2011,"COOK MEDICAL TECHNOLOGIES"
+2013,"Cool Planet Energy Systems"
+2011,"CoolEarth Solar"
+1998,"Cooper Technologies Company"
+2001,"Copernicus Therapeutics"
+2015,"Coriant Advanced Technology"
+1976,"Cornell Research Foundation"
+1998,"Corporation for National Research Initiatives"
+2010,"Courtagen Life Sciences"
+2016,"COVERIS FLEXIBLES US"
+2010,"Covidien LP"
+2002,"CP KELCO APS"
+2001,"CP Kelco US"
+1976,CPC
+2016,"CPT IP Holdings"
+1988,Cree
+1976,Crepaco
+2015,Crestovo
+2009,"Cristal USA"
+2000,"Cross Match Technologies"
+1997,Crossbar
+2011,"Crystal Solar"
+2013,Crystalplex
+1995,"CSEM Centre Suisse d'Electronique et de Microtechnique SA-Recherche et Developpement"
+2007,"CUMMINS FILTRATION IP"
+2014,"Cura Vac"
+2015,"Custom Electronics"
+2017,"CYBERCITY 3D"
+1987,Cyberonics
+2014,CyboEnergy
+1990,"CYKL Technology"
+2013,"Cymatics Laboratories Corp"
+1987,"Cypress Semiconductor Corp"
+1984,"D-Wave Systems"
+2007,"Da Yu Enterprises LLC"
+1985,"Daikin Industries"
+1976,Dana
+1984,"Dana-Farber Cancer Institute"
+2004,"Danisco US"
+2008,"Daylight Solutions"
+1978,"DCG SYSTEMS"
+1986,"DECA Technologies"
+2016,"Deep Science"
+2016,"Deep Well Power"
+1992,"DEKA Products Limited Partnership"
+2007,Delavau
+2013,"Dell Software"
+1991,"Delphi Technologies"
+1977,"Delta Electronics"
+1976,Denso
+1985,Dentsply
+2014,"Deployable Space Systems"
+2013,"DePuy Synthes Products"
+2013,"Dermazone Solutions"
+1993,Dexerials
+2016,"DHPC TECHNOLOGIES"
+1990,Dialight
+1978,Dialogic
+1985,Diamicron
+2004,"Diamond Innovations"
+1977,DIC
+2015,"Digital Wind Systems"
+1987,DiscoveRx
+2015,DISCOVERYBIOMED
+1998,"Disney Enterprises"
+2009,"DNA Twopointo"
+1977,DNA20
+1991,"Dogwood Pharmaceuticals"
+1981,"Dolby Laboratories Licensing"
+2016,"Domtar Paper Company"
+2007,"Dongbu Hitek Co"
+1998,"Dow AgroSciences"
+1976,"Dow Corning"
+2002,"Dow Global Technologies"
+2009,"Dow Technology Investments"
+1985,DPD
+2015,"DPx Holdings BV"
+2003,"Dr Reddy's Laboratories"
+1988,"Dresser-Rand Company"
+2015,"DRS Network &#x26; Imaging Systems"
+1989,"DSP Group"
+2001,"DuPont Teijin Films US Limited Partnership"
+1978,Dymax
+2014,"Dynamic Solutions Worldwide"
+1978,"E Ink"
+2010,"E I du Pont de Nemours and Company duPont Displays"
+2007,"E Techorporation"
+2015,"Easel Biotechnologies"
+1992,"Eastman Chemical Company"
+1976,"Eastman Kodak Company"
+1976,Eaton
+2011,"Echogen Power Systems"
+2006,"EchoStar Technologies"
+1987,Ecolab
+2001,ECOSYNTHETIX
+2011,"Ecovative Design"
+2005,Egenera
+1976,"Eisai Co"
+1999,"ELC Management"
+2016,Elcriton
+1976,ElectraTherm
+1986,Electrix
+1988,"Electronic Warfare Associates"
+1979,Electrovaya
+2013,"Element One"
+2017,"Elenion Technologies"
+2013,Elwha
+2002,Em-Tech
+1977,Embro
+1976,EMC
+1987,"EMD Technologies"
+2010,"Empire Technology Development"
+2001,Energen
+2012,"ENERGY ENGINEERING SYSTEMS"
+2016,"ENERGY INDEPENDENCE OF AMERICA CORP"
+2010,Energysolutions
+2014,"Enginuity Worldwide"
+2016,"Englewood Lab"
+2000,"ENI SpA"
+1998,"ENI Technology"
+1991,eNow
+2005,"Ensyn Renewables"
+2015,"Entech Solar"
+2001,Entegris
+2010,"Envision Solar"
+2010,Envisionit
+2000,"EPCOS AG"
+2013,Epizyme
+2014,"ESCAPE THERAPEUTICS"
+2015,"eSionic Corp"
+2011,Esolar
+1994,"Ethicon Endo-Surgery"
+2000,"Ethox Chemicals"
+1989,Evernote
+2008,"Everspin Technologies"
+2014,"Evoqua Water Technologies"
+2004,Evri
+2001,Exatec
+2016,"Excelsior Nanotech"
+2015,EXOS
+2012,"Express Imaging Systems"
+1996,"Extech/Exterior Technologies"
+2001,"ExxonMobil Chemical Patents"
+2000,"ExxonMobil Research and Engineering Company"
+2000,"ExxonMobil Upstream Research Company"
+2010,Facebook
+1986,"Fairchild Semiconductor"
+2014,"FastCAP Systems"
+2007,"Faurecia Interior Systems"
+1977,"Federal Signal"
+1993,"FEI Company"
+2003,Fenwal
+1990,Ferric
+1976,Ferro
+2015,"Fezza Family Properties"
+1988,FHT
+2008,Fianium
+1977,Fike
+1988,"Fina Technology"
+1986,Finisar
+1999,"First Solar"
+2006,"Flextronics AP"
+1977,"FLIR Systems"
+2001,Floadia
+2012,"FLOW CONTROL"
+2004,Fluidigm
+1997,"Ford Global Technologies"
+2002,"Forest Concepts"
+2008,"Foret Plasma Labs"
+2013,"Formula Plastics"
+2007,FPInnovations
+2004,"Freescale Semiconductor"
+2001,"FRONT EDGE TECHNOLOGY"
+1976,"Fuji Electric Co"
+1976,"Fuji Xerox Co"
+2006,FUJIFILM
+2007,"FUJIFILM Dimatix"
+1976,"Fujitsu Limited"
+2001,"Fujitsu Semiconductor Limited"
+2013,"FULL CIRCLE BIOCHAR"
+1976,"Furukawa Electric Co"
+2000,"FutureWei Technologies"
+2014,fybr
+1983,GDO
+2012,"Galectin Therapeutics"
+1998,Galemed
+2005,GangaGen
+2016,Gardner-Gibson
+1990,"Garland Industries"
+2016,"Garrity Power Services"
+2002,"Gas Technology Institute"
+2016,"GCP Applied Technologies"
+2014,"GE Healthcare Dharmacon"
+2005,"GE Healthcare Limited"
+2009,"GE-Hitachi Nuclear Energy Americas"
+2005,"GED Intergrated Solution"
+2008,"Gemex Systems"
+1990,GEN-PROBE
+2016,"GENCO SCIENCES"
+1982,Genentech
+1976,"GENERAL ELECTRIC COMPANY"
+1976,"GENERAL MOTORS"
+1977,Genesco
+2004,"Genia Technologies"
+2009,Genisphere
+2010,Genomatica
+2006,"Genomic Health"
+1976,Genzyme
+2013,"George Mason Research Foundation"
+2004,"Georgia-Pacific Gypsum"
+2011,GeoSynFuels
+2016,"GEOTHERMAL ENERGY PROJECT"
+2002,"Gestion Ultra"
+2017,"GIGA SOLAR FPC"
+2013,"Gilead Biologics"
+2011,"Gilead Connecticut"
+1992,"Gilead Sciences"
+2014,"GlassPoint Solar"
+2004,"GlaxoSmithKline Biologicals SA"
+2014,GLIKNIK
+2016,"Global Eagle Entertainment"
+2012,"Global Filtration Systems"
+2010,"Global OLED Technology"
+2014,"Global Solar Water Power Systems"
+2009,GLOBALFOUNDRIES
+2004,"Globus Medical"
+2016,"Glucan Biorenewables"
+1998,GLYCON
+2006,"GM Global Technology Operations"
+2009,"GOAL ZERO"
+1977,"GOJO Industries"
+2008,GOLBA
+2003,Google
+2014,"GOOGLE TECHNOLOGY HOLDINGS"
+2016,GOSOLARLIFE
+2007,"GR Intellectual Reserve"
+2007,Gracenote
+1976,"Grain Processing"
+2015,"Gram Power"
+2004,Grandis
+2016,"Graphene Technologies"
+2005,"Great American Duck Races"
+2005,Greatbatch
+2016,"Green Box Batteries"
+2016,"Green Extraction Technologies"
+2013,"Green Solar Transportation"
+2016,"GREENFIELD MASTER IPCO LIMITED"
+2015,"GREENHILL ANTIBALLISTICS"
+2014,"Greyrock Energy"
+2016,"GROW ENERGY"
+1976,Gtech
+2015,GTherm
+1979,"Guardian Industries"
+2011,"Gula Consulting Limited Liability Company"
+1998,"H R D"
+1992,"Hadasit Medical Research Services & Development Company"
+2016,"Haier US Appliance Solutions"
+1993,"Halliburton Energy Services"
+1988,"HAMAMATSU PHOTONICS KK"
+2000,"Hamilton Sundstrand"
+2015,"Handstand Innovations"
+2003,Handylab
+1976,"HARMAN INDUSTRIES"
+1976,Harris
+1997,"Headway Technologies"
+2016,"Heat Seal"
+1978,"Heidelberger Druckmaschinen AG"
+2011,"Heliae Development"
+2014,"Helios Focus"
+2008,"Henkel AG & Co KGaA"
+2013,"Heraeus Precious Metals North America Conshohocken"
+2015,"Hewlett Packard Enterprise Development LP"
+2003,"Hewlett-Packard Development Company LP"
+2003,"Hewlett-Packard Indigo BV"
+2012,"HGST NETHERLANDS BV"
+2016,"HIQ SOLAR"
+1976,Hitachi
+2003,"Hitachi High-Technologies"
+1976,"Hitachi Metals"
+2015,"HM&#xb3; ENERGY"
+2013,"HNO Greenfuels"
+1978,"Hollingsworth & Vose Company"
+2016,"Hollywood Trucks"
+1995,"Hon Hai Precision Industry Co"
+1977,"Honda Motor Co"
+1976,Honeywell
+1991,Hosiden
+1986,"HOWARD INDUSTRIES"
+1977,Hoya
+2000,"HRL Laboratories"
+1976,HTC
+1991,HTS
+1993,Humanetics
+2012,"Hunt Energy Enterprises"
+1981,"Hunter Douglas"
+2001,"Hynix Semiconductor"
+1976,Hysitron
+1988,"Hyundai Motor Company"
+1976,"IBC Pharmaceuticals"
+2001,iBio
+2010,"Ibis Biosciences"
+2017,"IDEA TREE"
+2013,"Ideal Power"
+2003,IDEALAB
+2009,"IDEX Health &#x26; Science"
+2007,"Ignis Innovation"
+1979,II-VI
+2014,"III HOLDINGS 1"
+1976,"Illinois Tool Works"
+1989,IMDS
+1996,IMEC
+2013,Immunolight
+1990,"Immunopath Profile"
+2006,"Imperial Innovations Limited"
+1992,"IMRA America"
+2006,"Inaeris Technologies"
+2016,iNanoBio
+2000,Incept
+2015,"Incyte Holdings"
+1976,"Industrial Origami"
+1999,"Industrial Science & Technology Network"
+2016,"Industrial Solar Heating Systems"
+1982,"Industrial Technology Research Institute"
+1991,INENTEC
+2000,"Infineon Technologies AG"
+2015,"Infineon Technologies Americas Corp"
+1977,Infinera
+2002,"INFINEUM LIMITED"
+1978,Innolux
+2007,Innovalight
+2015,"Innovation Hammer"
+2015,Inphenix
+1979,Instron
+1987,"Integrated Device Technology"
+2001,"Integrated DNA Technologies"
+1998,"Integrated Nano-Technologies"
+1989,"Integrated Solar Technology"
+1976,Intel
+2001,"INTEL IP"
+2014,"Intellectual Keystone Technology"
+2013,"Intercontinental Great Brands"
+1976,Interez
+2016,"Interface Performance Materials"
+2007,Intermolecular
+1976,"International Business Machines"
+1986,"International Technology"
+1976,INTEVAC
+2016,"Intrexon CEU"
+2016,IntriEnergy
+2010,"Intuitive Surgical Operations"
+1989,Invensas
+2014,"Inventus Holdings"
+2013,"InView Technology"
+1990,"InVisage Technologies"
+2004,"INVISTA North America Sarl"
+1997,Iogen
+2014,"Ion Power Group"
+1992,"Isis Pharmaceuticals"
+2004,"ITN Energy Systems"
+2001,"Ivoclar Vivadent AG"
+2013,"J E WHITE"
+1978,"JAC Products"
+2011,"Janssen Biotech"
+2004,"JFE STEEL"
+1978,JNC
+1980,"Johns Manville"
+1998,"Johnson & Johnson Consumer Companies"
+1991,"Johnson &#x26; Johnson Vision Care"
+1998,"Johnson Controls Technology Company"
+1981,"Johnson Matthey PLC"
+1986,JOLED
+2011,"Joule Unlimited Technologies"
+2015,"JSI Equipment Solutions"
+1976,JSR
+2010,"JX Nippon Mining & Metals"
+2008,"k-Space Associates"
+2005,"KS CO"
+1984,"Kabushiki Kaisha Eighting"
+1976,"Kabushikikaisha Toshiba"
+2007,"KAI Pharmaceuticals"
+1976,Kajima
+2003,"Kala Pharmaceuticals"
+1976,Kamtec
+1978,Kaneka
+1976,"Kansai Paint Co"
+1977,Kansei
+1976,Kao
+1984,"Karsten Manufacturing"
+2016,"Kashiv Pharma"
+1976,"Kawasaki Jukogyo Kabushiki Kaisha"
+1977,"Kemira OY"
+1987,Kerr
+1992,"Kia Motors"
+1997,"Kimberly-Clark Worldwide"
+2014,"Kinestral Technologies"
+2016,"Kinetech Power Company"
+2017,"King Electric Vehicles"
+2001,KINO
+2015,Kiverdi
+2016,"KJ BIOSCIENCES"
+1998,KLA-Tencor
+1976,"Kobe Steel Limited"
+2016,"Koch Biological Solutions"
+2013,"Kodak Alaris"
+1983,"KOLO TECHNOLOGIES"
+1979,"KOLON INDUSTRIES"
+1997,"Korea Kumho Petrochemical Co"
+2016,"KR Design House"
+2001,"Kraton Polymers US"
+1980,Kronos
+2016,"kSep Systems"
+1976,KT
+1987,KUBIX
+1976,"Kulite Semiconductor Products"
+1981,Kureha
+2012,"KYOCERA DOCUMENT SOLUTIONS"
+2006,"L-3 Communications Cincinnati Electronics"
+2014,"Lake Lite"
+1978,"Lam Research"
+1995,Landauer
+1992,"Laserline Mfg"
+2016,"LATITUDE PHARMACEUTICALS"
+1988,"Lattice Semiconductor"
+2015,"LAVA ENERGY SYSTEMS"
+2007,"Lawrence Livermore National Security"
+2006,"Lehigh Technologies"
+2010,"Lextar Electronics Corp"
+2016,"LG Bionano"
+2008,"LG Display Co"
+1983,"LG Electronics"
+2016,"LG NANOH2O"
+2012,"LGS Innovations"
+1984,"Life Technologies"
+2008,"LifeNet Health"
+2016,"Linne Industries"
+1976,Lintec
+2014,"Lion Copolymer Geismar"
+2016,"LIQUID X PRINTED METALS"
+2011,"Liquidia Technologies"
+1993,"Litron Laboratories Limited"
+1989,"Little Kids"
+2007,Livetv
+1996,"Lockheed Martin"
+2012,"Locus Energy"
+2012,"Lof Solar"
+2011,"Longhorn Vaccines and Diagnostics"
+2016,"LORDO AMERICA"
+2006,"Los Alamos National Security"
+1999,"Lovelace Respiratory Research Institute"
+2016,"LUCERA LABS"
+2015,Lumenco
+2015,"Lumentum Operations"
+2000,"Luna Innovations"
+2015,"Lux Bio Group"
+2003,"Lyotropic Therapeutics"
+1981,Ma-West
+1992,"Macronix Co"
+1978,Magna
+2005,"Magnachip Semiconductor"
+2013,"Magnolia Optical Technologies"
+2014,"Magnolia Solar"
+1976,MAHLE
+1989,"Mainstream Engineering Corp"
+1976,Mallinckrodt
+2017,"Manta Instruments"
+2009,"MANUFACTURING RESOURCES"
+1980,"Marathon Equipment Company"
+2002,"Marine Biotech"
+1997,"Marine Polymer Technologies"
+1976,Markel
+2013,"Masimo Semiconductor"
+1977,Materia
+2015,"MATERIALS ANALYSIS TECHNOLOGY (US) CORP"
+2013,"Matrix Genetics"
+2016,"Matrix Odyssey"
+1996,"Mattson Technology"
+1987,"Maxim Integrated Products"
+2008,MAXLINEAR
+2014,"Maxout Renewables"
+2001,"MBC Ventures"
+2011,"McAlister Technologies"
+1984,"McElroy Manufacturing"
+1976,MCI
+2013,"Medgenics Medical Israel"
+1999,Mediatek
+2010,"Medical Diagnostic Laboratories"
+1994,"Medicis Pharmaceutical"
+1978,MEDport
+2004,"Medtronic Vascular"
+1982,"Merck Patent"
+1979,"MERCK SHARP & DOHME CORP"
+1998,"Meso Scale Technologies"
+2009,"Met Tech"
+1997,Metabolix
+1998,"Meyer Tool"
+1982,"Michelin Recherche et Technique SA"
+1986,"Michigan Biotechnology Institute"
+2016,"Micro Cooling Concepts"
+1989,"Microchip Technology"
+2016,"Microchips Biotech"
+2008,MicroContinuum
+2003,"MicroLink Devices"
+1984,"Micron Technology"
+1978,"Microsemi SoC"
+2014,"MICROSOFT TECHNOLOGY LICENSING"
+1988,Microsurge
+2015,"Midori USA"
+1993,"Midrex Technologies"
+2016,"MIETAMARK GENETICS"
+2016,"MILLENIUM SYNTHFUELS"
+1999,"Milliken & Company"
+1989,"Minebea Co"
+1976,Mintera
+1995,MirTech
+2014,"Mission Product Holdings"
+1976,"Mitsubishi Electric"
+1976,"Mitsubishi Metal"
+1999,"Mitsubishi Polyester Film"
+2004,"Molecular Imprints"
+2013,"Molecular Rebar Design"
+2007,"Momentive Performance Materials"
+2014,"Monarch Power Corp"
+2013,"Monolithe Semiconductor"
+1980,MonoSol
+2001,"Monsanto Technology"
+2015,"MONTEREY RESEARCH"
+2003,Morpho
+1978,Moxtek
+2016,Mumetel
+1977,"Murata Manufacturing Co"
+1986,Musco
+1976,mVerify
+1986,"Nalco Company"
+1986,Nanao
+2016,"NANO CELL SYSTEMS"
+2014,"Nano Technics Company"
+2010,NANOBIO
+2009,"Nanoco Technologies"
+2014,nanoComposix
+2016,Nanocopocia
+1999,NanoGram
+2013,Nanoholdings
+2002,NanoLab
+2008,NanoMech
+2004,Nanomix
+2016,NanoOncology
+2014,NANOPHARMACEUTICALS
+2016,NANOPHTHALMICS
+2014,"Nanoquantum Sciences"
+2011,"Nanoridge Materials"
+2008,"Nanospectra Biosciences"
+2009,Nanostatics
+1976,Nanosys
+2016,"Nanotech Biomachines"
+2017,"NanoTech Lubricants"
+1999,"Nanotek Instruments"
+2012,"Nant Holdings IP"
+1990,Nantero
+2000,"National Education"
+2009,"Nationwide Children's Hospital"
+2010,"NCC Nano"
+1977,NEC
+1976,"Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO"
+2005,NeoPhotonics
+1995,NeoVision
+1985,"Nestec S A"
+2008,NetApp
+2014,Neumedicines
+2015,"NeuMoDx Molecular"
+2007,"Neural Signals"
+2013,"Neutronic Perpetual Innovations"
+1990,"New England Biolabs"
+2010,"New Technology Ventures"
+2010,"Newdoll Enterprises"
+2016,"NEWFIELD THERAPEUTICS"
+2012,Newlans
+1984,Newport
+1993,"Nexcom Technology"
+1976,"NGK Spark Plug Co"
+1981,NICHIA
+1982,Nikon
+1984,"Nippon Chemi-Con"
+1976,"Nippon Shokubai Co"
+1976,"Nissan Motor Co"
+2009,"Nissan North America"
+1997,nLIGHT
+1994,"NLT TECHNOLOGIES"
+1977,NOK
+1976,Nokia
+1995,"Nokia Technologies Oy"
+2009,Nokomis
+1997,"Nordic Technologies"
+1976,Nordson
+2004,"Northrop Grumman Systems"
+1999,"Northwest Biotherapeutics"
+2000,"NOVA Chemicals (International) SA"
+2014,"NOVA PANGAEA TECHNOLOGIES LIMITED"
+1987,"Nova Technologies"
+1997,"Novartis AG"
+2015,NovaSolix
+1992,"Novellus Systems"
+1984,Novon
+2001,"Novozymes A/S"
+2005,Novozymes
+2001,"Novozymes North America"
+2007,"Novus Energy"
+2016,"Novus Technology"
+2010,"Nthdegree Technologies Worldwide"
+2009,"NuOrtho Surgical"
+2010,"Nutech Ventures"
+1997,Nvidia
+2016,"NXP USA"
+1989,OBI
+2016,"OAS Design Group"
+1996,"Oceanit Laboratories"
+2014,"Oculus VR"
+2004,"OFS Fitel"
+2015,"Ojai Retinal Technology"
+1978,"Oki Data"
+1977,OLYMPUS
+2008,"Olympus NDT"
+1998,"OmniVision Technologies"
+1977,Omron
+2016,"One Earth Designs"
+2015,"Opel Solar"
+2015,"OPTERRA ENERGY SERVICES"
+2003,Optodot
+1977,Oracle
+2007,"OrbusNeich Medical"
+1992,"Ormat Technologies"
+2004,"Ormet Circuits"
+1999,"Ortho-Clinical Diagnostics"
+2011,"OSI Optoelectronics"
+1993,"Osram Sylvania"
+1998,"Ostendo Technologies"
+1976,"OTSUKA PHARMACEUTICAL CO"
+1992,"Ovonic Battery Company"
+1990,"Owens-Brockway Glass Container"
+1976,PACCAR
+2007,"Pacific Biosciences of California"
+2016,"Pacific Industrial Development"
+2014,"Pacific Light Technologies Corp"
+2003,"Palo Alto Research Center"
+2014,"Panasonic Intellectual Property of America"
+2014,"Panasonic Intellectual Property Management Co"
+2008,Pansonic
+2002,"Paratek Pharmaceuticals"
+2016,Pardev
+2005,"Parion Sciences"
+1976,Parker-Hannifin
+1982,"PAX Scientific"
+2002,"PDF Solutions"
+1979,Pegatron
+2012,"Pelican Imaging"
+2013,"PELLION TECHNOLOGIES"
+2016,"Pendar Technologies"
+2014,"Pentair Thermal Management"
+2003,"Pentron Clinical Technologies"
+1992,"Performance Plants"
+2013,"Perkinelmer Holdings"
+2016,"PeterBrod Corp"
+2003,PetraSolar
+2015,"Peytant Solutions"
+1976,Pfizer
+2016,Pharmatrophix
+1978,Pharmion
+1977,"Philip Morris USA"
+1976,"Phillips 66 Company"
+2006,"Phoseon Technology"
+1989,"Photon Dynamics"
+2013,Piksel
+2000,"Pinnacle Technology"
+2009,"Pioneer Energy"
+2001,"Pioneer Hi Bred"
+1989,Pixar
+2001,"Pixelligent Technologies"
+2012,"Plant Sensory Systems"
+2017,"Plasma Tech Holdings"
+1986,Plasma-Therm
+2000,PLEX
+2012,"PluroGen Therapeutics"
+2016,"PLYCEM USA"
+1995,PNM
+1990,"POET Research"
+2016,"POLAR LIGHT TECHNOLOGIES AB"
+2016,"Polaris Products"
+1976,Poly-Med
+2002,PolyOne
+1996,"PolyPlus Battery Company"
+1976,Polysar
+1999,PortaFire
+2016,"POSiFA MICROSYSTEMS"
+1989,"Power Integrations"
+1976,"PPG Industries Ohio"
+1976,PQ
+1992,"Praxair ST Technology"
+1992,"Praxair Technology"
+1994,"Precision Custom Coatings"
+2015,"Previvo Genetics"
+1976,"Princeton Optronics"
+2002,"Production Resource Group LLC"
+1989,"Professional Compounding Centers of America"
+1999,"ProNAi Therapeutics"
+2013,"Propagation Research Associates"
+2000,Prosoft
+1990,Proterra
+1977,"Proton Power"
+2001,"PTC Therapeutics"
+2012,"Pulse Therapeutics"
+2016,"Pyrexar Medical"
+2011,"QD Vision"
+1997,Qiagen
+1982,QUALCOMM
+2007,"QUALCOMM MEMS Technologies"
+2000,Quallion
+2016,Qualsig
+2014,Quantapore
+1997,"Quantum Devices"
+1987,"Quantum Materials"
+2014,QuantumScape
+2001,"Quest Diagnostics Investments"
+2016,QUSWAMI
+1997,"RA Miller Industries"
+1976,"RJ Reynolds Tobacco Company"
+2002,"RP Scherer Technologies"
+2015,"RADIANCE SOLAR"
+2016,"Rapamycin Holdings"
+2010,"Raytheon BBN Technologies Corp"
+1976,"Raytheon Company"
+2017,"Rebellion Photonics"
+2004,"Red Hat"
+2011,"Redwood Systems"
+1992,"Regeneron Pharmaceuticals"
+1999,"Reliance Controls"
+2008,Relypsa
+2010,"Renesas Electronics"
+2012,"Renewable Algal Energy"
+2016,"Renewable Opportunities"
+2012,"Renewable Power Conversion"
+2012,Renmatix
+2016,"RenovaCare Sciences Corp"
+2014,"RES USA"
+1977,"Research Triangle Institute"
+2004,Revera
+2010,Revivicor
+2007,"Reynolds Technologies"
+1997,"RF Micro Devices"
+2008,"Rhodia Operations"
+1990,"Richtek Technology ROC"
+1976,"Ricoh Company Limited"
+2016,"Rillito Rive Solar"
+1979,"Rima Enterprises"
+2007,"RINAT NEUROSCIENCE CORP"
+2017,"Rio Grande Valley Sugar Growers"
+2006,"Riverbed Technology"
+1976,"Robert Bosch"
+2015,"Roche Diabetes Care"
+1999,"Roche Diagnostics"
+2015,"Roche Innovation Center Copenhagen A/S"
+1997,"Roche Molecular Systems"
+2001,"Rockwell Automation Technologies"
+1999,"Rockwell Collins"
+2016,"Rohm and Haas Chemicals"
+1976,"Rohm and Haas Company"
+2005,"Rohm and Haas Electronic Materials"
+1986,Roho
+2000,Roll-N-Lock
+2006,"Rolls-Royce North American Technologies"
+1978,"Rolls-Royce PLC"
+1976,ROM
+1994,"Rosemount Aerospace"
+1988,"Ruse Technologies"
+1976,"S C Johnson & Son"
+1986,"SC Johnson & Son"
+1998,"S&S X-Ray Products"
+2014,"SABIC GLOBAL TECHNOLOGIES BV"
+1998,"SAE Magnetics (HK)"
+2013,"Sagacious Investment Group LLC"
+2003,"SAINT-GOBAIN ABRASIFS"
+2012,"Saint-Gobain Adfors Canada"
+2000,"Saint-Gobain Ceramics & Plastics"
+2000,"Saint-Gobain Performance Plastics"
+2011,"Samsung Corning Precision Materials Co"
+2009,"SAMSUNG DISPLAY CO"
+1987,"Samsung Electro-Mechanics Co"
+2001,"Samsung Electronics"
+1984,"Samsung Electronics Co"
+2001,"Samsung SDI Co"
+1976,Sandia
+2006,"SanDisk 3D"
+1996,"SanDisk Technologies"
+2002,"Sangamo BioSciences"
+1977,"Sanken Electric Co"
+1982,Sanofi
+1995,Santoku
+1990,"Sanuvox Technologies"
+1976,"Sanyo Electric Co"
+2013,"Sarepta Therapeutics"
+2016,"SB ENERGY"
+1976,"Schlumberger Technology"
+2014,"Schneider Electric Solar Inverters USA"
+1996,"Schneider Electric USA"
+2015,"SCHOTTKY LSI"
+1988,"Scientific Design Company"
+2003,"SD Technologies"
+2010,SDCmaterials
+2012,"SEaB Energy Holdings"
+1984,"Seagate Technology"
+2016,"SEEK THERMAL"
+2005,Seetron
+1986,"Seiko Epson"
+1976,"Seiko Instruments"
+1980,"SEIKO NPC"
+2015,"Selas Heat Technology Company"
+2013,"Selecta Biosciences"
+2017,Selkermetrics
+2010,"SELMAN AND ASSOCIATES"
+2000,"Semiconductor Components Industries LLC"
+1983,"Semiconductor Energy Laboratory Co"
+2004,"Semiconductor Manufacturing (Shanghai)"
+2013,Semics
+2009,"Semileds Optoelectronics Co"
+2011,Semprius
+2014,Senaya
+2007,"Senga Advisors"
+2004,"Sensor Electronic Technology"
+2016,Sensor-Kinesis
+1995,"SeQual Technologies"
+1996,Sequenom
+2015,ServiceNow
+1976,"Sharp Kabushiki Kaisha"
+1998,"Sharp Laboratories of America"
+1976,"Shell Oil Company"
+2012,"Shenzhen China Star Optoelectronics Technology Co"
+1981,Shimadzu
+1976,"Shin-Etsu Chemical Co"
+2013,"Shoals Technologies Group"
+2016,"SHOW ME ENERGY"
+2014,Shubin
+1998,"Sick AG"
+1981,"SICPA Holding SA"
+1976,"Siemens Aktiengesellschaft"
+1977,Siemens
+2008,"Siemens Energy"
+2009,"Siemens Industry"
+2001,"Siemens Medical Solutions USA"
+2016,"Sienna Biopharmaceuticals"
+2014,"Sienna Labs"
+2004,"Sierra Sciences"
+1998,"Sigma-Aldrich Co"
+1981,Sigmatel
+1986,"SII Semiconductor"
+2014,"Sila Nanotechnologies"
+1999,"Silicon Genesis"
+2007,"Silicon Space Technology Corp"
+1991,"Silicon Storage Technology"
+1999,"Siliconware Precision Industries Co"
+2012,"Silicor Materials"
+2010,"Siluria Technologies"
+2000,"Sima Therapeutics"
+2013,Simbol
+2016,"Simple Approach Systems"
+2016,Sinewatts
+2015,"Singular Bio"
+2009,Singulex
+2007,"Sinton Consulting"
+2006,"Sion Power"
+2014,Sirnaomics
+2012,"SixPoint Materials"
+2012,"SK Hynix"
+1999,"SK Telecom Co"
+2013,"Smart Planet Technologies"
+1989,"Smith &#x26; Nephew"
+2016,"SNS NANO FIBER TECHNOLOGY"
+2016,SOL-ELECTRICA
+1987,"Sola USA"
+2014,SolaBlock
+2015,"SolAero Technologies Corp"
+2010,"Solaire Generation"
+2003,Solan
+2013,"Solar Junction"
+2014,"Solar Tectic"
+1982,SolarCity
+2010,"Solaris Holdings Limited"
+2012,SolarLego
+2013,"Solarmer Energy"
+2015,"SolarReserve Technology"
+2017,SOLARTONIC
+2016,"SolarWorld Americas"
+2006,SOLAZYME
+2015,"SOLENA FUELS"
+2005,Solexel
+2016,"Solight Solar"
+2016,"Soliton Lasers"
+1998,Solutia
+2013,"Solvay Specialty Polymers USA"
+2007,"SonoGene LLC"
+1976,Sony
+2016,"Sony Interactive Entertainment"
+2015,"Sophoro Biotechnologies"
+1978,Soraa
+2014,"Soraa Laser Diode"
+1976,"Southwest Research Institute"
+1992,SPC
+2016,"SPICE SOLAR"
+2013,"SRG Global"
+1976,"St Jude Medical"
+1998,"St Microelectronics"
+2012,"Stablcor Technology"
+2005,"STANDARD ALCOHOL COMPANY OF AMERICA"
+1976,"Stanley Electric Co"
+2005,"Star Technology and Research"
+2016,"Starlight Energy Holdings"
+2016,"Starsource Scientific"
+2005,"STATS ChipPAC"
+2000,"STMicroelectronics Limited"
+1997,"STMicroelectronics SA"
+2001,"Stora Enso Oyj"
+1992,Stratasys
+2014,"Strategic Solar Energy"
+1977,"Suganit Systems"
+1976,Sumco
+2010,"Sumitomo Electric Device Innovations"
+1976,"Sumitomo Electric Industries"
+1976,"Sumitomo Rubber Industries"
+1987,"SUMITOMO WIRING SYSTEMS"
+1976,"Sun Chemical"
+1986,"Sun Drilling Products"
+2012,"Sun Synchrony"
+2013,"Suncore Photovoltaics"
+2016,"SunCulture Solar"
+2013,"Sundrop Fuels"
+2014,SunEdison
+2014,"SunEdison Semiconductor Limited"
+2013,Sungevity
+2010,"Sunlight Photonics"
+2003,SunLink
+1992,SunPower
+2015,SunRun
+2014,"Sunrun South"
+2016,SUNSALUTER
+1993,Supremex
+1984,Surebeam
+2015,"Sustainable Technologies"
+1978,"Swagelok Company"
+2012,"Sweetwater Energy"
+2005,"Swift Engineering"
+1989,Symantec
+2009,"Synaptic Research"
+2001,"Syngenta Participations AG"
+1994,Synopsys
+2010,"Synthetic Genomics"
+2013,Synthezyme
+2016,"SYNTHOMER USA"
+1976,Sysmex
+2015,"System Biosciences"
+1977,THEM
+1988,"Taiwan Semiconductor Manufacturing Company"
+1977,"Taiyo Ink Mfg Co"
+2004,"Takara Bio"
+2005,"Takeda Pharmaceutical Company Limited"
+1984,Tamura
+1986,"Tanaka Kikinzoku Kogyo KK"
+2016,"Tarveda Therapeutics"
+2005,"Tata Consultancy Services Limited"
+2016,"Tau Therapeutics"
+2013,"Taxon Biosciences"
+1976,TDK
+2012,"Teal Sales"
+1986,"TECHNOLOGY RESEARCH"
+2017,TECNIUM
+2016,Tekkware
+1981,"TEKNOR APEX COMPANY"
+2008,"Tela Innovations"
+2009,"Teledyne Scientific & Imaging"
+1976,Tensor
+2008,"Teradata US"
+2016,"Terra Caloric"
+2016,"TerraVia Holdings"
+2016,"Tersus Environmental"
+2016,"Tesla Nanocoatings"
+1980,Tessera
+2014,"Tessera Advanced Technologies"
+2012,TetraSun
+1977,"Texas Instruments Deutschland"
+1976,"Texas Instruments"
+2003,"Texas Research"
+1976,"The Babcock & Wilcox Company"
+2013,"THE BOARD INSTITUTE"
+1976,"The Boeing Company"
+2016,"The Carbon Cable Company"
+1976,"The Charles Stark Draper Laboratory"
+1986,"The Eastern Co"
+1982,"The Gates"
+1976,"The Goodyear Tire & Rubber Company"
+1994,"The Henry M Jackson Foundation for the Advancement of Military Medicine"
+1991,"The Iams Company"
+1983,"The Jackson Laboratory"
+1987,"The Paymaster"
+1976,"The Procter & Gamble Company"
+1998,"The Samuel Roberts Noble Foundation"
+2012,"THE SWEET LIVING GROUP"
+2011,TheGreenCell
+2011,"Theraclone Sciences"
+2012,"Therapeutic Proteins"
+2002,"Thermo Finnigan"
+2006,"Thermo Fisher Scientific"
+2017,"Thermorefinery Technologies"
+2016,"Thermoretinary Technologies"
+1987,Thoratec
+2001,Thorlabs
+2011,"Thorlabs Quantum Electronics"
+2000,"Thorn Bioscience"
+2014,"THYSSENKRUPP INDUSTRIAL SOLUTIONS"
+1990,Ticona
+2009,"Tigo Energy"
+2013,"TIME WARNER CABLE ENTERPRISES"
+1976,TMC
+1976,"Toda Kogyo"
+1988,"Tokyo Electron Limited"
+1983,"Tokyo Ohka Kogyo Co"
+2016,"TOMOWAVE LABORATORIES"
+1976,"Toray Industries"
+2000,"Toray Plastics (America)"
+1996,"Toshiba America Electronic Components"
+1999,"Toshiba Tec Kabushiki Kaisha"
+1980,Tosoh
+2014,"Total Marketing Services"
+1982,"Toyota Jidosha Kabushiki Kaisha"
+2007,"Toyota Motor Engineering & Manufacturing North America"
+2011,"TP Solar"
+1980,Traex
+2002,TRANE
+1985,"Transilwrap Company"
+1993,"Transitions Optical"
+2013,"Transposagen Biopharmaceuticals"
+2016,"Transtron Solutions"
+1987,"Travis Industries"
+2016,"TRI ALPHA ENERGY"
+2013,"TRIDONIC & CO KG"
+2011,"Triple Ring Technologies"
+2015,"TRITON MICROTECHNOLOGIES"
+2010,"Triune IP"
+2015,"Truckee Applied Genomics"
+2014,"True-Safe Technologies"
+1984,"TT Technologies"
+2008,"Tufts Medical Center"
+2016,"Turf Group"
+2014,"Turtle Beach"
+1996,Twitter
+2012,"Two Blades Foundation"
+2000,"Tyco Electronics"
+1996,"Tyco Electronics UK"
+2016,"U S MICROPOWER"
+2001,"US NUTRACEUTICALS"
+2004,"US Smokeless Tobacco Company"
+1976,"Ube Industries"
+2007,"UCB Pharma SA"
+2006,"UChicago Argonne"
+1980,Uni-Charm
+2008,"Unifrax I"
+2011,"UNISANTIS ELECTRONICS SINGAPORE PTE"
+2015,"Uniseal Solutions"
+1988,"Unistrut Corp"
+1990,"United Microelectronics Corp"
+1976,"United Technologies"
+1999,"Unity Semiconductor"
+2002,"Universal Display"
+1984,"Universal Leaf Tobacco Co"
+1976,UOP
+2000,UT-Battelle
+2009,"UTC FIRE & SECURITY"
+2011,"UVIC INDUSTRY PARTNERSHIPS"
+1986,"UWM Research Foundation"
+2008,"V35A Enterprises"
+2016,"Vadient Optics"
+1980,Valicor
+2013,VALTED
+1999,"Varian Semiconductor Equipment Associates"
+2009,"Vascular BioSciences"
+2007,"Vaxiion Therapeutics"
+2016,"VEECO PRECISION SURFACE PROCESSING"
+1993,"Ventana Medical Systems"
+2010,Veracode
+2013,Veracyte
+2016,"VERILY LIFE SCIENCES"
+2014,"VERLASE TECHNOLOGIES"
+2016,"Verliant Energy"
+1996,VIASAT
+2014,"VINDICO NANOBIO TECHNOLOGY"
+2017,"Vindico NanoBioTechnology"
+2009,VINYLAST
+2011,"VIOLIN MEMORY"
+2000,Virent
+2016,"VivaLnk Limited (Cayman Islands)"
+2008,Vizio
+1991,VMware
+1999,"Volterra Semiconductor"
+2012,"Vorbeck Materials"
+2000,Voxtel
+2016,"W&Wsens Devices"
+2017,"WADHAM ENERGY LP"
+2000,WAFERTECH
+2006,"Warsaw Orthopedic"
+1991,"Waters Technologies"
+1976,"Watlow Electric Manufacturing Company"
+2016,"Wave Energy Conversion of America"
+2016,"WCA Group"
+2006,"Weatherford Canada Partnership"
+2015,"WELL Shield"
+1976,Wenger
+1976,"Wentworth Laboratories"
+2003,"Western Digital (Fremont)"
+2001,"Western Digital Technologies"
+2010,"WestPoint Home"
+2014,WHATSAPP
+2013,Wikipad
+1992,"Winbond Electronics Corp"
+1980,Winecom
+2011,"Wireless Environment"
+2003,"WiSys Technology Foundation"
+2016,"Wizard Labs"
+1985,Wostec
+2016,WOVN
+1986,"Wyatt Technology"
+2016,"X DEVELOPMENT"
+2013,"Xenogenic Development Limited Liability Company"
+1976,Xerox
+1978,Xintec
+1999,Xyleco
+1996,Yageo
+1976,Yamaha
+1976,"Yeda Research and Development Co"
+1999,Yissum
+2010,"ZENA TECHNOLOGIES"
+2011,"Zeno Semiconductor"
+2016,"Zephyr Energy Systems"
+2001,"ZIH Corp"
+2002,Ziptronix
+2015,"Zoetis Services"
+2013,ZON
+1976,Zygo
+2007,"Zyvex Labs"

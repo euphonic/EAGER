@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="X[8] <= 1.701\ngini = 0.321\nsamples = 1489\nvalue = [299, 1190]"] ;
+1 [label="X[7] <= 7.517\ngini = 0.491\nsamples = 229\nvalue = [99, 130]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="X[0] <= 6.5\ngini = 0.483\nsamples = 218\nvalue = [89, 129]"] ;
+1 -> 2 ;
+3 [label="gini = 0.42\nsamples = 20\nvalue = [14, 6]"] ;
+2 -> 3 ;
+4 [label="gini = 0.471\nsamples = 198\nvalue = [75, 123]"] ;
+2 -> 4 ;
+5 [label="X[6] <= 3.49\ngini = 0.165\nsamples = 11\nvalue = [10, 1]"] ;
+1 -> 5 ;
+6 [label="gini = 0.0\nsamples = 10\nvalue = [10, 0]"] ;
+5 -> 6 ;
+7 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]"] ;
+5 -> 7 ;
+8 [label="X[8] <= 4.103\ngini = 0.267\nsamples = 1260\nvalue = [200, 1060]"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="X[5] <= 1.002\ngini = 0.339\nsamples = 402\nvalue = [87, 315]"] ;
+8 -> 9 ;
+10 [label="gini = 0.292\nsamples = 287\nvalue = [51, 236]"] ;
+9 -> 10 ;
+11 [label="gini = 0.43\nsamples = 115\nvalue = [36, 79]"] ;
+9 -> 11 ;
+12 [label="X[7] <= 1.498\ngini = 0.229\nsamples = 858\nvalue = [113, 745]"] ;
+8 -> 12 ;
+13 [label="gini = 0.395\nsamples = 59\nvalue = [16, 43]"] ;
+12 -> 13 ;
+14 [label="gini = 0.213\nsamples = 799\nvalue = [97, 702]"] ;
+12 -> 14 ;
+}

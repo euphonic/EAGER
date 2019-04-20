@@ -1,0 +1,11 @@
+﻿Name,Count based features,Text features,All features
+Nearest Neighbors,0.65,0.823,0.825
+Linear SVM,0.732,0.732,0.732
+RBF SVM,0.739,0.843,0.843
+Decision Tree,0.736,0.827,0.824
+Random Forest,0.74,0.732,0.732
+Neural Net,0.741,0.877,0.888
+AdaBoost,0.742,0.846,0.865
+Naive Bayes,0.743,0.73,0.732
+SVC,0.735,0.838,0.848
+QDA,0.732,0.37,0.453

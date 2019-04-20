@@ -1,0 +1,1466 @@
+count(epa.id),lookup_firm
+8,"BIND Therapeutics"
+1,"Marine Polymer Technologies"
+2,"Centre de Recherche Industrielle du Quebec"
+44,"Shell Oil Company"
+28,"Baker Hughes"
+7,NanoGram
+2,"DuPont Teijin Films US Limited Partnership"
+10,"Eastman Kodak Company"
+1,Surebeam
+1,"Advanced Water Technology"
+1,Nanosys
+1,"Altex Technologies"
+5,"Rohm and Haas Company"
+2,"KAI Pharmaceuticals"
+4,BAXALTA
+14,AbbVie
+1,"Galectin Therapeutics"
+15,"Toray Industries"
+7,"ExxonMobil Chemical Patents"
+2,"Heliae Development"
+1,"Roche Molecular Systems"
+1,"NOVA PANGAEA TECHNOLOGIES LIMITED"
+2,Renmatix
+1,"Saint-Gobain Adfors Canada"
+2,Certain-teed
+5,"The Babcock & Wilcox Company"
+6,"Ormat Technologies"
+3,"GlassPoint Solar"
+4,Bioneer
+1,"Coleman Cable"
+1,"Newdoll Enterprises"
+56,"Fuji Electric Co"
+274,"International Business Machines"
+35,"Seiko Epson"
+260,"Samsung Electronics Co"
+431,"Semiconductor Energy Laboratory Co"
+26,"Shin-Etsu Chemical Co"
+1,Newlans
+2,"Silicon Space Technology Corp"
+1,SunRun
+49,FUJIFILM
+1,"Solaire Generation"
+152,"SAMSUNG DISPLAY CO"
+348,"Kabushikikaisha Toshiba"
+149,"SK Hynix"
+158,"Taiwan Semiconductor Manufacturing Company"
+39,"SanDisk Technologies"
+4,Arkema
+27,"UChicago Argonne"
+3,"Pixelligent Technologies"
+64,"Micron Technology"
+6,Cree
+43,"Tokyo Electron Limited"
+5,Plasma-Therm
+7,"Varian Semiconductor Equipment Associates"
+23,"Fujitsu Semiconductor Limited"
+16,"Semiconductor Manufacturing (Shanghai)"
+26,"Macronix Co"
+50,"Canon Kabushiki Kaisha"
+82,Sony
+2,"Advanced Silicon Group"
+96,"BOE Technology Group Co"
+3,"Quantum Devices"
+46,"Mitsubishi Electric"
+43,"UNISANTIS ELECTRONICS SINGAPORE PTE"
+13,"Kobe Steel Limited"
+22,JOLED
+4,"Conversant Intellectual Property Management"
+10,"Alpha and Omega Semiconductor"
+122,"Hon Hai Precision Industry Co"
+4,"Nokia Technologies Oy"
+60,"LG Electronics"
+85,SunPower
+91,"Panasonic Intellectual Property Management Co"
+5,"Stanley Electric Co"
+17,"Nanotek Instruments"
+25,"Hyundai Motor Company"
+3,"Kia Motors"
+35,"Toyota Jidosha Kabushiki Kaisha"
+4,"Commonwealth Scientific & Industrial Research Organization"
+1,Inphenix
+1,"Calient Technologies"
+3,"Schlumberger Technology"
+13,Agrigenetics
+33,"Regeneron Pharmaceuticals"
+1,"Avon Products"
+3,SOLAZYME
+3,Incept
+26,"GENERAL ELECTRIC COMPANY"
+1,"Peytant Solutions"
+2,"Michelin Recherche et Technique SA"
+16,"Nanoco Technologies"
+4,"Rhodia Operations"
+17,"Ricoh Company Limited"
+1,"Janssen Biotech"
+2,"Mitsubishi Polyester Film"
+21,"Dow Global Technologies"
+58,"3M Innovative Properties Company"
+1,Auterra
+1,"SOLENA FUELS"
+2,"HM&#xb3; ENERGY"
+10,"Sangamo BioSciences"
+2,"Sigma-Aldrich Co"
+1,"Sophoro Biotechnologies"
+35,Xyleco
+1,"DNA Twopointo"
+4,"E Techorporation"
+13,UT-Battelle
+1,"Easel Biotechnologies"
+17,"Alliance for Sustainable Energy"
+23,"Butamax(TM) Advanced Biofuels"
+1,OBI
+3,"The Henry M Jackson Foundation for the Advancement of Military Medicine"
+43,"BASF SE"
+1,"Taxon Biosciences"
+2,"Bechtel Hydrocarbon Technology Solutions"
+1,"Great American Duck Races"
+1,"Rosemount Aerospace"
+23,"QD Vision"
+1,Aurrion
+30,Hitachi
+1,"Gram Power"
+8,"MICROSOFT TECHNOLOGY LICENSING"
+1,"Cadence Design Systems"
+230,"Renesas Electronics"
+7,"Zeno Semiconductor"
+2,"Tyco Electronics UK"
+1,"DSP Group"
+59,"Sharp Kabushiki Kaisha"
+44,"Shenzhen China Star Optoelectronics Technology Co"
+3,"NLT TECHNOLOGIES"
+44,"Fujitsu Limited"
+4,"SunEdison Semiconductor Limited"
+33,"Freescale Semiconductor"
+72,Intel
+5,"Hitachi Metals"
+8,"Ube Industries"
+27,"STMicroelectronics SA"
+4,"DRS Network &#x26; Imaging Systems"
+82,"Applied Materials"
+5,"Everspin Technologies"
+2,"Avalanche Technology"
+1,"E I du Pont de Nemours and Company duPont Displays"
+1,Optodot
+11,"Palo Alto Research Center"
+1,"LAVA ENERGY SYSTEMS"
+5,"ASML Netherlands BV"
+5,"Soraa Laser Diode"
+2,"Renewable Power Conversion"
+1,"Envision Solar"
+27,SolarCity
+26,Sandia
+1,"Nanospectra Biosciences"
+2,Carbon3D
+1,"CUMMINS FILTRATION IP"
+3,"Cedar Ridge Research"
+13,Virent
+1,"Arisaph Pharmaceuticals"
+5,"Kala Pharmaceuticals"
+4,"Takeda Pharmaceutical Company Limited"
+1,"Gilead Connecticut"
+6,"Tokyo Ohka Kogyo Co"
+6,"Molecular Rebar Design"
+3,nanoComposix
+1,"Sienna Labs"
+2,"Avello Bioenery"
+1,"Ansun Biopharma"
+14,"Monsanto Technology"
+1,AgroFresh
+4,"Singular Bio"
+1,GEN-PROBE
+1,"Swagelok Company"
+20,"Lockheed Martin"
+2,Yamaha
+1,"Gemex Systems"
+6,"adidas AG"
+3,JSR
+33,Xerox
+5,EMC
+2,MAXLINEAR
+8,"Winbond Electronics Corp"
+8,NanoMech
+3,"Carver Scientific"
+21,"Lam Research"
+1,"LGS Innovations"
+1,"Hynix Semiconductor"
+46,"LG Display Co"
+14,NICHIA
+19,Denso
+6,"Solar Junction"
+14,Solexel
+1,"OSI Optoelectronics"
+8,"SolAero Technologies Corp"
+2,"Oki Data"
+13,"Phillips 66 Company"
+1,"Solarmer Energy"
+1,"Siemens Industry"
+6,Omron
+1,PetraSolar
+2,"Cooper Technologies Company"
+1,"Intuitive Surgical Operations"
+2,MCI
+1,Mallinckrodt
+1,"COOK MEDICAL TECHNOLOGIES"
+5,"Abbott Cardiovascular Systems"
+2,PortaFire
+5,SDCmaterials
+1,"Diamond Innovations"
+15,"Toyota Motor Engineering & Manufacturing North America"
+8,"Cool Planet Energy Systems"
+12,Celanese
+6,"Yeda Research and Development Co"
+8,DIC
+1,"AMERICAN BIO ENERGY CONVERTING CORP"
+1,Handylab
+1,Qiagen
+4,AC
+2,"MBC Ventures"
+120,GLOBALFOUNDRIES
+2,"SAE Magnetics (HK)"
+2,"Siemens Energy"
+12,"Tigo Energy"
+2,"Amazon Technologies"
+20,"Infineon Technologies AG"
+1,"FastCAP Systems"
+5,Invensas
+6,"Fuji Xerox Co"
+1,"Neutronic Perpetual Innovations"
+2,"Bruin Biometrics"
+2,NANOPHARMACEUTICALS
+3,"Acushnet Company"
+9,CERION
+4,"Canon US Life Sciences"
+5,"Furukawa Electric Co"
+19,"Guardian Industries"
+10,"ExxonMobil Research and Engineering Company"
+6,"Archer Daniels Midland Company"
+2,DISCOVERYBIOMED
+2,"Toda Kogyo"
+3,"Kansai Paint Co"
+1,"Transilwrap Company"
+4,UOP
+1,"Two Blades Foundation"
+16,"Pacific Biosciences of California"
+5,"Sharp Laboratories of America"
+7,"Chevron USA"
+8,"McAlister Technologies"
+40,"Sumitomo Electric Industries"
+24,Apple
+4,Brother
+7,"HGST NETHERLANDS BV"
+3,"Brewer Science"
+20,"Texas Instruments"
+5,"Microchip Technology"
+11,"PPG Industries Ohio"
+3,"BRIGHTLEAF TECHNOLOGIES"
+1,"Triune IP"
+10,"Dow AgroSciences"
+1,Agienic
+2,"Englewood Lab"
+4,Zygo
+8,"Rohm and Haas Electronic Materials"
+2,"Canon Nanotechnologies"
+4,"SanDisk 3D"
+1,"Dresser-Rand Company"
+17,"Empire Technology Development"
+6,"SABIC GLOBAL TECHNOLOGIES BV"
+9,Bridgestone
+1,"Senga Advisors"
+5,"Alnylam Pharmaceuticals"
+6,"Bayer Cropscience AG"
+21,"Life Technologies"
+4,"ALSTOM Technology"
+1,"Sick AG"
+2,"Research Triangle Institute"
+13,NEC
+1,"Advanced Fusion Technologies"
+1,Pansonic
+1,"St Microelectronics"
+1,"Conexant Systems"
+13,"Semiconductor Components Industries LLC"
+9,"Seiko Instruments"
+22,"Cypress Semiconductor Corp"
+2,"Suncore Photovoltaics"
+5,"Semileds Optoelectronics Co"
+1,"D-Wave Systems"
+5,"HRL Laboratories"
+5,"InVisage Technologies"
+3,"Sunlight Photonics"
+1,SolarLego
+2,"BOLTIER R&D"
+1,"SPICE SOLAR"
+1,"Turtle Beach"
+1,"The Iams Company"
+2,"Bend Research"
+1,"Luna Innovations"
+13,"Honda Motor Co"
+8,Google
+10,"Robert Bosch"
+13,"Samsung Electro-Mechanics Co"
+11,"Sima Therapeutics"
+2,"Amgen Fremont"
+6,Pfizer
+2,"IMRA America"
+5,"AZ Electronic Materials (Luxembourg) SARL"
+7,"POET Research"
+1,Interez
+1,"APPLIED STEMCELL"
+1,"Intrexon CEU"
+1,"System Biosciences"
+2,"BP North America"
+6,"ENI SpA"
+1,"SeQual Technologies"
+8,Sumco
+2,"THE SWEET LIVING GROUP"
+2,Eaton
+3,"JFE STEEL"
+1,"L-3 Communications Cincinnati Electronics"
+2,"STMicroelectronics Limited"
+19,"Industrial Technology Research Institute"
+5,"Novellus Systems"
+5,"Delta Electronics"
+4,"Nexcom Technology"
+2,"UWM Research Foundation"
+1,KT
+3,"Applied Optoelectronics"
+2,"Avago Technologies General IP (Singapore) Pte"
+1,Bisco
+2,Kerr
+2,Novon
+2,ACell
+1,"Basell Polyolefine"
+19,"Lawrence Livermore National Security"
+2,"Novozymes A/S"
+6,"Syngenta Participations AG"
+2,"The Samuel Roberts Noble Foundation"
+4,"Applied Biosystems"
+1,"Midori USA"
+1,Simbol
+1,"k-Space Associates"
+1,Singulex
+7,Shimadzu
+4,CyboEnergy
+1,Revera
+3,"AGFA-GEVAERT NV"
+19,"Cheil Industries"
+1,"Sagacious Investment Group LLC"
+1,ElectraTherm
+20,"Murata Manufacturing Co"
+8,"KOLON INDUSTRIES"
+2,"PELLION TECHNOLOGIES"
+19,"HAMAMATSU PHOTONICS KK"
+1,"Integrated Device Technology"
+16,"Raytheon Company"
+14,QUALCOMM
+2,"FutureWei Technologies"
+3,"Applied NanoStructured Solutions"
+6,"Los Alamos National Security"
+8,"The Procter & Gamble Company"
+1,"GOJO Industries"
+13,"Siemens Aktiengesellschaft"
+1,"AMO Wavefront Sciences"
+1,"RP Scherer Technologies"
+1,"KJ BIOSCIENCES"
+1,"Colgate-Palmolive Company"
+2,"Bemis Company"
+5,"Tanaka Kikinzoku Kogyo KK"
+2,"Johnson Matthey PLC"
+3,"Boehringer Ingelheim"
+2,Kao
+2,"Joule Unlimited Technologies"
+2,"S C Johnson & Son"
+4,"Pioneer Hi Bred"
+9,Instron
+1,"Biozoom Technologies"
+10,TDK
+11,VMware
+2,"Cross Match Technologies"
+6,"Seagate Technology"
+3,"Richtek Technology ROC"
+5,Tamura
+4,"Atomic Energy Council-Institute of Nuclear Energy Research"
+15,Kaneka
+9,Intermolecular
+1,"HARMAN INDUSTRIES"
+1,Parker-Hannifin
+3,"Previvo Genetics"
+7,"Covidien LP"
+3,"Adhesives Research"
+1,Nanocopocia
+2,"Waters Technologies"
+2,Markel
+1,"Texas Research"
+2,"GlaxoSmithKline Biologicals SA"
+3,Genentech
+1,"RINAT NEUROSCIENCE CORP"
+5,"Sarepta Therapeutics"
+1,Envisionit
+3,"Fina Technology"
+9,"Pacific Light Technologies Corp"
+3,"The Charles Stark Draper Laboratory"
+2,"New England Biolabs"
+1,"Abbott Point of Care"
+3,Agrivida
+2,Magna
+1,Microsurge
+1,"CARBO Ceramics"
+1,"Red Hat"
+2,"Gula Consulting Limited Liability Company"
+2,"GE-Hitachi Nuclear Energy Americas"
+16,"STATS ChipPAC"
+3,"Nissan Motor Co"
+1,"Daikin Industries"
+11,"First Solar"
+4,"Flextronics AP"
+16,"Samsung SDI Co"
+2,Hosiden
+1,GOLBA
+1,"St Jude Medical"
+4,"Proton Power"
+1,"LG NANOH2O"
+1,Uni-Charm
+3,Genzyme
+6,"JX Nippon Mining & Metals"
+1,"Rolls-Royce PLC"
+1,"Confluence Energy"
+1,MEDport
+4,Honeywell
+1,"Xenogenic Development Limited Liability Company"
+11,Hoya
+1,Nvidia
+9,"Hewlett-Packard Development Company LP"
+1,"Cima NanoTech Israel"
+10,"Crystal Solar"
+2,"Silicon Genesis"
+2,Mediatek
+4,"Heraeus Precious Metals North America Conshohocken"
+1,"FRONT EDGE TECHNOLOGY"
+2,"Gilead Sciences"
+1,"PluroGen Therapeutics"
+1,"Dow Technology Investments"
+10,"Northrop Grumman Systems"
+1,"Graphene Technologies"
+1,"Parion Sciences"
+2,"Gilead Biologics"
+5,"International Technology"
+1,"DPx Holdings BV"
+2,"CP Kelco US"
+2,"Caribou Biosciences"
+2,"Abbott Molecular"
+1,"AGC Flat Glass North America"
+1,"Sun Synchrony"
+4,"Hitachi High-Technologies"
+4,"Sanken Electric Co"
+2,"Atotech Deutschland"
+8,"ZENA TECHNOLOGIES"
+2,Energen
+2,"Hewlett Packard Enterprise Development LP"
+5,"Clean Energy Labs"
+3,"RJ Reynolds Tobacco Company"
+1,Nordson
+4,"Selecta Biosciences"
+1,"Cardiac Pacemakers"
+1,"Little Kids"
+6,BASF
+6,FPInnovations
+1,"Minebea Co"
+2,Energysolutions
+4,"BASF Coatings"
+4,"Sun Drilling Products"
+6,"Synthetic Genomics"
+2,"BASF Plant Science"
+3,"Plant Sensory Systems"
+1,TheGreenCell
+1,"Da Yu Enterprises LLC"
+2,"Complete Genomics"
+6,Innolux
+1,"Solight Solar"
+1,"Wentworth Laboratories"
+4,"FEI Company"
+2,"PDF Solutions"
+1,"DECA Technologies"
+5,"Analog Devices"
+1,Crossbar
+2,"Johns Manville"
+1,TMC
+1,"Polaris Products"
+2,"Cook Biotech"
+3,DPD
+1,"Medicis Pharmaceutical"
+1,Pharmatrophix
+1,"PAX Scientific"
+16,"GM Global Technology Operations"
+2,Ferro
+1,"Star Technology and Research"
+1,"SEaB Energy Holdings"
+4,"THYSSENKRUPP INDUSTRIAL SOLUTIONS"
+5,"Danisco US"
+2,"Kawasaki Jukogyo Kabushiki Kaisha"
+1,"Nanoridge Materials"
+1,"Meyer Tool"
+1,"UVIC INDUSTRY PARTNERSHIPS"
+1,VALTED
+2,HTC
+4,"Sumitomo Rubber Industries"
+2,"VivaLnk Limited (Cayman Islands)"
+2,"Western Digital Technologies"
+1,"ADVANCED CERAMIC FIBERS"
+1,"ABB Research"
+1,"Midrex Technologies"
+39,"The Boeing Company"
+2,"FLIR Systems"
+1,"Fairchild Semiconductor"
+1,"Green Box Batteries"
+1,SUNSALUTER
+1,"JSI Equipment Solutions"
+1,"ABL IP Holding"
+2,"Innovation Hammer"
+1,"Rohm and Haas Chemicals"
+3,Sanofi
+2,"Atrium Medical"
+3,"BAE Systems Information and Electronic Systems Integration"
+4,"Carestream Health"
+4,IMEC
+1,Crestovo
+3,"Paratek Pharmaceuticals"
+2,"Amicus Therapeutics"
+3,"Sun Chemical"
+2,"Autonomic Materials"
+1,"kSep Systems"
+2,"Ibis Biosciences"
+1,Quantapore
+1,"Nano Technics Company"
+1,SunLink
+2,SOL-ELECTRICA
+1,Sungevity
+1,"Olympus NDT"
+2,mVerify
+1,Siemens
+1,"Accuri Cytometers"
+6,"Opel Solar"
+6,"Nthdegree Technologies Worldwide"
+1,"Texas Instruments Deutschland"
+8,"Battelle Memorial Institute"
+1,"Rapamycin Holdings"
+1,"Hollingsworth & Vose Company"
+3,"SICPA Holding SA"
+2,"Bigelow Aerospace"
+1,"Bayer Materialscience"
+6,"Chevron Phillips Chemical Company LP"
+1,Cabot
+2,Novozymes
+1,Fluidigm
+1,PACCAR
+1,"CLEARSIGN COMBUSTION"
+1,"CoolEarth Solar"
+2,"Bio-Rad Laboratories"
+5,"Lumentum Operations"
+2,"DHPC TECHNOLOGIES"
+1,Veracode
+1,"ALF OPERATING PARTNERS"
+12,"Merck Patent"
+3,BROADCOM
+7,"Sumitomo Electric Device Innovations"
+7,"Sensor Electronic Technology"
+4,"Global OLED Technology"
+6,"Nippon Chemi-Con"
+1,"Disney Enterprises"
+3,Dentsply
+2,"Johnson & Johnson Consumer Companies"
+1,"Boehringer Ingelheim Vetmedica"
+1,GangaGen
+1,Greatbatch
+1,Cyberonics
+1,PolyOne
+1,Nokia
+1,"Linne Industries"
+1,"STANDARD ALCOHOL COMPANY OF AMERICA"
+1,Bi-Modal
+6,"Mitsubishi Metal"
+2,"WiSys Technology Foundation"
+1,"Oceanit Laboratories"
+1,"BASF Enzymes"
+1,Adynxx
+5,"Battelle Energy Alliance"
+2,"Nalco Company"
+2,"Cellular Research"
+1,"WCA Group"
+1,"One Earth Designs"
+1,"Formula Plastics"
+1,"Unistrut Corp"
+3,Pixar
+3,"Tyco Electronics"
+6,"Silicon Storage Technology"
+3,"Intellectual Keystone Technology"
+1,SPC
+1,"BLANC VINEYARDS LLC"
+1,Delavau
+1,EXOS
+1,"Claret Medical"
+2,"Coloplast A/S"
+3,"United Technologies"
+1,"McElroy Manufacturing"
+1,"Handstand Innovations"
+2,"The Goodyear Tire & Rubber Company"
+1,"Pentron Clinical Technologies"
+6,Lintec
+1,"Starlight Energy Holdings"
+1,"SC Johnson & Son"
+2,Valicor
+1,"CMC ICOS BIOLOGICS"
+1,"Domtar Paper Company"
+1,"ConocoPhillips Company"
+2,Harris
+1,"Suganit Systems"
+1,"Nordic Technologies"
+1,"Rockwell Automation Technologies"
+4,"Unity Semiconductor"
+2,"Hamilton Sundstrand"
+2,Elwha
+8,"OmniVision Technologies"
+2,"Maxout Renewables"
+1,"Kodak Alaris"
+2,"TP Solar"
+1,PLEX
+1,"ENERGY INDEPENDENCE OF AMERICA CORP"
+1,Relypsa
+3,Immunolight
+3,PQ
+1,"SUMITOMO WIRING SYSTEMS"
+1,"Tesla Nanocoatings"
+2,"Arcturus Therapeutics"
+1,"Areesys Technologies"
+3,Ecolab
+1,"National Education"
+1,"Mainstream Engineering Corp"
+2,MonoSol
+2,"Delphi Technologies"
+1,Hysitron
+1,Fike
+1,"Teradata US"
+1,"J E WHITE"
+5,"Hunt Energy Enterprises"
+1,Moxtek
+1,"Agena Bioscience"
+1,"Advanced Analogic Technologies"
+15,"United Microelectronics Corp"
+5,Cbrite
+1,Fianium
+2,Embro
+1,"Christie Digital Systems"
+1,MicroContinuum
+2,"Chipmos Technologies"
+2,Humanetics
+1,"Biosphere Medical"
+8,"Abraxis Bioscience"
+1,Livetv
+1,Fenwal
+7,"Vadient Optics"
+1,"Intercontinental Great Brands"
+1,"Tersus Environmental"
+1,Winecom
+1,"Beryllium Discovery Corp"
+2,"UCB Pharma SA"
+1,"Ethox Chemicals"
+1,CELLTRION
+2,Sensor-Kinesis
+1,"BioNano Genomics"
+2,"Johnson &#x26; Johnson Vision Care"
+1,"Taiyo Ink Mfg Co"
+2,Nanoholdings
+1,"ASM America"
+4,Pegatron
+2,"SunCulture Solar"
+1,"Cetac Technologies"
+2,"Callahan Cellular LLC"
+1,"Toshiba America Electronic Components"
+1,"Transposagen Biopharmaceuticals"
+2,"Liquidia Technologies"
+1,"Karsten Manufacturing"
+1,"Roche Diabetes Care"
+4,"ENI Technology"
+1,"Green Solar Transportation"
+2,"MicroLink Devices"
+2,"Component Re-Engineering Company"
+1,"Nant Holdings IP"
+5,"Dow Corning"
+2,Dymax
+1,"Renewable Opportunities"
+14,"API Intellectual Property Holdings"
+6,"Algenol Biotech"
+1,"Praxair Technology"
+1,"Echogen Power Systems"
+2,Floadia
+7,Dexerials
+1,"Tessera Advanced Technologies"
+1,Xintec
+3,"Maxim Integrated Products"
+3,"Phoseon Technology"
+1,Finisar
+1,"Globus Medical"
+2,"ESCAPE THERAPEUTICS"
+1,"Thermoretinary Technologies"
+1,"Heidelberger Druckmaschinen AG"
+1,"Unifrax I"
+2,"Arpin Renewable Energy"
+1,"OPTERRA ENERGY SERVICES"
+2,"Korea Kumho Petrochemical Co"
+5,Genomatica
+5,"Vorbeck Materials"
+1,"Kraton Polymers US"
+2,"SAINT-GOBAIN ABRASIFS"
+2,"Koch Biological Solutions"
+1,"Microchips Biotech"
+3,"Advanced Aqua Group"
+1,"Locus Energy"
+2,"Brother Kogyo Kabushiki Kaisha"
+2,"TRI ALPHA ENERGY"
+1,"Lextar Electronics Corp"
+1,Electrovaya
+1,"Microsemi SoC"
+1,"FLOW CONTROL"
+1,"InView Technology"
+1,"Gestion Ultra"
+1,"Dynamic Solutions Worldwide"
+1,"Grain Processing"
+1,"ELC Management"
+2,"OTSUKA PHARMACEUTICAL CO"
+1,"The Gates"
+2,"Avantor Performance Materials"
+1,"Owens-Brockway Glass Container"
+1,"GCP Applied Technologies"
+1,"FULL CIRCLE BIOCHAR"
+3,Metabolix
+2,Chemtreat
+2,"Arrowhead Center"
+1,"Buckman Laboratories"
+1,"GREENHILL ANTIBALLISTICS"
+1,"Met Tech"
+1,"Zyvex Labs"
+2,"Beijing BOE Display Technology Co"
+4,"KYOCERA DOCUMENT SOLUTIONS"
+4,"Headway Technologies"
+1,Quallion
+1,"Volterra Semiconductor"
+1,"Ion Power Group"
+1,"Stablcor Technology"
+2,"Magnachip Semiconductor"
+1,Aseptia
+2,"Ethicon Endo-Surgery"
+6,"Boston Scientific Scimed"
+2,"Abengoa Bioenergy New Technologies"
+11,"Inaeris Technologies"
+1,Pharmion
+2,Conoco
+1,Aerogen
+4,Andritz
+2,MirTech
+2,"Lake Lite"
+1,"Strategic Solar Energy"
+1,"Takara Bio"
+2,"ZIH Corp"
+1,"TRITON MICROTECHNOLOGIES"
+9,"SII Semiconductor"
+1,Ferric
+1,"Ideal Power"
+1,"POLAR LIGHT TECHNOLOGIES AB"
+1,"Medtronic Vascular"
+2,"Arch Biosurgery"
+3,Poly-Med
+1,"Courtagen Life Sciences"
+1,"Applied Membrane Technologies"
+5,"Henkel AG & Co KGaA"
+3,"Gas Technology Institute"
+2,"Cornell Research Foundation"
+1,"Braun Intertec Geothermal"
+1,iNanoBio
+3,"Banpil Photonics"
+1,"Wireless Environment"
+9,"ASM IP HOLDING BV"
+1,"Saint-Gobain Ceramics & Plastics"
+1,"Siliconware Precision Industries Co"
+1,OLYMPUS
+1,"Power Integrations"
+1,"CYKL Technology"
+1,"Ovonic Battery Company"
+1,"Schneider Electric Solar Inverters USA"
+2,"Lattice Semiconductor"
+1,"Pulse Therapeutics"
+1,"LifeNet Health"
+1,"Smart Planet Technologies"
+1,"Federal Signal"
+3,"Deployable Space Systems"
+1,"Heat Seal"
+2,"Georgia-Pacific Gypsum"
+1,"Integrated Nano-Technologies"
+1,"Adaptive Biotechnologies Corp"
+1,"Weatherford Canada Partnership"
+1,"Babcock Power Services"
+2,Atonometrics
+1,"Redwood Systems"
+7,KLA-Tencor
+2,"Riverbed Technology"
+1,"ASCENT SOLAR TECHNOLOGIES"
+4,"Osram Sylvania"
+1,"TRIDONIC & CO KG"
+1,"Solar Tectic"
+1,"Alencon Acquisition Co"
+1,"Blue Sea Systems"
+1,"Armageddon Energy"
+5,Nikon
+1,"Tata Consultancy Services Limited"
+1,"ATC Technologies"
+1,"Silicor Materials"
+1,"GED Intergrated Solution"
+1,"CAMBRIDGE ENTERPRISE LIMITED"
+1,"Bell Helicopter Textron"
+1,"Big Belly Solar"
+1,"Angiotech Pharmaceuticals (US)"
+3,"NOVA Chemicals (International) SA"
+1,CPC
+1,"BERKEN ENERGY"
+1,"Ortho-Clinical Diagnostics"
+1,"VERLASE TECHNOLOGIES"
+2,Oracle
+3,Solutia
+1,"Thermo Finnigan"
+2,Vizio
+1,"Saint-Gobain Performance Plastics"
+2,"Astex Pharmaceuticals"
+2,"Hadasit Medical Research Services & Development Company"
+2,NanoOncology
+1,"Renewable Algal Energy"
+1,"Faurecia Interior Systems"
+1,"Cura Vac"
+1,"Teal Sales"
+1,"Synaptic Research"
+1,Synthezyme
+1,"Glucan Biorenewables"
+1,Adtran
+1,"WestPoint Home"
+1,"OAS Design Group"
+2,"GREENFIELD MASTER IPCO LIMITED"
+3,Synopsys
+1,"Western Digital (Fremont)"
+2,Semprius
+5,"Acorn Technologies"
+4,Nantero
+4,"Total Marketing Services"
+3,"Amkor Technology"
+1,WAFERTECH
+3,QuantumScape
+2,"CPT IP Holdings"
+2,"Dermazone Solutions"
+2,"OrbusNeich Medical"
+1,AccuRay
+4,"Eastman Chemical Company"
+2,"American Science and Technology"
+1,"Excelsior Nanotech"
+2,Prosoft
+1,"GROW ENERGY"
+3,"Integrated DNA Technologies"
+1,"Longhorn Vaccines and Diagnostics"
+5,"Kimberly-Clark Worldwide"
+3,"Stora Enso Oyj"
+1,ADASA
+1,"Pentair Thermal Management"
+5,AMPT
+1,"ACACIA RESEARCH GROUP"
+1,"Antaya Technologies"
+1,"Masimo Semiconductor"
+1,"PolyPlus Battery Company"
+1,"NANO CELL SYSTEMS"
+1,"Inventus Holdings"
+2,"BlackBerry Limited"
+1,"KS CO"
+1,"RF Micro Devices"
+1,"Helios Focus"
+2,"LG Bionano"
+1,"LATITUDE PHARMACEUTICALS"
+1,"THE BOARD INSTITUTE"
+2,"Dana-Farber Cancer Institute"
+1,"Nova Technologies"
+2,"American Air Liquide"
+3,Tosoh
+5,"Halliburton Energy Services"
+4,Calysta
+9,"Novartis AG"
+2,Infinera
+2,Bridgelux
+1,"Sila Nanotechnologies"
+1,VIASAT
+1,nLIGHT
+1,"ABB Technology"
+1,WHATSAPP
+1,"FUJIFILM Dimatix"
+1,Aadigen
+1,"Ajinomoto Althea"
+1,"Tufts Medical Center"
+1,"AltaRock Energy"
+1,"APPLIED SUNSHINE"
+7,"Genia Technologies"
+4,"Ventana Medical Systems"
+2,"Atom Nanoelectronics"
+2,"QUALCOMM MEMS Technologies"
+2,Bakersun
+1,"RADIANCE SOLAR"
+1,Semics
+1,"MILLENIUM SYNTHFUELS"
+1,"H R D"
+1,"Avant Garde Therapeutics & Technologies"
+2,"IDEX Health &#x26; Science"
+2,"NeuMoDx Molecular"
+2,"GE Healthcare Dharmacon"
+2,Nokomis
+2,Grandis
+1,"Micro Cooling Concepts"
+1,"George Mason Research Foundation"
+1,"CellPrint IP Holding"
+1,"VIOLIN MEMORY"
+2,"MATERIALS ANALYSIS TECHNOLOGY (US) CORP"
+2,"Ignis Innovation"
+1,"Alcatel Lucent"
+1,"BROOKLYN QUANTUM WORKS"
+1,"Pyrexar Medical"
+2,"GR Intellectual Reserve"
+1,"Pacific Industrial Development"
+1,"Biological Dynamics"
+1,Gtech
+3,"Biogenic Reagents Ventures"
+1,Yageo
+1,"Biocon Limited"
+2,Genesco
+1,Amgen
+1,DiscoveRx
+1,"Applied Nanostructures"
+1,"Bausch & Lomb"
+2,"Tela Innovations"
+5,"Infineon Technologies Americas Corp"
+1,IntriEnergy
+1,"ASM IP Holdings"
+1,"Electronic Warfare Associates"
+1,"Wizard Labs"
+1,"WELL Shield"
+1,"ProNAi Therapeutics"
+1,"SonoGene LLC"
+1,"GENERAL MOTORS"
+1,Epizyme
+1,"Lyotropic Therapeutics"
+2,"Novus Technology"
+2,PNM
+3,Crepaco
+1,"Deep Well Power"
+1,"Industrial Solar Heating Systems"
+1,"OFS Fitel"
+1,"UTC FIRE & SECURITY"
+1,Gracenote
+1,"Mattson Technology"
+2,Tessera
+1,AVOGY
+3,Adeka
+2,"Sola USA"
+1,"Universal Display"
+1,"Sion Power"
+1,BCE
+2,"Boston Scientific Neuromodulation"
+1,"Toray Plastics (America)"
+1,Roll-N-Lock
+2,JNC
+1,"aTyr Pharma"
+1,Cetus
+1,"Magnolia Optical Technologies"
+1,"Propagation Research Associates"
+1,Musco
+2,"Nanotech Biomachines"
+1,"eSionic Corp"
+2,CAPAT
+1,Kajima
+1,Wenger
+3,"Transtron Solutions"
+1,Bostik
+1,Galemed
+3,Soraa
+1,Pardev
+2,"Rima Enterprises"
+1,Anelva
+1,"Hewlett-Packard Indigo BV"
+1,"SD Technologies"
+1,"Dongbu Hitek Co"
+2,ATOMERA
+1,QUSWAMI
+1,Wikipad
+1,"KOLO TECHNOLOGIES"
+1,"NuOrtho Surgical"
+1,"ENERGY ENGINEERING SYSTEMS"
+1,"Triple Ring Technologies"
+1,Egenera
+1,Gardner-Gibson
+3,"Ensyn Renewables"
+1,"Thermo Fisher Scientific"
+2,Amprius
+4,"Brookhaven Science Associates"
+1,"Integrated Solar Technology"
+2,"NGK Spark Plug Co"
+1,Seetron
+1,"ExxonMobil Upstream Research Company"
+1,Polysar
+1,Sysmex
+2,Ceramatec
+2,"RA Miller Industries"
+1,Thorlabs
+1,"Combined Energies"
+1,"The Jackson Laboratory"
+2,"US NUTRACEUTICALS"
+1,"Warsaw Orthopedic"
+2,"Sundrop Fuels"
+1,"Novozymes North America"
+1,"American Piledriving Equipment"
+1,"Entech Solar"
+1,"Hunter Douglas"
+1,"Extech/Exterior Technologies"
+2,NOK
+1,"TT Technologies"
+2,"Johnson Controls Technology Company"
+1,"KR Design House"
+1,"Haier US Appliance Solutions"
+2,"VINDICO NANOBIO TECHNOLOGY"
+12,"Sienna Biopharmaceuticals"
+1,"Roche Diagnostics"
+1,"Soliton Lasers"
+1,"Green Extraction Technologies"
+1,"Cristal USA"
+1,"Element One"
+2,INENTEC
+2,"22nd Century Limited"
+1,AxioMx
+1,TRANE
+1,"Teledyne Scientific & Imaging"
+2,"Casio Computer Co"
+1,Symantec
+5,NetApp
+1,"Adobe Systems"
+1,"AAC Technologies Pte"
+1,"Monolithe Semiconductor"
+1,Crystalplex
+1,"Industrial Origami"
+1,NeoPhotonics
+1,NANOPHTHALMICS
+1,"Tau Therapeutics"
+1,"Ojai Retinal Technology"
+1,"Scientific Design Company"
+2,"Foret Plasma Labs"
+1,"Roche Innovation Center Copenhagen A/S"
+2,Dana
+4,DNA20
+1,Nanostatics
+1,"Global Solar Water Power Systems"
+1,Landauer
+1,HTS
+1,"Starsource Scientific"
+1,"Rillito Rive Solar"
+1,CA
+1,"Daylight Solutions"
+1,"Siemens Medical Solutions USA"
+1,ATTOSTAT
+1,"Toshiba Tec Kabushiki Kaisha"
+2,"Nestec S A"
+2,"Solvay Specialty Polymers USA"
+2,"Simple Approach Systems"
+1,Alcotek
+1,"Chevron Oronitz Company"
+1,"Lux Bio Group"
+1,"Turf Group"
+1,"PLYCEM USA"
+1,"Wave Energy Conversion of America"
+1,Newport
+4,"VERILY LIFE SCIENCES"
+1,"Angaza Design"
+2,Solan
+1,"Bosch Energy Storage Solutions"
+1,"Cardiva Medical"
+1,"Forest Concepts"
+8,"Ford Global Technologies"
+2,"POSiFA MICROSYSTEMS"
+4,"Southwest Research Institute"
+1,"Pioneer Energy"
+1,"Incyte Holdings"
+1,Exatec
+1,"Building Envelope Innovations"
+2,Em-Tech
+1,Genisphere
+1,"California Industrial Facilities Resources"
+1,"Terra Caloric"
+1,"Biocare Medical"
+1,"Samsung Corning Precision Materials Co"
+1,"Panasonic Intellectual Property of America"
+2,"Ostendo Technologies"
+3,Entegris
+5,TetraSun
+2,"Truckee Applied Genomics"
+1,"Aurora Alage"
+1,"Biosense Webster (Israel)"
+1,"Dogwood Pharmaceuticals"
+1,"Dr Reddy's Laboratories"
+1,"Siluria Technologies"
+2,Voxtel
+1,Canon
+1,bioTheranostics
+1,"APPLIED MATERIALS ISRAEL"
+1,"Pendar Technologies"
+1,Kansei
+1,"Coriant Advanced Technology"
+1,"540 Grid Solutions"
+1,"EchoStar Technologies"
+1,"GOOGLE TECHNOLOGY HOLDINGS"
+1,"Professional Compounding Centers of America"
+1,"Allison Transmission"
+1,"Imperial Innovations Limited"
+2,"Columbia Insurance Company"
+1,"Enginuity Worldwide"
+1,"SHOW ME ENERGY"
+1,"Sierra Sciences"
+2,GLYCON
+1,"Performance Plants"
+1,"HNO Greenfuels"
+1,"Digital Wind Systems"
+1,"Kulite Semiconductor Products"
+1,ROM
+1,"EMD Technologies"
+1,"Advanced Cardiovascular Systems"
+1,"Alcon Research"
+1,BTPATENT
+1,"Akron Polymer Systems"
+1,"SNS NANO FIBER TECHNOLOGY"
+1,"New Technology Ventures"
+1,"Matrix Odyssey"
+1,"Michigan Biotechnology Institute"
+1,"MIETAMARK GENETICS"
+2,Cleanvantage
+1,"PeterBrod Corp"
+1,"Wyatt Technology"
+2,"ASTUTE MEDICAL"
+8,"Momentive Performance Materials"
+1,"Coactive Drive"
+1,ServiceNow
+3,"AIR PRODUCTS AND CHEMICALS"
+2,"Express Imaging Systems"
+1,"Universal Leaf Tobacco Co"
+1,Diamicron
+1,Neumedicines
+1,"BHA Technologies"
+1,"Theraclone Sciences"
+1,Kamtec
+1,"US Smokeless Tobacco Company"
+2,"Dolby Laboratories Licensing"
+1,"SK Telecom Co"
+1,"Carl Zeiss Microscopy"
+1,"Dell Software"
+1,"Deep Science"
+1,"SixPoint Materials"
+1,"Pinnacle Technology"
+1,GOSOLARLIFE
+1,"ARBOR THERAPEUTICS"
+1,"Child Laboratories"
+1,"Therapeutic Proteins"
+1,"SEIKO NPC"
+1,"Ecovative Design"
+1,"Nationwide Children's Hospital"
+1,II-VI
+1,"Precision Custom Coatings"
+1,AFMODEL
+1,Atleisure
+1,"Eisai Co"
+1,"Litron Laboratories Limited"
+1,Altivera
+1,Cavium
+3,"E Ink"
+1,"SYNTHOMER USA"
+1,Ambature
+2,AT&T
+1,Ma-West
+1,"Neural Signals"
+1,"Milliken & Company"
+1,"CNH Industrial America"
+1,"ADVANCED INNOVATION CENTER"
+1,"Transitions Optical"
+1,"Greyrock Energy"
+1,"Advanced Technology Materials"
+2,Codexis
+1,"All Power Labs"
+2,"U S MICROPOWER"
+1,"SB ENERGY"
+2,"PTC Therapeutics"
+1,Lumenco
+1,Kureha
+3,"Rockwell Collins"
+1,"Sustainable Technologies"
+1,"Smith &#x26; Nephew"
+1,"Tarveda Therapeutics"
+1,"Angstron Materials"
+2,"Verliant Energy"
+1,"Kinestral Technologies"
+1,"Community Power"
+1,Evri
+1,Anterios
+1,"Copernicus Therapeutics"
+1,"Interface Performance Materials"
+1,"Global Filtration Systems"
+1,"Watlow Electric Manufacturing Company"
+1,"GE Healthcare Limited"
+1,"LIQUID X PRINTED METALS"
+1,"Praxair ST Technology"
+1,Traex
+1,FHT
+1,"Quest Diagnostics Investments"
+1,WOVN
+1,"Global Eagle Entertainment"
+1,fybr
+1,Qualsig
+1,"Sanyo Electric Co"
+1,SunEdison
+1,"TIME WARNER CABLE ENTERPRISES"
+1,"Sanuvox Technologies"
+1,"Reynolds Technologies"
+1,"NEWFIELD THERAPEUTICS"
+3,"IBC Pharmaceuticals"
+2,"Avtaec Limited"
+2,"TerraVia Holdings"
+2,"Nippon Shokubai Co"
+1,Elcriton
+1,"NCC Nano"
+1,Ticona
+1,"Continental Manufacturing"
+1,"True-Safe Technologies"
+1,Veracyte
+2,"Avery Dennison"
+1,Acer
+1,"Custom Electronics"
+1,Innovalight
+2,"MONTEREY RESEARCH"
+3,"W&Wsens Devices"
+1,"Monarch Power Corp"
+1,"Pelican Imaging"
+2,"DePuy Synthes Products"
+1,"Sony Interactive Entertainment"
+2,Kronos
+1,"Sweetwater Energy"
+2,"CP KELCO APS"
+1,"V35A Enterprises"
+1,"Vascular BioSciences"
+1,"Laserline Mfg"
+1,"Zephyr Energy Systems"
+1,"LORDO AMERICA"
+1,"Selas Heat Technology Company"
+1,Esolar
+1,Wostec
+1,"ABB AB"
+1,"SCHOTTKY LSI"
+1,NovaSolix
+3,"Raytheon BBN Technologies Corp"
+1,"Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO"
+1,"HOWARD INDUSTRIES"
+1,"Cymatics Laboratories Corp"
+1,BTU
+1,Facebook
+1,"Fezza Family Properties"
+1,Mumetel
+2,"Nissan North America"
+1,"RenovaCare Sciences Corp"
+1,"Hollywood Trucks"
+1,"Meso Scale Technologies"
+1,NanoLab
+2,Iogen
+1,Morpho
+1,Sirnaomics
+1,"Medical Diagnostic Laboratories"
+1,Proterra
+1,GDO
+2,Kiverdi
+1,"SRG Global"
+1,"The Eastern Co"
+1,"DCG SYSTEMS"
+1,"SolarWorld Americas"
+1,"Sinton Consulting"
+1,ZON
+1,"Arkival Technology Corp"
+1,"GENCO SCIENCES"
+1,"Kashiv Pharma"
+1,Bestway
+2,"X DEVELOPMENT"
+2,"646840 Alberta"
+2,GLIKNIK
+1,"Lovelace Respiratory Research Institute"
+2,KUBIX
+1,"S&S X-Ray Products"
+1,"LUCERA LABS"
+1,"Perkinelmer Holdings"
+1,"Oculus VR"
+1,"Rolls-Royce North American Technologies"
+1,"Access Business Group"
+1,Baxter
+1,"Baxter Healthcare SA"
+1,"DEKA Products Limited Partnership"
+1,Roho
+1,"COVERIS FLEXIBLES US"
+1,"Bluestar Silicones France"
+2,"Isis Pharmaceuticals"
+1,"Kemira OY"
+1,"Thorn Bioscience"
+1,"MANUFACTURING RESOURCES"
+1,"III HOLDINGS 1"
+1,Evernote
+1,"Amtech Systems"
+2,"Princeton Optronics"
+1,Anlinx
+1,Bird-B-Gone
+1,"Ampio Pharmaceuticals"
+1,"Matrix Genetics"
+1,"Novus Energy"
+1,GeoSynFuels
+1,Chromalox
+1,IDEALAB
+1,INTEVAC
+1,Senaya
+2,"Garrity Power Services"
+1,"Annam Biosciences"
+1,Thoratec
+1,Shubin
+1,"Aushon Biosystems"
+2,"Illinois Tool Works"
+1,"JAC Products"
+2,"GEOTHERMAL ENERGY PROJECT"
+1,Materia
+2,"MERCK SHARP & DOHME CORP"
+1,"The Carbon Cable Company"
+3,"SELMAN AND ASSOCIATES"
+1,"Kinetech Power Company"
+1,"Travis Industries"
+1,"SolarReserve Technology"
+1,"Sunrun South"
+1,NeoVision
+1,"Molecular Imprints"
+1,Sinewatts
+2,"Vindico NanoBioTechnology"
+1,Nanao
+1,Avertech
+1,"ALGETERNAL TECHNOLOGIES"
+1,"Applied Genetic Technologies"
+1,Sigmatel
+1,"Adlens Beacon"
+1,"Photon Dynamics"
+1,"The Paymaster"
+1,"Cambridge Electronics"
+1,"Allertein Therapeutics"
+1,Electrix
+1,"Bristol-Myers Squibb Company"
+1,Mintera
+1,"Garland Industries"
+1,"Manta Instruments"
+1,"VEECO PRECISION SURFACE PROCESSING"
+3,"Magnolia Solar"
+1,Tensor
+1,ACUCELA
+1,"TOMOWAVE LABORATORIES"
+1,"Swift Engineering"
+1,Tekkware
+1,"Agilent Technologies"
+1,adaptiveARC
+2,"NXP USA"
+1,"Thorlabs Quantum Electronics"
+1,THEM
+2,"RES USA"
+2,"INTEL IP"
+1,"TEKNOR APEX COMPANY"
+1,MAHLE
+1,"INFINEUM LIMITED"
+1,iBio
+1,"Genomic Health"
+1,TECNIUM
+1,Stratasys
+1,"Plasma Tech Holdings"
+1,"HIQ SOLAR"
+1,"Schneider Electric USA"
+1,"GOAL ZERO"
+1,"Carl Zeiss Meditec AG"
+1,"Immunopath Profile"
+2,Chiron
+1,"ADMA Products"
+1,Selkermetrics
+1,"Nutech Ventures"
+1,"King Electric Vehicles"
+1,NANOBIO
+1,"Ruse Technologies"
+1,"Brightfield Transportation Solutions"
+1,"WADHAM ENERGY LP"
+1,Astech
+1,AstenJohnson
+1,"Rebellion Photonics"
+1,Ziptronix
+2,Aneeve
+1,"TECHNOLOGY RESEARCH"
+1,Twitter
+1,"Production Resource Group LLC"
+1,"Northwest Biotherapeutics"
+1,"Zoetis Services"
+1,"BG Negev Technologies and Applications"
+1,"Rio Grande Valley Sugar Growers"
+1,"Evoqua Water Technologies"
+1,"Industrial Science & Technology Network"
+1,"Asahi Kasei Kabushiki Kaisha"
+1,"AG ENERGY SOLUTIONS"
+1,"Thermorefinery Technologies"
+1,"CYBERCITY 3D"
+1,"Lof Solar"
+1,"Medgenics Medical Israel"
+1,"Clearside Biomedical"
+1,"Nanoquantum Sciences"
+1,"AVI BioPharma"
+2,"Lion Copolymer Geismar"
+1,"Lehigh Technologies"
+1,"Uniseal Solutions"
+1,"NanoTech Lubricants"
+1,"Vaxiion Therapeutics"
+2,"Biotechnology Foundation"
+1,GTherm
+2,"Cisco Technology"
+1,Piksel
+1,"Corporation for National Research Initiatives"
+1,"ATI Technologies ULC"
+1,Supremex
+1,"Quantum Materials"
+1,SOLARTONIC
+1,Dialogic
+1,VINYLAST
+1,Dialight
+1,"Mission Product Holdings"
+1,"Alexion Pharmaceuticals"
+1,"Aerosol Dynamics"
+1,"Marathon Equipment Company"
+1,Biotta
+1,Ablexis
+1,"Advanced Cell Technology"
+1,"Philip Morris USA"
+1,Bitrode
+1,"INVISTA North America Sarl"
+1,"IDEA TREE"
+1,Sequenom
+1,ECOSYNTHETIX
+1,"Solaris Holdings Limited"
+1,"ITN Energy Systems"
+1,"EPCOS AG"
+1,"Ormet Circuits"
+1,"CSEM Centre Suisse d'Electronique et de Microtechnique SA-Recherche et Developpement"
+1,"Reliance Controls"
+1,"SEEK THERMAL"
+1,Revivicor
+1,"Ivoclar Vivadent AG"
+1,eNow
+1,Nanomix
+1,"Elenion Technologies"
+1,"Shoals Technologies Group"
+1,"GIGA SOLAR FPC"
+1,Amberwave
+1,Santoku
+1,SolaBlock

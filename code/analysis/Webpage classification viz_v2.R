@@ -11,7 +11,7 @@ library(reshape2)
 setwd("/Users/Sanjay/dev/EAGER/data/orgs/about/")
 
 # load data
-in.res <- read.csv("about_model_training_results_toR.csv", header = TRUE, stringsAsFactors = FALSE)
+in.res <- read.csv("about_model_training_results_toR2.csv", header = TRUE, stringsAsFactors = FALSE)
 in.res
 
 
@@ -48,22 +48,26 @@ theme.eager_chart_SMALLM <- theme.eager_chart +
   theme(panel.grid.minor = element_blank()) +
   theme(strip.text.x = element_text(size=16, family="Trebuchet MS", face="bold", color="#666666")) 
 
-g10.df <- in.res[c(1,3,4,6,7,9) , c(1,2,3,5)]
+g10.df <- in.res[c(2,3,4,7,6) , c(1,2,3,4)]
 g10.df
 colnames(g10.df)
 
 g10.melt <- melt(g10.df, id.vars='Name')
+data.class(g10.melt$Name)
+g10.melt$Name <- factor(g10.melt$Name, levels=unique(g10.melt$Name))
+data.class(g10.melt$Name)
+g10.melt
 
-newline.labels = c("AdaBoost", "Decision\nTree", "Nearest\nNeighbors", "Neural\nNet", "RBF\nSVM", "SVC")
+newline.labels = c("Linear\nSVM", "RBF\nSVM", "Decision\nTree", "AdaBoost", "Neural\nNet")
 
 g10.a <- ggplot(data=g10.melt, aes(x=Name, y=value)) +
   geom_bar(aes(fill = variable), position = "dodge", stat="identity") + 
   labs(x="Classifier", y="Accuracy") + 
-  scale_x_discrete(labels=newline.labels) + 
   scale_fill_manual(values=c("#999999", "#195377", "#56B4E9"), 
                     name="Feature set",
                     labels=c("Count only", "Text only", "All features")) + 
-  scale_y_continuous(limits=c(0,.9), breaks=seq(0,.9,by=.2)) +
+  scale_x_discrete(labels=newline.labels) + 
+  scale_y_continuous(limits=c(0,.9), breaks=seq(0,.9,by=.1)) +
   theme.eager_chart_HIST
 g10.a
 ggsave("../../analysis/model_accuracy_bar_v2.png")
