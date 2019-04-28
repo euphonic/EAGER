@@ -4,7 +4,7 @@ Thanks for visiting this GitHub site!  I am PI on a small NSF grant and this cod
 
 ## 1. What does the code do? 
 
-Essentially this project is all about collecting web and search engine data to produce a cross-sectional view of a firm's online presence.  After having done similar work in the past and coming across a host of data access and data quality issues, I wanted to first build an open-source process for collecting important variables to produce a sample frame. Then, the code goes out and scrapes websites.  With some reasonable assurances that are data are of good quality (and don't cost an arm and a leg!), we are able to move to analysis.  This project covers all aspects of this journey, but not everything is automated.  Rather, what you'll find is a famework covering seven main steps in the research design, as follows.  I anticipate the first few steps to be of most interest/help to other researchers looking to extend leverage the same frame generation and data collection process for their work.
+Essentially this project is all about collecting web and search engine data to produce a cross-sectional view of a firm's online presence.  After having done similar work in the past and coming across a host of data access and data quality issues, I wanted to first build an open-source process for collecting important variables to produce a sample frame. Then, the code goes out and scrapes websites.  With some reasonable assurances that are data are of good quality (and don't cost an arm and a leg!), we are able to move to analysis.  This project covers all aspects of this journey, but not everything is automated.  Rather, what you'll find is a famework covering seven main steps in the research design, as follows.  I anticipate the first few steps to be of most interest/help to other researchers looking to leverage the same frame generation and data collection process for their work.
 
 [Introduce graphic here] 
 
@@ -20,11 +20,11 @@ Traditionally when writing research papers, we would motivate the research quest
 
 ## 2. How do I get started? 
 
-The workshop materials, available at https://www.dextr.us/workshop-resources, include a getting started guide.  You can follow this from start to finish if you would like to download the course workshop slides and virtual machine and follow steps 1-7 sequentially.  Just note that the workshop doesn't have the most recent code (it dates back to December 2019). 
+The workshop materials, available at https://www.dextr.us/workshop-resources, include a getting started guide.  You can follow this from start to finish if you would like to download the course workshop slides and virtual machine and follow steps 1-7 sequentially.  Just note that the workshop doesn't have the most recent code (it dates back to December 2019).  The workshop assumes a basic understanding of Python, R, and unix commands. 
 
-For those of you interested in just one or some of the steps above, e.g., collecting firm employment data or website URLs, you might want to  set up your API keys for Google and/or Microsoft and then jump straight to cloning the main branch of this repo and heading  to the code that you're interested in. In other words, because the code is organized in loosely connected modules, you can jump in at any point.  What follows is a step-by-step guide for doing exactly this. 
+For those of you interested in just one or some of the steps above, e.g., collecting firm employment data or website URLs, you might want to  set up your API keys for Google and/or Microsoft and then jump straight to cloning the main branch of this repo and heading  to the code that you're interested in. In other words, because the code is organized in loosely connected modules, you can jump in at any point.  What follows is a step-by-step guide for doing exactly this. However, this track assumes basic to intermediate understanding of Python, R, unix commands, Amazon Web Services, etc. 
 
-## 4. Installation 
+## 3. Installation 
 Choose one of three options: 
 
 1. Follow the workshop getting started guide linked to from the bottom of [this page](https://www.dextr.us/workshop-resources "Workshop Resources")
@@ -33,7 +33,9 @@ Choose one of three options:
 
 Generally, I've found it easier to perform most of the analysis on my local machine but scrape on the cloud using the AMI image on EC2.  This is because scraping can take a long time to complete, and you don't necessarily want to be doing that on a laptop that you open and close often.  Plus, you can parallelize scraping on the cloud with multiple virtual machines, thus saving a lot of time. See below for details. 
 
-### 4.1. Local system installation
+Also note you'll need to create Bing and Google Custom Search API keys.  Consult the workshop getting reference guide for more information. 
+
+### 3.1. Local system installation
 1. First, clone this GitHub repo in a local directory of your choosing
 2. [Install](https://docs.mongodb.com/v3.2/administration/install-community/ "MongoDB installation") MongoDB community edition 
 3. You may want to install a MongoDB client, such as [Robo 3T](https://robomongo.org/ "Robo 3T")
@@ -44,23 +46,39 @@ Generally, I've found it easier to perform most of the analysis on my local mach
 
 If there is anything missing from this list, please let me know. 
 
-### 4.2. Amazon Machine Image (AMI) installation
+### 3.2. Amazon Machine Image (AMI) installation
 1. Here, you'll need to create an AWS account and spin up an EC2 instance from a known AMI.  See [this page](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/finding-an-ami.html#finding-an-ami-console "Lookup an AMI") for general instructions.  Search for "EAGER_scraper" and continue the process of launching your EC2 instance.  (Note you only need one 100GB volume to store your collected website data in MongoDB. You can accept all other defaults.)
 2. Mount your primary database volume to your new virtual machine.  See [these](https://devopscube.com/mount-ebs-volume-ec2-instance/ "Mount EBS drive to EC2") instructions. Create a symlinked directory /eager on your base virtual machine pointing to your database volume 
 
 If there is anything missing from this list, please let me know. 
 
-## Scaling on AWS
+## 4. Scaling on AWS
 
 How can we scale up and run multiple crawlers on the cloud?  This diagram shows a simple solution.  It also highlights different configurations of EC2 image types to build a cluster of loosely connected crawlers. 
 
-## Running code for specific steps in the research design method
+## 5. Running code for specific steps in the research design method
 
-### 4.1. Identifying URLs
-Turn to the code/urls directory.  Start 
+Note that for each file you want to run, you may need to change file paths.  
 
-## Can I extend this work for other domains?  What if I don't study small firms? 
+### 5.1. Identifying URLs
+You may want to go through the workshop slides to get a better idea of what is going on here.  Here are some brief pointers to files:
+
+1. Turn to the code/urls directory.  Start with bing.py to collect firm-specific search results from Bing. 
+2. 
+
+### 5.2. Getting firm size (number of employees)
+This step is much less complicated as there is no modeling involved.  Go to code/urls and run the commands in the collect-employee-data-v1 notebook.  Don't forget to update your Google Custom Search API key. 
+
+### 5.3. Scrape websites
+
+### 5.4. Clean up the data and prepare it for topic modeling 
+
+### 5.5. Topic model the data by industry
+
+### 5.6. Model the data using panel-based continuous Markov multi-state modeling 
+
+## 6. Can I extend this work for other domains?  What if I don't study small firms? 
 Absolutely, the crawling code was modified from a school and district scraper.  At some level of abstraction, it doesn't matter if you're crawling firm, university, hospital, government agency, or any other kind of site!  However, you'll need to modify the code to suite the unique circumstances of your research domain. 
 
-## I need help! 
+## 7. I need help! 
 No problem.  Contact me via [this form](https://www.dextr.us/about "Contact Sanjay") please.  I will do my best to respond within a day or two.
