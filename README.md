@@ -58,6 +58,8 @@ If there is anything missing from this list, please let me know.
 
 How can we scale up and run multiple crawlers on the cloud?  This diagram shows a simple solution.  It also highlights different configurations of EC2 image types to build a cluster of loosely connected crawlers. 
 
+[INSERT GRAPHIC HERE]
+
 ## 5. Running code for specific steps in the research design method
 
 Note that for each file you want to run, you may need to change file paths.  Also before getting started, make sure you have a good plan to keep unique identifiers in all the files you create so that you can join the data together before all is said and done. 
