@@ -2,6 +2,8 @@
 
 Thanks for visiting this GitHub site!  I am PI on a small NSF grant and this code and data are available to anyone who wants to use or extend the repo to study small firm innovation.  Before you read any further, I suggest reviewing the companion site @ https://www.dextr.us/nsf-eager.  Here you'll find some background on why I started this work, as well as links to some other helpful resources, including a workshop that is aimed at a pedagogical introduction to the method. 
 
+There is a companion paper currently being submitted to an academic journal.  Contact me (see below) if you would like a copy of the manuscript. 
+
 ## 1. What does the code do? 
 
 Essentially this project is all about collecting web and search engine data to produce a cross-sectional view of a firm's online presence.  After having done similar work in the past and coming across a host of data access and data quality issues, I wanted to first build an open-source process for collecting important variables to produce a sample frame. Then, the code goes out and scrapes websites.  With some reasonable assurances that are data are of good quality (and don't cost an arm and a leg!), we are able to move to analysis.  This project covers all aspects of this journey, but not everything is automated.  Rather, what you'll find is a famework covering seven main steps in the research design, as follows.  I anticipate the first few steps to be of most interest/help to other researchers looking to leverage the same frame generation and data collection process for their work.
@@ -58,18 +60,23 @@ How can we scale up and run multiple crawlers on the cloud?  This diagram shows 
 
 ## 5. Running code for specific steps in the research design method
 
-Note that for each file you want to run, you may need to change file paths.  
+Note that for each file you want to run, you may need to change file paths.  Also before getting started, make sure you have a good plan to keep unique identifiers in all the files you create so that you can join the data together before all is said and done. 
 
 ### 5.1. Identifying URLs
 You may want to go through the workshop slides to get a better idea of what is going on here.  Here are some brief pointers to files:
 
-1. Turn to the code/urls directory.  Start with bing.py to collect firm-specific search results from Bing. 
-2. 
+1. Turn to the code/urls directory.  Start with bing.py to collect firm-specific search results from Bing and store them in MongoDB.  Remember to update your Bing search API key.  After running this file successfully, take a moment to examine the data in your MongoDB collection. 
+2. Next run build-url-training-matrix-v2.py in either -t or -v mode. -v fetches data from MongoDB and joins it with labeled data to produce a trained model.  -t mode allows you to run unlabeled data in predict mode once you have a trained model.  That is, -t doesn't join in labeled data.  To expedite things a bit, you may want to just train your model on the labeled data that I've produced. 
+3. Run all cells in the url-prediction-model-v4 notebook.  Again, you can train your model on previously labeled data.  You'll definitely want to change the input file to make predictions using your specific frame list, however. The purpose of this step is to come up with URLs that you'll want to confirm (probably by hand) and then crawl (if everything looks okay).
+4. There is another step that can be run here to identify 'about us' pages of interest for further data collection.  This goes beyond finding a firm's base (home) url by looking for specific subpages of interest. More on that later. 
 
 ### 5.2. Getting firm size (number of employees)
-This step is much less complicated as there is no modeling involved.  Go to code/urls and run the commands in the collect-employee-data-v1 notebook.  Don't forget to update your Google Custom Search API key. 
+This step is much less complicated than the last one as there is no machine learning modeling involved.  Go to code/urls and run the commands in the collect-employee-data-v1 notebook.  Don't forget to update your Google Custom Search API key. 
 
 ### 5.3. Scrape websites
+1. Navigate to `code/crawler/FirmDB` and in `settings.py`, point `INPUT_DATA` to your file.  Also set `FIX_URLS` to `True` and `ABOUT_MODE` to False.  (You can use Jupyter Notebook or your favorite editor to do this.)
+2. Navigate to code/crawler in a command line window, and run `scrapy crawl HTML --set="ROBOTSTXT_OBEY=False"`
+
 
 ### 5.4. Clean up the data and prepare it for topic modeling 
 
