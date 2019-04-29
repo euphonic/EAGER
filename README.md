@@ -65,24 +65,33 @@ Note that for each file you want to run, you may need to change file paths.  Als
 ### 5.1. Identifying URLs
 You may want to go through the workshop slides to get a better idea of what is going on here.  Here are some brief pointers to files:
 
-1. Turn to the code/urls directory.  Start with bing.py to collect firm-specific search results from Bing and store them in MongoDB.  Remember to update your Bing search API key.  After running this file successfully, take a moment to examine the data in your MongoDB collection. 
-2. Next run build-url-training-matrix-v2.py in either -t or -v mode. -v fetches data from MongoDB and joins it with labeled data to produce a trained model.  -t mode allows you to run unlabeled data in predict mode once you have a trained model.  That is, -t doesn't join in labeled data.  To expedite things a bit, you may want to just train your model on the labeled data that I've produced. 
-3. Run all cells in the url-prediction-model-v4 notebook.  Again, you can train your model on previously labeled data.  You'll definitely want to change the input file to make predictions using your specific frame list, however. The purpose of this step is to come up with URLs that you'll want to confirm (probably by hand) and then crawl (if everything looks okay).
-4. There is another step that can be run here to identify 'about us' pages of interest for further data collection.  This goes beyond finding a firm's base (home) url by looking for specific subpages of interest. More on that later. 
+1. Turn to the `code/urls` directory.  Start with `bing.py` to collect firm-specific search results from Bing and store them in MongoDB.  Remember to update your Bing search API key.  After running this file successfully, take a moment to examine the data in your MongoDB collection. 
+2. Next run `python build-url-training-matrix-v2.py` in either `-t` or `-v` mode in a command line window. `-v` fetches data from MongoDB and joins it with labeled data to produce a trained model.  `-t` mode allows you to run unlabeled data in predict mode once you have a trained model.  That is, `-t` doesn't join in labeled data.  To expedite things a bit, you may want to just train your model on the labeled data that I've produced. 
+3. Run all cells in the `url-prediction-model-v4` notebook.  Again, you can train your model on previously labeled data.  You'll definitely want to change the input file to make predictions using your specific frame list, however. The purpose of this step is to come up with URLs that you'll want to confirm (probably by hand) and then crawl (if everything looks okay).
+4. There is second series of steps that can be run here to identify 'about us' pages of interest for further data collection.  This goes beyond finding a firm's base (home) url by looking for specific subpages of interest. More on that later. 
 
 ### 5.2. Getting firm size (number of employees)
 This step is much less complicated than the last one as there is no machine learning modeling involved.  Go to code/urls and run the commands in the collect-employee-data-v1 notebook.  Don't forget to update your Google Custom Search API key. 
 
 ### 5.3. Scrape websites
-1. Navigate to `code/crawler/FirmDB` and in `settings.py`, point `INPUT_DATA` to your file.  Also set `FIX_URLS` to `True` and `ABOUT_MODE` to False.  (You can use Jupyter Notebook or your favorite editor to do this.)
-2. Navigate to code/crawler in a command line window, and run `scrapy crawl HTML --set="ROBOTSTXT_OBEY=False"`
-
+1. Navigate to `code/crawler/FirmDB` and in `settings.py`, point `INPUT_DATA` to your file.  Also set `FIX_URLS` to `True` and `ABOUT_MODE` to False.  (You can use Jupyter Notebook or your favorite editor to do this.)  The code is currently configured to scrape a single home page, but it's fairly easy to change this setting to crawl a full website.  While I've crawled many full websites in the past, I've found that focusing on just specific pages of interest is faster and provides better data quality. 
+2. Navigate to `code/crawler` in a command line window, and run `scrapy crawl HTML --set="ROBOTSTXT_OBEY=False"`
+3. Take a moment to see what your data look like in MongoDB. 
 
 ### 5.4. Clean up the data and prepare it for topic modeling 
+Let's take a slight detour now.  Let's say that we don't want all pages on a firm's websites, but only those that are 'about us' in nature.  Follow these steps:
+
+1. In `code/urls` run all cells in the notebook `find-about-pages-v3`.  This will identify candidate 'about us' pages.
+2. Now go and crawl these new URLs following the same steps in Section 5.3.  Change `FIX_URLS` to `False` and `ABOUT_MODE` to `True`. 
+3. Similar to the URL prediction step, we'd like to build an intelligent way to remove false positives, i.e., pages that look like they could be 'about us' pages but for some reason are out of scope.  (I've already produced the labeled data for which pages are in-scope and which ones are not.)  Go to `code/topics_markov` and run all cells in the notebook `extract-pages-from-mongo-v7-about`.  This will produce a number of output files, one per firm. 
+
+Step 3 here also removes extraneous (e.g., garbled data, including code) from the output text. 
 
 ### 5.5. Topic model the data by industry
+In `code/topics_markov`, run the notebook `topic-model-v2` to produce and visualize topic modeled website data from specific 'about us' pages. This will output a file for use in the next and final step. (Each line in the output file includes the primary topic of a given paragraph.)
 
 ### 5.6. Model the data using panel-based continuous Markov multi-state modeling 
+In RStudio, open `MSM_v3.R`, also in `code/topics_markov`.  Don't forget to copy the column names from the notebook in Section 5.5. 
 
 ## 6. Can I extend this work for other domains?  What if I don't study small firms? 
 Absolutely, the crawling code was modified from a school and district scraper.  At some level of abstraction, it doesn't matter if you're crawling firm, university, hospital, government agency, or any other kind of site!  However, you'll need to modify the code to suite the unique circumstances of your research domain. 
