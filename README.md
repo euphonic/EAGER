@@ -96,7 +96,7 @@ In `code/topics_markov`, run the notebook `topic-model-v2` to produce and visual
 In RStudio, open `MSM_v3.R`, also in `code/topics_markov`.  Don't forget to copy the column names from the notebook in Section 5.5. 
 
 ## 6. Can I extend this work for other domains?  What if I don't study small firms? 
-Absolutely, the crawling code was modified from a school and district scraper.  At some level of abstraction, it doesn't matter if you're crawling firm, university, hospital, government agency, or any other kind of site!  However, you'll need to modify the code to suite the unique circumstances of your research domain. 
+Absolutely, the crawling code was modified from a school and district scraper.  At some level of abstraction, it doesn't matter if you're crawling a firm, university, hospital, government agency, or any other kind of site!  However, you'll need to modify the code to suite the unique circumstances of your research domain. 
 
 ## 7. I need help! 
 No problem.  Contact me via [this form](https://www.dextr.us/about "Contact Sanjay") please.  I will do my best to respond within a day or two.
