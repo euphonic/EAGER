@@ -8,7 +8,7 @@ There is a companion paper currently being submitted to an academic journal.  Co
 
 Much of this project is all about collecting web and search engine data to produce a cross-sectional view of a firm's online presence.  After having done similar work in the past and coming across a host of data access and data quality issues, I wanted to first build an open-source process for collecting important variables to produce a sample frame. Then, the code goes out and scrapes websites.  With some reasonable assurances that the data are of good quality (and don't cost an arm and a leg!), we are able to move to analysis.  This project covers all aspects of this journey, but not everything is automated.  Rather, what you'll find is a famework covering seven main steps in the research design, as follows.  I anticipate the first few steps to be of most interest/help to other researchers looking to leverage the same frame generation and data collection process for their work.
 
-[Introduce graphic here] 
+![alt text](img/method_cycle.png "Web of Innovation method")
 
 1. The code assumes you start with a frame list of firms.  I got my initial list by identifying patent assignees in three high-technology areas, nanotechnology, synthetic biology, and renewable energy.  But you could produce a frame list in some other way, e.g., a list of firms that contract with the US government (via SAM.gov) or a list of firms that have published journal articles. 
 2. Next, we go out and get firm URL information by plugging in the firm name in a search engine, namely MS Bing.  How can we determine which firm URL is the right one, since the first firm URL in a search result list may produce false positives? We use machine learning methods to address this challenge. 
@@ -58,7 +58,7 @@ If there is anything missing from this list, please let me know.
 
 How can we scale up and run multiple crawlers on the cloud?  This diagram shows a simple solution.  It also highlights different configurations of EC2 image types to build a cluster of loosely connected crawlers. 
 
-[INSERT GRAPHIC HERE]
+![alt text](img/aws_architecture.png "Web of Innovation method")
 
 ## 5. Running code for specific steps in the research design method
 
