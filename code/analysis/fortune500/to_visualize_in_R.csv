@@ -1,0 +1,112 @@
+,Unnamed: 0,firm_name,url,li_emps,median_gw_emps,emp_diff,max_emps,size_state,state_diff,base_domain,subsidiary_adjust,clnd_name_x,fg500_match,clnd_fg500,rank,name,emps,clnd_name_y
+0,419,Hon Hai Precision Industry Co.,foxconn.com/,224.0,503500.0,503276.0,503500.0,FirmSize.LARGE_FIRM,2,foxconn.com,0,Hon Hai Precision Industry Co,Hon Hai Precision Industry,Hon Hai Precision Industry,23,Hon Hai Precision Industry,"667,680",Hon Hai Precision Industry
+1,1135,Tata Consultancy Services Limited,tcs.com/,380007.0,394998.0,14991.0,394998.0,FirmSize.LARGE_FIRM,0,tcs.com,0,Tata Consultancy Services Limited,Tata Motors,Tata Motors,265,Tata Motors,"81,090",Tata Motors
+2,504,Hitachi,hitachi.com/,10457.0,319565.5,309108.5,319565.5,FirmSize.LARGE_FIRM,0,hitachi.com,0,Hitachi,Hitachi,Hitachi,102,Hitachi,"295,941",Hitachi
+3,439,GENERAL ELECTRIC COMPANY,ge.com/,2534.0,313000.0,310466.0,313000.0,FirmSize.LARGE_FIRM,0,ge.com,0,GENERAL ELECTRIC COMPANY,General Electric,General Electric,21,General Electric,"283,000",General Electric
+4,976,Samsung Electronics,samsung.com/us/,85449.0,171578.0,86129.0,308745.0,FirmSize.LARGE_FIRM,0,samsung.com,1,Samsung Electronics,Samsung Electronics,Samsung Electronics,15,Samsung Electronics,"309,630",Samsung Electronics
+6,124,AT&T Corporation,att.com/,238038.0,273210.0,35172.0,273210.0,FirmSize.LARGE_FIRM,0,att.com,0,ATT,ATT,ATT,9,AT&T,"268,220",ATT
+7,453,Sumitomo Electric Industries,global-sei.com/,1151.0,240308.5,239157.5,240308.5,FirmSize.LARGE_FIRM,0,global-sei.com,0,Sumitomo Electric Industries,Sumitomo Electric Industries,Sumitomo Electric Industries,437,Sumitomo Electric Industries,"272,796",Sumitomo Electric Industries
+8,1021,Siemens Aktiengesellschaft ,siemens.com/global/en/home.html,219450.0,,,227750.0,FirmSize.LARGE_FIRM,5,siemens.com,1,Siemens Aktiengesellschaft,Siemens,Siemens,70,Siemens,"379,000",Siemens
+12,517,Hewlett Packard Enterprise Development LP,hpe.com/us/en/home.html,212204.0,60000.0,152204.0,212204.0,FirmSize.LARGE_FIRM,0,hpe.com,0,Hewlett Packard Enterprise Development LP,Hewlett Packard Enterprise,Hewlett Packard Enterprise,102,Hewlett Packard Enterprise,"60,000",Hewlett Packard Enterprise
+14,1222,United Technologies Corporation,utc.com/,7892.0,204700.0,196808.0,204700.0,FirmSize.LARGE_FIRM,0,utc.com,0,United,United Technologies,United,46,United Technologies,"240,200",United
+15,185,Robert Bosch GmbH,bosch.com/,2483.0,200282.5,197799.5,200282.5,FirmSize.LARGE_FIRM,0,bosch.com,0,Robert Bosch,Bosch Group,Bosch,77,Bosch Group,"409,881",Bosch
+16,533,International Business Machines Corporation,ibm.com/us-en/,16.0,183725.0,183709.0,183725.0,FirmSize.LARGE_FIRM,3,ibm.com,0,International Business Machines,International Business Machines,International Business Machines,114,International Business Machines,"381,100",International Business Machines
+17,800,Nokia Corporation,nokia.com/,1425.0,125865.5,124440.5,172406.0,FirmSize.LARGE_FIRM,0,nokia.com,1,Nokia,Nokia,Nokia,466,Nokia,"103,083",Nokia
+19,676,Magna International Inc.,magna.com/,189.0,168000.0,167811.0,168000.0,FirmSize.LARGE_FIRM,2,magna.com,0,Magna,Magna,Magna,299,Magna International,"174,000",Magna
+20,262,Continental Manufacturing,continentalcommercialproducts.com/,11.0,162636.5,162625.5,162636.5,FirmSize.LARGE_FIRM,3,continentalcommercialproducts.com,0,Continental Manufacturing,Continental,Continental,205,Continental,"243,226",Continental
+21,989,Schneider Electric USA,schneider-electric.us/en/,,144001.0,,144001.0,FirmSize.LARGE_FIRM,5,schneider-electric.us,0,Schneider Electric USA,Schneider Electric,Schneider Electric,411,Schneider Electric,"137,534",Schneider Electric
+22,192,Bridgestone Corporation,bridgestone.com/,1241.0,142669.0,141428.0,142669.0,FirmSize.LARGE_FIRM,0,bridgestone.com,0,Bridgestone,Bridgestone,Bridgestone,374,Bridgestone,"143,509",Bridgestone
+23,425,Fujitsu Limited,fujitsu.com/global/,2070.0,140000.0,137930.0,140000.0,FirmSize.LARGE_FIRM,0,fujitsu.com,1,Fujitsu Limited,Fujitsu,Fujitsu,349,Fujitsu,"132,138",Fujitsu
+25,599,Johnson Controls Technology Company,johnsoncontrols.com/about-us/our-company,57744.0,139000.0,81256.0,139000.0,FirmSize.LARGE_FIRM,0,johnsoncontrols.com,0,Johnson Controls Technology Company,Johnson Controls International,Johnson Controls,399,Johnson Controls International,"122,000",Johnson Controls
+26,845,Oracle International Corporation,oracle.com/index.html,410.0,137000.0,136590.0,137000.0,FirmSize.LARGE_FIRM,1,oracle.com,0,Oracle,Oracle,Oracle,81,Oracle,"137,000",Oracle
+27,731,Mitsubishi Electric Corporation,mitsubishielectric.com/,1035.0,136930.0,135895.0,136930.0,FirmSize.LARGE_FIRM,0,mitsubishielectric.com,0,Mitsubishi Electric,Mitsubishi Electric,Mitsubishi Electric,300,Mitsubishi Electric,"145,817",Mitsubishi Electric
+28,779,ABB Technology Ltd.,new.abb.com/about/technology,4.0,134800.0,134796.0,134800.0,FirmSize.LARGE_FIRM,4,new.abb.com,1,ABB Technology,ABB,ABB,328,ABB,"146,600",ABB
+30,598,Johnson & Johnson Consumer Companies,jnj.com/healthcare-products/consumer,86737.0,134000.0,47263.0,134000.0,FirmSize.LARGE_FIRM,0,jnj.com,0,Johnson  Johnson Consumer Companies,Johnson & Johnson,Johnson  Johnson,37,Johnson & Johnson,"135,100",Johnson  Johnson
+31,530,Hyundai Motor Company,hyundaiusa.com/,253.0,133731.5,133478.5,133731.5,FirmSize.LARGE_FIRM,1,hyundaiusa.com,0,Hyundai Motor Company,Hyundai Motor,Hyundai Motor,94,Hyundai Motor,"122,217",Hyundai Motor
+32,1164,Disney Enterprises,thewaltdisneycompany.com/,3.0,133000.0,132997.0,133000.0,FirmSize.LARGE_FIRM,4,thewaltdisneycompany.com,0,Disney Enterprises,Walt Disney,Walt Disney,53,Walt Disney,"201,000",Walt Disney
+33,513,Honeywell International Inc.,honeywell.com/,9.0,131000.0,130991.0,131000.0,FirmSize.LARGE_FIRM,4,honeywell.com,0,Honeywell,Honeywell,Honeywell,77,Honeywell International,"114,000",Honeywell
+34,1011,Shell Oil Company,shell.us/,128776.0,,,128776.0,FirmSize.LARGE_FIRM,5,shell.us,0,Shell Oil Company,Royal Dutch Shell,Royal Dutch Shell,3,Royal Dutch Shell,"81,000",Royal Dutch Shell
+35,809,Novartis AG,novartis.com/,85031.0,125000.0,39969.0,125000.0,FirmSize.LARGE_FIRM,0,novartis.com,0,Novartis AG,Novartis,Novartis,201,Novartis,"125,161",Novartis
+36,91,Apple Inc.,apple.com/,,123000.0,,123000.0,FirmSize.LARGE_FIRM,5,apple.com,0,Apple,Apple,Apple,3,Apple,"132,000",Apple
+37,879,Pfizer Inc.,pfizer.com/,117107.0,90200.0,26907.0,117107.0,FirmSize.LARGE_FIRM,0,pfizer.com,0,Pfizer,Pfizer,Pfizer,61,Pfizer,"92,400",Pfizer
+38,464,GENERAL MOTORS LLC,gm.com/,116648.0,,,116648.0,FirmSize.LARGE_FIRM,5,gm.com,0,GENERAL MOTORS,General Motors,General Motors,13,General Motors,"173,000",General Motors
+39,984,Sanofi,sanofi.com/en/,76541.0,106566.0,30025.0,106566.0,FirmSize.LARGE_FIRM,0,sanofi.com,0,Sanofi,Sanofi,Sanofi,288,Sanofi,"104,226",Sanofi
+40,144,BASF,basf.com/,,105504.0,,105504.0,FirmSize.LARGE_FIRM,5,basf.com,1,BASF,BASF,BASF,115,BASF,"122,404",BASF
+43,771,NEC Corporation,nec.com/,8430.0,100914.0,92484.0,100914.0,FirmSize.LARGE_FIRM,0,nec.com,0,NEC,NEC,NEC,470,NEC,"110,595",NEC
+44,1218,Canon,usa.canon.com/internet/portal/us/home,,100638.0,,100638.0,FirmSize.LARGE_FIRM,5,usa.canon.com,0,Canon,Canon,Canon,345,Canon,"195,056",Canon
+46,662,Lockheed Martin Corporation,lockheedmartin.com/en-us/index.html,92618.0,100000.0,7382.0,100000.0,FirmSize.LARGE_FIRM,0,lockheedmartin.com,0,Lockheed Martin,Lockheed Martin,Lockheed Martin,60,Lockheed Martin,"105,000",Lockheed Martin
+47,733,Abbott Molecular Inc.,molecular.abbott/,243.0,99000.0,98757.0,99000.0,FirmSize.LARGE_FIRM,2,molecular.abbott,1,Abbott Molecular,Abbott Laboratories,Abbott Laboratories,103,Abbott Laboratories,"103,000",Abbott Laboratories
+48,880,The Procter & Gamble Company,pg.com/,98781.0,95000.0,3781.0,98781.0,FirmSize.LARGE_FIRM,0,pg.com,0,The Procter  Gamble Company,Procter  Gamble,Procter  Gamble,45,Procter & Gamble,"92,000",Procter  Gamble
+49,565,Intel Corporation,intel.com/content/us/en/homepage.html,3.0,96350.0,96347.0,96350.0,FirmSize.LARGE_FIRM,4,intel.com,0,Intel,Intel,Intel,43,Intel,"107,400",Intel
+50,1042,Hynix Semiconductor Inc.,skhynix.com/eng/index.jsp,143.0,95600.0,95457.0,95600.0,FirmSize.LARGE_FIRM,2,skhynix.com,1,Hynix Semiconductor,SK Hynix,SK Hynix,335,SK Hynix,"33,000",SK Hynix
+52,870,Pegatron Corporation,pegatroncorp.com/,5060.0,91797.0,86737.0,91797.0,FirmSize.LARGE_FIRM,0,pegatroncorp.com,0,Pegatron,Pegatron,Pegatron,259,Pegatron,"156,477",Pegatron
+53,5,Google Inc.,abc.xyz/,8.0,85050.0,85042.0,85050.0,FirmSize.LARGE_FIRM,4,abc.xyz,0,Google,Alphabet,Alphabet,15,Alphabet,"98,771",Alphabet
+54,805,Northrop Grumman Systems Corporation,northropgrumman.com/,73982.0,70000.0,3982.0,73982.0,FirmSize.LARGE_FIRM,0,northropgrumman.com,0,Northrop Grumman Systems,Northrop Grumman,Northrop Grumman,108,Northrop Grumman,"85,000",Northrop Grumman
+55,235,Chevron U.S.A. Inc.,chevron.com/,73172.0,51900.0,21272.0,73172.0,FirmSize.LARGE_FIRM,0,chevron.com,0,Chevron USA,Chevron,Chevron,11,Chevron,"48,600",Chevron
+56,371,EMC Corporation,emcins.com/,1644.0,72000.0,70356.0,72000.0,FirmSize.LARGE_FIRM,0,emcins.com,0,EMC,EMCOR,EMCOR,375,EMCOR Group,"33,000",EMCOR
+57,960,Roche Molecular Systems,roche.com/,70192.0,400.0,69792.0,70192.0,FirmSize.LARGE_FIRM,1,roche.com,1,Roche Molecular Systems,Roche Group,Roche,163,Roche Group,"94,442",Roche
+60,793,Nissan Motor Co.,nissan-global.com/EN/,35422.0,68770.0,33348.0,68770.0,FirmSize.LARGE_FIRM,0,nissan-global.com,0,Nissan Motor Co,Nissan Motor,Nissan Motor,66,Nissan Motor,"148,513",Nissan Motor
+61,470,The Goodyear Tire & Rubber Company,goodyear.com/,19074.0,64000.0,44926.0,64000.0,FirmSize.LARGE_FIRM,0,goodyear.com,0,The Goodyear Tire  Rubber Company,Goodyear Tire  Rubber,Goodyear Tire  Rubber,203,Goodyear Tire & Rubber,"64,000",Goodyear Tire  Rubber
+62,937,Raytheon Company,raytheon.com/,48250.0,64000.0,15750.0,64000.0,FirmSize.LARGE_FIRM,0,raytheon.com,1,Raytheon Company,Raytheon,Raytheon,114,Raytheon,"67,000",Raytheon
+64,300,Daikin Industries,daikin.com/,402.0,63251.5,62849.5,63251.5,FirmSize.LARGE_FIRM,1,daikin.com,0,Daikin Industries,Mohawk Industries,Mohawk Industries,315,Mohawk Industries,"42,100",Mohawk Industries
+65,273,ExxonMobil Upstream Research Company,corporate.exxonmobil.com/,62362.0,1000.0,61362.0,62362.0,FirmSize.LARGE_FIRM,0,corporate.exxonmobil.com,1,ExxonMobil Upstream Research Company,Exxon Mobil,Exxon Mobil,2,Exxon Mobil,"71,000",Exxon Mobil
+67,1,3M Innovative Properties Company,3m.com/,60593.0,,,60593.0,FirmSize.LARGE_FIRM,5,3m.com,0,3M Innovative Properties Company,3M,3M,95,3M,"93,516",3M
+68,1274,Xerox Corporation,xerox.com/,59211.0,34250.0,24961.0,59211.0,FirmSize.LARGE_FIRM,0,xerox.com,0,Xerox,Xerox,Xerox,318,Xerox,"32,400",Xerox
+69,153,Becton,bd.com/,24795.0,58982.5,34187.5,58982.5,FirmSize.LARGE_FIRM,0,bd.com,0,Becton,Becton Dickinson,Becton Dickinson,195,Becton Dickinson,"76,032",Becton Dickinson
+70,25,adidas AG,adidas.com/us/,36453.0,56888.0,20435.0,56888.0,FirmSize.LARGE_FIRM,0,adidas.com,0,adidas AG,Adidas,Adidas,481,Adidas,"57,016",Adidas
+71,594,JFE STEEL CORPORATION,jfe-steel.co.jp/en/,23.0,51526.0,51503.0,51526.0,FirmSize.LARGE_FIRM,3,jfe-steel.co.jp,0,JFE STEEL,JFE Holdings,JFE Holdings,356,JFE Holdings,"62,083",JFE Holdings
+73,1046,Schlumberger Technology Corporation,slb.com/,36.0,50978.5,50942.5,50978.5,FirmSize.LARGE_FIRM,3,slb.com,0,Schlumberger Technology,Schlumberger,Schlumberger,379,Schlumberger,"100,000",Schlumberger
+74,587,Illinois Tool Works,itw.com/,5604.0,50000.0,44396.0,50000.0,FirmSize.LARGE_FIRM,0,itw.com,0,Illinois Tool Works,Illinois Tool Works,Illinois Tool Works,214,Illinois Tool Works,"48,000",Illinois Tool Works
+75,355,Ecolab Inc.,ecolab.com/,24443.0,48400.0,23957.0,48400.0,FirmSize.LARGE_FIRM,0,ecolab.com,1,Ecolab,Ecolab,Ecolab,215,Ecolab,"49,000",Ecolab
+76,276,PPG Industries Ohio,corporate.ppg.com/Home.aspx,,47200.0,,47200.0,FirmSize.LARGE_FIRM,5,corporate.ppg.com,0,PPG Industries Ohio,PPG Industries,PPG Industries,205,PPG Industries,"47,300",PPG Industries
+77,150,Baxter Healthcare SA,baxter.com/,25090.0,,,47000.0,FirmSize.LARGE_FIRM,5,baxter.com,1,Baxter Healthcare SA,Baxter International,Baxter,286,Baxter International,"50,000",Baxter
+79,1199,Taiwan Semiconductor Manufacturing Company,tsmc.com/english/default.htm,9.0,46968.0,46959.0,46968.0,FirmSize.LARGE_FIRM,4,tsmc.com,0,Taiwan Semiconductor Manufacturing Company,Taiwan Semiconductor Manufacturing,Taiwan Semiconductor Manufacturing,363,Taiwan Semiconductor Manufacturing,"48,752",Taiwan Semiconductor Manufacturing
+80,327,Dow Global Technologies Inc.,dow.com/en-us,6.0,,,46200.0,FirmSize.LARGE_FIRM,1,dow.com,1,Dow Global,SP Global,SP Global,470,S&P Global,"21,200",SP Global
+81,331,Dow Corning Corporation,dow.com/en-us/dow-corning-integration,35616.0,46200.0,10584.0,46200.0,FirmSize.LARGE_FIRM,0,dow.com,1,Dow Corning,Corning,Corning,279,Corning,"51,500",Corning
+82,582,Quest Diagnostics Investments Incorporated,ir.questdiagnostics.com/,20531.0,45000.0,24469.0,45000.0,FirmSize.LARGE_FIRM,0,ir.questdiagnostics.com,0,Quest Diagnostics Investments,Quest Diagnostics,Quest Diagnostics,404,Quest Diagnostics,"46,000",Quest Diagnostics
+83,646,LG Electronics Inc.,lg.com/us,44484.0,,,44484.0,FirmSize.LARGE_FIRM,5,lg.com,0,LG Electronics,LG Electronics,LG Electronics,185,LG Electronics,"72,600",LG Electronics
+84,339,E. I. du Pont de Nemours and Company,dupont.com/,33909.0,,,44000.0,FirmSize.LARGE_FIRM,5,dupont.com,1,E I du Pont de Nemours and Company,DuPont de Nemours,DuPont de Nemours,35,DuPont de Nemours,"98,000",DuPont de Nemours
+87,1160,Life Technologies Corporation,thermofisher.com/us/en/home.html,15.0,,,39750.0,FirmSize.LARGE_FIRM,2,thermofisher.com,1,Life,Thermo Fisher Scientific,Thermo Fisher Scientific,124,Thermo Fisher Scientific,"69,200",Thermo Fisher Scientific
+89,242,Cisco Technology,cisco.com/,14.0,39200.0,39186.0,39200.0,FirmSize.LARGE_FIRM,3,cisco.com,0,Cisco Technology,Cisco Systems,Cisco Systems,64,Cisco Systems,"74,200",Cisco Systems
+90,1093,Sumitomo Rubber Industries,sumitomorubber-usa.com/,262.0,36650.0,36388.0,36650.0,FirmSize.LARGE_FIRM,1,sumitomorubber-usa.com,0,Sumitomo Rubber Industries,Sumitomo,Sumitomo,231,Sumitomo,"65,662",Sumitomo
+91,1069,Sony Corporation,sony.com/,35467.0,10612.0,24855.0,35467.0,FirmSize.LARGE_FIRM,0,sony.com,0,Sony,Sony,Sony,116,Sony,"114,400",Sony
+92,64,ALSTOM Technology Ltd,alstom.com/,30819.0,34500.0,3681.0,34500.0,FirmSize.LARGE_FIRM,0,alstom.com,0,ALSTOM Technology,DXC Technology,DXC Technology,122,DXC Technology,"150,000",DXC Technology
+93,719,Micron Technology,micron.com/,16572.0,34100.0,17528.0,34100.0,FirmSize.LARGE_FIRM,0,micron.com,0,Micron Technology,Micron Technology,Micron Technology,105,Micron Technology,"36,000",Micron Technology
+94,555,American Air Liquide,industry.airliquide.us/,28694.0,32900.0,4206.0,32900.0,FirmSize.LARGE_FIRM,0,industry.airliquide.us,0,American Air Liquide,American Airlines,American Airlines,68,American Airlines Group,"128,900",American Airlines
+95,27,Archer Daniels Midland Company,adm.com/,12644.0,31800.0,19156.0,31800.0,FirmSize.LARGE_FIRM,0,adm.com,0,Archer Daniels Midland Company,Archer Daniels Midland,Archer Daniels Midland,49,Archer Daniels Midland,"31,600",Archer Daniels Midland
+96,964,Rockwell Collins,rockwellcollins.com/,17427.0,31200.0,13773.0,31200.0,FirmSize.LARGE_FIRM,0,rockwellcollins.com,0,Rockwell Collins,Rockwell Collins,Rockwell Collins,350,Rockwell Collins,"31,200",Rockwell Collins
+97,828,Freescale Semiconductor,nxp.com/,8227.0,17300.0,9073.0,30100.0,FirmSize.LARGE_FIRM,0,nxp.com,1,Freescale Semiconductor,ON Semiconductor,ON Semiconductor,485,ON Semiconductor,"35,700",ON Semiconductor
+98,136,Avery Dennison Corporation,averydennison.com/,13807.0,30000.0,16193.0,30000.0,FirmSize.LARGE_FIRM,0,averydennison.com,0,Avery Dennison,Avery Dennison,Avery Dennison,425,Avery Dennison,"30,000",Avery Dennison
+99,187,Boston Scientific Scimed,bostonscientific.com/en-US/Home.html,29785.0,29000.0,785.0,29785.0,FirmSize.LARGE_FIRM,0,bostonscientific.com,0,Boston Scientific Scimed,Boston Scientific,Boston Scientific,319,Boston Scientific,"32,000",Boston Scientific
+100,522,Texas Instruments Deutschland GmbH,ti.com/,25182.0,29714.0,4532.0,29714.0,FirmSize.LARGE_FIRM,0,ti.com,1,Texas Instruments Deutschland,Texas Instruments,Texas Instruments,199,Texas Instruments,"29,888",Texas Instruments
+102,182,Bristol-Myers Squibb Company,bms.com/,29587.0,,,29587.0,FirmSize.LARGE_FIRM,5,bms.com,0,Bristol-Myers Squibb Company,Bristol-Myers Squibb,Bristol-Myers Squibb,138,Bristol-Myers Squibb,"23,300",Bristol-Myers Squibb
+104,4,AbbVie Inc.,abbvie.com/,26260.0,29000.0,2740.0,29000.0,FirmSize.LARGE_FIRM,0,abbvie.com,0,AbbVie,AbbVie,AbbVie,96,AbbVie,"30,000",AbbVie
+105,302,Dana Corporation,dana.com/,9131.0,27500.0,18369.0,27500.0,FirmSize.LARGE_FIRM,0,dana.com,0,Dana,Dana,Dana,373,Dana,"30,900",Dana
+106,512,Honda Motor Co.,honda.com/,8107.0,27500.0,19393.0,27500.0,FirmSize.LARGE_FIRM,0,honda.com,0,Honda Motor Co,Honda Motor,Honda Motor,34,Honda Motor,"219,722",Honda Motor
+107,70,Amgen Fremont Inc.,amgen.com/,27187.0,,,27187.0,FirmSize.LARGE_FIRM,5,amgen.com,1,Amgen Fremont,Amgen,Amgen,129,Amgen,"21,500",Amgen
+109,857,PACCAR Inc,paccar.com/,4056.0,25000.0,20944.0,25000.0,FirmSize.LARGE_FIRM,0,paccar.com,0,PACCAR,Paccar,Paccar,130,Paccar,"28,000",Paccar
+110,254,Colgate-Palmolive Company,colgatepalmolive.com/en-us,24464.0,,,24464.0,FirmSize.LARGE_FIRM,5,colgatepalmolive.com,0,Colgate-Palmolive Company,Colgate-Palmolive,Colgate-Palmolive,202,Colgate-Palmolive,"34,500",Colgate-Palmolive
+111,610,Kia Motors Corporation ,kia.com/us/en/home,2819.0,22346.0,19527.0,22346.0,FirmSize.LARGE_FIRM,0,kia.com,0,Kia Motors,Kia Motors,Kia Motors,227,Kia Motors,"52,578",Kia Motors
+112,228,Saint-Gobain Ceramics & Plastics,ceramicmaterials.saint-gobain.com/,22125.0,,,22125.0,FirmSize.LARGE_FIRM,5,ceramicmaterials.saint-gobain.com,0,Saint-Gobain Ceramics  Plastics,Saint-Gobain,Saint-Gobain,226,Saint-Gobain,"181,001",Saint-Gobain
+113,963,Rockwell Automation Technologies,rockwellautomation.com/site-selection.html,447.0,22000.0,21553.0,22000.0,FirmSize.LARGE_FIRM,1,rockwellautomation.com,0,Rockwell Automation,Rockwell Automation,Rockwell Automation,452,Rockwell Automation,"23,000",Rockwell Automation
+114,260,Conoco Inc.,conoco.com/,21586.0,20000.0,1586.0,21586.0,FirmSize.LARGE_FIRM,0,conoco.com,0,Conoco,ConocoPhillips,ConocoPhillips,86,ConocoPhillips,"10,800",ConocoPhillips
+115,29,Adobe Systems Incorporated,adobe.com/,21046.0,17973.0,3073.0,21046.0,FirmSize.LARGE_FIRM,0,adobe.com,0,Adobe Systems,Adobe,Adobe,339,Adobe,"21,357",Adobe
+116,865,Parker-Hannifin Corporation,parker.com/,19843.0,,,19843.0,FirmSize.LARGE_FIRM,5,parker.com,0,Parker-Hannifin,Parker-Hannifin,Parker-Hannifin,218,Parker-Hannifin,"57,170",Parker-Hannifin
+117,978,Samsung SDI Co.,samsungsdi.com/,144.0,19827.5,19683.5,19827.5,FirmSize.LARGE_FIRM,2,samsungsdi.com,0,Samsung SDI Co,Samsung CT,Samsung CT,444,Samsung C&T,"17,274",Samsung CT
+118,1094,Sun Chemical Corporation,sunchemical.com/,4313.0,19350.0,15037.0,19350.0,FirmSize.LARGE_FIRM,0,sunchemical.com,0,Sun Chemical,Eastman Chemical,Eastman Chemical,313,Eastman Chemical,"14,595",Eastman Chemical
+119,382,ENI S.p.A.,eni.com/en_IT/home.page,30.0,5172.0,5142.0,18785.0,FirmSize.LARGE_FIRM,3,eni.com,1,ENI SpA,ENI,ENI,83,ENI,"31,701",ENI
+121,92,Applied Materials,appliedmaterials.com/,4.0,18400.0,18396.0,18400.0,FirmSize.LARGE_FIRM,4,appliedmaterials.com,1,Applied Materials,Applied Materials,Applied Materials,182,Applied Materials,"21,000",Applied Materials
+124,687,Markel Corporation,markelcorp.com/,2385.0,15600.0,13215.0,15600.0,FirmSize.LARGE_FIRM,0,markelcorp.com,0,Markel,Markel,Markel,441,Markel,"17,400",Markel
+125,80,Analog Devices,analog.com/en/index.html,10540.0,15300.0,4760.0,15300.0,FirmSize.LARGE_FIRM,0,analog.com,0,Analog Devices,Analog Devices,Analog Devices,472,Analog Devices,"15,800",Analog Devices
+126,48,AIR PRODUCTS AND CHEMICALS,airproducts.com/,11335.0,15225.0,3890.0,15225.0,FirmSize.LARGE_FIRM,0,airproducts.com,0,AIR PRODUCTS AND CHEMICALS,Air Products & Chemicals,Air Products  Chemicals,344,Air Products & Chemicals,"16,150",Air Products  Chemicals
+128,1017,Pansonic Corporation,shop.panasonic.com/,13084.0,9992.5,3091.5,13084.0,FirmSize.LARGE_FIRM,0,shop.panasonic.com,0,Pansonic,Panasonic,Panasonic,131,Panasonic,"271,869",Panasonic
+129,775,NetApp,netapp.com/us/index.aspx,11816.0,10100.0,1716.0,11816.0,FirmSize.LARGE_FIRM,0,netapp.com,0,NetApp,NetApp,NetApp,483,NetApp,"10,300",NetApp
+130,826,Nvidia Corporation,nvidia.com/page/home.html,4.0,11528.0,11524.0,11528.0,FirmSize.LARGE_FIRM,4,nvidia.com,0,Nvidia,Nvidia,Nvidia,268,Nvidia,"13,277",Nvidia
+133,449,Gilead Sciences,gilead.com/,11289.0,10000.0,1289.0,11289.0,FirmSize.LARGE_FIRM,0,gilead.com,0,Gilead Sciences,Gilead Sciences,Gilead Sciences,139,Gilead Sciences,"11,000",Gilead Sciences
+135,313,Denso Corporation,denso.com/global/en/,10728.0,9952.0,776.0,10728.0,FirmSize.LARGE_FIRM,0,denso.com,0,Denso,Denso,Denso,230,Denso,"171,992",Denso
+136,635,Lam Research Corporation,lamresearch.com/,8135.0,9400.0,1265.0,9400.0,FirmSize.LARGE_FIRM,0,lamresearch.com,1,Lam Research,Lam Research,Lam Research,287,Lam Research,"10,900",Lam Research
+137,932,Dell Software Inc.,quest.com,8988.0,,,8988.0,FirmSize.LARGE_FIRM,5,quest.com,0,Dell Software,Dell Technologies,Dell,34,Dell Technologies,"157,000",Dell
+138,482,GlaxoSmithKline Biologicals,gsk.com/,26.0,8815.0,8789.0,8815.0,FirmSize.LARGE_FIRM,3,gsk.com,0,GlaxoSmithKline Biologicals,GlaxoSmithKline,GlaxoSmithKline,296,GlaxoSmithKline,"95,490",GlaxoSmithKline
+139,942,Regeneron Pharmaceuticals,regeneron.com/,7976.0,6200.0,1776.0,7976.0,FirmSize.LARGE_FIRM,0,regeneron.com,0,Regeneron Pharmaceuticals,Regeneron Pharmaceuticals,Regeneron Pharmaceuticals,450,Regeneron Pharmaceuticals,"7,400",Regeneron Pharmaceuticals
+140,221,Celanese Corporation,celanese.com/,,7592.0,,7592.0,FirmSize.LARGE_FIRM,5,celanese.com,1,Celanese,Celanese,Celanese,426,Celanese,"7,684",Celanese
+142,1098,SunEdison,sunedison.com/,866.0,7280.0,6414.0,7280.0,FirmSize.LARGE_FIRM,0,sunedison.com,0,SunEdison,Edison,Edison,255,Edison International,"12,574",Edison

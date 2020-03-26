@@ -1,1 +1,1 @@
-c("start|state","develop|custom|solut|provid|servic", "power|solar|energi|system|manufactur", "establish|group|year|award|intern", "channel|report|law|arab|ani", "paper|imag|system|machin|process", "univers|manag|engin|develop|energi")
+c("start|state","system|power|solar|energi|design", "manag|univers|develop|presid|engin", "oil|gas|fuel|plant|emiss", "develop|work|manag|energi|custom", "inform|board|report|ani|provid", "channel|launch|arab|award|world")

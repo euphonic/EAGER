@@ -1,0 +1,1500 @@
+1
+Walmart
+2,200,000
+2
+Sinopec Group
+619,151
+3
+Royal Dutch Shell
+81,000
+4
+China National Petroleum
+1,382,401
+5
+State Grid
+917,717
+6
+Saudi Aramco
+76,418
+7
+BP
+73,000
+8
+Exxon Mobil
+71,000
+9
+Volkswagen
+664,496
+10
+Toyota Motor
+370,870
+11
+Apple
+132,000
+12
+Berkshire Hathaway
+389,000
+13
+Amazon.com
+647,500
+14
+UnitedHealth Group
+300,000
+15
+Samsung Electronics
+309,630
+16
+Glencore
+85,504
+17
+McKesson
+70,000
+18
+Daimler
+298,683
+19
+CVS Health
+295,000
+20
+Total
+104,460
+21
+China State Construction Engineering
+302,827
+22
+Trafigura Group
+4,316
+23
+Hon Hai Precision Industry
+667,680
+24
+EXOR Group
+314,790
+25
+AT&T
+268,220
+26
+Industrial & Commercial Bank of China
+449,296
+27
+AmerisourceBergen
+20,500
+28
+Chevron
+48,600
+29
+Ping An Insurance
+376,900
+30
+Ford Motor
+199,000
+31
+China Construction Bank
+366,996
+32
+General Motors
+173,000
+33
+Mitsubishi
+79,994
+34
+Honda Motor
+219,722
+35
+Costco Wholesale
+194,000
+36
+Agricultural Bank of China
+477,526
+37
+Alphabet
+98,771
+38
+Cardinal Health
+50,200
+39
+SAIC Motor
+147,738
+40
+Walgreens Boots Alliance
+299,000
+41
+JPMorgan Chase & Co.
+256,105
+42
+Gazprom
+466,100
+43
+Verizon Communications
+144,500
+44
+Bank of China
+310,119
+45
+Allianz
+142,460
+46
+AXA
+104,065
+47
+Kroger
+453,000
+48
+General Electric
+283,000
+49
+Fannie Mae
+7,400
+50
+Lukoil
+102,500
+51
+China Life Insurance
+175,077
+52
+Japan Post Holdings
+245,922
+53
+BMW Group
+134,682
+54
+Phillips 66
+14,200
+55
+China Railway Engineering Group
+307,992
+56
+China Mobile Communications
+462,046
+57
+Valero Energy
+10,261
+58
+Bank of America Corp.
+204,489
+59
+China Railway Construction
+356,326
+60
+Microsoft
+131,000
+61
+Huawei Investment & Holding
+188,000
+62
+Home Depot
+413,000
+63
+China National Offshore Oil
+93,601
+64
+Nippon Telegraph & Telephone
+303,351
+65
+Itochu
+139,157
+66
+Nissan Motor
+148,513
+67
+China Development Bank
+9,507
+68
+Boeing
+153,000
+69
+Wells Fargo
+258,700
+70
+Siemens
+379,000
+71
+Citigroup
+204,000
+72
+Marathon Petroleum
+60,350
+73
+SK Holdings
+104,374
+74
+Petrobras
+63,361
+75
+Comcast
+184,000
+76
+Nestlé
+308,000
+77
+Bosch Group
+409,881
+78
+Uniper
+11,828
+79
+Anthem
+63,900
+80
+China Resources
+421,274
+81
+Carrefour
+363,862
+82
+Dongfeng Motor
+167,528
+83
+ENI
+31,701
+84
+Dell Technologies
+157,000
+85
+Banco Santander
+194,015
+86
+Rosneft Oil
+308,000
+87
+China FAW Group
+142,451
+88
+Sinochem Group
+66,713
+89
+Enel
+69,272
+90
+Deutsche Telekom
+215,675
+91
+Crédit Agricole
+73,346
+92
+Assicurazioni Generali
+70,734
+93
+China Communications Construction
+178,572
+94
+Hyundai Motor
+122,217
+95
+Pemex
+131,108
+96
+Peugeot
+216,539
+97
+Pacific Construction Group
+387,525
+98
+SoftBank Group
+76,866
+99
+HSBC Holdings
+235,217
+100
+DuPont
+98,000
+101
+China Post Group
+935,191
+102
+Hitachi
+295,941
+103
+Tesco
+321,490
+104
+BNP Paribas
+197,162
+105
+JXTG Holdings
+40,695
+106
+Reliance Industries
+194,056
+107
+China Energy Investment
+338,472
+108
+State Farm Insurance Cos.
+56,788
+109
+Johnson & Johnson
+135,100
+110
+Electricité de France
+165,790
+111
+China Southern Power Grid
+289,735
+112
+China Minmetals
+199,442
+113
+Equinor
+20,525
+114
+International Business Machines
+381,100
+115
+BASF
+122,404
+116
+Sony
+114,400
+117
+Indian Oil
+35,442
+118
+AEON
+288,326
+119
+Amer International Group
+16,901
+120
+ArcelorMittal
+208,583
+121
+People's Insurance Co. of China
+198,457
+122
+Target
+360,000
+123
+Airbus
+133,671
+124
+Deutsche Post DHL Group
+499,018
+125
+Nippon Life Insurance
+89,198
+126
+Engie
+160,301
+127
+Royal Ahold Delhaize
+225,000
+128
+Freddie Mac
+6,621
+129
+Beijing Automotive Group
+127,163
+130
+PTT
+26,613
+131
+Panasonic
+271,869
+132
+United Parcel Service
+364,575
+133
+Lowe's
+245,000
+134
+COFCO
+117,842
+135
+Intel
+107,400
+136
+U.S. Postal Service
+565,802
+137
+CITIC Group
+287,500
+138
+China Evergrande Group
+131,694
+139
+JD.com
+178,927
+140
+China North Industries Group
+210,507
+141
+China Telecommunications
+403,014
+142
+MetLife
+48,000
+143
+Renault
+183,002
+144
+ChemChina
+138,652
+145
+Munich Re Group
+41,410
+146
+Procter & Gamble
+92,000
+147
+Marubeni
+46,711
+148
+United Technologies
+240,200
+149
+China Baowu Steel Group
+161,399
+150
+Bank of Communications
+92,714
+151
+Aviation Industry Corp. of China
+446,613
+152
+FedEx
+359,530
+153
+Dai-ichi Life Holdings
+62,938
+154
+PepsiCo
+267,000
+155
+Archer Daniels Midland
+31,600
+156
+Prudential Financial
+50,492
+157
+Mitsui
+43,993
+158
+Petronas
+48,001
+159
+Seven & I Holdings
+58,165
+160
+Oil & Natural Gas
+43,743
+161
+PowerChina
+185,269
+162
+Toyota Tsusho
+58,565
+163
+Roche Group
+94,442
+164
+Auchan Holding
+340,577
+165
+Albertsons Cos.
+267,000
+166
+Mitsubishi UFJ Financial Group
+119,390
+167
+Unilever
+154,848
+168
+Centene
+47,300
+169
+Sinopharm
+128,600
+170
+Walt Disney
+201,000
+171
+POSCO
+33,784
+172
+Sysco
+67,000
+173
+HP
+55,000
+174
+Société Générale
+140,250
+175
+Pertamina
+31,569
+176
+Telefónica
+120,138
+177
+Country Garden Holdings
+131,387
+178
+Tokyo Electric Power
+41,086
+179
+Humana
+41,600
+180
+Brookfield Asset Management
+100,750
+181
+Hengli Group
+81,350
+182
+Alibaba Group Holding
+101,958
+183
+RWE
+58,441
+184
+Facebook
+35,587
+185
+LG Electronics
+72,600
+186
+Nippon Steel Corporation
+115,878
+187
+Christian Dior
+141,914
+188
+China Merchants Bank
+74,590
+189
+Guangzhou Automobile Industry Group
+113,474
+190
+Caterpillar
+104,000
+191
+Itaú Unibanco Holding
+100,335
+192
+Anheuser-Busch InBev
+172,603
+193
+Korea Electric Power
+46,377
+194
+Energy Transfer
+11,768
+195
+Wesfarmers
+217,000
+196
+América Móvil
+194,431
+197
+Lockheed Martin
+105,000
+198
+Pfizer
+92,400
+199
+China Pacific Insurance (Group)
+107,741
+200
+Repsol
+22,735
+201
+Novartis
+125,161
+202
+Greenland Holding Group
+39,091
+203
+China National Building Material Group
+207,958
+204
+Goldman Sachs Group
+36,600
+205
+Continental
+243,226
+206
+Vinci
+211,233
+207
+Finatis
+218,923
+208
+Deutsche Bahn
+318,528
+209
+Sumitomo Mitsui Financial Group
+86,659
+210
+Alimentation Couche-Tard
+130,000
+211
+Shandong Energy Group
+160,064
+212
+Lenovo Group
+57,000
+213
+Industrial Bank
+59,659
+214
+HBIS Group
+118,656
+215
+ThyssenKrupp
+161,096
+216
+Shanghai Pudong Development Bank
+55,692
+217
+Vodafone Group
+98,996
+218
+Morgan Stanley
+60,348
+219
+JBS
+230,086
+220
+Zhejiang Geely Holding Group
+124,846
+221
+Banco Bradesco
+86,772
+222
+MS&AD Insurance Group Holdings
+41,467
+223
+Groupe BPCE
+100,245
+224
+Tokio Marine Holdings
+40,848
+225
+Cisco Systems
+74,200
+226
+Saint-Gobain
+181,001
+227
+Kia Motors
+52,578
+228
+Orange
+150,711
+229
+Cigna
+73,800
+230
+Denso
+171,992
+231
+Sumitomo
+65,662
+232
+China Minsheng Banking
+58,338
+233
+Woolworths Group
+201,522
+234
+Banco Bilbao Vizcaya Argentaria
+125,627
+235
+American International Group
+49,600
+236
+State Bank of India
+257,252
+237
+Tencent Holdings
+54,309
+238
+Zurich Insurance Group
+52,267
+239
+Deutsche Bank
+91,737
+240
+Bayer
+116,998
+241
+HCA Healthcare
+229,000
+242
+China Poly Group
+97,527
+243
+China Shipbuilding Industry
+165,274
+244
+China Merchants Group
+115,281
+245
+KDDI
+41,996
+246
+BHP Group
+27,161
+247
+Bunge
+31,000
+248
+CNP Assurances
+5,243
+249
+Wuchan Zhongda Group
+20,142
+250
+Sinomach
+147,099
+251
+Aluminum Corp. of China
+124,965
+252
+SABIC
+33,000
+253
+Volvo
+98,652
+254
+China Vanke
+104,300
+255
+Sberbank
+293,752
+256
+Royal Bank of Canada
+81,870
+257
+American Airlines Group
+128,900
+258
+Wilmar International
+90,000
+259
+Pegatron
+156,477
+260
+Delta Air Lines
+88,680
+261
+Hanwha
+58,070
+262
+China United Network Communications
+246,299
+263
+Shaanxi Yanchang Petroleum (Group)
+136,016
+264
+Charter Communications
+98,000
+265
+Tata Motors
+81,090
+266
+ZF Friedrichshafen
+148,969
+267
+Metro
+132,293
+268
+New York Life Insurance
+11,388
+269
+Banco do Brasil
+96,889
+270
+American Express
+59,000
+271
+Nationwide
+30,472
+272
+ACS
+195,461
+273
+Shandong Weiqiao Pioneering Group
+106,044
+274
+UBS Group
+66,888
+275
+Bharat Petroleum
+12,865
+276
+Best Buy
+125,000
+277
+Xiamen C&D
+24,016
+278
+Liberty Mutual Insurance Group
+50,000
+279
+China COSCO Shipping
+111,397
+280
+Jardine Matheson
+469,000
+281
+Shaanxi Coal & Chemical Industry
+120,095
+282
+Talanx
+20,780
+283
+China National Aviation Fuel Group
+13,181
+284
+Lufthansa Group
+115,882
+285
+Merck
+69,000
+286
+China Huaneng Group
+136,031
+287
+Bouygues
+129,275
+288
+Sanofi
+104,226
+289
+China Everbright Group
+70,000
+290
+Honeywell International
+114,000
+291
+Xiamen ITG Holding Group
+23,159
+292
+Iberdrola
+33,216
+293
+United Airlines Holdings
+92,000
+294
+Maersk Group
+84,404
+295
+Toronto-Dominion Bank
+84,383
+296
+GlaxoSmithKline
+95,490
+297
+TIAA
+17,643
+298
+Accenture
+459,000
+299
+Magna International
+174,000
+300
+Mitsubishi Electric
+145,817
+301
+Cedar Holdings Group
+31,547
+302
+Louis Dreyfus
+16,785
+303
+Rio Tinto Group
+47,458
+304
+Edeka Zentrale
+376,000
+305
+Caixa Econômica Federal
+84,952
+306
+Tyson Foods
+121,000
+307
+Oracle
+137,000
+308
+Allstate
+45,420
+309
+World Fuel Services
+5,000
+310
+ING Group
+53,768
+311
+Centrica
+31,780
+312
+Midea Group
+114,765
+313
+Fresenius
+276,750
+314
+Massachusetts Mutual Life Insurance
+9,844
+315
+Intesa Sanpaolo
+92,117
+316
+LyondellBasell Industries
+19,450
+317
+TJX
+270,000
+318
+Yankuang Group
+104,668
+319
+ConocoPhillips
+10,800
+320
+Barclays
+83,500
+321
+J. Sainsbury
+116,400
+322
+China Aerospace Science & Industry
+146,346
+323
+China Aerospace Science & Technology
+179,788
+324
+Meiji Yasuda Life Insurance
+42,950
+325
+George Weston
+197,000
+326
+SNCF Mobilités
+203,865
+327
+Daiwa House Industry
+44,947
+328
+ABB
+146,600
+329
+Deere
+74,413
+330
+Tech Data
+14,000
+331
+Power Corp. of Canada
+30,000
+332
+Swiss Re
+14,943
+333
+Suning.com Group
+130,455
+334
+Mitsubishi Heavy Industries
+80,744
+335
+SK Hynix
+33,000
+336
+Vale
+70,270
+337
+Enterprise Products Partners
+7,000
+338
+XMXYG
+10,350
+339
+Aisin Seiki
+119,732
+340
+Jiangsu Shagang Group
+31,290
+341
+Nike
+73,100
+342
+Publix Super Markets
+202,000
+343
+General Dynamics
+105,600
+344
+Exelon
+33,383
+345
+Canon
+195,056
+346
+Enbridge
+12,000
+347
+Jizhong Energy Group
+112,859
+348
+E.ON
+43,302
+349
+Fujitsu
+132,138
+350
+Mizuho Financial Group
+59,132
+351
+Mitsubishi Chemical Holdings
+72,020
+352
+CK Hutchison Holdings
+300,000
+353
+Lloyds Banking Group
+64,928
+354
+Idemitsu Kosan
+9,476
+355
+Poste Italiane
+132,388
+356
+JFE Holdings
+62,083
+357
+Suzuki Motor
+67,721
+358
+Jiangxi Copper
+23,194
+359
+CRRC Group
+187,959
+360
+Credit Suisse Group
+45,680
+361
+Tsingshan Holding Group
+56,088
+362
+State Power Investment
+124,678
+363
+Taiwan Semiconductor Manufacturing
+48,752
+364
+China Energy Engineering Group
+129,929
+365
+Quanta Computer
+112,421
+366
+Plains GP Holdings
+4,900
+367
+China South Industries Group
+198,932
+368
+Yango Longking Group
+21,849
+369
+Jinchuan Group
+27,594
+370
+China Electronics Technology Group
+179,636
+371
+Toshiba
+128,697
+372
+Prudential
+23,792
+373
+Commonwealth Bank of Australia
+45,753
+374
+Bridgestone
+143,509
+375
+China Electronics
+135,297
+376
+GS Caltex
+3,212
+377
+Sompo Holdings
+49,837
+378
+Sumitomo Life Insurance
+42,848
+379
+Schlumberger
+100,000
+380
+3M
+93,516
+381
+AbbVie
+30,000
+382
+Chubb
+32,700
+383
+CHS
+10,495
+384
+British American Tobacco
+63,877
+385
+Ansteel Group
+136,319
+386
+China Huadian
+97,629
+387
+Capital One Financial
+47,600
+388
+AIA Group
+22,000
+389
+Mazda Motor
+49,998
+390
+Compal Electronics
+82,374
+391
+Progressive
+37,346
+392
+DZ Bank
+28,682
+393
+Hyundai Mobis
+34,782
+394
+CPC
+15,712
+395
+Coca-Cola
+62,600
+396
+L'Oréal
+86,030
+397
+CRH
+89,831
+398
+Bank of Nova Scotia
+97,629
+399
+Johnson Controls International
+122,000
+400
+USAA
+33,689
+401
+Air France-KLM Group
+81,527
+402
+Shougang Group
+108,086
+403
+Compass Group
+595,841
+404
+Hewlett Packard Enterprise
+60,000
+405
+BT Group
+106,700
+406
+Inditex
+174,386
+407
+Veolia Environnement
+170,819
+408
+Abbott Laboratories
+103,000
+409
+Micron Technology
+36,000
+410
+PKN ORLEN Group
+21,282
+411
+Schneider Electric
+137,534
+412
+Phoenix Pharma
+29,631
+413
+Travelers Cos.
+30,400
+414
+Gree Electric Appliances
+88,800
+415
+Coop Group
+77,448
+416
+Northrop Grumman
+85,000
+417
+Suncor Energy
+12,480
+418
+Manulife Financial
+34,000
+419
+Medtronic
+98,003
+420
+Kansai Electric Power
+32,597
+421
+Arrow Electronics
+20,100
+422
+Philip Morris International
+77,400
+423
+Koç Holding
+92,631
+424
+Wistron
+82,955
+425
+UniCredit Group
+86,786
+426
+Samsung Life Insurance
+5,420
+427
+SAP
+96,498
+428
+La Poste
+233,076
+429
+Northwestern Mutual
+5,870
+430
+Naturgy Energy Group
+13,945
+431
+Migros Group
+79,913
+432
+Danone
+105,783
+433
+Westpac Banking
+35,029
+434
+KB Financial Group
+27,040
+435
+International Airlines Group
+64,734
+436
+Medipal Holdings
+15,623
+437
+Sumitomo Electric Industries
+272,796
+438
+China Datang
+93,800
+439
+Xinjiang Guanghui Industry Investment
+82,175
+440
+Subaru
+34,200
+441
+Anhui Conch Group
+55,380
+442
+Huaxia Life Insurance
+500,000
+443
+CFE
+91,369
+444
+Samsung C&T
+17,274
+445
+Adecco Group
+34,000
+446
+Randstad
+38,820
+447
+LafargeHolcim
+77,055
+448
+Haier Smart Home
+87,447
+449
+INTL FCStone
+1,701
+450
+Anglo American
+64,000
+451
+China Taiping Insurance Group
+75,341
+452
+Mapfre Group
+35,390
+453
+Chubu Electric Power
+30,321
+454
+PBF Energy
+3,266
+455
+Cathay Life Insurance
+38,694
+456
+Financière de l'Odet
+81,003
+457
+Australia & New Zealand Banking Group
+39,924
+458
+East Japan Railway
+85,718
+459
+OMV Group
+20,231
+460
+Raytheon
+67,000
+461
+TongLing Nonferrous Metals Group
+24,848
+462
+Shanxi LuAn Mining Group
+100,637
+463
+CJ Corp.
+64,832
+464
+Datong Coal Mine Group
+156,268
+465
+Shanxi Coking Coal Group
+199,872
+466
+Nokia
+103,083
+467
+Heineken Holding
+85,610
+468
+Xiaomi
+16,683
+469
+Yangquan Coal Industry Group
+129,150
+470
+NEC
+110,595
+471
+Fubon Financial Holding
+45,174
+472
+Kraft Heinz
+38,000
+473
+Hailiang Group
+19,510
+474
+Flex
+200,000
+475
+Xinxing Cathay International Group
+52,024
+476
+Emirates Group
+60,282
+477
+Ceconomy
+53,954
+478
+Michelin
+111,117
+479
+National Australia Bank
+33,283
+480
+Mondelez International
+80,000
+481
+Adidas
+57,016
+482
+Shanxi Jincheng Anthracite Coal Mining Group
+128,795
+483
+Rabobank Group
+41,861
+484
+Henan Energy & Chemical
+171,334
+485
+China General Technology
+34,752
+486
+U.S. Bancorp
+75,772
+487
+Macy's
+130,000
+488
+Fomento Económico Mexicano
+297,073
+489
+Dollar General
+135,000
+490
+LG Chem
+33,694
+491
+Onex
+217,000
+492
+Formosa Petrochemical
+5,285
+493
+Safran
+92,639
+494
+Achmea
+13,714
+495
+Rajesh Exports
+383
+496
+Nucor
+26,300
+497
+Bank of Montreal
+45,454
+498
+Taikang Insurance Group
+57,406
+499
+Ultrapar Holdings
+17,034
+500
+Air Liquide
+66,000
