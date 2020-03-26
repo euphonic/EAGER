@@ -6,7 +6,7 @@ certifi==2017.11.5
 cffi==1.11.2
 chardet==3.0.4
 constantly==15.1.0
-cryptography==2.1.2
+cryptography==2.3
 cssselect==1.0.1
 hyperlink==17.3.1
 google-search==1.0.2
