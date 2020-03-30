@@ -8,11 +8,11 @@ library(extrafont)
 # font_import()
 loadfonts(device = "pdf")
 library (ggplot2)
-library(rjags)
+# library(rjags)
 library(MVN)
 library(stats)
 # MacOS
-setwd("/Users/kg284kt/dev/EAGER/data/patents/measures")
+setwd("/Users/sanjay.k.aroraey.com/dev/EAGER/data/patents/measures")
 # load (".RData")
 
 # load data
@@ -37,6 +37,9 @@ in.lookup <- read.csv("assignee-2-patent-lookup.csv", header = TRUE, stringsAsFa
 
 in.eager_assignee <- read.csv("..//eager_assignee.csv", header = TRUE, stringsAsFactors = FALSE) 
 in.eager_assignee$max_emps <- as.numeric(gsub(",", "", in.eager_assignee$max_emps))
+nrow(in.eager_assignee[in.eager_assignee$size_state == 'FirmSize.UNDEFINED',]) # == 97
+# nrow(in.eager_assignee[in.eager_assignee$hit_url == '',]) # == 199
+in.eager_assignee <- in.eager_assignee[in.eager_assignee$size_state != 'FirmSize.UNDEFINED' ,]
 in.eager_assignee$sme <- 1
 colnames (in.eager_assignee)
 nrow(in.eager_assignee)
@@ -65,7 +68,7 @@ View(in.keyword_counts)
 head(in.pat_all)
 num_patents_all_by_firm <- in.pat_all %>% inner_join(in.eager_assignee, by = "lookup_firm") %>% group_by(lookup_firm) %>% 
   summarize(num_patents_all = sum(count.p.id.))
-head(num_patents_all_by_firm)
+nrow(num_patents_all_by_firm)
 
 # number of patents 3 industries
 num_patents_3_by_firm <- in.pat_3 %>% inner_join(in.eager_assignee, by = "lookup_firm") %>% group_by(lookup_firm) %>% 
@@ -108,23 +111,28 @@ mean_inventors_3_by_size
 
 
 # final out
-nrow( in.eager_assignee %>%  # 1,470 w/ just firms and patents or 1,176 once joining the website data in 
+nrow( in.eager_assignee %>%  # 1,132
   inner_join (in.web_pages_all, by =c("lookup_firm_web" = "firm_name")) %>%
   inner_join(in.ass_first_year, by = c("lookup_firm")) %>%
-  inner_join(num_patents_all_by_firm, by = c("lookup_firm")) %>% inner_join(num_patents_3_by_firm, by = c("lookup_firm")) %>% 
-  inner_join(mean_assignees_all_by_firm, by = c("lookup_firm")) %>% inner_join(mean_assignees_3_by_firm, by = c("lookup_firm")) %>%
-  inner_join(mean_inventors_all_by_size, by = c("lookup_firm")) %>% inner_join(mean_inventors_3_by_size, by = c("lookup_firm")))
-
+  inner_join(num_patents_all_by_firm, by = c("lookup_firm")) %>% 
+  inner_join(num_patents_3_by_firm, by = c("lookup_firm")) %>% 
+  inner_join(mean_assignees_all_by_firm, by = c("lookup_firm")) %>% 
+  inner_join(mean_assignees_3_by_firm, by = c("lookup_firm")) %>%
+  inner_join(mean_inventors_all_by_size, by = c("lookup_firm")) %>% 
+  inner_join(mean_inventors_3_by_size, by = c("lookup_firm")))
 
 firm_level_measures <- in.eager_assignee %>% # 1,487
+  inner_join(num_patents_all_by_firm, by = c("lookup_firm")) %>% 
   left_join (in.web_pages_all, by =c("lookup_firm_web" = "firm_name")) %>%
+  distinct(lookup_firm_web, .keep_all = TRUE) %>%
   left_join(in.ass_first_year, by = c("lookup_firm")) %>%
-  left_join(num_patents_all_by_firm, by = c("lookup_firm")) %>% left_join(num_patents_3_by_firm, by = c("lookup_firm")) %>% 
-  left_join(mean_assignees_all_by_firm, by = c("lookup_firm")) %>% left_join(mean_assignees_3_by_firm, by = c("lookup_firm")) %>%
-  left_join(mean_inventors_all_by_size, by = c("lookup_firm")) %>% left_join(mean_inventors_3_by_size, by = c("lookup_firm"))
+  left_join(num_patents_3_by_firm, by = c("lookup_firm")) %>% 
+  left_join(mean_assignees_all_by_firm, by = c("lookup_firm")) %>% 
+  left_join(mean_assignees_3_by_firm, by = c("lookup_firm")) %>%
+  left_join(mean_inventors_all_by_size, by = c("lookup_firm")) %>% 
+  left_join(mean_inventors_3_by_size, by = c("lookup_firm")) 
 nrow(firm_level_measures)
-# firm_level_patent_plus_emp_measures[is.na(firm_level_patent_plus_emp_measures)] <- 0
-# firm_level_patent_plus_emp_measures[firm_level_patent_plus_emp_measures == ""] <- 0
+
 View(firm_level_measures)
 write.csv(firm_level_measures, "firm_level_measures.csv", row.names = FALSE)
 
