@@ -2,7 +2,7 @@
 
 Thanks for visiting this GitHub site!  I am PI on a small NSF grant and this code and data are available to anyone who wants to use or extend the repo to study small firm innovation.  Before you read any further, I suggest reviewing the companion site @ https://sanjaykaroraphd.wixsite.com/mysite/nsf-eager.  Here you'll find some background on why I started this work, as well as links to some other helpful resources, including a workshop that is aimed at a pedagogical introduction to the method. 
 
-There is a companion paper currently being submitted to an academic journal.  Contact me if you would like a copy of the manuscript. 
+There is a companion paper that has recently been accepted by the *Journal of Official Statistics*.  Contact me if you would like a copy of the manuscript. 
 
 ## 1. What does the code do? 
 
