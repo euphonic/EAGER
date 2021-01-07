@@ -12,7 +12,7 @@ hyperlink==17.3.1
 google-search==1.0.2
 idna==2.6
 incremental==17.5.0
-lxml==4.1.0
+lxml==4.6.2
 pandas==0.23.0
 parsel==1.2.0
 pyasn1==0.3.7
