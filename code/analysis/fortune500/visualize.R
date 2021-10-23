@@ -7,12 +7,12 @@ library(extrafont)
 # font_import()
 loadfonts(device = "pdf")
 library (ggplot2)
-library(rjags)
-library(MVN)
+# library(rjags)
+# library(MVN)
 library(stats)
 library(scales)
 # MacOS
-setwd("/Users/sanjay.k.aroraey.com/dev/EAGER/data/analysis/fortune500/")
+setwd("/Users/sanjay/dev/EAGER/code/analysis/fortune500/")
 in.emps <- read.csv("to_visualize_in_R.csv", header = TRUE, stringsAsFactors = FALSE)
 View (in.emps)
 # load (".RData")
@@ -77,11 +77,11 @@ g1 <- ggplot(data=in.emps, aes(x=log_emps, y=log_max_emps)) +
 g1
 
 g2 <- ggplot(data=in.emps, aes(x=emps, y=max_emps)) +
-  geom_point(alpha=.4, size=4, color="#0037ff") +
+  geom_point(alpha=.4, size=2, color="#0037ff") +
   labs(x="Fortune Employees", y="Scraped\nEmployees") + 
-  geom_smooth(method = "loess") +
-  scale_x_continuous(label=comma, limits=c(100000,700000), breaks=seq(100000,700000,by=100000)) +
-  scale_y_continuous(label=comma, limits=c(100000,700000), breaks=seq(100000,700000,by=100000)) +
+  geom_smooth(method = "lm") +
+  scale_x_continuous(label=comma, limits=c(0,700000), breaks=seq(0,700000,by=100000)) +
+  scale_y_continuous(label=comma, limits=c(0,505000), breaks=seq(0,500000,by=100000)) +
   theme.eager_chart_SCATTER
 g2
 # ggsave("../../analysis/model_accuracy_bar_v2.png")
