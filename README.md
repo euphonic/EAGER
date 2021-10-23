@@ -1,8 +1,8 @@
 # The Web of Innovation: Using Website Data to Understand How Firms Innovate
 
-Thanks for visiting this GitHub site!  I am PI on a small NSF grant and this code and data are available to anyone who wants to use or extend the repo to study small firm innovation.  Before you read any further, I suggest reviewing the companion site @ https://www.dextr.us/nsf-eager.  Here you'll find some background on why I started this work, as well as links to some other helpful resources, including a workshop that is aimed at a pedagogical introduction to the method. 
+Thanks for visiting this GitHub site!  I was a PI on a small NSF grant and this code and data are available to anyone who wants to use or extend the repo to study small firm innovation.  Before you read any further, I suggest reviewing the companion site @ https://sanjaykaroraphd.wixsite.com/mysite/nsf-eager.  Here you'll find some background on why I started this work, as well as links to some other helpful resources, including a workshop that is aimed at a pedagogical introduction to the method. 
 
-There is a companion paper currently being submitted to an academic journal.  Contact me if you would like a copy of the manuscript. 
+A companion paper has recently been accepted by the [*Journal of Official Statistics*](https://content.sciendo.com/configurable/contentpage/journals$002fjos$002fjos-overview.xml "JOS").  Contact me if you would like a pre-print copy of the manuscript. 
 
 ## 1. What does the code do? 
 
@@ -22,7 +22,7 @@ Traditionally when writing research papers, we would motivate the research quest
 
 ## 2. How do I get started? 
 
-The workshop materials, available at https://www.dextr.us/workshop-resources, include a getting started guide.  You can follow this from start to finish if you would like to download the course workshop slides and virtual machine and follow steps 1-7 sequentially.  Just note that the workshop doesn't have the most recent code (it dates back to December 2019).  The workshop assumes a basic understanding of Python, R, and Unix commands. 
+The workshop materials, available at https://sanjaykaroraphd.wixsite.com/mysite/workshop-resources, include a getting started guide.  You can follow this from start to finish if you would like to download the course workshop slides and virtual machine and follow steps 1-7 sequentially.  Just note that the workshop doesn't have the most recent code (it dates back to December 2019).  The workshop assumes a basic understanding of Python, R, and Unix commands. 
 
 For those of you interested in just one or some of the steps above, e.g., collecting firm employment data or website URLs, you might want to  set up your API keys for Google and/or Microsoft and then jump straight to cloning the main branch of this repo and heading  to the code that you're interested in. In other words, because the code is organized in loosely connected modules, you can jump in at any point.  What follows is a step-by-step guide for doing exactly this. However, this track assumes basic to intermediate understanding of Python, R, Unix commands, Amazon Web Services, etc. 
 
@@ -31,7 +31,7 @@ If you would like to become a contributor and share your code back with the broa
 ## 3. Installation 
 Choose one of three options: 
 
-1. Follow the workshop getting started guide linked to from the bottom of [this page](https://www.dextr.us/workshop-resources "Workshop Resources")
+1. Follow the workshop getting started guide linked to from the bottom of [this page](https://sanjaykaroraphd.wixsite.com/mysite/workshop-resources "Workshop Resources")
 2. Install the supporting tools, databases, and frameworks on your local system. Mac OS or Linux strongly recommended. (Native Windows compatibility has not been tested and is not supported.) 
 3. Use the Amazon Web Services AMI to spin up an EC2 instance
 
@@ -98,7 +98,7 @@ In `code/topics_markov`, run the notebook `topic-model-v2` to produce and visual
 In RStudio, open `MSM_v3.R`, also in `code/topics_markov`.  Don't forget to copy the column names from the notebook in Section 5.5. 
 
 ## 6. Can I extend this work for other domains?  What if I don't study small firms? 
-Absolutely, the crawling code was modified from a school and district scraper.  At some level of abstraction, it doesn't matter if you're crawling a firm, university, hospital, government agency, or any other kind of site!  However, you'll need to modify the code to suite the unique circumstances of your research domain. 
+Absolutely, the crawling code was modified from a school and district scraper.  At some level of abstraction, it doesn't matter if you're crawling a firm, university, hospital, government agency, or any other kind of site!  However, you'll need to modify the code to suit the unique circumstances of your research domain. 
 
 ## 7. I need help! 
-No problem.  Contact me via [this form](https://www.dextr.us/about "Contact Sanjay") please.  I will do my best to respond within a couple of days. 
+No problem.  Contact me via [this form](https://sanjaykaroraphd.wixsite.com/mysite/about "Contact Sanjay") please.  I will do my best to respond within a couple of days. 
