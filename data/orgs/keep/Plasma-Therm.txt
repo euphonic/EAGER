@@ -1,0 +1,37 @@
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+Expiry
+Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.
+This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their LinkedIn application for example.
+__cfduid
+BNES_PHPSESSID
+BNES_random_clicks
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+Expiry
+Registers statistical data on visitors' behaviour on the website. Used for internal analytics by the website operator.
+Used to send data to Google Analytics about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
+Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
+Registers a timestamp with the exact time of when the user leaves the website. Used by Google Analytics to calculate the duration of a website visit.
+Used to throttle the speed of requests to the server.
+Collects data on where the user came from, what search engine was used, what link was clicked and what search term was used. Used by Google Analytics.
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+Registers a unique that is used to generate statistical data on how the visitor uses the website.
+sc_is_visitor_unique
+This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor a random ID, so the visitor does not get registered twice.
+Determines if a visitor leaves the website straight away - This information is used for internal statistics and analytics by the website operator.
+This cookie is used to identify the frequency of visits and how long the visitor is on the website.
+typekit.net
+Keeps track of special fonts used on the website for internal analysis. The cookie does not register any visitor data.
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+Expiry
+Collects information on visitor behaviour on multiple websites. This information is used on the website, in order to optimize the relevance of advertisement.
+Registers a unique that identifies a returning user's device. The is used for targeted ads.
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+Used by the social networking service, LinkedIn, for tracking the use of embedded services.
+sc_medium_source
+Determines how the visitor accessed the website - This information is used by the website operator in order to determine the efficiency of their marketing efforts.
+Cookies are small text files that can be used by websites to make a user's experience more efficient.
+This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
+produces        plasma etch, deposition, and singulation tools,

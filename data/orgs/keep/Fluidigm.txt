@@ -1,0 +1,114 @@
+We use cookies for analytics, marketing purposes and to improve our site. You agree to our use of cookies by closing this message box or continuing to use our site. To find out more, including how to change your settings, see our Privacy Policy
+Convert qdata from Biomark to absolute quantification and copy number
+8th Annual Mass Cytometry Summit
+2nd Annual Imaging Mass Cytometry User Group Meeting Recap
+Imaging Mass Cytometry User Group Meeting 2018 Recap
+Get a head start with the expanded Advanta Gene Expression Workflow.
+Deciphering Cell Diversity in the Tumor Microenvironment
+Evan Newell on decoding immune cell heterogeneity with mass cytometry
+Quality Means Better Cancer Research
+Improve profiling of precious samples using the Advanta Extraction Kit
+Convert qdata from Biomark to absolute quantification and copy number
+8th Annual Mass Cytometry Summit
+Please join us at the 8th Annual Mass Cytometry Summit.
+We are excited to be extending the Summit to a two-day format this year to provide additional time for presentations and networking as well as optional workshops and special-topic breakout sessions on new scientific findings, CyTOF® applications, data analysis methods and advances in Imaging Mass Cytometry™.
+8th Annual Mass Cytometry Summit
+Parallel breakout sessions for core directors and Cyapplication users
+Mass cytometry in clinical and translational research: panelist presentations and discussion
+Dinner reception followed by entertainment and networking from 5:30 to 11:00 pm.
+Optional workshops: data analysis (beginner and advanced sessions), panel design, Q&with experts
+Closing remarks and meeting to conclude by 3:00 pm.
+Light breakfast, coffee breaks and lunch will be provided on both days.
+Registration is free, but space is limited. Reserve your spot now and receive monthly updates as the agenda evolves.
+I'd like to receive information from on new products, promotions, industry-leading seminars and webinars and upcoming events.*
+We strongly suggest that you book your room in Vancouver as soon as possible to avoid conflicts with two other Vancouver events: the Entry Draft June 21−22 and CYTO® 2019 June 22−26.
+We look forward to seeing at the 8th Annual Mass Cytometry Summit!
+* You may withdraw your consent anytime in every email you will receive from us.
+Products are for Research Use Only. Not for use in diagnostic procedures.
+Imaging Mass Cytometry User Group Meeting 2018 Recap
+The 2018 Imaging Mass Cytometry™ User Group Meeting (IMC™ UGM) was held September 10–11 in Seattle, where almost 120 members of the global community came together to share stories, present best practices and data analysis tips and highlight insights in health and disease that are being uncovered using the Hyperion™ Imaging System. Attendees also had plenty of time to network with the fast-growing community, catch up with old friends, meet new colleagues and start exciting collaborations.
+Below you can scroll through pictures and see what attendees had to say about this year’s meeting. You can also download the meeting program , watch some short videos and hear researchers talk about their work and why they use Imaging Mass Cytometry to further their research, and watch selected presentations from the meeting.
+The Seattle Art Museum was a lovely setting. Here are attendees enjoying a long luncheon that provided networking time and open access to the art exhibits.
+Bernd Bodenmiller kicks the meeting off with an excellent keynote presentation on Analysis of Disease Progression in 3Tissue Ecosystems by Imaging Mass Cytometry.
+“This is an awesome meeting, looking forward to next year (and the years following). appreciate the user-centric nature of the meeting and the openness of sharing between the community.” —Libere Ndacayisaba, University of Southern California
+“Well done, it was an enjoyable and informative meeting. Looking forward to next year!” —Santhosh Sivajothi, The Jackson Laboratory
+The data analysis and best practices panel discussions addressed many questions and sparked lively discussion.
+“The program, information shared, resulting questions from attendees, and engagement after the sessions will be quite useful as we move ahead with adopting IMC” —Patrick Reeves, Massachusetts General Hospital
+An enjoyable evening at the reception at the Seattle Aquarium—dinner and starfish!
+“This was a well-run event. Beautiful venues. The aquarium was great!” —Robert Brockett, Visiopharm®
+Speakers included Stephanie Ling of AstraZeneca on Using Imaging Mass Cytometry and Mass Spectrometry Imaging to Understand the Role of Tissue and Tumor Heterogeneity in Drug Delivery, Response and Resistance; Dmitry Bandura, of Fluidigm, on Advances in Imaging Mass Cytometry; and Tom Ashhurst of the University of Sydney on Using Imaging Mass Cytometry to Track Immune Responses in Viral Encephalitis.
+“Great array of speakers on a variety of topics from different aspects within the pipeline.” —Karen Legg, University of Toronto
+At an optional Tuesday afternoon Q&session, Clare Rogers of talks about mass cytometry and panel design and Monirath Hav of the University of Southern California covers the topic Workflow from a Pathologist’s Perspective.
+Coffee breaks and a luncheon provided time for networking.
+“Excellent opportunity to meet other people within the community. had detailed discussion with lots of other users over breaks.” —Katrina Todd, Guy’s and St Thomas’ Foundation Trust
+At this year’s meeting we had an agenda full of exceptional presentations, discussions and time for networking. Download the 2nd Annual Imaging Mass Cytometry User Group Meeting program to see the agenda and speaker and optional session abstracts.
+Previously recorded seminars from Bernd Bodenmiller and Akil Merchant and a recent webinar from Kurt Schalper are available for viewing. To this we have added presentations from Frits Koning (Imaging the Unimaginable with Imaging Mass Cytometry) and Jen Gommerman (Using to Better Understand Mechanisms of Multiple Sclerosis Disease Progression).
+Watch these selected presentations from the UGM.
+We asked a few attendees to comment on their research and how using the Hyperion Imaging System would help propel their research forward. Here’s a 60-second synopsis:
+Tom Ashhurst shares his thoughts on the value of attending the User Group Meeting.
+I'd like to receive a price quote.
+I'd like to receive information from on new products, promotions, industry-leading seminars and webinars and upcoming events.*
+* You may withdraw your consent anytime in every email you will receive from us.
+Products are for Research Use Only. Not for use in diagnostic procedures.
+Get a head start with the expanded Advanta Gene Expression Workflow.
+Gene expression profiling of the tumor microenvironment has proven effective in measuring immune response during research in cancer progression and therapeutic response. Preconfigured quantitative (qPCR) panels containing hundreds of gene targets represent a potential solution, but can require significant time and resources to implement in the laboratory and can be difficult to customize for specific experimental needs.
+The Advanta™ Gene Expression Assay workflow was designed to meet this need, detecting 170 gene expression markers involved in checkpoint therapeutic response. Ideal for accelerating the identification of potential predictive biomarker signatures of checkpoint immunotherapeutic response, the Advanta Gene Expression Assay was developed in collaboration with leading researchers from academia and biopharma to provide the right balance of biomarker breadth, assay flexibility and workflow efficiency.
+As an expanded workflow solution, we now offer an optimized Advanta Extraction Kit , which produces high-quality from precious tumor samples and improves the sensitivity of tumor transcript detection. As an added benefit, a synthetic template representing the amplification targets of all 170 genes is also available as a positive control. When using this new kit and control together with the Advanta Gene Expression Assay on the Biomark™ system, researchers can accurately assess 24 to 96 tumor samples at a time with high confidence and efficiency.
+Completing the workflow, the Immuno-Oncology Workbench was developed by GenomOncology to provide powerful, flexible and intuitive analysis of immuno-oncology datasets. Now available from Fluidigm, the Immuno-Oncology Workbench enables researchers to unlock new clinical insights from translational immuno-oncology studies, including the identification of meaningful gene expression biomarkers that correlate with therapeutic response.
+“The Immuno-Oncology Workbench is a powerful software tool that enables comprehensive analysis of immuno-oncology cohorts, integrating molecular and phenotypic data together with immuno-oncology-specific annotations to power translational studies,” said Manuel Glynias, of GenomOncology. “We are excited to see the new insights uncovered using this comprehensive approach, which we we offer in conjunction with to empower the growing immuno-oncology community.”
+“is the partner of choice within the immuno-oncology research community, enabling deep interrogation of the tumor microenvironment and immune response with mass cytometry,” said Chris Linthwaite, President and of Fluidigm. “In partnership with GenomOncology, we are expanding our immuno-oncology gene expression offering to the cancer community with a full microfluidics-based workflow solution from extraction to data analysis. By providing a comprehensive view of tumor immunity, utilizing microfluidics and mass cytometry technologies, we are empowering researchers to uncover unique health insights that could transform the future of cancer care.”      
+Evan Newell on decoding immune cell heterogeneity with mass cytometry
+Understanding the full complexity of the immune system and its response to infections and diseases, especially in cancer, has eluded researchers for decades. Whether analyzing blood or tissue samples, investigators have struggled to categorize the heterogeneity found in the cell composition of different tumors.
+Compounding the challenge, cell diversity comes in many forms, such as antigen specificity, differentiation states, functional characteristics and trafficking receptor profiles. Deciphering this diversity is necessary to understand the mechanisms behind cancer progression and immunotherapy response.
+In a recently published paper in Nature, Evan Newell, PhD, and colleagues identify a potential biomarker of tumor-antigen specificity and provide a new perspective on the heterogeneity of cells in the tumor microenvironment. Newell led this research as a principal investigator at the Singapore Immunology Network (SIgN). First author Yannick Simoni, PhD, formally a senior research fellow at Singapore’s Agency for Science, Technology and Research (A*STAR), accumulated data for more than 140 different tumor samples from patients with lung and colorectal cancer to search for correlations between this heterogeneity and various characteristics of the patient samples.
+“Cytechnology has a really unique niche for interrogating the tumor microenvironment,” said Newell. “It has relatively high throughput and high dimensionality, allowing us to open up a lot of doors.”
+Newell’s lab developed novel approaches for identifying and characterizing antigen-specific cells. In this paper, his group used tetramer staining in conjunction with mass cytometry for in-depth analysis of cellular phenotype and function.
+His group and others “have been stuck on saying, ‘It’s crazy. There are so many different types of immune cells.’ And you can use all kinds of fancy analyses to show that it’s very diverse,” Newell said. “But we’ve taken it a little bit further by getting to some simple correlates of clinical states.”
+Newell and his team used mass cytometry that relies on time-of-flight mass spectrometry (CyTOF® technology) to simultaneously assess antigen specificity and deep phenotypic characteristics of cells. The high-parameter nature of Cyanalysis allowed the team to create panels to assess as many as 52 cellular parameters simultaneously. The resulting data shows that cell populations infiltrating lung and colorectal tumors may be specific for tumor antigens or for a wide range of epitopes unrelated to cancer, such as viral antigens. Moreover, he discovered that these bystander cells have diverse phenotypes that overlap with tumor-specific cells but lack CD39 expression.
+CD39: more accurate marker of tumor antigen specificity
+Newell and Simoni’s discovery of a more accurate marker for tumor antigen specificity relied on a multiplexed approach that allowed them to simultaneously profile cells within the tumor microenvironment for phenotype and function. Instead of focusing only on tumor-reactive cells, the team looked at all antigen-specific cells and was able to identify cancer-unrelated antigen-specific cells in tumors.
+“We found a few examples of tumor-specific cells, and then we also had examples of cells specific for cancer-unrelated antigens, like the flu and Epstein-Barr virus. This was key in trying to interpret what all this heterogeneity meant,” Newell said.
+The next step was to determine what was different about the non-cancer-specific cells. Simoni observed that many of them expressed what typically have been identified as tumor-infiltrating cell markers, such as CD69 and PD-1, which may have a role in tumor reactivity.
+“The striking thing was that we saw hardly any expression of CD39, which is known as being immunosuppressive,” he said.
+Since their findings showed that the tumor-specific cells expressed CD39, Simoni could build a case for CD39 as a more accurate marker of tumor antigen specificity. Newell now believes CD39 also could be useful as a predictor of response to checkpoint blockade, and as a starting point for the development of novel therapeutics.
+Advantage to using Cytechnology for immune cell profiling
+Newell started using mass cytometry for studying human cell response as a postdoctoral student at Stanford University more than six years ago. He attributes much of his success to the technology’s ability to simultaneously look at many phenotypic markers and antigen specificity, allowing his team to better understand the number of distinct cellular phenotypes and how they are related to each other.
+In the Nature paper described here, Newell also used whole transcriptome RNA-seq to validate his mass cytometry findings. He believes the two techniques make a powerful combination for identifying new markers associated with specific cell populations. However, Newell explains that compared to RNA-seq, mass cytometry “can more accurately measure protein and do it on a larger number of cells, which gives a much higher resolution when describing cellular heterogeneity.”
+Cyapplications beyond cancer research
+Newell’s ultimate goal is to gain a better understanding of how the human immune system works, and he thinks the best way to accomplish this is by searching for co-variations.
+“Mass cytometry is especially great for that because it’s really improving our understanding of immune system variation in humans,” Newell said. “It has also been excellent for mapping out trajectories of cellular development.”
+In addition to providing cutting-edge technology platforms to researchers, SIgaims to support Singapore biotechnology companies such as Newell’s spinoff immuno, which provides antigen-specific cell screening and profiling services. Newell, who established his lab at SIgin 2012, has moved to the Fred Hutchinson Cancer Research Center in Seattle as part of the Vaccine and Infectious Disease Division. His lab will continue to investigate antigen-specific cells in cancer and other diseases. He also has been working on developing computational approaches to improve analysis of these large datasets.
+Beyond cancer research, Newell and colleagues are using mass cytometry to study a variety of topics from myeloid cell composition in dendritic cell development to cell antigen specificity in viruses such as hepatitis and dengue. By taking a multiplexed approach in investigating the phenotype and function of cells from different viral disease stages, Newell’s team can assess the use of cell phenotypes as future biomarkers for patient outcomes.
+“Cytechnology has a really unique niche for interrogating the tumor microenvironment,” said Newell. “It has relatively high throughput and high dimensionality, allowing us to open up a lot of doors.”
+Products are for Research Use Only. Not for use in diagnostic procedures.
+Quality Means Better Cancer Research
+Improve profiling of precious samples using the Advanta Extraction Kit
+Tumor gene expression profiling in cancer research is an effective tool for measuring immune response during cancer progression and treatment studies. As emerging therapies reveal new biomarkers and expand the need for sample testing, the costs and labor required to complete this important work also increase.
+Cancer researchers now have a reliable, sensitive and cost-effective tool for identifying gene expression signatures from immune and cancer cells: The Advanta™ Gene Expression Assay is designed for use with the Biomark™ system. For optimized gene detection, pair it with the Advanta™ Extraction Kit.
+Improving the process
+Processing samples can be challenging due to limited sample quantities or fragmented transcripts caused by nucleic acid degradation as a result of tissue fixation and storage methods. In addition, most extraction kits rely on column purification to remove and DNA, causing significant nucleic acid loss during the isolation process. To address this issue, the Advanta Extraction Kit uses a column-free approach to effectively recover quality from samples.
+Download our  product flyer  to learn more about using the Advanta Extraction Kit to accelerate your investigative research.
+The Advanta Extraction Kit stands apart from other commercial kits by providing:
+single-tube extraction purification process
+Enhanced safety with xylene-free paraffin removal
+More precious samples are qualified for downstream analysis
+Improved detection during gene expression analysis
+“Sirona Dx specializes in expression profiling of challenging samples and we welcomed the opportunity to partner with to develop an improved extraction methodology. To date we have processed several hundred samples with the Advanta Extraction Kit, and our pharma clients have been astonished by the quality of extracted and delighted at our ability to interrogate more of their precious samples.”
+—Nasry Yassa, CEO, Sirona Dx
+Sirona Dx case study
+Clinical research services provider Sirona Dx, Inc., based in Vancouver, Washington, performed gene expression analysis of samples extracted using the Advanta Extraction Kit and a leading column-based commercial kit. After extraction, the group reverse-transcribed and preamplified the and analyzed the con Biomark using the Advanta Gene Expression Assay panel containing 170 unique biomarkers for profiling tumor immunobiology and identification. Gene expression analysis data demonstrated more target gene detection in samples extracted using the Advanta Extraction Kit. These samples typically showed lower cycle threshold values than those extracted using the alternative kit.
+“Sirona Dx specializes in expression profiling of challenging samples and we welcomed the opportunity to partner with to develop an improved extraction methodology,” said Sirona Dx Nasry Yassa. “To date we have processed several hundred samples with the Advanta Extraction Kit, and our pharma clients have been astonished by the quality of extracted and delighted at our ability to interrogate more of their precious samples­.”
+For Research Use Only. Not for use in diagnostic procedures.
+Convert qdata from Biomark to absolute quantification and copy number
+Accurate—Turns every qreaction into an absolute copy number determination with accuracy and precision
+Saves space—Makes more space available for processing samples by reducing replicate requirements and eliminating the need for a standard curve
+Simple—Reports the number of molecules at cycle zero without the complexity of interpreting Cq values
+The cloud-based software analyzes raw fluorescence qdata from Biomark™ to determine absolute quantification and provide copy number results. Applications include transgene copy number, event-sorting data analysis and seed zygosity determination.
+Each license supports one year of use from the date of activation. Order through your account representative.
+Part Number 101-7966
+CopyCount-CNV™ was developed and manufactured by Software and is distributed by for use with Biomark.
+For Research Use Only. Not for use in diagnostic procedures.
+* Required fieldWe use cookies for analytics, marketing purposes and to improve our site. You agree to our use of cookies by closing this message box or continuing to use our site. To find out more, including how to change your settings, see our Privacy Policy
+Improving life. It’s what drives us each day. At Fluidigm, we empower our customers to reveal meaningful insights in health and disease, identify actionable markers to inform life decisions and accelerate the development of more effective therapies.
+We focus on the most pressing needs in translational and clinical research, including cancer, immunology and immunotherapy. Harnessing proprietary CyTOF® and microfluidics capabilities, we provide an unprecedented view into health and disease through our unique combination of innovative mass cytometry, tissue imaging and genomics solutions.
+Researchers depend on our systems to uncover important disease pathways, find valuable new molecular biomarkers and deeply profile important cell populations down to single cell resolution. As a trusted partner of leading academic, government, pharmaceutical, biotechnology and plant and animal research laboratories worldwide, we strive to increase the quality of life for all.

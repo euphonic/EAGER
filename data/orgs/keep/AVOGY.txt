@@ -1,0 +1,48 @@
+Silicon power technology has enabled the explosion in consumer and industrial electronics for the past decade — but that technology has now stalled.
+Power conversion systems are a critical component of all electronics. The transformation of power systems from heavy, bulky and inefficient analog devices to compact, energy saving switching devices helped drive the growth of sophisticated electronic systems. Silicon power transistors were at the heart of those new generation systems.
+Modern products require a new kind of
+power semiconductor technology.
+Silicon power semiconductors can’t meet the performance demands of many modern products. To perform their best, modern products require a new, more advanced kind of power semiconductor.
+Imagine an electric car that drives 15% farther and costs up to $1400 dollars less. Or a mobile phone charger the size of a sugar cube. What if we could enable thousands of products to save up to 90% of their energy use? 
+With True GaN™ power semiconductors, we will. In fact, according to the Department of Energy, advanced power semiconductors will enable lights alone to save $250 billion in cumulative energy costs1 by 2030.
+Ideal for any application.
+True GaN™ enabled power supplies can meet the voltage needs of almost any application, from low voltage devices like electronics to high voltage products like electric cars and high speed trains.
+True GaN™ is cost effective. It typically lowers the cost of the power supply system by reducing passive components like inductors and capacitors.
+Small and lightweight.
+The perfect solution for applications where small size is important, like portable computers or mobile phones.
+High energy density.
+True GaN™ creates three times the system power density of silicon, making it ideal for applications where there are size and space constraints.
+In data centers, True GaN™ can enable a 20% – 25% increase in compute density and a corresponding 20% -25% increase in revenue.
+Superior performance at lower cost.
+True GaN™ enables electric cars to drive up to 15% farther while reducing cost by up to $1400 dollars.
+Energy savings.
+True GaN™ enables solar system inverters to generate more energy – up to a 50% reduction in conversion losses! – at up to 20% lower cost.
+True GaN™ devices meet or beat JEDEC, the industry standard.
+True GaN™ enables Moore’s Law for Switching Power Systems and can meet market needs for the next 20-25 years.
+True GaN™ Enables 2nd Wave of Moore’s Law in Power System
+NexGen plans to enter full-scale production in 2019 at its $100 Million fabrication facility in New York.
+1  Jan 15 2014, https://www.energy.gov/articles/wide-bandgap-semiconductors-essential-our-technology-futureNexGen Power Systems is revolutionizing power electronics with technology solutions utilizing Gaon Gadiscrete semiconductor devices, modules, and systems that increase efficiency and reliability of power conversion systems while dramatically reducing their cost, size, and weight.
+We have assembled a world-class team of engineers with proven track records in inventing, developing, and commercializing semiconductor technologies. Our internal expertise and competence encompasses Gaepitaxial growth, materials characterization, device design and processing, electrical characterization, reliability testing, and product development.
+Our focus is in developing and manufacturing vertical power semiconductor devices built in homoepitaxial Galayers formed on bulk Gasubstrates. We have established licensing and supply agreements with multiple Gasubstrate vendors, giving us access to the highest quality and lowest cost bulk Gasubstrates.Technology
+Ga& Power Systems
+Ga& Power Systems
+Manufacturing and R&D:
+One mind is powerful–
+a team is limitless.
+With over 100 years of combined experience our management team brings together a unique set of backgrounds, experiences, and ideas. Every day we are tackling problems and pushing boundaries to create the most efficient and compact power systems in the world.
+Dinesh Ramanathan, Ph.D.
+President and CEO
+Dr. Ramanathan is one of the founders of NexGen Power Systems. Prior to NexGen, Dr. Ramanathan was the of Inc. where he oversaw the development of vertical Gatechnology to build power transistors.
+Dr. Shahin Sharifzadeh
+Chief Operations Officer
+Before joining NexGen, Dr. Shahin Sharifzadeh was the Senior Vice President of Worldwide Operations at Atmel Corporation. Before that, Dr. Sharifzadeh served as an Executive Vice President of Worldwide Manufacturing and Operations at Cypress Semiconductor Corporation and its President of China Operations. 
+Narayanan Karu
+Narayanan Karu has over 25 years of Finance and Accounting experience across multiple industries. Prior to NexGen, Narayanan held Finance role at Avogy.  
+of Manufacturing
+John Nguyen is NexGen Power Systems’ Vice President of Manufacturing, responsible for wafer fabrication and manufacturing. Mr. Nguyen joined NexGen in July 2018. Prior to NexGen, he held a management role at Finisar (FNSR), leading the startup of the fabrication fab in Sherman, Texas.
+Prior to Avogy, Dr. Ramanathan served as the Executive Vice President at Cypress Semiconductor (NASDAQ: CY) for almost 9 years, where he managed the Programmable Systems Division and the Data Communications Division. He was responsible for products from Cypress that went into cell phones, high definition video systems with the emergence of HDMI, optical finger navigation in cell phones and automobiles. He was also responsible for the flagship product PSoC, including the development of PSoC4, during his tenure at Cypress.
+Previously, Dr. Ramanathan held senior marketing and engineering positions at Raza Microelectronics, Raza Foundries, an incubating venture capital company and Forte Design Systems, an electronic design automation company. He started his engineering career at Synopsys, Inc. Dr. Ramanathan holds a Ph.and an in Information and Computer Science from the University of California, Irvine. He also holds an in Mathematics and a in Computer Science from BITS, Pilani, India. He has been awarded two patents.
+During his tenure at Avogy, Narayanan played a key role in securing convertible note financing of $21from top tier venture capital firms, restructuring of capital lease, augmenting the first commercial product launchand resizing the spend to match the business plan. Prior to Avogy, Narayanan held Finance role at Shashi Group, a real estate investment and development company where he was responsible for multiple deal closure in excess of $25Previously Narayanan heldand Finance roles at Panache Services, a global information technology and software solutions startup with top tier clients. During his tenure at Panache, Narayanan lead the Series round closureand played a pivotal role in company’s growth from 55 headcount to 270+ in a span of 2 years. Prior to Panache, Narayanan held Controller positions at Cypress Semiconductor (– CY) for 10+ years. During his tenure at Cypress, Narayanan was responsible for financials of multiple business units including Fab, R&($60Budget), New Products Development (350+ headcount), Memory Products business unit ($400of annual revenue) and an in house startup unit Narayanan was the finance lead for the divestiture of startup for $53to a private equity group.
+Narayanan holds a bachelor’s degree in Commerce from Loyola College, a Master of Business Administration from University of Louisiana and has completed the Advanced Executive Program (ACE) at Sloan School of Management. Narayanan holds an active License in the State of California.
+He started his career at Mostek, Thompson in manufacturing and rose quickly through the ranks and left to join Cypress Semiconductor (CY) in Round Rock, Texas and held various roles in manufacturing and engineering. He returned to Microelectronics as the Director of Manufacturing for the fab operations in Carrollton, Texas. He left in 2003 to become Executive Director of Manufacturing for Maxim Integrated and was quickly promoted to Managing Director and was responsible for the entire Dallas, Texas operations and site. In 2009, he became the General Manager of the Fabtech operations in Kansas City, a subsidiary of Diodes Inc (DIOD). In his role as for Diodes Inc, Mr. Nguyen managed all site epitaxy, fabrication, wafer level packaging, operations and was fully responsible for the P&L.
+Mr. Nguyen earned his Bachelor of Science degree from University of North Texas.

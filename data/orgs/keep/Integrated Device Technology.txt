@@ -1,0 +1,996 @@
+Standard search with a direct link to product, package, and page content when applicable.
+Enter a competitor's part number for list of IDT-compatible parts.
+Display a full list of search results and content types (no auto-redirect).
+Application-Specific Clocks
+Express® Clock Buffers and Multiplexers
+Processor Clock Buffers
+Processor Clock Generators
+Buffers and Dividers
+Spread-Spectrum Clocks
+Clock Distribution
+Clock Buffers & Drivers
+Clock Dividers
+Zero Delay Buffers (ZDB)
+Clocks - Low Jitter (<700 fs RMS)
+Clocks - Ultra-Low Jitter (<300 fs RMS)
+Clocks - Extreme Performance (<150 fs RMS)
+Programmable Clocks
+Crystal Oscillators
+Jitter Attenuators with Frequency Translation
+Memory & Logic
+3.3Double Density (General Purpose Bus Switch)
+3.3QuickSwitch (High Bandwidth Bus Switch)
+Analog Multiplexers and Demultiplexers
+(Embedded Host Bridges)
+Asynchronous FIFOs
+Memory Interface Products
+Multi-Port Memory
+Asynchronous Dual-Port RAMs
+Asynchronous Low-Power Dual-Port RAMs
+Bank-Switchable Dual-Port RAMs
+FourPort RAMs
+Asynchronous SRAMs
+Zero Bus Turnaround (ZBT)
+Standard Logic
+6LoWireless Modules
+AS-Interface Products
+Memory Interface Products
+Millimeter and Microwave Solutions (mmWave)
+Optical Interconnect - Datacom
+Optical and Retimers
+Optical Transimpedance Amplifiers (TIA) - Datacom
+Optical Interconnect - Telecom
+Optical Modulator Drivers
+Optical Transimpedance Amplifiers (TIA) - Telecom
+Express® Clock Buffers and Multiplexers
+Physical Layer Products
+Serial RapidIO® Solutions
+Express® to Serial RapidIO® Bridges
+Signal Integrity Products
+Multiprotocol Repeaters
+Video Broadcast Software & ASICs
+Power Management
+Motor Control ICs
+Power Management ICs (PMIC) and PMUs
+Wireless Power Receivers
+Millimeter and Microwave Solutions (mmWave)
+Modulators & Demodulators
+Variable Gain Amplifiers (VGA)
+Sensor Products
+Sensor Signal Conditioners
+Wireless Power Receivers
+High-performance Computing
+Industrial & Embedded
+Wireless Infrastructure
+Frequently Asked Questions
+Clock Tree Design Service
+Reference Designs
+X-Microwave Modular Blocks
+Sales and Distributor Directory
+Corporate Responsibility & Citizenship
+Acts of Giving
+The industry's broadest and deepest portfolio of advanced silicon timing products.
+Innovative Soarchitectures, industry-leading efficiency, and hardware/algorithm implementations.
+Minimize interference and maximize performance in an increasingly crowded radio spectrum.
+Sensor Products
+Best-in-class performance in a wide array of applications ranging from industrial to automotive.
+Cutting-edge solutions in optical networking, memory interface, and Ioconnectivity.
+Application-Specific Clocks 
+Express® Clock Buffers and Multiplexers 
+Processor Clock Buffers 
+Processor Clock Generators 
+Buffers and Dividers 
+Spread-Spectrum Clocks 
+Clock Distribution 
+Clock Buffers & Drivers 
+Clock Dividers 
+Zero Delay Buffers (ZDB) 
+Clocks - Extreme Performance (<150 fs RMS) 
+Clocks - Low Jitter (<700 fs RMS) 
+Clocks - Ultra-Low Jitter (<300 fs RMS) 
+Programmable Clocks 
+Crystal Oscillators 
+Jitter Attenuators with Frequency Translation 
+Sensor Products
+6LoWireless Modules 
+Sensor Signal Conditioners 
+Power Management
+Motor Control ICs 
+Power Management ICs (PMIC) and PMUs 
+Wireless Power Receivers 
+Wireless Power Receivers 
+6LoWireless Modules 
+AS-Interface Products 
+Memory Interface Products 
+Millimeter and Microwave Solutions (mmWave) 
+Optical Interconnect - Datacom 
+Optical and Retimers 
+Optical Transimpedance Amplifiers (TIA) - Datacom 
+Optical Interconnect - Telecom 
+Optical Modulator Drivers 
+Optical Transimpedance Amplifiers (TIA) - Telecom 
+Express® Clock Buffers and Multiplexers 
+Express® to Serial RapidIO® Bridges 
+Physical Layer Products 
+Serial RapidIO® Solutions 
+Express® to Serial RapidIO® Bridges 
+Signal Integrity Products 
+Multiprotocol Repeaters 
+Video Broadcast Software & ASICs 
+Millimeter and Microwave Solutions (mmWave) 
+Modulators & Demodulators 
+Variable Gain Amplifiers (VGA) 
+Memory & Logic
+3.3Double Density (General Purpose Bus Switch) 
+3.3QuickSwitch (High Bandwidth Bus Switch) 
+Analog Multiplexers and Demultiplexers 
+(Embedded Host Bridges) 
+Asynchronous FIFOs 
+Memory Interface Products 
+Multi-Port Memory 
+FourPort RAMs 
+Asynchronous Dual-Port RAMs 
+Asynchronous Low-Power Dual-Port RAMs 
+Bank-Switchable Dual-Port RAMs 
+Asynchronous SRAMs 
+Zero Bus Turnaround (ZBT) 
+Standard Logic 
+Cross Reference Search
+Knowledge Base / FAQs
+Clock Tree Design Service
+Buff Up Your Design with Clock Buffers
+Working to Achieve 5Expectations
+Massive antenna architectures help address 5systems.
+Managing Air Quality with Remote Gas Sensors
+How low-power solutions can help improve health and comfort at work and home.
+Renesas to Acquire Technology, to Enhance Global Leadership in Embedded Solutions
+Join thousands of engineers who never miss out on learning about the latest product from Enter your email below and click go!
+Stay current on the broadest and deepest silicon timing portfolio in the industry. Learn about IDT’s advanced timing products and how they can solve timing challenges in wireless infrastructure, networking, data centers and consumer applications.
+Subscribe to learn how IDT’s full-featured products help address unwanted interference in an increasingly crowded radio spectrum. IDT’s solutions address the evolving needs of 4G/5base stations, communications systems, microwave, industrial, and more.
+Leveraging 20+ years of industry experience, IDT's sensor technologies offer best-in-class performance in a wide array of applications ranging from industrial to automotive. Stay informed about the latest news and differentiated sensor offerings from a proven, trusted partner in the sensor space.
+Stay on the cutting edge with IDT's wireless power solutions. Learn how leads the way with an innovative Soarchitecture, industry-leading efficiency, and hardware/algorithm implementations.
+Corporate Responsibility
+Before you submit a part request, we kindly ask that you login or 
+ to validate your email account. Once completed, you will be returned to your part request form. Don't worry, it's quick!
+Standard search with a direct link to product, package, and page content when applicable.
+Enter a competitor's part number for list of IDT-compatible parts.
+Display a full list of search results and content types (no auto-redirect).
+Application-Specific Clocks
+Express® Clock Buffers and Multiplexers
+Processor Clock Buffers
+Processor Clock Generators
+Buffers and Dividers
+Spread-Spectrum Clocks
+Clock Distribution
+Clock Buffers & Drivers
+Clock Dividers
+Zero Delay Buffers (ZDB)
+Clocks - Low Jitter (<700 fs RMS)
+Clocks - Ultra-Low Jitter (<300 fs RMS)
+Clocks - Extreme Performance (<150 fs RMS)
+Programmable Clocks
+Crystal Oscillators
+Jitter Attenuators with Frequency Translation
+Memory & Logic
+3.3Double Density (General Purpose Bus Switch)
+3.3QuickSwitch (High Bandwidth Bus Switch)
+Analog Multiplexers and Demultiplexers
+(Embedded Host Bridges)
+Asynchronous FIFOs
+Memory Interface Products
+Multi-Port Memory
+Asynchronous Dual-Port RAMs
+Asynchronous Low-Power Dual-Port RAMs
+Bank-Switchable Dual-Port RAMs
+FourPort RAMs
+Asynchronous SRAMs
+Zero Bus Turnaround (ZBT)
+Standard Logic
+6LoWireless Modules
+AS-Interface Products
+Memory Interface Products
+Millimeter and Microwave Solutions (mmWave)
+Optical Interconnect - Datacom
+Optical and Retimers
+Optical Transimpedance Amplifiers (TIA) - Datacom
+Optical Interconnect - Telecom
+Optical Modulator Drivers
+Optical Transimpedance Amplifiers (TIA) - Telecom
+Express® Clock Buffers and Multiplexers
+Physical Layer Products
+Serial RapidIO® Solutions
+Express® to Serial RapidIO® Bridges
+Signal Integrity Products
+Multiprotocol Repeaters
+Video Broadcast Software & ASICs
+Power Management
+Motor Control ICs
+Power Management ICs (PMIC) and PMUs
+Wireless Power Receivers
+Millimeter and Microwave Solutions (mmWave)
+Modulators & Demodulators
+Variable Gain Amplifiers (VGA)
+Sensor Products
+Sensor Signal Conditioners
+Wireless Power Receivers
+High-performance Computing
+Industrial & Embedded
+Wireless Infrastructure
+Frequently Asked Questions
+Clock Tree Design Service
+Reference Designs
+X-Microwave Modular Blocks
+Sales and Distributor Directory
+Corporate Responsibility & Citizenship
+Acts of Giving
+Breadcrumb
+Reports Fiscal 2019 Q3 Financial Results
+Stockholders Approve Merger Proposal
+Launches Industry’s First Software Upgradeable  Digital Gas Sensor Platform for Smart…
+to Demonstrate Industry’s First  Ionically Cooled Wireless Charger at 2019
+to Showcase its Latest Wireless Power Advancements at 2019
+Provides New Firmware for its Latest Indoor Air Quality Platform to Support Low-Power…
+Receives a 2018 Supply & Demand Chain Executive Green Supply Chain Award
+Gas Sensor and Wireless Power Transmitter Win Elecfans Innovation Awards
+Introduces New Amplifier with Superior Wide-Band and High Linearity Performance
+Toshiba Memory Corporation Selects IDT’s Highly-Scalable Power Management Solution for…
+Introduces New 6LoModule for Wirelessly Connecting IoDevices
+Reports Fiscal 2019 Q2 Financial Results
+Releases New Firmware for Bathroom and Kitchen Applications on its Indoor Air Quality…
+Leads the Charge in the Automotive Market with Industry First In-vehicle Wireless Char…
+Adopts IDT’s Distributed Power Management for Ioand Industrial Computing Solut…
+Announces 100Single Lambda Driver and  for 200G/400Datacenter Applications
+Releases Industry’s First Chipset for 200G/400Datacom Modules
+Samsung Wirelessly Powers Multiple Devices Using IDT’s Advanced Wireless Charging Technolo…
+Renesas to Acquire Technology, to Enhance Global Leadership in Embedded…
+Samsung Uses IDT’s Industry-Leading Wireless Power Solutions for New Galaxy Note9 Smartpho…
+Announces New Sensor Connectivity Kit for IoApplications
+Wins Prestigious Inspur Best Support Award 2018
+and Steradian Semiconductors Announce Strategic Partnership to Deliver Ultra-High Reso…
+to Present at Upcoming Investor Conferences
+Reports Fiscal 2019 Q1 Financial Results
+and IoT40 Systems Partner on IoSolutions for Industrial Applications
+IDT’s RapidEnables Artificial Intelligence, Machine Learning, and Analytics…
+IDT’s Customer Senseonics Receives Approval for Its Implantable Glucose Sensor
+Offers Updated Open Standard Solution for Sensors and IoApplications
+to Release First Quarter Fiscal Year 2019 Financial Results on Monday, July 30, 2018
+Appoints Kuinam (KN) Kim as Vice President, Sales and Country Manager for South Korea
+Expands its Flagship Gas Sensor Line With Solutions for Indoor Air Qual…
+and Thetasys Announce Partnership to Expand Design Services
+ (Jun 19, 2018)
+and Ltd. Announce New Franchise
+Announces Successful Repricing of $198 Million of Term Loan with Existing Invest…
+Sony Mobile Selects Wireless Charging Chipset for XZ2 Smartphones and Wireless Chargin…
+to Present at Upcoming Investor Conferences
+Launches GX76470 Die Linear Driver for 400ZR, Metro, and Applications
+Reports Fiscal 2018 Q4 and Full Year Financial Results
+Extends Leadership in Datacenter and Networking Systems with Launch of Its Latest PCI…
+Samsung’s Galaxy S9 and Galaxy S9+ Smartphones are Powered by IDT® Wireless Charging Chips…
+to Showcase Latest Solutions at  TECHNO-2018
+to Showcase Video Transcoding Innovations at 2018
+Xiaomi Selects IDT® Wireless Charging Chipset for 2Smartphone and Wireless Chargi…
+to Release Fourth Quarter Fiscal Year 2018 Financial Results on Monday, April 30, 2018
+Completes 200G/400Intra- and Inter- Datacenter Applications With Introduction of HXR…
+Accelerates the Move to 5with New 25Linear Driver
+to Showcase Best-in-Class 64Linear Driver for Coherent Applications at 2018
+ (Oct 23, 2015)
+ (Oct 16, 2015)
+ (Oct 16, 2015)
+ (Oct 27, 2014)
+Contributed Articles
+Corporate Responsibility & Citizenship
+Acts of Giving
+Join thousands of engineers who never miss out on learning about the latest product from Enter your email below and click go!
+Stay current on the broadest and deepest silicon timing portfolio in the industry. Learn about IDT’s advanced timing products and how they can solve timing challenges in wireless infrastructure, networking, data centers and consumer applications.
+Subscribe to learn how IDT’s full-featured products help address unwanted interference in an increasingly crowded radio spectrum. IDT’s solutions address the evolving needs of 4G/5base stations, communications systems, microwave, industrial, and more.
+Leveraging 20+ years of industry experience, IDT's sensor technologies offer best-in-class performance in a wide array of applications ranging from industrial to automotive. Stay informed about the latest news and differentiated sensor offerings from a proven, trusted partner in the sensor space.
+Stay on the cutting edge with IDT's wireless power solutions. Learn how leads the way with an innovative Soarchitecture, industry-leading efficiency, and hardware/algorithm implementations.
+Corporate Responsibility
+Before you submit a part request, we kindly ask that you login or 
+ to validate your email account. Once completed, you will be returned to your part request form. Don't worry, it's quick!
+Standard search with a direct link to product, package, and page content when applicable.
+Enter a competitor's part number for list of IDT-compatible parts.
+Display a full list of search results and content types (no auto-redirect).
+Application-Specific Clocks
+Express® Clock Buffers and Multiplexers
+Processor Clock Buffers
+Processor Clock Generators
+Buffers and Dividers
+Spread-Spectrum Clocks
+Clock Distribution
+Clock Buffers & Drivers
+Clock Dividers
+Zero Delay Buffers (ZDB)
+Clocks - Low Jitter (<700 fs RMS)
+Clocks - Ultra-Low Jitter (<300 fs RMS)
+Clocks - Extreme Performance (<150 fs RMS)
+Programmable Clocks
+Crystal Oscillators
+Jitter Attenuators with Frequency Translation
+Memory & Logic
+3.3Double Density (General Purpose Bus Switch)
+3.3QuickSwitch (High Bandwidth Bus Switch)
+Analog Multiplexers and Demultiplexers
+(Embedded Host Bridges)
+Asynchronous FIFOs
+Memory Interface Products
+Multi-Port Memory
+Asynchronous Dual-Port RAMs
+Asynchronous Low-Power Dual-Port RAMs
+Bank-Switchable Dual-Port RAMs
+FourPort RAMs
+Asynchronous SRAMs
+Zero Bus Turnaround (ZBT)
+Standard Logic
+6LoWireless Modules
+AS-Interface Products
+Memory Interface Products
+Millimeter and Microwave Solutions (mmWave)
+Optical Interconnect - Datacom
+Optical and Retimers
+Optical Transimpedance Amplifiers (TIA) - Datacom
+Optical Interconnect - Telecom
+Optical Modulator Drivers
+Optical Transimpedance Amplifiers (TIA) - Telecom
+Express® Clock Buffers and Multiplexers
+Physical Layer Products
+Serial RapidIO® Solutions
+Express® to Serial RapidIO® Bridges
+Signal Integrity Products
+Multiprotocol Repeaters
+Video Broadcast Software & ASICs
+Power Management
+Motor Control ICs
+Power Management ICs (PMIC) and PMUs
+Wireless Power Receivers
+Millimeter and Microwave Solutions (mmWave)
+Modulators & Demodulators
+Variable Gain Amplifiers (VGA)
+Sensor Products
+Sensor Signal Conditioners
+Wireless Power Receivers
+High-performance Computing
+Industrial & Embedded
+Wireless Infrastructure
+Frequently Asked Questions
+Clock Tree Design Service
+Reference Designs
+X-Microwave Modular Blocks
+Sales and Distributor Directory
+Corporate Responsibility & Citizenship
+Acts of Giving
+Breadcrumb
+Sales Support - Worldwide Sales Offices
+Sales and Distributor Directory
+Headquarters and Corporate Offices
+, Director of Marketing
+Corporate Responsibility & Citizenship
+Acts of Giving
+Join thousands of engineers who never miss out on learning about the latest product from Enter your email below and click go!
+Stay current on the broadest and deepest silicon timing portfolio in the industry. Learn about IDT’s advanced timing products and how they can solve timing challenges in wireless infrastructure, networking, data centers and consumer applications.
+Subscribe to learn how IDT’s full-featured products help address unwanted interference in an increasingly crowded radio spectrum. IDT’s solutions address the evolving needs of 4G/5base stations, communications systems, microwave, industrial, and more.
+Leveraging 20+ years of industry experience, IDT's sensor technologies offer best-in-class performance in a wide array of applications ranging from industrial to automotive. Stay informed about the latest news and differentiated sensor offerings from a proven, trusted partner in the sensor space.
+Stay on the cutting edge with IDT's wireless power solutions. Learn how leads the way with an innovative Soarchitecture, industry-leading efficiency, and hardware/algorithm implementations.
+Corporate Responsibility
+Before you submit a part request, we kindly ask that you login or 
+ to validate your email account. Once completed, you will be returned to your part request form. Don't worry, it's quick!
+Standard search with a direct link to product, package, and page content when applicable.
+Enter a competitor's part number for list of IDT-compatible parts.
+Display a full list of search results and content types (no auto-redirect).
+Application-Specific Clocks
+Express® Clock Buffers and Multiplexers
+Processor Clock Buffers
+Processor Clock Generators
+Buffers and Dividers
+Spread-Spectrum Clocks
+Clock Distribution
+Clock Buffers & Drivers
+Clock Dividers
+Zero Delay Buffers (ZDB)
+Clocks - Low Jitter (<700 fs RMS)
+Clocks - Ultra-Low Jitter (<300 fs RMS)
+Clocks - Extreme Performance (<150 fs RMS)
+Programmable Clocks
+Crystal Oscillators
+Jitter Attenuators with Frequency Translation
+Memory & Logic
+3.3Double Density (General Purpose Bus Switch)
+3.3QuickSwitch (High Bandwidth Bus Switch)
+Analog Multiplexers and Demultiplexers
+(Embedded Host Bridges)
+Asynchronous FIFOs
+Memory Interface Products
+Multi-Port Memory
+Asynchronous Dual-Port RAMs
+Asynchronous Low-Power Dual-Port RAMs
+Bank-Switchable Dual-Port RAMs
+FourPort RAMs
+Asynchronous SRAMs
+Zero Bus Turnaround (ZBT)
+Standard Logic
+6LoWireless Modules
+AS-Interface Products
+Memory Interface Products
+Millimeter and Microwave Solutions (mmWave)
+Optical Interconnect - Datacom
+Optical and Retimers
+Optical Transimpedance Amplifiers (TIA) - Datacom
+Optical Interconnect - Telecom
+Optical Modulator Drivers
+Optical Transimpedance Amplifiers (TIA) - Telecom
+Express® Clock Buffers and Multiplexers
+Physical Layer Products
+Serial RapidIO® Solutions
+Express® to Serial RapidIO® Bridges
+Signal Integrity Products
+Multiprotocol Repeaters
+Video Broadcast Software & ASICs
+Power Management
+Motor Control ICs
+Power Management ICs (PMIC) and PMUs
+Wireless Power Receivers
+Millimeter and Microwave Solutions (mmWave)
+Modulators & Demodulators
+Variable Gain Amplifiers (VGA)
+Sensor Products
+Sensor Signal Conditioners
+Wireless Power Receivers
+High-performance Computing
+Industrial & Embedded
+Wireless Infrastructure
+Frequently Asked Questions
+Clock Tree Design Service
+Reference Designs
+X-Microwave Modular Blocks
+Sales and Distributor Directory
+Corporate Responsibility & Citizenship
+Acts of Giving
+Breadcrumb
+ President and Chief Executive Officer
+Senior Vice President and Chief Financial Officer
+Sailesh Chittipeddi, Ph.D.
+Executive Vice President, Global Operations and Chief Officer
+Senior Vice President of Global Sales and Marketing
+Vice President, Chief Legal Officer and Corporate Secretary
+Senior Vice President and Corporate General Manager, Computing and Communications Group
+Vice President and Corporate General Manager, Automotive and Industrial Group
+Senior Vice President and Corporate General Manager, Mobility Products Group
+Global Head of Human Resources
+Corporate Responsibility & Citizenship
+Acts of Giving
+Join thousands of engineers who never miss out on learning about the latest product from Enter your email below and click go!
+Stay current on the broadest and deepest silicon timing portfolio in the industry. Learn about IDT’s advanced timing products and how they can solve timing challenges in wireless infrastructure, networking, data centers and consumer applications.
+Subscribe to learn how IDT’s full-featured products help address unwanted interference in an increasingly crowded radio spectrum. IDT’s solutions address the evolving needs of 4G/5base stations, communications systems, microwave, industrial, and more.
+Leveraging 20+ years of industry experience, IDT's sensor technologies offer best-in-class performance in a wide array of applications ranging from industrial to automotive. Stay informed about the latest news and differentiated sensor offerings from a proven, trusted partner in the sensor space.
+Stay on the cutting edge with IDT's wireless power solutions. Learn how leads the way with an innovative Soarchitecture, industry-leading efficiency, and hardware/algorithm implementations.
+Corporate Responsibility
+Before you submit a part request, we kindly ask that you login or 
+ to validate your email account. Once completed, you will be returned to your part request form. Don't worry, it's quick!
+Standard search with a direct link to product, package, and page content when applicable.
+Enter a competitor's part number for list of IDT-compatible parts.
+Display a full list of search results and content types (no auto-redirect).
+Application-Specific Clocks
+Express® Clock Buffers and Multiplexers
+Processor Clock Buffers
+Processor Clock Generators
+Buffers and Dividers
+Spread-Spectrum Clocks
+Clock Distribution
+Clock Buffers & Drivers
+Clock Dividers
+Zero Delay Buffers (ZDB)
+Clocks - Low Jitter (<700 fs RMS)
+Clocks - Ultra-Low Jitter (<300 fs RMS)
+Clocks - Extreme Performance (<150 fs RMS)
+Programmable Clocks
+Crystal Oscillators
+Jitter Attenuators with Frequency Translation
+Memory & Logic
+3.3Double Density (General Purpose Bus Switch)
+3.3QuickSwitch (High Bandwidth Bus Switch)
+Analog Multiplexers and Demultiplexers
+(Embedded Host Bridges)
+Asynchronous FIFOs
+Memory Interface Products
+Multi-Port Memory
+Asynchronous Dual-Port RAMs
+Asynchronous Low-Power Dual-Port RAMs
+Bank-Switchable Dual-Port RAMs
+FourPort RAMs
+Asynchronous SRAMs
+Zero Bus Turnaround (ZBT)
+Standard Logic
+6LoWireless Modules
+AS-Interface Products
+Memory Interface Products
+Millimeter and Microwave Solutions (mmWave)
+Optical Interconnect - Datacom
+Optical and Retimers
+Optical Transimpedance Amplifiers (TIA) - Datacom
+Optical Interconnect - Telecom
+Optical Modulator Drivers
+Optical Transimpedance Amplifiers (TIA) - Telecom
+Express® Clock Buffers and Multiplexers
+Physical Layer Products
+Serial RapidIO® Solutions
+Express® to Serial RapidIO® Bridges
+Signal Integrity Products
+Multiprotocol Repeaters
+Video Broadcast Software & ASICs
+Power Management
+Motor Control ICs
+Power Management ICs (PMIC) and PMUs
+Wireless Power Receivers
+Millimeter and Microwave Solutions (mmWave)
+Modulators & Demodulators
+Variable Gain Amplifiers (VGA)
+Sensor Products
+Sensor Signal Conditioners
+Wireless Power Receivers
+High-performance Computing
+Industrial & Embedded
+Wireless Infrastructure
+Frequently Asked Questions
+Clock Tree Design Service
+Reference Designs
+X-Microwave Modular Blocks
+Sales and Distributor Directory
+Corporate Responsibility & Citizenship
+Acts of Giving
+Technology, Inc. develops system-level solutions that optimize its customers’ applications. IDT’s market-leading products in RF, high performance timing, memory interface, real-time interconnect, optical interconnect, wireless power, and smart sensors are among the company’s broad array of complete mixed-signal solutions for the communications, computing, consumer, automotive and industrial segments. Headquartered in San Jose, Calif., IDT has design, manufacturing, sales facilities and distribution partners throughout the world. IDT stock is traded on the NASDAQ Global Select Stock Market® under the symbol “IDTI.”
+Financials: Revenue – $728 (FY17)
+Core Expertise: RF, high-performance timing, memory interface, real-time interconnect, optical interconnect, wireless power, and SmartSensors
+Corporate Snapshot
+Corporate Responsibility & Citizenship
+Acts of Giving
+Join thousands of engineers who never miss out on learning about the latest product from Enter your email below and click go!
+Stay current on the broadest and deepest silicon timing portfolio in the industry. Learn about IDT’s advanced timing products and how they can solve timing challenges in wireless infrastructure, networking, data centers and consumer applications.
+Subscribe to learn how IDT’s full-featured products help address unwanted interference in an increasingly crowded radio spectrum. IDT’s solutions address the evolving needs of 4G/5base stations, communications systems, microwave, industrial, and more.
+Leveraging 20+ years of industry experience, IDT's sensor technologies offer best-in-class performance in a wide array of applications ranging from industrial to automotive. Stay informed about the latest news and differentiated sensor offerings from a proven, trusted partner in the sensor space.
+Stay on the cutting edge with IDT's wireless power solutions. Learn how leads the way with an innovative Soarchitecture, industry-leading efficiency, and hardware/algorithm implementations.
+Corporate Responsibility
+Before you submit a part request, we kindly ask that you login or 
+ to validate your email account. Once completed, you will be returned to your part request form. Don't worry, it's quick!
+Standard search with a direct link to product, package, and page content when applicable.
+Enter a competitor's part number for list of IDT-compatible parts.
+Display a full list of search results and content types (no auto-redirect).
+Application-Specific Clocks
+Express® Clock Buffers and Multiplexers
+Processor Clock Buffers
+Processor Clock Generators
+Buffers and Dividers
+Spread-Spectrum Clocks
+Clock Distribution
+Clock Buffers & Drivers
+Clock Dividers
+Zero Delay Buffers (ZDB)
+Clocks - Low Jitter (<700 fs RMS)
+Clocks - Ultra-Low Jitter (<300 fs RMS)
+Clocks - Extreme Performance (<150 fs RMS)
+Programmable Clocks
+Crystal Oscillators
+Jitter Attenuators with Frequency Translation
+Memory & Logic
+3.3Double Density (General Purpose Bus Switch)
+3.3QuickSwitch (High Bandwidth Bus Switch)
+Analog Multiplexers and Demultiplexers
+(Embedded Host Bridges)
+Asynchronous FIFOs
+Memory Interface Products
+Multi-Port Memory
+Asynchronous Dual-Port RAMs
+Asynchronous Low-Power Dual-Port RAMs
+Bank-Switchable Dual-Port RAMs
+FourPort RAMs
+Asynchronous SRAMs
+Zero Bus Turnaround (ZBT)
+Standard Logic
+6LoWireless Modules
+AS-Interface Products
+Memory Interface Products
+Millimeter and Microwave Solutions (mmWave)
+Optical Interconnect - Datacom
+Optical and Retimers
+Optical Transimpedance Amplifiers (TIA) - Datacom
+Optical Interconnect - Telecom
+Optical Modulator Drivers
+Optical Transimpedance Amplifiers (TIA) - Telecom
+Express® Clock Buffers and Multiplexers
+Physical Layer Products
+Serial RapidIO® Solutions
+Express® to Serial RapidIO® Bridges
+Signal Integrity Products
+Multiprotocol Repeaters
+Video Broadcast Software & ASICs
+Power Management
+Motor Control ICs
+Power Management ICs (PMIC) and PMUs
+Wireless Power Receivers
+Millimeter and Microwave Solutions (mmWave)
+Modulators & Demodulators
+Variable Gain Amplifiers (VGA)
+Sensor Products
+Sensor Signal Conditioners
+Wireless Power Receivers
+High-performance Computing
+Industrial & Embedded
+Wireless Infrastructure
+Frequently Asked Questions
+Clock Tree Design Service
+Reference Designs
+X-Microwave Modular Blocks
+Sales and Distributor Directory
+Corporate Responsibility & Citizenship
+Acts of Giving
+Breadcrumb
+Presenting the Automotive Tech Seminar at MotorWorld, Germany
+ZWIR4532 6LoWireless Module for IoSensor Networks
+ZMOD4410 Indoor Air Quality Sensor, Flexible Software Upgradability
+ZMOD4410 Indoor Air Quality Sensor Google Home Assistant Integration Demo
+Express Common Clock Jitter Model and Transfer Functions
+Express Gen 1 to Gen 4/Gen 5 Clock Specification Evolution
+Express Gen 1 to Gen 4/Gen 5 Data Rate Evolution
+Measuring Indoor Air Quality (IAQ) and Estimating CO2 Levels with Advanced Sensors by IDT
+ZMOD4410 and Indoor Air Quality Sensor Platform Overview
+RapidWave RWM6050 Introduction - mmWave Baseband Wireless Modem
+RapidWave RWM6050 mmWave Modem Point-to-Multipoint Demonstration
+RapidWave RWM6050 mmWave Modem Co-channel Performance Demonstration
+PhiClock™ PCIe Gen 4 Clock Generators, 9FGV100x Family
+PCIe Gen 4 Clock Buffers, 9Family
+ZMOD4410-Evaluation Kit Overview and Start-up Guide
+Generating a PCIe Gen 4 Compliant Reference Clock from a Gen 3 Source Using the 9ZXL1951D
+Is it Magic? The new PJ9levitating speaker
+Relative Humidity Sensors (Sensors) by IDT
+How To: Design Low-Cost Contactless Position Sensors
+VersaClock® 6 - High-performance Programmable Clock Generator
+Introduction to Gas Sensor Solutions
+Sensor Signal Conditioner (SSC) Evaluation Kit Overview
+Introduction to Sensor Signal Conditioning Solutions
+How to Test Gas Sensors Without Expensive Laboratory Equipment
+15Wireless Power Reference Kit w/ Bi-directional Communication
+Wireless Power Webinar - View from the Other Side of the Chasm (Presented in Chinese)
+VersaClock 3Development Kit and Programming Demonstration
+8T49N240 Programmable Clock Generator and Jitter Attenuator for 10Gbps, 40Gbps, and 100Gbps
+FS2012 Gas and Liquid Flow Meter Module for Industrial, Medical and Food Applications
+Solid-State Flow Sensor Module / Flow Meter for Liquids and Gases by IDT
+Liquid / Fuel Level Gauge Demo with Inductive Position Sensor
+8T49N240 Clock Generator and Jitter Attenuator for 10Gbps and 40/100Gbps Multi-lane Interfaces
+VersaClock 3Low-Power Programmable Clock Generator ICs
+ZMID520x Inductive Contactless Position Sensors by IDT
+Wireless WattShare Demonstration by IDT
+and The Connected Car
+and the Connected Home
+and The Future of Infotainment
+Switch Constant Impedance Lab Demonstration
+Contact-less Position Sensing Demo at 2017
+P9221-15Qi Wireless Power Receiver Solution by IDT
+Versamixer Mixer Demonstration
+Corporate Responsibility & Citizenship
+Acts of Giving
+Join thousands of engineers who never miss out on learning about the latest product from Enter your email below and click go!
+Stay current on the broadest and deepest silicon timing portfolio in the industry. Learn about IDT’s advanced timing products and how they can solve timing challenges in wireless infrastructure, networking, data centers and consumer applications.
+Subscribe to learn how IDT’s full-featured products help address unwanted interference in an increasingly crowded radio spectrum. IDT’s solutions address the evolving needs of 4G/5base stations, communications systems, microwave, industrial, and more.
+Leveraging 20+ years of industry experience, IDT's sensor technologies offer best-in-class performance in a wide array of applications ranging from industrial to automotive. Stay informed about the latest news and differentiated sensor offerings from a proven, trusted partner in the sensor space.
+Stay on the cutting edge with IDT's wireless power solutions. Learn how leads the way with an innovative Soarchitecture, industry-leading efficiency, and hardware/algorithm implementations.
+Corporate Responsibility
+Before you submit a part request, we kindly ask that you login or 
+ to validate your email account. Once completed, you will be returned to your part request form. Don't worry, it's quick!
+Standard search with a direct link to product, package, and page content when applicable.
+Enter a competitor's part number for list of IDT-compatible parts.
+Display a full list of search results and content types (no auto-redirect).
+Application-Specific Clocks
+Express® Clock Buffers and Multiplexers
+Processor Clock Buffers
+Processor Clock Generators
+Buffers and Dividers
+Spread-Spectrum Clocks
+Clock Distribution
+Clock Buffers & Drivers
+Clock Dividers
+Zero Delay Buffers (ZDB)
+Clocks - Low Jitter (<700 fs RMS)
+Clocks - Ultra-Low Jitter (<300 fs RMS)
+Clocks - Extreme Performance (<150 fs RMS)
+Programmable Clocks
+Crystal Oscillators
+Jitter Attenuators with Frequency Translation
+Memory & Logic
+3.3Double Density (General Purpose Bus Switch)
+3.3QuickSwitch (High Bandwidth Bus Switch)
+Analog Multiplexers and Demultiplexers
+(Embedded Host Bridges)
+Asynchronous FIFOs
+Memory Interface Products
+Multi-Port Memory
+Asynchronous Dual-Port RAMs
+Asynchronous Low-Power Dual-Port RAMs
+Bank-Switchable Dual-Port RAMs
+FourPort RAMs
+Asynchronous SRAMs
+Zero Bus Turnaround (ZBT)
+Standard Logic
+6LoWireless Modules
+AS-Interface Products
+Memory Interface Products
+Millimeter and Microwave Solutions (mmWave)
+Optical Interconnect - Datacom
+Optical and Retimers
+Optical Transimpedance Amplifiers (TIA) - Datacom
+Optical Interconnect - Telecom
+Optical Modulator Drivers
+Optical Transimpedance Amplifiers (TIA) - Telecom
+Express® Clock Buffers and Multiplexers
+Physical Layer Products
+Serial RapidIO® Solutions
+Express® to Serial RapidIO® Bridges
+Signal Integrity Products
+Multiprotocol Repeaters
+Video Broadcast Software & ASICs
+Power Management
+Motor Control ICs
+Power Management ICs (PMIC) and PMUs
+Wireless Power Receivers
+Millimeter and Microwave Solutions (mmWave)
+Modulators & Demodulators
+Variable Gain Amplifiers (VGA)
+Sensor Products
+Sensor Signal Conditioners
+Wireless Power Receivers
+High-performance Computing
+Industrial & Embedded
+Wireless Infrastructure
+Frequently Asked Questions
+Clock Tree Design Service
+Reference Designs
+X-Microwave Modular Blocks
+Sales and Distributor Directory
+Corporate Responsibility & Citizenship
+Acts of Giving
+Breadcrumb
+Acts of Giving
+IDT's Acts of Giving program is primarily focused on supporting organizations that promote education in underprivileged communities. is also minded towards being an active community member in the cities where we have offices. We offer opportunities for our employees to volunteer on-site and off-site and also offer a charitable donation matching program (up to $250 per employee per calendar year).
+ The Silicon Valley Children’s Fund (SVCF) is s a 501(c)(3) nonprofit committed to improving educational and life outcomes for foster youth. has provided over $3in scholarship dollars to foster youth in Silicon Valley. Our persistent coaching model provides high school and college foster youth continuous mentor support, education planning, tutoring, career exploration and an unconditional commitment to help them define and achieve their life dreams! scholars are 10x more likely to graduate from college, compared to only 3% of foster youth nationally.
+Sunday Friends empowers families to break the generational cycle of poverty by fostering positive development in children while educating and guiding parents to support their children's life success. Children and parents work together to learn, earn and serve the community.
+Founded in May 2016, EqOpTech, a 501(c)(3) nonprofit organization, promotes Equal Opportunity learning and education through in under-served communities. Our goal is to bridge the digital and education divide by enabling free, equal opportunity learning via access to in under-served community while inspiring and engaging student volunteers to give back and serve as role models to gain meaningful experiences and leadership skills. 
+Triton Museum of Art
+For 50 years, the Triton Museum of Art has been a destination for the community, providing a venue where local artists exhibit their work alongside regional and national artists, and where students of all ages learn about art and the creative process. Located across the street from the Santa Clara Civic Center, the Triton Museum of Art collects and exhibits contemporary and historical works with an emphasis on artists of the Greater Bay Area. The Museum reaches over 158,000 people annually, through its exhibitions, education and community programs, and satellite gallery and exhibition spaces.
+Greene Scholars Program
+Leveraging our unique collaborative model, the Greene Scholars Program assists youth successfully complete higher education in STEM, and serve as positive role models and contributors to their communities. uses to reinforce core subject knowledge through hands-on, student-centered project learning. We provide enrichment opportunities that expose scholars to career path options, the workplace, and innovation in technology. We believe that as scholars build and apply these skills, their STEM-competence and STEM-confidence grows, providing what they need to improve their performance in all academic areas.
+Corporate Responsibility & Citizenship
+Acts of Giving
+Join thousands of engineers who never miss out on learning about the latest product from Enter your email below and click go!
+Stay current on the broadest and deepest silicon timing portfolio in the industry. Learn about IDT’s advanced timing products and how they can solve timing challenges in wireless infrastructure, networking, data centers and consumer applications.
+Subscribe to learn how IDT’s full-featured products help address unwanted interference in an increasingly crowded radio spectrum. IDT’s solutions address the evolving needs of 4G/5base stations, communications systems, microwave, industrial, and more.
+Leveraging 20+ years of industry experience, IDT's sensor technologies offer best-in-class performance in a wide array of applications ranging from industrial to automotive. Stay informed about the latest news and differentiated sensor offerings from a proven, trusted partner in the sensor space.
+Stay on the cutting edge with IDT's wireless power solutions. Learn how leads the way with an innovative Soarchitecture, industry-leading efficiency, and hardware/algorithm implementations.
+Corporate Responsibility
+Before you submit a part request, we kindly ask that you login or 
+ to validate your email account. Once completed, you will be returned to your part request form. Don't worry, it's quick!
+Standard search with a direct link to product, package, and page content when applicable.
+Enter a competitor's part number for list of IDT-compatible parts.
+Display a full list of search results and content types (no auto-redirect).
+Application-Specific Clocks
+Express® Clock Buffers and Multiplexers
+Processor Clock Buffers
+Processor Clock Generators
+Buffers and Dividers
+Spread-Spectrum Clocks
+Clock Distribution
+Clock Buffers & Drivers
+Clock Dividers
+Zero Delay Buffers (ZDB)
+Clocks - Low Jitter (<700 fs RMS)
+Clocks - Ultra-Low Jitter (<300 fs RMS)
+Clocks - Extreme Performance (<150 fs RMS)
+Programmable Clocks
+Crystal Oscillators
+Jitter Attenuators with Frequency Translation
+Memory & Logic
+3.3Double Density (General Purpose Bus Switch)
+3.3QuickSwitch (High Bandwidth Bus Switch)
+Analog Multiplexers and Demultiplexers
+(Embedded Host Bridges)
+Asynchronous FIFOs
+Memory Interface Products
+Multi-Port Memory
+Asynchronous Dual-Port RAMs
+Asynchronous Low-Power Dual-Port RAMs
+Bank-Switchable Dual-Port RAMs
+FourPort RAMs
+Asynchronous SRAMs
+Zero Bus Turnaround (ZBT)
+Standard Logic
+6LoWireless Modules
+AS-Interface Products
+Memory Interface Products
+Millimeter and Microwave Solutions (mmWave)
+Optical Interconnect - Datacom
+Optical and Retimers
+Optical Transimpedance Amplifiers (TIA) - Datacom
+Optical Interconnect - Telecom
+Optical Modulator Drivers
+Optical Transimpedance Amplifiers (TIA) - Telecom
+Express® Clock Buffers and Multiplexers
+Physical Layer Products
+Serial RapidIO® Solutions
+Express® to Serial RapidIO® Bridges
+Signal Integrity Products
+Multiprotocol Repeaters
+Video Broadcast Software & ASICs
+Power Management
+Motor Control ICs
+Power Management ICs (PMIC) and PMUs
+Wireless Power Receivers
+Millimeter and Microwave Solutions (mmWave)
+Modulators & Demodulators
+Variable Gain Amplifiers (VGA)
+Sensor Products
+Sensor Signal Conditioners
+Wireless Power Receivers
+High-performance Computing
+Industrial & Embedded
+Wireless Infrastructure
+Frequently Asked Questions
+Clock Tree Design Service
+Reference Designs
+X-Microwave Modular Blocks
+Sales and Distributor Directory
+Corporate Responsibility & Citizenship
+Acts of Giving
+Breadcrumb
+Consider Your Future at IDT!
+Where teamwork is fueled by inspiration, demonstrated with innovation and rewarded for success
+“IDT’s company culture is very health-conscious. value our wellness programs and on-site gym. I'm able to make an impact and be an individual contributor but still have a range of support locally and globally. I'm exposed to different business units and contribute to multiple projects. This makes my job very exciting. The executives are genuinely interested in what do and support continuous growth.”
+“is an exciting work place. They continue to invest in and have become a center of excellence for innovation in high-performing mixed-signal solutions.”
+offers a rewarding / exciting work environment and strong work-life balance.
+employees help the global electronics industry move forward. We develop, manufacture, promote and sell ICs that enable the mobile Internet and beyond, with products ranging from essential timing semiconductors to cutting-edge chips for wirelessly charging mobile consumer devices. With almost 700 patents in our portfolio and scores of industry awards on our shelves, we have staked leadership positions in timing, serial switching and memory interfaces.
+Creativity is encouraged, and innovation is rewarded. There is an innovate-collaborate-execute culture, and our Grow initiative, created to foster professional development, is centered on the notion that the best way to grow a company is to grow its employees. offers a rewarding, exciting work environment and a strong work-life balance. You'll join a team determined to make a difference—and have fun along the way.
+The energized environment at extends beyond the keyboard, with an emphasis on developing and maintaining a healthy you. offers next level perks: Employees at our various locations share in the pro-health benefits and programs we have made available to our employees and families. Employees at all locations are eligible for gym membership reimbursement or on-site gyms at participating locations and are invited to participate in our Corporate Wellness Challenges program. Depending on your office, you may have access to free flu shots, biometric screenings, on-site massage and classes in healthy eating, boot camp, yoga and Tai Chi.
+But it’s not all about healthy bodies. supports healthy minds as well, sponsoring a tuition reimbursement program for those wishing to further their education.
+Our company is extremely well-managed with an impressive portfolio, with leadership exercising the judgment and discipline that fosters and rewards success. Visit 
+ for a deeper dive, or download our 
+Corporate Snapshot
+hires a talented workforce, and we recognize that it is our talented individuals that make us #1 in our industry. To continue to be #1, we acknowledge the importance of fostering a positive and collaborative environment where ideas are shared and nurtured. We offer internships and careers for undergraduate and graduate students who want to learn, grow and develop through work that is meaningful and innovative. IDT’s internship program spans across digital design, business planning, human resources, product applications, Python development, foundry engineering, marketing and many other opportunities to gain valuable hands on experience. Apply your educational studies to real life projects, make an impact, and gain invaluable skills.
+Meet Our Recruiters
+Christin Billerbeck
+Corporate Responsibility & Citizenship
+Acts of Giving
+Join thousands of engineers who never miss out on learning about the latest product from Enter your email below and click go!
+Stay current on the broadest and deepest silicon timing portfolio in the industry. Learn about IDT’s advanced timing products and how they can solve timing challenges in wireless infrastructure, networking, data centers and consumer applications.
+Subscribe to learn how IDT’s full-featured products help address unwanted interference in an increasingly crowded radio spectrum. IDT’s solutions address the evolving needs of 4G/5base stations, communications systems, microwave, industrial, and more.
+Leveraging 20+ years of industry experience, IDT's sensor technologies offer best-in-class performance in a wide array of applications ranging from industrial to automotive. Stay informed about the latest news and differentiated sensor offerings from a proven, trusted partner in the sensor space.
+Stay on the cutting edge with IDT's wireless power solutions. Learn how leads the way with an innovative Soarchitecture, industry-leading efficiency, and hardware/algorithm implementations.
+Corporate Responsibility
+Before you submit a part request, we kindly ask that you login or 
+ to validate your email account. Once completed, you will be returned to your part request form. Don't worry, it's quick!
+Standard search with a direct link to product, package, and page content when applicable.
+Enter a competitor's part number for list of IDT-compatible parts.
+Display a full list of search results and content types (no auto-redirect).
+Application-Specific Clocks
+Express® Clock Buffers and Multiplexers
+Processor Clock Buffers
+Processor Clock Generators
+Buffers and Dividers
+Spread-Spectrum Clocks
+Clock Distribution
+Clock Buffers & Drivers
+Clock Dividers
+Zero Delay Buffers (ZDB)
+Clocks - Low Jitter (<700 fs RMS)
+Clocks - Ultra-Low Jitter (<300 fs RMS)
+Clocks - Extreme Performance (<150 fs RMS)
+Programmable Clocks
+Crystal Oscillators
+Jitter Attenuators with Frequency Translation
+Memory & Logic
+3.3Double Density (General Purpose Bus Switch)
+3.3QuickSwitch (High Bandwidth Bus Switch)
+Analog Multiplexers and Demultiplexers
+(Embedded Host Bridges)
+Asynchronous FIFOs
+Memory Interface Products
+Multi-Port Memory
+Asynchronous Dual-Port RAMs
+Asynchronous Low-Power Dual-Port RAMs
+Bank-Switchable Dual-Port RAMs
+FourPort RAMs
+Asynchronous SRAMs
+Zero Bus Turnaround (ZBT)
+Standard Logic
+6LoWireless Modules
+AS-Interface Products
+Memory Interface Products
+Millimeter and Microwave Solutions (mmWave)
+Optical Interconnect - Datacom
+Optical and Retimers
+Optical Transimpedance Amplifiers (TIA) - Datacom
+Optical Interconnect - Telecom
+Optical Modulator Drivers
+Optical Transimpedance Amplifiers (TIA) - Telecom
+Express® Clock Buffers and Multiplexers
+Physical Layer Products
+Serial RapidIO® Solutions
+Express® to Serial RapidIO® Bridges
+Signal Integrity Products
+Multiprotocol Repeaters
+Video Broadcast Software & ASICs
+Power Management
+Motor Control ICs
+Power Management ICs (PMIC) and PMUs
+Wireless Power Receivers
+Millimeter and Microwave Solutions (mmWave)
+Modulators & Demodulators
+Variable Gain Amplifiers (VGA)
+Sensor Products
+Sensor Signal Conditioners
+Wireless Power Receivers
+High-performance Computing
+Industrial & Embedded
+Wireless Infrastructure
+Frequently Asked Questions
+Clock Tree Design Service
+Reference Designs
+X-Microwave Modular Blocks
+Sales and Distributor Directory
+Corporate Responsibility & Citizenship
+Acts of Giving
+Breadcrumb
+Corporate Responsibility and Citizenship
+IDT develops semiconductor solutions that interface with digital systems, such as processors and memories, with each other and with the physical world.  At IDT, we believe that as an industry leader, we have a critical role to play in addressing some of our planet’s greatest social and environmental challenges.  is committed to continuous improvement as a global organization through site operations and product development. 
+IDT’s circuits are used for communications, computing, and consumer industries worldwide.  Headquartered in San Jose, California, has design, operations and 
+sales facilities located throughout the world
+Select any of the links below to learn more about  Sustainability at IDT. Questions, comments or feedback are welcome. Contact us at 
+Social and Environmental Management System (S&EMS)
+California Transparency in Supply Chains Act Disclosure
+California Proposition 65 Warning Declaration
+Counterfeit Prevention Policy
+Environmental Policy - 14001
+Health and Safety Policy - 18001
+Accessibility and Accommodations
+is a full member of the 
+Electronic Components Industry Association
+ (ECIA), a not-for-profit trade association representing manufacturers of electronic components and their supplier authorized distribution partners and independent field sales representatives. The association’s mission is to promote and improve the business environment for the authorized sale of electronic components.
+Corporate Responsibility & Citizenship
+Acts of Giving
+Join thousands of engineers who never miss out on learning about the latest product from Enter your email below and click go!
+Stay current on the broadest and deepest silicon timing portfolio in the industry. Learn about IDT’s advanced timing products and how they can solve timing challenges in wireless infrastructure, networking, data centers and consumer applications.
+Subscribe to learn how IDT’s full-featured products help address unwanted interference in an increasingly crowded radio spectrum. IDT’s solutions address the evolving needs of 4G/5base stations, communications systems, microwave, industrial, and more.
+Leveraging 20+ years of industry experience, IDT's sensor technologies offer best-in-class performance in a wide array of applications ranging from industrial to automotive. Stay informed about the latest news and differentiated sensor offerings from a proven, trusted partner in the sensor space.
+Stay on the cutting edge with IDT's wireless power solutions. Learn how leads the way with an innovative Soarchitecture, industry-leading efficiency, and hardware/algorithm implementations.
+Corporate Responsibility
+Before you submit a part request, we kindly ask that you login or 
+ to validate your email account. Once completed, you will be returned to your part request form. Don't worry, it's quick!
+RegisterSmart Search
+Standard search with a direct link to product, package, and page content when applicable.
+Enter a competitor's part number for list of IDT-compatible parts.
+Display a full list of search results and content types (no auto-redirect).
+IDT’s analog mixed-signal products including sensors, high performance interconnect, & optical and wireless power join Renesas’ MCUs, SoCs and power management ICs to deliver comprehensive solutions addressing the increasing demand from Ioto big data processing 
+IDT’s products for memory interconnect and specialized power management enable Renesas to create growth in expanding data economy fields and to further strengthen its presence in the industrial and automotive segments
+US$49.00 per share in cash to be paid for all outstanding shares, representing a premium of approximately 29.5 percent over the unaffected price of IDT’s common stock as of August 30, 2018
+The transaction is expected to be highly accretive to Renesas’ pro-forma non-gross margin, non-(earnings per share) and free cash flows immediately after closing
+Renesas plans to finance the transaction with cash reserves and approximately 679.0 billion yen of bank loans. There will be no issuance of additional share capital for this transaction. 
+TOKYO, Japan, September 11, 2018 | San Jose, California, U.S.A., September 10, 2018― Renesas Electronics Corporation (“Renesas”, TSE: 6723), a premier supplier of advanced semiconductor solutions, and Technology, Inc. (“IDT”, NASDAQ: IDTI), a leading supplier of analog mixed-signal products including sensors, connectivity and wireless power, today announced they have signed a definitive agreement under which Renesas will acquire for US$49.00 per share in an all-cash transaction representing an equity value of approximately US$6.7 billion (approximately 733.0 billion yen at an exchange rate of 110 yen to the dollar). The acquisition combines two recognized leaders in embedded processors and analog mixed-signal semiconductors, each with unique strengths in delivering products to improve performance and efficiency in high-computing electronic systems. The boards of directors of both companies have unanimously approved the transaction. Closing of the transaction is expected to occur in the first half of 2019, following approvals by shareholders and the relevant regulatory authorities. 
+Since 2016, Renesas has been executing its growth strategy to thrive in the global marketplace and become a global leading embedded solution provider. As part of this initiative, Renesas is working to expand its analog solution lineup and to strengthen its kit solution offerings that combine its microcontrollers (MCUs), system-on-chips (SoCs) and analog products. These efforts will be underpinned by revenue growth in its focus domains: automotive segment, which is expected to see tremendous growth with autonomous driving and EV/HEV; industrial and infrastructure segments, which are expected to advance with Industry 4.0 and 5(fifth-generation) wireless communications, as well as the fast-growing Iosegment. Renesas views accretive acquisitions as key enablers in achieving this growth strategy to deliver further incremental growth. The completion of the Intersil Corporation acquisition in February 2017 enabled Renesas to add industry-leading power management and precision analog capabilities to its product portfolio. Renesas is capitalizing on the exciting opportunities in its focus business segments by offering combined solutions. The transaction announced today further accelerates Renesas’ growth strategy, bringing substantial strategic and financial benefits. 
+- Complementary products expand Renesas’ solution offerings 
+The acquisition will provide Renesas with access to a vast array of robust analog mixed-signal capabilities in embedded systems, including RF, advanced timing, memory interface & power management, optical interconnect, wireless power, and smart sensors. The combination of these product lines with Renesas’ advanced MCUs and SoCs and power management ICs enables Renesas to offer comprehensive solutions that support the increasing demand of high data processing performance. The enriched solution offerings will bring optimal systems from external sensors through analog front-end to processors and interfaces. 
+- Expands business growth opportunities
+IDT’s analog mixed-signal products for data sensing, storage and interconnect are key devices that support the growth of data economy. Acquisition of these products enables Renesas to extend its reach to fast-growing data economy-related applications  including data center and communication infrastructure, and to strengthen its presence in the industrial and automotive segments. 
+- Acceleration of global management and operations
+The Intersil acquisition brought diverse talent and management capabilities to accelerate Renesas’ global operations. The transaction announced today extends this effort and will provide Renesas with further proficiency to execute global strategy. 
+- Substantial financial benefits
+Renesas anticipates near- and long-term revenue growth from expanded opportunities and access to fast-growing industries, and cost savings from a greater scale business platform to bring innovation and improvements with an expected financial impact of approximately over US$250 million (non-operating income per year on a run rate basis). The transaction is expected to be accretive to Renesas’ non-gross margin and non-earnings per share by approximately 1.6%pts and 18% (Note), respectively, immediately after closing. 
+"This acquisition will bring us complementary, market-leading analog mixed-signal assets and an incredibly talented group of professionals to help us boost our embedded solution capabilities," said Bunsei Kure, Representative Director, President and of Renesas. “IDT’s products combined with our MCUs, SoCs and power management ICs will enable Renesas to widen its product offerings as well as to expand its reach into areas such as the growing data economy-related space.” 
+“The combination of Technology’s analog mixed-signal leadership with Renesas’ world-leading microcontroller and automotive/industrial franchise creates a new global powerhouse,” said Gregory Waters, President and of “The Combined company will possess the key capabilities that customers in the modern data economy demand.”
+shares are to be acquired at a price of US$49.00 per share, for a total equity value of approximately US$6.7 billion (approximately ¥733.0 billion at an exchange rate of 110 yen to the dollar). Renesas plans to finance the transaction with cash reserves and approximately 679.0 billion yen of bank loans. Renesas does not intend to raise equity financing for this transaction.  
+Morgan Stanley, BofMerrill Lynch and Mizuho Securities acted as financial advisors to Renesas; Morrison & Foerster LLP, and Covington & Burling and Nagashima Ohno & Tsunematsu acted as Renesas’ legal counsel. Morgan acted as exclusive financial advisor to IDT; Latham & Watkins acted as IDT’s legal counsel.  
+Renesas Electronics Corporation ( TSE: 6723 ) delivers trusted embedded design innovation with complete semiconductor solutions that enable billions of connected, intelligent devices to enhance the way people work and live—securely and safely. The number one global supplier of microcontrollers, and a leader in Analog & Power and Soproducts, Renesas provides the expertise, quality, and comprehensive solutions for a broad range of Automotive, Industrial, Home Electronics (HE), Office Automation (OA) and Information Communication (ICT) applications to help shape a limitless future. Learn more at renesas.com .
+Technology, Inc. develops system-level solutions that optimize its customers’ applications. IDT’s market-leading products in RF, high performance timing, memory interface, real-time interconnect, optical interconnect, wireless power and smart sensors are among the company’s broad array of complete mixed-signal solutions for the communications, computing, consumer, automotive and industrial segments. Headquartered in San Jose, Calif., has design, manufacturing, sales facilities and distribution partners throughout the world. stock is traded on the Global Select Stock Market® under the symbol “IDTI.” Additional information about can be found at www.IDT.com . Follow on Facebook , LinkedIn , Twitter , and YouTube .
+Additional Information and Where to Find It
+This communication contains certain information which may constitute forward-looking statements within the meaning of Section 27of the Securities Act of 1933, as amended, and Section 21of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). These statements relate to future events that are based on current expectations, estimates, forecasts and projections. These statements are subject to risks and uncertainties that could cause actual performance or results to differ materially from those expressed in or suggested by the forward-looking statements. All statements other than statements of historical fact or relating to present facts or current conditions included in this communication are forward-looking statements. Such forward-looking statements include, among others, IDT’s current expectations and projections relating to its financial condition, results of operations, plans, objectives, future performance and business. Forward-looking statements can usually be identified by the use of terminology such as “anticipate,” “believe,” “could,” “continue,” “estimate,” “expect,” “goals,” “intend,” “likely,” “may,” “might,” “plan,” “project,” “seek,” “should,” “target,” “will,” “would,” and variations of such words and similar expressions. 
+Those risks, uncertainties and assumptions include, (i) the risk that the proposed transaction may not be completed in a timely manner or at all, which may adversely affect IDT’s business and the price of the common stock of IDT, (ii) the failure to satisfy any of the conditions to the consummation of the proposed transaction, including the adoption of the merger agreement by the stockholders of and the receipt of certain governmental and regulatory approvals, (iii) the occurrence of any event, change or other circumstance that could give rise to the termination of the merger agreement, (iv) the effect of the announcement or pendency of the proposed transaction on IDT’s business relationships, operating results and business generally, (v) risks that the proposed transaction disrupts current plans and operations and the potential difficulties in employee retention as a result of the proposed transaction, (vi) risks related to diverting management’s attention from IDT’s ongoing business operations (vii) the outcome of any legal proceedings that may be instituted against us related to the merger agreement or the proposed transaction; (viii) unexpected costs, charges or expenses resulting from the proposed transaction; and (ix) other risks described in IDT’s filings with the SEC, such as its Quarterly Reports on Form 10-and Annual Reports on Form 10-
+Join thousands of engineers who never miss out on learning about the latest product from Enter your email below and click go!
+Stay current on the broadest and deepest silicon timing portfolio in the industry. Learn about IDT’s advanced timing products and how they can solve timing challenges in wireless infrastructure, networking, data centers and consumer applications.
+Subscribe to learn how IDT’s full-featured products help address unwanted interference in an increasingly crowded radio spectrum. IDT’s solutions address the evolving needs of 4G/5base stations, communications systems, microwave, industrial, and more.
+Leveraging 20+ years of industry experience, IDT's sensor technologies offer best-in-class performance in a wide array of applications ranging from industrial to automotive. Stay informed about the latest news and differentiated sensor offerings from a proven, trusted partner in the sensor space.
+Stay on the cutting edge with IDT's wireless power solutions. Learn how leads the way with an innovative Soarchitecture, industry-leading efficiency, and hardware/algorithm implementations.
+Before you submit a part request, we kindly ask that you login or register to validate your email account. Once completed, you will be returned to your part request form. Don't worry, it's quick!

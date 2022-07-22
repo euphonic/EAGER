@@ -1,0 +1,88 @@
+The Travel Corporation Intranet was built on SharePoint Online. Check out the case study to learn more!
+The Travel Corporation Intranet was built on SharePoint Online. Check out the case study to learn more!
+The Christie Medical website is built on a SharePoint 2013 foundation and Bootstrap framework. One site, all devices!
+Introducing Extranet Publisher - Leveraging Microsoft Azure to share out an entire Office 365 public website anonymously
+Looking To Move To The Cloud?
+Our pre-upgrade assessment can help you get prepared and then we can assist in the migration.
+Check Your SharePoint Farm Health Today
+Prevent a critical incident from ever occuring. We'll look for five common SharePoint implementation mistakes and advise you on fixes.
+Envision designed an adaptive website for The City of Barrie based on the Twitter bootstrap.
+With data centres in Canada now, let Microsoft host your environment for the best security.
+Wilfrid Laurier University Connects with Staff and Faculty through Office 365
+We build award-winning websites, intranets, and extranets both On-Premises and in Office 365.
+We offer various services to improve your websites as well as check up on them, with a strong focus on the cloud.
+Whether it is building SharePoint sites based on out-of-the-box features included with Microsoft SharePoint or building highly customized solutions that leverage the existing SharePoint functionality, Envision has a team of developers, solution specialists, and project managers to make your project a success.
+Envision has been a leader in the Microsoft SharePoint space for over 10 years. With an increasing focus on cloud, we have transitioned to an Office 365 and Microsoft Azure Gold Partner. While we still deliver on-premises SharePoint solutions, our focus today is more on building integrated public websites, intranets, extranets, collaboration portals, electronic forms, and workflows in SharePoint Online and Microsoft Azure.
+Whether it’s building SharePoint sites based on the out-of-the-box features included with Microsoft SharePoint or building highly customized solutions that leverage the existing SharePoint functionality, Envision has a team of developers, solution specialists, and project managers to make your project a success. For over 25 years, Envision has helped our clients develop leading edge Microsoft solutions.
+Envision is a Microsoft Gold Competency Partner , which means that we demonstrate best-in-class capabilities with Microsoft technologies and have access to the latest resources. Our competencies allow us to showcase our expertise in developing, deploying, and supporting rich solutions built on Microsoft SharePoint. We build advanced web portals and rich client user interfaces, help connect teams, improve access to information, and increase productivity. Envision has demonstrated that we are well qualified to help our customers by delivering solutions that are highly functional, scalable, flexible, and secure through a unified platform for intranet, extranet, and internet sites - whether on-premises or in the cloud.
+Board of Directors Portals
+Adaptive Designs
+Upgrades and Migrations
+SharePoint Farm Health Check
+Business Intelligence
+Peter Carson, our President, blogs on his SharePoint research, development, and community outreach.
+Check out some of these industry blogs for the latest on SharePoint including news, tips, and resources.
+ - from the site dedicated to showcasing public SharePoint sites
+Andrew Connell
+ - Andrew Connell's blog
+ - Vlad Catrinescu's blog
+There are currently no upcoming events.
+There are currently no news items.
+From the envisioning stage to delivery, we work closely with you to understand your needs and deliver solutions that empower your business.
+(866) 649-7717As the founder and President of Envision IT, Peter brings over 20 years of technology consulting, certified engineering skills, database design, and application development – combined with strong communication, analytical planning, and business skills.
+Peter possesses unparalleled technical skills. His excellent understanding of business needs of both small and large organizations in the financial, distribution, service, franchisee, and public-sector markets have proven invaluable to our clients.
+Within the Microsoft Community, Peter is known as a partner-evangelist for leading-edge Microsoft Technology. Well recognized as a leader in the SharePoint community, Peter speaks regularly at SharePoint user group meetings, conferences, Microsoft events such as Tech Days, and local universities. In recognition of this, Microsoft has awarded Peter the Microsoft SharePoint designation. As part of the Microsoft P-Seller Partner Program, Peter is guest badged at Microsoft Canada headquarters and benefits from direct access to Microsoft resources.
+He is Vice President of the Toronto SharePoint Users Group, and Past President of the International Association of Microsoft Certified Partners (IAMCP) Canada. Peter holds a Bachelor of Applied Science – Computer Engineering (Dean’s Honour List) from the University of Waterloo.
+Peter maintains a blog on his SharePoint research and development activities at blog.petercarson.ca .
+Denesh Sohan – Director of Development and Products
+Denesh Sohan divides his time between the roles of Director of Development leading the full development team at Envision IT, and Director of Products for the Extranet User Manager business. Denesh has over 10 years of experience designing solutions and leading development teams for major Canadian financial, retail, and public-sector organizations.
+His expertise with SharePoint, .technologies, and client-side web development tools such as JavaScript and JQuery make him invaluable on complex Envision customer solutions.
+On customer extranet solutions, his deep understanding of federated identities, Active Directory Federated Services, and tokens allows him to provide solutions that meet the business requirements utilizing out-of-the-box features as much as possible.
+Denesh holds a Bachelor of Mathematics in Computer Science with an Economics Minor (Honours) from the University of Waterloo. He is a Certified Scrum Master (CSM), Microsoft Certified Technology Specialist, and Microsoft Certified Solutions Associate for Office 365.
+Board of Directors Portals
+Adaptive Designs
+Upgrades and Migrations
+SharePoint Farm Health Check
+Business Intelligence
+You need partners you can depend on. We leverage technology to your highest advantage. It starts with the “Envision” process.
+Just as important as the technology is the process by which your solution is planned and built.  Our process ensures a successful outcome. 
+Envision may apply one of two methodologies depending on the project.  One follows the Microsoft Solutions Framework and is similar to a traditional waterfall approach. The other is an Agile/Scrum approach. Envision can make specific recommendations on the type of methodology to be used based on the project.
+This process follows the seven phases shown below.  With this approach, detailed project requirements are determined up-front.  Most projects will involve the creation of an information architecture, wireframes, creative designs, and functional specifications before the building phase begins, although this can vary by project.
+Agile Approach
+The Agile Project Management Process works well in projects where the requirements are not clearly known, the customer is not sure of what they want, and the customer would like to add more flexibility to the project. With this approach, the team works in 2-4 week increments, or sprints, and there are several sprints that typically make up a project. 
+The goal of each sprint is to have the features developed, created, documented, and tested by the end of the sprint. Customers will see working components much faster. The project is inspected daily and at the end of every iteration. This methodology welcomes change and is more flexible, and can deliver solutions in a shorter amount of time as there is no need to have all of the requirements and design completed before the build process begins.
+There are currently no upcoming events.
+There are currently no news items.
+From the envisioning stage to delivery, we work closely with you to understand your needs and deliver solutions that empower your business.
+Board of Directors Portals
+Adaptive Designs
+Upgrades and Migrations
+SharePoint Farm Health Check
+Business Intelligence
+We recognize that we need solid partnerships to deliver the most innovative solutions.
+By pairing with similarly dynamic organizations that offer complimentary services, we are able to extend our range of service and capitalize on market intelligence. Some of the partners we consult with include:
+Within the Microsoft community, Envision has gained a well-deserved reputation for expert knowledge and early adoption of new Microsoft technologies. Envision has provided demonstrations and proof-of-concepts to support the Microsoft sales and marketing team and has provided development services to Microsoft Canada. Envision is regularly invited to the Microsoft corporate campus in Redmond, Washington for early briefings on new technologies. Read more about our 
+Sharegate believes that life should be just damn simple. They dedicate their energy to making you happy when dealing with Office 365 and SharePoint. Sharegate Management & Migration makes your life easier while managing and migrating SharePoint. Ensure that your Office 365 and SharePoint security is flawless, get smart insight to clean up your environments according to your governance plan, and successfully migrate from one farm to another. All in one place. With Sharegate, you instantly become a SharePoint hero.
+Nintex delivers innovative software and cloud services that empower organizations to automate business processes, quickly and easily. Products include Nintex Workflow, recognized by analysts as the most utilized third party tool for SharePoint, and Nintex Forms, the breakthrough technology that enables SharePoint forms to be designed and deployed quickly and easily to any mobile or device. 
+Collabware creates intelligent software that enhances the way people communicate, collaborate and consume information. Our software is designed to increase team productivity, protect sensitive data, and help organizations rapidly locate essential information.
+Metalogix Software is the trusted provider of innovative content lifecycle management solutions for Microsoft SharePoint, Exchange, and Cloud platforms. Metalogix delivers high-performance solutions to scale and also cost-effectively manages, migrates, stores, archives, and protects enterprise content.
+New Signature Canada (formerly Consulting) is a leading Microsoft Gold and Silver Certified Partner focused on the areas of Platform Services, Directory Services, Systems Management, and Cloud Computing. New Signature Canada has the proven expertise and experience to design and build secure, scalable, and stable Microsoft based environments and has been responsible for the design and implementation of countless multi-site, complex Windows Server architectures and other Microsoft related core infrastructure technologies. 
+Envision IT's partnership with Sun Media has resulted in our joint venture of StreetPerfect.NET, providing cost effective North American address lookup and validation functionality through a web service model.
+There are currently no upcoming events.
+There are currently no news items.
+From the envisioning stage to delivery, we work closely with you to understand your needs and deliver solutions that empower your business.
+Board of Directors Portals
+Adaptive Designs
+Upgrades and Migrations
+SharePoint Farm Health Check
+Business Intelligence
+We've had the pleasure of working with great customers.
+There are currently no upcoming events.
+There are currently no news items.
+From the envisioning stage to delivery, we work closely with you to understand your needs and deliver solutions that empower your business.
+(866) 649-7717Envision joined the Microsoft Partner Network in 1997 and was one of the first Microsoft Gold Competency Partners in Canada. Our Gold competency in Collaboration and Content and Silver in Cloud Productivity ,  Cloud Platform and Application Development demonstrate our expertise in developing rich, innovative, and highly scalable solutions on the Microsoft SharePoint platform, both on-premises and in the cloud.
+There are many Sales, Consultant, and Technical certifications that are required to achieve these competencies, which our full-time staff have attained and maintained.
+As part of our SharePoint expertise, Envision is certified to provide SharePoint Deployment Planning Services which enables our clients to utilize their Microsoft Software Assurance benefits to pay for part of their projects with us.
+Envision is also one of approximately 60 Managed Canadian partners that have a dedicated Partner Account Manager at Microsoft due to our commitment to the Microsoft stack of products and our strategic importance to Microsoft Canada being successful.
+Within the Microsoft corporate community, Envision has gained a well-deserved reputation for expert knowledge and early adoption of new Microsoft technologies. Envision has provided demonstrations and Proof-of-Concepts to support the Microsoft sales and marketing team, and also provided development services to Microsoft Canada, through the development of the “Ready Set Share” Portal which is an Extranet to Microsoft Partner Organizations. Envision is regularly invited to the Microsoft corporate campus in Redmond, Washington for early briefings on new technologies.
+Our President, Peter Carson , is a Microsoft As part of the Microsoft P-Seller Partner Program, Peter is guest badged at Microsoft Canada headquarters and benefits from direct access to Microsoft resources. Peter speaks regularly at SharePoint events across North America and is highly regarded at Microsoft as an expert in SharePoint.

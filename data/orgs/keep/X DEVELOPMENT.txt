@@ -1,0 +1,33 @@
+This page has general information on development, including how to get started.
+common misconception is that developers need to understand all of to get started. This is not true, and even of the "core" developers, only few actually know all the pieces that put together. The best way to get started is to simply pick a problem and give it a try.
+There is also a new book in the Amazon Kindle format, Hands-on Projects for the LinuGraphics Subsystem . This includes a number of original projects on the X.Org implementation of the Linugraphics subsystem. The book is aimed for instructors, students and any other internals enthusiasts.
+New Developer’s Guide : High level introduction to and the surrounding graphics stack, and how to get started in developing for them.
+Xplain: Explaining X11 for the rest of us : Another introduction to X, with interactive examples - work in progress.
+Glossary : Various terms used in X, and what they mean.
+Submitting patches : How to submit a patch to an Xorg project.
+Making a release : How to make an individual module release.
+Writing documentation : How to document your work in X.
+server source layout : map to the different directories in the server source
+The devPrivates system : All about the private storage system in the server.
+Wrapping functions : How to add hooks to functions in the server.
+Grab processing : How input grabs are dealt with in the server.
+Cursor handling : Introduction into DIcursor handling.
+Input event processing : How input events are dealt with in the server.
+Security : How to make use of the security facilities within X.
+Performance : fairly detailed document explaining what our performance problems actually are, and things that aren't performance problems at all.
+Dri Wiki : Information about using the Direct Rendering Infrastructure (DRI) with X.
+Multiseat : Various informations about how to obtain and develop such model.
+Deprecated and obsolete : Notes on deprecated and obsolete extensions and server-side stuff.
+More Xorg Documentation : Some pointers from deep in the Wiki. This page should possibly be moved into Development/Documentation.
+Pointer acceleration : information on the pointer accel mechanism.
+Server debugging : How to debug the server with gdb.
+Server profiling : How to profile the server.
+Using Eclipse : Some tips to use Eclipse to develop X.Org.
+PciReworkHowto : How to fia video driver to use libpciaccess
+VgaArbiter : Routing instructions correctly.
+Xv2, Render : a long rambling discussion about giving Pictures GCs, and moving Xv to Render + RandR.
+X12 : a list of things we'd fiif we ever get around to a new version of the core protocol
+Helping out
+? ContributionHOWTO: How to get started contributing bug reports, patches, fixes, or even entire drivers.
+ToDo : Things that need doing.
+Janitor Xorg Janitor project page

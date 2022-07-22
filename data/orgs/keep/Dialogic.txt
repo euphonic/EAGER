@@ -1,0 +1,957 @@
+Where to Buy
+Where to Buy
+An application orchestration and integration platform
+Unified Communications platform enabling the ultimate user experience
+ Service Providers and Enterprises
+OnDemand Voicemail
+for Voand VoWiFi
+VoMobile Data Roaming
+Interworking between and networks
+Diameter Signaling Controller (DSC) and Interworking (IWF)
+Video Conferencing & Recording
+Software Transcoding Gateway
+PowerVille - Load Balancer
+Network Functions Virtualization
+Media Resource Broker (MRB)
+Real-Time Communications (RTC) Load Balancer
+Mobile and Fixed Operators
+Customer Success
+has chosen the BorderNet SBCs to secure and route traffic on its network
+Epsilon Chooses to Support Growing Global Interconnect Fabric
+Selects for its Global Unified Communications Deployments.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry g...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blo...
+Chris Boulton
+DialogicOne – Improving Business Models with Artificial...
+Artificial Intelligence (AI) is extremely hot topic these days, but just stating that a solution or application has “AI” in it became a bit too popula...
+Dialogic– Working with Smart Speakers
+We now live in a time where most of us have heard of smart speakers and quite a few of us have one (or two or more). According to our friends at Gartn...
+The Cloud Comms Summit London 2019
+How to deploy PowerMedia into the cloud
+Cloud optimized real-time communications solutions.
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+is a leading cloud-optimized solutions provider for real-time communications media, applications, and infrastructure to service providers, enterprises, and developers around the globe. Based in Parsippany, with offices worldwide, works with 48 of the world’s top 50 mobile operators, and nearly 1,000 application developers build and deploy on agile networks. Our global team of professional services experts is ready to help you with unparalleled support and consulting so you can get the most out of your network investment.
+For more about Dialogic, read about us in the links below.This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookie Policy .
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+is a leading cloud-optimized solutions provider for real-time communications media, applications, and infrastructure to service providers, enterprises, and developers around the globe. Based in Parsippany, with offices worldwide, works with 48 of the world’s top 50 mobile operators, and nearly 1,000 application developers build and deploy on agile networks. Our global team of professional services experts is ready to help you with unparalleled support and consulting so you can get the most out of your network investment.
+Application Development and Delivery
+Build your next communications application with Dialogic. We deliver both custom and pre-packaged applications, and offer solutions and services to securely and cost-effectively deploy your next application.
+Rich Multimedia Applications
+is number one in the industry in software-based media processing solutions. Let us show you how our voice and video solutions can bring agility and flexibility to your network.
+Seamless Connectivity
+With service provider infrastructure solutions for IMS/Voand networks, increase connectivity between mobile, fixed, next gen, and Over-the-Top players in an ecosystem that was not possible with legacy and networks.
+Pro Services provide turnkey planning, deployment, optimization, and management of your network with a 24x7 global team of technical and operational experts.Login
+Where to Buy
+Where to Buy
+Companies from around the world serve as a vital part of a global ecosystem offering leading solutions.
+Search by Region or Country by selecting Solution Keywords below 
+View Partners alphabetically
+ By choosing Region or Country you will get results of where partners 
+, not where they are located.
+Since many of our partners provide service worldwide, if you are looking for something specific please search by keyword only for best results.
+Search for Partners:
+Click on the filters below to refine your search and then press Search.
+Central and Latin America
+United States
+Antigua and Barbuda
+Aruba
+Azerbaidjan
+British Indian Ocean Territory
+French Southern Territories
+Pitcairn Island
+Saint Kitts and Nevis Anguilla
+Saint Pierre and Miquelon
+Saint Tome Sao Tome and Principe
+Saint Vincent and Grenadines
+Svalbard and Jan Mayen Islands
+Tokelau
+Turks and Caicos Islands
+United States
+artificial intelligence
+audio-conferencing
+bandwidth optimization
+business intelligence
+business process automation
+call accounting
+conferencing
+cti system
+data capture
+distributed document capture and fax
+electronic value distribution
+hotel voicemail system
+Least-Cost-Routing
+location based sms
+managed vas services
+Managed-Service
+manager-secretary systems
+mcommerce
+outbound calling
+pms interface
+precall announcement
+private pbx
+robocall
+scalability
+scalable
+service creation
+signaling based solution
+solutions subscriber segmentation
+voice recording system
+voip
+voip transport
+wakeup calls
+How to deploy PowerMedia into the cloud
+Cloud optimized real-time communications solutions.
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+and IBM’s shared vision for real-time communications has naturally led the two companies to develop technology that can be easily integrated with each other’s solutions. This continued partnership is demonstrated in the number of applications that have been developed over the years with each other’s technology. 
+has established an integration point with the Watson suite of analytics tools in its PowerNova Application Server that can be accessed by both PowerVille real-time communications applications as well as customized applications built on the PowerNova platform.
+This integration point accesses Watson’s and analytics tools via the Voice Gateway using standards based protocols to make interoperability with other solutions straightforward and easier. Read the blog Intersecting Real-Time Communications with Watson Artificial Intelligence for more details.
+debuted their Webcapabilities with Websphere Liberty at Interconnect 2016. WebSphere Liberty is a fast and easy-to-use application server, based on a mix of and open-source software.  When used with Dialogic’s PowerMedia XMS, WebSphere Liberty creates the foundation for multi-media enterprise Webapplications.
+Cognitive Customer Experience Application based on PowerMedia XMS
+was featured in IBM’s Cognitive Agent demonstrations titled “So You Want to Talk To Watson? Just Give It Call” at World of Watson 2016. The demonstration showed how financial service companies can leverage Watson's real-time voice interface to replace aging interactive voice response (IVR) systems with self-service cognitive agents, or provide live agents with real-time voice analytics to better service their customers. PowerMedia enables the demonstration by facilitating a live-agent Websession, providing an interface between the Websession and IBM’s Watson Speech-to-Text engine, performing conversion of voice codecs in real-time (also known as transcoding).  Read the press release for more detail.
+This video shows the ease in integrating Watson’s Speech-to-text services in building a Webgateway using PowerMedia XMS.
+Where to Buy
+Where to Buy
+Company Awards and Recognition
+Receives Best Unified Communications Innovation Award at Capacity Europe 2018
+Receives 2017 WebWorld Product of the Year Award
+Receives 2016 Real Time Web Solutions Excellence Award 
+Labs Names the Winners of the Innovation Awards
+names a 2016 Communications Solutions Products of the Year Award Winner
+Receives WebProduct of the Year Award for Second Consecutive Year
+CIOReview rates as one of "20 Most Promising Wireless Solution Providers 2016
+PowerVille Visual Named Winner At & 5World Awards 2016
+Receives 2016 Product of the Year Award
+Wins 2015 North America Award for Innovation of the Year
+Receives 2015 WebProduct of the Year Award
+Dialogic’s BorderNet Diameter Services Helix Named Finalist for Most Innovative Solution Provider in Broadband Infovision Awards
+Dialogic’s BorderNet Diameter Services Helix Named Finalist in Asia’s 2014 Best Core Network Product Category
+Receives 2014 Product of the Year Award
+Leaders Honored as WebPioneers at WebConference & Expo
+Wins Forum and Editor’s Choice Awards for Mobile Video Solutions and Media Gateway Technology
+Earns Ready Now Award at WebConference & Expo for Showcasing Real-World Implementations
+Selected as a Visionary in the Magic Quadrant for Session Border Controllers
+Wins (American Technology Award for Telecommunications)
+Wins Forum Editor’s Choice Awards for Media Gateway Technology and Mobile Video Solutions
+Positioned as a Visionary in the Magic Quadrant for Session Border Controllers
+Wins Telecom Asia Readers’ Choice Award for Bandwidth Optimization Products
+Selected as a Light Reading Leading Lights Award Finalist for Best New Product (Mobile) 
+Tolly Group Awards Performance Certification to PowerMedia Extended Media Server (XMS)
+Awards and Recognition
+Board of Directors
+Environmental Commitment
+How to deploy PowerMedia into the cloud
+Cloud optimized real-time communications solutions.
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+On the www.dialogic.com website, "cookies" are used to personalize your online experience. “cookie” is a text file that is placed on your computer’s hard drive or your mobile device by a Web server and that is utilized to recognize when your computer or mobile device returns to the www.dialogic.com website after having previously visited the site.
+primary purpose of cookies – both in general and with respect to the www.dialogic.com website - is to enhance your online experience, such as by providing convenience and efficiency, and by remembering your preferences in order to save you time when, for example, you later navigate between pages on the www.dialogic.com website. also uses cookies to track the pages you visit within the www.dialogic.com website in order to provide information (such as whether you have previously visited the website) as well as to better understand how the website is being utilized (such as determining what portions of the website are the most popular or most widely used).
+Cookies are not used to run programs or to deliver viruses or other harmful content to your computer or mobile device. Also, cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you.
+ isCookieEnabled
+ dialogic.com 
+ dialogic.com
+As indicated above, it is your choice whether or not to accept cookies in connection with your use or visitation of the www.dialogic.com website; Please realize, however, that turning off or blocking cookies may result in you being unable to fully utilize the www.dialogic.com website and at least some of its functionality and features (e.g., interactive features).  Moreover, blocking cookies will likely result in cookies being blocked not just with respect to www.dialogic.com , but also other websites as well.
+Revised: December 2016This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookie Policy .
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+3. Collection, Purpose and Use of Personal Data
+4. Cross-border Transfers of Data and Sharing Your Data with Third Parties
+5. Choice to review, update, remove Personal Data; unsubscribing/updating your email preferences
+6. Length of Time Data is Stored
+and its affiliates and subsidiaries ("Dialogic", "we" or "our" or “us”) respect your privacy. This Privacy Policy discloses our electronic data practices, including what type of data is collected and by whom, how the data is used, with whom the data is shared, and your choices with respect to your privacy.
+2. What Is covered by this Policy
+This Privacy Policy is applicable worldwide and covers how treats Personal Data (defined below) collected about you through our websites and offline.  “Personal Data” is anything that could be used to identify you including, but not limited to, your name, company name, address, email, or phone number.  This Privacy Policy does not apply to third-party websites that you visit by clicking on links appearing on our web pages. We do not control, endorse or make any representations about third-party websites, whose privacy practices may differ from ours.
+3. Collection, Purpose and Use of Personal Data
+When you visit Dialogic's web sites, email Dialogic, or visit at a tradeshow or other in-person event, gathers a limited amount of Personal Data from you that you voluntarily submit to us.  The Personal Data may be submitted to us in person and/or when you email us, plus any other information contained in your email or electronic communications that you otherwise submit to Dialogic's web sites.  Personal Data can also be collected by if requests information from you that you have the option whether or not to provide to Dialogic.  uses Personal Data to improve and facilitate your use of Dialogic's web sites and for internal business purposes, such as: responding to your inquiries or requests, customizing Dialogic's web sites for you, improving our product selection and communicating with you about Dialogic® products and services or your transactions. In addition, may now or in the future employ software that determines anonymizes your Personal Data and aggregates usage data on Dialogic's web sites. Such data does not include any Personal Data and is only used to improve Dialogic's web sites.
+If you register with on Dialogic's web sites, you will be deemed to have consented to the collection, use, transfer, export and retention of your Personal Data as described in this Privacy Policy. If you opt to register, may create a profile that includes a login and password that will be issued to you. may track the login and password to manage your access to Dialogic's web sites and to determine the number of times you have logged onto Dialogic's web sites. During the registration process, may also ask for additional information. If that occurs, such additional information will be designated as optional and will not be required in order to complete the registration process. Optional information may vary in content and purpose, but generally is designed to enable to learn more about those who already use or may be interested in using Dialogic® products and/or services.
+also allows product registrations to occur via Dialogic's web sites. In furtherance thereof, we may require that you provide your product(s) serial number(s), build code(s) and/or version number(s). This information is not gathered by without your knowledge and active permission and participation.
+also may use your address for purposes such as to analyze traffic patterns on and to administer Dialogic's web sites and to help diagnose potential problems with our servers. Dialogic's web sites (and certain third-party web-sites and vendors associated with Dialogic) also may use so-called "cookies", a piece of data stored on your hard drive for purposes including, but not necessarily limited to, recognizing you during your visit(s) to Dialogic's web sites and so that you will not have to enter contact information repeatedly and/or for remarketing purposes.  Visit https://www.dialogic.com/company/cookies to see Dialogic’s Cookies Policy.
+4. Cross-border Transfer of Data and Sharing Your Data with Third Parties
+may contract with third parties to obtain email addresses of persons who believes are likely to be interested in Dialogic® products or services. may also use third party sources of information to qualify clients, potential clients, resellers and distributors.  Should this occur, the handling of this information shall be subject to the same level of privacy protection as provided by Dialogic.
+Personal Data maintained by may be transferred to facilities of and authorized third parties, which may be located in the United States or other countries.  Whether such cross-border transfer of your data will occur will depend on your location, the nature of your request and the location of our data processing center.  If you are located in a country with data privacy laws governing data collection and use, please note that by submitting your Personal Data to us for the purpose of processing your request, you are consenting and permitting the transfer of your data, including Personal Data, to countries that may not have the same data protection laws as your own country.
+Under certain limited circumstances, may share Personal Data with certain third parties, as set forth below:
+• Agents and Service Providers:  Dialogic, like many other companies, may, from time to time, hire other companies to perform certain functions, for example, (e)mailing brochures or newsletters.  When employs another company to perform functions of such nature, only provides such companies with the information they need to complete the task and requires them not to share the information with others or use that information for other purposes.
+Business Transfers:  As develops its business, it might sell or buy businesses or assets or be sold to, acquired by or merged with another company.  In such transactions, Personal Data may be among the transferred business assets.
+• Protection of and Others:  may release Personal Data when it believes that such release is appropriate to comply with law, court order or other legal or governmental process; to protect, assert, or defend the rights, property or safety of its users, or others; or to enforce its Privacy Policy and other agreements. In addition, may exchange Personal Data with other organizations for purposes of fraud protection or credit risk reduction.
+5. Choice to review, update, remove Personal Data and Enforcement; unsubscribing/updating your email preferences
+It is important that you are aware of the following rights you have in your Personal Data:
+• The right to be informed about how your Personal Data is being used by us;
+• The right to access the Personal Data that we maintain about you;
+• The right to request the correction of inaccurate Personal Data we maintain about you;
+• The right to request that we delete your Personal Data, or stop processing or collecting it;
+• The right to stop direct marketing messages and to withdraw consent for other consent-based processing at any time; and
+• If located in the European Economic Area (the “EEA”), the right to complain to your data protection regulator.
+strives to keep Personal Data accurately recorded to ensure that information is reliable for its intended use, complete, and current. Should you want to exercise any of your rights in your Personal Data, such as updating, correcting, or removing your Personal Data, you may submit your request to Dialogic’s Data Protection Officer at privacy@dialogic.com.  Note that if you request removal of your Personal Data, some residual Personal Data may continue to reside in records and archives, but will not use that data for commercial purposes.  Please note that if you do not wish to provide personal information about yourself, you do not need to do so in order to use at least some portions of Dialogic's web site.
+also wants you to be aware that even if you have signed up to receive newsletters or other communications from us via electronic mail, you may choose at any time to discontinue receiving such information.  To do so, or to otherwise update your email preferences or settings, click on the "Unsubscribe or update" link that is found in emails sends to you. You may also unsubscribe or update your preferences/settings at any time by clicking here .
+6. Length of Time Personal Data is Stored
+We will keep and use your data as described in this Privacy Policy for the longer of: (i) the period during which we have your consent to use your Personal Data, (ii) as necessary to comply with any tax, legal, and/or other regulatory requirements; and (iii) the period needed to protect and defend against potential legal claims.
+If you have a concern about privacy with respect to Dialogic's practices, or if you have received an unwanted, unsolicited email sent or purporting to have been sent by or on behalf of Dialogic, please notify at once  via webmaster@dialogic.com and we will investigate and attempt to resolve the issue.
+maintains Personal Data in a secure environment through a secure connection/encryption to ensure confidentiality.  takes reasonable steps to protect Personal Data from loss, misuse and unauthorized access, disclosure, alteration or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from Dialogic's web sites may not be secure, and you should therefore take special care in deciding what Personal Data you send to us by email. Please keep this in mind when disclosing any Personal Data to via the Internet.
+We also protect your Personal Data offline.  Access to your Personal Data is limited to only employees who need the information in order to perform a specific task (such as responding to your question or request).
+Dialogic's web sites may include and/or make available to at least some of its users chat rooms, forums, message boards, and/or news groups for purposes such as discussion, including but not limited to those accessible via the Exchange Network (DEN), which, as of 2017, was accessible at:  http://www.dialogic.com/den/default.aspx.  Please be aware that any data that is disclosed in these areas becomes public, non-confidential and non-proprietary and you should exercise caution when deciding to disclose your Personal Data on the Internet.  and its subsidiaries are free to use such data for any purpose whatsoever, and you agree to grant to Dialogic, its subsidiaries, any of its affiliates, their respective officers, director, employees and agents a perpetual, royalty-free and irrevocable right and license to use, reproduce, modify, display, distribute, transmit, sublicense, create derivative works from, transfer and sell any such data.
+For purposes of the General Data Protection Regulation 2016/679 (the “GDPR”), is the data controller of your Personal Data — the company that’s responsible for your privacy.
+If you are located within the EEA, you should be aware that your Personal Data may be transferred to, processed and stored in Canada, the United States of America or any other country where maintains an office with servers. Some the laws of some of these locations may be deemed by the to have inadequate data protection. If you are resident in the and thus governed by the and voluntarily submit your Personal Data to us, you thereby consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to, and/or processing and storage of that information in jurisdictions that may be located outside of the EEA.
+Dialogic's web sites are not targeted towards children, and does not knowingly collect Personal Data from children under the age of 13.  The age used to determine whether a person is a minor may change according to the jurisdiction where you are located.  encourages parents and legal guardians to monitor their children's Internet usage and to help enforce its Privacy Policy by instructing their children to never provide Personal Data on Dialogic's web sites without their permission.  If we or you determine that we have inadvertently, without knowledge, collected Personal Data from a minor, such information will be permanently deleted from our files upon becoming aware of information collected from a minor.
+Do not Track (“DNT”) is a setting provided by your browser (depending on the browser used) that you can activate in your browser’s settings to let Internet sites know that you do not want them collecting certain information about you.  Unfortunately, we do not currently have the technology to respond to signals. As a result, we do not afford different treatment to California residents whose browsers send a signal as opposed to those without this setting.
+We reserve the right to amend or update this Privacy Policy at any time.  We may or may not notify you of such changes, however, you can always view the most current version of this Privacy Policy at any time at:  www.dialogic.com.  The date of the last revision appears at the end of this policy.  Once the revision is effective, your continued use of any of our websites and our use of your Personal Data will be governed by the most recently revised version of this Privacy Policy.  If you do not wish to be bound by the changes to the Privacy Policy, you may revoke your consent at any time by contacting us as described above and ask that we delete your data from our database.  If decides to collect additional Personal Data from you, you will be given the opportunity to opt out of such practices.
+If you have any questions or concerns about this Privacy Policy or our practices with regard to your Personal Data, please contact Dialogic’s Data Protection Officer at privacy@dialogic.com .
+Revised October, 2018This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookie Policy .
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+Our quality commitment at is embedded in both our products and our processes at all levels of the organization. Our philosophy is based our core value of Absolute Focus on the Customer.
+We are an 9001:2015 and an ISO14001:2015 certified company. We use as a foundation for process consistency, while using customer feedback and our quality and business metrics to continually drive for improvements in our products and our methods.
+Our business system is built on a solid quality foundation and proven quality tools.  We have an online system to access all our quality documentation that ensures our internal processes are used throughout the business so that our customers get the level of quality and service they expect and deserve.
+We have a history of exceptional customer service and high marks from existing customers on independently administered customer satisfaction metrics. We take quality seriously - for the employees of Dialogic, quality is not a program, it's how we do the work and it's what we deliver to our customers!
+Our certifications are listed below by location. For more information about our quality system or any of our processes, please email us at  quality@dialogic.com .Login
+Where to Buy
+Where to Buy
+Through the One Partner Program, member companies from around the world serve as a vital part of a global ecosystem offering leading solutions. 
+Search by Region or Country by selecting Solution Keywords below 
+View Partners alphabetically
+ By choosing Region or Country you will get results of where partners 
+, not where they are located.
+Since many of our partners provide service worldwide, if you are looking for something specific please search by keyword only for best results.
+Search for Partners:
+Click on the filters below to refine your search and then press Search.
+Central and Latin America
+United States
+Antigua and Barbuda
+Aruba
+Azerbaidjan
+British Indian Ocean Territory
+French Southern Territories
+Pitcairn Island
+Saint Kitts and Nevis Anguilla
+Saint Pierre and Miquelon
+Saint Tome Sao Tome and Principe
+Saint Vincent and Grenadines
+Svalbard and Jan Mayen Islands
+Tokelau
+Turks and Caicos Islands
+United States
+artificial intelligence
+audio-conferencing
+bandwidth optimization
+business intelligence
+business process automation
+call accounting
+conferencing
+cti system
+data capture
+distributed document capture and fax
+electronic value distribution
+hotel voicemail system
+Least-Cost-Routing
+location based sms
+managed vas services
+Managed-Service
+manager-secretary systems
+mcommerce
+outbound calling
+pms interface
+precall announcement
+private pbx
+robocall
+scalability
+scalable
+service creation
+signaling based solution
+solutions subscriber segmentation
+voice recording system
+voip
+voip transport
+wakeup calls
+How to deploy PowerMedia into the cloud
+Cloud optimized real-time communications solutions.
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+12/20/2018This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookie Policy .
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+PowerNova and PowerVille Integration with Watson
+Converging Real-Time Communications and IoT
+How to deploy PowerMedia into the cloud
+10/24/2018This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookie Policy .
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+(“TERMS”)  TERMS, ("DIALOGIC", "WE" "OUR") DIALOGIC-(“WEBSITE” “WEBSITE(S)”) (ENTITY), EMPLOYEES, AGENTS, CONTRACTORS, ("YOU"). WEBSITE, (TEXT, DATA, INFORMATION, SOFTWARE, DRIVERS, GRAPHICS, IMAGES) (“MATERIAL”) BY,  YOU, AND/ TERMS, TERMS, WEBSITE.
+All Proprietary Material on or linked to this website are protected by copyright and all other applicable intellectual property and other proprietary rights and treaties. Ownership of the Proprietary Material is retained by the copyright, intellectual property and/or proprietary right(s) holder(s) and is not transferred to you. Any use of such Proprietary Material other than as permitted herein is expressly prohibited without the prior express permission of and/or the relevant right holder. Use of software or drivers from this website is subject to the terms and conditions of any applicable License Agreement(s) provided with the respective software or drivers, or, if no license terms accompany the software or drivers, the terms of the license agreement which accompanied the original product licensed by you which you are updating.
+Reproduction or redistribution of any Proprietary Material on or linked to this website which is not expressly permitted by is prohibited by law and may result in civil and criminal penalties. Should you wish to reproduce or redistribute any such Proprietary Materials, you must first seek written permission from Dialogic's Legal Department at 3300 Côte Vertu Boulevard, Suite 112, St. Laurent, Québec, H41P8.
+is concerned about protecting the copyright and property rights of others. We urge you to adhere to all applicable copyright laws. We may disable or terminate any user and remove or modify any content on our website at our discretion. If you believe you have a copyright infringement claim resulting from material posted on this website, you may notify us by providing the following information to our designated agent, as required by 17 § 512 of the Digital Millennium Copyright Act:
+1. physical or electronic signature of the owner, or a person authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed;
+2. Identification of the copyrighted work, or a representative listing of the copyrighted works, claimed to have been infringed;
+3. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and information reasonably sufficient to allow us to locate the material;
+4. Information reasonably sufficient to allow us to contact you, including your address, telephone number, and if available, your electronic mail address;
+5. statement that you have a good-faith belief that the use of the material as described is not authorized by the copyright owner, its agent, or the law; and
+6. statement that the information in your notification is accurate, and under the penalty of perjury, that you are the owner, or are authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed.
+Dialogic, Pro, BUZZ, DialogicONE, Veraz, Brooktrout, I-Gate, ControlSwitch, Cantata, TruFax, SnowShore, Eicon, Communications, PowerMedia, PowerVille, PowerNova, BorderNet, MSaaS, OmniFlow, OmniLite, OmnitNet, OmniScript, OmniView, OmniSip, OmniVox, OmniVox3D, and PowerArchitecture, among others as well as related logos, are either registered trademarks or trademarks of and its affiliates or subsidiaries.. The names of actual companies and products mentioned herein are the trademarks of their respective owners. Certain other names, products, and services mentioned herein may be the trademarks or registered trademarks of or other organizations and/or entities and, if so, are the sole properties of their respective owners. Nothing on or linked to this website should be construed as granting any license or right to use any trademarks or logos without the prior written permission in each instance of and/or the owner(s) of such other trademarks or logos.
+All information on this website is subject to export control laws and may also be subject to the laws of the country where you reside. All Proprietary Material are commercial in nature. Use duplication, or disclosure by the United States Government is subject to the restrictions set forth in 252.227-7015 and 52.227-19.
+DIALOGIC'"IS" "AVAILABLE" CORPORATION, SUBSIDIARIES, AFFILIATES, OFFICERS, DIRECTORS, (COLLECTIVELY, "PARTIES") TIMELINESS, ACCURACY, COMPLETENESS, DIALOGIC'DIALOGIC'WEBSITES, SERVERS, DIALOGIC'TIMELINESS, USEFULNESS, REPRESENTATIONS, ENDORSEMENTS, GUARANTEES, WARRANTIES, IMPLIED, DIALOGIC'CONTENT, LIMITATION, DEFECTS, PURPOSE, NON-THIRD-FOREGOING, DIALOGIC'WEBSITES.
+takes reasonable steps to ensure that the content on or linked to this website is accurate, but provides no representations as to the accuracy or completeness thereof. Information on or linked to this website may be changed or updated without notice. Mention of non-products or services is for information purposes only and constitutes neither an endorsement nor a recommendation. also reserves the right to update these Terms of Use from time to time without notice. We recommend that you visit this page on a regular basis to review the current applicable Terms of Use.
+Use of this website and the information provided herein is at your own risk. DISSATISFACTION, ANY, DIALOGIC'DAMAGES, DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, (COLLECTIVELY, "DAMAGES"), WEBSITE, INCLUDING: REVENUE, PROFITS, BUSINESS, SAVINGS, DATA; PERFORMANCE, SERVICE, ATTACK, INTERRUPTION, DEFECT, VIRUS; THIRD-WEBSITE, THIRD-OF, OF, TO, INFORMATION, PROPERTY, FURTHER, COMPLY, THIRD-PARTY, FEDERAL, LAWS.
+WARRANTIES, JURISDICTIONS, DIALOGIC’DIALOGIC’($100.00).
+It is possible that the use or implementation of any one of the concepts, applications, or ideas described in this website or in marketing collateral (including, without limitation, case studies or user stories) or other documentation which may be linked to or accessed from or via this website may infringe one or more patents or other intellectual property rights owned by third parties. does not provide any intellectual property licenses with the sale of Dialogic® products other than a license to use such products in accordance with intellectual property owned or validly licensed by or its subsidiaries. More detailed information about such intellectual property is available from Dialogic's legal department at 3300 Côte Vertu Boulevard, Suite 112, St. Laurent, Québec, H41P8. encourages all users of its products to procure all necessary intellectual property licenses required to implement any concepts or applications and does not condone or encourage any intellectual property infringement and disclaims any responsibility related thereto. These intellectual property licenses may differ from country to country and it is the responsibility of those who develop the concepts or applications to be aware of and comply with different national license requirements.
+Dialogic's website is meant to be accessed by users in countries worldwide and contains no specific restrictions or recommendations on product usage which may be applicable to your country and may contain information which may not be available in your location. makes no warranty that the information on or linked to its website is applicable to your specific country. Use case(s) shown and/or described in material on or linked to this website represent one or more examples of the various ways, scenarios or environments in which Dialogic® products can be used.  Such use case(s) are non-limiting and do not represent recommendations of as to whether or how to use products.
+The products that are featured on this website or in material linked thereto and that are sold by or an affiliate or subsidiary thereof are not intended for use in connection with or in furtherance of life saving or life sustaining procedures or processes, critical control or safety systems, or in nuclear facility applications. disclaims any express or implied warranty or representation that its products will provide, enable or facilitate access to or for emergency services, such as 911/999/112 or similar emergency call services, or to or for other safety affecting, life saving, or life sustaining services, critical control or safety systems, or nuclear facility applications. In the event emergency call access is somehow and/or somewhere available in connection with products and/or services, further disclaims any express or implied warranty or representation that products and/or services will relay - accurately or at all - the device identification number or phone number (also known as an automatic number identification (ANI) or callback) or the location (also known as automatic location information (ALI)) and individual or entity is calling from, to the appropriate emergency response center (also known as a public safety answering point (PSAP)).
+Dialogic® products may contain software from the open source community that must be licensed under the specific license terms applicable to such software. Further, one or more open source products, systems and/or releases may be discussed on this website or in material linked thereto. is not responsible for your decision to use open source in connection with Dialogic® products, nor is responsible for any present or future effects such usage might have, including without limitation effects on your products, your business, or your intellectual property rights.
+In consideration of your use of this website, you will provide accurate, current, and complete information about you in any registration form you complete on any website. You are entirely responsible for all content that you upload, post or otherwise transmit onto or via this website. You agree not to upload, post or otherwise transmit via this website, any content that: (a) is inaccurate, harmful, obscene, pornographic, defamatory, racist, violent, offensive, harassing, or otherwise objectionable to or other users of this website; (b) includes unauthorized disclosure of personal information; (c) violates or infringes anyone's intellectual property rights; or (d) contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment. reserves the right to edit or remove any content that violates these Terms or that contains third-party commercial advertisements.
+Access to and use of password protected and/or secure areas of this website is restricted to authorized users only. Unauthorized individuals attempting to access these areas of the Website may be subject to prosecution. In the event that provides you with a login and password to access certain portions of this website, you understand and agree that it is your responsibility to keep your login and password confidential. You are solely responsible for all activity, whether authorized or not, occurring through the use of your login and password and you must notify immediately of any actual or suspected theft or unauthorized use or disclosure of your login or password.
+Links to Other Sites
+For your convenience and information, periodically allows you to gain access to other third party sites from this website. expressly disclaims any responsibility and makes no representations whatsoever about the quality, nature or reliability of sites that you may access directly or indirectly through Dialogic's website. link to a non-website does not mean that endorses the contents of that website. reserves the right to remove any links from websites at any time without notice and/or without prior consultation with third parties. THIRD-WEBSITE, REPRESENTATIONS, IMPLIED, (CONTENT) WEBSITES, If you decide to access linked third party websites, you do so at your own risk. You should direct any concerns to the third party websites' administrator or webmaster.
+On the www.dialogic.com website, "cookies" are used to personalize your online experience.  Dialogic’s cookies policy is located here: http://www.dialogic.com/en/company/cookies.aspx .
+The Exchange Network ( http://www.dialogic.com/den/default.aspx ) and the developer forums accessible therefrom ( http://www.dialogic.com/den/developer_forums/f/default.aspx ) are provided as a convenience and is not obligated to provide any technical support for, or participate in, the Exchange Network (DEN) or such developer forums.  The and developer forums are governed by these terms of use and Dialogic’s Privacy Policy, which is accessible at: http://www.dialogic.com/company/privacy.aspx .
+Although information pertaining to products and/or services may be provided by or its employees on the or such developer forums, those areas are not official channels.
+Your access to the and developer forums is solely at the discretion of Dialogic.  The and developer forums are permitted to be used solely for your personal, informational, noncommercial purposes.  Any content provided on or through the or developer forums is not permitted to be redistributed elsewhere by you.  Personal data or information about other users of the or developer forums is not permitted to be stored or collected, except where expressly authorized by Dialogic.
+Individuals who post on or to the blog(s), Twitter account, LinkedIn account, Google Plus account and/or Facebook account are expressing their own personal viewpoints and not those of or the Company Parties, even if such individuals are employees of or otherwise in privity to or a Company Party.  Nothing posted in these areas shall be interpreted as official representations, positions, or opinions of or Company Parties.  and Company Parties provide no representations as to the accuracy or completeness of such postings.  Mention of non-products or services in such postings is for information purposes only and constitutes neither an endorsement nor a recommendation.
+Indemnification
+You agree to defend, indemnify, and hold harmless the Company Parties from and against any and all actions (including third-party actions and claims), demands, costs, claims, losses, liabilities, damages and expenses, including reasonable legal fees, arising out of any content that you upload, post or otherwise transmit onto, the access to, use, or misuse of this website by you (or any other person using your login and password, if you have one), or from your misrepresentation during or in furtherance of using or accessing this website, or arising in any manner out of your acts or omissions on behalf of or relating to any third-party. reserves the right to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, without relieving you of your indemnity obligations, and in that event, you agree to cooperate with our defense of the claim.
+You acknowledge and agree that may suspend or terminate your access to and use of this website at any time, with or without cause, in Dialogic's absolute discretion and without notice. These Terms of Use shall continue to apply to all prior use of this website.
+No Framing or Linking Allowed
+Except as otherwise denoted herein, no part of Dialogic's website may be copied or imitated in whole or in part by any means, including without limitation the use of framing or mirrors. None of the content of Dialogic's website may be retransmitted without the express written advance consent of Dialogic, nor may such content be used on any other website or in any networked computer environment. prohibits use of any trademark as part of a link to or from any site unless such a link is approved in advance by in writing.
+You also understand that has no obligation to respond to information that you provide via this website. Please do not send, upload, post or otherwise transmit to any communications containing ideas, concepts, know-how or techniques (collectively, "Unsolicited Communications"). Any such Unsolicited Communications will be considered non-confidential and non-proprietary, and and its subsidiaries are free to use such Unsolicited Communications for any purpose whatsoever. By submitting an Unsolicited Communication, you grant to the Company Parties a perpetual, royalty-free and irrevocable right and license to use, reproduce, modify, display, distribute, transmit, sublicense, create derivative works from, transfer and sell such Unsolicited Communication.
+grants you a non-exclusive, non-transferable, non-sublicensable, limited and revocable right to access, use and display this website and the content thereof on any computers or other electronic display device of which you are a user, such right being for your personal or internal business use only and subject to all Terms herein. You agree to use this website and the content thereof only for lawful purposes and as otherwise permitted. No other use of this website or the content thereof is authorized. You are prohibited from any use of Dialogic's website and the content thereof that would constitute an illegal offense, give rise to liability, or otherwise violate any applicable laws, treaties or regulations. You may not modify, transmit, participate in the sale or transfer of, or create derivative works based on any of such content, in whole or in part. You may print copies of such content, provided that these copies are made only for personal or internal business use and that you maintain any notices contained in the content, such as all copyright notices, trademark legends, or other proprietary rights notices. You shall not store electronically any significant portion of any such content.
+Any claims, disputes or actions arising out of your use of this website and the content hereof, other than action for specific performance or injunctive relief brought by Dialogic, shall be governed by and construed under the laws of the Province of Quebec, Canada with the exception of its provisions as to conflicts of laws and the United Nations Convention on Contracts for the Sale of Goods, and with regard to such claims, disputes or actions, you hereby irrevocably (i) submit to the exercise of personal jurisdiction over you by the appropriate court of the Province of Quebec, District of Montreal and (ii) waive any jurisdictional, venue, or inconvenient forum objections to such courts. If any provision of this Legal Notice is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect to the fullest extent possible.
+Not all Dialogic® products and services on this website are available in all jurisdictions. If you are using or accessing Dialogic's website from outside of Canada, you are responsible for ensuring that such use is in compliance with the law(s) of all applicable jurisdiction(s).
+Revised: April 2018This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookie Policy .
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+aide les fournisseurs de service, les développeurs d’applications et les entreprises à se construire et se déployer sur des réseaux agiles. Nous sommes l’un des principaux fournisseurs de solutions de traitement multimédia en temps réel optimisées pour l’infonuagique, d’applications personnalisables et de solutions d’infrastructures de réseau qui aident 48 des 50 premiers opérateurs de réseau mobile mondiaux ainsi que près de 3 000 développeurs d’applications à se déployer sur des réseaux agiles. Notre équipe internationale de professionnels spécialisés en service est prête à vous offrir un soutien et des conseils inégalables pour que votre investissement dans le réseau vous soit le plus rentable possible.
+Pour en savoir plus sur Dialogic, lisez à propos de nous dans les liens ci-dessous.This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookie Policy .
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+President and CEO
+Bill Crank is the President and Chief Executive Officer. Bill has been with since late 2012 and previously served as of Worldwide Field Operations, responsible for sales, channels, business development, services, and global strategy. Prior to Dialogic, Bill was Vice President of Sales & Business Development for Ubiquity Software where he provided the sales leadership and partner strategy to help the company to an and eventual acquisition by Avaya. After Ubiquity, Bill became President of where he drove a significant strategy change that led to an eventual acquisition. He has also held executive management roles as President of Wireless Systems Consulting (acquired by BCI), Executive Vice President of Wireless (acquired by Wireless), Vice President Sales & Marketing of Ortel - Wireless Systems Division (acquired by Lucent), and senior leadership roles of increasing responsibility at Allen Telecom Group and Motorola where he started his career. Bill has a in Marketing from Western Connecticut State University and an Engineering background from Motorola’s Fast Leadership Track Program.
+Executive Vice President of Global Sales and Sales Operations
+Mike Ward is Executive Vice President of Global Sales and Sales Operations, responsible for sales, channels, and business development worldwide. Mike has a long distinguished career in sales, including senior sales leadership roles at Ascend Communications, Lucent Technologies, Corvis Corporation, Paradyne Networks, MetaSwitch, and Seven Networks. Prior to joining Dialogic, he was of Worldwide Sales at Edgewater Networks where he re-architected the global sales organization, resulting in the tripling of revenue in three years.  At MetaSwitch, Mike spent nearly a decade building the worldwide sales organization from early stage to a market leadership position. Mike holds a in Electrical Engineering from Virginia Tech, and a Masters in Engineering Management from the University of South Florida.
+John Fusto
+Group Vice President, Shared Services
+John Fusto is Group Vice President, Shared Services, with responsibility for Finance, Human Resources, Legal, and Facilities. John has 40 years of experience, primarily in a controllership role. He joined in 2013, after spending eight years as a consultant and close to twenty years at Audiovox (now Voxx International Corporation), where he was Corporate Controller. John has a Degree in Accounting from St. John’s University and is a Certified Public Accountant in New York.
+Group Vice President, DialogicONE
+Peter Kuciak is Group Vice President, DialogicONE, with responsibility for the strategy behind Dialogic’s next-generation software, including the latest product DialogicOne . Peter began his management career over 28 years ago with Newbridge Networks. He has held executive roles in areas of product management, research and development, delivery, business development, sales and marketing at companies that include Watchfire, Ubiquity Software, Avaya, March Networks and Headwall Software. Prior to joining in 2015, Peter co-founded Headwall Software. Within 3 years of its formation, he oversaw the acquisition and transition of the company to new ownership within the SAP-focused marketplace. Peter holds a degree in Computer Science from Carleton University in Ottawa, Canada.
+Group Vice President, Application and Media Processing
+Antony Martin is the Group Vice President for the Applications and Media Processing portfolios. He has responsibility for research and development, product line management, and customer services. Antony joined in 2009 and has over 20 years’ management and engineering experience in the telecommunications industry. Prior to joining he has held CEO, and Engineering Director roles for contact center software and companies. Antony is an Electrical and Electronic Engineering graduate from DeMontfort University, Leicester, UK.
+Group Vice President, Virtualized Infrastructure
+David Philips is Group Vice President, Virtualized Infrastructure, overseeing research and development, product line management, operations, maintenance, and delivery. David joined as of Engineering for the Service Provider Infrastructure Group in 2010 as part of the Veraz Networks acquisition. He has over 20 years’ industry experience, much of it in management roles in engineering, operations, and services. Prior to Dialogic, David was part of the Engineering team in and managed a software group at Veraz Networks.This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookie Policy .
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+Executive Biographies and Photos
+The executive team's biographies and photos are available on the Executive Team page . 
+About is a leading cloud-optimized solutions provider for real-time communications media, applications, and infrastructure to service providers, enterprises, and developers around the globe. Based in Parsippany, with offices worldwide, helps 48 of the world’s top 50 mobile operators, and nearly 3,000 application developers build and deploy on agile networks.
+TypeThis website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookie Policy .
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+As a Technology Partner, is eligible to submit products for compliance testing by the Avaya Solution Interoperability and Test Lab. There, a team of Avaya engineers develops a comprehensive test plan for each application to verify whether it is Avaya compatible. Doing so enables businesses to confidently add best-in-class capabilities to their network without having to replace their existing infrastructure—speeding deployment of new applications and reducing both network complexity and implementation costs.
+Avaya DevConnect Compliant Solutions
+The Dialogic® 2020 Integrated Media Gateway enables interworking between and networks via high-density optical, telephony and Ethernet connections in a compact 1form factor.
+Along with providing of a broad range of scalability in a small footprint, the 2020 handles signaling and media in a single carrier-grade chassis and can deliver services into SS7, SIGTRAN, PRI, and SIP-networks.
+The 2020 also manages sessions through capabilities that include mediation, SIP-to-H.323 interworking, back-to-back user agent (B2BUA), built-in firewall, and IP-to-transcoding of voice, fax and tones for network access applications.   
+The solution offers energy efficiency and hardware components in which hazardous substances have been minimized, helping operators and contact centers to fulfill "green" initiatives.
+By mediating between IP-based protocols (SIP, MGCP, H.323, H.248) and signaling protocols (SS7, PRI, R1/R2), the ControlSwitch enables advanced services to be delivered across a broad range of traditional and IP-based networks.
+Deployed in combination with the I-Gate 4000 or Media Gateways, the ControlSwitch System provides a distributed, high-availability and highly-scalable architecture with open interfaces to contact centers, media devices, application servers and back office systems.
+has a rich history in helping enterprises and network operators to deploy complex communication solutions that grow revenue and improve productivity.  With a global presence, has the Professional Services depth needed to address unique system integration challenges and ensure accelerated time-to-market for customers worldwide.
+PowerVille™ provides a unique combination of intelligent traffic management features that take into account contextual awareness, quality of experience, and session management considerations critical for delivering seamless service in a real-time communications network.
+PowerVille features efficiently manage incoming traffic across application server clusters, significantly reducing application design complexity and improving network performance.  High availability, redundancy and smart failover with call preservation features provide scalability and reliability.
+Improved resource efficiency coupled with the flexibility of cloud-ready software can translate to lower and for the solution provider.
+PowerVille supports a rich set of services and protocols, facilitating rapid application integration and system interoperability without sacrificing performance. 
+Read about DNT’s success story with 2020:This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookie Policy .
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+Stéphane Tremblay's experience in the Canadian industry spans more than two decades.
+Mr. Tremblay joined Novacap in 2006, leaving his position as investor and of Memotec Inc., a data communication equipment manufacturer, which he bought, restructured and then sold to Comtech/Data. Mr. Tremblay's prior experience includes working at Future Electronics, a leading electronic component distribution company. From 1989 to 1993, he held a Regional Sales Manager position at Allan Crawford, a data communication equipment company. Mr. Tremblay is a founding team member of Microcell, where he was responsible for building the first network in Canada. In 2000, Mr. Tremblay became President and of Espion/Media, the first in North America. From 2001 to 2003, he was President and of Kontron Canada, a division of Kontron Mr. Tremblay holds a from Université de Trois-Rivières, which he earned in 1985.
+Mr. Tremblay is currently a member of the Board of Directors of Inc, Oxford Networks, Technomedia, Host.Net, Fibrenoire and SynergPreviously, Mr. Tremblay was on the Boards of iWeb, Kontron and Memotec.
+Francois Laflamme is Senior Partner at Novacap, a leading private equity firm with over $1.6 billion of assets under management. Mr. Laflamme has been involved in the technology sector as entrepreneur, technology innovator and private equity investor. Mr. Laflamme has over 25 years of experience in managing technology companies. He was President and of LiquidxStream Systems, a telecom equipment company in the Novacap portfolio. He was also a Partner at Ventures, a venture-capital fund specialized in the industry, where he led several investments in technology companies based in Canada and the In addition, he was Vice-President of Telephony at Videotron, where he pioneered the introduction of the local telephony service using next generation Voinfrastructure.
+Mr. Laflamme currently sits on the Board of Directors of Fibrenoire, Oxford Networks and Dialogic. He holds an Electrical Engineering Degree from École Polytechnique of Montreal and an in Finance from Montreal. Mr. Laflamme also completed the Entrepreneurship Development Program from MIT.
+David Lewin is a Vice President at Novacap, a leading private equity firm with over $1.6 billion of assets under management. Since joining Novacap in 2011, Mr. Lewin has been involved in the execution of the firm’s investments in a number of and industrial companies. Before joining Novacap, Mr. Lewin was a Manager at Investments in Montreal where he was involved in the evaluation and execution of private equity transactions. Prior to that, Mr. Lewin worked in investment banking at National Bank Financial Markets, where he focused on as well as diversified clients.
+Aside from Dialogic, Mr. Lewin currently serves on the board PKWare and is a board observer of Chemical Computing Group and Technomedia. He was previously a board observer of ViSystems.
+Mr. Lewin received a Bachelor of Business Administration with a concentration in public accountancy from Montréal, where he graduated with Great Distinction. Mr. Lewin also earned an from McGill University, where he graduated on the Dean’s Honour List.
+Harald Braun has had a prestigious career in leading several top companies in the private and public telecommunications industry as president and CEO, including Siemens Networks USA, Nokia Siemens North America, and Aviat Networks. In 2009, while president and of Aviat Networks, he was named “International Telecom of the Year” by Africa & Telecom.
+For more than 10 years, Mr. Braun has been a prominent standards influencer and spokesperson for the telecommunications industry. He has served as treasurer of the Alliance for Telecommunications Industry Solutions (ATIS), and was a member of its executive board. He was also a former board member of BigBand Networks. He serves on the Board of Directors of Tarana Wireless, Inc. and is chairman of its advisory board. In addition, he is a member of the board of directors of CLAdirect, a solution technology provider, and serves on the advisory board of Pillar Capital Advisors. He has been recognized as one of America’s “Top 100 Voices of the Communications Industry” by Internet Telephony magazine.
+Chris has spent more than 30 years in the telecommunications, IT, and technology industries. His career spans across Europe and North America. After graduating, Chris spent the first 15 years of his career with Bell Northern Research and Nortel. From 2004-2009, he was the Managing Director for Research in Motion (RIM) in Europe, Middle East and Africa (EMEA). Before his time at RIM, Chris was the Chief Technology Officer (CTO) at Vodafone, responsible for Vodafone UK’s technology and product architecture, design, procurement, development, support, and operations. From 1997 to 2000, Chris was at Energis Communications, forming part of the executive team that led Energis through and into the 40.
+Since leaving Vodafone in 2004 Chris has spent most of his time developing his own Investment Fund and Advisory Business achieving substantial successes across a number of ventures. Presently Chris sits on the Public Company Board of Dialog Semiconductor (Frankfurt Exchange) and is Chairman at MusicQubed. Chris also sits on the Boards of a number of Venture and Private Equity backed companies.
+Bill Crank is Dialogic’s President and Chief Executive Officer. Bill has been with since late 2012 and previously served as of Worldwide Field Operations, responsible for sales, channels, business development, services, and global strategy. Prior to Dialogic, Bill was Vice President of Sales & Business Development for Ubiquity Software where he provided the sales leadership and partner strategy to help the company to an and eventual acquisition by Avaya. After Ubiquity, Bill became President of where he drove a significant strategy change that led to an eventual acquisition. He has also held executive management roles as President of Wireless Systems Consulting (acquired by BCI), Executive Vice President of Wireless (acquired by Wireless), Vice President Sales & Marketing of Ortel - Wireless Systems Division (acquired by Lucent), and senior leadership roles of increasing responsibility at Allen Telecom Group and Motorola where he started his career. Bill has a in Marketing from Western Connecticut State University and an Engineering background from Motorola’s Fast Leadership Track Program. 
+Christian Primeau is the Chief Operating Officer. He oversees research and development, operations, marketing, product line management, finance, and administration.
+Chris has over 20 years industry experience, much of it in executive roles with tier 1 vendors, tier 1 service providers, and private growth-oriented companies in operations, engineering, delivery, sales, and general management roles.
+After spending a decade with Sun Microsystems in increasingly responsible positions, Chris joined Bell Canada as General Manager of Infrastructure Services. He subsequently held the roles of Vice President of Client Service Delivery, and Vice President of Sales with Bell Canada.  He then took on the role of President and Chief Operating Officer of iWeb Technologies, a leading provider in cloud solutions.
+Chris has attained a Bachelor Degree in Management Information Systems, a Certificate in Executive Development, and a Masters of Business Administration from McGill University in Montreal, Canada. This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookie Policy .
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+From small steps, such as employee recycling events to large projects such as design updates for compliance with the environmental legislation, continually strives to prevent and reduce the environmental impact of our operations.Login
+Where to Buy
+Where to Buy
+To create a profile on dialogic.com, please fill out the form below.
+ You will receive an email after submitting this form to verify your identity and activate your profile. After your profile has been created and activated, you will be registered to access content specific to your needs.
+ Fields marked with a red bar are required.
+Antigua and Barbuda
+Aruba
+Azerbaidjan
+British Indian Ocean Territory
+French Southern Territories
+Ivory Coast (Cote D'Ivoire)
+Pitcairn Island
+Saint Pierre and Miquelon
+Saint Vincent & Grenadines
+Svalbard and Jan Mayen Islands
+Tokelau
+Turks and Caicos Islands
+United States
+District of Columbia
+Prince Edward Island
+accept the 
+needs the contact information you provide to us to contact you about our products and services. You may unsubscribe from these communications at any time. For information on how to unsubscribe, as well as our privacy practices and commitment to protecting your privacy, please review our 
+Prince Edward Island
+District of Columbia
+How to deploy PowerMedia into the cloud
+Cloud optimized real-time communications solutions.
+Where to Buy
+Where to Buy
+BroadForward
+BroadForward is the leading expert in Diameter routing and interworking. is 
+ Next Generation Diameter Signaling Controller (DSC) for 3G, 4G/LTE, IMS, 5G, Fixed, Wi-Fi, Number Portability, and M2networks. has been nominated three times in-a-row by the for Best Mobile Technology in 2014, 2015 and 2016. In 2017, BroadForward was named best diameter routing & interworking specialist of 2017 by TMT-news. provides a unique combination of DRA, and in a single, integrated software solution, offering more features and flexibility than traditional Diameter routers. The service orchestration allows users to freely combine protocols with on-board functions to setup advanced service scenarios, without the need for scripting or development. Functions include routing, any-to-any interworking, mediation, protocol conversion, load balancing and advanced service logic for a wide range of protocols, including Diameter, ENUM, RADIUS, HTTP, LDAP, SS7 etc. is hardware-agnostic and supports network virtualization, OpenStack and cloud deployment.. offers everything that is needed for advanced routing and interworking in a single software solution. This makes the smartest choice for operators, vendors and integrators to enable advanced use cases across networks, technologies and systems. 
+is in use for various use cases at leading MNOs, MVNOs, and providers:
+Diameter Signaling Controller (DSC-DRA-DEA-IWF)
+Diameter mediation, optimizing Diameter interoperability
+3G-4roaming, MAP-Diameter IWF, Diameter frontend for HLR
+Wi-Fi/Fixed integration, RADIUS-Diameter-SS7 interworking
+MVNO/innovation
+Subscriber Location Function (SLF), database interaction
+M2signaling gateway
+NFV/SDN, vfor vand vIMS
+Number portability gateway and number portability database function (Server)
+How to deploy PowerMedia into the cloud
+Cloud optimized real-time communications solutions.
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+Email (*)This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Cookie Policy .
+Please note, however, that if you delete cookies or refuse to accept them, you might not be able to use all of the features we offer, you may not be able to store your preferences, and some of our pages might not display properly.
+How far can you go alone?
+Collaboration and partnerships are key to success in most industries – and the Unified Communications (UC) industry is no exception. As the industry grows, so does the scope of expected feat...
+2018 – Gone in a Flash
+common question I’ve heard asked over the past few weeks is, “Where did 2018 go?”. genuinely can’t believe it myself as sit here typing this blog. Traditionally a time for reflection a...
+Through the Partner Program, member companies from around the world serve as a vital part of a global ecosystem offering leading solutions. To find a partner in our directory, you can search alphabetically by clicking on the letters below.Login
+Where to Buy
+Where to Buy
+Through the One Partner Program, member companies from around the world serve as a vital part of a global ecosystem offering leading solutions. 
+Search by Region or Country by selecting Solution Keywords below 
+View Partners alphabetically
+ By choosing Region or Country you will get results of where partners 
+, not where they are located.
+Since many of our partners provide service worldwide, if you are looking for something specific please search by keyword only for best results.
+Search for Partners:
+Click on the filters below to refine your search and then press Search.
+Central and Latin America
+United States
+Antigua and Barbuda
+Aruba
+Azerbaidjan
+British Indian Ocean Territory
+French Southern Territories
+Pitcairn Island
+Saint Kitts and Nevis Anguilla
+Saint Pierre and Miquelon
+Saint Tome Sao Tome and Principe
+Saint Vincent and Grenadines
+Svalbard and Jan Mayen Islands
+Tokelau
+Turks and Caicos Islands
+United States
+artificial intelligence
+audio-conferencing
+bandwidth optimization
+business intelligence
+business process automation
+call accounting
+conferencing
+cti system
+data capture
+distributed document capture and fax
+electronic value distribution
+hotel voicemail system
+Least-Cost-Routing
+location based sms
+managed vas services
+Managed-Service
+manager-secretary systems
+mcommerce
+outbound calling
+pms interface
+precall announcement
+private pbx
+robocall
+scalability
+scalable
+service creation
+signaling based solution
+solutions subscriber segmentation
+voice recording system
+voip
+voip transport
+wakeup calls
+OceanFax Fax Server is the most innovative fax solution which is designed to support the high-volume document delivery in an efficient and reliable way. It supports fax boards and  is built on .technology and...
+Next Generation Intelligent Network (NGIN) is a suite of carrier-grade, protocol independent fixed/mobile applications for deploying in and networks including: Advanced Toll Free, Voice VPN, Loc...
+Aonta Technologies Limited
+Aonta Technologies provides carrier grade voice conferencing solutions to Conferencing Service Providers, Telcos and Enterprises. The solutions support all modes of conferencing including reserved, reservation-less, attended and unattended. Standards based, utilising SIP, the solution supports tr...
+Test Suite is a platform for multiprotocol end-to-end and component testing of services in and networks. 
+Legato products including  Self Service Automation (Auto Attentdant, Audio Text, Voicemail, Fax back, Fax on Demand, IVR), Outbound Notification (IVR, SMS, MMS, Fax, Email),  Fax Server, Unified Communications
+Genialcloud Facsys overview
+Genialcloud Facsys is the Self-Service Cloud Solution for Digital Asset Management, Enterprise Communication, and Workflow Optimization deployed by Avantune.
+For Enterprise: Contact Centers, Call Recording & Monitoring, Conferencing - Video & Voice, CTI, Fax Server, IVR, IVVR, Speech Server and Unified Messaging.
+Better Network Services (BNS) Group
+Group develops exclusively on Dialogic's Diva  & Media Gateway platforms providing world class secure fax and messaging solutions for enterprise customers.  Group actively works with integrators with Microsoft partners providing solutions to their customers. msX...
+BroadForward
+Service we offer encompass everything from system design, installation and problem analysis / resolution including Business Intelligence | Software Engineering |  Business Process Re-engineering | Enterprise Appl...
+Comsys
+ConverCom AG
+CyTrack Intelligence Systems
+CyTrack Intelligence Systems develops and distributes software and solutions as a suite of modular applications for Unified Communications & Multi-Media Contact Centers with powerful Business Process Work...
+Hospitality messaging, wakeup calls, auto attendant, PMS-middleware.  
+Enghouse Interactive
+Enghouse Interactive’s Syntellect suite of interaction management solutions deliver industry leading self-service and live contact center solutions spanning the entire customer service spectru...
+Extracomm Inc. is the leader in providing faxing solutions for both Microsoft Exchange and Domino environments. ExtraFax allows its customers to integrate fax communication seamlessly and cost-effectively...
+Fax, email, & messaging.  Easy Integration & installation in Healthcare, logistics, manufacturing, Retail, and government for 30+ years.
+Development & Support Divisions are based in Newport Beach, Custom development requests are always welcome
+(Tele Communication Integrate CO.,LTD.)
+FaxMaker is a network fax server solution that automates faxing, making it electronic, simple and secure.
+Globitel
+Globitel maintains an advantage over other telecom solution providers by offering a wide variety of product lines to include: Roaming, VAS, Network, Customer Care and Enterprise Solutions. Globitel’s products are innovative and reliable, seamlessly integrated with existing customer infrastr...
+and integrate 
+Cognitive Customer Experience Application
+Imecom Fax Servers provides desktop faxing, fax-to-email/email-to-fax, automated production faxing, T.38 fax over IP, secure Cloud-based faxing, and fax server virtualization for Microsoft Windows networks, Mic...
+Integrated Communications Group
+Cloudfone Buzz - Buzz delivered as a managed service. targets resellers that want to sell a branded Buzz service to their customers. provide the Buzz service with an optional connection to the telephony network, allowing each tenant to port or by their own numberseries in the c...
+We mainly provide fax server solution based on FACSys software and card. Our solution helps organizations to secure and stabilize their fax system.
+Jinny Software
+LumenVox is a speech automation technology company that provides carrier grade telephony speech products. LumenVox core products include the Speech Recognizer (ASR), Text-to-Speech Server (TTS), Call Progress Analysis (CPA, which incorporates Answering Machine Detection), Speech Tuner, and Statis...
+Maximum Network Solutions Limited
+We have our own collection of products, comprising of an platform, a selection of packaged speech self-service applications, including a call queue management application, a post survey and a name dialler application, within our Logicall Applications range. We also provide a secure, self-mana...
+mCarbon’s mobile collaboration tool unifies voice, video, data, and mobile applications on different networks to deliver an easy-to-use, rich-media collaborati...
+Our solutions provide a virtual HLR/and with SS7 interfaces to operator core network in order to support SS7 operations for card activation from customer SIM.
+The Novatti Payment System (NPS) is an enabling platform for value added financial services, mobile commerce, and online transactions. It comprises a core transa...
+nWise AB
+nWise is total communication. 
+OceanTechnology Limited
+OceanFax Fax Server is the most innovative fax solution which is designed to support the high-volume document delivery in an efficient and reliable way. It supports fax boards and  is built on .technology and...
+Omtool's enterprise digital fax solutions include AccuRoute® Fax and Genifax™ Enterprise Fax.  These digital fax solutions incorporate industry-leading, enterprise-class features and provide unsurpasse...
+VoiceSaver - VoiceSaver is a generic voice processing bullet-proof platform that can handle from 2 to 1,800 concurrent calls over Voice over (VoIP) or Time Division Multiplexed (TDM) circuits. The platform is used ...
+Pronexus VBVoice™, the award-winning Interactive Voice Response (IVR) development toolkit from Pronexus, enables you to reduce your development time and costs by leveraging the power of Microsoft® .standards in Visual Studio®. An easy-to-use GUI-based call flow environment l...
+We at SPAN, impact our client's business by optimal use of domain knowledge, technology expertise and robust engagement models. Clients receive immense value from our pragmatic approach to an engagement, rather than a cost-based or a purely process-driven model. Irrespective of the activity with ...
+Innovate the exiting portfolio with some killer features like voice morphing, voice authentication, voice insert/add , m-commerce services, enterprise services etc.
+Technology and Media Investment Development Joint Stock Company (NEO)
+Telestax, Inc.
+Telestax is quickly becoming the catalyst for bringing real-time communications into the mainstream. Our Restcommplatform is scalable, highly available and is the only Webplatform that supports cloud, on premise and hybrid deployment configurations. Restcommis fast becoming the platfo...
+True Data Technology provides a wide range of integration services, from small analog deployments and T1/E1/PRI, all the way up to large scale SS7 deployments.  As a leader in the industry, True Data Technology u...
+Tunstall Healthcare
+Solutions for Contact Centers, and ACD, / Voice-Portals.
+Products: Voxtron Communication Center agenTel TeleButler Axxium
+with Live Agent based call handling for help line, contact center with apps for agents, supervision, monitoring and reporting
+How to deploy PowerMedia into the cloud
+Cloud optimized real-time communications solutions.
+Where to Buy
+Where to Buy
+Through the One Partner Program, member companies from around the world serve as a vital part of a global ecosystem offering leading solutions. 
+Search by Region or Country by selecting Solution Keywords below 
+View Partners alphabetically
+ By choosing Region or Country you will get results of where partners 
+, not where they are located.
+Since many of our partners provide service worldwide, if you are looking for something specific please search by keyword only for best results.
+Search for Partners:
+Click on the filters below to refine your search and then press Search.
+Central and Latin America
+United States
+Antigua and Barbuda
+Aruba
+Azerbaidjan
+British Indian Ocean Territory
+French Southern Territories
+Pitcairn Island
+Saint Kitts and Nevis Anguilla
+Saint Pierre and Miquelon
+Saint Tome Sao Tome and Principe
+Saint Vincent and Grenadines
+Svalbard and Jan Mayen Islands
+Tokelau
+Turks and Caicos Islands
+United States
+artificial intelligence
+audio-conferencing
+bandwidth optimization
+business intelligence
+business process automation
+call accounting
+conferencing
+cti system
+data capture
+distributed document capture and fax
+electronic value distribution
+hotel voicemail system
+Least-Cost-Routing
+location based sms
+managed vas services
+Managed-Service
+manager-secretary systems
+mcommerce
+outbound calling
+pms interface
+precall announcement
+private pbx
+robocall
+scalability
+scalable
+service creation
+signaling based solution
+solutions subscriber segmentation
+voice recording system
+voip
+voip transport
+wakeup calls
+OceanFax Fax Server is the most innovative fax solution which is designed to support the high-volume document delivery in an efficient and reliable way. It supports fax boards and  is built on .technology and...
+Next Generation Intelligent Network (NGIN) is a suite of carrier-grade, protocol independent fixed/mobile applications for deploying in and networks including: Advanced Toll Free, Voice VPN, Loc...
+Alfred Net provides complex platforms based on hardware and proprietary software. Alfred Net is capable to customize it applications for customer needs.
+The prime product at Altar is 
+ - modern communication platform that provides professional support to customers via multiple communication channels. 
+Aonta Technologies Limited
+Aonta Technologies provides carrier grade voice conferencing solutions to Conferencing Service Providers, Telcos and Enterprises. The solutions support all modes of conferencing including reserved, reservation-less, attended and unattended. Standards based, utilising SIP, the solution supports tr...
+Test Suite is a platform for multiprotocol end-to-end and component testing of services in and networks. 
+The flexible architecture is designed with evolving customer preferences in mind. Whether organizations want to introduce a branded mobile network, add location-based services to the marketing mix or develop apps that entice, engage and commit, with you can deliver.
+authensis optimizes your customer interaction across all relevant communication channels, integrates seamlessly into you infrastructure and business processes and can be easily adapted to your needs.
+Genialcloud Facsys overview
+Genialcloud Facsys is the Self-Service Cloud Solution for Digital Asset Management, Enterprise Communication, and Workflow Optimization deployed by Avantune.
+Consultancy Services for Enterprise & Carrier grade Infrastructure Communication Solutions:
+BroadForward
+Service we offer encompass everything from system design, installation and problem analysis / resolution including Business Intelligence | Software Engineering |  Business Process Re-engineering | Enterprise Appl...
+CompTek  
+Comsys
+ConverCom AG
+CreaLog Software Entwicklung und Beratung GmbH
+CreaLog is a leading vendor of interactive media platform solutions for telecommunications providers. This includes Mobile Call Recording, value-added services (voice, text messaging and USSD, e.g. televoting), platform (number translation, service migration), Application Server (Message B...
+CTI-has been providing VARs, System Integrators and Developers with single source point for hardware and software converged technology building blocks. Strong product’s portfolio knowledge ...
+CyTrack Intelligence Systems
+CyTrack Intelligence Systems develops and distributes software and solutions as a suite of modular applications for Unified Communications & Multi-Media Contact Centers with powerful Business Process Work...
+datac Kommunikationssysteme GmbH
+Datatal AB
+Software development - 
+In critical situations responsible people need to take smart decisions to ensure business continuity, prevent disaster or even save life. Reliable, fast and auditable communication of vital information is the...
+Hospitality messaging, wakeup calls, auto attendant, PMS-middleware.  
+Systems B.V.
+Enghouse Interactive
+Enghouse Interactive’s Syntellect suite of interaction management solutions deliver industry leading self-service and live contact center solutions spanning the entire customer service spectru...
+Euroline is a distributor in the Scandinavian market for voice and data communication products and solutions. Through representation of some of the leading vendors within this field Euroline offers state- of- the- art solutions through its channel of resellers and developers all over Scandi...
+Exactive Ltd
+Exactive specialise in design, deployment and ongoing support of Microsoft Lync, Microsoft Exchange & Polycom. We have Microsoft Gold Competencies in Messaging and Communications, a long list of proven success sto...
+Exertis
+Exl Tehcnologies is Focusing on delivering the most innovative, cost effective  Solutions Such as  Cloud unified Communications, Bandwidth Optimization, Cloud computing Mobility Solution ,  Trunkin...
+Extracomm Inc. is the leader in providing faxing solutions for both Microsoft Exchange and Domino environments. ExtraFax allows its customers to integrate fax communication seamlessly and cost-effectively...
+Fax, email, & messaging.  Easy Integration & installation in Healthcare, logistics, manufacturing, Retail, and government for 30+ years.
+Development & Support Divisions are based in Newport Beach, Custom development requests are always welcome
+FaxMaker is a network fax server solution that automates faxing, making it electronic, simple and secure.
+Globitel
+Globitel maintains an advantage over other telecom solution providers by offering a wide variety of product lines to include: Roaming, VAS, Network, Customer Care and Enterprise Solutions. Globitel’s products are innovative and reliable, seamlessly integrated with existing customer infrastr...
+The Group 2000 Service Independent Multi Media (SIMM) platform is able to support Small and Mid-Sized TSP's with tailor made solutions and applications for handling of messaging and voice traffic on IN, and mobile...
+and integrate 
+Cognitive Customer Experience Application
+Imecom Fax Servers provides desktop faxing, fax-to-email/email-to-fax, automated production faxing, T.38 fax over IP, secure Cloud-based faxing, and fax server virtualization for Microsoft Windows networks, Mic...
+Inteno Netmedia Oy Ab
+Intercall
+long-standing premier partner for Dialogic, we supply their complete product range, from analog voice cards, media processing boards to signalling, TDM/and Media servers and gateways. Through to System Release So...
+Cloudfone Buzz - Buzz delivered as a managed service. targets resellers that want to sell a branded Buzz service to their customers. provide the Buzz service with an optional connection to the telephony network, allowing each tenant to port or by their own numberseries in the c...
+Jinny Software
+LumenVox is a speech automation technology company that provides carrier grade telephony speech products. LumenVox core products include the Speech Recognizer (ASR), Text-to-Speech Server (TTS), Call Progress Analysis (CPA, which incorporates Answering Machine Detection), Speech Tuner, and Statis...
+Maximum Network Solutions Limited
+We have our own collection of products, comprising of an platform, a selection of packaged speech self-service applications, including a call queue management application, a post survey and a name dialler application, within our Logicall Applications range. We also provide a secure, self-mana...
+mCarbon’s mobile collaboration tool unifies voice, video, data, and mobile applications on different networks to deliver an easy-to-use, rich-media collaborati...
+Our solutions provide a virtual HLR/and with SS7 interfaces to operator core network in order to support SS7 operations for card activation from customer SIM.
+Modulo Communication Systems 
+Modulo Communication Systems designs, develops, integrates and maintains customized telecom solutions, specializing in mobile networks. Our solutions include: Gateway, Gateway, HSS/HLR, SMSC, GMSC, and more.
+The Novatti Payment System (NPS) is an enabling platform for value added financial services, mobile commerce, and online transactions. It comprises a core transa...
+The product portfolio contains solutions, sold under the brand name Smartphone, Voicemail, Unified Messaging, Smart Call Center, Fax Server, Outbound Messenger, Speech Attendant as well as integrated, highly f...
+nWise AB
+nWise is total communication. 
+OceanTechnology Limited
+OceanFax Fax Server is the most innovative fax solution which is designed to support the high-volume document delivery in an efficient and reliable way. It supports fax boards and  is built on .technology and...
+Omtool's enterprise digital fax solutions include AccuRoute® Fax and Genifax™ Enterprise Fax.  These digital fax solutions incorporate industry-leading, enterprise-class features and provide unsurpasse...
+The One Touch Integration Server is a platform for automating document intensive business transactions . It maximizes the value of paper, fax and email documents by automatically routing and processing them as electro...
+VoiceSaver - VoiceSaver is a generic voice processing bullet-proof platform that can handle from 2 to 1,800 concurrent calls over Voice over (VoIP) or Time Division Multiplexed (TDM) circuits. The platform is used ...
+Pharos-Avantgard
+Pronexus VBVoice™, the award-winning Interactive Voice Response (IVR) development toolkit from Pronexus, enables you to reduce your development time and costs by leveraging the power of Microsoft® .standards in Visual Studio®. An easy-to-use GUI-based call flow environment l...
+QuadraDocV5(TM), the industry’s leading document routing virtual appliance, sends, receives, centrally controls, and secures mission critical documents and content. QuadraDocV5 leverages new and existing in...
+Redmond Software
+Fax communication solutions and services are a key focus for Servaplex Ltd. We work on numerous projects throughout Ireland. Through our partnership with world-leading technology vendors like we supply & ...
+Sipwise offers B2unified communication solutions for telecom providers looking to expand into B2markets as well as for the ones to offer new services to existing business clients. With the products C5 and C4 in combination with Sipwise and Sip:phone, provider...
+We at SPAN, impact our client's business by optimal use of domain knowledge, technology expertise and robust engagement models. Clients receive immense value from our pragmatic approach to an engagement, rather than a cost-based or a purely process-driven model. Irrespective of the activity with ...
+Innovate the exiting portfolio with some killer features like voice morphing, voice authentication, voice insert/add , m-commerce services, enterprise services etc.
+Telestax, Inc.
+Telestax is quickly becoming the catalyst for bringing real-time communications into the mainstream. Our Restcommplatform is scalable, highly available and is the only Webplatform that supports cloud, on premise and hybrid deployment configurations. Restcommis fast becoming the platfo...
+True Data Technology provides a wide range of integration services, from small analog deployments and T1/E1/PRI, all the way up to large scale SS7 deployments.  As a leader in the industry, True Data Technology u...
+Telekomunikace, Ltd.
+Tunstall Healthcare
+Ultra Cloud services include: Outbound Dialling (Predictive/Preview/ Power/Manual), Inbound Call Management, Call Blending, Voice Portal/IVR, CTI, Call Recording, Management Reporting & Data Analytics, Com...
+Solutions for Contact Centers, and ACD, / Voice-Portals.
+Products: Voxtron Communication Center agenTel TeleButler Axxium
+Platform enables clients to change traditional „beep" signal to any other sound including advertising service. Thanks to the Open Ringback and Halo Ads services it is the most universal a...
+with Live Agent based call handling for help line, contact center with apps for agents, supervision, monitoring and reporting
+How to deploy PowerMedia into the cloud
+Cloud optimized real-time communications solutions.
+Where to Buy
+Where to Buy
+Through the One Partner Program, member companies from around the world serve as a vital part of a global ecosystem offering leading solutions. 
+Search by Region or Country by selecting Solution Keywords below 
+View Partners alphabetically
+ By choosing Region or Country you will get results of where partners 
+, not where they are located.
+Since many of our partners provide service worldwide, if you are looking for something specific please search by keyword only for best results.
+Search for Partners:
+Click on the filters below to refine your search and then press Search.
+Central and Latin America
+United States
+Antigua and Barbuda
+Aruba
+Azerbaidjan
+British Indian Ocean Territory
+French Southern Territories
+Pitcairn Island
+Saint Kitts and Nevis Anguilla
+Saint Pierre and Miquelon
+Saint Tome Sao Tome and Principe
+Saint Vincent and Grenadines
+Svalbard and Jan Mayen Islands
+Tokelau
+Turks and Caicos Islands
+United States
+artificial intelligence
+audio-conferencing
+bandwidth optimization
+business intelligence
+business process automation
+call accounting
+conferencing
+cti system
+data capture
+distributed document capture and fax
+electronic value distribution
+hotel voicemail system
+Least-Cost-Routing
+location based sms
+managed vas services
+Managed-Service
+manager-secretary systems
+mcommerce
+outbound calling
+pms interface
+precall announcement
+private pbx
+robocall
+scalability
+scalable
+service creation
+signaling based solution
+solutions subscriber segmentation
+voice recording system
+voip
+voip transport
+wakeup calls
+OceanFax Fax Server is the most innovative fax solution which is designed to support the high-volume document delivery in an efficient and reliable way. It supports fax boards and  is built on .technology and...
+Next Generation Intelligent Network (NGIN) is a suite of carrier-grade, protocol independent fixed/mobile applications for deploying in and networks including: Advanced Toll Free, Voice VPN, Loc...
+Amcom Software
+Amcom Software's unified communications technologies include solutions for contact centers, emergency management, mobile event notification, and messaging. The company's products are used by leading organizations in healthcare, hospitality, education, business, and government. By continually deve...
+Aonta Technologies Limited
+Aonta Technologies provides carrier grade voice conferencing solutions to Conferencing Service Providers, Telcos and Enterprises. The solutions support all modes of conferencing including reserved, reservation-less, attended and unattended. Standards based, utilising SIP, the solution supports tr...
+Genialcloud Facsys overview
+Genialcloud Facsys is the Self-Service Cloud Solution for Digital Asset Management, Enterprise Communication, and Workflow Optimization deployed by Avantune.
+Avaya provides solutions across multiple channels and devices for better customer experience, increased productivity and enhanced financial performance. Read more about and Avaya's partnership by 
+For Enterprise: Contact Centers, Call Recording & Monitoring, Conferencing - Video & Voice, CTI, Fax Server, IVR, IVVR, Speech Server and Unified Messaging.
+BroadForward
+Comsys
+ConverCom AG
+CyTrack Intelligence Systems
+CyTrack Intelligence Systems develops and distributes software and solutions as a suite of modular applications for Unified Communications & Multi-Media Contact Centers with powerful Business Process Work...
+In critical situations responsible people need to take smart decisions to ensure business continuity, prevent disaster or even save life. Reliable, fast and auditable communication of vital information is the...
+Hospitality messaging, wakeup calls, auto attendant, PMS-middleware.  
+Enghouse Interactive
+Enghouse Interactive’s Syntellect suite of interaction management solutions deliver industry leading self-service and live contact center solutions spanning the entire customer service spectru...
+Esker is one of the first software vendors capable of offering a 100% cloud computing automation solution to its customers, based on patented Esker on Demand technology.  Automation is a great tool for stretching business resources and improving back-office efficiency. Instead of relyin...
+Extracomm Inc. is the leader in providing faxing solutions for both Microsoft Exchange and Domino environments. ExtraFax allows its customers to integrate fax communication seamlessly and cost-effectively...
+Fax, email, & messaging.  Easy Integration & installation in Healthcare, logistics, manufacturing, Retail, and government for 30+ years.
+Development & Support Divisions are based in Newport Beach, Custom development requests are always welcome
+FaxMaker is a network fax server solution that automates faxing, making it electronic, simple and secure.
+and integrate 
+Cognitive Customer Experience Application
+Imecom Fax Servers provides desktop faxing, fax-to-email/email-to-fax, automated production faxing, T.38 fax over IP, secure Cloud-based faxing, and fax server virtualization for Microsoft Windows networks, Mic...
+Cloudfone Buzz - Buzz delivered as a managed service. targets resellers that want to sell a branded Buzz service to their customers. provide the Buzz service with an optional connection to the telephony network, allowing each tenant to port or by their own numberseries in the c...
+Jinny Software
+LumenVox is a speech automation technology company that provides carrier grade telephony speech products. LumenVox core products include the Speech Recognizer (ASR), Text-to-Speech Server (TTS), Call Progress Analysis (CPA, which incorporates Answering Machine Detection), Speech Tuner, and Statis...
+Maximum Network Solutions Limited
+We have our own collection of products, comprising of an platform, a selection of packaged speech self-service applications, including a call queue management application, a post survey and a name dialler application, within our Logicall Applications range. We also provide a secure, self-mana...
+mCarbon’s mobile collaboration tool unifies voice, video, data, and mobile applications on different networks to deliver an easy-to-use, rich-media collaborati...
+The Novatti Payment System (NPS) is an enabling platform for value added financial services, mobile commerce, and online transactions. It comprises a core transa...
+nWise AB
+nWise is total communication. 
+OceanTechnology Limited
+OceanFax Fax Server is the most innovative fax solution which is designed to support the high-volume document delivery in an efficient and reliable way. It supports fax boards and  is built on .technology and...
+Omtool's enterprise digital fax solutions include AccuRoute® Fax and Genifax™ Enterprise Fax.  These digital fax solutions incorporate industry-leading, enterprise-class features and provide unsurpasse...
+The One Touch Integration Server is a platform for automating document intensive business transactions . It maximizes the value of paper, fax and email documents by automatically routing and processing them as electro...
+VoiceSaver - VoiceSaver is a generic voice processing bullet-proof platform that can handle from 2 to 1,800 concurrent calls over Voice over (VoIP) or Time Division Multiplexed (TDM) circuits. The platform is used ...
+Pronexus VBVoice™, the award-winning Interactive Voice Response (IVR) development toolkit from Pronexus, enables you to reduce your development time and costs by leveraging the power of Microsoft® .standards in Visual Studio®. An easy-to-use GUI-based call flow environment l...
+QuadraDocV5(TM), the industry’s leading document routing virtual appliance, sends, receives, centrally controls, and secures mission critical documents and content. QuadraDocV5 leverages new and existing in...
+Redmond Software
+Fax over (FoIP), cloud fax service, fax server consolidation, high availability
+We at SPAN, impact our client's business by optimal use of domain knowledge, technology expertise and robust engagement models. Clients receive immense value from our pragmatic approach to an engagement, rather than a cost-based or a purely process-driven model. Irrespective of the activity with ...
+CALLMaster server software for & Springware platform, supports VoIP, T1/PRI, Digital or Analog lines.  SQL2008  based, multilingual inbound/outbound calling with fax, IVR, Call routing, email/voi...
+Telestax, Inc.
+Telestax is quickly becoming the catalyst for bringing real-time communications into the mainstream. Our Restcommplatform is scalable, highly available and is the only Webplatform that supports cloud, on premise and hybrid deployment configurations. Restcommis fast becoming the platfo...
+True Data Technology provides a wide range of integration services, from small analog deployments and T1/E1/PRI, all the way up to large scale SS7 deployments.  As a leader in the industry, True Data Technology u...
+Tunstall Healthcare
+Solutions for Contact Centers, and ACD, / Voice-Portals.
+Products: Voxtron Communication Center agenTel TeleButler Axxium
+How to deploy PowerMedia into the cloud
+Cloud optimized real-time communications solutions.
+Where to Buy
+Where to Buy
+Through the One Partner Program, member companies from around the world serve as a vital part of a global ecosystem offering leading solutions. 
+Search by Region or Country by selecting Solution Keywords below 
+View Partners alphabetically
+ By choosing Region or Country you will get results of where partners 
+, not where they are located.
+Since many of our partners provide service worldwide, if you are looking for something specific please search by keyword only for best results.
+Search for Partners:
+Click on the filters below to refine your search and then press Search.
+Central and Latin America
+United States
+Antigua and Barbuda
+Aruba
+Azerbaidjan
+British Indian Ocean Territory
+French Southern Territories
+Pitcairn Island
+Saint Kitts and Nevis Anguilla
+Saint Pierre and Miquelon
+Saint Tome Sao Tome and Principe
+Saint Vincent and Grenadines
+Svalbard and Jan Mayen Islands
+Tokelau
+Turks and Caicos Islands
+United States
+artificial intelligence
+audio-conferencing
+bandwidth optimization
+business intelligence
+business process automation
+call accounting
+conferencing
+cti system
+data capture
+distributed document capture and fax
+electronic value distribution
+hotel voicemail system
+Least-Cost-Routing
+location based sms
+managed vas services
+Managed-Service
+manager-secretary systems
+mcommerce
+outbound calling
+pms interface
+precall announcement
+private pbx
+robocall
+scalability
+scalable
+service creation
+signaling based solution
+solutions subscriber segmentation
+voice recording system
+voip
+voip transport
+wakeup calls
+OceanFax Fax Server is the most innovative fax solution which is designed to support the high-volume document delivery in an efficient and reliable way. It supports fax boards and  is built on .technology and...
+Next Generation Intelligent Network (NGIN) is a suite of carrier-grade, protocol independent fixed/mobile applications for deploying in and networks including: Advanced Toll Free, Voice VPN, Loc...
+Aonta Technologies Limited
+Aonta Technologies provides carrier grade voice conferencing solutions to Conferencing Service Providers, Telcos and Enterprises. The solutions support all modes of conferencing including reserved, reservation-less, attended and unattended. Standards based, utilising SIP, the solution supports tr...
+Test Suite is a platform for multiprotocol end-to-end and component testing of services in and networks. 
+Genialcloud Facsys overview
+Genialcloud Facsys is the Self-Service Cloud Solution for Digital Asset Management, Enterprise Communication, and Workflow Optimization deployed by Avantune.
+BroadForward
+Service we offer encompass everything from system design, installation and problem analysis / resolution including Business Intelligence | Software Engineering |  Business Process Re-engineering | Enterprise Appl...
+CTMail®: Autoattendant system, voicemail, audiotext, Fax Server and Platform and Unified Communications Platform.
+CommLogik Corp.
+Commlogik aggregates Value Added Distribution with Solution Distribution to channels in Latam, Caribbean and Central America. Our strenghts in solutions resides in Unified Communications, Microsoft Lync, Call Centers...
+Comsys
+ConverCom AG
+CyTrack Intelligence Systems
+CyTrack Intelligence Systems develops and distributes software and solutions as a suite of modular applications for Unified Communications & Multi-Media Contact Centers with powerful Business Process Work...
+Hospitality messaging, wakeup calls, auto attendant, PMS-middleware.  
+Enghouse Interactive
+Enghouse Interactive’s Syntellect suite of interaction management solutions deliver industry leading self-service and live contact center solutions spanning the entire customer service spectru...
+Extracomm Inc. is the leader in providing faxing solutions for both Microsoft Exchange and Domino environments. ExtraFax allows its customers to integrate fax communication seamlessly and cost-effectively...
+Fax, email, & messaging.  Easy Integration & installation in Healthcare, logistics, manufacturing, Retail, and government for 30+ years.
+Development & Support Divisions are based in Newport Beach, Custom development requests are always welcome
+and integrate 
+Cognitive Customer Experience Application
+Imecom Fax Servers provides desktop faxing, fax-to-email/email-to-fax, automated production faxing, T.38 fax over IP, secure Cloud-based faxing, and fax server virtualization for Microsoft Windows networks, Mic...
+Cloudfone Buzz - Buzz delivered as a managed service. targets resellers that want to sell a branded Buzz service to their customers. provide the Buzz service with an optional connection to the telephony network, allowing each tenant to port or by their own numberseries in the c...
+Jinny Software
+LumenVox is a speech automation technology company that provides carrier grade telephony speech products. LumenVox core products include the Speech Recognizer (ASR), Text-to-Speech Server (TTS), Call Progress Analysis (CPA, which incorporates Answering Machine Detection), Speech Tuner, and Statis...
+mCarbon’s mobile collaboration tool unifies voice, video, data, and mobile applications on different networks to deliver an easy-to-use, rich-media collaborati...
+The Novatti Payment System (NPS) is an enabling platform for value added financial services, mobile commerce, and online transactions. It comprises a core transa...
+OceanTechnology Limited
+OceanFax Fax Server is the most innovative fax solution which is designed to support the high-volume document delivery in an efficient and reliable way. It supports fax boards and  is built on .technology and...
+Omtool's enterprise digital fax solutions include AccuRoute® Fax and Genifax™ Enterprise Fax.  These digital fax solutions incorporate industry-leading, enterprise-class features and provide unsurpasse...
+VoiceSaver - VoiceSaver is a generic voice processing bullet-proof platform that can handle from 2 to 1,800 concurrent calls over Voice over (VoIP) or Time Division Multiplexed (TDM) circuits. The platform is used ...
+Pronexus VBVoice™, the award-winning Interactive Voice Response (IVR) development toolkit from Pronexus, enables you to reduce your development time and costs by leveraging the power of Microsoft® .standards in Visual Studio®. An easy-to-use GUI-based call flow environment l...
+QuadraDocV5(TM), the industry’s leading document routing virtual appliance, sends, receives, centrally controls, and secures mission critical documents and content. QuadraDocV5 leverages new and existing in...
+We at SPAN, impact our client's business by optimal use of domain knowledge, technology expertise and robust engagement models. Clients receive immense value from our pragmatic approach to an engagement, rather than a cost-based or a purely process-driven model. Irrespective of the activity with ...
+Innovate the exiting portfolio with some killer features like voice morphing, voice authentication, voice insert/add , m-commerce services, enterprise services etc.
+True Data Technology provides a wide range of integration services, from small analog deployments and T1/E1/PRI, all the way up to large scale SS7 deployments.  As a leader in the industry, True Data Technology u...
+Tunstall Healthcare
+How to deploy PowerMedia into the cloud
+Cloud optimized real-time communications solutions.

@@ -1,0 +1,46 @@
+Electron Devices
+GaHEMTs for Radio Link and SATCOM
+GaHEMTs for Base Station
+GaHEMTs for Radar
+GaHEMTs for General Purpose
+Power Amplifier MMICs (Packages)
+Multiplier MMICs
+Internally Matched High Power GaAs FETs
+Optical Data link
+SFP+ Optical Transceivers
+10Gbps Transceivers
+SFP28 Optical Transceivers
+QSFP28-50Optical Transceivers
+50Gbps Transceivers
+QSFP28 Optical Transceivers
+100Gbps Transceivers
+Optical Transceivers
+100Gbps Transceivers
+CFP4 Optical Transceiver
+Small size 100Gbps Transceiver
+Client devices
+Tunable laser for coherent transmission
+QSFP28-50Optical Transceivers
+SFP28 Optical Transceivers
+QSFP28 Optical Transceivers
+Data sheet is updated.
+to Feature High Output Power S-band and X-band GaProducts for Radar Applications at 2018
+SGN3135-500H-R
+Data sheet is updated.
+Data sheet is updated.
+Data sheet is updated.
+Data sheet is updated.
+Wireless Products catalog is updated
+Offers Suite of Devices for applications at IMS2016
+to Showcase the Highest Output power X-band GaProducts at IMS2016
+Data sheet is updated.
+Data sheet is updated.
+SGN21-120H-R
+Data sheet is updated.
+Data sheet is updated.
+Mounting Instructions for Packaged FETs and MMICs
+Mounting Instructions for Package
+Yamanashi Plant
+No.199, Putuoshan Road, SND, Suzhou, Jiangsu, 215153 China
+Sumiden Vietnam Co., Ltd.
+Plot 105/5, Amata Road 5, Amata Industrial Park, Long Binh Ward,.

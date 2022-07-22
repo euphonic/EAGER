@@ -1,0 +1,17 @@
+ was successfully added to your cart.			
+Mosquito Relief is on the Way!
+Sign Up to Enjoy 10% Off Your First Order!
+Opt In to Email Marketing
+Customer Type
+This field is for validation purposes and should be left unchanged.
+This iframe contains the logic required to handle Ajax powered Gravity Forms.
+ if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/dynatrap.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/dynatrap.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 22) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );
+DynaTrap Products can be found at the following retailers:
+Let's keep in touch!
+Customer Type
+This iframe contains the logic required to handle Ajax powered Gravity Forms.
+Follow Us On Social Media!
+Opt In to Email Marketing
+Customer Type
+This field is for validation purposes and should be left unchanged.
+This iframe contains the logic required to handle Ajax powered Gravity Forms.

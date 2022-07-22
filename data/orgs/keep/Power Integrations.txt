@@ -1,0 +1,187 @@
+The ultimate flyback...
+InnoSwitch switcher ICs
+(Nasdaq: ) will release its fourth-quarter financial results after market hours on Thursday, February 7, 2019, and will host a conference call that day beginning at 1:30 p.m. Pacific time. Members of the investment community can join the conference call by dialing 1-647-689-4187. Live and archived audio webcasts of the conference call will be available on the company’s website at http://investors.power.com .
+today announced a new plug-and-play gate driver for use with Infineon’s PrimePACK™3+ and Fuji-equivalent modules for 2-level and 3-level applications. The SCALE-2™ 2SP0430 gate-driver board suits industrial, traction, and renewable-energy applications, and provides reinforced isolation for 1200 and 1700 modules.
+The 2018 Global Semiconductor Alliance Award Nominees were recently announced, and is proud to be a finalist for the “Most Respected Emerging Public Semiconductor Company Award.”
+today announced the release of its BridgeSwitch™ integrated half-bridge (IHB) motor driver family. BridgeSwitch features high and low-side advanced FREDFETs (Fast Recovery Diode Field Effect Transistors) with integrated lossless current sensing, resulting in efficiencies of over 98.5% in brushless (BLDC) motor drive applications up to 300 W.
+粤ICP备18031212号-1Integrations, Inc. , is a Silicon Valley-based supplier of high-performance electronic components used in high-voltage power-conversion systems. Our integrated circuits and diodes enable compact, energy-efficient AC-supplies for a vast range of electronic products including mobile devices, TVs, PCs, appliances, smart utility meters and lights. Our SCALE™ drivers enhance the efficiency, reliability and cost of high-applications such as industrial motor drives, solar and wind energy systems, electric vehicles and high-voltage transmission. Since its introduction in 1998, Integrations' EcoSmart® energy-efficiency technology has prevented billions of dollars' worth of energy waste and millions of tons of carbon emissions. Reflecting the environmental benefits of our products, Integrations' stock is a member of clean-technology stock indices sponsored by Cleantech Group and Clean Edge . Visit our Green Room for a comprehensive guide to energy-efficiency standards around the world.
+1988 – founded by Klas Eklund, Art Fury and Steve Sharp
+1994 – TOPSwitch™ family debuted as company’s first commercial product
+1997 – Initial public offering on at $4/share (split-adjusted)
+1998 – Introduced TinySwitch™ family with EcoSmart™ energy-efficiency technology
+1999 – TinySwitch™ received Discover Magazine Award for Technological Innovation
+2002 – Introduced LinkSwitch™ family – industry’s first cost-effective replacement for linear transformers, or "energy vampires"
+2002 – Balu Balakrishnan succeeded Howard Earhart as CEO; annual revenues surpass $100 million
+2003 – Selected as one of the world’s top 20 “sustainable stocks” by SustainableBusiness.com
+2005 – Energy savings from EcoSmart technology surpassed $1 billion; company again selected as one of world’s top 20 sustainable stocks by SustainableBusiness.com
+2006 – Received STAR® award
+2007 – Company’s stock added to Clean Edge stock indices
+2008 – Stock added to The Cleantech Index; company initiates quarterly dividend
+2010 – Unveiled one of Silicon Valley’s largest solar installations at our San José headquarters
+2012 – Acquired CT-Concept, Swiss provider of drivers, for $116 million
+2012 – Introduced LYTSwitch™ family for lighting applications
+2015 – Acquired Cambridge Semiconductor, UK-based supplier of controller chips for AC-supplies, for $23 million
+2016 – Surpassed $100in quarterly revenues for the first time (Q3)
+한국어
+Sustainability & Citizenship
+Patents and Trademarks
+Sustainability & Citizenship
+Patents and Trademarks
+Feb 19, 2019
+Tutorial: Drivers and Control Circuitry for IGBTs and MOSFETs
+SuperGrid Institute
+23 rue Cyprian, 1321
+Visit at the tutorial and learn more about our latest innovations in gate-driver technology.
+Embedded World 2019
+Exhibition Center Nürnberg
+Visit at Embedded World 2019 to learn more about our latest innovations in AC-converter technology.
+United States
+Visit at 2019 in Anaheim, California to learn more about our latest innovations in AC-converters, drivers, gate drivers and motor drivers.
+Siand GaUser Forum: Potential of Wide Bandgap Semiconductors in Electronic Applications
+Alois-Schiessl-Platz 1
+Visit at the tutorial and learn more about our latest innovations in gate-driver technology.
+The 13th Annual (Shunde) Home Appliances Supply and Conversion Technology Seminar
+Visit at the annual event in Shende to learn more about our latest innovations in AC-converter technology.
+The 11th Annual (Shenzhen) Green Cars Control Technology Seminar
+Visit at the annual event in Shenzhen to learn more about our latest innovations in gate-driver technology to automotive use. Check back soon for more information.
+NürnbergMesse GmbH
+Visit at Europe 2019 in Nuremberg, Germany to learn more about our latest innovations in AC-converters, drivers, gate drivers and motor drivers.
+China Import & Export Fair Complex
+Visit at the annual event in Guangzhou to learn more about our latest innovations in driver technology.
+Shanghai World Expo Exhibition & Convention Center
+Visit at Asia in Shanghai to learn more about our latest innovations in AC-converters, drivers, gate drivers and motor drivers.
+Careers at Products
+Corporate Sustainability and Citizenship
+한국어
+Sustainability & Citizenship
+Patents and Trademarks
+Careers at Careers at Careers
+Careers at Products
+Corporate Sustainability and Citizenship
+한국어
+Sustainability & Citizenship
+Patents and Trademarks
+ Director, Investor Relations & Corporate Communications
+Johann-Renfer-Strasse 15
+If you have a general question about Integrations, you can also use the contact form below to send us an email.  Please post technical questions or product (AC-DC, LED-Driver, or IGBT-Driver) related questions here.  Please use our 
+for all technical questions, and the contact forms on the product-related sites for all product-related questions.
+Antigua and Barbuda
+Aruba
+Bosnia and Herzegovina
+Korea, Democratic People's Republic of
+Tokelau
+United States
+United States Minor Outlying Islands
+Please post technical questions or product (AC-DC, LED-Driver, or IGBT-Driver) related questions here. Please use our forum (
+) for all technical questions, and the contact forms on the product-related sites for all product-related questions.
+한국어
+Sustainability & Citizenship
+Patents and Trademarks
+Patents and Trademarks
+Patents and Trademarks
+Sustainability & Citizenship
+Patents and Trademarks
+Patents and Trademarks
+As of December 31, 2017, held 667 patents. 
+ to see a complete list of Integrations' patents. (Link will open a new window and take you to the Patent and Trademark Office Web site.)
+The following trademarks, logos and service marks ("Marks") displayed on this Web Site are the property of or other third parties. Users are not permitted to use these Marks without the prior written consent of or the third party that may own the Mark. Other trademarks mentioned in this document or on this website are the property of their respective owners.
+Trademarks of Integrations, Inc.
+EcoSmart
+-PH
+FluxLink
+HiperPFS
+HiperTFS
+HiperTFS
+Careers at Products
+Corporate Sustainability and Citizenship
+한국어
+Sustainability & Citizenship
+Patents and Trademarks
+Corporate Sustainability and Citizenship
+Corporate Sustainability and Citizenship
+Sustainability & Citizenship
+Standby, No-Load and Energy Vampires
+Solution: EcoSmart Technology
+Powering a Greener Future
+Governance and Citizenship
+Operations and Sustainability
+Patents and Trademarks
+Sustainability & Citizenship
+ 600 ksolar array.
+Earth Day 2018: employees plant trees in North San José.
+Message from CEO Balu Balakrishnan
+In 1997 read a research paper from Lawrence Berkeley National Laboratory explaining that billions of dollars are wasted each year to computers, TVs and other electronic devices that are plugged in but not in use. One of the culprits behind this "standby" waste was the supplies that convert the high voltage from a wall outlet into the lower voltage needed by most electronics. These supplies tended to be highly inefficient when it came to supplying just a few watts to a remote-control sensor, display, or some other standby function.
+At that time, was developing a new power-supply chip called TinySwitch
+, featuring an innovative switching technique that enabled high efficiency at reduced levels of output. It was a "light bulb" moment for us; what we had thought would be a side benefit of our new product was not only a solution to a major economic and environmental problem but also a great business opportunity Integrations. Although efficiency was not yet a priority for most electronics manufacturers, we committed that from that point on, every new product would include this energy-efficiency technology, which we called EcoSmart
+. Since then we have shipped billions of chips with EcoSmart technology, saving billions of dollars worth of energy and millions of tons of CO
+ emissions – all without adding cost, and without any change in behavior on the part of the end user. And today, with energy efficiency now a major priority for policymakers, manufacturers and consumers, EcoSmart technology is often the key reason for customers to buy our products. We've learned that "green" business can indeed be good business.
+We've doubled down on that notion in recent years with our investments in lighting and high-gate drivers. Our power-conversion chips are an ideal match for the emerging lighting sector, delivering the reliability and efficiency needed to help technology fulfill its promise to transform the lighting industry. Meanwhile, our gate-driver products, attained through our 2012 acquisition of CT-Concept, are vital building blocks in high-efficiency industrial motors, electric transportation, solar- and wind-energy systems, and long-haul transmission. That means we now address the full spectrum of clean-applications, enabling not just the efficient consumption of in electronics, appliances and lighting, but also the generation of renewable energy and the efficient transmission of on the grid.
+More broadly, we believe that there is economic opportunity in operating with the benefit of society and the environment in mind, and that profits and social responsibility need not be mutually exclusive. We take the long view in our decision making and planning, and invest for consistent growth and profitability. That means reducing our own energy consumption, using solar energy to our operations, incorporating "green" materials in our products wherever possible, and working with manufacturing partners that have earned quality and environmental certifications. It means valuing our employees and giving them the freedom to do their best, while providing highly attractive compensation and benefits. As a result, we have a long track record of positive earnings, high levels of customer satisfaction, and an employee turnover rate nearly half the average for our region—and well below average for our industry.
+I'm proud not only of what our technology has done to benefit the world, but also the responsible way in which we conduct our business. invite you to read more about it here on our website.
+ President and Chief Executive Officer
+한국어
+Sustainability & Citizenship
+Patents and Trademarks
+Sustainability & Citizenship
+Patents and Trademarks
+External Value is intellectual property exclusive to (PI) which can assist in:
+Reducing costs while using chips
+Improve time to market
+Increase reliability of designs
+Assist in saving and meeting new energy regulations
+What is the license?
+royalty free license to use "External Value" in conjunction with parts in the same circuit
+No signature or other action is required.
+No license is extended for use with non-chips.
+Active Load for Dimming
+Active Shunt Surge Protection
+Adjustable Bulk Input Capacitance Controlled from High Voltage Bus
+Advanced E-Shield with Multi-Balance Windings in Multi-Output Transformer
+Bleeder with Thermal Protection
+Charge Pump Compensation for Cable Drop
+Current Sense for High-Side Buck Switcher
+Direct Sensing Non-isolated Driver
+Dual-Output Buck Converter
+E-Shield for Low Transformer Structure
+Edge Triggered Amplified Bleeder
+Edge Triggered Bleeder with Current Sense
+Energy Recovery of Dimmer Turn-on Spike
+Enhanced Active Preload for StabilitySurge Protection
+HiSide Configurations
+Leading Edge and Trailing Edge Dimmer Detection and Bleeder Activation
+Compatible Circuit Interfacing Ballast
+Driver with Direct Output Current Sensing
+Low-Loss, Low-Cost and Small-Size Adjustable Bulk Input Capacitance
+Multi E-Shield to Reduce Displacement Current & EMI
+Spark Gap for Current Diversion
+Light Load Shutdown Circuit
+Pop-Elimination Bleeder Circuit
+Rectifier with an Input Line Fault Indicator
+Reduced Displacement Current & Improved with No Additional Winding
+Shared Clamp Reset Circuit
+Shroud for a Bobbin
+Soft Transition between Constant Current and Constant Voltage
+Stackwith Split Input Capacitors
+Tapped Inductor with Switch
+Transformer Assembly with Drum Core Inductor
+Transverse Shield Wire
+Trimmed Balance and Cancellation Windings
+한국어
+BridgeSwitch Family
+Brushless Motors
+Industrial Motors
+Data Sheets
+Reference Designs
+Reference Design Kits
+Whitepapers and Articles
+Energy Efficiency Resources
+China Standard Certification Center (CSC)
+European Commission ErEcodesign Directive
+Other North America
+- 2007 (Energy Independence and Security Act) 
+Careers at Careers at Careers
+DER-653 - 300 3-Phase Inverter Using BridgeSwitch Motor Driver and LinkSwitch-TN2
+DER-654 - 300 3-Phase Inverter Using BridgeSwitch Motor Driver
+DER-749 - 40 3-Phase Inverter Using BridgeSwitch Motor Driver and LinkSwitch-TN2
+BridgeSwitch Data Sheet
+ Launches 98.5% Efficient High-Voltage Motor Drive Family

@@ -1,0 +1,136 @@
+Space Elevator History
+Advanced Aircraft
+Space Debris Removal
+Lunar Development
+Low-Cost Launch
+Headquartered in Mount Pleasant, STAR, Inc. is a premier high-tech small business for
+         South Carolina.  Since its founding in 1998, has performed aircraft spacecraft for the Department of Defense,
+         NASA,  With in-house funding for small business, has developed new concepts for high-altitude, long-endurance
+         aircraft; propellantless, maneuvering spacecraft; space elevators for the Moon. has also won the Small Business Administration’s
+         National Tibbetts Award for South Carolina.  
+Game Changing Division
+ElectroDynamic Debris Eliminator (EDDE)
+Phase SBIR, Navy SPAWAR
+High Altitude Morphing  Aircraft
+Autonomous Orbit Transfer Vehicle
+Marshall Space Flight Center
+In-Space Propulsion Technologies Program
+The Lunar Space Elevator
+Institute for Advanced Concepts
+Research, Inc., 3213 Carmel Bay Drive, Suite 200 Mount Pleasant, 29466,
+Space Elevator History
+Advanced Aircraft
+Space Debris Removal
+Lunar Development
+Low-Cost Launch
+Jerome Pearson, President of STAR, Inc.,
+         conceived the idea of the space elevator in 1969 at the Ames Center, perfected the concept in the early
+         1970s, when he was at the Air Force Laboratory in Ohio. He published his ideas in an 
+that first brought the idea to the attention of the entire world of spaceflight researchers. Sir Arthur Clarke, living in
+         Sri Lanka, consulted with Pearson in the late 1970s in writing his novel, "The Fountains of Paradise," which brought
+         Pearson’s idea of the space elevator to an even larger audience. Sir Arthur included in the book an appendix that credited
+The idea of a "stairway to heaven" is as old as the Bible, includes the Tower of Babel
+         Jacob’s Ladder. Modern thought on space elevators goes back to Konstantin Tsiolkovski, a school teacher in St. Petersburg,
+         Russia, who did a "thought experiment" on a tower into space. Tsiolkovski imagined tall towers cosmic railways,
+         discovered what we now call the geostationary altitude for a spacecraft, at which point the gravitational centrifugal
+         forces on a body in a one-day orbit are in balance. Tsiolkovski calculated the synchronous altitudes for the five visible
+         planets, the sun, but concluded that building such a real tower into orbit was impossible. 
+In the 1960s, Leningrad engineer Yuri Artsutanov discovered how to build a real structure for the
+         space elevator, but published no technical papers; his ideas appeared in a Sunday supplement to Pravda, their significance
+         was not recognized in the West. In 1966, a group of oceanographers led by John Isaacs at the Scripps Institute of Oceanography,
+         La Jolla, California, again discovered the concept. But they proposed such a thin wire that it would be cut by micro-meteorites
+         almost instantly, was therefore completely impractical. Two other near-discoveries were by Sutton Diederich in 1967
+         Collar Flower in 1969, who proposed lowering a stationary satellite on a long cable, but they did not extend this
+         to the space elevator.
+         the earlier work, independently discovered the concept, but published it in the international journal 
+, thus gave the space elevator to the international
+         aerospace community for the first time. His discovery included using the space elevator for zero-net-energy space launching,
+         for launching payloads from the elevator tip to reach other planets without requiring rockets. He also was first examine
+         the dynamics of actually lifting payloads up the elevator, found limitations on the speeds of ascent, akin to the critical
+         velocities of a rotating shaft the periodic loads from soldiers marching on a bridge. 
+Hans Moravec had been thinking along similar lines, seeing the Pearson orbital tower publication
+         led him to propose rotating space towers unconnected to a planet or moon, for catching throwing space payloads to different
+         orbits. Artsutanov had also proposed this concept in 1969, but it was not known to Moravec. 
+         extended the space elevator idea to the moon, using the Lagrangian points as balance points in lieu of the geostationary orbit,
+"lunar anchored satellite"
+ could be used to bring lunar materials into high Earth orbit cheaply. Pearson published the first paper on the  lunar
+         space elevator concept at the 1977 L5 Society Conference in London, then published his journal article in March of 1979.
+          Interestingly, Artsutanov published a paper on a lunar space elevator just one month later, without either author being
+         aware of the other!
+Paul Birch of Englconceived of a dynamic space elevator, in
+         the form of a hollow ring about the Earth with a super-orbital wire inside it. The resulting unbalanced centrifugal force
+         would support shorter space elevators hanging from the ring, producing a low-altitude space elevator.  
+         could be lifted along the elevators to the orbital ring, then accelerated to orbital velocity. Keith Lofstrom proposed
+         a smaller launch loop with a moving conductor inside, to lift itself above the atmosphere launch payloads into orbit.
+         Rod Hyde of Lawrence Livermore Laboratory conceived of another dynamic space elevator, supported vertically by electromagnetic
+         disks being fired from the base upward, then deflected down by a magnetic driver at the top. The reaction force would
+         keep the tower stable to any altitude, but of course payloads at the top would not have orbital velocity unless the tower
+         reached at least synchronous altitude over the equator. 
+         Penzo then extended the idea of space elevators tethers to Phobos, the closer the moon of Mars. He also proposed using
+         a rotating tether to attach a spacecraft to asteroids, to change its orbit without rockets, like a gravitational assist. Pearson
+         Guy Pignolet of Germany almost simultaneously conceived of the idea of a 
+rotating tube about an asteroid
+ to throw asteroidal material into space, providing rocket thrust to retrieve
+         the asteroid. Another possibility is to use the Artsutanov-Moravec rotating tether to catch suborbital payloads throw
+         them into Earth orbit. The payloads could be launched either by rockets or by electromagnetic guns. 
+One fundamental problem of building the space elevator is the phenomenal
+         strength of materials required to support its mass over the 35,800-km height to geostationary orbit. Artsutanov Pearson
+         recognized that carbon "whiskers" representing perfect-crystal structures, might be one way to achieve the required
+         strength. When carbon nanotube structures were discovered, it was realized immediately by Richard Smalley at Rice University
+         in Houston, Texas by Boris Yakobson at North Carolina State University that these super-strength materials would make
+         the space elevator possible.
+Using these ideas proposed materials, Bradley Edwards proposed a practical scheme
+         for constructing a space elevator about the Earth, received funding for a study. workshop at Marshall Space
+         Flight Center produced a summary of the current state of the space elevator. However, it may still be a long time before such
+         a space elevator is built about the Earth, because of its interference with all other Earth satellites. The orbit of any Earth
+         satellite, except for geostationary satellites, would constantly intersect that of the space elevator structure, would
+         therefore require active avoidance.
+On the other hand, it is possible to
+         build Pearson’s lunar space elevator now, use it to develop lunar resources for lunar farside communication.
+         It could also be constructed of existing composite materials, does not require the super-strength of carbon nanotubes.
+         The use of rotating tethers for asteroid retrieval is also possible now, could even be used to rid the Earth of the danger
+         of asteroid collisions, such as the one that killed the dinosaurs. 
+         in St. Petersburg Russia in August of 2006, the two inventors of the space elevator met for the first time, when Jerome Pearson
+         visited Yuri Artsutanov they talked, through an interpreter, outside the Hermitage Museum. Artsutanov related how he was
+         given a sample of a high-strength material, imagined a hanging cable that could be tapered to reach synchronous orbit.
+         Pearson related how he was inspired by a description by Arthur Clarke of synchronous satellites “perched atop imaginary
+         towers,” figured out how to make the towers real. Artsutanov is long retired, but Pearson is still actively working
+         in the field. In August, 2013, Pearson gave the keynote address to the International Space Elevator Conference in Seattle,
+         described how he assisted Sir Arthur on the of space elevators for Clarke’s novel, “The Fountains
+         space elevator history are listed here, in chronological order. 
+Artsutanov, Y., "Into the Cosmos by Electric Rocket,"
+ Komsomolskaya Pravda,
+         E., "Satellite Elongation into a true 
+    Sky-Hook," 
+Sutton, W., Diederich, W., "Synchronous Rotation of a Satellite at Less that 
+    Synchronous Altitude," Journal, Vol. 5,
+Artsutanov, Y., "Into the Cosmos without Rockets," 
+Collar, R., Flower, W., "	(Relatively) Low Altitude Geostationary Satellite,"
+    Journal of the British Interplanetary Society, 
+"The Orbital Tower: Spacecraft Launcher Using the Earth's Rotational 
+    Energy,"
+         Jerome, “Anchored Lunar Satellites for Cis-Lunar Transportation Communication,” 
+    European Conference on Space Settlements Space Industries, London, September 1977. 
+Journal of the Astronautical 
+Pearson, J., "Lunar Anchored Satellite Test,"
+"Anchored Lunar Satellites for Cislunar Transportation 
+Journal of the Astronautical Sciences
+Artsutanov, Y., "Railway ‘Moon-Earth’," 
+, No. 4, p. 21, 1979.
+Pignolet,
+         G., "Retrieval of Asteroids for Space Materials," Paper 79-F-122, 
+    September 1979.
+"Asteroid Retrieval by Rotary Rocket."
+Hyde, R., Wood, L., McCarthy, J., Minsky, M., "The Bridge:
+    Can Build Now," Lawrence Livermore National Laboratory unpublished report, 1982.
+Penzo, A., "Tethers
+         for Mars Space Operations," Paper 84-174, July 1984.
+Low Cost Launch System Orbital Fuel Depot
+Yakobson, I., Smalley, E., "Fullerene Nanotubes: C
+  American Scientist
+Konstantin Tsiolkovski the Origin of the Space Elevator
+Smitherman, V., Jr., Compiler, 
+    Flight Center, Huntsville, AL, August 2000.
+The Space Elevator: Revolutionary 
+The Real History of the Space Elevator
+Research, Inc., 3213 Carmel Bay Drive, Suite 200 Mount Pleasant, 29466,
