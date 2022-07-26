@@ -1,0 +1,81 @@
+ Lasers Shape the Future
+Tim Jenks, of NeoPhotonics, discusses exciting new possibilities for narrow-linewidth lasers
+is a leading designer and manufacturer of hybrid photonic integrated optoelectronic modules and subsystems for 
+bandwidth-intensive, high-speed communications 
+networks. The company's products enable cost-effective, high-speed data transmission and efficient allocation of bandwidth over communications networks.
+Our Advanced Hybrid Photonic Integration technology progressively increases performance, reduces cost and increases the density achievable using our products. These cost reductions and performance increases are required for the growth of the network capacity.
+Verizon's Glenn Wellbrock Discusses Contentionless ROADMs with NeoPhotonics' Winston Way
+Announces Preliminary Financial Results for the Fourth Quarter
+Reports Third Quarter 2018 Financial Results
+to Host Conference Call to Discuss 2018 Third Quarter Financial Results on Friday, November 2, 2018
+Aerospace Connectivity and Coherent Optics
+Model and Design for High Performance Silicon Photonics…
+Jianying Zhou, Ph.D.
+Winston Way, Ph.D.
+High Speed Coherent Solutions
+High Speed Data Center Solutions
+Advanced Hybrid Photonic Integration
+Indium Phosphide PICs
+Optical Semiconductors
+Quality Policy & Policy
+Corporate Citizenship
+Employee Well Being
+Supply Chains Act Policy
+Board of Directors
+© 2019 All Rights Reserved.is a leading designer and manufacturer of photonic integrated circuit, or PIC, based modules and subsystems for bandwidth-intensive, high-speed communications networks.
+The company’s products are designed to enable cost-effective, high-speed data transmission and efficient allocation of bandwidth over communications networks. offers high-speed products that enable data transmission at the highest data rates.
+Our 100and beyond products require our Advanced Hybrid Photonic Integration technology. We produce photonic integrated circuits (PICs) that comprise both arrayed and individual photonic functional elements using optimized materials systems and processes from our in-house Silicon, Indium Phosphide and Gallium Arsenide wafer fabrication. These individual PICs from different materials are then combined using our hybrid integration technology to make complete products, such as our Integrated Coherent Receiver (ICR) for 100coherent transport applications.
+Our Advanced Hybrid Photonic Integration technology progressively increases performance, reduces cost and reduces size of our products. These cost reductions and performance increases are required for the growth of network capacity.
+Our high speed 100and beyond products are based on our Advanced Hybrid Photonic Integration technology and they support encoding 100 gigabits or more per second of information for transmitting over a single channel and decoding the information at the receiver.
+Our Network Products and Solutions are designed for use in optical communications networks and a variety of other applications that use data rates that are less than 100Gbps, including 40G, 10and lower data rates. These products include certain passive products that do not explicitly have a data rate specification, but that are most commonly used in networks at these data rates.
+maintains headquarters in San Jose, California and 9001:2008 certified engineering and manufacturing facilities in Silicon Valley (USA), Japan and Shenzhen, China.
+Board of Directors
+President, Chief Executive Officer, Director and Chairman of the Board
+ has served as our President and Chief Executive Officer and as a member of our board of directors since April 1998. From November 2002 until August 2005, Mr. Jenks also served as Chief Executive Officer of NanoGram Corporation, a nanomaterials applications company that we spun out, and that was acquired by Teijin Corporation. From November 2002 until March 2003, Mr. Jenks served as Chief Executive Officer and director of NanoGram Devices Corporation, a medical device battery company that we spun out and that was acquired by Greatbatch, Inc. Mr. Jenks served in positions of increasing responsibility at Raychem Corporation, a California-based materials engineering company that was acquired by Tyco International Ltd. (now Connectivity Ltd.) in 1998, including Vice President and General Manager of its electrical products division. Mr. Jenks is a former naval officer, and holds a master of business administration degree from the Stanford Graduate School of Business, a Master of Science degree in nuclear engineering from the Massachusetts Institute of Technology and a Bachelor of Science degree in mechanical engineering and marine engineering from the Naval Academy.
+Senior Vice President and Chief Financial Officer
+Before joining NeoPhotonics, 
+ was Vice President of Finance and Group for the Internet of Things Group at Intel Corporation, where she led the strategic financial planning, reporting and operations to deliver increasingly profitable high growth.
+In her more than 25 years at Intel Ms. Eby also served as Vice President and Controller of Corporate Finance Planning, Reporting and Staffs, responsible for all aspects of Intel’s corporate financial planning and reporting processes, finance leadership roles in Profit-and-Loss, Sales and Cost, as well as regional leadership roles in Hong Kong, Shanghai and Malaysia. She has a rich history and high success rate in partnering with business leaders to deliver exceptional financial results.
+Ms. Eby holds a bachelor’s degree in mathematics from the University of Michigan and a Master of Science in Industrial Administration degree from the Carnegie Mellon University Graduate School of Industrial Administration.
+Senior Vice President & Chief Operating Officer
+Dr. Raymond Cheung 
+ has served as NeoPhotonics’ Vice President and Chief Operating Officer since November 2008 and previously served as NeoPhotonics’ Vice President of Research and Development in (China) Co., Ltd. from September 2007 to October 2008 and Vice President of Product Engineering in (China) Co., Ltd. from June 2007 to August 2007. From April 2004 until May 2007, Dr. Cheung served as Director of Magnetics (Corp), a hard disc drive magnetic heads design and manufacturing company, being responsible for the manufacturing operations of BU8-in Dongguan, China. Dr. Cheung has also held various senior technical, operations and management positions with Hong Kong Applied Science & Technology Research Institute and Philips Semiconductors. Dr. Cheung holds a Ph.in materials and mechanics from Cambridge University (UK) and a B.Eng. in mechanical engineering from King’s College London (UK).
+Vice President of Marketing
+Ferris Lipscomb, Ph.
+ has served as 
+NeoPhotonics’ Vice President of Marketing since November 2002 and additionally served as Vice President and General Manager from February 2013 to August 2014. From January 1999 until October 2002, Dr. Lipscomb served as Vice President of Marketing of Lightwave Microsystems Corporation, which was acquired by NeoPhotonics. From January 1993 until December 1998, Dr. Lipscomb served in various positions including as General Manager and Executive Vice President at Akzo Nobel Electronic Products, Inc., a division of a multinational materials company. From September 1983 until December 1993, Dr. Lipscomb served in various positions including Chief Scientist for Photonics and Lightwave Technology in the Research and Development Division of Lockheed Missiles & Space Company. From September 1981 until August 1983, Dr. Lipscomb served on the Technical Staff of the Technology Research Center. Dr. Lipscomb holds a doctorate degree in solid state physics from the University of Pennsylvania and a bachelor of science degree from the University of North Carolina, Chapel Hill.
+Senior Vice President and General Manager
+Wupen Yuen, Ph.D.
+ has served as our Senior Vice President and General Manager since August 2014. Mr. Yuen previously served as our Senior Vice President of Product and Technology Development from October 2012 to August 2014, as our Vice President of Product Development and Engineering from September 2006 to October 2012 and prior to that as our Director of Business Development since joining us in January 2005. From August 2002 until December 2004, Dr. Yuen served as Chief Technology Officer of Bandwidth9, Inc., a telecommunications tunable laser company. Dr. Yuen holds a doctorate degree in electrical engineering and a master of science in electrical engineering from Stanford University and a bachelor of science in electrical engineering from National Taiwan University.
+Senior Vice President of Global Sales
+ is Senior Vice President of Global Sales and joined in March 2018. Mr.Yee is responsible for global sales across all markets and products. Mr.Yee has over 25 years of experience in the semiconductor industry with 15 years in various senior sales management roles. He served previously as Senior Vice President of Worldwide Sales at from August 2016 to February 2017 and Vice President of Worldwide Sales at Atmel from May 2011 to March 2016. Before Atmel, he served as Vice President of Sales at Xilinx and President of at Memec. Mr.Yee received his Bachelor of Electrical Engineering from Nanyang Technological Institute, National University of Singapore and is a graduate of the Stanford-Executive program.
+Senior Vice President of Human Resources
+ is Senior Vice President of Human Resources and has led our organization since September 2018. She is responsible for developing and executing human resources strategy in support of the business priorities and strategic direction of NeoPhotonics. Mona has more than 20 years of experience in human resources, specifically including areas of talent acquisition, organizational development, mergers and acquisitions, compensation and benefits globally with mid-sized companies and Fortune 500 industry leaders. Her record includes driving and managing change in domestic and international organizations while building profitability, productivity and morale.
+Prior to joining NeoPhotonics, Mona was vice president of at Wind River and at Inphi Corporation. Prior to that she was at Broadcom Corporation, where she served as senior director of global talent acquisition, training, and development as well as director and group senior business partner for the Infrastructure and Networking Group.
+Mona has a in organizational behavior from the University of San Francisco and serves on the Board of Directors for the Family Giving Tree.
+Year Founded:
+High Speed Coherent Solutions
+High Speed Data Center Solutions
+Advanced Hybrid Photonic Integration
+Indium Phosphide PICs
+Optical Semiconductors
+Quality Policy & Policy
+Corporate Citizenship
+Employee Well Being
+Supply Chains Act Policy
+Board of Directors
+© 2019 All Rights Reserved.is a leading designer and manufacturer of photonic integrated circuit, or PIC, based modules and subsystems for bandwidth-intensive, high-speed communications networks.
+was incorporated as NanoGram in October 1996 in the State of Delaware. The company initially developed nanomaterials for a variety of applications, before focusing on telecommunications products and changing its name to in 2002. Also during 2002 and 2003, spun out two new companies to pursue non-telecom applications, NanoGram Devices – a medical device battery company, and NanoGram – a nanomaterials applications company. NanoGram Devices was acquired by Greatbatch Inc. in 2004 and NanoGram was acquired by Teijin Limited in 2010.
+has grown rapidly and added customers, achieving a compound annual growth rate (CAGR) of more than 15% from 2009 through 2014. In addition to developing its own technology and products, has added key technologies and products through a series of acquisitions:
+Photon Technology Co., Ltd. (now named (China) Co., Ltd.), a manufacturer of active optoelectronics, transceivers, and modules
+Lightconnect, Inc., which expanded our product portfolio by adding a line of
+microelectromechanical systems (MEMS)-based optical components and modules
+Santur Corporation, a leading provider of tunable lasers and high-speed data transmission modules based on innovation laser array technologies
+Semiconductor Optical Components Unit, a market leader in design and manufacture of GaAs & Incomponents for high-speed fiber optics networks
+Telecom Products, a market leader in design and manufacture of External Cavity Laser (ECL)-based tunable products for high-speed fiber optics networks
+SolutionsCorporate Citizenship
+In all of our activities, strives to promote a sense of corporate citizenship. We will achieve this through a focus on those areas that are under our direct influence.
+We can improve the world we all live in, both through the benefits provided by our products to the world’s telecommunications capabilities and through the way carries out its business activities.
+are conscious of our environment and we continue to conserve energy and natural resources, eliminate pollution from operations, reduce the impact of our products on the environment through green initiatives and fully complying with all rules and regulations.
+also enhances the wellbeing of its employees and strives to ensure a safe and comfortable working environment coupled with jobs that are satisfying and meaningful.
+is sensitive to the communities we live in through outreach programs not directly associated with our business or industry, through charitable donations, employee-sponsored contributions for relief efforts for natural disasters, and continues to fund various schools and educational activities.

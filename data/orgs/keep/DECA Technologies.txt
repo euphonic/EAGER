@@ -1,0 +1,68 @@
+is an emerging wafer-level interconnect foundry built upon 10thinking; the philosophy of striving to achieve exponential improvements over typical industry methods. Deca’s unique approach to design, equipment, processes and operational methods delivers our customers a competitive edge with short cycle time and rapid new product introduction.
+The 2018 3DInCites Awards recognize industrywide achievements in the development of heterogeneous integration with categories from Research Institute of the Year to Materials Supplier of the Year. This year, Technologies’ M-Series, a fan-out wafer-level (WLFO) packaging technology, won Device of the Year for its high reliability.
+Deca's Wafer Level Chip Scale Packaging: It's About Time
+Staying competitive in the market is all about time. While your competitors are still waiting for new mask sets to start a product build, Deca’s 10approach is already rolling your product off its Autoline.
+Breaking through traditional cost, yield and supply chain barriers, Deca’s M-Series™ molded fan-out technology with Adaptive Patterning™ sets the stage for cost-effective high-density electronic interconnect. From next-generation single-chip packages to future panel level SoCs built from disparate silicon blocks, the unique M-Series structure frees system designers from classic substrate-based methods and the confines of monolithic silicon. Major Industry Validation for M-Series
+Mentor, a Siemens business, today announced that has become the latest member of Mentor’s (outsourced assembly and test) Alliance – a program to help drive faster adoption of new, high-density advanced packaging (HDAP) technologies...is a unique, wafer-level interconnect foundry founded in 2009 with headquarters in Tempe, Arizona and manufacturing in the Philippines. The difference is in our dynamic manufacturing capability, which gives our customers the competitive edge in cycle time and new product introductions thanks to rapid time-to-market capabilities.
+Built on 10thinking: The philosophy that achieving exponential improvements can only happen by shifting from conventional approaches to manufacturing Deca’s solar-inspired production line enables game-changing cycle time, while our software-driven lithography technology enables unparalleled speed and flexibility in manufacturing.
+Our award-winning M-Series fan-out wafer-level technology with adaptive patterning has been adopted for high-volume mobile chip-set applications and licensed to a leading manufacturer for dual-source production.
+The combination of a highly experienced management team and inventive thinking results in a strong portfolio with innovative solutions for our customers.Home
+Board of Directors
+Wafer-Level Chip Scale Packaging
+Fan-Out Wafer Level Packaging
+14001 – 2015 Certificate 2018 – 2021 | 
+18001 – 2007 Certificate 2018 -2021
+16949 – 2016 Certificate 2018 -2021
+Conflict of Minerals Trade Act Position Statement  (June, 2015)
+Social Responsibility Policy (Feburary, 2018)
+Environment, Health & Safety (EHS) Policy (February, 2018)
+Electrostatic Discharge Policy (February, 2018)
+All materials © 2017Wafer Saw 
+Chip Attach 
+Industrial Engineer
+These positions are for our manufacturing facility in the Philippines. Candidates should ideally have a bachelor’s degree in engineering or a related discipline and with at least 6-10 years of relevant experience in a manufacturing plant.
+Human Resources ( hiring@decatechnologies.com )
+LTAI, Binan, Laguna, 4024Bernard Adams is vice president of Business Development for Technologies. His focus is the global mass adoption of the M-Series fan-out product line.
+From October 2016 to May 2018, Adams directed sales at the Qualcomm account for ChipPAC, a company. He was responsible for several hundred million dollars in annual sales revenue, managing all facets of the relationship leading a cross- functional San Diego-based team. Products were produced in Singapore, Taiwan, Korea and Jiangyin, China. From July 2013 to October 2016, Adams was director of marketing, Qualcomm Account, for ChipIn this role, he led the Advanced Wafer Level business, driving the industry to adopt the new efan-out technology through customer adoption, papers, conferences and digital media.
+Earlier, Adams was North American Sales, Leica Microsystems. He was recruited to change the culture in the North American sales organization into a proactive “global tiger.” Adams’ success in the face of this challenge produced hundreds of millions of dollars for the company.
+His first semiconductor position, director worldwide sales, was at Flip Chip Technologies, a joint venture of General Motors and Kulicke & Soffa. Adams’ management training was at Rockwell International, Allen-Bradley division.
+He holds an from the University of Pittsburgh and a in electrical engineering from Purdue University.
+Chief Financial Officer
+Linda Heller was appointed chief financial officer (CFO) of in September 2017. She is a seasoned financial executive with diverse experience in financial analysis, Treasury, mergers and acquisitions, and investment banking. Linda also currently serves on the Board of Directors of Active Life Scientific.
+Prior to joining Deca, Ms. Heller was of eSolar and CFO, Senior Vice President, Finance and Treasurer of Power-One (acquired by ABB). She has also held senior financial roles at Amgen, Johnson & Johnson and Pharmacia (acquired by Pfizer) as well as a variety of corporate finance roles at Silicon Graphics. Linda began her career at Salomon Brothers in the Corporate Finance group.
+Linda earned a bachelor’s degree in economics from Rice University and a master’s degree in management from MIT’s Sloan School of Management.
+Vice President of Sales & Marketing
+Garry Pycroft has been the vice president of sales & marketing sApril 2011.
+Prior to joining Technologies, Garry was senior vice president of Amkor Technology for strategic business development, where he managed a team looking to penetrate new market segments for the company. Prior to this responsibility, Garry was vice president of strategic accounts in Europe with a particular focus on the original equipment manufacturer (OEM) development.
+Before joining Amkor in 1993 Garry was a regional sales manager within the for Kulicke & Soffa, a provider of capital equipment to the semiconductor assembly market.
+Vice President of Product Management & Engineering
+Chris Scanlan has been vice president of product management & engineering at sthe company was founded in November 2009. Mr. Scanlan is responsible for design and development of Deca’s advanced wafer level packaging and well as the development of Deca’s portfolio of intellectual property. He has been the lead inventor of Deca’s technology, including the M-Series fan-out package structure and Adaptive Patterning™ dynamic lithography technology.
+Prior to joining Technologies, Mr. Scanlan was vice president of applications engineering for Amkor Technology. During his 10 years at Amkor, he held senior leadership positions in advanced technology development including vice president of global research and development (R&D), vice president of the advanced products business unit, and vice president of the system-in-package business unit.
+Mr. Scanlan has more than 40 patents related to advanced semiconductor packaging. 
+Chief Operating Officer
+Rick Glasmann was appointed chief operating officer (COO) of in November 2017.
+He previously served as senior director and managing director of front-end manufacturing for Infineon Technologies, and vice president and general manager of operations for International Rectifier in California.
+Rick joined International Rectifier and Infineon in 1997, where he held various management positions in engineering and manufacturing and was responsible for the company’s manufacturing site in Temecula, California.
+Chief Technology Officer
+Tim Olson is the founder and chief technology officer (CTO) of Technologies. He has been a member of the board sthe establishment of the company in November 2009. Tim has held a technical advisory board position with Cypress Semiconductor s1998.
+Prior to Deca, Tim was senior vice president of research and development and emerging at Amkor Technology. During his tenure at Amkor from 2003 to 2009, Tim also managed the business and technology direction of several large product groups.
+From 1997 to 2003, Tim led product, development and operations management roles within the equipment and factory control software industries where he was executive vice president of products and operations at Micro Component Technology and vice president of the systems integration division of Fico b.v. During this time, Tim also served as chairman of the International Test Assembly & Packaging committee and annual conference.
+Tim began his career in semiconductors at Motorola Semiconductor Products Sector where he worked from 1988 to 1997. Throughout his career, Tim grew from a manufacturing engineering role to leading the creation and implementation of a successful chief executive officer (CEO) model factory known as Working closely with analog design, product and test engineering as well as radio frequency integrated circuits, Tim led the development of several successful packaging and testing serving leading automotive and cellular original equipment manufacturers (OEM).
+Tim graduated magna cum laude from the University of North Dakota with bachelor’s degrees in mechanical engineering and engineering management. Tim holds nine issued United States patents relating to packaging, software, equipment, process and design.
+Chief Executive Officer
+Dennis Yost was named chief executive officer (CEO) of in December 2016. Prior to his appointment, he provided strategy, technology and business development consulting services to multiple clients in the MEMS, sensors and unique semiconductor markets, including Texas Instruments, FormFactor and Innovative Micro Technology. Dennis’ core focus has consistently centered on enhancing engagements and touchpoints with current customers, while driving innovative business development strategies.
+From 2007 to 2014, Dennis served as president and of Cavendish Kinetics, a leading provider of components. During his tenure, he led the company’s transformation from a small research organization into a product-based business serving international cell phone manufacturers. At Dennis’ direction, the team took the first manufacturable, packaging-free, reliable components for use in cellphone applications from concept to market.
+Dennis’ entry into the semiconductor industry came in 1989 with Texas Instruments. He has held executive and management-level roles with some of the industry’s most renowned companies, including Applied Materials, Novellus Systems and LightPath Technologies.
+Dennis earned an from Southern Methodist University. At Texas A&M, he obtained both a bachelor’s and a master’s degree in electrical engineering.Home
+Board of Directors
+Wafer-Level Chip Scale Packaging
+Fan-Out Wafer Level Packaging
+Board of Directors
+Dana Nazarian - Chairman of the Board
+Dennis Yost - Board Member
+Steve Hanson - Board Member
+Thad Trent - Board Member
+All materials © 2017Staying competitive in today’s rapidly growing wafer-level chip scale package (WLCSP) market is all about time:
+Time to market
+Time for new While your competitors are still waiting for new mask sets to start a product build, Deca’s 10approach is already rolling your new product of its Autoline.
+Consumer electronics manufacturers demand low-cost devices with rapid turnaround from design to delivery, which poses a challenge when using conventional approaches. Time-to-ramp for new product introductions is critical, as is dynamic manufacturing capability from the supply base.

@@ -1,0 +1,55 @@
+United States of America
+AT&Mobility LLC
+"United States of America"
+"Novato"
+"AT&Mobility LLC"
+ Validation & Lookup API
+Real-time supporting 232 countries
+» Know the details behind every phone number «
+Capture only good leads, keep your user database clean and fight fraud by validating phone numbers at the point of entry into your system  »
+Simple & Secure API
+Requested using an easy-to-integrate structure, delivered in lightweight format, and secured via 256-bit encryption »
+Advanced phone number validation using the most up-to-date international numbering plans, carrier & line type detection, and location lookup » 
+Easy on your Budget
+We're offering the most cost-effective - validate 250 phone numbers per month for free. Need more? Subscriptions start at $19.99 per month »
+Advanced phone number validation using the most up-to-date international numbering plans, carrier & line type detection, and location lookup » 
+Easy on your Budget
+We're offering the most cost-effective - validate 250 phone numbers per month for free. Need more? Subscriptions start at $19.99 per month »
+Validation & Lookup
+Identify any national and international phone number simply by passing it into the API's request URL.
+Our format validation system is powered by regularly updated international phone numbering plans.
+256-bit HTTPS
+Ensure secure and encrypted datastreams by connecting to the via industry-standard HTTPS.
+Once signed up, you will be able to try out the API's features as you go through their Documentation.
+World-Class
+Our technical support team is great at giving you 
+ the information that you need, when you need it.
+Track your usage on a daily or monthly basis, and receive 
+Power your applications
+Our powerful, cost-effective phone number validation & lookup is preventing undelivered messages for businesses all over the world.
+Integrate anywhere, any way
+results are delivered in portable format. Just make a request using the simple structure, and let our do the rest »
+// returns simple response
+// containing validation result, location,
+// carrier and line type data 
+Validate international phone numbers for 232 countries using their unique international dial codes.
+Validate national (local) phone numbers by providing an additional 2-digit country code parameter.
+Retrieve valuable geographical identifiers, including country and location, with each request.
+Legitimize customers by retrieving details about the carrier their phone number is registered with.
+Line Type Detection
+Reduce undelivered messages and ensure right ways of communication by knowing the line type.
+Prettyprint your response, make use of Callbacks, Access-Control headers, and much more.
+Free Plan
+Try it for Free
+Basic Plan
+Professional Plan
+Most Popular
+Privacy Policy.Nuis a product maintained by apilayer, a technology company based in Vienna, Austria.
+We’ll do our best to respond in the shortest time possible.
+What is it?
+Nuoffers a full-featured yet simple RESTful for national and international phone number validation and information lookup for a total of 232 countries around the world. Requested numbers are processed in real-time, cross-checked with the latest international numbering plan databases and returned in handy format enriched with useful carrier, geographical location and line type data.
+Who runs it?
+The nuis a product built and maintained by apilayer , an Austrian technology company aiming to help developers, startups and larger companies automate and outsource complex processes by serving them with dedicated and handy programming interfaces.
+Our goal is to offer quick and simple access to our software with the objective of speeding up development of your applications and easing the burden on your back-end.
+Focus on real people
+Fight fraudulent profiles and focus on real users - Thorough phone number validation has numerous benefits for your business and is incredibly easy to implement. The best way to capture good leads is to verify contact information right at the point of entry into your database.

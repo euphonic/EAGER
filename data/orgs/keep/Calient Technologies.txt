@@ -1,0 +1,70 @@
+Move the light, not the fiber
+LightConnect™ Fabric Virtual Data Centers
+Multi-Tenant Datacenters
+Media Production Datacenters
+Optical Transport and Networks
+Test Lab Fiber Automation
+Series Optical Circuit Switch
+LightConnect™ Fabric Manager
+Datasheets
+in Datacenter Architecture Papers
+Board of Directors
+The LightConnect™ Fabric V-Pod Data Center
+Optical Layer Orchestration Software Supports Flexible Reallocation of Expensive Servers, Accelerators, Storage, and Test Devices
+The new LightConnect™ Fabric V-Pod Data Center can significantly improve server and storage operational efficiency, resulting in big reductions in data center capital investment. Powered by CALIENT’s S-Series Optical Circuit Switches and the new LightConnect™ Fabric Manager, the V-Pod architecture allows expensive compute resources to be reallocated and shared between Pods in the data center.
+The LightConnect™ Fabric Manager
+The LightConnect™ Fabric Manager provides software management of the dynamic optical layer in OCS-powered LightConnect™ Fabric networks. Core functions include a Topology Manager and a Cross-Connect Manager.The Fabric Manager also maintains a consolidated dashboard summary with operational status of all optical circuit switches including alarms, events, and port utilization levels.
+Deploying CALIENT’s Optical Circuit Switches at the edges of MAN/networks between vendor and domain boundaries allows Service Providers and Data Centers to virtualize all of the resources in their optical transport networks. This means that the substantial operational and economic benefits of multilayer optimization can be realized today, independent of network and vendor domain boundaries including legacy networks.
+The S-Series Optical Circuit Switch Family
+The S-Series switch is optimized for data center applications and features dramatic size and power reduction. The S-Series family has been deployed in the worlds largest cloud data centers and media production networks and builds on CALIENT’s success in Tier 1 Cloud and Network Service Provider networks. Available in 320×320, and 160×160 port versions, the S-Series product line is the most deployed optical switching solution in the industry.
+Flexible Transport Networks with Optical Circuit Switching
+Service Providers and Data Centers can achieve multi-layer optimization today with Optical Circuit Switching.
+LightConnect™ Fabric V-Pod Data Center
+Breakthrough Operational Efficiency Improvement For Data Centers
+This field is for validation purposes and should be left unchanged.
+ © 2019               Move the light, not the fiber
+LightConnect™ Fabric Virtual Data Centers
+Multi-Tenant Datacenters
+Media Production Datacenters
+Optical Transport and Networks
+Test Lab Fiber Automation
+Series Optical Circuit Switch
+LightConnect™ Fabric Manager
+Datasheets
+in Datacenter Architecture Papers
+Board of Directors
+Arjun Gupta, Executive Chairman
+Arjun Gupta is the Executive Chairman at and has been the key investor in for two decades. In addition Arjun is the Chief Believer and founder of Telesoft Partners (
+), a special situations venture capital firm in Silicon Valley. Over the last twenty five years, he has invested in and helped build over 85 technology companies, of which over 50 companies have been acquired or gone public (combined market cap over $750 billion). Recognizable brands include DocuSign, 
+, T-Mobile USA, Uber and others. He was on the Forbes Midas List of Top-100 Venture Investors in 2006, 2007, 2008, 2009. Prior to Telesoft, Arjun was at McKinsey & Company where his clients included Apple, AT&T/PacBell, Verizon/PacTel and others. He was part of the Digital Transition Project for which launched Qualcomm against the industry standard of He was also part of the Paradigm Project which led to the spinoff of General Magic from Apple. He started his career at Tektronix Inc, initially as an operating systems software engineer, then a field applications engineer and finally a product specialist covering new product introductions in the US, Germany and Japan. Arjun loves developing and scaling great technology products.
+In 2001, Arjun launched a family foundation to support education, conservation and the performing arts. The foundation has supported over 100 projects in America, India and Africa. Arjun is a Trustee of Aspen Institute and the Aspen Music Festival. He is a co-founder and co-chair of Gold Aspen. Arjun is an avid outdoorsman and has skied to the North Pole and to the South Pole, and was recently appointed a Mountain Partnership Ambassador to help with climate change initiatives. Since 2013, Arjun has been a member of the new ownership group of the Sacramento Kings basketball team.
+Arjun received his from Stanford University, an and (Phi Beta Kappa) in computer science from WSU, and a (Honors) in economics from St Stephen’s College (India). He is an Fellow at Harvard University and a Henry Crown Fellow at the Aspen Institute. Arjun lives in San Francisco and Aspen.
+Kevin Welsh’s biography is pending.
+Carvin Chen, President
+Suzhou Chunxing Precision Mechanical Co., Ltd., Andrew Telecommunications
+Carvin Chen was the Deputy GM/Executive at Suzhou Chunxing Precision Mechanical Co., Ltd., a leading company principally engaged in the manufacturing of precision aluminum and magnesium alloy structures as well as 3glass, plastic structures for telecommunication, consumer electronics/IT, automobile and industrial market segments. Its products mainly include precision die casting products, machining products, 3glass products, stamping sheet metal parts and plastic injection parts. Chunxing is also engaged in the business of designing, manufacturing and distributing conditioning products for wireless telecommunication infrastructure. He was responsible for the overall operations of the company with multiple sites and 8000+ employees globally. Carvin previously served as the Director of Operations at Andrew Telecommunications.
+Rick Santos, and CFO
+Rick Santos brings over twenty years of financial management experience with public and private technology companies to Calient. Prior to joining Calient, Rick held senior controller positions at Intel, the last of which was Group Controller for Intel’s Digital Home and Consumer Electronics businesses. With direct involvement in over $1 billion in private equity placements and M&transactions, Rick is uniquely qualified to guide Calient’s financial growth. Rick has held senior financial positions with a wide variety of technology companies and public accounting firms, including: Validity, Intel, Exar, Fundamental Software, VxTel, and Deloitte & Touche. As of VxTel, Rick was instrumental in raising over $80 million in private equity funding and played a pivotal role in the acquisition of VxTel by Intel Corporation.
+Chris Lee, Ph.D., CTO, MEMS
+Chris Lee is responsible for productizing and developing Calient’s switching solutions.  Dr. Lee joined in 1999 after completing his doctoral research on the design and testing of Low-voltage, Single Crystal Silicon MicroElectroMechanical Systems.  He leads the development of Calient’s core technology as well as the volume production of modules. Chris received his bachelors in Materials Science and Engineering from Massachusetts Institute of Technology and his doctorate in Electrical Engineering from Cornell University. Chris’s extensive research was conducted at Cornell NanoScale Science & Technology Facility. His prior work experiences include working at Intel Corporation as a process and integration engineer.
+Shifu Yuan, Ph.D., CTO, Optics
+Corning, Tsinghua University, UCF
+Shifu Yuan has 30 years of R&experiences in optics and photonics and over 15 years of technical and executive management experiences. He worked in Tsinghua University as a post-doctoral researcher and an Associate Professor and also held a senior research scientist position in CREOL/School of Optics, University of Central Florida. His industry experiences include Electro-Optic Engineer at Chorum Inc., Sr. Research Scientist at Corning Inc., and Optics at Calient. He has made significant contributions to the field of optical communications through pioneering the development and commercialization of wavelength selective switch and large scale optical switching. Shifu has over 60 publications and holds more than 12 patents and co-authored a book chapter. He has a bachelors in Applied Physics, as well as a masters and doctorate in in Optics, all from the Harbin Institute of Technology in China.
+Rohit Kunjappa is a twenty-year veteran in the telecommunications field. He has gained extensive industry knowledge by working for both Service Providers (Verizon, Fujitsu Network Services) and Telecom Equipment Manufacturers (Sycamore Networks, Coriant). His in‑depth understanding of complex network topologies allows him to accurately assess customer needs and provide creative, pragmatic, and cost-effective solutions. As of Systems Engineering at Calient, he leads a team of highly skilled sales/systems/solutions engineers to help Data Centers, Service/Content Providers, MTDCs, Labs, and others maximize their use of deployed resources and achieve substantial CapEx and OpEx savings. He has authored technical and non-technical articles and regularly presents and participates in optical switching forums. Rohit has a Master’s in Chemical Engineering from Oklahoma State University and an in Global Leadership from The University of Texas, Dallas.
+Share the post "Leadership Team"
+This field is for validation purposes and should be left unchanged.
+ © 2019               Move the light, not the fiber
+LightConnect™ Fabric Virtual Data Centers
+Multi-Tenant Datacenters
+Media Production Datacenters
+Optical Transport and Networks
+Test Lab Fiber Automation
+Series Optical Circuit Switch
+LightConnect™ Fabric Manager
+Datasheets
+in Datacenter Architecture Papers
+Board of Directors
+This video shows an animated demonstration of the benefits of intelligent software defined optical switching in multi-tenant datacenters and colocation facilities..
+Share the post "Software Defined Optical Switching For Multi-Tenant Datacenters"
+Datasheets
+This field is for validation purposes and should be left unchanged.

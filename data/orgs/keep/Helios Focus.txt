@@ -1,0 +1,5 @@
+“strives to make solar modules safer; we want them to be reliable over their 30+ year life, and not add any unnecessary cost.”
+“The modules are able to be controlled; either on or off, and can be shut down for emergencies or arc faults”
+Is easy to understand and install
+Integrates with existing system elements
+Lowers balance of system cost compared to alternate rapid shutdown solutions

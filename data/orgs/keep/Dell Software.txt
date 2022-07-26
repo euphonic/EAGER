@@ -1,0 +1,619 @@
+NetVault Backup
+Quest On Demand
+Cloud Management
+On Demand Migration for Email
+Quest On Demand
+Data Protection
+QorePortal
+Litespeed for Server
+Toad Data Point
+Toad DevOps Toolkit
+Endpoint Systems Management
+Desktop Authority Management Suite
+Cloud Mobile Device Manager
+Systems Deployment Appliance
+Systems Management Appliance
+Active Roles
+Starling Identity Analytics & Risk Intelligence
+Starling Two-Factor Authentication
+On Demand Migration for Email
+Quest On Demand
+Foglight for Operating Systems
+Foglight for Storage Management
+Hadoop
+Hyper-v
+Cloud Management
+Data Protection
+Cloud Management
+Virtualization Management
+Data Preparation & Analysis
+DevOps
+Hadoop
+Endpoint Systems Management
+Asset Management
+Operating Systems Imaging & Deployments
+Hybrid Active Directory Security
+Information archiving & storage management
+Performance & Availability
+Security & Compliance
+Database Performance Monitoring
+Operating System Monitoring
+Storage Performance & Utilization Management
+Hyper-V
+Data Protection
+Endpoint Systems Management
+Technical Documentation
+Data Protection Services
+Policies & Procedures
+Data Protection
+Endpoint Systems Management
+Technical Documentation
+Data Protection
+Endpoint Systems Management
+Migration Manager for Active Directory
+Twitter@QuestSupport
+Find out How
+Endpoint management for the modern era
+See how helps you efficiently manage and scale to accommodate endpoint growth.
+Change Auditor Threat Detection is here.
+Simplify insider threat detection with user behavior analytics.
+Master endpoint challenges
+Become an Ninja with and find your path to endpoint enlightenment.
+Discover what's in store for pros in 2019.
+Cloud-ready data protection for hybrid data centers
+Protect applications and data in complex environments with scalable backup and recovery from NetVault Backup.
+Simple management for a complex world
+Technology keeps changing. Whether it’s digital transformation, cloud expansion, security threats or something new, Quest helps you solve complex problems with simple solutions.
+Data Protection
+Endpoint Systems Management
+Hybrid Active Directory Security
+Accelerate backup speed, reduce storage costs and use the cloud for disaster recovery.
+Get fast backup, replication and recovery.
+Diagnose Server performance issues quickly and accurately for a healthy database infrastructure
+Enable high-performance Oracle replication and data integration.
+Increase productivity for database development and administration.
+Systems Management Appliance
+Minimize security risks with agentless technology.
+Systems Deployment Appliance
+Save time and money with the leading systems deployment appliance
+Metalogix Content Matrix
+Handle complex SharePoint and Office 365 migrations.
+Recovery Manager for Forest Edition
+Quickly and simply restore your entire domain in the event of a disaster.
+Change Auditor for Active Directory
+Track critical changes in real-time and ensure internal security.
+Migration Manager for Active Directory
+Ensure seamless, successful consolidation or migration projects.
+Simplify Microsoft on-premises and cloud-based platform security and compliance reporting.
+NetVault Backup
+Migration Manager for Exchange
+Mitigate Exchange migration, consolidation and restructuring risks
+Foglight for Cross-Platform DBs
+Consolidate and standardize database performance management across diverse environments.
+On Demand Recovery
+Saasolution for fast, secure Azure and Office 365 backup and recovery.
+Simplify development and management of Mydatabases.
+Access scanners connected directly to client workstations
+View All Customer Success
+Training	& Certification
+United States
+United States (English)
+Japan (日本語)
+captions off, selected
+This is a modal window.
+Close Modal Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Your technology challenges never stop changing, so neither do we.  Whether it’s data explosion, cloud expansion, security threats or something new, we’ll work with you to help you solve your toughest challenges.  S1987, we’ve provided solutions for the fast paced world of enterprise With Quest, you and your organization can spend less time on administration and more time on business innovation.
+We’re a global provider to 130,000 companies across 100 countries, including 95% of the Fortune 500 and 90% of the Global 1000.  So we have the experience to help you manage and protect your data, take control of your hybrid environments, keep track of all network-connected devices, stay compliant and govern every identity across the enterprise.
+We’re Quest – simple solutions for a complex world.
+captions off, selected
+This is a modal window.
+Close Modal Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Our purpose, vision, philosophy and values form the foundation of Quest.
+Purpose: we solve complex problems with simple solutions
+Philosophy: we provide great products, backed by great service and we make it easy do business with us
+Vision: we deliver technology that eliminates the need to choose between efficiency and effectiveness
+Learn more about who we are from the people who work here.  In this video, employees from around the world discuss how our values help to shape their daily work lives and help them become better at what they do. Take a look and get to know the people behind our logo.
+We believe in ethics, integrity and respect in the workplace – every day. And these aren’t just words. These principles guide how we treat our customers, partners and each other. We strive to:
+We do what we promise, and meet our commitments
+We take charge and deliver our best work possible
+We commit to a direction that benefits the business
+We adapt quickly and with enthusiasm
+We debate and then commit to an aligned direction
+We recognize individual contributions and celebrate team success
+We are flexible, responsive, and available
+We deliver the right solution for the problem
+We maintain relevance to our customers by responding creatively to their changing needs
+We accept and give constructive feedback, even when it’s difficult
+We respect differing opinion
+We think it’s time for a stronger partnership. To roll up our sleeves. To follow through with every promise. To simplify the way we do business.  And to help you solve complex problems with simple solutions.
+Here are a few reasons why we’re different:
+Simple to Work With
+We make it easy to solve your tough challenges with simple, yet powerful solutions
+World-Class Support
+We provide an award-winning self-help portal, hundreds of engineers and the dedication of a single point of contact managing issues through resolution
+Our broad product set enables you to work with one vendor to protect and manage your environment across nearly every stack
+We treat you how we would like to be treated, with a refreshing dose of transparency
+Flexible Approach
+Our products fit a variety of environments and integrate quickly so you don’t have to choose between efficiency and effectiveness
+Scale and Speed
+Our business model offers the stability of a global company with the agility and innovation of smaller, focused product teams
+Our brand
+Our logo reflects our story: innovation, community and support. An important part of this story begins with the letter It’s a perfect circle, representing our commitment to technological precision and strength. The space in the itself symbolizes our need to add the missing piece – you – to the community, to the new Quest.
+Our tagline - Join the Innovation
+Three simple words - "Join the Innovation" - urge the community to become part of what we are. First, "join" asks our customers and partners to share this exciting new direction - it's a call to action to participate in an ongoing movement. Next, we say "the" instead of "our" because this is about all of us - not just Quest, but our customers and partners too. Finally, the word "innovation" fuels our industry - and it's our key value proposition. We're saying, "now is the time to innovate."
+Chairman and CEO
+As Quest’s Chairman and CEO, Jeff is deeply committed to working relentlessly with colleagues to make the right decisions, create great products and deliver outstanding customer service. It’s important to Jeff that customers find Quest simple to do business with, and he believes everyone at Quest has an important role in delivering on that promise.
+Jeff brings more than 15 years’ experience as a company executive. Before arriving at Quest, Jeff was chairman and of Vertafore, a provider for the insurance industry. Prior to that he ran the Attachmate Group, identity and infrastructure provider, as chairman and CEO.
+Jeff received a in Mechanical Engineering from Southern Methodist University and an from the University of Texas at Austin.
+President and General Manager, Information Management
+Kathleen is responsible for the strategy, execution, and financial results for the Information Management business unit. This includes supporting product management, engineering, all aspects of go to market, and most critically, customer success.
+Before joining Quest, Kathleen was President and General Manager of Attachmate and Novell, where she drew on more than 17 years of experience at the company. Prior to taking on leadership of two business units, Kathleen led Attachmate exclusively as the President and Her background includes vice-president of North American sales for Attachmate and number of other sales leadership and operational roles. More recently, Kathleen has worked as a consultant advising on strategy, communication, simplifying process and organizational restructuring. Kathleen is known for her collaborative style, ability to help teams focus and prioritize, and passion for customer success.
+Kathleen holds a bachelor's degree from the University of Notre Dame.
+President and General Manager, Platform Management
+Michael has more than 17 years of experience working in many areas of enterprise including Windows management, security and compliance software. Most recently, Michael was the Sr. Director of Outbound Product Management for the One Identity business and worked closely with product management, product marketing, customers, partners, and analysts to ensure the business delivered the right portfolio of solutions to market.
+Prior to joining the One Identity team, Michael was the Chief Strategy Officer at BetterCloud which delivered Saasolutions to manage and secure cloud office platforms such as Google Apps and Office 365. Michael has also held various leadership positions in product management at Quest Software/Software, most notably as the executive director of product management for Software’s Windows Management business. Michael is also a founding member of Product Tank Atlanta. With close to 700 members, this group meets quarterly to discuss building, managing, selling, and marketing great and Saasolutions.
+Michael holds a bachelor in Management Information Systems from Texas Tech University and a MBA, Finance from St. Thomas University.
+Data Protection & Unified Endpoint Management
+Matt Vitale leads the data protection and endpoint management businesses at Quest. Previously at Dell, he led sales for the Global 500 business segment as well as worldwide sales for data protection software. Prior to joining Dell, Vitale served as EVP, worldwide sales for Pentaho, a leader in open source business intelligence software. He also held executive positions at Ingres and VERITAS.
+Vitale holds a bachelor’s degree of science in mechanical engineering from Rochester Institute of Technology and a master’s degree of business administration from the State University of New York.
+David Earhart is responsible for overseeing all product, operational and financial direction for One Identity's full solution suite, inclusive of all identity governance, identity and access management, privileged access management, and identity as a service products. 
+Earhart has more than 25 years' experience overseeing business and product strategy for leading security and systems management businesses. Prior to One Identity, he served as President and General Manager for Quest Software’s Data Protection and Unified Endpoint Management business unit (a sister business to One Identity), after serving as of Core Security for more than two years. Under his leadership, Core achieved 174-percent growth. Earhart has also held global leadership positions at Damballa, Inc., Technologies and Software.
+Earhart holds a in Finance from Texas Tech University and is an active  member of the security leadership community, serving on the external  boards of directors for WhiteSource (an open source security and license  compliance management platform) and (an Internet Security  company).
+General Counsel
+Brad serves as Quest’s General Counsel and Corporate Secretary.  He oversees Quest’s legal organization, including corporate governance and compliance, contracts, mergers and acquisitions, intellectual property and litigation.  Prior to joining Quest, Brad held senior legal roles at Amazon, America Online and the Attachmate Group. He started his legal career in private practice in Washington,  Brad earned a Juris Doctor, Summa Cum Laude, from American University and a in Government from Cornell University.
+Chief Financial Officer
+Carolyn is Senior Vice President and Chief Financial Officer of Quest. She also oversees Infrastructure, Procurement and Real Estate. Carolyn joined Quest from where she held a number of senior finance leadership roles, the last one as and of Dell’s Division. Prior to she held various finance roles at PepsiCo and EDS.
+Carolyn graduated with a bachelor’s degree from Holy Cross College and an from the University of Maryland.
+Jean Edelhertz
+Jean serves as the Senior Vice President for Strategic Initiatives at Quest, focusing on cross-functional business transformation. Her responsibilities also include customer retention through the company’s maintenance renewal business.
+Jean draws on 20 years of experience leading operational and customer-facing teams in the electronics and sectors. Most recently, Jean was a Program Executive at Micro Focus, where she oversaw business integration initiatives in sales, sales operations, and customer support. Jean is committed to customer success and fostering a collaborative, empowered work community. Jean holds a in International Relations from Pomona College and an from University of California Berkeley.
+Chief Business Operations Officer
+Katherine is Chief Business Operations Officer at Quest, where she is responsible for creating a common operational model across all business units to maximize sales and employee productivity, and ensuring her team makes Quest simple to do business with for our customers and partners. She has a successful and long history of establishing operations as a strategic revenue-generating function by focusing on improving processes and maximizing the customer experience.
+Katherine’s career spans technical support, consulting, sales enablement, sales operations, marketing operations, partner programs, and technical editing. Prior to joining Quest, Katherine served as Vice President, Global Sales Operations at Micro Focus (which acquired the Attachmate Group in 2014), where she oversaw the teams that simplified and enabled smooth business transactions. In addition to this, she defined and drove the adoption of the vision, mission and beliefs framework for The Attachmate Group.
+Katherine received a Technology Management from the University of Washington Foster School of Business, and her Bachelor’s degree in Computer Science from the University of Idaho.
+LuAnn Johnson
+LuAnn is responsible for leading teams focused on the employee experience: HR, Communications, Facilities and Real Estate. She strives to create the type of culture and environment where people choose to spend time and do their best work.
+Prior to joining Quest, LuAnn was the and Chief People Officer for Vertafore, responsible for overseeing high performing HR, Communications and Facilities Management teams, as well as talent acquisition, employee services, engagement and retention, leadership capability and connecting employees to top business goals.
+LuAnn is a graduate of the University of Phoenix with a in Business Administration and an in Organizational Management.Account Settings
+Interested in becoming a Quest partner?
+Discover how solutions help your customers save time and boost your profitability.
+Join the new Quest Partner Circle
+Together, we can inspire innovation, maximize profits and improve customer satisfaction.
+Boost profits with award-winning data protection
+Join our award-winning program recognized for excellence in backup and business continuity.
+The Quest Partner Community is where you'll find insight-packed blogs and other partner news.
+Partner training at your fingertips!
+Take your Quest product expertise – and revenue – to new heights with our online training.
+Access all of your resources through the Quest Partner Circle portal, including deal registration, incentives, sales & marketing tools and product support.
+Interested in becoming a partner?
+Boost managed service provider profits with subscription-based licensing starting at $16 per month with the Quest Program. 
+Interested in locating a Quest partner to help with your solution needs?
+Quest Partner Circle is a simple, yet flexible multi-level program that offers committed Quest partners the chance to turn dedication and experience into potential profit. Each level provides different rewards based on a partner's level of commitment. The more invested you are in the program, the more we invest in your success.
+The Quest Partner Circle includes organizations that architect, integrate, implement, deploy and operate the systems that enable our mutual customers to conduct business in today's highly competitive marketplace.
+Unified program with a simplified go-to-partner model
+Focus on the Portfolio: strategy and planning across product categories and services
+Training: Free, online instruction as well as  high-value, low-cost courses and certifications
+Executive Engagement: channel leadership focused on your success and growth
+Training	& Certification
+United States
+United States (English)
+Japan (日本語)
+This is the endReady to join a community of diverse, energetic people at a dynamic company?  S1987, we’ve provided solutions for the fast paced world of enterprise and helped people like you develop a wonderful career.  At Quest, you’ll share in our company’s success, enjoy work/life balance and receive opportunities to grow and progress.
+Our more than 130,000 customers and partners in 100 countries enjoy a relationship with Quest built on innovation, strong community and award-winning support. Our mission is to help them solve complex problems with simple solutions. With great products, great solutions and a simplified business approach, we’re certain you’ll find the building blocks for a rewarding career at Quest.
+Join the innovation. Join Quest.
+Rewards. Balance. Have it all at Quest.
+Quest employees are critical to its long-term success. That’s why we’ve created a benefits package that’s flexible enough for each and every team member. These benefits offer the best choices and the most value at the best cost, and are relevant both in America and to all global team members.
+Your hard work is rewarded.
+Being successful at Quest means understanding clearly defined and measurable goals – and then meeting or exceeding them. Several departments have fiscal year bonus and sales incentive programs to reward performance on a company, business or individual level. And we’ve developed long-term career and performance incentives for team members willing to bring their best every day.
+Beyond that, we’re constantly reviewing the latest trends in labor costs to create competitive and attractive salary packages.
+Set a goal. We'll help you achieve it.
+At Quest, we believe in a workplace where each team member grows and thrives. Our formal training, coupled with individualized development programs that include regular 360-degree feedback, mentoring, networking and new challenges, help each team member reach his or her potential. We're proud of our innovation-driven culture, and we're dedicated to helping one another to reach higher every day.
+Quest is a fast and agile company that’s committed to improving and innovating every day. By collaborating and trusting each other, we deliver powerful technology solutions to our customers – which in turn grows a winning culture based on:
+Growth and development – with opportunities to develop a wider skillset by learning from the experiences of other team members
+Networking and relationships – with consistent contact with members of other functional areas
+Visibility and opportunity –with a variety of challenges to showcase your expertise, giving you more company-wide growth opportunities.
+Communication and decision-making – with more avenues to receive relevant information and countless opportunities to participate in cross-functional decisionsAccount Settings
+Contact My Sales Rep
+Contact Worldwide Sales/Customer Care
+Trials & Freeware
+How to Buy
+Purchased, have keys, but have a problem or didn’t receive keys
+Quest Transition FAQ’s
+Accounts Receivable
+Need Additional Assistance
+For telephone assistance, call 
+Looking for a 
+Training	& Certification
+United States
+United States (English)
+Japan (日本語)
+This is the endModernize your infrastructure and get to the cloud quicker.
+More and more organizations are choosing to adopt cloud computing solutions to improve agility and reduce costs, but making sure your infrastructure is cloud-ready can be a challenge. Quest cloud management solutions help professionals like you modernize your infrastructure and get to the cloud quicker. Let us help you spend less time monitoring and more time optimizing your cloud environment for future growth.
+Modernize your infrastructure and get to the cloud quicker.
+Get one step closer to the cloud with our cloud-ready solutions that enable you to quickly scale and modernize your infrastructure without impacting users or placing your data at risk.
+Significantly reduce the time, effort and complexity of migrating to the cloud, including to a new or different cloud services provider. Our cloud-ready solutions allow you to spend less time worrying about your migration and more time focusing on business innovation. Quest makes it easy and economical to migrate to the cloud.
+Simplify cloud performance monitoring while gaining full visibility into your infrastructure (AWS, Azure, Hyper-and VMware) from a single dashboard. Our hybrid cloud management solution can help you reduce costs and speed up time to market when running your business in Azure or Save time with pre-built and configured rules, reports and dashboards for and Azure, and realize unlimited infrastructure-as-a-service (IaaS) history retention.
+Easily create an offsite Azure backup strategy that can save you time, money and resources. Ensure that, in the event of a data disaster, you can access your backed-up data fast and at any level with easy point-and-click bare-metal and file-level restores. The Rapid Recovery replication target in the Azure Marketplace makes setting up and configuring Azure extremely easy. Quickly create virtual standby machines in your Azure account for easy and reliable disaster recovery as a service (DRaaS).
+Zerorecovery – anything to anywhere – physical, virtual and in the cloud.
+Quickly set up and connect to Amazon Web Services (AWS) to ensure reliable recovery and easy management of your offsite cloud backup . Unleash the powerful capabilities and performance of AWS, and begin experiencing real benefits, such as easy scalability, redundancy and cost savings. Backup and recovery with doesn't have to be difficult, time consuming or expensive. In fact, our solutions make it extremely easy and affordable to set up, manage and get the most from AWS.
+Zerorecovery – anything to anywhere – physical, virtual and in the cloud.
+Learn how our solutions are helping businesses and organizations become more efficient than ever.
+Get the latest information from our technical experts and evangelists when you read the Cloud blog, and find better, faster ways to manage your environment.Even with the explosion of devices, operating systems, and applications today, effective asset management (ITAM) and asset management (SAM) are within your reach. Our endpoint systems management solutions provide comprehensive, flexible inventory and license management across all your network-connected devices — including Windows®, Mac®, Linux® and UNIX® systems, Chromebooks, and non-computing devices — from a single pane of glass. 
+Know exactly what hardware and assets are on your  network, and easily ensure license compliance without overpaying.
+Hardware inventory
+Identify and inventory all connected devices using automated network discovery, with or without installing an agent. Automate inventory asset management from deployment to retirement, including asset audits, tracking, compliance and reconciliation, with a single configuration management database. Reduce costs by automatically pulling warranty information for all your systems and devices directly into the asset inventory so you can avoid post-warranty maintenance.
+Add a detailed inventory for comprehensive inventory management. Easily track your licenses and ensure compliance with our Application Catalog, which normalizes application versions, name variations and publisher names, and can discern whether an application has been installed in stand-alone mode or as part of a suite. Eliminate security threats and productivity impacts by blacklisting or detecting and uninstalling unwanted applications.
+Ensure license compliance and improve negotiation of volume purchases with visibility into general availability, end-of-life dates and manufacturers’ suggested retail price information. Reap additional savings by tracking application usage and harvesting unused or underutilized licenses. Track future versions of an application and understand your upgrade and downgrade rights.
+Learn how our solutions are helping businesses and organizations become more efficient than ever.Database management tools that simplify complexity and drive performance
+database management system (DBMS) is computer that enables users and applications to store, modify and analyze a database. Today’s database technology is becoming increasingly complex, and supports previously unthinkable data volumes – all driven by the demands of today’s always-on economy. This drives most organizations to spend up to 75% of their time just keeping the lights on, leaving very little time to deliver innovations that move the business forward.
+It’s time for a new approach. Spend less time managing your data environment, and more time building a data-driven business. As the top-ranked for database management tools in the world, we help you simplify this complex technology and ensure optimal database performance across a wide variety of both on-premises and cloud-based systems. Trust the database management solutions used by more than four million data professionals worldwide to give you more time.
+captions off, selected
+This is a modal window.
+Close Modal Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Build a data-driven business with Database Management from Quest
+Impartner Accelerator Award 2017 Winner
+Discover how our database management tools can automate routine tasks, provide high-quality data, standardize database performance monitoring, drive greater data availability and become more agile with our proven solutions.
+Get the power to respond rapidly to change.Our database development solutions enable you to implement consistent, repeatable processes to keep pace and become more agile. Set your team up for success as you blaze through development cycles, and minimize the risks associated with bugs, performance issues, coding standards, dispersed teams and more. 
+Get ahead of the curve. Resolve problems before they impact your environment, and streamline daily redundant database administration tasks, so you can focus on more meaningful endeavors. From administration to maintenance, performance monitoring, data protection, automation and collaboration, our solutions lead the way for today’s highly effective  database administrator . 
+Data preparation and analysis
+Ensure your analyst teams receive accurate, high-quality data quickly – regardless of the data source. Our data preparation solutions offer up to a 50% time savings in data preparation tasks with secure, governed workflows. Provide data to your analysts in real time, every time with desktop-based, self-service solutions. Enjoy a closer-to-business collaboration experience. 
+Database performance monitoring
+Consolidate and standardize database performance monitoring across diverse, multi-platform environments, including Server, Oracle, Sybase, DB2 and others – even when using native or third-party tools. View a complete picture of your environment so you can collaborate among teams to find and fix performance issues before they put your database at risk. Get valuable insight into all areas around database resources, workload analytics and change tracking.
+Drive greater data availability through industry-leading database replication . Our solutions help you replicate data to where you need it most – whether it’s replicating a production database for high availability or integrating data to other databases. Count on high reliability with Zeroto your systems. 
+DevOps
+Speed up deployment by giving your database developers the same DevOps and agile advantages that your application developers have. Our tools are designed to help Oracle and Mydatabase developers overcome the biggest bottlenecks to writing, testing and releasing database changes at the pace today’s businesses demand. Automate database code testing, analysis and validation from within your existing continuous integration and continuous delivery tools.
+Relax and become one with the cloud. Simplify your journey to the cloud with a cost-effective database replication and migration solution . Near-real time replication that does not interrupt end-user productivity lets you achieve high availability and business continuity. Your data is continuously replicated from one database server to another, with no scheduling required – no stress, no downtime.
+With industry-leading support for Oracle, Server, DB2, SAP, MySQL, Postgres, and dozens of other relational and non-relational platforms such as Hadoop, MongoDB, and Cloudera, our database management solutions provide comprehensive support for almost any environment. 
+Click below for more in-depth information on a few of the platforms we support.
+Get the insight and automation you need to maximize your Oracle investment in record time.
+Increase productivity, reduce costs and protect your data, while enabling DBAs to cut their workload by up to 80%.
+Administer, manage, and maintain DB2 databases, whether running DB2 or DB2 z/OS.
+Minimize the Mylearning curve from development and querying to diagnostics and reporting.
+Get to the cloud faster – quickly deploy, manage, monitor and leverage Azure for maximum ROI.
+Put documents stored in Mongoto work for you through provisioning, querying and reporting.
+Harness the power of big data through simplified Hadoop management.
+Derive quick insights from your massive, high-velocity Cassandra system through easy querying and data prep.
+Move to a more affordable alternative with zero impact and near-zero downtime to your operational databases.
+Access your Dynamo data anytime, anywhere without any custom coding.
+Generate the big picture through web traffic analytics without complex set-up or coding.
+Turn your data into insights to make better decisions at the speed of business.
+Get the data you need to serve your customers in time, every time through automation and collaboration.
+Gain support across all databases with industry-leading tools more DBAs trust.
+Query, prepare and automate your reports with Teradata, and gain up to 50% productivity.
+Learn how our solutions are helping businesses and organizations become more efficient than ever.Maximize your virtual infrastructure. Unlike other performance monitoring tools, Foglight provides holistic insights into virtualization management – including VMware, Hyper-and OpenStack; databases running on Server, Oracle, DB2 and Sybase; and end-to-end real user monitoring from the network that applications run on into the Java and .Net code.
+Maximize virtualization performance with monitoring for VMware and Hyper-coupled with storage array monitoring and simplify cross database performance monitoring for SQL, Oracle, DB2, Cassandra, MongoDB, Postgreand MySQL.
+Database monitoring and analytics
+Adopt a solution that provides simplified, consistent performance monitoring and management across heterogeneous database platforms in order to reduce administrative costs and improve service levels. Help ensure your database components are operating within their resource capacity limits, and use alerts to discover when they are overextended – plus determine how to correct those conditions.
+Storage performance and utilization management
+Gain a holistic view of storage performance and utilization through the virtualization layer to the physical disk spindle. Foglight supports storage monitoring for Compellent and Equalogic, Clariaon, CX, VMAX, and Isilon, Hitachi AMS, and USP, and 3PAR, NetApp OnTap 7, 8 and Cluster Mode.
+For monitoring of any storage array, Foglight provides an easy-to-use Python to collect data from any array, and instantly leverage the full power of Foglight storage management.
+Operating system monitoring
+Take the complexity out of monitoring operating systems and simplify the process with a unified solution that allows you to visualize core physical and virtual metrics, and gain deep insight into memory, and I/processes. Provide a consistent approach to the management of your diverse operating systems, and unify the disparate parts of your environment with a single, centralized platform.
+Protect, monitor and optimize your Hyper-environment to increase the efficiency of your infrastructure and get the most out of your investment in virtualization.
+Maximize the value of your virtualized infrastructure and gain the visibility and functionality you need to monitor and manage VMware and heterogeneous environments.
+Gain greater visibility into and simplify the planning and analysis of your storage infrastructure with Foglight for Storage Management. Detect, diagnose and resolve potential issues to ensure optimal virtual machine performance and availability. Maximize the capacity of your existing storage during virtualization, consolidation and cloud projects.
+Get the insight and automation you need to maximize your Oracle investment in record time. Enable rapid delivery of database changes, optimize system health and performance, ensure uptime of your critical databases, and much more.
+Whether your DB2 instances are on premises or in the cloud, Toad for DB2 helps ensure optimal application experiences and peak database performance. If offers a complete suite for advanced administration, performance and change management; and provides a single, consistent toolset to manage both DB2 and z/OS.
+Toad for Solutions automates frequent and repetitive tasks, eliminates performance-tuning challenges and streamlines optimization so you can focus on higher-priority projects.
+Make Microsoft® Exchange Server more compliant, available, secure and efficient. Our Exchange tools include everything you need to migrate, secure, audit, maintain and recover Exchange efficiently without using native tools.
+Make your Microsoft® Active Directory® (AD) environment secure, compliant and available. Our solutions for management, security, auditing and migration elevate performance. Take advantage of unique tools and solutions for automation and provisioning, compliance and audits, security, disaster recovery and migration and directory consolidation.
+Learn how our solutions are helping businesses and organizations become more efficient than ever.Account Settings
+Endpoint Systems Management
+Simple, straightforward, cloud-based mobile device management
+While some admins think of smartphones, tablets and other mobile devices as another category of endpoints, Mobile Device Management often involves unique considerations that don’t always come with traditional devices. First, the sheer volume of mobile devices brings more complexity to the enterprise. Plus each device can be an entry point for security threats. True Mobile Device Management makes it easier to manage and secure mobile devices, ensuring that end-user productivity continues to grow without productivity plummeting.
+Simplify asset management with endpoint systems management solutions.
+Discover how our mobile device management solution helps you manage and secure mobile devices, boosting productivity for end-users, without sacrificing productivity.
+Fast implementation
+Be up and running in just a few hours with a SaaS-hosted solution. There’s nothing for you to install or manage in your data center.
+Fast implementation
+Cloud Mobile Device Manager
+Easily identify and manage the mobile devices on your network.
+Simply provide your users with a that enables them to register their devices. Upon enrollment, the device will be provisioned with the initial profile, ready for 
+cloud-based mobile device management
+Cloud Mobile Device Manager
+Easily identify and manage the mobile devices on your network.
+Send specific commands to any mobile device that has been registered — you can inventory, lock, unlock, erase or factory reset the device or reset its password.
+Cloud Mobile Device Manager
+Easily identify and manage the mobile devices on your network.
+Flexible, comprehensive device inventory
+Get an inventory of your mobile devices automatically each day, or generate an inventory at any time. The information collected includes device attributes, configured policies, installed appliances, installed certificates, installed profiles and network settings (Wi-Fi and VPN).
+Flexible, comprehensive device inventory
+Cloud Mobile Device Manager
+Easily identify and manage the mobile devices on your network.
+Flexible user management
+Filter the user list by device attributes, or filter the device list by user attributes, for easy cloud mobile device management when users have multiple devices.
+Flexible user management
+Cloud Mobile Device Manager
+Easily identify and manage the mobile devices on your network.
+Managing All Devices with Unified Endpoint Management (UEM)
+On Demand Webcast
+Predicting the Future of Endpoint Management in a Mobile World
+Endpoint Systems Management Evaluation Guide
+Effective Patch Management - Nine Simple (but Critical) Tips
+Unified endpoint management for Windows 10 migrations
+E-book: Technology Tunnel Vision, Part 1: Why Endpoint Management Without Network Security Is Putting Your Organization at Risk
+Community: ITNinja
+Blog: Isn’t it time to expect more from management?
+Need help? We're here for you.
+Training	& Certification
+United States
+United States (English)
+Japan (日本語)
+This is the endDescending
+Check out the new features and functionalities matrix to review each edition of Toad for Solutions whether they’re managing SAP, ASE, or Hana.
+There’s so much beyond our control in our jobs. As DBAs, we’re at the mercy of our bosses, application developers, end users, growing demands and inefficient processes. But what if we could gain more power?  What if we could pinpoint are...
+Before you perform your next database migration or upgrade, check out this free e-book or lose your job and burn nether regions. We recommend the e-book.
+As we automate more and more business critical applications; keeping those applications available becomes more important.    If you’re using eCommerce, how much does it cost your business when your eCommerce application is unavailable...
+You can afford The Best Replication Tool of 2018, SharePlex! Trends and Applications held its annual Readers' Choice Awards & we won! Woot! See why we won.
+Comparing schemas across database platforms, like DB2 and DB2 z/OS, is an action that you might need to undertake on occasion.   Maybe you’re preparing to migrate an application to use data on instead of z/ Perhaps yo...
+and SharePlex are the perfect match for your cloud migration. SharePlex delivers nearly instant gratification with near real-time data replication. Learn more
+In my earlier blog, we defined the differences between High Availability and Disaster Recovery; and noted that in designing for Disaster Recovery, we want to build our secondary system so that it will survive a large or widespread event; such as a hu...
+Learn how to integrate database change management into agile DevOps to improve collaboration, workflows and automation to future proof your databases.
+Summit, the biggest conference for Server professionals, is nearly here. Get the scoop on the best things to do and hottest spots to hit up.
+In my earlier blog, we defined the differences between High Availability and Disaster Recovery; and noted that in designing High Availability systems, we’re most concerned with availability, elimination of single points of failure and automati...
+In a previous blog covered how you can use SharePlex and Toad for Oracle together to:  replicate your data and validate the data has been moved properly.  showed this by using Toad to generate data for the SharePlex sample tables, demo_src and de...
+Customers often ask, “Can SharePlex be used to help me achieve High Availablity” or “Can a SharePlex database target be used for Disaster Recovery?”   The short answer to both of these questions is “Yes!” This...
+In this blog am going to cover how you can use SharePlex and Toad for Oracle together to:    replicate your data and   validate the data has been moved properly.     am going to focus on how we can do this ...
+World Description Quest is database solutions partner key to your initiatives. Stop by booth 4201 to see how we can help you navigate trends like DevOps and more.
+The autonomous database may drive itself, save on labor and reduce human error, but new duties will replace the old responsibilities. Read our eBook.
+Our database management solutions swept the Readers’ Choice Awards in Best Database Development, Database Performance, and Data Replication Solutions.
+The 2018 replication solution of the year is SharePlex! Your votes prove SharePlex meets your needs, is reliable and easy to maintain.
+Database replication, in the cloud or on-prem, plus high availability with SharePlex helps DBAs avoid stress-induced baldness and premature career loss. Learn more.
+Database high availability is everything when you’re a purely online business like Priceline.com. Learn how Priceline uses SharePlex and get a free trial!
+Good news! The new version of Litespeed (v8.7) is out now !This version brings a couple of new features - Cloud Backups to Google Cloud Storage , and new Microsoft Encryption support. Until now cloud backups to Azure and Amazon S3 were possible. In...
+Well maybe not the best tip ever, but certainly one of the most popular in Toad Tips and Tricks sessions. The Toad Script Runner (TSR), not terminate and stay resident for you old time folks, is a great feature in Toad that allows you to execute l...
+Eliminate data replication risk and reduce database downtime with Quest SharePlex. Learn how was able to reduce downtime from 20 hours to 40 minutes.
+Virtualization management
+Virtualization management
+Optimize performance and improve capacity planning
+Accelerate, protect and improve performance of your entire virtual infrastructure and be certain you can recover your environment in minutes without impacting users. Quest virtualization management solutions provide end-to-everything visibility across performance monitoring, availability, optimization and capacity planning – all with automation to simplify your daily tasks. Reduce costs and increase efficiency while getting unmatched visibility into the virtual machines in your environment.
+Virtualization management
+Proactively manage, optimize and protect virtual environments while vastly accelerating the performance or your entire virtual infrastructure.
+Virtualization Management
+Go beyond simple virtual server management and begin proactively managing your entire virtual infrastructure stack to maximize performance, reduce risk, and reduce costs. Automatically monitor and protect your environment while accelerating performance and maximizing data availability. Optimize density, including vCPU, vMemory and guest storage. Create virtual standby machines and DRaain Azure in just a few clicks.
+Virtualization Management
+Visualize, analyze and optimize your virtual infrastructure
+Virtualization Performance and Capacity Management
+Deliver the performance your business needs, and automate management of your virtual environment without adding complexity to your VMware or Hyper-platforms. Our solutions offer the broadest, in-depth heterogeneous support for VMware and Hyper-V, making it easier for you to optimize the configuration, performance and utilization of your storage, hypervisors and guest virtual machines, as well as the applications running on them.
+Virtualization Performance and Capacity Management
+Foglight for Storage Management
+Visualize, analyze and optimize storage infrastructure with in-depth analysis and expert advice
+Visualize, analyze and optimize your virtual infrastructure
+Virtual server protection
+Recover your virtual server environment in minutes without impacting users. Our solutions protect the entire (including servers, apps and data) and enable you to scale backup and restore capabilities. Easily conduct high-speed backups and rapidly recover VMs, both on and off-premises, without disrupting your production systems. Achieve 5-minute RPOs and under 15 minute RTOs to address demanding business-driven service level agreements (SLAs).
+Virtual server protection
+NetVault Backup
+Get secure data and applications in both physical and virtual environments
+Accelerate backup speed, reduce storage costs and use the cloud for disaster recovery.
+Zerorecovery – anything to anywhere – physical, virtual and in the cloud.
+Accelerate VMware backup and replication while dramatically reducing storage requirements
+The Definitive Guide to Virtualization Management Software: Part One
+The Definitive Guide to Virtualization Management Software: Part Two
+Tech company expects to save $1.4 million by optimizing VMs
+Digital Transformation - Best Practices for Data Recovery and Protection
+Choosing the Right Public Cloud for Better Data Protection
+Unlock Hidden Resources in Your Hybrid Virtualization Infrastructure
+There is a Right Way to Go "All-in" on the Cloud 
+Cloud Migration is More than Lift and Shift
+Performance Management blog
+Need help? We're here for you.
+Training	& Certification
+United States
+United States (English)
+Japan (日本語)
+This is the endYour precious resources and budget shouldn’t be held hostage to manual management tasks, multiple point solutions that leave critical gaps, or overly complex and expensive suites. Our easy-to-use, fast-to-implement appliances provide comprehensive endpoint systems management. Capabilities include streamlined provisioning, automated network discovery of and hardware inventory, asset management, endpoint security and patching, application distribution and maintenance, and a fully integrated service desk. And you can manage virtually all network-connected devices, including Windows®, Mac®, Linux® and UNIX® machines, Chromebooks, and network-connected non-computing devices.
+captions off, selected
+This is a modal window.
+Close Modal Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Discover and control every device that touches your network
+Give your growing organization more time to innovate with easy-to-use appliances that enable you to easily provision, manage, secure and service virtually all network-connected devices.
+Extend endpoint management all the way to mobile devices like smartphones and tablets – even if employees personally own them. Enroll, take inventory, configure and secure mobile devices just like traditional devices. Support innovations like Vocommunication, cloud storage apps, workplace flexibility and essential company applications.
+Save time with automated provisioning capabilities for multiple  operating systems, including streamlined master disk imaging and maintenance, faster image deployment for  large-scale provisioning tasks, easy Windows migration and user state migration  — all from an easy-to-use, web-based interface with built-in reporting and automated maintenance.
+Remotely distribute, install and maintain applications and  digital assets to Windows, Mac and Linux computers and servers, eliminating the  time and hassle of traveling to multiple locations. The remote replication  share is easy to set up and maintain, and dramatically reduces the cost and  complexity of deployment  across a multisite organization.
+Quickly see exactly what is connected to your network. Discover and inventory all hardware and network-wide, including laptops, desktops, servers, storage devices, Chromebooks and network-connected non-computer devices. Streamline inventory management and license compliance chores, and avoid audit fines or license overpayment.
+Automate patch management and deploy patches from one of the largest patch libraries in the industry, with patches for Windows and Mac operating systems and leading third-party vendors such as Adobe®, Oracle®, Mozilla® and Symantec™. Conduct security audits and identify vulnerabilities with and scanning. Remedy vulnerabilities and enforce security policies with comprehensive system configuration management capabilities.
+Improve the user experience with an integrated service desk  and a self-service portal that enables users to solve many basic requests  themselves. Provide service desk staff with granular controls that are  integrated with asset management processes and workflows. Give both  administrators and end users easy remote access to relevant service desk  functions.
+Enjoy effective, unified endpoint management across all your network-connected devices. Windows, Mac, Linux and machines, and Chromebooks are just the beginning. Agentless capabilities enable you to inventory non-computing devices in the quickly expanding Internet of Things (IoT) and monitor network-connected devices such as printers, switches and components.
+Our endpoint systems management solutions run on multiple Microsoft® platforms, including Windows 10, to make it easy to work within your environment. 
+Our endpoint systems management products are created to make your life easier and run in a multi-environment. We built our products to support the Mac platform.
+Use our endpoint systems management solutions in your or Linux environment.
+Learn how our solutions are helping businesses and organizations become more efficient than ever.Microsoft platform migration, security and management solutions
+Organizations for nearly 20 years have turned to Quest to migrate, manage and secure Microsoft platforms, including Active Directory, Exchange, Office 365, Azure and more. Only with Quest will you get the most comprehensive set of Microsoft platform management solutions, which now includes products from Metalogix – the leading SharePoint and OneDrive for Business migration and management provider.
+No matter where – on premises, cloud or hybrid - Quest is your go-to provider to help reduce the time and money spent on managing Microsoft platforms so you have more time to drive your business forward.
+captions off, selected
+This is a modal window.
+Close Modal Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Metalogix is Now Part of Quest
+Discover how we can simplify and automate a wide range of Microsoft platform management tasks for Active Directory, Exchange, Office 365, OneDrive for Business and SharePoint.
+Hybrid Active Directory security
+Hybrid Active Directory security
+Take control of your hybrid Active Directory infrastructure and improve your security posture on premises and when extended to the cloud. Our solutions enable you to be more productive, secure and aligned to your business with a single, end-to-end solution.
+Migration and consolidation
+Ensure a Zeromigration and consolidation for Microsoft platforms such as Active Directory, Exchange, SharePoint, Office 365 and OneDrive for Business. Simplify and automate migration tasks so you can finish the project faster while minimizing the costs, risks and disruptions to users.
+Reduce enterprise risks, maintain policy compliance and adhere to regulations such as , HIPAA, PCI, SOX, FISMA, and more with detailed, real-time assessment, auditing, alerting and remediation of complex Microsoft environments. Identify, track, address and even prevent vital configuration changes in real time – without the overhead of native auditing. Ensure compliance with audit-ready reports.
+Address storage optimization and compliance needs, improve searchability and slash costs — all without interruption to end users. With Quest, you can deliver smarter archiving for yesterday’s stale content, achieve faster productivity today and effectively plan for tomorrow’s storage and compliance needs.
+Avoid data loss and maintain business continuity with streamlined backup and disaster recovery solutions for Active Directory, Azure AD, Exchange, Office 365 and SharePoint. Facilitate efficient searches for fast email discovery. Easily recover lost data from individual objects, permissions and email, or perform a full disaster recovery.
+Improve the availability and performance of Active Directory, Exchange, Lync/Skype for Business, Office 365 and SharePoint by conducting real-time diagnostics to resolve problems before users are impacted. Ensure greater business continuity, user productivity and maximum with Quest solutions.
+Satisfy management demands for information, dive into usage, adoption and performance, and prepare for upcoming migration and consolidation projects. Automate data collection, reporting and chargeback generation for Microsoft platform environments – including Active Directory, Azure AD, Windows Server, Server, Exchange, Skype for Business and Office 365 – to reduce administrative workloads.
+Secure your Microsoft Windows Server environment and prove compliance. Take advantage of automated solutions for managing and reporting on users and group permissions, along with Group Policy Objects . Get support for Active Directory, Azure Active Directory, Windows Server and filers, Exchange, Server, Lync/Skype for Business and Office 365.
+Reduce risk and cost by optimizing your Active Directory. Ensure a secure, compliant and available environment with solutions for restructuring and directory consolidation, security and compliance, disaster recovery, automation and provisioning.
+Monitor usage and trends within Cisco Unified Communications Manager. Build chargebacks based on call types, users and departments. Take inventory of your environment, conferences and peer-to-peer sessions, and compare usage to Microsoft Lync/Skype for Business to help assess usage and adoption.
+Make Microsoft Exchange Server more compliant, available, secure and efficient. Our solutions enable you to migrate, secure, audit, maintain and recover Exchange without using native tools. Ensure coexistence and manage your messaging environment faster – and with ZeroIMPACT.
+Ensure a ZeroGoogle Gmail migration to Office 365 that reduces risk and saves resources.
+Trust us to provide a Zeromigration from GroupWise to Office 365 and Exchange. Mitigate the risk of downtime and data loss to minimize disruption to your organization. Migrate quickly and securely so you can finish your migration on-schedule and under budget.
+Slash Lotus Notes migration costs up to 60 percent, and migrate three times faster with superior data fidelity. Ensure a ZeroNotes email and application migration to Office 365, Exchange and SharePoint. Easily perform pre-migration analysis to effectively plan and mitigate risk, as well as ensure seamless coexistence to keep the migration from impacting end users.
+Simplify your Office 365 migration, management and security needs. We help you stay in control — whether in Office 365 or a hybrid environment.
+Migrate, manage and secure your OneDrive for Business content to streamline data governance and enable effective collaboration.
+Accelerate and streamline migration, management and security in your on-premises and cloud-based SharePoint environments.
+Simplify Microsoft Skype for Business/Lync Server administration, ensure availability and maximize performance. Easily track instant messaging (IM), file transfers, Voand A/conferencing usage, trends and quality of experience. Diagnose and resolve messaging issues before they affect end users. Automate user account management to relieve the burden on IT.
+Simplify performance management, accelerate backup and recovery, and centralize administration. Gain the capacity to manage and monitor single and multiple database platforms, as well as promote collaboration.
+Make your environment secure, compliant and available. Elevate performance for Windows Server management, security, auditing and migration.
+Learn how our solutions are helping businesses and organizations become more efficient than ever.Easy-to-use database performance monitoring tools
+Trim problem resolution time by up to 75%, and sharply reduce delays and downtime across your entire database infrastructure.Our solutions enable DBAs to quickly discover which applications and users are impacted by a database issue, maintain higher service levels and eliminate many time-consuming manual tasks.
+captions off, selected
+This is a modal window.
+Close Modal Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Reduce Server application downtime by 60% - with little or no system overhead.
+Monitor, manage, protect and improve
+Easily optimize and tune Server performance anywhere on any device. Ensure peak performance around the clock with unmatched monitoring, diagnosis and optimization. Spotlight provides access to the details you need for optimal Server fitness. Get intuitive overviews of health and performance, automated alerts and actions, and mobile device support.
+Seamlessly monitor complex and diverse database environments. Get valuable insight into all areas around database resources, workload analytics and change tracking. Receive a holistic view of multi-platform environments so you can collaborate among teams, and detect and resolve performance issues before they impact your database.
+Learn how our solutions are helping businesses and organizations become more efficient than ever.Explore document scanning with and Remote Desktop Services using RemoteScan. See how our remote desktop scanning makes secure scanning easy.
+Endpoint Systems Management
+Learn how Antioch saves time and money plus better serves students and teachers in their 21 schools with Quest's unified endpoint management solution
+Endpoint Systems Management
+See how solutions help MSPs better meet their customers' needs through automation, plus save time and increase ROI.
+Endpoint Systems Management
+Meet Nick, an Ninja and see how he manages numerous endpoints with his security powers thanks to his unified endpoint management solution, KACE.
+Endpoint Systems Management
+Discover how to automate patch management and be confident that your endpoints are secure with at Infosecurity.
+Endpoint Systems Management
+The Systems Management Appliance now offers an easier way to automate the backup process of your appliance.   In earlier versions, there were two backup options available, (1.) manually backup via the web interface or (2.) use an C...
+Endpoint Systems Management
+Instead of pumpkin pie this season, let’s try something new. How about that Raspberry Pi? Well it may not make a very tasty dessert but, it can be useful for some projects. For around $30 a device they can be inexpensive to purchase and impl...
+Endpoint Systems Management
+Educause is October 31 – November 1, 2018, at the Colorado Convention Center in Denver! See our team of experts to talk through your endpoint management challenges.
+Endpoint Systems Management
+The Systems Deployment Appliance can be used in a secure environment without Internet connectivity.  However, there are a few options that will be unavailable. One of the main questions or concerns regarding using the (K2000) offli...
+Endpoint Systems Management
+Bolster your security with an efficient unified endpoint management (UEM) strategy that can help you tackle vulnerabilities and challenges. Read on.
+Endpoint Systems Management
+We are proud to announce the release of Systems Management Appliance 9.0. Check out the new look, feel and easier-to-use functionality of SMA.
+Endpoint Systems Management
+The Systems Management Appliance is great at automating those everyday administrative chores you face daily. Be it device inventory, patching, reporting, or deployment, can handle it. With the newest release (v9) of the System...
+Endpoint Systems Management
+Endpoint Systems Management
+Iotechnologies can be vulnerable access points. Listen as we discuss how a approach allows you to review and manage all endpoint assets with one tool.
+Endpoint Systems Management
+Simplify a Windows 10 migration with a solution that automates critical steps. Don't struggle to manage endpoints and protect against cyberthreats alone.
+Endpoint Systems Management
+Learn about the future of endpoint management in a mobile world with Timothy Warner of Pluralsight and Nick Morea of Quest Software.
+Endpoint Systems Management
+The latest version of the system imaging application is now available, with new and updated features for faster and easier systems imaging. Get a Free Trial.
+Endpoint Systems Management
+It’s been an exciting quarter for Cloud Mobile Device Manager (MDM). Not only has the team released a series of updates improving security, manageability and ease of use, but is now available in Cloud simpl...
+Endpoint Systems Management
+The Systems Management Appliance has been around for quite a while and most people probably know we do endpoint systems management. Yes, we can manage your desktop, and servers. However, you may not know all the other things has to offer. ...
+Endpoint Systems Management
+UserKon 2018 training session highlights and best practices to maximize your investment. If you missed this event watch our webcast.
+Endpoint Systems Management
+Unified endpoint management has become a necessity as environment complexity increases. Learn how to provide a solution for all your endpoints.
+Endpoint Systems Management
+Enterprise endpoint management has increased in complexity. Download the Aberdeen Group report to learn how you can face these challenges to effectively mitigate security risks and reduce operational costs.
+Endpoint Systems Management
+Your company decided to start issuing iPhones to employees. It is simple, right? Head down to the Apple store and purchase phones. You issue the cell phones out and all is going great, for a time. You have an employee; we will call him “Bob”, who leaves under less than amicable circumstances. Luckily, “Bob” returns all his company issued equipment. Reimage his laptop, check. Reset his iPhone, not so fast. Looks like …
+Endpoint Systems Management
+Download the, Best Ways to Extend Endpoint Management and Security to Mobile Device whitepaper to avoid the Colossus of Rhodes' fate.
+Endpoint Systems Management
+Get reliable, automated imaging for Windows tablets and other systems using and SMA.
+Endpoint Systems ManagementDescending
+It’s Data Privacy Day and not Maple Syrup Day: Or why Microsoft’s 5th Immutable Law of Security rules them all By Marc van Kralingen, Marc.vankralingen@Quest.com    live in Canada and my colleagues in other parts of ...
+See what you need to know about securing your in response to Homeland Security's newly released Emergency Directive 19-01: Mitigate Tampering.
+Learn the key Office 365 migration steps and how Quest solutions and services can help you deliver a successful cloud migration.
+Introduction When you migrate to Office 365, Migrator for Notes to Exchange (MNE) requires "Full Access" rights to each end-user mailbox in order to populate their new Office 365 mailbox with mail. is designed to automatically grant its...
+Dive into Sharepoint's re-emergence, modernized experience and your new gateway to Microsoft Teams. Read What's in store for Windows & O365 pros, part 10.
+We are excited to announce that On Demand Migration for Email (ODME) now supports migrating from GroupWise 7.0.3 through 18! Great! So where do start? Step 1: Set the GroupWise Post Office Agent to restart automatically When preparing your GroupWis...
+See why violations are on the rise and what the requirements are to protect health data in part 8 of our 10 Predictions for 2019.
+See how will be enforced and where competing regulations will complicate data security in our 7th prediction of 2019 for Windows and Office 365 pros.
+Explore why you'll change how you think about Active Directory in your business continuity plan in the face of devastating malware compromises. Learn more.
+Learn more about Active Directory security, proven best practices and which Active Directory solutions that can help you secure your cloud storage.
+Ransomware may be old news, but its still out there and getting more sophisticated. Learn why we think a publicly traded company's stock will take a hit in part 5 of our 10 part 2019 Predictions: What’s In Store for Windows and Office 365 Pros series.
+Learn how to easily to assess the privileges of admin accounts and receive alerts if an admin attempts to log on to any vulnerable endpoints.
+Learn how "Working Out Loud" transformed the way collaborate and achieve goals in my role as a SharePoint/Office 365 Influencer.
+Learn why you shouldn’t write off multi-tenant security as a sure thing in our 2019 predictions for Windows and Office 365 professionals.
+Controlling your Group Policy objects (GPOs) is the second step and critical best practice for managing the insider threat. Let's explore.
+Learn how to understand and control privilege across your environment. It's the first step towards stopping an insider threat.
+We're excited to announce that Quest InTrust version 11.4 is here! Learn how to improve your solution with InTrust for centralized log management.
+Dive into the one constant security prediction — humans. Read the 3rd blog in our 2019 predictions for Windows and Office 365 professionals series.
+Hi, While pretty much anyone in the log management business tries to do their best to collect as many events as possible and then do analytics on top of it, sometimes an absence of a log could be a problem Let's imagine there is a servi...
+The rise in Edge Computing is adding more points of entry into your Active Directory that you need to consider. Learn more.
+Explore our PowerShell predictions and get recommendations on how to react when they happen in our 2019 Predictions for Windows & Office 365 pros series.
+We are excited to announce a new version of Migrator for Notes to Exchange 4.15.2 is now available for download. Migrator for Notes to Exchange (MNE) is a set of coordinated applications designed to facilitate a variety of migration strategi...
+Explore side-channel attacks and learn where they could compromise your Active Directory security.
+Real predictions about things you actually care about, like data security, scripting, reporting, auditing, migrating & finding time to explore Teams.
+Hi, There are a lot of different guidelines and regulations by government bodies of different countries responsible for cyber-security, most of them provide information about threats, strategies, and bad actors. will write a series o...
+Microsoft Platform ManagementFoglight Hybrid Data Center Performance Management
+Optimize your VMs, apps storage and budget — on premises and in the cloud
+captions off, selected
+This is a modal window.
+Close Modal Dialog
+Beginning of dialog window. Escape will cancel and close the window.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Close Modal Dialog
+This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
+Unlimited virtual possibilities with Foglight for Virtualization
+Foglight Hybrid Data Center Performance Management optimizes the configuration, performance and utilization of your cloud, hypervisors, virtual machines (VMs) and storage to gain visibility across your entire hybrid infrastructure. Real-time and historical data reporting capabilities enable informed decision-making and provide critical insights into your future capacity needs. Automate, optimize, monitor and forecast capacity for VMware, Hyper-V, Azure, and physical servers.
+With Foglight, you can eliminate unused resources, perform capacity planning to expose the impact of planned changes, and reduce costs. Monitor applications such as Microsoft Active Directory, Exchange and Office 365, as well as all your physical and virtualized storage.
+Foglight Hybrid Data Center Performance Management has got you covered from your virtual machines to your storage infrastructure and beyond with high-performing integrated modules designed to optimize, automate and lower costs across your entire environment.
+Move beyond VMware and Hyper-monitoring to get controlled optimization that cleans up waste and promotes capacity planning to expose the impact of planned, VMware-initiated and user-invoked changes.
+Get greater visibility into your storage infrastructure to simplify planning and analysis. Detect, diagnose and resolve potential issues across applications, virtualization layers and physical disk spindles for optimal performance and availability.
+Experience real-time and historical analytics of containers and their hosts, across physical, virtual and cloud environments, giving you the container monitoring metrics needed to make the optimal choices when it comes to container deployment.
+Employ virtual infrastructure capacity life cycle management for deep insight into your environment, including the availability and estimated time left for CPU, memory, storage and IOPs. Better forecast resource requirements for clusters, hosts and workloads.
+Foglight for Operating Systems
+Monitor and manage the operating systems behind every application, database, network device and server in your environment. Connect all parts of the environment in one centralized platform, so you can visualize core physical and virtual metrics — and act upon them.
+Quickly find, diagnose and fix problems affecting your virtual Active Directory (AD) performance and related infrastructure. Monitor both virtual and physical environments, and leverage logical and architectural representations for unparalleled insight into your virtual AD.
+Quickly detect, diagnose and resolve performance and availability problems impacting Microsoft Exchange servers in physical, virtual and cloud environments. Gain unparalleled insight into virtual Exchange applications, relationships and states through logical and architectural representations.
+Foglight Hybrid Data Center Performance  Management combined with Quest  Rapid Recovery image-based backup make up the Quest  Predictive Business Continuity solution , which helps optimize  infrastructure while maximizing system, application and data protection and availability.
+Travel the path to endpoint management enlightenment with Quest KACE
+Travel the path to endpoint management enlightenment with Quest KACE
+Follow in the footsteps of Nick the Ninja as he uses Quest to battle the dark forces that threaten systems and eliminate the need to spend your days battling proliferating technology endpoints, security threats, system downtime, and compliance regulations.                
+                    [PLAYING] This is Nick, an admin. Nick's path to enlightenment hasn't been easy. He's battled proliferating endpoints, security threats, system downtime, and compliance standards. 
+The road Nick walks, one cluttered with multiple management tools. And this road has been a test of Nick's spirit, keeping inventories up to date, applying patches, manually imaging systems, fixing security threats, reacting to problems instead of anticipating them. All of this was a constant struggle. 
+Further, using spreadsheets to track assets wasted valuable time, and was no guarantee of 100% success. And hours lost during the day meant Nick had less time to help prepare the business for whatever the future would bring. 
+And when things went wrong, those who counted on his protection suffered. Nick couldn't find serenity. He felt powerless against the dark forces that threatened his endpoints, and helpless as his days slipped away. Nick needed a new path to enlightenment, a unified endpoint management path. 
+In his search for answers, Nick found a new road, one of peace and confidence, one that gives him complete control of his environment. You see, Nick's journey led him to Kace. And now Nick is the ninja. 
+Thanks to Kace, Nick possesses all manner of mysterious powers that give him control of unified endpoint management. His power of vision gives him insight into every single connected device and its software. His power of tranquility ensures devices meet ever changing compliant standards. His power of security updates endpoints with the latest patches, protecting against malware, APT, vulnerabilities, and more. 
+His power of time automates manual tasks, saving hours of every day, while eliminating the specter of downtime. His power of change allows him to provision, image, manage, and secure assets across every platform. 
+His power of simplicity allows management of multiple employee and corporate devices, as well as nontraditional assets with the internet of things from one interface. His power of foresight helps him anticipate problems and solve them before they can harm the business. 
+Thanks to Kace, Nick is an ninja who strikes first and swiftly cuts down any evil threats to his environment. And when his work is done, Nick fades quickly into the shadows, knowing that a job well done means a quiet office, and a day that actually ends at 5:00 
+Two-Minute Guide to Destroying Functional Silos
+                                Functional silos may be detrimental to your data and you might not even know it. Learn more about breaking down these silos. You’ll not only save time and money, you’ll also be able to focus on innovation, demonstrating to other stakeholders that is an awesome, strategic business partner.
+Get on the path to endpoint management enlightenment with KACE.
+Quest: Join the Innovation
+Restore data in 15 minutes or less with Data Protection
+Quest Data Protection solutions
+, your backups will never be older than five minutes, restoration will be just 15 minutes away, and your storage requirements will see a reduction of up to 93%. See how in this short video.
+Quest is a Channelnomics Awards 2018 Winner
+                                At Quest, our purpose is to solve complex problems with simple solutions. Our goal is to help you spend less time on administration, so you have more time for business innovation. It’s who we are and how we do business. Welcome to Quest. 
+Identify and track assets across a variety of operating systems
+Systems Deployment Appliance
+Easily perform initial provisioning and administration of system images and driver updates
+Systems Management Appliance
+Manage any endpoint with a comprehensive, easy-to-use solution
+Easily manage, secure and service all your network-connected devices from the cloud
+Get real-time, in-field system management with this help desk app
+Easily inventory all your Windows-based systems, for free
+Training	& Certification
+United States
+United States (English)
+Japan (日本語)

@@ -1,0 +1,1234 @@
+Cloud Marketplace
+Cloud Volumes for Google
+Cloud Volumes for AWS
+Cloud Volumes ONTAP
+Cloud Insights
+Data Storage Software
+Data Software
+Data Management Software
+SANtricity Software
+Data Infrastructure Management
+OnCommand Insight
+OnCommand Unified Manager
+OnCommand Workflow Automation
+OnCommand Cloud Manager
+Virtual Infrastructure Management
+Active Predictive Analytics and Support
+Data Backup and Recovery
+Data Availability Services
+SnapCenter Backup Management
+SnapMirror Data Replication
+MetroCluster Business Continuity
+SnapLock Data Compliance
+Data Security
+storage-systems
+ Data Storage Systems
+StorageObject Storage
+FlexArray Storage Virtualization
+Disk Shelves and Storage Media
+Hybrid Flash Storage
+Integrate Cloud Data Services
+DevOps
+Cloud and SaaBackup
+Deliver Data Insights and Control
+Performance Management and Analytics
+Simplify and Automate Virtualization Workloads
+Red Hat OpenShift
+OpenStack Private Cloud
+VMware Private Cloud
+Accelerate Your DevOps Journey
+Software Development Lifecycle (SDLC)
+Code and Artifact Repository
+Continuous Integration/Continuous Delivery (CI/CD)
+Configuration and Resource Management
+Protect and Secure Data
+Business Continuity/Disaster Recovery
+Data Security
+Data Compliance
+gaindataeff
+Gain Data Center Efficiencies
+Data Center Consolidation
+Virtual Server Infrastructure
+Optimize Unstructured Data
+Rich Content Management 
+Distributed Content Management
+Accelerate Workloads and Analytics
+Engineering and Design Applications
+Россия
+uses cookies and similar technologies to improve and customize your online experience. By continuing to use this site, you consent to our use of cookies, as described in our 
+What if don't like cookies?
+has recently updated its 
+. uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our 
+IT’DATA.
+Your data is your biggest competitive advantage. It’s time to orchestrate it with purpose. It’s time to free your data to be anywhere and everywhere you need it. That’s a true Data Fabric.
+The solution is clear. Be data-driven. Simplify and integrate how you use your data across your choice of hybrid, multi-cloud environments.
+delivers everything
+ to build your unique Data Fabric.
+Across every public cloud
+Azure. Google Cloud. Run it how you want.
+card2-hybrid-multicloud
+For any hybrid multicloud
+Build new services faster with a unified experience that spans all your clouds.
+card3-within-data-center
+Within your data center
+Scale from edge to core to cloud with the world’s #1 all-flash solution.
+Get cloud-connected flash
+The Latest from Changing the World with Data
+View Customer Stories
+& CERTIFICATION
+Corporate Social Responsibility
+How to Buy
+Partner With Public Sector Contracts
+E-Based Partners
+OnDemand Consumption
+Data Visionary Centers
+© 2019 netapp-globe
+Let us knowMore on Support
+Cloud Marketplace
+Cloud Volumes for Google
+Cloud Volumes for AWS
+Cloud Volumes ONTAP
+Cloud Insights
+Data Storage Software
+Data Software
+Data Management Software
+SANtricity Software
+Data Infrastructure Management
+OnCommand Insight
+OnCommand Unified Manager
+OnCommand Workflow Automation
+OnCommand Cloud Manager
+Virtual Infrastructure Management
+Active Predictive Analytics and Support
+Data Backup and Recovery
+Data Availability Services
+SnapCenter Backup Management
+SnapMirror Data Replication
+MetroCluster Business Continuity
+SnapLock Data Compliance
+Data Security
+storage-systems
+ Data Storage Systems
+StorageObject Storage
+FlexArray Storage Virtualization
+Disk Shelves and Storage Media
+Hybrid Flash Storage
+Integrate Cloud Data Services
+DevOps
+Cloud and SaaBackup
+Deliver Data Insights and Control
+Performance Management and Analytics
+Simplify and Automate Virtualization Workloads
+Red Hat OpenShift
+OpenStack Private Cloud
+VMware Private Cloud
+Accelerate Your DevOps Journey
+Software Development Lifecycle (SDLC)
+Code and Artifact Repository
+Continuous Integration/Continuous Delivery (CI/CD)
+Configuration and Resource Management
+Protect and Secure Data
+Business Continuity/Disaster Recovery
+Data Security
+Data Compliance
+gaindataeff
+Gain Data Center Efficiencies
+Data Center Consolidation
+Virtual Server Infrastructure
+Optimize Unstructured Data
+Rich Content Management 
+Distributed Content Management
+Accelerate Workloads and Analytics
+Engineering and Design Applications
+Россия
+uses cookies and similar technologies to improve and customize your online experience. By continuing to use this site, you consent to our use of cookies, as described in our 
+What if don't like cookies?
+has recently updated its 
+. uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our 
+Takes a Partner-First Approach to Solving Customer Challenges
+Unmatched Vision, Portfolio, and Investments
+Our Partner Approach
+NetApp® understands that partners are essential to helping customers build the outcome-centric infrastructures that they need to thrive in the digital age.
+Why You Should Partner with has the vision, the portfolio, and the programs to accelerate your profitability and growth.
+Our Valued Partners
+We focus on the success of our partners. Find the tools and resources to grow your business with NetApp.
+An overview of the information you need to generate demand and to support your communication.
+This guide helps you get started with and provides role-based enablement plans.
+training and certification programs put you on the fast track to success.
+Find helpful sales resources, technical resources, and technical tools.
+Find what you need to get started: incentives, promotions, market development funds (MDF), presentations, PartnerGear, guidelines, overviews, and more.
+Alliance Partner Program 
+Our program includes three levels of partnership for technology partners.
+and its partners collaborate to enable customers with end-to-end solutions to meet their needs.
+has developed a rich ecosystem of partners to deliver end-to-end business solutions.
+Reduce risks, boost performance, and extract greater value from your data with NetApp's global and strategic alliance partners.
+Join the award-winning Unified Partner Program, designed to contribute to your growth through the proven technologies and brand strength that provides.
+The Fueled by program helps you accelerate solution deployment, shorten time to a positive ROI, and develop innovative solutions that differentiate you in the cloud marketplace.
+Cloud First Partners
+vital business development resources
+ to include NetApp® cloud suite technology to grow your cloud offerings.
+Join forces with to accelerate portfolio innovation, expand market awareness, and increase sales.
+Partner Business Capabilities
+wants to recognize and reward our partners as a whole and promote all the value-added services you offer customers by recognizing your business capabilities. Each business capability requires you to meet a set of requirements.
+Vital Energi
+To provide a storage platform that could quickly generate business critical reports, Vital Energi implemented NetApp® AFF8040 and AltaVault™ cloud-integrated storage, resulting in faster report generation time, faster performance, and easier management.
+Mercy Technology Services uses NetApp® All Flash to accelerate decision making, putting data and insights in the hands of healthcare practitioners more quickly.
+To meet the needs of its new FICO® Analytic Cloud clients, adopted NetApp® SolidFire® all-flash storage to maximize flexibility, accelerate deployments, and cut the costs of cloud.
+Join us at a Partner Academy in a city near you to learn from sales and technical teams, and to develop valuable connections.
+Read our blogs to get the inside scoop on various partner-related topics.
+Browse events—live, online, and on demand—on the calendar.
+Corporate Social Responsibility
+How to Buy
+Partner With Public Sector Contracts
+E-Based Partners
+OnDemand Consumption
+Data Visionary Centers
+© 2019 netapp-globe
+Let us knowMore on Support
+Cloud Marketplace
+Cloud Volumes for Google
+Cloud Volumes for AWS
+Cloud Volumes ONTAP
+Cloud Insights
+Data Storage Software
+Data Software
+Data Management Software
+SANtricity Software
+Data Infrastructure Management
+OnCommand Insight
+OnCommand Unified Manager
+OnCommand Workflow Automation
+OnCommand Cloud Manager
+Virtual Infrastructure Management
+Active Predictive Analytics and Support
+Data Backup and Recovery
+Data Availability Services
+SnapCenter Backup Management
+SnapMirror Data Replication
+MetroCluster Business Continuity
+SnapLock Data Compliance
+Data Security
+storage-systems
+ Data Storage Systems
+StorageObject Storage
+FlexArray Storage Virtualization
+Disk Shelves and Storage Media
+Hybrid Flash Storage
+Integrate Cloud Data Services
+DevOps
+Cloud and SaaBackup
+Deliver Data Insights and Control
+Performance Management and Analytics
+Simplify and Automate Virtualization Workloads
+Red Hat OpenShift
+OpenStack Private Cloud
+VMware Private Cloud
+Accelerate Your DevOps Journey
+Software Development Lifecycle (SDLC)
+Code and Artifact Repository
+Continuous Integration/Continuous Delivery (CI/CD)
+Configuration and Resource Management
+Protect and Secure Data
+Business Continuity/Disaster Recovery
+Data Security
+Data Compliance
+gaindataeff
+Gain Data Center Efficiencies
+Data Center Consolidation
+Virtual Server Infrastructure
+Optimize Unstructured Data
+Rich Content Management 
+Distributed Content Management
+Accelerate Workloads and Analytics
+Engineering and Design Applications
+Россия
+uses cookies and similar technologies to improve and customize your online experience. By continuing to use this site, you consent to our use of cookies, as described in our 
+What if don't like cookies?
+has recently updated its 
+. uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our 
+Stay current on the ideas, insights and innovations that are happening everyday at NetApp.
+Powers Ducati’s Data-Driven Team for the 2019 MotoChampionship
+Builds on Its Cloud Leadership in Global Markets 
+Recognized as a 2018 Gartner Peer Insights Customers’ Choice for Solid-State Arrays
+WuXi Nexttackles genomic sequencing with help from NetApp’s Cloud Volumes (SiliconANGLE)
+Insight: Getting Serious About Cloud (StorageNewsletter)
+2019 Vault Rankings: Internship Program named #5 Best Tech & Engineering Internships
+How Casinos Are Gambling With Their Video Surveillance Storage
+Ready for 2020: The Rise of the Data Architect
+What’s New with OnCommand System Manager 9.5?
+Creating a Unified Content Platform in the Cloud for Broadcasting
+Executive Bios
+Corporate Social Responsibility
+How to Buy
+Partner With Public Sector Contracts
+E-Based Partners
+OnDemand Consumption
+Data Visionary Centers
+© 2019 netapp-globe
+Cloud Marketplace
+Cloud Volumes for Google
+Cloud Volumes for AWS
+Cloud Volumes ONTAP
+Cloud Insights
+Data Storage Software
+Data Software
+Data Management Software
+SANtricity Software
+Data Infrastructure Management
+OnCommand Insight
+OnCommand Unified Manager
+OnCommand Workflow Automation
+OnCommand Cloud Manager
+Virtual Infrastructure Management
+Active Predictive Analytics and Support
+Data Backup and Recovery
+Data Availability Services
+SnapCenter Backup Management
+SnapMirror Data Replication
+MetroCluster Business Continuity
+SnapLock Data Compliance
+Data Security
+storage-systems
+ Data Storage Systems
+StorageObject Storage
+FlexArray Storage Virtualization
+Disk Shelves and Storage Media
+Hybrid Flash Storage
+Integrate Cloud Data Services
+DevOps
+Cloud and SaaBackup
+Deliver Data Insights and Control
+Performance Management and Analytics
+Simplify and Automate Virtualization Workloads
+Red Hat OpenShift
+OpenStack Private Cloud
+VMware Private Cloud
+Accelerate Your DevOps Journey
+Software Development Lifecycle (SDLC)
+Code and Artifact Repository
+Continuous Integration/Continuous Delivery (CI/CD)
+Configuration and Resource Management
+Protect and Secure Data
+Business Continuity/Disaster Recovery
+Data Security
+Data Compliance
+gaindataeff
+Gain Data Center Efficiencies
+Data Center Consolidation
+Virtual Server Infrastructure
+Optimize Unstructured Data
+Rich Content Management 
+Distributed Content Management
+Accelerate Workloads and Analytics
+Engineering and Design Applications
+Россия
+uses cookies and similar technologies to improve and customize your online experience. By continuing to use this site, you consent to our use of cookies, as described in our 
+What if don't like cookies?
+has recently updated its 
+. uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our 
+Browse events—live, online, and on demand
+There are no events scheduled at this time. Please come back soon to check if new events have been added. Or 
+ here to see if there are events in your region.
+Corporate Social Responsibility
+How to Buy
+Partner With Public Sector Contracts
+E-Based Partners
+OnDemand Consumption
+Data Visionary Centers
+© 2019 netapp-globe
+Let us knowDisable my cookies.
+has recently updated its Privacy Policy . uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our Privacy Policy . You may disable these technologies by clicking .
+AIMore on Support
+Cloud Marketplace
+Cloud Volumes for Google
+Cloud Volumes for AWS
+Cloud Volumes ONTAP
+Cloud Insights
+Data Storage Software
+Data Software
+Data Management Software
+SANtricity Software
+Data Infrastructure Management
+OnCommand Insight
+OnCommand Unified Manager
+OnCommand Workflow Automation
+OnCommand Cloud Manager
+Virtual Infrastructure Management
+Active Predictive Analytics and Support
+Data Backup and Recovery
+Data Availability Services
+SnapCenter Backup Management
+SnapMirror Data Replication
+MetroCluster Business Continuity
+SnapLock Data Compliance
+Data Security
+storage-systems
+ Data Storage Systems
+StorageObject Storage
+FlexArray Storage Virtualization
+Disk Shelves and Storage Media
+Hybrid Flash Storage
+Integrate Cloud Data Services
+DevOps
+Cloud and SaaBackup
+Deliver Data Insights and Control
+Performance Management and Analytics
+Simplify and Automate Virtualization Workloads
+Red Hat OpenShift
+OpenStack Private Cloud
+VMware Private Cloud
+Accelerate Your DevOps Journey
+Software Development Lifecycle (SDLC)
+Code and Artifact Repository
+Continuous Integration/Continuous Delivery (CI/CD)
+Configuration and Resource Management
+Protect and Secure Data
+Business Continuity/Disaster Recovery
+Data Security
+Data Compliance
+gaindataeff
+Gain Data Center Efficiencies
+Data Center Consolidation
+Virtual Server Infrastructure
+Optimize Unstructured Data
+Rich Content Management 
+Distributed Content Management
+Accelerate Workloads and Analytics
+Engineering and Design Applications
+Россия
+uses cookies and similar technologies to improve and customize your online experience. By continuing to use this site, you consent to our use of cookies, as described in our 
+What if don't like cookies?
+has recently updated its 
+. uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our 
+Our Team Is Data Driven
+You have a vision for digital transformation. We help you make it all possible.
+About Drive Value with Data
+Your data holds a wealth of opportunity. Harness it, and you create more value across your organization.
+Data that’s united lets you expand customer touchpoints, foster new innovations, and optimize your operations.
+Gain Insight, Access, and Control
+In a world transformed by digital technology, you can’t move ahead with data in silos. You need fast insights, seamless access, and the peace of mind of knowing your data is protected and within your control. 
+delivers the data management solutions that help you unleash the full potential of your data.
+Is the Data Authority in the Hybrid Cloud.
+Harness the Power of the Hybrid Cloud
+Take advantage of all resources to enhance your business
+Build a Next Generation Data Center
+Simplify, accelerate and scale application deployment
+Modernize Storage Through Data Management
+Improve data center performance and gain efficiency
+Meet the Data Visionaries
+“has helped us think strategically about how we can use technology to transform our business and better meet the needs of our customers.”
+Create Competitive Advantage with the Data Fabric
+We give you the ability to optimize the way you manage, apply, and recover your data, no matter where you want the data to reside.
+Designed for Simplicity
+We give you the data insight, access, and control you need to move data seamlessly between environments. Our pricing options provide flexibility as you grow.
+Created to Embrace New Opportunities
+Your future is data driven. Our unique perspective and experience with data drive us to invest in solutions that will enable you to move forward with confidence.
+Our Data Fabric platform is open by design, supported by an extensive network of partners, so you can choose what works best for you.
+Access summary information about our business and financial performance and FAQs for shareowners.
+Meet the leaders at the forefront of helping our customers transform for the digital age.
+If you're data-driven, discover why a career is the perfect fit for you.
+Learn what’s new in the world of data management for the hybrid cloud.
+Join us for a customized briefing.
+Browse events—live, online, and on demand—on the calendar.
+Corporate Social Responsibility
+How to Buy
+Partner With Public Sector Contracts
+E-Based Partners
+OnDemand Consumption
+Data Visionary Centers
+© 2019 netapp-globe
+Let us knowMore on Support
+Cloud Marketplace
+Cloud Volumes for Google
+Cloud Volumes for AWS
+Cloud Volumes ONTAP
+Cloud Insights
+Data Storage Software
+Data Software
+Data Management Software
+SANtricity Software
+Data Infrastructure Management
+OnCommand Insight
+OnCommand Unified Manager
+OnCommand Workflow Automation
+OnCommand Cloud Manager
+Virtual Infrastructure Management
+Active Predictive Analytics and Support
+Data Backup and Recovery
+Data Availability Services
+SnapCenter Backup Management
+SnapMirror Data Replication
+MetroCluster Business Continuity
+SnapLock Data Compliance
+Data Security
+storage-systems
+ Data Storage Systems
+StorageObject Storage
+FlexArray Storage Virtualization
+Disk Shelves and Storage Media
+Hybrid Flash Storage
+Integrate Cloud Data Services
+DevOps
+Cloud and SaaBackup
+Deliver Data Insights and Control
+Performance Management and Analytics
+Simplify and Automate Virtualization Workloads
+Red Hat OpenShift
+OpenStack Private Cloud
+VMware Private Cloud
+Accelerate Your DevOps Journey
+Software Development Lifecycle (SDLC)
+Code and Artifact Repository
+Continuous Integration/Continuous Delivery (CI/CD)
+Configuration and Resource Management
+Protect and Secure Data
+Business Continuity/Disaster Recovery
+Data Security
+Data Compliance
+gaindataeff
+Gain Data Center Efficiencies
+Data Center Consolidation
+Virtual Server Infrastructure
+Optimize Unstructured Data
+Rich Content Management 
+Distributed Content Management
+Accelerate Workloads and Analytics
+Engineering and Design Applications
+Россия
+uses cookies and similar technologies to improve and customize your online experience. By continuing to use this site, you consent to our use of cookies, as described in our 
+What if don't like cookies?
+has recently updated its 
+. uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our 
+Data Visionary Centers
+Personalized experiences, 
+solutions-oriented
+Join us for a strategic, personalized engagement that turns challenges into data-driven opportunities.
+Data Visionary Center
+ offers access to company executives plus the opportunity to tour the                         data center. Need more reasons to visit the Sunnyvale DVC?
+Executive Briefing Center
+ site houses the STAR® data centers, Global
+                        Support Center and Customer Proof of Concept lab.
+and SolidFire deep dives
+Customer Meeting Center
+ focuses on and Solidfire deep-dive meetings.
+Executive Briefing Center
+ is near the Schiphol Airport at our European headquarters.
+Boeing Avenue 300
+Schiphol-Rijk
+Our largest R&facility
+Data Visionary Engineering Center
+ is located in NetApp’s largest R&facility outside the U.S.
+“Presenters all had the right level of technical depth and provided great context. Ability of to call in
+                additional presenters to cover our support was great.”
+Director Purchasing and Procurement, global trading firm
+“When we can sit together and work through strategic planning and business challenges, that’s true partnering.”
+Head of Hosting, healthcare company
+“was incredible! Very well organized and all of the content was relevant to our business.”
+Infrastructure, call center company
+“Far exceeded my expectations. This was the best briefing I’ve ever been to in my 30 years of doing IT.”
+Sr. Systems Engineer, natural resources company
+“very good and informative day. Topics were spot-on and presented in a clear manner. It was nice to see the
+                hardware hands-on and see how it worked without relying on slides.”
+Infrastructure Analyst, healthcare company
+“It was well worth the trip up. Thoroughly enjoyed it. has some exciting things relevant to our pain
+Sr. Manager, driver risk management company
+Bring your digital journey to life via a customized meeting with executives and subject-matter experts.
+Learn how data can enable new customer touchpoints, create innovative business opportunities, and optimize
+Dive deep and get hands-on with your choice of topics--from storage to cloud data services to cloud infrastructure.
+Need 10 Good Reasons to visit a Data Visionary Center?
+Gain access to a wide array of knowledgeable and skilled subject matter experts.
+What’s the difference between the Data Visionary Center and Executive Briefing Centers?
+The at our Sunnyvale, headquarters is our largest and most immersive center. The EBCs, located around
+                  the globe, offer a variety of experiences, including data center tours and solution-specific deep-dives.
+How do you customize the meeting to my organization and me?
+Prior to the meeting, we gather your challenges and areas of interest and then build you a unique agenda.
+                  We align our briefing resources to best address your specific needs. You leave with an action plan tailored
+                  to your business and technology goals.
+Why should invest my time in a briefing at NetApp?
+Attending a executive briefing will minimize the time it takes your organization to make informed
+                  decisions and plan for the future. It’s also the best way to learn about technology and products,
+                  as well as industry trends.
+What should expect from a briefing?
+Expect to collaborate with our executives and subject-matter experts in a discussion tailored to you. We’ll
+                  show you how to make a difference with data and make informed decisions on improving your business operations.
+                  Come prepared with your questions, and be ready for a lively discussion.
+Who should attend a briefing?
+briefings are designed for executives as well as technical professionals. All briefings are customized
+                  to your needs. They can be as high-level and strategic or as technical and hands-on as you like.
+Are briefings just for current customers?
+Not at all. As technology continues to transform at astounding rates, it’s critical that we work collaboratively
+                  with existing customers, partners, and future clients to understand how our technology and innovations
+                  can help you manage and benefit from data.
+Where can attend a briefing?
+ to start planning your or visit. We look forward to hosting you at one of
+Ready to get started?
+Contact your sales rep or partner, or click the button below to request a briefing. We look forward to hosting
+          you at one of our locations soon.
+Corporate Social Responsibility
+How to Buy
+Partner With Public Sector Contracts
+E-Based Partners
+OnDemand Consumption
+Data Visionary Centers
+© 2019 netapp-globe
+Let us knowMore on Support
+Cloud Marketplace
+Cloud Volumes for Google
+Cloud Volumes for AWS
+Cloud Volumes ONTAP
+Cloud Insights
+Data Storage Software
+Data Software
+Data Management Software
+SANtricity Software
+Data Infrastructure Management
+OnCommand Insight
+OnCommand Unified Manager
+OnCommand Workflow Automation
+OnCommand Cloud Manager
+Virtual Infrastructure Management
+Active Predictive Analytics and Support
+Data Backup and Recovery
+Data Availability Services
+SnapCenter Backup Management
+SnapMirror Data Replication
+MetroCluster Business Continuity
+SnapLock Data Compliance
+Data Security
+storage-systems
+ Data Storage Systems
+StorageObject Storage
+FlexArray Storage Virtualization
+Disk Shelves and Storage Media
+Hybrid Flash Storage
+Integrate Cloud Data Services
+DevOps
+Cloud and SaaBackup
+Deliver Data Insights and Control
+Performance Management and Analytics
+Simplify and Automate Virtualization Workloads
+Red Hat OpenShift
+OpenStack Private Cloud
+VMware Private Cloud
+Accelerate Your DevOps Journey
+Software Development Lifecycle (SDLC)
+Code and Artifact Repository
+Continuous Integration/Continuous Delivery (CI/CD)
+Configuration and Resource Management
+Protect and Secure Data
+Business Continuity/Disaster Recovery
+Data Security
+Data Compliance
+gaindataeff
+Gain Data Center Efficiencies
+Data Center Consolidation
+Virtual Server Infrastructure
+Optimize Unstructured Data
+Rich Content Management 
+Distributed Content Management
+Accelerate Workloads and Analytics
+Engineering and Design Applications
+Россия
+uses cookies and similar technologies to improve and customize your online experience. By continuing to use this site, you consent to our use of cookies, as described in our 
+What if don't like cookies?
+has recently updated its 
+. uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our 
+Lifecycle Management for Distributed Content Repositories
+Lower cost. Greater control. Easy access.
+Optimize your workflows with rich-media management solutions. Reduce your overall costs for managing large quantities of globally distributed rich-media content.
+Simplify data management.
+Leverage single-policy–based management of repositories spanning both on-site and off-site storage.
+Integrate with existing media-asset management systems.
+Integrate both private and public clouds.
+Take advantage of globally distributed content repositories for media and entertainment companies.
+Simplify your life with a single point of management for extremely large distributed content repositories.
+Lower the cost of data management.
+Use a private cloud content repository at less cost than public cloud.
+Work with flexible purchasing options that include purchase and subscription based.
+Reduce by 80%.
+Automate your media-asset management.
+NetApp® StorageGRID® automatically places your rich-media content in the right location, at the right time, on the right storage tier.
+The result? Optimized workflows and lower overall costs for globally distributed rich media.
+Rich Partner Ecosystem
+Integrate directly to Storageusing the S3 protocol to intuitively manage rich media.
+Create, manage, and distribute content over the air, via satellite, and to “second” screens such as PCs, mobile phones, and tablets.
+Integrate multiple workflows and formats for news, sports, programs, VOD, and archives under one fluid system.
+See How Our Customers Manage Rich Media
+Learn how ProSiebenSat.1 provides its customers with technical innovations and creative ideas for making, archiving, and broadcasting television content.
+Builds New, Innovative Cloud Services on Gartner Report: The Future of Object Storage
+The object storage market has gained momentum. Understand recent developments in both on-premises and public cloud environments—and their importance for staying ahead.
+Connect with StorageCommunity
+Learn from your peers about the latest Storagefeatures.
+Stay up to date on a variety of unstructured-data–related topics.
+thePub brings together brewmasters like you: the developers and automation experts who make technology go.
+Corporate Social Responsibility
+How to Buy
+Partner With Public Sector Contracts
+E-Based Partners
+OnDemand Consumption
+Data Visionary Centers
+© 2019 netapp-globe
+Let us knowMore on Support
+Cloud Marketplace
+Cloud Volumes for Google
+Cloud Volumes for AWS
+Cloud Volumes ONTAP
+Cloud Insights
+Data Storage Software
+Data Software
+Data Management Software
+SANtricity Software
+Data Infrastructure Management
+OnCommand Insight
+OnCommand Unified Manager
+OnCommand Workflow Automation
+OnCommand Cloud Manager
+Virtual Infrastructure Management
+Active Predictive Analytics and Support
+Data Backup and Recovery
+Data Availability Services
+SnapCenter Backup Management
+SnapMirror Data Replication
+MetroCluster Business Continuity
+SnapLock Data Compliance
+Data Security
+storage-systems
+ Data Storage Systems
+StorageObject Storage
+FlexArray Storage Virtualization
+Disk Shelves and Storage Media
+Hybrid Flash Storage
+Integrate Cloud Data Services
+DevOps
+Cloud and SaaBackup
+Deliver Data Insights and Control
+Performance Management and Analytics
+Simplify and Automate Virtualization Workloads
+Red Hat OpenShift
+OpenStack Private Cloud
+VMware Private Cloud
+Accelerate Your DevOps Journey
+Software Development Lifecycle (SDLC)
+Code and Artifact Repository
+Continuous Integration/Continuous Delivery (CI/CD)
+Configuration and Resource Management
+Protect and Secure Data
+Business Continuity/Disaster Recovery
+Data Security
+Data Compliance
+gaindataeff
+Gain Data Center Efficiencies
+Data Center Consolidation
+Virtual Server Infrastructure
+Optimize Unstructured Data
+Rich Content Management 
+Distributed Content Management
+Accelerate Workloads and Analytics
+Engineering and Design Applications
+Россия
+uses cookies and similar technologies to improve and customize your online experience. By continuing to use this site, you consent to our use of cookies, as described in our 
+What if don't like cookies?
+has recently updated its 
+. uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our 
+Corporate Social Responsibility
+Committed to a Sustainable Future
+Environment, Social and Governance
+Corporate Social Responsibility
+Business success is evolving beyond profits and share price. It is now also measured by an organization’s impact on people, communities, and the environment. strives to be responsible both to shareholders and the world. Our success is driven by economic results as well as our behaviors.
+We support and respect our people and communities.
+Global Diversity, Inclusion, and Belonging
+We fully embrace and advance a diverse, inclusive global workforce with a culture of belonging that leverages the backgrounds and perspectives of all employees, customers, partners, and communities to cultivate a higher performing organization.
+We are passionate about creating a stimulating and supportive work environment for you.
+Philanthropy and Community Relations
+With VTO, employees can volunteer up to 40 paid hours each year. In 2017, employees volunteered 60,000 hours.
+makes grants that connect the company and its employees to the needs of our local communities.
+Last year, made $1 million in grants to non-profit and educational institutions around the world.
+Managing our natural resources responsibly is a duty we owe to future generations.
+Sustainable Operations
+submits questionnaires annually for CDP’s climate change, water and supply chain categories.
+has earned ratings for all of Sunnyvale and Research Triangle Park buildings.
+In Sunnyvale, received Platinum for Building 2 and Gold for Buildings 1 and 3.
+Product Quality and Compliance
+We strive to provide products that exceed environmental standards. Our statements on European Union's WEEE, Roand directives demonstrate our compliance. Many of our storage systems are certified. 
+View Statements and Certifications
+We are committed to making accessible products, following standards defined by Rehabilitation Act, Section 508.
+Supply Chain Management
+Our commitment to human rights is outlined in our 
+Supplier Code of Conduct
+suppliers conduct their business according to our 
+Supplier Code of Conduct
+suppliers comply with and support our 
+Conflict Mineral Policy
+Our business practices reflect our belief in always doing the right thing.
+is defined not just by what we do, but also by who we are and how we do it. Our Code of Conduct was developed based on our values. It reflects our culture and commitment to doing things right, everywhere we operate.
+We follow a set of values to guide our actions, including the responsibility to conduct ourselves with the highest ethical standards regarding customers, partners, employees, investors, and communities. We believe our governance practices meet or exceed standards defined in proposed and recently enacted legislation.
+Privacy and Data Security
+recognizes privacy as a fundamental human right. We are committed to protecting the privacy of our customers and employees. We respect and protect the personal data entrusted to us in accordance with applicable laws on data privacy and data security.
+Get the inside scoop about what it’s like to work at NetApp.
+Corporate Social Responsibility
+How to Buy
+Partner With Public Sector Contracts
+E-Based Partners
+OnDemand Consumption
+Data Visionary Centers
+© 2019 netapp-globe
+Let us knowMore on Support
+Cloud Marketplace
+Cloud Volumes for Google
+Cloud Volumes for AWS
+Cloud Volumes ONTAP
+Cloud Insights
+Data Storage Software
+Data Software
+Data Management Software
+SANtricity Software
+Data Infrastructure Management
+OnCommand Insight
+OnCommand Unified Manager
+OnCommand Workflow Automation
+OnCommand Cloud Manager
+Virtual Infrastructure Management
+Active Predictive Analytics and Support
+Data Backup and Recovery
+Data Availability Services
+SnapCenter Backup Management
+SnapMirror Data Replication
+MetroCluster Business Continuity
+SnapLock Data Compliance
+Data Security
+storage-systems
+ Data Storage Systems
+StorageObject Storage
+FlexArray Storage Virtualization
+Disk Shelves and Storage Media
+Hybrid Flash Storage
+Integrate Cloud Data Services
+DevOps
+Cloud and SaaBackup
+Deliver Data Insights and Control
+Performance Management and Analytics
+Simplify and Automate Virtualization Workloads
+Red Hat OpenShift
+OpenStack Private Cloud
+VMware Private Cloud
+Accelerate Your DevOps Journey
+Software Development Lifecycle (SDLC)
+Code and Artifact Repository
+Continuous Integration/Continuous Delivery (CI/CD)
+Configuration and Resource Management
+Protect and Secure Data
+Business Continuity/Disaster Recovery
+Data Security
+Data Compliance
+gaindataeff
+Gain Data Center Efficiencies
+Data Center Consolidation
+Virtual Server Infrastructure
+Optimize Unstructured Data
+Rich Content Management 
+Distributed Content Management
+Accelerate Workloads and Analytics
+Engineering and Design Applications
+Россия
+uses cookies and similar technologies to improve and customize your online experience. By continuing to use this site, you consent to our use of cookies, as described in our 
+What if don't like cookies?
+has recently updated its 
+. uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our 
+Configuration and Resource Management
+Your resources. Your tools. Your way.
+DevOps
+Configuration and Resource management
+Deliver consistent environments in the development-and-test processes via deep third-party integrations.
+Configure your infrastructure—easy and painless.
+Learning curve? Forget it. Use familiar tools to automate and configure your storage infrastructure—whether you’re improving operations or supporting continuous deployment of business-driving applications.
+NetApp® integrations with partners like Ansible, Puppet, and Chef mean you deliver a consistent storage environment—no matter the workload.
+Enhance collaboration between Dev and Ops.
+Configuration-management solutions let you drive a collaborative culture: Developers can take charge of some of their own infrastructure requirements while operations maintains the visibility it needs
+Eliminate time-consuming and error-prone handoffs. Let everyone focus where they create the most value. Change becomes more transparent, reviewable, and easier to roll back.
+Achieve infrastructure agility and consistency with Ansible modules for NetApp.
+With Ansible, customers simplify the automation of their storage tasks. Ansible is essential to address rapidly changing demands on your storage infrastructure—especially when adopting a DevOps framework.
+Reduce environment discrepancies that kill productivity. Roll storage-infrastructure configurations into your CI/processes and application configurations for maximum agility with over 60 Ansible modules for NetApp.
+Third-party Tool Integration
+Automate apps and infrastructure 
+ modules for Element and software.
+Deliver the shortest path to better software with 
+Puppet integrations
+ for SolidFire, AFF, and ONTAP® software.
+Drive infrastructure through code with 
+2017 Storage Automation Report
+See how professionals in your industry are leveraging automation in the next-generation data center.
+Take the next step—request a demo.
+representative will contact you to discuss your requirements and schedule a customized demo.
+Connect with Developers at thePub
+thePub brings together brewmasters like you: the developers and automation experts who make technology go.
+Get the Latest
+Stay up to date on a variety of DevOps and Open Source related topics.
+Browse events—live, online, and on demand—on the calendar.
+Corporate Social Responsibility
+How to Buy
+Partner With Public Sector Contracts
+E-Based Partners
+OnDemand Consumption
+Data Visionary Centers
+© 2019 netapp-globe
+Let us knowMore on Support
+Cloud Marketplace
+Cloud Volumes for Google
+Cloud Volumes for AWS
+Cloud Volumes ONTAP
+Cloud Insights
+Data Storage Software
+Data Software
+Data Management Software
+SANtricity Software
+Data Infrastructure Management
+OnCommand Insight
+OnCommand Unified Manager
+OnCommand Workflow Automation
+OnCommand Cloud Manager
+Virtual Infrastructure Management
+Active Predictive Analytics and Support
+Data Backup and Recovery
+Data Availability Services
+SnapCenter Backup Management
+SnapMirror Data Replication
+MetroCluster Business Continuity
+SnapLock Data Compliance
+Data Security
+storage-systems
+ Data Storage Systems
+StorageObject Storage
+FlexArray Storage Virtualization
+Disk Shelves and Storage Media
+Hybrid Flash Storage
+Integrate Cloud Data Services
+DevOps
+Cloud and SaaBackup
+Deliver Data Insights and Control
+Performance Management and Analytics
+Simplify and Automate Virtualization Workloads
+Red Hat OpenShift
+OpenStack Private Cloud
+VMware Private Cloud
+Accelerate Your DevOps Journey
+Software Development Lifecycle (SDLC)
+Code and Artifact Repository
+Continuous Integration/Continuous Delivery (CI/CD)
+Configuration and Resource Management
+Protect and Secure Data
+Business Continuity/Disaster Recovery
+Data Security
+Data Compliance
+gaindataeff
+Gain Data Center Efficiencies
+Data Center Consolidation
+Virtual Server Infrastructure
+Optimize Unstructured Data
+Rich Content Management 
+Distributed Content Management
+Accelerate Workloads and Analytics
+Engineering and Design Applications
+Россия
+uses cookies and similar technologies to improve and customize your online experience. By continuing to use this site, you consent to our use of cookies, as described in our 
+What if don't like cookies?
+has recently updated its 
+. uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our 
+Performance Management and Analytics Solutions
+Define, measure, and improve your service delivery.
+Performance Management and Analytics Solutions
+Identify risks—before they become problems.
+Get out ahead of the game. Our Performance Management and Analytics solution makes it easy for you to:
+Proactively detect anomalous behavior based on machine learning.
+Monitor performance for the entire infrastructure stack supporting applications.
+React quickly when performance issues arise, notifying the right people at the right time so they can take corrective action:
+Receive event notifications based on custom policy thresholds that you define across the compute, switch, and storage elements being monitored.
+Intelligently alert relevant staff only when required.
+Understand performance across your hybrid cloud.
+Gain the increased confidence that comes with global visibility:
+Visualize performance of your workloads across the hybrid cloud.
+Conduct workload analysis for accurate on- and off-premises data migrations.
+OnCommand Insight
+Leverage an open platform for on-premises and hybrid-cloud–based data center management. Gain valuable business insights.
+Find the Expertise You Need
+Consult an expert.
+Get strategic and performance insights into your current application workloads and analytics with actionable recommendations for improvement.
+Architect your solution.
+Build and implement a solution that will reduce costs and significantly improve application performance and storage operations.
+Operate and manage your solution.
+Drive operational excellence. Proactively address potential issues before they cause disruption.
+OnCommand Insight (OCI) Hands-On Demo
+Build dashboards and reports to visualize hybrid-cloud infrastructures.
+NetApp® solutions accelerate your business transformation to cloud storage.
+is a strategic hybrid-cloud data-services partner for Microsoft Azure.
+Turn Data into Insights
+Check out part 1 of a three-part series on Infrastructure analytics.
+Browse events—live, online, and on demand—on the calendar.
+Corporate Social Responsibility
+How to Buy
+Partner With Public Sector Contracts
+E-Based Partners
+OnDemand Consumption
+Data Visionary Centers
+© 2019 netapp-globe
+Let us knowMore on Support
+Cloud Marketplace
+Cloud Volumes for Google
+Cloud Volumes for AWS
+Cloud Volumes ONTAP
+Cloud Insights
+Data Storage Software
+Data Software
+Data Management Software
+SANtricity Software
+Data Infrastructure Management
+OnCommand Insight
+OnCommand Unified Manager
+OnCommand Workflow Automation
+OnCommand Cloud Manager
+Virtual Infrastructure Management
+Active Predictive Analytics and Support
+Data Backup and Recovery
+Data Availability Services
+SnapCenter Backup Management
+SnapMirror Data Replication
+MetroCluster Business Continuity
+SnapLock Data Compliance
+Data Security
+storage-systems
+ Data Storage Systems
+StorageObject Storage
+FlexArray Storage Virtualization
+Disk Shelves and Storage Media
+Hybrid Flash Storage
+Integrate Cloud Data Services
+DevOps
+Cloud and SaaBackup
+Deliver Data Insights and Control
+Performance Management and Analytics
+Simplify and Automate Virtualization Workloads
+Red Hat OpenShift
+OpenStack Private Cloud
+VMware Private Cloud
+Accelerate Your DevOps Journey
+Software Development Lifecycle (SDLC)
+Code and Artifact Repository
+Continuous Integration/Continuous Delivery (CI/CD)
+Configuration and Resource Management
+Protect and Secure Data
+Business Continuity/Disaster Recovery
+Data Security
+Data Compliance
+gaindataeff
+Gain Data Center Efficiencies
+Data Center Consolidation
+Virtual Server Infrastructure
+Optimize Unstructured Data
+Rich Content Management 
+Distributed Content Management
+Accelerate Workloads and Analytics
+Engineering and Design Applications
+Россия
+uses cookies and similar technologies to improve and customize your online experience. By continuing to use this site, you consent to our use of cookies, as described in our 
+What if don't like cookies?
+has recently updated its 
+. uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our 
+Manage your exploding unstructured-data growth.
+Distribute. Collaborate. Innovate.
+Create a global namespace for collaborative workflows that speed innovation.
+For enterprises: Lower the cost of petabyte-scale data management.
+Create a geo-distributed single pool of storage for collaboration and efficiency.
+Reduce by 75% through NetApp® StorageGRID® integrated lifecycle management.
+Automate and integrate into your existing environment.
+For service providers: Create compelling new services that help drive better margins and win new customers.
+Manage your data as its value changes over time.
+Place data on the optimal storage tier in a multitenant environment.
+Distribute content across multiple geographically dispersed sites for data protection.
+Control privacy, availability, and sovereignty of your distributed media.
+Place content in the right location, at the right time, on the right storage tier.
+Optimize workflows and reduce overall costs for the Internet of Things (IoT) design process.
+Automate General Data Protection Regulation (GDPR) requirements and workflows.
+See how our customers manage distributed content.
+Leveraging new services based on technology, customers can manage their cloud data from an easy-to-use portal—saving up to 75% on storage costs.
+Rich Partner Ecosystem
+Create, deploy, and manage storage-as-a-service solutions, including enterprise file sync and share, endpoint backup, mobile collaboration, and storage.
+Combine the economics of cloud storage with the power and control of a truly global, enterprise-wide data repository. Leverage sophisticated project discovery, analysis, archiving, and retrieval.
+Automate system-to-system file movement at scale, allowing the exchange of content and metadata files with other users, systems, and applications.
+Gartner Report: The Future of Object Storage
+The object-storage market has gained momentum. Understand recent developments in both on-premises and public cloud environments—and their importance for staying ahead.
+Connect with StorageCommunity
+Learn from your peers about the latest Storagefeatures.
+Stay up to date on a variety of unstructured-data–related topics.
+thePub brings together brewmasters like you: the developers and automation experts who make technology go.
+Corporate Social Responsibility
+How to Buy
+Partner With Public Sector Contracts
+E-Based Partners
+OnDemand Consumption
+Data Visionary Centers
+© 2019 netapp-globe
+Let us knowMore on Support
+Cloud Marketplace
+Cloud Volumes for Google
+Cloud Volumes for AWS
+Cloud Volumes ONTAP
+Cloud Insights
+Data Storage Software
+Data Software
+Data Management Software
+SANtricity Software
+Data Infrastructure Management
+OnCommand Insight
+OnCommand Unified Manager
+OnCommand Workflow Automation
+OnCommand Cloud Manager
+Virtual Infrastructure Management
+Active Predictive Analytics and Support
+Data Backup and Recovery
+Data Availability Services
+SnapCenter Backup Management
+SnapMirror Data Replication
+MetroCluster Business Continuity
+SnapLock Data Compliance
+Data Security
+storage-systems
+ Data Storage Systems
+StorageObject Storage
+FlexArray Storage Virtualization
+Disk Shelves and Storage Media
+Hybrid Flash Storage
+Integrate Cloud Data Services
+DevOps
+Cloud and SaaBackup
+Deliver Data Insights and Control
+Performance Management and Analytics
+Simplify and Automate Virtualization Workloads
+Red Hat OpenShift
+OpenStack Private Cloud
+VMware Private Cloud
+Accelerate Your DevOps Journey
+Software Development Lifecycle (SDLC)
+Code and Artifact Repository
+Continuous Integration/Continuous Delivery (CI/CD)
+Configuration and Resource Management
+Protect and Secure Data
+Business Continuity/Disaster Recovery
+Data Security
+Data Compliance
+gaindataeff
+Gain Data Center Efficiencies
+Data Center Consolidation
+Virtual Server Infrastructure
+Optimize Unstructured Data
+Rich Content Management 
+Distributed Content Management
+Accelerate Workloads and Analytics
+Engineering and Design Applications
+Россия
+uses cookies and similar technologies to improve and customize your online experience. By continuing to use this site, you consent to our use of cookies, as described in our 
+What if don't like cookies?
+has recently updated its 
+. uses third-party applications to personalize and secure your web site experience. By continuing to use this site you consent to our use of these technologies as outlined in our 
+Capacity Management Analytic Solutions
+Target your spend and resources with accuracy.
+Capacity Management Analytic Solutions
+Increase utilization. Save money.
+Gain visibility into utilization. Empower your storage teams to manage capacity and efficiently dispense capital.
+Plan and justify new infrastructure investments based on trend analysis for performance and cost.
+Save money by increasing utilization of existing resources. Avoid overspending and defer capital expenditures.
+Rationalize investments through granular cost reporting across your entire infrastructure.
+Accurately plan for the future.
+Identify trends in resource allocation and capacity consumption by application, business unit, individual, and more.
+Plan and justify new purchases.
+Avoid overspending and defer capital expenditures.
+Get the Big Picture: OnCommand Insight.
+Determine what and when to buy. OnCommand® Insight makes it easy by giving you a global view of your storage infrastructure. So you can track your data infrastructure usage in multiple geographic locations simultaneously.
+Monitor hybrid cloud capacity, performance, and cost trends.
+Align costs with service levels. Provide showback reporting.
+Leverage a centralized view into historical trends to forecast performance and capacity requirements.
+“We chose for the Digital for All program because our relationship was key to its success. was efficient in delivering products and solutions to our employees.”
+Thierry Pinart | Deputy CEO, Investment Banking Private Banking, and Investor Services, Société Générale
+Enhance Management with Infrastructure Analytics
+Learn how the right analytics software will help you gain new insights into your infrastructure and improve control of your data in a hybrid cloud.
+Antigua and Barbuda
+Aruba
+Bosnia and Herzegovina
+British Indian Ocean Territory
+France Metropolitan
+French Southern Territories
+Libyan Arab Jamahiriya
+Macau (region/area)
+St. Pierre and Miquelon
+Svalbard and Jan Mayen Islands
+Taiwan (region/area)
+Tanzania United Republic of
+Tokelau
+Turks and Caicos Islands
+United States
+Director Data Center
+Director Non-Technical
+Other - Non-Technical
+Other - Technical
+Vice President
+Big Data
+Data Protection
+Midsize Business
+Private Cloud
+Relationship To Application Provider
+Business Services: Market Research & Consulting
+Business Services: Outsourcing & Hosting
+Education: Higher Education
+Energy and Natural Resources: Mining
+Energy and Natural Resources: Oil & Gas
+Energy and Natural Resources: Utilities
+Energy and Natural Resources
+Financial Services: Securities and Investment Svcs
+Healthcare: Healthcare providers
+Healthcare: Medical Equipment & Supplies
+Life Sciences: Biotech
+Life Sciences: Pharma
+Manufacturing: Aerospace & Defense
+Manufacturing: Automotive
+Manufacturing: Chemical and Raw Material
+Manufacturing: Consumer Products
+Manufacturing: Hi Tech Hardware
+Manufacturing: Misc Discrete Manufacturing
+Manufacturing: Process Manufacturing
+Manufacturing: Software Development
+Transportation & Shipping
+Company Size
+3001-5000
+Antigua and Barbuda
+Aruba
+Bosnia and Herzegovina
+British Indian Ocean Territory
+France Metropolitan
+French Southern Territories
+Libyan Arab Jamahiriya
+Macau (region/area)
+St. Pierre and Miquelon
+Svalbard and Jan Mayen Islands
+Taiwan (region/area)
+Tanzania United Republic of
+Tokelau
+Turks and Caicos Islands
+United States
+Support these Cloud Environments
+solutions accelerate your business transformation to cloud storage.
+is a strategic hybrid-cloud data-services partner for Microsoft Azure.
+Find the Expertise You Need
+Consult an expert.
+Get strategic and design insights into your current application workloads and analytics with actionable recommendations for improvement.
+Architect your solution.
+Build and implement a capacity solution that will reduce costs and significantly improve application performance and storage operations.
+Operate and manage your solution.
+Drive operational excellence. Proactively address potential issues before they cause disruption.
+Turn Data into Insights
+Check out part 1 of a three-part series on Infrastructure analytics.
+Browse events—live, online, and on demand—on the calendar.
+Corporate Social Responsibility
+How to Buy
+Partner With Public Sector Contracts
+E-Based Partners
+OnDemand Consumption
+Data Visionary Centers
+© 2019 netapp-globe

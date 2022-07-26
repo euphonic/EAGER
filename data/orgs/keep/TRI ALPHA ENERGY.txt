@@ -1,0 +1,107 @@
+Technologies is committed to creating a sustainable future for us all. We began our research into fusion nearly 20 years ago, and built our company with commercialization in mind. Our solution is clean, compact, affordable – and safe in every way. In short: Friendly Fusion.
+Technologies latest generator is named after our late intellectual co-founder, Dr. Norman Rostoker.
+He envisioned the path to clean, commercial fusion nearly two decades ago. Today’s working machine is nearly identical to his original model.
+Since unveiling Norman in July 2017, we have performed over 3,000 experiments with the machine.
+Our current work with Norman is focused on plasma merging and field-reverse configurations (FRCs) to achieve optimal, scalable conditions for fusion.
+From the Front Lines of Physics
+Dispatches from Technologies President, and technology co-founder, Michl Binderbauer, and a behind the scenes look into our research. Learn more about our latest achievement in merging and colliding field-reverse configurations (FRCs) here.
+Technologies recently welcomed the Department of and Secretary Rick Perry for a tour of our National Laboratory-scale platform, Norman. “It was an honor to host the Secretary and share with him our enthusiasm for the opportunities our fusion pathway can provide,” said Michl Binderbauer. 
+Technologies is proud to announce new executive appointments to lead the next phase of the company’s growth: Michl Binderbauer has been named Chief Executive Officer, assuming leadership from retiring Dr. Steven Specker. Former Chairman and Jeffrey Immelt joins the company’s Board of Directors.
+Technologies is proud to announce our first subsidiary company, Life Sciences, dedicated to advancing the potential of Boron Neutron Capture Therapy (BNCT). is a promising cancer treatment for head and neck, glioblastoma multiforme (GBM) and other cancers that are difficult or impossible to treat with traditional methods. The new company leverages our fusion breakthroughs for the next generation platform, and is poised to reshape world of oncology.
+Our Research Is Here To Help
+In our pursuit of fusion energy, we’ve published many significant research reports and papers in peer-reviewed journals. Search over 150 papers, including experimental results and theoretical science, in our research library.
+The [TAE] machine … will transform the world as
+The fusion process being pursued by [TAE] is clean, safe and reliable.
+Gleaning data from a hot ball of nothing that lasts for much, much less than the blink of an eye requires a lot of clever testing tools.
+[TAE] has shown the most progress among the start-ups in maintaining a consistent grip on a plasma.
+logos, and all other trademarks are the property of Technologies, Inc.In short: Friendly Fusion.
+Harnessing the process by which the stars release vast quantities of – through the fusion of hydrogen atoms in hot plasma – is one of the greatest scientific undertakings of our time. Indebted to the brilliant minds who pioneered fusion research, Technologies is developing proprietary techniques to reproduce nature’s process using hydrogen-boron as our fuel source. Why hydrogen-boron? Because both elements are readily available and non-radioactive. In fact, they are used by our bodies every day for healthy cell function.
+Over the last 20 years, we have continued to build on our early technology and evolve our advanced beam-driven field-reversed configuration (FRC) approach. The underlying science is being validated every day, and we are now rapidly approaching the reality of a commercially competitive fusion solution. This has resulted in an ever-increasing portfolio of over 800 patents, either granted or applied for globally.
+Technologies is backed by over half a billion dollars in venture capital from some of the world’s leading and technology investors – including New Enterprise Associates (NEA), Venrock, and Wellcome Trust. Our shareholders include Google, as well as global technology firms and universities – all of whom believe that the private sector is best equipped to create this public good.
+Only time remains for us to achieve our mission.
+Starting with the goal of a commercially competitive fusion power plant, their unique solution integrated the proven science and technology of the world’s particle accelerators (such as those at the European research organization CERN) with a well-understood plasma physics approach called field-reversed configuration (FRC).
+This was the core invention of Technologies.
+Drs. Rostoker and Binderbauer developed a fusion technology that – when combined with the hydrogen-boron fuel cycles, as emphasized by Professor Hendrik Monkhorst from the University of Florida – largely removes neutron generation, thus facilitating easier engineering and a safer environmental profile than conventional nuclear methods.
+The proprietary beam-driven approach utilizes injection of beams of high-hydrogen atoms to develop and sustain a predominantly large orbit particle plasma, making the system more stable, better confined and fusion more achievable. Further, this solution is compact and efficient, yielding a practical power plant size of 200-500 megawatts, and it is economically competitive with other power technologies, providing continuous baseload power generation.
+Creating fusion requires a superheated and contained plasma environment in which particles can fuse, releasing massive amounts of energy. The challenge that’s long bedeviled physicists on the path to fusion power is sustaining the reaction at sufficiently high for a long enough period of time.
+Technologies’ research is focused on achieving this Hot Enough, Long Enough (HELE) milestone. To date, we have run over 50,000 experiments to test and advance our hypotheses.
+The time component – the Long Enough (LE) part of the equation – is the most significant hurdle to sustaining the fusion reaction. In June 2015, Technologies achieved a scientific breakthrough by sustaining an advanced beam-driven plasma of over 10 million degrees (about the temperature of the core of our sun) for over 10 milliseconds, a timescale much longer than the time periods associated with all intrinsic loss mechanisms. This thereby demonstrated stability and confinement performance, when replicated at higher temperatures, will enable an economic reactor.
+Norman, our fifth-generation machine, posthumously named after Dr. Rostoker, will advance our research into the Hot Enough (HE) component of the milestone.
+It is a formidable challenge, indeed: Hydrogen-boron fusion requires considerably hotter conditions than other available source elements. However, we remain undaunted because hydrogen-boron is the safest known fuel cycle.
+The illustrious Technologies team includes physicists, engineers and deep specialists in areas like plasma theory and science; accelerator and beam physics; control and simulations; magnets, pulsed power and electronics; diagnostics, and ultra-high vacuum technologies. Our advisory panel includes numerous Nobel laureates, Maxwell Prize winners and members of the National Academies of Sciences and Engineering.
+Our is Michl Binderbauer who joined Technologies in 1998 as Chief Technology Officer. He is co-inventor and co-architect of many of the company’s foundational technologies. Our board is chaired by Arthur Samberg and includes Ernie Moniz; Jeffrey Immelt; John Mack; Dick Meserve; Ray Rothrock; Dick Kramlich; and Mike Buchanan, among others.
+Technologies is based out of state-of-the-art plasma research facilities in Orange County, California. We are a team of over 160, representing 30 countries of origin, on a mission to provide the world’s growing population with safe, sustainable and affordable energy.
+logos, and all other trademarks are the property of Technologies, Inc.Skip to content
+The Power of Ingenuity
+Board of Directors
+Friendly Fusion 101
+Board of Directors
+Friendly Fusion 101
+Founded on a philosophy of “Fast to Fusion,” Technologies has partnered with preeminent research institutions from around the world to accelerate our rate of learning, reduce future technical risks, and make the best use of key resources and expertise available in the fusion science and engineering communities. This approach has already begun to pay dividends with the C-2device.
+Technologies has ongoing collaborations including:
+Princeton University
+Theory and modeling of Field-Reversed Configuration (FRC) plasmas, development of plasma diagnostics
+University of California – Los Angeles
+Studies of plasma turbulence in and methods of advanced turbulence control
+University of California – Irvine
+Gyrokinetic code development and numerical simulations of plasma turbulence
+University of Wisconsin – Madison
+Materials research and radiation safety
+University of Pisa (Italy)
+Budker Institute (Russia)
+Neutral beams for plasma heating and current drive, plasma injectors for active boundary control, fast ion diagnostics, divertor physics
+Pelin, (Russia)
+Plasma refueling with cryogenic pellets
+Nihon University (Japan)
+Plasma refueling with compact toroid plasmas
+Some results of these collaborative efforts are featured in the following publications:
+Binderbauer et al., Phys Plasmas 22, 056110 (2015)
+Schmitz et al., Rev Sci Instrum 85, 11D840 (2014)
+Belova et al., APS-Meeting, New Orleans, LA, Oct 27-31, (2014)
+Granstedt et al., APS-Meeting, New Orleans, LA, Oct 27-31, (2014)
+Matsumoto et al., APS-Meeting, New Orleans, LA, Oct 27-31, (2014)
+Ivanov et al., Rev Sci Instrum 85, 02B102 (2014)
+Del Rosso et al., Optics Lett 37, 3855 (2012)
+Clary et al., Rev Sci Instrum 83, 10D713 (2012)
+Share with Twitter
+Unless otherwise noted, TAE, the and #fav# logos, and all other trademarks are the property of Technologies, Inc.
+The Power of Ingenuity
+Board of Directors
+Friendly Fusion 101
+Board of Directors
+Friendly Fusion 101
+Dr. Michl Binderbauer
+Chief Executive Officer
+Chief Information and Communications Officer
+Vice President, Finance
+Executive Assistant to CEO
+Chief Human Resources and Mission Support Operations Officer
+General Counsel
+Chief Technology Officer
+Dr. Toshiki Tajima
+Chief Science Officer
+Share with Twitter
+Unless otherwise noted, TAE, the and #fav# logos, and all other trademarks are the property of Technologies, Inc.
+The Power of Ingenuity
+Board of Directors
+Friendly Fusion 101
+Board of Directors
+Friendly Fusion 101
+Board of Directors
+Board of Directors
+Chairman of the Board; Managing Partner, Hawkes Financial Services
+Dr. Michl Binderbauer
+Chief Executive Officer, Technologies, Inc.
+Executive Chairman of Everywhere Inc.
+Chief Executive Officer, Buchanan Investments
+Anatoly Chubais
+Chairman of the Executive Board, Corporation
+Chairman, athenahealth; Venture Partner, New Enterprise Associates; Former Chairman & CEO, GE
+Chairman and General Manager, Kramlich Investment Company; Founding Partner, New Enterprise Associates
+Former Chairman of the Board and Chief Executive Officer, Morgan Stanley
+Dr. Richard Meserve
+President Emeritus, Carnegie Institution for Science; Former Chairman of Nuclear Regulatory Commission; Senior of Counsel, Covington and Burling LLP
+Dr. Ernest Moniz
+Cecil and Ida Green Professor of Physics and Engineering Systems emeritus, MIT; Former United States Secretary of Ray Rothrock
+Share with Twitter
+Unless otherwise noted, TAE, the and #fav# logos, and all other trademarks are the property of Technologies, Inc.

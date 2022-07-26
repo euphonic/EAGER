@@ -1,0 +1,142 @@
+Sample and Buy
+High-Precision DACs Consistently Hit the Mark
+One Least Significant Bit Could Have the Most Significant Impact
+Make the Connection
+Connecting to the World, With and Without Wires
+Effortless Design
+Easy-to-Use Embedded Intelligence Supported by World-Class Development Tools and Software
+New to Find
+Looking for a part or a development tool? We offer a variety of ways to find the solution you need.
+Want to see an easy way to get there? From key functions to full applications, let us show you the way.
+Compilers, programmers, debuggers, code configurators, analog design tools and more. We have everything you need to get started.
+Digitally Enhance Your Analog Controls
+No system can perform without reliable power supplies. Our Digitally Enhanced Power Analog (DEPA) family of products combine the performance of an analog Pulse-Width Modulation (PWM) controller with the configurability of an 8-bit PIC® Microcontroller (MCU).
+Flawless Performance in Harsh Environments
+Automotive and industrial applications require microcontrollers (MCUs) that can provide secure communication, real-time data delivery and robust operation in extreme temperatures and noisy environments. Our MCUs help preserve your software investments with their ability to work with a variety of protocols, while improving system reliability, safety and security.
+Want less hassle adding authentication and encryption capabilities to your design? The CEC1702 IoDevelopment Kit decreases development time for both the Device Identifier Composition Engine (DICE) and the Azure IoHub Device Provisioning Service (DPS).
+Announces Q1FY19 Financial Results
+MASTERs Conference Location & Dates
+Sample and Buy
+New to Microchip?
+Our Practice on Product Longevity
+Corporate Responsibility
+MicroSolutions Digital Magazine
+Environmental Health and Safety
+Procedure for Making a Claim of Copyright Infringement
+New to Microchip?
+microchipSoftware Provider Agreement
+New to Microchip?
+Welcome to Microchip's getting started page. Wherever you may be in your decision making process, we will do our best to help you find your way and provide you the freedom to innovate. We know it can be quite overwhelming, so we're here to make it easier to navigate the key components of our site and jumpstart your design.
+Getting Started with Microchip's Video Channel
+Who Is Microchip?
+What does make?
+Online, in-person or hands-on
+training from Microchip.
+Get source code
+Buy direct
+Program my parts
+How can we help?
+We are happy to assist you in getting started. 
+Please fill out the form
+United States of America  US
+Antigua and Barbuda  AG
+Aruba AW
+Bosnia and Herzegovina  BA
+Bouvet Island  BV
+British Indian Ocean Territory  IO
+Brunei Darussalam  BN
+Comoros KM
+Côte d'Ivoire  CI
+French Southern Territories  TF
+Ghana GH
+Guinea-Bissau GW
+Heard and Mcdonald Islands  HM
+Japan JP
+Micronesia, Federated States of  FM
+Philippines PH
+Saint-Barthélemy BL
+Saint-Martin (French part)  MF
+Saint Pierre and Miquelon  PM
+Saint Vincent and Grenadines  VC
+Sao Tome and Principe  ST
+Tanzania, United Republic of  TZ
+Tokelau TK
+Turks and Caicos Islands  TC
+Viet Nam  VN
+Hawaii HI
+New Hampshire  NH
+New Jersey  NJ
+North Carolina  NC
+District of Columbia  DC
+Federated States of Micronesia  FM
+New Brunswick  NB
+Newfoundland and Labrador  NL
+Northwest Territories  NT
+Nubavut NU
+General sales support
+Something else
+How would you like us to contact you?: 
+var isSitefinityPage = true; var pageDivisionValue = ''Inc. is a leading provider of microcontroller, analog, FPGA, connectivity and power management semiconductors. Its easy-to-use development tools and comprehensive product portfolio enable customers to create optimal designs which reduce risk while lowering total system cost and time to market. The company’s solutions serve more than 130,000 customers across the industrial, automotive, consumer, aerospace and defense, communications and computing markets. Headquartered in Chandler, Arizona, offers outstanding technical support along with dependable delivery and quality.
+Are you looking for a business partner, not just a vendor? 
+Do you want quality components?
+Successful companies recognize the value of a strategic supplier relationship to help them deliver innovative products to their markets in a timely manner. They trust their suppliers to furnish quality components for current design opportunities as well as provide road maps and innovative solutions to stay ahead of tomorrow’s design trends.
+Do you need additional memory or peripherals?
+Cut down your revision cycle time. Designing in Microchip’s devices allows easy migration throughout our entire portfolio of devices. Upgrading your product with drop-in replacements and reusable code has never been easier with our  MPLAB® Integrated Development Environment (IDE)  and similar pin-to-pin compatible devices*. Our easy-to-use product roadmaps display the migration path for every product family with specifications, peripherals and highlights to pinpoint the best range of devices.
+What is your application?
+Microchip’s product line is the solution for your embedded design needs. From cost-competitive Analog and Memory devices to performance PIC®Microcontrollers (MCUs) and dsPIC® Digital Signal Controllers (DSCs), our devices provide a custom fit in your cost-sensitive design. Quickly integrate our devices into applications from simple to complex. Our starter kits and free reference designs can help get you going.
+Use our new Advanced Parts Selector (MAPS) tool and Development Tools Selector (DTS) to review the entire product line and find the right devices wherever you are in the design cycle.
+Do you want the competitive edge?
+In today’s highly competitive market conditions, Microchip’s goal is to provide the best devices, value and support to reduce your risk and streamline your time to market. We’ve added resources to aid in every aspect of your design from start to finish with easy to use product selection tools, 24/7 global technical support, web-based on-line training, Regional Training Centers (RTC) and a well-trained team of field personnel. Our commitment to customer satisfaction is exemplified by the company’s ISO/TS-16949 qualifications. With our free evaluation samples and 24-hour inventory, pricing and ordering through microchipDIRECT, it’s never been easier to meet your product launch schedules.
+*Contact for details on migration strategy and product family compatibility.
+Sign up for MicroSolutions , our monthly e-newsletter, to receive the latest product updates and special announcements as well as exclusive discounts.
+Inc. The Embedded Control Solutions Company® Inc. is a leading provider of microcontroller and analog semiconductors, providing low-risk product development, lower total system cost and faster time to market for thousands of diverse customer applications worldwide. Headquartered in Chandler, Arizona, offers outstanding technical support along with dependable delivery and quality. http://www.microchip.com
+This Cookie Statement explains how and its group companies (collectively “Microchip”, "we", "us", and "ours") use cookies and similar technologies     to recognise you when you visit our websites, including those at www.microchip.com , www.microchipdirect.com , www.embeddedcodesource.com ,  or any successor URLs, and any mobile or localized versions and sub-domains  ("Websites").  It explains what these technologies are and why we use them, as well as your rights to control our use of them.  Except as     otherwise stated in this Cookies Statement, to the extent any personal information is collected through cookies or similar technologies, Microchip’s Privacy Policy applies.
+Cookies are small data files that are placed on your computer or mobile device when you visit a website.  Cookies are widely used by website owners to make their websites work, or to work more efficiently, as well as to provide reporting information. 
+Cookies set by the website owner (in this case, Microchip) are called "first party cookies".  Cookies set by parties other than the website owner are called "third party cookies".  Third party cookies enable third party features or functionality     to be provided on or through the website (e.g. like advertising, interactive content and analytics).  The parties that set these third party cookies can recognise your computer both when it visits the website in question and also when it visits     certain other websites. 
+We use first party and third party cookies for several reasons. Some cookies are required for technical reasons for our Websites to operate, and we refer to these as "essential" or "strictly necessary" cookies. Other cookies also enable us to track and     target the interests of our users to enhance the experience on our Websites.   Third parties serve cookies through our Websites for analytics and other purposes.  This is described in more detail below.
+The specific types of first and third party cookies served through our Websites and the purposes they perform are described in the table below (please note that the specific cookies served may vary depending on the specific Website you visit):
+Types of cookie
+Essential website cookies: These cookies are strictly necessary to provide you with services available through our Websites and to use some of its features, such as access to secure areas. 
+Because these cookies are strictly necessary to deliver the Websites to you, you cannot refuse them.
+You can block or delete them by changing your browser settings however, as described below under the heading "How can control cookies?".
+Performance and functionality cookies: These cookies are used to enhance the performance and functionality of our Websites but are non-essential to their use.  However, without these cookies, certain functionality (like                 videos) may become unavailable.
+To refuse these cookies, please follow the instructions below under the heading "How can control cookies?"
+Alternatively, please click on the relevant opt-out link below:
+Analytics and customisation cookies: These cookies collect information that is used either in aggregate form to help us understand how our Websites are being used or how effective are marketing campaigns are, or to help us                 customise our Websites for you.
+To refuse these cookies, please follow the instructions below under the heading "How can control cookies?"
+Alternatively, please click on the relevant opt-out link below:
+Social networking cookies: These cookies are used to enable you to share pages and content that you find interesting on our Websites through third party social networking and other websites.  These cookies may also be                 used for advertising purposes too.
+To refuse these cookies, please follow the instructions below under the heading "How can control cookies?"
+Alternatively, please click on the relevant opt-out link below:
+What about other tracking technologies, like web beacons?
+Cookies are not the only way to recognise or track visitors to a website.  We may use other, similar technologies from time to time, like web beacons (sometimes called "tracking pixels" or "clear gifs").  These are tiny graphics files that contain     a unique identifier that enable us to recognise when someone has visited our Websites or opened an e-mail that we have sent them.  This allows us, for example, to monitor the traffic patterns of users from one page within our Websites to another,     to deliver or communicate with cookies, to understand whether you have come to our Websites from an online advertisement displayed on a third-party website, to improve site performance, and to measure the success of e-mail marketing campaigns.      In many instances, these technologies are reliant on cookies to function properly, and so declining cookies will impair their functioning.
+You may exercise your cookie preferences by clicking on the appropriate opt-out links provided in the cookie table above if your browser is supported by the respective opt-out functionality.
+You may be able to set or amend your web browser controls to accept or refuse cookies (most Internet browsers allow some control of most cookies through the browser settings). If you choose to reject cookies, you may still use our website though your     access to some functionality and areas of our website may be restricted.   As the means by which you can refuse cookies through your web browser controls vary from browser-to-browser, you should visit your browser's help menu for more information.
+In addition, most advertising networks offer you a way to opt out of targeted advertising.  If you would like to find out more information, please visit http://www.aboutads.info/choices/ or http://www.youronlinechoices.com .
+How often will you update this Cookie Statement?
+We may update this Cookie Statement from time to time to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons.  Please therefore re-visit this Cookie Statement regularly to stay informed about     our use of cookies and related technologies. 
+The date at the top of this Cookie Statement indicates when it was last updated. 
+Where can get further information?
+Inc. ("Microchip") is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the             use of that information and the procedures that we have to safeguard your privacy. This Privacy Policy sets out the information requested from you when you access www.microchip.com, www.microchipdirect.com, or sample.microchip.com (the "Sites").
+How is Customer Information Obtained by and How is it Used?
+We receive and store information you give us. Most of the information you give us is collected when you buy products on-line, request literature/ information, participate in a contest, fill out a questionnaire/survey, participate in an on-line             discussion, or complete your Customer Profile. You may give us information such as your name, address, phone numbers, e-mail addresses, financial information, employment information, application information, ideas for new projects or applications,             and your buying interests. The information that you provide us is used to respond to your requests, notify you of products being shipped to you, customize your interactions with us, improve our offerings, provide materials or offers to you,             allow you to participate in contests, and communicate with you. It is your choice whether or not to provide us with certain information. However, you may be unable to take advantage of many of our offers and features if we do not receive your             customer information.
+We also receive and store certain types of information through use of “cookies.” Some examples of information gathered this way are the Internet Protocol (IP) address used to connect your computer to the Internet, log-in, e-mail address,             password, computer and connection information such as browser type and version, operating system, platform, and the full Uniform Resource Locator (URL) used to, through, and from our Sites. We use the information gathered by “cookies”             to manage and customize your on-line shopping experience and to improve our offerings.
+You may also submit technical information to such as designs, ideas or data, that you transmit to or post on any of our Sites (the "Submission") for purposes not limited to contest participation. The Submission is considered and treated             by as nonconfidential and nonproprietary. By providing the Submission, you grant a nonexclusive, royalty-free, perpetual, irrevocable, sublicensable right to disseminate, display, use, modify, copy, adapt, and translate             the Submission for any purpose whatsoever, whether commercial or noncommercial, throughout the world in any media. You also grant us the right to use the name you submit in connection with your Submission, if we choose. You represent and warrant             in making the Submission that you own or control all rights to the Submission, and that use of your Submission will not cause injury to any person or entity including Microchip. You will indemnify for all claims resulting from your             Submission.
+How can manage the information has about me?
+You can always choose not to give information. However, certain information is necessary in order for you to take advantage of “microchipdirect”, “sample.microchip”, change notifications, literature updates, etc.
+If you want to add/update your information or preferences, please modify your Account Profile. When you update your information, we may keep a copy of your earlier information for our records.
+If you do not want to receive e-mail or other communications from us, please indicate your choices in your Account Profile preferences Certain notifications, such as product changes or updated literature, or offers are only available electronically.             Please note that even if you choose not to receive electronic communications from us, our terms and conditions and policies, such as Website Usage, Privacy Policy, and Terms and Condition of Sale or Samples, will still govern your use of our Sites, including any products you purchase or samples you request. It is your responsibility to review our policies and terms and conditions for any changes. If you do not accept our terms and conditions and policies, please do not use our             Sites or their offerings.
+You can avoid certain "cookies" by indicating in your Customer Profile that you do not want us to remember you. Your browser may also have options to prevent acceptance of new “cookies.” There are also utilities available allowing             you to visit our Sites anonymously. Unfortunately, certain features and offerings available through the Sites may not be available to anonymous users.
+Who does share Customer Information With?
+Customer information is important for to be able to offer products and services to you. We are not in the business of selling customer information to others. We do share customer information with our subsidiaries and with others as described             below. Such third parties may be based in the United States, Europe or Thailand. We are not responsible for the privacy practices of third parties to whom your information may be transferred. If you do not wish us to share your information             as described below, you may opt out by not supplying information to us when entering information into your Customer Profile, or by not placing orders through microchipdirect.com
+Agents: We use other companies and persons to perform tasks on our behalf. Examples are not limited to delivering packages, processing credit card payments, checking for export compliance, and providing customer service. They have access to customer             information to perform their jobs, but may not use it for other purposes. For example, if you make a purchase request through “microchipdirect”, or a sample request through "sample.microchip", will share your customer             information with third parties and receive information from credit bureaus and other companies to help prevent and detect fraud, and to offer credit or financial services to some customers.
+Distributors and Sales Representatives: These companies and persons often provide service to Microchip’s customers. They have access to customer information to perform their jobs, which is not limited to marketing products, but             may not use it for other purposes.
+Third Parties: Except for information transmitted to through the on-line support system at http://support.microchip.com, any other technical submissions to such as designs, ideas or data that you transmit to or post on our             Sites by any means (the "Submissions") for any purpose including but not limited to contest participation is considered and treated by as nonconfidential and nonproprietary.
+Conformance with the Law: We release account and other customer information when we believe it is appropriate to comply with the laws of Arizona.
+Protection of and Others: will release customer information necessary to enforce or apply our Website Terms of Use, and other agreements. will, at its discretion, release customer information necessary to protect             the rights, property and safety of or others in accordance with the laws of Arizona.
+We use 256-bit encryption to secure the financial information you enter. Only the last five digits of your credit card number are listed in your Order Acknowledgement. However, your entire credit card number is transmitted to your credit card             company during order processing, and your identifying and credit information is transmitted to companies that process your credit card transactions and review them for export control violations.
+Law and Jurisdiction
+Your visit to our Sites and any dispute over privacy is subject to our Privacy Policy and Website Terms of Use terms which include limitation on damages and application of the law of the state of Arizona, without regard to any conflict of             laws provisions. The federal and state courts of the state of Arizona shall have the exclusive jurisdiction to adjudicate any dispute relating to this Privacy Policy.
+By submitting your information you consent to the use of that information as set out in this Privacy Policy.
+If you have any concern about our treatment of your customer information, please send us an e-mail at legal.department@microchip.com .
+Inc. The Embedded Control Solutions Company® Inc. is a leading provider of microcontroller and analog semiconductors, providing low-risk product development, lower total system cost and faster time to market for thousands of diverse customer applications worldwide. Headquartered in Chandler, Arizona, offers outstanding technical support along with dependable delivery and quality. http://www.microchip.com

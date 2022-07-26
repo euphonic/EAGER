@@ -1,0 +1,32 @@
+Data Sheets & Whitepapers
+ inverter technology enables the best overall solution for commercial and utility-scale photovoltaic systems.
+Compare our features »
+Highest Energy Harvest
+RPC's  patented technology  for distributed DC-to-provides 
+						high granularity, high efficiency and very high system availability.
+Lowest System Cost
+Maintenance-free inverter lifetime equal to that of modules, center-of-field intrafield collection, 
+						reduced fuse and switchgear costs, and single-component spare parts inventory.
+Conversion, Inc. was founded in March 2011 with the acquisition of Schneider Electric,  Business Unit R&facilities, in San Luis Obispo, California, by Rick West, former Director of Engineering and Engineering  Fellow with Schneider Electric.   is an independent company, wholly owned by citizens.
+The team has extensive experience in bringing advanced inverters to market.  Previous advanced products developed by the current project team members/employees at our San Luis Obispo facility under previous owners/employers include:
+The first 97% efficient three phase inverter approximately ten years prior to the next  manufacturer attaining this level of performance. (Model 18U)
+250kbipolar inverter with multiple bridges running with skewed pulse width modulation. (Patent 7,046,527 West)
+An advanced 500k3clamp liquid cooled inverter.
+high reliability, off-grid inverter core, the first to use a high current assembly based on an Insulated Metal Substrate. (Patent 7,248,483 West)
+The development of a universal, high frequency, bi-directional multiport system. (Patent 7,102,251 West)
+Six other commercial single-phase and three-phase inverter products from 1kto 20kfor various clients.
+will utilize an established contract manufacturer in the to provide all manufacturing and product assembly and testing operations. This capital efficient approach is used by companies ranging from Apple to Nike for products that do not require unique or specialized capital equipment for manufacturing.
+develops photovoltaic converter and balance-of-system technologies  that will transform the way photovoltaic systems are designed, constructed and maintained.
+RPC's facilities include laboratory and office space designed to support the development of high products.      Resources include a 60ksupply, multiple personnel protected 3-phase grid interfaces, photovoltaic rooftop array, analyzers,   Rogowski coils, spectrum analyzer, thermal mapping equipment.
+Richard West |  Chief Technology Officer
+Our President and CTO, Richard West, has been directly involved with the design and development of advanced products since 1986.   Rick  was formerly the Director of Engineering with Schneider Electric, Energy Business Unit and prior to that,  Director of Engineering for Xantrex, Trace and Utility Group.  He has worked extensively with NREL, and to  develop and commercialize high-impact converter products.  Rick is the named inventor on 39 issued and pending  Patents related primarily to conversion, and he has engineered, constructed and commissioned some of the largest  plants built in the 1990s.
+Gary Fourer | Director of Engineering
+Gary Fourer has 30 years of direct experience with design, manufacturing and test of advanced converters for the photovoltaic and aerospace industries.  Formerly Gary was Vice President of the Component Division at Utility Group, and prior to that he was Senior Staff Engineer at EG&Systems.    Considered a subject matter expert, Gary has worked with Rick West for 25 years. He attended California Polytechnic State University at San Luis Obispo.
+Michael Stern | Business Development Consultant
+Michael Stern has over 30 years of experience managing engineering and construction of grid-tied solar electricity generating systems.  He has served as President of Utility Group and Silicon Energy Corp,  a Vice-President at Kyocera Solar; Board Director of Schott Applied Corp.; President of Western Gas & Electric Company;   of Solar Electric Solutions;  and he is currently of Solar Electric Solutions,  Mr. Stern earned a in Materials Engineering from the University of  California, Los Angeles, and is the named Inventor on several Patents for his work in commercializing technology.
+805-544-3547RPC's MACRO-inverter technology has achieved many "firsts" including ultra-efficient natural convection cooling,  highest 10kW-20kefficiency, highest input voltage, highest single-grid tie voltage,  highest density per unit volume, highest density per pound and longest calculated maintenance-free lifetime.
+The patented inverter thermal management and packaging approach enables the inverter to be cooled by natural  convection using very little heat sink material, resulting in a small and light-weight enclosure.   This inverter is the only kW-scale inverter with a 6/IP67 environmental protection rating, one enabling  factor supporting the extreme product longevity.
+commercial or utility scale system based on MACRO-inverters is comprised of distributed string to polyphase inverters,   with intra-array-field collection at voltages up to 600Vac.
+"MACRO-MICRO" is an allegorical reference to a "microinverter" approach scaled and optimized for use in systems from 17kto multi-megawatts.
+engineers are on the leading edge
+of photovoltaic technology.
