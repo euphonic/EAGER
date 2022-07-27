@@ -1,32 +1,20 @@
-Video Introduction to Biodico at Red Rock Ranch - Five Points, California
-Zero Waste - Bangkok, Thailand
-Jardín Botánico José Celestino Mutis - Bogota, Colombia
-Commissioning PP20's - Headquarters, Berkeley, California
-Powering 2013 Verge Conference - San Francisco, California
-Kakata, Liberia
-Workshop - Berkeley, California
+See them in person at our Open House Thursday, November 9th, 5-7pm in Berkeley, CA
 is the global leader in small-scale gasification. We make biomass gasifier generators that are ready for everyday work, to serve real world distributed energy needs.
 Our Pallet and Powertainer  are a new category of energy device. They combine the best usability features of diesel generators, with the clean running of typical renewables, with the potential for a carbon negative impact.
 Our project started in 2008 with the open source Gasifier Experimenter’s Kit (GEK), supporting research, education and hacking in biomass thermal conversion.  Seven years later the has evolved into the Pallet , a full solution for commercial generation via biomass. Today you can find our systems at work in dozens of countries around the world, and supporting research in over 50 universities.
 With products, you can generate on-demand for 1/4 the operating cost of diesel, at 1/2 the capital cost of solar.  And while saving money, you can shrink your carbon footprint and contribute positively to global efforts against climate change.
-Getting Energy and Climate Right
 The stakes in getting energy and climate right are daunting. The shear volume of carbon we’ve dug up from ancient reservoirs since industrialization and returned to contemporary circulation is difficult to get the mind around–we’ve collected some of the details here . So far we’ve mostly been able to ignore the consequences of this tomb robbing, as the temperature rise from CO2 accumulation lags by decades, if not centuries.
 Carbon Negative Machinery: Today and Future
 The process of gasification is an incomplete one, and the leftover “waste” our equipment produces from making energy is a stable form of carbon known as ‘biochar.”  Sequestering this carbon is what makes biomass gasification net carbon negative energy production.
 While today’s Pallets produce a relatively smamount of biochar byproduct (around 5% of input mass), it is still enough for carbon negativity in the fuel cycle. The round rule of thumb numbers are as follows:
-1 tonne of dry biomass in produces about 1Mw/hr of electricity and 50kg of carbon byproduct.
-50kg of raw carbon once recombined with O2 is the equivalent of 185kg of CO2 in the atmosphere. (mass x 3.67 = mass CO2)
 1 tonne of biomass input to the gasifier can soil-sequester the equivalent of 0.185 CO2 tonnes in the atmosphere.
 Avoided CO2 emissions from not burning fossil fuel in the process are added to the wins above.
 Future machines will introduce features that enable increased biochar yield of up to 15-20% of input mass, while still co-generating electricity. For now we are just using the post hearth char. You can learn more about our carbon analysis here . You can also read fantastic coverage of the run up to COP21 in The Guardian . And for an extraordinary insider’s perspective, we’re really enjoying the blog Winning the Carbon War by Jeremy Leggett .
- ON-DEMAND, AFFORDABLE, CARBON-ENERGY
-Translate »Wood gas, Syngas, Biogas, Producer Gas
 Gasification is the use of heat to transform solid biomass or other carbonaceous solids into a synthetic “natural-gas-like” flammable fuel.  Through gasification, we can convert nearly any dry organic matter into a clean burning fuel that can replace fossil fuel in most use situations. Whether starting with wood chips or walnut shells, construction debris or agricultural waste, gasification will transform common “waste” into a flexible gaseous fuel you can use to run your internal combustion engine, cooking stove, furnace or flamethrower.
 Did you know that over one million vehicles in Europe ran onboard gasifiers during to make fuel from wood and charcoal, as gasoline and diesel were rationed or otherwise unavailable?  Long before there was biodiesel and ethanol, we actually succeeded in a large-scale, alternative fuels redeployment– and one which curiously used only cellulosic biomass, not the oil and sugar based biofuel sources which famously compete with food.
 This redeployment was made possible by the gasification of waste biomass, using simple gasifiers about as complex as a traditional wood stove. These small-scale gasifiers are easily reproduced (and improved) today by enthusiasts using simple hammer and wrench technology.
 Our goal at is not only to show you how to do it, helping to upgrade the engineering and deployment solutions to something befitting the digital age, but to deploy waste biomass gasification at an industrial scale capable of actually having an impact on our energy and climate crises.
 Today, our products integrate we have learned from these historic efforts with our experimentation and engineering developments, creating real solutions to a critical global problem.
-Translate »The Company
 designs, engineers, and manufactures biomass gasification energy platforms.  We create physical tools and information resources for people to be able to make and use renewable energy.
 We believe that a bottom up, participatory ecology in energy is just as possible as it has been in computing. And we expect the impact of such creative self-determination in energy will be no less transforming than has been in digital realms.
 The team is an unusual combination of experienced, hands-on fabricators and university-trained scientists and engineers. Imagine a mash up of the Bay Area California art/tech underground with Phd techies from Stanford and The result is a powerful combination of technical ability and physical know how for building real things in the real world.
@@ -44,7 +32,6 @@ We are now looking for qualified demonstration sites to conduct the most near-te
 Our regular monthly open house is coming up this week. Please so we know how many guests to plan for, then drop by for pizza cooked in a gasifier-powered oven, plus cold beer and soft drinks, and the gasifier talk you can eat.
 Negative emissions tech: can more trees, carbon capture or biochar solve our CO2 problem?
 As noted above, The Guardian newspaper in the has a thoughtful look at this promising question this week. Click here to read the details.
-The business, and climate, case for biomass
 The former Mayor of New York City, Michael Bloomberg, and the former head of the environmental group Sierra Club, Carl Pope, have written a much deeper dive into the same topic as the Guardian article in their new book “Climate of Hope.”
 They write, “We have phenomenal machines to do this job — they are called plants, and they exist to take CO2 out of the atmosphere and turn it into organic matter in the soil. (Certain kinds of rocks also sequester CO2 in very large quantities, but our ability to influence the pace of such mineralization is much more limited than our impact on the biosphere and plant life.) What does it take to trip the biosphere — the globe’s collection of animals and plants — into a massive carbon-storing mechanism?”
 The climate crisis is making new heroes. Meet Matt Rogers, founder of NEST

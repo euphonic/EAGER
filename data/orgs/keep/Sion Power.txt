@@ -1,55 +1,26 @@
-At 500 Wh/kg, 
-Licerion
  exceeds all expectations for a rechargeable battery.
-MISproduces the highest energy batteries,
 and Propuland PropulHigher specific energy and energy density than any lithium-ion cell available today
 Higher gravimetric and volumetric energy means longer driving distances on a single charge
-Cell design easily incorporated into battery packs
-Manufacturing process leverages existing equipment
+UAV, UGV, and UMV
+UAV, UGV, and UMV
 Cell-level specific energy of up to 650 Wh/kg enables longer operations and more air/ground/sea covered for high altitude applications
-Meets market cycle life requirements*
 Reduced battery weight allows for less energy consumption; greater payloads
 Battery pack design ideally suited for mid-to-large applications
-*Cycle life dependent on application and 
 Excellent supply for military applications, high-energy and light weight means improved ease of mobility
 For aviation applications, every gram counts, with Licerion energy isn’t compromised for weight reductions
-High energy battery systems
 With more than 20 years in research and development, is the leading developer of high-energy rechargeable, lithium metal battery technology.
-Licerion
  is the future of batteries
- – big energy, small package
-Patented technology
  – proprietary anode and electrolyte coupled with high-energy cathode
- – Internal and third-party validation
- – Unmanned vehicles, propulsystems, and portable supply
-Market Overview
-Unmanned Vehicle Systems
 Whether the system is by land, sea, or air is providing the portable rechargeable energy to go further.
 Licerion battery technology offers the safety and dependability for auxiliary requirements in aviation and land-based applications.
-PropulSystems
 With over 500 Wh/kg, Licerion technology exceeds most manufacturers’ expectations without compromising safety or battery weight.
 has the engineering expertise to create custom, application-specific cells and robust battery pack designs. Licensing opportunities available.
-CERAMIC/CELLS, BATTERIES
-CERAMIC/CELLS, BATTERIES
-Extensive Portfolio
-Patent Applications
 Global patent coverage of Licerion technology.
-Antigua and Barbuda
-Bosnia and Herzegovina
-Côte d'Ivoire
-Saint Kitts and Nevis
 Saint Vincent and the Grenadines
-United States
-Please Specify Other Type
-Sign me up for your newsletter
 This field is for validation purposes and should be left unchanged.
 is a privately owned company which began as a spin-off from Brookhaven National Laboratory in 1989 as Moltech. Since then, the company has grown attracting an impressive group of scientists, engineers, and partners who relentlessly developed the technology needed to reach the next generation of rechargeable battery technology.
 Today the company consists of more than 60 employees, many of which have Ph.D.’s. This impressive group of individuals has acquired 172 patents with 152 pending. The company’s 67,000 square foot production and R&facility include a dry room for fabrication as well as test, analytical/materials, and electronic assembly labs.
 Years of research and development has yielded the Licerion® lithium metal technology which is poised to dramatically change the lithium battery landscape, delivering the highest combination of energy density and specific energy available.
-Dr. Yuriy Mikhaylik
-Dr. Chariclea Scordilis-Kelley
-Angela Kliever
-Director of Marketing
 Tracy Kelley was assigned Chief Executive Officer July 10, 2017 with over 17 years of battery experience in lithium based battery systems. Tracy previous served as a research scientist at Valence Technology, a developer of lithium polymer batteries for portable applications, heading their failure analysis department. Tracy holds several patents in the area of active cathode materials and battery processing. He attended the University of Alabama majoring in Chemistry and Philosophy.
 Prior to joining Britt served as Chief Executive Officer of Global Solar in Tucson, Arizona. Jeff has over 30 years’ experience in the thin-film photovoltaic (PV) industry, with a concentrated focus on Copper Indium Gallium diSelenide (CIGS). During his professional career, Jeff has held several leadership positions focusing on technology development to manufacturing, product development, and cost roadmaps.
 Britt earned his Ph.in Electrical Engineering from the University of South Florida, where he also obtained his Master of Science. Britt also holds a Bachelor of Science in Physics from the University of Florida.
@@ -61,7 +32,6 @@ Robert has over 20 years of experience in intellectual property at both law firm
 Joseph Lamarre is Director of Finance. He has more than 35 years of experience in accounting and finance in a variety of industries including property development, medical devices and electronics. Joseph’s career responsibilities include overseeing accounting, finance, risk management, administration, acquisitions and property management.
 He received his Bachelor of Science degree in Accounting from Bentley University and a Master of Business Administration from Southern New Hampshire University.
 Ms. Kliever recently joined bringing with her more than 20 years of business-to-business marketing experience in technology industries. Previous to joining Power, Ms. Kliever was with Schletter, Inc. as Director of Marketing and Communications where she established a strong brand, successfully positioning of the company to become the dominant brand in the solar mounting system industry while capturing market leadership year-over-year. Her professional career has focused entirely on technology companies including semiconductor and composites. Ms. Kliever has a Bachelor of Science degree in Marketing.
-Board of Directors
 Dr. James Simons is President of Renaissance Technologies Corp., a private investment firm dedicated to the use of mathematical methods. Previously he was chairman of the Mathematics Department at the State University of New York at Stony Brook. Earlier in his career he was a cryptanalyst at the Institute of Defense Analyses in Princeton, and taught mathematics at the Massachusetts Institute of Technology and Harvard University.
 Dr. Simons holds a in mathematics from the Massachusetts Institute of Technology and a Ph.in mathematics from the University of California at Berkeley. His scientific research was in the area of geometry and topology. He received the American Mathematical Society Veblen Prize in Geometry in 1975 for work that involved a recasting of the subject of area minimizing multi-dimensional surfaces. consequence was the settling of two classical questions, the Bernstein Conjecture and the Plateau Problem. Dr. Simons’ most influential research involved the discovery and application of certain measurements, now called the Chern – Simons Invarients, which have wide use, particularly in theoretical physics.
 Dr. Simons is the founder and Chairman of Math for America, a nonprofit organization with a misto significantly improve math education in our nation’s public schools. He serves as Trustee of Brookhaven National Laboratory, The Institute for Advanced Study, The Rockefeller University, and the Mathematical Sciences Research Institute in Berkeley. He is also a member of the Board of the Corporation. Together with his wife, Marilyn, Dr. Simons manages the Simons Foundation, a charitable organization devoted to scientific research.

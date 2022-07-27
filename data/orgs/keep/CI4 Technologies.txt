@@ -1,10 +1,8 @@
- Technology Secures Devices
 					removes passwords from the authentication process, granting users the rare combination of greater security and improved convenience				
 infOsci announces patent to authenticate computing devices
 ™ technology changes the way companies, governments, organizations, and individuals can secure electronic devices.				
 ™ technology secures blockchains and virtual currencies
 					infOsci announced today a pending patent that extends the company’s intellectual property to distributed ledger technology. 				
-infOsci Announces Internet of Things Patent and Series Fundraiser
 					infOsci announced today that the United States Patent Office has issued a notice of allowance for a patent application extending the company’s intellectual property to the Internet of Things (IoT). 				
 infOsci cautions federal lawmakers about security vulnerabilities in distributed ledger technology
 					In response to the recent joint subcommittee hearing on blockchain and distributed ledger technology, infOsci cautioned members of the House Committee on Science, Space & Technology that this burgeoning technology is only as secure as the system upon which it operates, which today is decades-old, outdated technology.				
@@ -16,30 +14,22 @@ The Problem We Solve
 					The list of data breaches reads like a Who’s Who of businesses and government. No one is exempt. The failure of security is endemic and epidemic. The cause of the failure of security is foundational. The cause is rooted not in technology, or security policies, but deeper in the fundamental assumptions about how we go about conducting our business.				
 infOsci Announces Patented Revolutionary Cybersecurity System – Ci
 					Cyber security disrupter infOsci today announced that the Patent and Trademark Office has awarded a broad method patent to infOsci for its revolutionary technological approach to security. The Ci
-™ technology replaces an outdated security infrastructure relying on secret passwords, private keys or digital certificates. Ci
  effectively defeats the attacker who uses stolen credentials and greatly diminishes threats posed by human error in the security chain.				
-This Tech Startup’s Youngest Founder Is 75
 					Infosci, at work on anti-hacking software, is run by the older set. “They’ve been exposed to the nastiest stuff for decades.” On paper, Infosci looks like a lot of startups whose founders travel Sand Hill Road in search of venture capital. It has the dropout, the ex-guy, the experienced startup seller—and they say they have a way to protect against a key type of cyberattack. 				
-John Ellingson
 Founding and Managing Member, Co-Inventor of infOsci IP
 John is a pioneer in the development and deployment of innovative human factor malevolent behavior anomaly detection. John has a proven history of innovation and development of identity fraud detection and human factor insider threat detection systems. He is the inventor of core identity security patent (Patent 6871287) broadly…
+Founding Member and Co-inventor of infOsci IP
 Tom heads security operations for Harris Corporation. He is formerly the and co-founder of LemonFish – LemonFish is a data science and behavior analytics company building and deploying proactive solutions against data leakage, fraud and insider threats. Prior to this he was the Technical Director within the Office…
 Phil has decades of experience in technology and counter intelligence with the Central Intelligence Agency. His experience includes his role as Director, Far East Technical Operations Base where he directed a diverse group of engineers, scientists, technicians and craftsmen in providing technical solutions to intelligence collection requirements. He led teams…
 John is the founder of Kittelberger & Sons, Inc., in January 1977 and brings over 40 years of business expertise to infOsci. Kittelberger Plumbing, has operated in the Springfield area since its inception and serves all of Northern Virginia. Customers range from consumers to small and large businesses. He…
 Jon founded Raytheon Telemus, Inc. and served as its Chief Executive Officer. He has directed the efforts of Raytheon Telemus, Inc. into areas, where technology and international experience are the preferred, mutually complimentary tools for success in the global marketplace. He was a Senior Executive Officer in the United States…
 The principals of JST, Jim Jochum and Andrew Shore, combine nearly 50 years of private and public sector experience in Washington, Jim was appointed twice by President George Bush to senior positions at the Department of Commerce after serving six years as a staff member in the U.S….
-Board of Directors
 Eric is the Senior Managing Director and Founding Partner at Evans Hagen & Company. Over the past 24 years Mr. Evans has lead EH&C’s Investment Banking and Litigation Support practices, advising senior executives and litigators on all manner of transactions and engagements of the highest strategic import. He brings a…
-Greg Cullison
-Advisory Board Member
 Greg Cullison is a technical specialist at Perspecta, Inc. where he provides professional services to clients in cyber security. He founded ProVerity Inc., a security-focused professional services firm which he sold to Big Sky Associates, Inc. in 2015. Greg has spoken publicly on cybersecurity and insider threat issues, and holds…
-Advisory Board Member
 Caroline is the founder and owner of Copper Hill Strategies, She has fifteen years of Capitol Hill experience, including a decade with the House Judiciary Committee where she served for eight years as the Chief Counsel of the Subcommittee on Crime, Terrorism, Homeland Security, and Investigations. As Chief Counsel,…
-Advisory Board Member
 Matthew is Elected Alderman for the City of London. Elected in 2012, Matthew is the youngest Alderman elected in more than 800 years. Matthew served on the Court of Common Council for four years prior to being elected as Alderman. During his tenure on both the Common Council and the…
 Led by principals Venkat Veeramneni, Fadi Harake and Marc Fain, Nuvitek is a talented team of engineers who are passionate about solving technology problems. Nuvitek provides a full life cycle of cloud based complex information technology services to federal and other public-sector customers including Cloud Assessment and Readiness, transition, migration,…
 Want to learn more? Send us an email.
-Evans Hagen & Company
 infOsci is a technology company based in Northern Virginia with deep roots in the intelligence community and information security. The company’s patented Ci4™ technology eliminates the risk associated with passwords, static certificates, and public key infrastructure (PKI)—where credentials can be hacked, spoofed, or stolen.
 leverages a revolutionary system of dynamic and ever-changing credentials for perpetually securing devices and communications. This new security framework also speeds remediation and recovery from attacks, allowing organizations to resume security and connectivity faster than current cybersecurity approaches.
 technology can be readily deployed in support of cloud computing, distributed ledger (including blockchains, cryptocurrencies and wallets), e-commerce, the Internet of Things (IoT), medical devices, mobile devices, or any networked device requiring authentication to access a secure system.
@@ -52,7 +42,5 @@ That disruptive technology is here again: infOsci’s patented Ci4™ authentica
 Our vision is of a world in which passwords are relics of the past and never have to be changed or kept secret. Skip to content
 infOsci cautions federal lawmakers about security vulnerabilities in distributed ledger technology
 Letter to House Science Oversight and Research and Technology Subcommittees (Adobe PDF)
-List of Biggest Data Breaches
-What If Your Most Secure Credentials Were Your Greatest Potential Vulnerability?
 Cybersecurity and the Microchip Attack by Chinese Spies
 Wow! The Facebook “View As” Breach Could Have Been Prevented with infOsci’s Ci

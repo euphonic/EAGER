@@ -1,31 +1,15 @@
 Oops! It appears that you have disabled your Javascript. In order for you to see this page as it is meant to appear, we ask that you please re-enable your Javascript!
-Hit enter to search or to close
-BCT400/BLS-I
 Instruments’ goal is to implement elegant solutions to test and measurement challenges in silicon Our instruments and analysis techniques are targeted at the problems that matter, are based on a firm device-physics foundation, and are, by design, cost-effective for the application.
 The de facto lifetime-measurement standard in laboratories worldwide
-New products / Software Updates
 FCT-750 –In-Line Light I-Testing for Solar Cells
-Papers & Research Results
-Information on Semi PV-13
-White paper on principles of lifetime measurements
 Lifetime round-robin interlaboratory study
-Presentation comparing lifetime standards
 We look forward to seeing you at the 12th SNEC International Photovoltaic Power Generation and Smart Energy Conference & Exhibition in Shanghai, China on May 28-30, 2018. We will be located in Hall E3, Booth 235.
 We look forward to seeing you at the 45th Photovoltaic Specialists Conference in Waikoloa, Hawaii on June 10-15, 2018.
-Public Policy Analysis
 											Comments on: The Cost and Impact of a 100 % Renewable Energy Portfolio Standard for the State of Colorado										 
-Public Policy Analysis
 											FMT-500: The Latest in Module Test Technology										 
-Interested In Learning More?
-Instruments has become the
 We are dedicated to developing and applying new tools and analysis to R&and manufacturing in silicon solar cells and integrated circuits.
 Comments on: The Cost and Impact of a 100 % Renewable Energy Portfolio Standard for the State of Colorado
-April 19, 2018
 FMT-500: The Latest in Module Test Technology
-Stay up to date with the latest Instruments news, events, product announcements & more.
-Hours of Operation:
-BCT400/BLS-I
-Chinese (Simplified)About Instruments
 Originally established in 1992 by Ron as Consulting, Instruments is dedicated to developing and applying new tools and analysis to R&and manufacturing in silicon solar cells and integrated circuits. Our goal is to enable the routine use of state-of-the-art device physics and measurements.
 We develop solutions to practical problems in R&and manufacturing process control by providing physically-rigorous, simple, and cost-effective measurement tools and analysis.
 Over 600 of our minority-lifetime measurement instruments are in use around the world. Results from these instruments are frequently central to R&and industrial publications and have come to provide the de-facto calibrated lifetime-measurement standard in laboratories worldwide.
@@ -35,6 +19,4 @@ And we have fun doing it.
 Ronald Before accepting the position of Manager of R&at SunPower Corporation in 1989, Ron did his Phwork at Stanford University, developing 28%-efficient silicon concentrator cells and 23% efficient backside-contact one-sun cells.
 Ron founded Instruments in 1992. He has focused the company on bringing the systematic device physics approach that was used to develop very high-efficiency silicon solar cells to the design of test and measurement instruments and analysis techniques for the wider variety of silicon solar cell technologies in all stages of R&and production today.
 He continues to publish technical papers and participates in paper reviews for numerous journals as well as conference program organization, especially the (1987-2008) and the annual Silicon Workshop (1994-present).
-de facto lifetime-measurement standard in laboratories worldwide.
 We are dedicated to developing and applying new tools and analysis to R&and manufacturing in silicon solar cells and integrated circuits.
-Stay up to date with the latest Instruments news, events, product announcements & more.

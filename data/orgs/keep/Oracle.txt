@@ -1,5 +1,4 @@
 Cloud technology and its adoption have been transformative for nearly every business, industry, and product. Explore what the enterprise world will look like by 2025 as cloud computing grows in prominence with better security, improved price/performance, and deep automation capabilities.
-New Cloud Technologies Are Transforming Development
 Discover what tools are enabling companies to achieve agile development and how to easily get started with them.
 Combining the power of machine learning, Oracle’s cloud infrastructure, and decades of database optimization, delivers the world’s first autonomous database—eliminating complexity, human error, and manual management.
 Cloud redefines how businesses modernize, innovate, and compete in a digital world. delivers innovative and integrated cloud services that allow users and developers to build, deploy, and manage workloads seamlessly—in the cloud or on premises.
@@ -9,12 +8,10 @@ Core-to-edge security. security enables your path to the cloud with layers throu
 Public cloud. Cloud at Customer. Options are important on your path to the cloud. With Oracle, you can deploy and manage apps on your private cloud or move them to the public cloud. You can also adopt a hybrid model, where certain resources run in Cloud, while others are on premises.
 helps you realize the value of emerging technologies including AI, machine learning, chatbots, and more. We make these technologies simpler to access, easier to build and extend, and more efficient to secure and manage.
 Next-generation mission-critical data management in the cloud. Public cloud is a key component of the digital transformation across businesses, but moving all workloads and applications to the public cloud is generally not realistic. To help achieve savings and agility improvements, Autonomous Database uniquely enables this transformation by eliminating complexity, human error, and manual management.
-Larry Ellison OpenWorld 2018—Generation 2 Cloud Infrastructure
 built its Generation 2 Cloud from the ground up to provide businesses with better performance, pricing, and—above all else—security.
 Highlights: Aligning Strategy, Technology, and People
 Cloud is a strategy to help drive innovation. See highlights from Mark Hurd's keynote on how to align getting the business strategy right, products and services right, and the people right.
 Automate complex business processes through next-generation cloud applications: easy to extend, secure your data, future-ready.
-Future Talks: Thumbs Up, Thumbs Down—Emerging Technology
 What emerging technology is betting big on? Steve Miranda, for applications product development, sits down with analyst Ray Wang to discuss adaptive intelligence, machine learning, blockchain, IoT, 5G, and Quantum.
 Build production-ready workloads by using a variety of cloud services including database, compute, IoT, big data, management, integration, chatbots, and more.
 Oracle’s cloud programs make it simpler and easier for organizations to buy and consume cloud services—Universal Credits and Bring Your Own License.
@@ -26,17 +23,13 @@ There are several trends pushing business—across all industries—toward the c
 As a result, has enabled our best-in-class business technology across applications and platform to support customer needs and deployment options. On premises, Cloud at Customer, or in Oracle's public cloud.
 Kiva, the San Francisco-based microloan provider, to serve over a million borrowers the world over through Cloud.
 “Over the lifetime of Kiva, we've facilitated about $700 million in loans, and we disperse loans to 86 countries throughout the world.”
-—Jim  Cooley, Director of Technical Operations
 Our customers require the ability to continuously move tremendous amounts data in and out of our server. We evaluated every major cloud infrastructure provider, and Cloud Infrastructure provided the level of performance and high bandwidth that our customers demand—and at the lowest price.
 Greg Batenburg, Vice President of Business Development, Frozen Mountain
 Eloqua Marketing Cloud Service enables us to focus on engagement, customer journeys, and the individual customer experience. We increased opening rates by 13%, clickthrough rates by 52%, and average revenue per user by 5% by leveraging complete subscriber profiles.
-Tor Marius Espedal, Customer Experience Manager, Schibsted Media Group
 The City of Memphis moved from an on-premises solution to Human Capital Management Cloud to automate processes. The cloud has helped significantly reduce paperwork and allows to focus on recruiting and retaining talent for the city.
 Our priority is to create the leading technology for off-road vehicles, trucks, axles, and parts, and with that comes a complex system. Management Cloud monitors the status and health of our entire infrastructure and even proactively troubleshoots and resolve issues before they impact users.
-RongHao Zhang, Database Administrator, Shaanxi Heavy Duty Automobile Co., Ltd.
 NongHyup Logis Accelerates Digital Transformation with Cloud
 By running the integrated logistics solution on Cloud Infrastructure, we can respond quickly in our fast-moving industry and support the diverse needs of consignors. We deployed the new logistics solution in just six months—and spent no time building infrastructure.
-Kim Yong Woo, Team Leader, NongHyup Logis
 Our goal is to transform computing by building technology in the cryptocurrency, blockchain, and space. It is critical for us to have a reliable, efficient enterprise data warehouse so we can generate actionable insights in real time, which is why we chose Autonomous Data Warehouse, Data Integration Platform Cloud, and Analytics Cloud.
 Lin Jiang, Director of Supply Chain, BitMain Technologies Holding Company
 Cloud Platform enables us to work in a more efficient, flexible, and future-proof way, while meeting all data protection requirements. We now distribute donated food—which would otherwise go to waste—to even more people in need and believe that our move to Cloud sets a precedent for other food charities in Germany.
@@ -45,115 +38,50 @@ V5 Systems uses Cloud Infrastructure to store and analyze data from its portable
 Explore research, stories, tools and more to help you understand the power of moving to Cloud for businesses of any size.
 Personalized Accelerator Program for a New Generation of Startups
 Startup Cloud Accelerator is not your traditional accelerator program—it’s a next-generation acceleration initiative. The program focuses on reimagining enterprise innovation through partnerships with startups that foster co-development and co-innovation, where we all win.Sign in to Cloud
-Real Customer Success Stories
 Learn how some of the fastest-growing organizations are leveraging artificial intelligence and machine learning with Cloud Platform.
-Simplify integration and extend your reach.
-Digital and emerging technologies are transforming traditional business models. Your customers, employees, and partners are all embracing this change, demanding unique, digital experiences. To keep up, you must be able to meet their expectations, with digital business experiences that integrate a range of solutions including collaboration, the Internet of Things (IoT), blockchain, and machine learning.
-captions off, selected
-This is a modal window.
-Close Modal Dialog
 Beginning of dialog window. Escape will cancel and close the window.
-Close Modal Dialog
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
-No compatible source was found for this media.
-Close Modal Dialog
-Logicode Zimbabwe Saves Time and Improves Collaboration with Cloud
 “Our team is now more connected and shares precious information in real time by simply opening a conversation in Content and Experience Cloud. We also reduced the time and cost of data storage and of keeping track of daily documents with Cloud Infrastructure Object Storage Classic.”
-— Gift Tsingano, Director – Technical Support & Projects, Logicode Computer Systems
 Kyoto University Securely Archives Data for the Long Haul with Cloud
 “We safely and reliably store enormous amounts of research data at Kyoto University with Content and Experience Cloud. In addition to maintaining research fairness, we strongly support researchers by promoting collaboration through data.”
 — Takaaki Aoki, Associate Professor, Ph.D, Institute for Information Management and Communication, Kyoto University
 Baker Tilly Boosts Client Service and Brand Perception with PaaS
 “Content and Experience Cloud enables us to seamlessly and securely work with clients and colleagues across borders which increases the quality of service that our clients experience. Moreover, it reduced the work burden for our department and helped us to comply with the EU’s General Data Protection Regulation.”
-— Lefteris Krashias, Senior Officer, Baker Tilly Klitou & Partners Ltd
 “Previously, we shared documents through email attachments, but by adopting Content and Experience Cloud, we now share large files in the document-sharing system. Plus, we increased security with its automatic virus scan function.”
-— Toshikatsu Sato, Director, C's NEXT
 The Factory Disrupts Used Auto Market with Cloud
-captions off, selected
-This is a modal window.
-Close Modal Dialog
 Beginning of dialog window. Escape will cancel and close the window.
-Close Modal Dialog
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
-No compatible source was found for this media.
-Close Modal Dialog
 Upgraded Internal and External File-Sharing System with Cloud
 “Our previous file server had some challenges sharing data between sales and engineers—and external users had limited access. Content and Experience Cloud enabled us to construct a secure file-sharing system that allowed files to be uploaded and edited by internal and external users.”
-— Kuniharu Naito, Manager, Future Innovation Department, Co., Ltd.
 National Pharmacies Transforms with Cloud Platform
-captions off, selected
-This is a modal window.
-Close Modal Dialog
 Beginning of dialog window. Escape will cancel and close the window.
-Close Modal Dialog
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
-No compatible source was found for this media.
-Close Modal Dialog
-captions off, selected
-This is a modal window.
-Close Modal Dialog
 Beginning of dialog window. Escape will cancel and close the window.
-Close Modal Dialog
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
-No compatible source was found for this media.
-Close Modal Dialog
-captions off, selected
-This is a modal window.
-Close Modal Dialog
 Beginning of dialog window. Escape will cancel and close the window.
-Close Modal Dialog
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
-No compatible source was found for this media.
-Close Modal Dialog
-Are You Ready to Connect Your Business Applications?
 Learn how you can extend what is possible with the Cloud Platform Integration.
-This Magazine article highlights artificial intelligence, autonomous database, blockchain, chatbots, IoT, and more.
 Extend Your Reach with Intelligent Automation
 Learn how Cloud Platform helps successful digital disruptors quickly connect applications, data, and devices.
 Employees around the globe
-Customers, Partners, Communities
 Careers at Emerging technologies are disrupting old paradigms and unleashing new opportunities. has embedded innovative technologies in every aspect of our cloud, enabling companies to reimagine their businesses, processes, and experiences.
 With the introduction of Autonomous Database, the industry’s only self-driving, self-securing, and self-repairing database, is again revolutionizing how data is managed. is the #1 provider of business software, with a broad portfolio of solutions for companies of all sizes. Today, 430,000 customers in 175 countries use technologies to seize business opportunities and solve real, tangible challenges.
-Corporate Citizenship
-Board of Directors
-Cloud Customer Successes
-Security Practices
-Sustainability Solutions
-Team Customers, Partners, Communities
-Cloud Customer Successes
-Customer Visit Center
-License Management Services
-Software Investment Advisory
-Investor Events and Presentations
-Careers at Search for a Job
-College Recruiting
-Diversity and Inclusion
-Careers by Region
-Internships for Injured Veterans
-Integrated Cloud Applications & Platform Services
-Follow on Twitter
-──────────
-──────────
-──────────
-Africa Operations
+Sign up for a free trial
 Subscribe to communications from Cloud
 Cloud Recognized as the Only Leader in Gartner Magic Quadrant Report
 Cloud Recognized as the Only Leader in Gartner Magic Quadrant Report
 Cloud offering recognized for completeness of vision and highest for ability to execute.
-Cloud Infrastructure
 Opens Next-Gen Data Center in Canada
 Opens Next-Gen Data Center in Toronto, Canada
 Supports customer, partner demand for Cloud Infrastructure; supports traditional and cloud-native workloads.
 Culture Clashes Impede Alignment Between HR, Finance
 Culture Clashes Impede Alignment Between HR, Finance
 study of 1,500 HR, finance and business leaders examines how analytics can boost collaboration.
-Retail Planning
-Retailer Selects to Map Inventory vs. Demand
 UK’s Matalan Creates Single Source of Truth for Retail Planning
 Homeware and clothing seller leverages to maximize data insights, improve inventory availability and customer service.
 Java Card Boosts Security for IoDevices 
@@ -163,27 +91,20 @@ Study: and Finance Say Short-Termism and Culture Clashes Are Biggest Barriers to
 Cloud Recognized as the Only Leader in Gartner Magic Quadrant Report
 New Utilities Opower Cloud Service Enables Utilities to Engage Customers at the Grid Edge
 Utilities Opower Innovations Help Utilities Connect with Every Customer
-Group Continues to Redefine the Dining Experience with 
 Comments on Google's Petition for Review by the Supreme Court
 Café Anatolia Expands to New Locations with Cloud
-Europe, Middle East, Africa
-Blog: Mark Hurd on blockchain business opportunities.
-About About Board of Directors
-Events and Presentations
-Integrated Cloud Applications & Platform Services
 Ad ChoicesSign in to Cloud
 Oracle's Customer Visit Centers help you reimagine your business and envision the digital transformation of your organization. Learn how helps today's business become tomorrow's modern enterprise. Contact your sales representative today to schedule a visit to the Customer Visit Center.
 Peer-to-peer discussions drive the day’s briefing. Interactive and effective dialogue is the goal. Engagements are customized to meet your business needs.
 Connect with Comprehensive Modern Cloud Solutions
 Modern cloud applications are integrated with social, mobile, and analytic capabilities to help you deliver the experiences customers expect, the talent to succeed, and the performance the market demands.
 Test drive cloud applications that demonstrate simplicity, mobility, and extensibility that are behind all of Oracle's next-generation user experiences. See how the modern cloud gives you options to personalize your applications and user interface based on the needs of your business.
-Discuss Social, Mobile, and Analytic Capabilities
 Create valuable relationships to gain significant competitive advantage in the marketplace. Uncover the potential of big data to find predictive patterns that deliver business insight quickly. Gain better insights; provide better content and faster service; see faster growth.
 Oracle's corporate headquarters is located in Redwood Shores, California. The Customer Visit Center's state-of-the-art environment sets the stage for transformational dialogue with senior leadership and solution experts. Schedule a customized visit through your sales representative.
-Reston, Virginia, USA
 Located in close proximity to Washington DC, the Reston Customer Visit Center is ideally situated to host public sector meetings where senior leadership and solution experts are ready to engage in transformational conversations. Contact your sales representative today to schedule a visit to the Reston Customer Visit Center.
 Based in the center of London, Oracle's London Customer Visit Center is ideally situated to host regional customers from Europe/Middle East/Africa region. Senior leadership and solution experts are ready to engage in transformational discussions around opportunities in cloud, the Internet of Things, big data, and customer experience, among other solutions. Contact your sales representative today to schedule a customized visit to the London Customer Visit Center.
 In addition to a Customer Visit Center, Oracle's Linlithgow campus in Scotland also hosts manufacturing operations and an Solution Center. Senior leadership and solution experts are ready to engage in transformational discussions around cloud and other solutions. Contact your sales representative today to schedule a customized visit to the Linlithgow Customer Visit Center.Sign in to Cloud
+Create the Future with Us
 Choose a career in creating the technologies that are changing the world while achieving your personal and professional career goals.
 Experience an exciting, rewarding, and impactful career.
 Over the past forty years, Oracle’s mission has been to transform our world for the better through innovative technologies that modernize cities and bridge communities—while changing lives.
@@ -199,229 +120,91 @@ Our Culture Drives Innovation and Success
 We encourage our diverse and inclusive workforce to exercise their individuality and creativity to drive groundbreaking ideas. This is how we make an impact on the future of technology—and beyond that—the world.
 “Diversity makes sense. It’s at the heart of innovation. At Oracle, we hire the best people and invest in their success so we can deliver the best products and solutions to our customers. Being the best means being diverse.”—Mark Hurd, CEO
 is commited to the idea and the practice of corporate citizenship, executing on a vision and responsiblity to society as a whole to ensure better quality of life and higher standards of living across all communities and environments. Through educational and social initiatives, ensures our communities benefit from our support.
-Great Career with Great Benefits
 helps you focus on the rewarding work you do by providing you with industry-leading benefits and support. This is why offers world-class benefits designed to ensure you and your family can live life well—allowing families to remain healthy, plan for the future, continue career education, and access unlimited vacation for you to build a healthy work-life balance.Home
-License Price Lists
+Sign up for a free trial
 The downloadable price list will help you familiarize yourself with Oracle's product offerings and pricing.
-Managed Cloud Services
-Business Intelligence
-Public Sector Part Number Detail
-Download this price list if you are a Commercial, non Government agency.
-Technology Commercial Price List (PDF)
-Download this price list if you are a Commercial, non Government agency.
-Applications Commercial Price List (PDF)
-Managed Cloud Services
-Download this price list for Oracle’s Managed Cloud Services.
 Commercial Price List for Managed Cloud Services (PDF)
-Download this price list if you are a Commercial, non Government agency.
-Fusion Applications Global Price List (PDF)
-Download this price list if you are a Commercial, non Government agency.
-Engineered Systems Price List (PDF)
-Business Intelligence Applications
-Download this price list if you are a Commercial, non Government agency.
-Business Intelligence Application Price List (PDF)
-The downloadable price list will help you familiarize yourself with Siebel’s product offerings and pricing. Reference this Price List if you are a Commercial, non Government agency.
-Siebel Applications Commercial Price List (PDF)
-The downloadable price list will help you familiarize yourself with PeopleSoft's product offerings and pricing. Reference this Price List if you are a Commercial, non Government agency.
-PeopleSoft Applications Commercial Price List (PDF)
-The downloadable price list will help you familiarize yourself with Edwards’ product offerings and pricing. Reference this Price List if you are a Commercial, non Government agency.
-Edwards Applications Commercial Price List (PDF)
 The downloadable price list will help you familiarize yourself with Linux Support and Support offerings and pricing.
-Linux Support and Support Global Price List (PDF)
 The downloadable price list will help you familiarize yourself with Myofferings and pricing.
 The downloadable price list will help you familiarize yourself with Java Subscription for On Premise, Enterprise, Desktop, Server, and Cloud Workloads.
-Java Subscription Global Price List (PDF)
-Public Sector Part Number Detail
 The downloadable part number detail file is for Public Sector reference only.
-Price List Detail with Part Numbers for United States Public Sector (PDF)
-Integrated Cloud Applications & Platform Services
+Sign up for a free trial
 Product Support is for customers with a or support contract for Support
-Directory of Global Contacts
-United States Field Offices
-Talk to a Partner Business Consultant
-Engage a Sales Expert
-Start for free
-Integrated Cloud Applications & Platform Services
 Ad ChoicesSign in to Cloud
 Explore How Companies are Creating Success with Customer and Partner Successes
 To ensure you get the most out of your investment, we regularly collect and analyze your feedback, help you foster collaborative executive relationships, and facilitate resolutions to your issues. We also provide a variety of activities to help you promote and celebrate your successful business transformation with Oracle.
 Rompetrol Reduces Costs and Environmental Footprint with Cloud
-Customer and Partner Success Stories
 Search through our success stories to find customers from a specific industry, or who experienced success with a specific product. Use the keyword or prefiltered topics to search for industry, products, region, and country. The advanced search functionality will allow you to choose a combination of search criteria to pinpoint the exact story you need.
 is committed to fostering strong and independent users groups worldwide. Our hundreds of user groups provide dynamic forums for customers to share information, experiences, and expertise. Focused on products, technologies, applications, and industries, users groups offer an environment for all customers to network, share information and best practices.
 To ensure you get the most out of your investment, we regularly collect and analyze your feedback, help you foster collaborative executive relationships, and facilitate resolutions to your issues. We also provide a variety of activities to help you promote and celebrate your successful business transformation with Oracle.
 Frozen Mountain Improves Real-Time Communications with Cloud
 “Our customers require the ability to continuously move tremendous amounts data in and out of our server. We evaluated every major cloud infrastructure provider, and Cloud Infrastructure provided the level of performance and high bandwidth that our customers demand—and at the lowest price. ”
 — Greg Batenburg, Vice President of Business Development, Frozen Mountain
-Schibsted Media Group Increases Subscriber Retention with Marketing Cloud
 “Eloqua Marketing Cloud Service enables us to focus on engagement, customer journeys, and the individual customer experience. We increased opening rates by 13%, clickthrough rates by 52%, and average revenue per user by 5% by leveraging complete subscriber profiles.”
-— Tor Marius Espedal, Customer Experience Manager, Schibsted Media Group
-captions off, selected
-This is a modal window.
-Close Modal Dialog
 Beginning of dialog window. Escape will cancel and close the window.
-Close Modal Dialog
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
-No compatible source was found for this media.
-Close Modal Dialog
 Shaanxi Heavy Truck Monitors and Resolves Entire Infrastructure with “Our priority is to create the leading technology for off-road vehicles, trucks, axles, and parts, and with that comes a complex system. Management Cloud monitors the status and health of our entire infrastructure and even proactively troubleshoots and resolve issues before they impact users. ”
-— RongHao Zhang, Database Administrator, Shaanxi Heavy Duty Automobile Co., Ltd.
 NongHyup Logis Accelerates Digital Transformation with Cloud
 “By running the integrated logistics solution on Cloud Infrastructure, we can respond quickly in our fast-moving industry and support the diverse needs of consignors. We deployed the new logistics solution in just six months—and spent no time building infrastructure.”
-— Kim Yong Woo, Team Leader, NongHyup Logis
 Bitmain Builds Data Warehouse and Gains Actionable Insights with “Our goal is to transform computing by building technology in the cryptocurrency, blockchain, and space. It is critical for us to have a reliable, efficient enterprise data warehouse so we can generate actionable insights in real time, which is why we chose Autonomous Data Warehouse, Data Integration Platform Cloud, and Analytics Cloud.”
-— Lin Jiang, Director of Supply Chain, BitMain Technologies Holding Company
 Delivers Greater Impact to Those in Need with “Cloud Platform enables us to work in a more efficient, flexible, and future-proof way, while meeting all data protection requirements. We now distribute donated food—which would otherwise go to waste—to even more people in need and believe that our move to Cloud sets a precedent for other food charities in Germany.”
 — Dr. Werner Wehmer, Chairman of the Board, LEIPZIG
-captions off, selected
-This is a modal window.
-Close Modal Dialog
 Beginning of dialog window. Escape will cancel and close the window.
-Close Modal Dialog
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
-No compatible source was found for this media.
-Close Modal Dialog
 Rallis India Leverages Cloud to Enhance its Processes and Support its Growth Strategy
 “We had various systems and processes across multiple locations that at times posed a challenge to have a holistic view across the organization and business verticals. Cloud has helped us integrate all our locations, people, and processes.”
-— Alok Chandra, - & Corp Sustainability, Rallis India
 LifeScan Relies on Consulting for Fast Move to Cloud
-captions off, selected
-This is a modal window.
-Close Modal Dialog
 Beginning of dialog window. Escape will cancel and close the window.
-Close Modal Dialog
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
 This is a modal window. This modal can be closed by pressing the Escape key or activating the close button.
-No compatible source was found for this media.
-Close Modal DialogHome
- Spokespeople—North America
-Board of Directors
-Products and Technology
-Safra Catz
-Chief Executive Officer
+Sign up for a free trial
 Executive Vice President, General Counsel, and Secretary
-Chief Security Officer
-Executive Vice President, Cloud Business Group
 Chairman of the Board and Chief Technology Officer
-Vice Chairman of the Board
-Chief Executive Officer
-Executive Vice President, Corporate Operations
-Edward Screven
-Chief Corporate Architect
-Chief Marketing Officer
-Chief Information Officer and Senior Vice President
-Executive Vice President, Human Resources
 Senior Vice President and General Manager, Food and Beverage Global Business Unit
-Mark Johnson
-Senior Vice President, Public Sector
 Vice President of Public Sector, Education, and Research Industry Solutions Group 
 Senior Vice President and General Manager, Health Sciences
 Senior Vice President and General Manager, Construction and Engineering
-Senior Vice President and General Manager, Financial Services Global Business Unit
-Senior Vice President and General Manager, Utilities
 Senior Vice President and General Manager, Communications
-Vice President, Industry Strategy, Utilities
 Senior Vice President and General Manager, Hospitality
 Senior Vice President and General Manager, Retail
-Executive Vice President, Global Business Units
-Vice President, Industry Strategy, Utilities
-Group Vice President, Higher Education Development
-Products and Technology
 Group Vice President, Human Capital Management Strategy
-Paco Aubrejuan
-Senior Vice President, Applications Development
 Chief Sustainability Officer and Group Vice President, Supply Chain Management Product Strategy
-Wim Coekaerts
 Senior Vice President, Operating Systems and Virtualization Engineering
-Steve Cox
-Group Vice President, and Product Marketing
-Steve Daheb
-Senior Vice President, Cloud
-Vice President and Chief Standards Officer
-Kimberly Ellison-Taylor
-Global Strategy Leader, Cloud Business Group, Jim Gargan
-Senior Vice President of Marketing, Converged Infrastructure
 Vice President, Supply Chain Management Product Strategy
-Vice President, Database Product Management
 Senior Vice President, Human Capital Management Cloud Business Group
-Senior Vice President, Converged Infrastructure
 Vice President, Product and Strategy, Cloud Infrastructure
-Senior Vice President, Applications Development
-Don Johnson
-Executive Vice President, Cloud Infrastructure
-Rajan Krishnan
-Group Vice President, Product Development
-Senior Vice President, Applications Development
-Senior Vice President, Marketing, SaaS
-Senior Vice President, Systems Technology
-Senior Vice President of Engineering, Cloud Infrastructure
-Andrew Mendelsohn
-Executive Vice President, Database Server Technologies
-Executive Vice President, Applications Product Development
 Senior Vice President and General Manager, Security and Identity
-Senior Vice President and CTO, Platform as a Service
-Prakash Ramamurthy
-Senior Vice President, Product Development, Systems Management
 Senior Vice President and General Manager, Data Cloud
-Senior Vice President, Database Security
-Executive Vice President, Microelectronics Group
-Vice President, Global Startup Ecosystem
-Vice President, Product Strategy, Cloud Infrastructure
-Amit Zavery
-Executive Vice President, Cloud Platform
-Senior Vice President, North America Applications and Consulting
-Executive Vice President, North America Technology Division
-Inderjeet Singh
-Executive Vice President, ISV, OEM, and Java
-Integrated Cloud Applications & Platform Services
 Ad ChoicesSign in to Cloud
 For Oracle, corporate citizenship means being responsible not only to our shareholders, but also to our stakeholders—those affected by and with an interest in our activities—including employees, customers, partners, society, and the environment.
 Builds a Home for Design Tech High School
 is making history by building a home for a public school at its headquarters.
-Two Decades of Commitment
 We help students develop the technical acumen and creative confidence essential to innovation—because breakthroughs are built on the foundational idea that no matter the problem, a solution can be found.
 Taking Action for a Healthy Planet
 is a global leader in sustainability. We continuously invest in initiatives that help us run our business more sustainably and develop products and services that help our customers do the same.
 through our Take-Back and Recycling program was either recycled or reused in FY17
 have strong sustainability track records and certifications such as 14001
-Protecting the Natural World
 We support nonprofit organizations that work to protect our planet and the life it sustains.
 We help nonprofit organizations advance computer science education and ignite students’ passion for STEAM—science, technology, engineering, art, and math.
-Strengthening Communities
 We fund nonprofit organizations that provide vital health and human services, aid people in need, and strengthen the infrastructure that supports a healthy society.
 Volunteers generously donate their time and talents to make a positive impact on communities around the world. Learn more about Volunteers and our global workforce.
+Sign up for a free trial
 Through our acquisition activities, seeks to strengthen its product offerings, accelerate innovation, meet customer demand more rapidly, and expand partner opportunities. An integral part of Oracle's Mergers and Acquisitions philosophy is our consistent commitment to customer service and product support while achieving our financial return objectives and creating value for our shareholders.
-Servers, Storage, and Networking
-BigMachines
-Collective Intellect
-Responsys
- (February 2012)
-ClearTrial
-DataRaker
-CloudMonkey
-Ravello Systems
-Servers, Storage, and Networking
-Front Porch Digital
-Previous acquisition information
-Integrated Cloud Applications & Platform Services
+Call Toll Free in the U.S.
 Ad ChoicesSign into Cloud
 To further enhance our services and support, the iSupplier Portal will be taken down every Friday at 6:00 p.m. (PST) until Saturday at 12:00 p.m. (PST) for routine upgrades and maintenance.
 Oracle's commitment to working with small, diverse, high-quality suppliers is an important aspect of our procurement vision.
 The Supplier Diversity team endeavors, on a good-faith effort basis, to work with and develop small, minority, women, and veteran-owned businesses. The team is always looking for small and diverse suppliers that can deliver creative, high-quality products and services. Ultimately, our goal is to diversify our supplier base by encouraging these small and diverse suppliers to compete for business opportunities.
 As part of Oracle's ongoing outreach efforts to promote supplier diversity within its organization, is a member of the councils and industry groups set forth below. In addition, attends various events and roundtables related to these groups. Additional details can be provided by Oracle's Supplier Diversity office upon request.
-National Organizations
 is currently a corporate member of the following national organizations:
 iSupplier Portal (iSP) is a secured self-service tool, which provides Oracle's suppliers with the ability to use a standard web browser to directly manage business transactions from the orders placed with your company. This includes invoice management and viewing payment statuses. Access to iis limited to approved suppliers with an supplier number.
 Existing  Suppliers: Log in to the iSupplier Portal with your username and password.
-New Suppliers: Register for an iaccount to obtain a username and password.
-Independent Verification Frequently Asked Questions: document
 Billing accepts electronic invoices via a number of different methods. Learn more information regarding Accounts Payable related transactions.
 All suppliers must accept electronic payments from unless the supplier is based in certain countries. Learn more information regarding electronic payments.
 Download the translated versions of the Supplier Code of Ethics and Business Conduct.Home
-Follow on Twitter
-Subscribe to Communications
+Sign up for a free trial
 Magic Quadrant for Operational Database Management Systems
 Critical Capabilities for Operational Database Management Systems
 Ovum, Bakes Security into its DNA
@@ -430,78 +213,46 @@ Ovum, Uses AI, Data, and the Cloud to Free Enterprises to Focus on Business
 Ovum, Next-Generation Cloud Capabilities Underpin Monetization Cloud 18Release
 Constellation Research, Cloud at Customer Enables Next-Gen Computing
 Gartner, Magic Quadrant for Cloud for Product Centric Midsize Enterprises
-Ovum, Enterprise Case Study: Using Cloud in the Chemistry Lab
-Industry Analyst Reports by Category
-In-Memory Database Technology
 Donald Feinberg of Gartner discusses his thoughts on In-Memory Database Technology.
-2013 and Beyond
 Andy Hoar, Senior Analyst for Forrester Research, Inc., discusses the current state of B2eCommerce, challenges facing B2organizations, and what companies can do to drive their B2eCommerce business forward in 2013 and beyond.
 This video interviews Analyst on the area of Big Data and more specifically unstructured data and the importance of this concept given the growth of mobile, social and cloud data.
-About Board of Directors
-Events and Presentations
-Integrated Cloud Applications & Platform Services
 free Account lets you sign in to applications, communities, and more. 
-Looking for subscriptions?
 Your username can be emailed to you when you enter the email address you used when you registered.
 will send instructions on how to reset your password to the email address associated with your account. 
 didn't receive an email to reset my password
 Check the spam folder in your email client for an email from 
 . Add the email to your address book to ensure that it is not handled as spam.
 The password reset email can be resent to you.     
-Still having trouble?
 If you recently created an Account but did not verify your email address, you may need to 
 If your Account uses an email address you no longer have access to, sign in with your original email and password, then go to 
 Sign in to www.oracle.com with your existing Account (with your original email address and password). Go to your 
 Check the spam folder in your email client for an email from 
 . Add the email to your address book to ensure that it is not treated as spam.
-Resend the verification email from 
-Resend the verification email
-Still having trouble?
 If you recently created an Account but did not verify your email address, you may need to 
 If your Account uses an email address you no longer have access to, sign in with your original email and password, then go to 
-want to change my email address
 Sign in to your existing Account with your original email address and password. Go to your 
-, and click the edit link next to your email address.
-You must verify your new email address before you can use your account again. will send a verification email to your new email address.
-want to change my contact information on my Account
-Edit your contact information from the 
  link here and at the top of Oracle.com pages. Click the edit link next to the information you want to change.
 have more than one Account and would like to merge them
 We can support merging multiple accounts into one for partners, and transfer Education/Certview certifications for other users.
 Provide details about your accounts, including the applications and services you access with them. This request may take time while we research various systems when we merge accounts.
-am sharing an Account with others
 We discourage shared accounts because all individuals do not have control of the account. For example, the user who has control of the email address associated with the account can change the email address or password without notifying you.
+can't access My Support and have a support agreement
 You must have purchased support to have access to My Support.
 If you are able to sign in with your Account, but cannot access support you have paid for, 
 My account is locked. I've had trouble signing in.
-When signing in has been unsuccessful for 10 times in 24 hours, we lock your account for security reasons. Clear your browser cache then reset your password.
 Still having trouble? If you recently created an Account but did not verify your email address, you may need to 
-am interested in communications on specific topics
 Subscribe to communications from  based on your interests. You do not need an Account to receive these communications.
 don't want to receive any marketing communications
-Are you receiving email communications that do not reflect your interests? 
  to receive communications that are relevant to you.
-If you really do want to opt out of all marketing communications, click 
 Unsubscribe
  here or at the bottom of Account pages.
-Still Having Trouble?
-Engage a Sales Expert
-Start for free
-Integrated Cloud Applications & Platform Services
 Ad ChoicesSign in to Cloud
 recognizes that fostering a diverse and inclusive workforce where all employees contribute to thought leadership drives innovation and engagement.
-Oracle’s Commitment to Diversity and Inclusion
 “Diversity and inclusion are part of the strategy that is using to build a world-class team.”
 —Rich Geraffo, Senior Vice President, North America Technology Division, Awards and Recognitions—US
-Best Place to Work
 2017: Recognized on the Human Rights Campaign’s List of Best Places to Work.
 “appreciates that it is important to cultivate an environment that is inclusive of all employees and that respecting differences enriches our organization and contributes to our success. Integrating the diverse perspectives of our employees into every aspect of business is what our business is all about.”
-Aruba
-United States
-Bosnia & Hercegovina
-Engage a Sales Expert
-Start for free
-Integrated Cloud Applications & Platform Services
+Sign up for a free trial
 Ad ChoicesSign in to Cloud
 Oracle, a global provider of enterprise cloud computing, is empowering businesses of all sizes on their journey of digital transformation. Cloud provides leading-edge capabilities in software as a service, platform as a service, infrastructure as a service, and data as a service.
 helps customers develop strategic roadmaps and advance their journey to the cloud from any point: new cloud deployments, legacy environments, and hybrid implementations. Oracle’s complete, integrated approach makes it easy for companies to get started in the cloud and even easier to expand as business grows. Oracle’s application suites, platforms, and infrastructure leverage both the latest technologies and emerging ones—including artificial intelligence (AI), machine learning, blockchain, and Internet of Things (IoT)—in ways that create business differentiation and advantage for customers.
@@ -510,57 +261,27 @@ Oracle’s security practices are multidimensional and reflect the various ways 
 has corporate security practices that encompass all the functions related to security, safety, and business continuity for Oracle’s internal operations and its provision of services to customers. They include a suite of internal information security policies as well as different customer-facing security practices that apply to different service lines.
 Cloud Security Practices describe how protects the confidentiality, integrity, and availability of customer data and systems that are hosted in the Cloud and/or accessed when providing Cloud services.
 With Software Security Assurance , Oracle’s goals are to ensure that Oracle’s products help customers meet their security requirements while providing for the most cost-effective ownership experience.Home
-About  Supplier Diversity Program
-Memberships and Events
-Working With Supplier Diversity
+Sign up for a free trial
 If you are a small or diverse business interested in working with Oracle, please complete the following steps:
-supplier qualifications summary
-training webinars
-If qualified, complete a 
-supplier information template (PDF)
 Send the information template, quiz, and Supplier Presentation Video to us at 
 Oracle’s commitment to working with small, diverse, high-quality suppliers is an important aspect of our procurement vision.
 The Supplier Diversity team endeavors, on a good-faith effort basis, to work with and develop small, minority, women,veteran, and service-disable veteran-owned businesses. The team is always looking for small and diverse suppliers that can deliver creative, high-quality products and services. Ultimately, our goal is to diversify our supplier base by encouraging these small and diverse suppliers to compete for business opportunities.
-Smart Simple Marketing Success Story
 If you would like to learn more about our supplier diversity program, the following outreach and support initiatives have been developed to help prospective small and diverse suppliers navigate the process:
-Training and Tutorials
-Memberships and Events
-Supplier Diversity and Corporate Citizenship
 Oracle’s Supplier Diversity Program supports corporate sustainability initiatives by working with small and diverse suppliers who are also committed to these efforts.
-Corporate Citizenship Report
-The Supplier Diversity team tracks Oracle’s indirect procurement spend with small and diverse businesses and can assist in providing Tier 2 spend reporting. However, this request must comply with internal policies and begin with a request from the sales/customer contracts team. If you require this information, please contact your Sales support representative to initiate this process.
-Supplier Diversity Team Contacts
-If you have questions for the Supplier Diversity team, please e-mail 
-Integrated Cloud Applications & Platform Services
- Customer Reference Activities
-Customer Success
-Customer Reference Activities
-Cloud Customer Hubs
-Customer Success Stories
+Sign up for a free trial
 Published on Oracle.com, success stories provide information about your organization, your business challenges, and your technology-enabled solution.
-See examples of current stories
-Customer Success Videos
 Tell your success via videos—either filmed at an event you are attending or on location at your facility.
-See examples of current customer success videos
 Our Content Central team may choose to highlight you in feature articles found on Oracle.com and 
 View current issues of Profit and Magazine
 You may have the opportunity to speak with reporters at independent magazines, newspapers, and television outlets, as coordinated by Oracle’s public relations team.
-See examples of customer press releases
-customers frequently provide quotes about their success with an product or service. With your permission, we use these quotes in external settings such as presentations, brochures, website content, and events.
-See examples of current quotes
 Host an informal, hour-long sales reference conference call to share your successful business transformation that includes a question-and-answer session with prospective customers.
-Sales Reference Calls and Visits
 You can provide one-off sales references by phone or host a prospective customer at your facility.
 Customers are regularly invited to present individually or on panels at or third-party events, such as OpenWorld and other key product-focused or analyst events.
-Integrated Cloud Applications & Platform Services
-About  License Management Services
-About License Management Services
+Sign up for a free trial
 What is License Management Services?
 License Management Services (LMS) is the established authority on licensing policy. We provide customers with an open, transparent, and definitive assessment of their compliance position. We achieve this with an engagement process that's designed to help customers measure actual usage versus their contractual entitlements, and to address the operational and financial risks associated with any unauthorized deployments.
-Customer-First Approach
 The strategic goal of is to consistently deliver best-practice audit experiences to our customers. This is done by developing more trusted working relationships with organizations and delivering an efficient audit process that, upon completion, leaves them in a stronger position for the future. It’s an approach designed to inspire a more proactive form of license management and to help customers validate the effectiveness of their internal controls, and through them, to maintain a compliant position.
 "Working with License Management Services has provided the governance team with a wealth of information relating to products and significantly added value to our business."
-—Jo Harris, Governance Manager, Shared Services, Britvic plc
 Our Strategic Priority: Helping Customers Minimize Risk
 Managing multiple licensing terms and conditions while maintaining an accurate, up-to-date view of usage can be a challenging endeavor. It’s also becoming increasingly difficult as environments move to the cloud, become ever-more virtual, and are constantly impacted by changes to organizational structures. 
 As a result, customers can become noncompliant without even realizing it, due to end-user behavior or a misinterpretation of their contractual entitlements. At we appreciate that most instances of license overusage are unintentional, yet we have an equal responsibility to protect Oracle’s intellectual property.
@@ -568,48 +289,28 @@ That's why our services are focused on collaboration and prevention, as well as 
 Empowered customers with the visibility to proactively maintain their compliance position
 Access to verified usage data that demonstrates the validity of internal controls
 "License Management Services provided deep expertise and objective advice. We expanded our knowledge of licensing, optimized our investment, and ensured compliance, thereby, reducing legal and operational risks."
-—Dr. Joerg Meyer, Executive Director Services Group Infrastructure, Aurubis AG
-Leading Through Experience
 As an organization exclusively focused on license management, operates independently from any ongoing commercial discussions. Our services are delivered by a global team of highly experienced and knowledgeable consultants who collectively offer unrivaled knowledge on all aspects of Oracle’s licensing policy. 
-Integrated Cloud Applications & Platform Services
 Ad ChoicesSign in to Cloud
 Your experience as an customer is very important to us. Your feedback is welcomed and has affected all portions of our business including product development directions, order and invoicing policies, contracting, account management and support.
 conducts focus groups, surveys and polls across our customer base as part of our Customer Advisory Panel program—providing feedback to our executives, our product development teams, and our various lines of business. The Customer Advisory Panel program enables you to participate in highly targeted surveys and panels in the areas of most relevance to you. In return, you’ll hear back from executives sponsoring the studies and be invited to join Customer Connect, an online community of customers, where you can network with other customers, hear from executives and learn more around how customer input shapes our direction.
 The Customer Advisory Panel program is free to join and complements our 900 independent user groups, executive boards and councils, and social forums. These programs are part of Oracle’s broader efforts focused on understanding customer experiences across channels, touch points and interactions. Built on Oracle’s best-in-class and solutions, the Customer Advisory Panel program integrates feedback to provide a holistic view of our customer’s experiences. This approach provides actionable insight needed to drive improvements across our lines of business and focus investments in the areas that deliver the most value to you.
 Oracle’s customer experience program is highlighted in the new book TCE: Total Customer Experience by Bob Hayes, Ph.D.
 To learn more about Oracle’s Customer Experience Management program, contact the Customer Feedback Team .Home
-Board of Directors
-Board of Directors
-Board of Directors
+Sign up for a free trial
 Chairman of the Board and Chief Technology Officer
-Safra Catz
-Chief Executive Officer
-Vice Chairman of the Board
-Chief Executive Officer
-Chairman of Northside Services, LLC
-Dr. Michael Boskin
 Professor of Economics and Hoover Institution Senior Fellow at Stanford University
-Bruce Chizen
-Senior Adviser to Permira Advisers and Independent Consultant
-Senior Advisor to Akamai Technologies, Inc.
 Professor Emeritus of Computer Science/Electrical Engineering at Stanford University
 Chairman and of Ampere Computing and Operating Executive at The Carlyle Group
-Charles (Wick) Moorman IV
-Senior Advisor to Amtrak
 Former Director of the Central Intelligence Agency and Former Secretary of Defense
-Former Chief Executive Officer of Deloitte Touche Tohmatsu
 Senior Partner at Ostriker von Simson
-Integrated Cloud Applications & Platform Services
 Ad ChoicesSign in to Cloud
 The Loyalty and Commitment of Veterans Add Value to Our Business
-Hiring Veterans is a Business Advantage
 recognizes the unique skillset veterans bring to our workplace. Leadership, teamwork, and the ability to adapt to change easily are key attributes that make hiring veterans an attractive option for Oracle. We proudly provide and host opportunities to engage and support the veterans community.
 “truly values the leadership and integrity that are the hallmarks of military service.”
 —Mary Ann Davidson (Lieutenant, Civil Engineer Corps, Naval Reserve) Chief Security Officer, Veteran Internship Program
 We are proud to sponsor an internship and integration program that exposes transitioning military veterans injured during training missions and military campaigns worldwide to the corporate culture and potential careers in the public or private sector.
 Quarter-long, paid internship and integration program for transitioning Veterans
 Hands-on job skills training experience in fields as IT, technology, data, logistics, and sales
-Professional and personal development by corporate professionals
 Mentor program assists new veteran employees with successfully integrating into Oracle’s corporate culture.
 Engages newly hired military veterans and orients them to the corporate environment
 Provides a guide to help them navigate their transition to Oracle’s culture
@@ -623,9 +324,7 @@ Class Of brings together some of the brightest minds in the industry, providing 
 You will be provided with the tools, training, coaching, and team to help you be successful.Sign in to Cloud
 Oracle’s Supplier Code of Ethics and Business Conduct requires our suppliers to observe the law and conduct business in an ethical and responsible manner. Where local laws are less restrictive than Oracle’s Code, suppliers must comply with the Code, even if their conduct would otherwise be legal. Where local laws are more restrictive than Oracle’s Code, suppliers must always, at a minimum, comply with the law. Where permitted by law, we enable the anonymous reporting of noncompliance incidents through the Integrity Helpline.
 In addition, has adopted the Electronic Industry Citizenship Coalition (EICC) Code of Conduct and actively participates with other industry groups to leverage industrywide approaches aimed at reducing duplicative efforts and promoting continuous improvement in factory working conditions across the electronics industry.
-Environmental Footprint
 Several of our direct hardware suppliers are located in resource-constrained areas that have emerging regulations around the use of natural resources, including energy, waste, and water. For this reason, we include these topics in our annual hardware supply chain surveys. also participates in the Energy Saving Opportunity Scheme (ESOS) industry report, leveraging best practices identified in the United Kingdom to improve energy efficiency across our direct hardware supply chain globally.
-Responsible Sourcing
 Through Oracle’s Supplier Social and Environmental Responsibility programs, we manage and monitor our direct hardware supply chain, leveraging the Code of Conduct. Our responsible sourcing approach addresses a range of issues, including factory audits, conflict minerals, energy, water and waste footprints, and anti-human trafficking.
 evaluates risks within its direct hardware supply chain based on several factors, including geography and self-assessment questionnaires. As part of our commitment to reducing audit fatigue in the information and communication technology (ICT) industry, may accept EICC-validated audit reports in lieu of onsite audits.
 In FY17, we completed 13 audits and 5 re-audits based on the Code of Conduct at direct hardware supplier factory locations.
@@ -633,20 +332,15 @@ is committed to responsible sourcing of the tin, tantalum, tungsten, and gold (3
 continues to be an active member of the Conflict-Free Smelter Initiative (CFSI) established by the EICC.
 has a zero-tolerance policy for child labor and human trafficking in its global supply chain. In 2015, the strengthened its stance on this issue, banning the payment of employers’ or agents’ recruitment and related fees by workers. As a result, and in an effort to identify any vulnerable groups within a factory workforce, our direct hardware supplier audits include interviews with factory employees to understand recruitment processes.
 As part of our commitment to increase awareness and transparency regarding human trafficking, provides training pursuant to the California Transparency in Supply Chains Act and the United Kingdom’s Modern Slavery Act of 2015.
-Sustainable Procurement Practices
 Oracle’s commitment to sustainability extends to the products and services we purchase. We recognize that purchasing decisions present an opportunity to have both a social and an environmental impact and promote doing business in a responsible and sustainable manner. We employ a supplier qualification program that requires our suppliers to demonstrate socially and environmentally responsible business practices.
-100% of Oracle’s technology recyclers are 14001 certified.
 100% of the standard laptops we purchase are and certified.
-More than 4.1 million installations of software in FY15 and FY16 were performed electronically, eliminating all the physical media previously necessary.
-4.2 million pounds of technology assets were collected for recycling or reuse in FY16 and FY17.
 41,000 pounds of batteries were recycled by Oracle’s asset management team in FY16 and FY17.
 Leveraging Technology to Reduce Travel
 In FY16 and FY17, we continued our work to reduce travel by leveraging products and updating our travel-related business practices.
 We ask employees to travel only when necessary and employ web conferencing and Cisco TelePresence across our enterprise to ensure that virtual meetings are highly effective. Many internal meetings that were previously conducted face-to-face have been replaced by teleconferences.
-Recycling and Recovering Assets
 Office equipment: Oracle’s Asset Sale, Donation, and Disposal policy outlines what employees should do with technology assets that are not being fully utilized or have reached the end of their useful life. Computers, monitors, computer accessories, printers, projectors, and more are collected and managed by Oracle’s Technology Recovery and E-Waste Recycling program. Surplus equipment from one department is given to another for immediate use, and assets that must be retired are mined for their useful parts before being recycled.
-Phones: and its mobile phone
 AT&T, Sprint, and Verizon—offer trade-in programs for employee cell phones and handheld devices. Traded-in phones are refurbished and made available to customers seeking to purchase preowned equipment at a reduced rate.
+Learn MoreSign in to Cloud
 Data infrastructure powerhouse brings together three Fortune 500-size organizations onto Cloud to deliver greater business intelligence, agility and value to its customers
 Western Digital Corp (NASDAQ: WDC) selected Cloud to help modernize its business processes as part of its digital transformation journey. The company chose Enterprise Resource Planning (ERP) Cloud in May, 2016 to bring together the core business systems of three multi-billion dollar companies – Western Digital, SanDisk and – all with growth in mind. As a result, Western Digital has been able to combine numerous applications, reduce approval times by 70 percent, rationalize suppliers by 50 percent and improve acquisition agility on a global scale.
 After acquiring SanDisk and HGST, Western Digital faced the challenge of rationalizing three Fortune 500-size on-premises systems. Western Digital decided it needed a modern suite of best-in-class applications that would enable it to enhance the customer experience and achieve a competitive advantage while improving employee productivity. After careful evaluation, Western Digital selected Cloud , which has allowed it to seamlessly extend its on-premises applications to the cloud and establish a modern business platform that can seamlessly scale to support its future expansion plans and new technology innovations.
@@ -654,91 +348,48 @@ After acquiring SanDisk and HGST, Western Digital faced the challenge of rationa
 “The technology industry is an incredibly fast-paced and competitive market, where the quickest, most agile players win. Western Digital has done an incredible job bringing three large enterprise organizations onto a single Fortune 100-scale platform to significantly improve efficiency and business agility,” said Rondy Ng, senior vice president, Applications Development. “With Cloud, Western Digital will be able to continually take advantage of the latest innovations to gain a competitive advantage and successfully position itself for future growth.”
 Western Digital’s adoption of Cloud builds upon its use of both on-premises and Analytics Cloud . With Oracle, Western Digital is able to avoid massive file download times and manual analysis to provide its employees with access to the information they need to make better, faster decisions. Learn more about how is “ empowering Western Digital with Analytics Cloud. ”
 About The Cloud offers complete Saaapplication suites for ERP, and CX, plus best-in-class database Platform as a Service (PaaS) and Infrastructure as a Service (IaaS) from data centers throughout the Americas, Europe and Asia. For more information about (NYSE:ORCL), please visit us at www.oracle.com .
-and Java are registered trademarks of and/or its affiliates. Other names may be trademarks of their respective owners.
-Autonomous Database for Dummies
+Sign up for a free trial
 Find out how your Database can install, manage, secure, and upgrade itself. That’s all possible today, thanks to the power of machine learning, artificial intelligence (AI), and the cloud.
-Peer insights: DBAs predict database directions
-Try Cloud Platform for Free
+Get the Dummies book
 Options for spending account credits include databases, application development, integration, and more. Get started with up to 3,500 free hours.
-Launch your trial
+Software as a Service (SaaS) for Dummies
 Understand the opportunities for your line of business—sales, service, marketing, finance, HR, or supply chain. Plus: Discover what you need to look for in a cloud partner.
+Get Saafor Dummies
 Autonomous Database: Fully Automated, Ever-Vigilant
 Time to create rather than administrate. Sit back, relax, and let do the driving with the world’s first autonomous database.
-Watch Larry’s foldout animation
-Learn about our self-driving database
 Experience Greatness in Finance, HR, Supply Chain
 At Modern Business Experience, connect across teams and uncover new ways to thrive in the experience economy. Featured speakers include Earvin ‘Magic’ Johnson. March 19–21, Las Vegas.
-Develop on Get Product Documentation
-Join a Community
 Take advantage of tools for developing and testing programs written in the Java programming language.
-Free trial: Autonomous Database
 Get 3,300 free hours with the world’s only self-driving, self-securing, and self-repairing autonomous database. 
-Take advantage of Enterprise/Standard editions of Oracle’s latest database.
 Integration Cloud Speeds Time to Revenue for Startup
 Atlatl Software used to spend 31 days building integrations to customer apps. With Integration Cloud, it takes 2 days max.
 “It’s repeatable, it’s scalable. Now we can quickly move off a discussion about integrations to a discussion about the power and benefits of our software and getting to the sale.”
-Marc Murphy, CEO, Atlatl Software
+Watch Atlatl video (1:43)
 Get a snapshot of risky users, assets, and threats across the stack, then automatically stop bad guys before they steal your data.
-Modern Customer Experience: Be Legendary Together
 Connect with legends across marketing, service, sales, and commerce at Modern Customer Experience,  March 19–21 in Las Vegas. Featured speakers include Earvin ‘Magic’ Johnson.
 Cloud Security for Dummies
 Find out how you can bolster your enterprise’s security and compliance posture by partnering with a trusted cloud provider.
-How Digital Finance Leaders Drive Revenue Performance
 Organizations that have invested in digital finance are significantly more likely to report strong revenue growth. Learn the key traits of digital finance leaders.
-Choose Your Area of Interest
 More About Smart Cloud Alternative: Brings the Cloud to You
 Cloud at Customer provides the scalability and affordability of public cloud—behind your firewall.
-Cloud at Customer benefits
 Infrastructure as a Service (IaaS) for Dummies
-Achieve high infrastructure performance without the price; explore Cloud Platform, an enterprise-grade, fault-tolerant Iaa
+Get Iaafor Dummies
 Take continually updated, on-demand instruction with a Java Programming Learning Subscription. Now includes 11 content.
-Integrated Cloud Applications & Platform Services
-Free Cloud Platform Trial
-Company Size
 Jucesp, Commercial Board of Sao Paulo
-Education and Research
-Education and Research
-Education and Research
-Frozen Mountain Software, Ltd.
-Consumer Goods
-Oriental Insurance Company
-Integrated Cloud Applications & Platform Services
 Take advantage of product sessions, events, and activities just for partners.
-Check out all the events and resources
-LIVE! PartnerCast
-Risk Management Cloud
 More information on this upcoming PartnerCast and past replays
 is a modern learning platform introducing skills badging and social elements to stay informed and exchange expertise with peers.
-Cloud Excellence Implementer Program
 Recognizing superior customer satisfaction and implementation success.
-Become a Cloud Excellence Implementer
 Easy access to curated sales and customer-facing content.
-Go to Sales Central
 The New Partner Program Guide
 Complete How-To Guide to Help Jumpstart Your Membership.
-Join OPN, Review Benefits & Levels, Register for Access
 Training by Role and Product, Accreditations, Exams and Study Guides
-Get Specialized, Exastack Ready and Optimized, and Validated Integration
-Develop Solutions
-Why Develop on Oracle, Application Development Framework, Certify or Validate, and Support
-Market & Sell
-Market Your Offerings, Register Deals, Place Orders, Report Royalties
-Membership Renewal,  Apply to Resell Oracle, Apply for Programs, Agreements & Policies
-Cloud Business Builder
 Build your cloud business with and monetize your PartnerNetwork membership.
-Visit the Cloud Business Builder
-Cloud Customer Connect Community
-Cloud Infrastructure
-Integrated Cloud Applications & Platform Services
-Differentiate Your Business with OPN
-Gold Level Brief
 Program GuideSign in to Cloud
-Discover what user group organizations are doing to efficiently monitor and manage their on-premises and cloud technologies.
 Discover How You Can Modernize Your Operations
 As an operations professional, your job is more critical than ever because cloud operations are now a fact of life. From managing on-premises assets to deploying and managing new applications to the cloud, provides a comprehensive solution for managing your environments with Management Cloud and Enterprise Manager.
 Enterprise Manager has traditionally provided deep management for the stack using an on-premises delivery method. Management Cloud is our next-generation, cloud-based management offering powered by machine learning and big data analytics.
 For existing Enterprise Manager customers, managing cloud assets is possible right within the cloud control user interface. For new customers, the easiest way to monitor cloud assets is to use Management Cloud .
-Manage packaged applications, including—but not limited to—E-Business Suite, Siebel, PeopleSoft, Edwards EnterpriseOne, Tax and Utilities, Communications applications, and Primavera.
 Enterprise Manager provides a comprehensive management solution for WebLogic Server, Fusion Middleware, and non-middleware technology such as Apache Tomcat, JBoss Application Server, and WebSphere Application Server. The solution offers capabilities spanning configuration and compliance management, patching, provisioning, and performance management, as well as administration and auditing.
 Take advantage of Oracle’s time-tested and popular solutions including Diagnostics Pack, Tuning Pack, Real Application Testing, and related technologies to manage Databases.
 Manage physical and virtual server environments including Solaris and Linux operating systems and virtual environments (Solaris Zones and for SPARC).
@@ -746,7 +397,6 @@ Manage web and Java applications built on WebLogic Server and Databases. Monitor
 complete testing solution for Database, packaged applications, and custom web applications.
 Extend Enterprise Manager to monitor non-technologies. For customers new to Enterprise Manager, please review Management Cloud for cloud-based monitoring of heterogeneous environments.
 See What Management Cloud Can Do for Your Enterprise Manager Investment
-Customers Drive Transformation Through Optimization
 Enterprise Manager Is a Complete Solution for Lawrence Livermore Labs
 Lawrence Livermore National Laboratory’s National Ignition Facility houses 192 of the world’s most powerful lasers. They rely on Enterprise Manager to monitor and manage the databases and applications that handle the vast amount of data generated from the facility.
 Eliminates Software Audits and Compliancy Risks by Taking Control of Software Entitlements
@@ -759,42 +409,26 @@ Enterprise Performance Management (EPM) Cloud gives you the agility you need to 
 Planning and Profitability
 Oracle’s planning and profitability products are designed to provide truly agile forecasts and connected planning across the organization, from long-range planning to bottom-up budgets and forecasts.
 Reinvent reporting with a single solution for defining, authoring, reviewing, and publishing financial, management, and regulatory report packages.
-Plot Your Path to Intelligent Finance
 Look to the cloud as an opportunity to reinvent your business processes. Start small by complementing existing on-premises operations with one or more business processes. Extend corporate planning with operational planning for or Address that last mile of finance processes.  Or go all-in and gain all the advantages of a fully digital business.
-Deployment Options
 How could you benefit from Cloud today? Will you upgrade business processes, extend existing ones, or gain all of the rewards of a digital business? can help you get there.
 Best-in-class solutions for businesses of every size.
-See how Cloud outperforms.
-Manage your agile business with Cloud.
 software helps you analyze, understand, and report on your business.
 Valet Living is transitioning from highly transactional to highly strategic. and Controller Jeremy Pfeifer talks about how Cloud and Cloud streamline back-office processes so the company can focus on customers and growth.
-Royal Bank of Scotland
 Royal Bank of Scotland's head of future finance Stuart Wray shares how and Cloud are ushering in a new era for finance at this 300-year-old institution.
 We built an enterprise performance and master data management platform with Enterprise Performance Management. We also improved efficiency through in-depth analyses of each division, enabling us to increase the resources we spend on research and development to enrich our technological innovation.
-Ge Zeng, VP, Guangzhou Shiyuan Electronic Technology Company Limited
 By adopting the powerful and scalable Planning and Budgeting Cloud Service, we can easily slice and dice the data and provide a suite of reporting that is specific to individual stakeholders. This flexibility empowered us to deliver value to over 49,000 levy payers and support our strategic plans.
 Ben Blinman, Financial Planning and Analysis Manager, Meat and Livestock Australia Ltd.
 Figures that would have maybe taken a week to attain before implementation can now be had in a few hours.
 With the introduction of Cloud, we reduced the workload involved – such as tabulation by spreadsheet, preparing forecast materials, and reporting to some meetings. We expanded into other departments, and we aim to realize business management based on real-time data.
-Yoshikazu Makino, Chief, System, Asante Incorporated
 With the introduction of Cloud, we improved employee awareness of sales and profits and emphasized that each department could proactively impact the plan-do-check-act cycle. expect to improve efficiency and quality in the future.
-Daisuke Doma, Manager, Corporate Planning Division, Co., Ltd.
 Existing systems had difficulties with report refurbishment, due to change of master data, and approval flow over multiple layers that could not be implemented. Therefore, we decided to adopt Enterprise Performance Management Cloud in order to build a business management system that allows approvers to report and analyze in real time.
-Hiroo Hidaka, Manager, Finance & Accounting Division, Naito & Co., Ltd.
+Sign up for a free trial
  Capabilities—Planning, Budgeting, and Forecasting
 Planning, Budgeting, and Forecasting
 The digital economy demands more than traditional spreadsheets and department-oriented planning processes. Truly effective planning needs to seamlessly connect the entire organization. Oracle's planning, budgeting, and forecasting solutions align planning across the enterprise, so that you can develop agile forecasts for all lines of business and respond faster and more effectively to change.
 Ramp up Fast with Best Practice Modules
 Kick-start your forecasting. Leverage purpose-built, out-of-the box modules that quickly link financial and operational planning for the following business processes:
-Capital asset planning
-Project financial planning
-Financial statement planning
-Flexible Deployment Options
 Plan and grow at your own pace. Leverage Oracle’s cloud-based planning solutions for your current reporting requirements. Adapt quickly as business needs change.
-Quickly deliver new applications
-Reduce ongoing costs
-Leverage existing assets and optimize new investments with seamless integration with and other systems
-Build innovative, new business processes
 Ensure consistent security with market-leading security technology
 Data sheet: Planning and Budgeting Cloud Service (PDF)
 Built for Public Sector Planning
@@ -802,74 +436,51 @@ Designed for public sector, healthcare, and higher education, this solution help
 Reduce implementation costs with a packaged solution
 Quickly create accurate workforce plans and position budgets
 Reduce budgeting and planning cycles by weeks or months
-Improve forecast accuracy by gaining financial visibility
 Reduce the time spent on creating reports and budget books
 Data sheet: Hyperion Public Sector Planning and Budgeting (PDF)
-Related Products and Solutions
 Enterprise Planning and Budgeting Cloud
-Don’t just plan—own the plan.
 Planning and Budgeting Cloud
 World-class planning with the simplicity of the cloud.
-Hyperion Planning
 centralized, Microsoft Office- and web-based planning, budgeting, and forecasting solution.
 Hyperion Public Sector Planning and Budgeting
 complete planning and budgeting application built for the public sector.
-Hyperion Strategic Finance
 feature-rich financial forecasting and modeling solution with on-the-fly scenario analysis and modeling capabilities.
-Find out about Cloud
-Simplify Application Migration to the Cloud
-Engage a Sales Expert
-Integrated Cloud Applications & Platform Services
 Ad ChoicesSign in to Cloud
-Fast—and Accurate—Financial
 Streamline and improve the entire or extended financial close and reporting process.
-Optimize Financial Close and Reporting
 You are continually tested by new regulatory reporting requirements and internal demands for information. financial close and reporting solutions enable you to adapt quickly to changing business and compliance requirements while reducing risk, improving control, and delivering faster, more accurate insights to all stakeholders—anytime, anywhere.
 Ramp up Fast with Best Practice Modules
 Leverage purpose-built modules to manage regulatory, external and internal financial close, and reporting for the following business processes:
 Automate financial processes at your pace. Leverage Oracle’s cloud-based, financial-close solutions for your current requirements. Adapt quickly as business needs change.
-Quickly deliver new applications
-Reduce ongoing costs
-Leverage existing assets and optimize new investments by integrating with and other systems
-Build innovative, new business processes
 Ensure consistent security with market-leading security technology
 Improve the speed and accuracy of all aspects of the extended financial close and internal and external reporting processes.
-Deliver faster, more accurate insights to all stakeholders
 Adapt quickly to changing business and compliance requirements
 Reduce risk, gain control, and improve the accuracy of internal and external reporting
 Gain a single version of truth with data access and integration on a single reporting platform
-Rely on accurate numbers
 Get StartedSign in to Cloud
 Transformational Profit and Loss Analysis
 Master profit and loss from every dimension. Keep pace with the competition. Protect profit winners. Fix the underperformers.
 Oracle's solutions for profitability and cost management provide actionable insights into costs and profitability. Discover the drivers of cost and profitability. Improve business agility with powerful multidimensional analysis.
 Rapidly Build Profit and Cost Models
 Gain laser focus on profitability and costs across your business. With Oracle's solutions for profitability and cost management, it’s never been easier—or more powerful.
-Perform faster, easier, multidimensional analysis and scenario modeling
 Leverage industry-leading technology to create, maintain, and deploy business models
 Drive rapid application design with a business rules engine and intuitive user interface
 Effectively manage shared service expenses. Gain complete understanding of costs and profitability throughout your organization. Allocate costs to hold stakeholders accountable.
-Efficiently process large data sets across many dimensions with detailed models
 Improve buy-in from receiving departments with transparent calculations
 Use recursive or reciprocal allocation methods as needed
 Automate cost allocations by integrating with general ledger, data warehouse, planning, and other systems
 Oracle’s solutions for profitability and cost management offer industry-specific features and best practices to help you improve profitability across your organization.
 Gain visibility into your complex cost allocations. Automate processes, standardize business rules, and better understand your costs and revenue sources.
 Automate allocations with transparency
-Easily add new entities
 Improve accuracy by using feeds directly from source systems
 Quickly break down costs to a granular level, such as customer accounts
-Higher Education
 Balance the need for competitive courses with fiscal responsibility. Understand the fiscal stability of new programs. Analyze several business scenarios to discover the best course of action.
 Gain visibility into program, degree, course, and student costs
 Improve decision-making with insight into cost containment and resource allocation
-Ensure resource alignment with actual, measurable information
 Understand the true costs of new programs and make pricing decisions accordingly
 Leverage a new generation of decision-support tools. Gain point-of-decision insights, working in concert with clinical and operational systems. Deliver the most clinically cost-effective care paths for providers and insurers.
 Improve budgeting effectiveness by identifying the cost/performance relationship of different service levels
 Eliminate wasteful processes with visibility into nonvalue-added activities
 Improve costs by monitoring total lifecycle cost and performance by specialty, department, patient, and clinician
-Gain insight into overhead costs
 Growing revenue no longer equates to increased profitability. Align complex cost structures with revenue for credible profitability analysis. Discover the right products and services to grow your business.
 Determine costs by customer, product, channel, region, market, and sales channel
 Quantify the cost of delivering special services and products
@@ -893,71 +504,50 @@ Flexible Deployment: Simplifies technology choices to meet your changing busines
 Planning and Budgeting Cloud for Midsize Companies
 Planning and Budgeting Cloud for Midsize Companies removes the barriers to adoption of on-premises application and make it easier for midsize businesses to deploy a world-class planning and budgeting solution in a matter of weeks.
 Proven and scalable architecture
-Improve forecast accuracy
 Reduce cost ownership through superior application deployment, management tools, and packaged data integration
 You may also be interested in:Sign in to Cloud
-Tomorrow’s Supply Chain, Today
 Supply chain rules are changing. Increased buyer expectation, shorter product lifecycles, new regulations and fluctuating demand are testing the limits of traditional supply chains. Cloud enables businesses to manage their supply chains with the scale, security, innovation and agility that modern markets require.
 Find out why Cloud is the only Leader in Gartner Magic Quadrant for Cloud for Product-Centric Midsize Enterprises.
 With sessions across logistics and order management, maintenance, manufacturing, procurement, product lifecycle management, and supply chain planning, this will be the premier event for supply chain professionals.  March 19–21, Las Vegas.
-Your Supply Chain Opportunity, Your Journey
 Cloud is the only supply chain management solution that lets businesses build tomorrow’s supply chain today by managing the complex and demand-driven marketplace of the future. It provides you with a digital thread of end-to-end business technology that takes business beyond supply chain operations and into integrated business planning.
-Process Flows to Meet Your Business Needs
 Transform your supply chain from functional necessity to competitive advantage. Cloud supports your journey to digital transformation by offering the broadest and deepest range of capabilities to modernize your operations.
-Build Tomorrow’s Digital Supply Chain, Today
 Many businesses are moving to outcome-based business models to increase the duration of their competitive edge and improve margins. This shift leads to an operating model designed from the outside-in or buyer-back, rather than from the classic inside-out. Supply Chain Management Cloud is the only platform that enables you to connect all your business processes in one cloud-based architecture. It can help you transform your end-to-end business and provides you with the agility, visibility, analytics, and execution capabilities to reduce costs and drive innovation and growth.
 Achieve the True Potential of Industry 4.0 in Your Supply Chain
 Industry 4.0 differentiates itself from its competitors by taking a packaged application approach that delivers the fastest and most comprehensive on-ramp to the benefits of Industry 4.0. With Industry 4.0, manufacturers of all sizes are able to reduce costs, maximize productivity and efficiency, reduce time to value, accelerate innovation, and improve customer satisfaction.
-Cloud deployment delivers 3.2 times more over on-premises deployment.
 Why Supply Chain Leaders Are Moving to the Cloud
 Discover a secure and rapid way to build a modern supply chain.
-What are Dr. Gattorna’s Keys to success?
 In order to streamline the product launch process, Symantec replaced Agile and multiple other systems with Cloud to simplify their process and reduce go to market time from 3 to 4 weeks to 3 to 5 business days.
 Our luxury lifestyle platform serves as a one-stop shop for our more than 16 million high-end consumers around the world. Efficient accounting processes, integrated business and financial systems, and unrivaled productivity are critical for us—and Cloud Platform, Cloud, and Cloud enable us to deliver.
 ShaoWei Ong, Vice President, Human Capital, Legal and Administration, Beijing Secoo Co., Ltd.
 Warehouse Management Cloud Service is the only solution that enables us to reliably and efficiently manage our wine inventory and warehouse operations. We not only increased pick speed and fulfilled orders faster, but also gained the ability to deliver new services and enhance our member experience.
-Krista Diez-Simson, CFO, Vinomofo
 The key improvement with Innovation Management Cloud has been affording every employee the right to give ideas, knowing that every idea will be taken into consideration—and you find out that you have very smart employees who really want to help you build a better company.
 Adi Hadziosmanovic, Project Manager, Addiko Bank
 With Cloud, Cloud, and Cloud, we can support high annual growth and provide a solid foundation by building true online-to-offline, closed loop capabilities for core business functions, including financials, logistics, and supply chain management.
-Wu Zixuan, Director, Internet Technology Center, Guangdong Cheng Jia Technology Co., Ltd.
 Caesars Entertainment, worldwide gaming and entertainment company and and Cloud champion, adopted Enterprise Performance Reporting Cloud Service for 47 properties in 10 weeks, earning them the Fast Finance Award.
-Fedcap Rehabilitation Services
 To effectively provide help to people with barriers to economic well-being, Fedcap needed a trusted partner, Oracle, and a fully integrated and cloud platform – including Enterprise Performance Reporting, Workforce Planning, and Projects.
 We saw a lot of success with Cloud and Cloud. When we implemented our solutions, which we did in only 10 weeks, we embedded world-class processes and had extremely quick user adoption. We also eliminated maintenance tasks so backups and patching are a thing of the past for us!
-Kithsiri Senaratne, Director, Millennium Information Technologies (Private) Limited
-Supply Chain Management
-Supply Chain Management Procurement
+Sign up for a free trial
 Efficient and Effective Source-to-Settle
 Procurement Cloud modernizes procurement with innovative digital technology and automation to streamline processes, control costs, manage risk, and grow revenue. It provides more effective spend control and greater business agility through enhanced productivity, pervasive compliance, and complete visibility across the entire source-to-settle cycle, enabling your organization to be more strategic, influential, and effective.
 Increase user adoption through an intuitive, consumer-like buying experience
 Ensure spend compliance by directing purchases to approved suppliers
 Ensure policy compliance with multilevel approval workflows
-Sourcing Cloud
 Streamline supplier negotiations and achieve greater value 
 Easily collaborate with key stakeholders on requirements and objectives 
 Gain complete visibility into sourcing activities and make better award decisions
-Streamline contract creation, approvals, and ensure policy compliance
-Minimize risk through standardized contract language and terms 
 Manage contracts throughout the  lifecyle and automate changes and renewal notifications
-Supplier Qualification Management Cloud
 Qualify and manage suppliers and ensure their compliance with corporate policies
 Manage supplier risk through comprehensive evaluation of qualifications, capabilities, and Issues
 Improve sourcing decisions with current supplier assessments and capabilities
 Improve the way you interact and collaborate with suppliers
 Click into activity summaries and focus on transactions that require attention
 Easily expand self-service and increase productivity
-Purchasing Cloud
 Streamline purchase order creation from requisitions without manual intervention
 Translates into Big Savings for Cyracom (1:51)
-Connecting the Dots
-Source-to-Pay Process Overview (PDF)
-How Strategic Is Your Procurement?
+Modernize Procurement with Cloud (3:13)
 Adopt modern procurement practices including sourcing, contracting, self-service procurement, purchasing, and supplier management to deliver value to your organization.
 Optimized supplier selection and cost savings
-Maximize savings for your business
 With Sourcing Cloud’s guided negotiation process and award-analysis tools, you can reduce sourcing cycle times and quickly make the best award decisions for your business based on factors such as price, quality, and value.
-How Strategic Is Your Procurement? (PDF)
 Effectively manage suppliers and reduce risk
 Supplier Qualification Management Cloud is a complete solution for assessing and managing your suppliers. Gather critical supplier information, evaluate qualifications and capabilities, monitor compliance with business policies and objectives, and manage risk.
 How to Control Costs with Smarter Procurement
@@ -965,58 +555,35 @@ Efficient and compliant management of supplier and item data
  Self Service Procurement Cloud helps reduce off-contract spend by directing employee purchases to approved suppliers. Approval workflows ensure compliance with company policies. An intuitive buying experience and support for mobile devices enables simplified and compliant purchasing anytime, anywhere.
 Look at Procurement from a Strategic Perspective
 The Imperfect World of Indirect Purchasing
-How Strategic Is Your Procurement? (PDF)
-Streamlined contract creation and policy compliance
 Streamline contract lifecyle management and compliance
-How Strategic Is Your Procurement? (PDF)
+Explore Procurement Cloud in ERP
 Less labor-intensive procure-to-pay
-Increase productivity and maximize influence
 Streamline procurement processes and tasks by simplifying, standardizing, and automating processes. Decrease cycle times through guided navigation and social collaboration, effortlessly share information across teams, and quickly determine solutions through recommended actions.
-Integrated Cloud Applications & Platform Services
-Supply Chain Management
-Modern Logistics and Trade Management
+View All Procurement Cloud Resources on ERP
+Sign up for a free trial
 Get products to customers faster by managing all your warehousing needs and transportation modes within and across borders. Optimize routing, perfect order fulfillment, reduce costs, increase efficiency, and ensure compliance.
-Logistics Cloud Products
-Transportation Management Cloud
-Optimize shipments and connect logistics processes across all modes of transportation
 Effectively track, monitor, and execute using intelligent data and metrics
 Simplify fleet management and improve carrier sourcing and efficiency
-Warehouse Management Cloud
 Reduce inventory costs with real-time inventory visibility and warehouse accuracy
 Improve labor productivity and eliminate manual data entry
 Support multichannel demand and execution to sell anywhere, fulfill anywhere, and return anywhere
-Global Trade Management Cloud
-Ensure compliance with government screening requirements
 Manage legal, regulatory, and corporate complexities of cross-border transactions
-Mitigate financial risk related to customs fines, penalties, and storage fees
-Logistics Cloud Resources
 Elevate your logistics solution with Logistics Cloud.
 Discover How Logistics Cloud Is Reinventing Logistics Excellence
 Explore End-to-End Logistics Best-in-Class Capabilities
-Leverage Logistics, Transportation, and Distribution to Deliver More Personalized Experiences
-Stay Updated with Logistics Trends and Emerging Technologies
 Explore the Complete, Modern Logistics Cloud
 Logistics Cloud Delivers Improved Order Performance, Lower Costs, and Improved Supply Chain Flexibility
-Transportation planning and execution
 Is your transportation management system optimized to handle your logistics processes from end to end?
 From planning to execution, Transportation Management Cloud helps manage, track, and streamline transportation activity across fast-moving global supply chains. Transportation Management Cloud reduces freight costs, optimizes service levels, and automates routine business processes, enabling you to run your logistics operations with utmost efficiency.
  Gain visibility with Transportation Management Cloud
-Complete, Cloud-Based Transportation Management
 Gartner Magic Quadrant for Transportation Management Systems 
-Multichannel demand and fulfillment
-Can your warehouse handle multichannel fulfillment?
 Dynamic and easily configurable for  rapid, cost-effective implementation, Warehouse Management Cloud supports complex fulfillment operations, improves inventory and shipment accuracy, and provides total inventory visibility—from the distribution center to the store shelf.
 What Is a Warehouse Management System (WMS)?
 Finding a Robust and Flexible Warehouse Management Solution (1:27)
 Gartner Magic Quadrant for Warehouse Management Systems
-Customs and compliance
-Concerned about trade compliance and customs management?
 Reliable and easy to deploy, Global Trade Management Cloud is a single digital trade platform that supports end-to-end customs and compliance processes for all modes and geographies.
-Global Trade Management Cloud: Centrally Manage Your Global Operations
-Streamline Global Trade Networks with Global Trade Management Cloud
 Global Trade Compliance That Is Simple, Low Risk, and Scales as You Grow (1:01)
-Integrated Cloud Applications & Platform Services
-Supply Chain Management
+Sign up for a free trial
 New digital technologies are transforming the way companies approach maintenance management. Maintenance Cloud utilizes the Internet of Things (IoT), artificial intelligence (AI), big data analytics, and blockchain to enable decisions in real time that drive efficient maintenance operations, increase equipment reliability, uptime, and safety, and reduce overall costs.
 Deliver critical asset information across departments and improve equipment reliability and plant utilization
 Manage all types of assets within a single repository including diverse assets and assets across multiple industries
@@ -1028,305 +595,144 @@ Achieve operational excellence using machine learning (ML) and AI
 Securely extend business processes and accelerate B2transactions with blockchain
 delivers asset maintenance software that helps you drive strategic asset planning initiatives. Check out these resources and find what is best for your business.
 Combine All Elements of Industry 4.0 and Drive Automation with Io(3:26)
-Enable Efficient and Productive Plant Maintenance Operations
 Proactively Monitor and Maintain Assets to Ensure Uptime (2:29)
 Reduce Energy Use and Enhance Environmental Sustainability (5:59)
-Smart decisions with and ML
-Smart decisions with and ML
 Transform your maintenance organization from fragmented and reactive to demand-driven and predictive. Automatically generate recommendations on optimal maintenance schedules that maximize machine uptime using adaptive intelligence and machine learning.
 Remote Monitoring and Maintenance: Mission-Critical Operations at the Competitive Edge (PDF)
 Achieve Tomorrow's Maintenance, Today with IoProduction Monitoring
 Maintenance: Critical Link to Transforming Your End-to-End Supply Chain
+Enable connected maintenance with IoT
+Enable connected maintenance with IoT
 Connected assets allow you to better anticipate ongoing downtime and maintenance needs. Improve the operational efficiency of physical assets, uptime, and productivity. Efficiently plan and execute work with an integrated solution that connects your organization's maintenance, supply chain, and financial applications.
-Improve Your Maintain-to-Optimize Process (PDF)
-Maintenance Cloud—Enabling Efficient and Productive Maintenance Operations (2:20)
-Finds New Opportunities with Oracle’s Cloud Apps (1:06)
 Optimize operations with real-time, actionable insights
 Optimize operations with real-time, actionable insights
 With a complete view of all types of assets and equipment, know where a particular asset is in its lifecycle and whether it is providing value to your business. Empower your workers with real-time insights and actionable data leveraging Ioand big data technologies and continuously improve your business.
-Improved Manufacturing Decisions: Real-Time Factory Performance (PDF)
-Predictive maintenance with digital twins
-Predictive maintenance with digital twins
 Move from reactive to preventive and predictive maintenance modes. Connect your maintenance operations with the supply chain and financials. Facilitate predictive maintenance with digital twins, providing a complete real-time model of assets and their performance. Predict equipment failures and improve overall equipment effectiveness.
+IoProduction Monitoring Cloud for Industry 4.0 (3:26)
 Situational Awareness for the Factory Floor
-Integrated Cloud Applications & Platform Services
-Supply Chain Management
-Manufacturing Cloud
+Sign up for a free trial
 Industry 4.0 is leveraging advances in artificial intelligence, big data analytics, blockchain, and the Internet of Things (IoT) to create smart factories that will drive unprecedented levels of efficiency, flexibility, quality, and speed. Manufacturing Cloud brings all the facets of manufacturing together—including people, processes, and technology—to enable exponential growth and scalability for your business.
-Manufacturing Cloud Products
-Discrete Manufacturing
-Achieve fulfillment excellence, streamline your entire production cycle, and manage operations more efficiently
 Ensure manufacturing consistency throughout the production cycle with intensive, multifaceted shop-floor execution capabilities
 Outsource with confidence by implementing collaborative processes with your partners
-Process Manufacturing
 Gain full end-to-end traceability with embedded quality and multiple cost methods
 Ensure manufacturing consistency throughout the production cycle with intensive, multifaceted, shop-floor execution capabilities
 Determine true product costs with detailed cost-tracking features combined with flexible analytical tools
-Manufacturing Intelligence
 Maximize profit margins and optimize productivity with a bottom-up approach to collecting and analyzing real-time performance data
 Collect shop-floor data and synchronize it with data from your system
 Transform your operations with real-time access to complex analyses of untapped and underutilized cost data
-Holistically combine all elements of Industry 4.0
 Achieve operational excellence using machine learning and artificial intelligence (AI) with adaptive intelligent apps
 Drive automation with Ioapplications
 Securely and reliably extend business processes and accelerate B2transactions with blockchain
-Start Your Journey Today
-Manufacturing Cloud Resources
 Industry 4.0 with Production Monitoring Cloud (3:26)
 Why End-to-End Visibility Is Key to a Modern Manufacturing Process (PDF)
-IoT: Enabling a Brave New Manufacturing World
 The Fourth Industrial Revolution: Primer for Manufacturers (PDF)
 Build the Foundation for Industry 4.0
-Empower Manufacturing Leaders 
-Drive manufacturing excellence 
-Drive manufacturing excellence 
 Innovate faster, increase productivity, and lower costs by leveraging advances in artificial intelligence , big data analytics, blockchain, and Ioto drive unprecedented efficiency, flexibility, quality, and speed. Connect people, processes, and technology and drive operational excellence.
-Ballard Power Moves to Mass Production on SCM
 Achieve more with modern manufacturing
 Achieve more with modern manufacturing
 You can’t compete in Industry 4.0 using yesterday’s systems. To stay ahead of evolving consumer demands you need to continuously innovate. You can no longer afford to have manufacturing processes and information in silos. You need to be leaner and more competitive.
-The Fourth Industrial Revolution (PDF)
-Enable manufacturing excellence for the digital age
-Enable manufacturing excellence for the digital age
+Industry 4.0 with IoProduction Monitoring Cloud (3:26)
 Manufacturing Cloud enables you to drive operational excellence and deliver quality products on time and on budget. Streamline your entire production cycle, from R&to cost and shop-floor execution. Collaborate effectively with approved suppliers and contract manufacturers. Discover new ways to improve productivity.
 Arcor Transform Their Manufacturing Operations (0:44)
-Improved Manufacturing Decisions (PDF)
 Move your manufacturing to the cloud
 Move your manufacturing to the cloud
 Moving your manufacturing systems to the cloud brings a whole new level of agility to your manufacturing, planning, and fulfillment processes. Leverage new capabilities for business analytics, mobile, and social to build a highly efficient supply network that spans your extended enterprise of employees, customers, and business partners.
-IoCloud Service Helps Gemü Drive Safety and Quality (2:02)
 The Wonderful Company Gains Visibility with Cloud (0:58)
-Integrated Cloud Applications & Platform Services
-Supply Chain Management
-Supply Chain Planning Cloud
+Sign up for a free trial
 Better Results, Faster, with Supply Chain Planning Cloud
 Truly digital planning should seamlessly connect your entire organization for end-to-end visibility while resolving issues in a timely manner. Supply Chain Planning Cloud aligns planning across all supply chain management operations with best-in-class functionality supporting demand management, sales and operations planning, and supply planning.
 Respond faster—and more effectively—to drive improvement in growth, cost management, and customer-service metrics
 Empower planners to shape business outcomes with a modern and configurable user experience
 Utilize the power of the cloud to support a mobile and global workforce.
-Adaptive Supply Chain planning
 Supply Chain Collaboration and Visibility Cloud
 Supply Chain Planning Cloud Products
-Demand Management
-Become a demand-driven organization
-Improve forecast accuracy
-Respond faster to market changes
 Segment demand for customized supply chain management
-Sales and Operations Planning
 Best practice sales and operations planning
 Balance demand and supply while meeting financial goals
-Quickly achieve consensus
 Revise plans at the speed of digital
 Long-term supply chain visibility and capacity planning
-Supply and Distribution Planning
-Plan your global supply chain across multiple tiers
-Plan iteratively and respond faster to demand changes
 Reduce inventory and cost  of obsolescence 
-Prevent manufacturing and supply disruptions
-Supply Chain Collaboration and Visibility
 Improve supply planning collaboration with partners
-Manage contract manufacturing activities
-Monitor business-to-business messaging
-Respond faster to supply and demand exceptions
-Real-time availability for order scheduling
 Profitable-to-promise across fulfillment locations
-Capable-to-promise sourcing
-Interactive order prioritization
-What-if alternative selection
-Assemble/configure/pick-to-order item promising
-Promotions Planning
-Track and resolve deductions and other settlements
 Advanced data-mining technology to understand the best promotion tactics
 Point-of-sale and syndicated data to measure, predict, and optimize promotion lift
-Maximize promotion ROI
-Better Results, Faster
 Supply Chain Planning Cloud Resources
 Check out these key resources to define what’s best for your business.
 Take a Visual Tour of Supply Chain Planning Cloud (1:19)
 Find out why is named a leader in the Gartner Supply Chain Planning System of Record
 Learn How to Get Started with Supply Chain Management Cloud
-See How Arcor Uses to Reduce Inventory and Increase Sales (2:46)
-Achieve Operational Excellence
 Upgrade to Fully Digital Supply Chain Planning
-Planning for the digital age
-Use the power of the cloud
 Achieve end-to-end supply chain planning, visibility, and collaboration at the speed of digital.  Move your organization to a planning cloud that increases time to value with frequent, seamless upgrades, reduced customization, and lower on-premises maintenance costs.
 Achieve Better Results, Faster, with Adaptive Supply Chain Planning (PDF)
-Work Efficiently with a Modern User Experience (5:12)
-Integrated Business Planning
 Fully integrated planning tools and processes
-Exceed operational goals
 Achieve operational excellence with best-in-class features and a modern user experience to maximize planner productivity.  Increase the frequency and accuracy of supply chain planning and align planning with growth, cost management, and customer-service metrics.
 Start with a Modern Supply Chain Planning Foundation
-Become a Demand-Driven Operation (1:06)
-Incorporate disruptive technologies for competitive advantage
 Drive planning to the next level
 Artificial intelligence, machine learning, the Internet of Things, and blockchain cloud products are interoperable with Supply Chain Planning Cloud. Leverage Oracle’s long history of innovation with these emerging technologies to create a competitive advantage for your supply chain planning organization.
-Adaptive Intelligence Apps
-Use Real-Time Execution Data and Adapt to Change
-Integrated Cloud Applications & Platform Services
-Supply Chain Management
+Sign up for a free trial
 Gain Real-Time, End-to-End Visibility with the Internet of Things (IoT)
 Improve profitability and drive real-time operational efficiencies through automated monitoring of assets, fleet, production, and workers. Digital supply chains will enable businesses to detect, analyze, and respond to Iosignals, then incorporate those insights into rapidly evolving market capabilities. Build your Industry 4.0 platform with Supply Chain Cloud.
 IoApplications for the Supply Chain
-IoAsset Monitoring Cloud 
 Track any asset, anywhere, anytime, and achieve in days
 Predict asset and equipment failure before they happen, minimizing unplanned downtime
  Instantly transform assets into digital twins, and intelligently monitor the asset’s health, location, and utilization 
-IoProduction Monitoring Cloud
 Leverage best-in-class production monitoring for factories, products, and machines
 Improve machine and factory uptime with machine-learning models that yield prescriptive analytics
 Integrate seamlessly with Iomanufacturing and supply chain systems
-IoFleet Monitoring Cloud
  Get real-time fleet visibility including vehicle location, status, and health—all at your fingertips
 Boost customer experience with improved predictions
-Instantly connect your fleet and logistics with digital transformation
 Optimize processes with integrated supply chain systems
-IoConnected Worker Cloud
 Gain real-time visibility into work environments and boost worker safety
 Improve regulatory adherence through accident prevention using wearable proximity sensors
 Use diagnostic analytics to identify patterns by correlation incidents with environmental, equipment, and personnel data
 Service Monitoring for Connected Assets Cloud
 Enable proactive customer service without customer initiation
-Prebuilt digital thread for service automation complements existing support channels by introducing a differentiated experience
 No-hassle machine learning (ML) and artificial intelligence (AI) create user-friendly advanced analytics interfaces
-Improve Profitability
 IoIs Transforming the Supply Chain 
-Key benefits of Internet of Things apps
 How can your supply chain benefit from IoT?
 Improve profitability through automated monitoring and alerting of assets, fleet, production, or workers. Leverage and machine learning to gain hidden Ioinsights. Shorten adoption of Iowith digital twins. Transform with real-time Iodata via digital thread.
 The Benefits of Ioon Supply Chain
-No real-time visibility into supply chain
-Modern ecommerce demands real-time visibility
 Today’s ecommerce must exceed the demanding requirements of an omnichannel supply chain. Having real-time visibility is critical. From real-time production data on output, yield, and quality to the location of the truck fulfilling the customer last mile can make or break the modern ecommerce experience.
-Ioreal-time data not impacting business
-Digital thread and digital twins tie Ioto business
 Many Iosystems focus on the sensors and the actuators, but very little on the business impact that Iocan bring. Digital thread solves that by bringing real-time Iodata into business applications such as ERP, where planning or execution systems can have a business impact on the supply chain.
-Implementing Digital Twins (PDF)
 and hard to deploy
 Bringing AI, ML, and augmented reality to the supply chain
 Supply chain systems are ripe to benefit from the power of and From predicting when key manufacturing machines will break down to routing fulfillment to bypass anticipated congestion, and can boost customer satisfaction while reducing costs. 
-Integrated Cloud Applications & Platform Services
+Production Monitor with and (3:26)
 Ad ChoicesSign in to Cloud
-Drive Manufacturing Excellence
 Achieve fulfillment excellence. Factories of all sizes—and in all discrete industries—can streamline their entire production cycle and manage operations more efficiently.
-Manufacturing Execution
-Enhance operator productivity and efficiency with a simplified user interface
 Improve shop floor visibility and control and monitor performance through a supervisor workbench
 Meet the needs of various manufacturing environments with flexible and configurable features
 Deploy eKanban planning and execution using product replenishment lead times and demand
 Outsource with confidence by implementing collaborative processes with your partners. Gain complete visibility to proactively track and manage your outsourced manufacturing business.
 Gain full visibility into the overall status of outsourced manufacturing
 Track quality issues related to supplied components and finished products
-Monitor sales and procurement activities to meet on-time delivery schedules
-Flow and Lean Manufacturing
 Drive operational excellence and better manage the entire build-to-order production process, regardless of manufacturing mode.
 Share product manufacturing processes and events and better manage the sequence using flow routing
 Perform graphical product synchronization to get a real-time view of manufacturing runs
 Increase operator efficiency and improve product throughput with line balanced production, resource optimization, and preplanned inventory
 Factories of all sizes across any discrete industry can achieve complete visibility to all manufacturing work order activity.
 Enable collaborative manufacturing and integrate planning to the shop floor
-Manage complex lot transactions and track lot genealogy back to raw materials
 Jump to any operation and measure yield levels accurately with dynamic routing and yield-based operational costing
-Related Products and Resources
-Access your cloud dashboard, manage orders, and more. 												
-Become an Reference
-Customer and Partner Search
-Global Customer Programs
-Customer Success Forum with Textron Inc - Cloud
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Jan-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Feb-19
-Archived Customer Success Forums  for 24x7 access
-Customer Success Forum - OraTweet
-Integrated Cloud Applications & Platform Services
+Sign up for a free trial
 Partner with Explore PartnerNetwork
 Empower your company with exceptional resources to distinguish your offerings from the competition, seize opportunities, and increase your sales:
-Differentiate through expertise in leading solutions
 Get recognized by for your specialized services and expertise
 Be preferred by customers seeking value-added solutions for their business
-Cloud Business Builder:
- Cloud Resources for Partners
-The 20 Coolest Cloud Infrastructure Vendors Of The 2018 Cloud 100
-Bill Swales: One of the 50 Most Influential Channel Chiefs of 2018
 2018 Big Data 100: 15 Coolest System and Platform Vendors
-2018 Internet Of Things 50: 15 Coolest IoSoftware And Services Companies
-2018 Software-Defined Data Center 50
 Larry Ellison: One of the 25 Most Influential Executives Of 2017
 Differentiate your business, connect with customers, and gain access to the most comprehensive technology product and service portfolio in the industry with PartnerNetwork.
 Jump start your training by gaining proficiency in selling, developing, implementing, or supporting an solution and track progress toward Specialization.
 Innovate with confidence and get to market quickly with technologies. Explore the platforms and solution areas has to offer, access software and support, and discover opportunities to embed, migrate and integrate with industry-leading technologies.
-Develop Solutions
 Empower your company with exceptional resources to distinguish your offerings from the competition, seize opportunities, and increase your sales.
-Market & Sell
 Leverage the power of Oracle's brand through campaigns, events and other promotional opportunities and carry out your sales transactions: place hardware and software orders, register deals and report royalties.
 Administer all aspects of your partnership with including your PartnerNetwork enrollment details, agreements and policies, specializations and distribution rights.
 New! Cloud Excellence Implementer Program
 View Specialized Partner Customer Successes
 Promote Your Company on Solutions Catalog
-Opportunities Through Acquisitions
-Customers Speak About Specialized Partners (2:48)
-Cloud Business Builder
-Integrated Cloud Applications & Platform Services
-Differentiate Your Business with OPN
-Gold Level Brief
-Risk Management Cloud
-Project Portfolio Management
-Customer Success Stories
-What is ERP?
-What is Cloud?
+Sign up for a free trial
 What is a Financial Management System? 
 What is a Procurement Management System?
-Get to Cloud
-Risk Management Cloud
-Secure Your Implementation. Foster Transparency.
 Secure your Cloud implementation with Risk Management Cloud and enable a risk-aware culture supported by transparency, accountability and data analytics. Risk Management Cloud offers a complete solution for organizations of all sizes. It monitors and prevents suspicious transactions and inappropriate access in Cloud and strengthens risk and compliance processes.
-Download the white paper on radical transparency
-Risk Management Cloud Products
-Advanced Access Controls
-Advanced Financial Controls
-Financial Reporting Compliance
-Explore Cloud products.
 Gain Operational Efficiency for Governance, Risk, and Compliance
 Deploy Risk Management Cloud to manage access, automate internal controls, monitor processes, and enforce compliance, to drive business efficiency and resilience
 Key Benefits of Risk Management in the Cloud
@@ -1335,84 +741,54 @@ Risk Management Cloud is continually updated with the latest compliance requirem
 Protect and Enhance Cloud with Risk Management
 Holistic Approach to Risk Cloud
 Move Risk Management to the Cloud
-Make the Move 
 Always Stay Up to Date with the Latest Compliance Requirements
-On-premises applications must be upgraded frequently to comply with the latest regulations, resulting in down time and added costs. Get the latest compliance updates without down time in the cloud. 
 3 Reasons to Move Risk Management and Compliance Tools to the Cloud 
 How to Turn Financial Compliance from Pain into Gain
 How to Reduce Risk and Get In Line with GDPR
-Key Benefits of a Complete Cloud
 Multiple Business Functions. One Data Model.
 Get a single view of your business across financials, risk management, procurement, and projects—even supply chain and HR—with a common data model, prebuilt connections, and best practices built in.
+Complete Guide to Modern ERP
 Cloud Now Delivers 3.2 Times More ROI
-What is ERP?
 Explore the research, stories, tools, and more to help you understand the power of moving to and using Cloud products in organizations of any size.
-Period Close Procedures
-Take Control of Compliance 
 How to Certify with Compliance 
-Integrated Cloud Applications & Platform Services
-Access your cloud dashboard, manage orders, and more. 												
-College Recruiting
+Sign up for a free trial
 College Recruiting at Choices as exciting as our technology. Careers as astounding
 Work at Life at Intern at "thrives because of the exceptional talent we have attracted to our team. Our employees are creating the technologies of tomorrow." —
-Larry Ellison, Executive Chairman and Chief Technology Officer
 At Oracle, we’ve revolutionized the tech industry by doing things no other company has done before. With hundreds of thousands of customers around the globe, our solutions are being used by businesses ranging from startups to the Fortune 100, from grade schools to graduate schools, and from counties to countries.
 Choose where your career begins. You’ll interview with people working on the projects that interest you the most. Your choices are as exciting as our technology.
 Move within a group or to a different organization entirely—you won’t get pigeonholed here. Become an expert in one area, or explore different areas to broaden your skills. It’s up to you how you build your career at Oracle.
-Do you thrive in a city? Or do you prefer the outdoor life? City, country, or suburb—all are options when working at Oracle. Choose your lifestyle, choose your project, choose your work location. Your options are as limitless as your imagination.
 Projects at The project choice is yours—expect to create your vision.
 Projects at At Oracle, you’ll decide what project you want to work on, who you want to work with, and where you want to go next. Make your career one that truly fits you.
 Get started now. Take a look at the some of the projects at Oracle, and see how you might use your exceptional talent.
 Projects at Vice President of College Recruiting, Larry Lynn, talks about how college recruits are a key part of Oracle's future success.
-Welcome Letter from Larry Lynn
 What It's Like at See what your life at can be like, at work and at play.
-Integrated Cloud Applications & Platform Services
-Project Portfolio Management Cloud
-Project Portfolio Management
-Customer Success Stories
-What is ERP?
-What is Cloud?
+Sign up for a free trial
 What is a Financial Management System? 
 What is a Procurement Management System?
-Get to Cloud
-Project Portfolio Management Cloud
-Transparent Execution. Effective Controls.
 Deliver project transparency with Project Portfolio Management (PPM) Cloud. Cloud offers a complete solution for organizations of all sizes—from project management to project financials, contracts, and billing, to project resource, task, and grants management.
  Collaborate more effectively by using mobile and embedded social capabilities for fast, secure communication. Cloud offers a complete solution for organizations of all sizes—from project financials, contracts, and billing to project management—to project resource, task, and grants management.
 The Technology-Driven Future of Project Management 
 Project Portfolio Management Cloud Products
-Project Financial Management
-Project Execution Management
 Explore the Complete Project Management Cloud
 Take informed risks with Oracle's Project Portfolio Management Cloud, a complete and integrated suite of solutions that ensures transparency across all ongoing and future projects, efficiently managing all strategic objectives and guaranteeing optimal results.  
 Key Benefits of Projects in the Cloud
 Marry Project Financials and Project Execution. Improve Project Success.  
 Deliver project transparency and gain insight through real-time dashboards generated from a single source of project truth—from budget to people skills to scheduling and tracking. 
-Project Portfolio Management Cloud
 Move Your Projects to the Cloud
 Automate Project Management with the Latest Cloud Technologies
 On-premises applications rely on manual updates and time entry to track projects. Move to the cloud and reduce manual tasks with the latest project automation features, updated regularly by Oracle.
-Why Your Next Project Manager May Be a Bot
 Better Business Outcomes Through Modern Project Management
 5 Big Changes in the World of Project Management
-Key Benefits of a Complete Cloud
 Multiple Business Functions. One Data Model.
 Get a single view of your business across financials, risk management, procurement, and projects—even supply chain and HR—with a common data model, prebuilt connections, and best practices built in.
+Complete Guide to Modern ERP
 Cloud Now Delivers 3.2 Times More ROI
-What is ERP?
 Project Portfolio Management Cloud Resources 
 Explore the research, stories, tools, and more to help you understand the power of moving to and using Cloud products in organizations of any size.
 Five Minutes on Modern Project Management
-Top Reasons Project Management Leaders Choose Cloud (PDF)
-Accelerate Project Delivery with Cloud (2:00)
-Integrated Cloud Applications & Platform Services
 Partner with Get Trained
-Latest Certification News
-Training by Role
-Certified Implementation Specialist Role
 Become recognized by and customers for your expertise in products. Start your path to certification by completing the relevant training and passing the required certification exam(s) below.
 In order to become an Certified Specialist:
-Review training roles
  for access to start your path in becoming an  Specialist.
 Enroll in Guided Learning Paths in the Competency Center
 Prepare for a qualifying certification exam by leveraging 
@@ -1424,144 +800,21 @@ PartnerNetwork (OPN) provides our members with opportunities to develop deep kno
  Functional and technical consultants who work with customers to implement solutions based on products and services and require in-depth knowledge and hands-on experience.
  Consultants who require understanding of Oracle's complete Support technology with focus on My Support (MOS), policies, resources, and best practices.
  Software engineers who design and code custom applications, integrate and deploy applications or manage data warehouses.
-Server & Storage Systems
-Enterprise Performance Management Cloud
-Enterprise Performance Management Cloud
+Browse the exams under each category below. Click on the exam title to view more details.
 Enterprise Planning and  Budgeting Cloud
-Enterprise  Planning and Budgeting Cloud Service 2017 Implementation Essentials | 1Z0-982
-Financial Consolidation  and Close Cloud
-Financial  Consolidation and Close Cloud Service 2017 Implementation Essentials | 1Z0-983
 Profitability and Cost  Management Cloud
  Profitability and Cost Management Cloud Service 2017 Implementation Essentials  | 1Z0-984
-1Z0-965 Global Human Resources Cloud 2017 Implementation Essentials
-1Z0-1009 Global Human Resources Cloud 2018 Implementation Essentials
-1Z0-330 Workforce Compensation Cloud 2017 Implementation Essentials
-Workforce Management Cloud
-1Z0-967 Absence Management  Cloud 2017 Implementation Essentials
-1Z0-1011 Absence Management Cloud 2018 Implementation Essentials 
-1Z0-968 Time and Labor Cloud  2017 Implementation Essentials
-1Z0-1012 Time and Labor Cloud 2018 Implementation Essentials 
-Talent Management Cloud
-1Z0-966 Talent Management Cloud 2017 Implementation Essentials
-1Z0-1010 Talent Management Cloud 2018 Implementation Essentials
-1Z0-324 Talent Acquisition Cloud  2016 Implementation Essentials
-1Z0-1000 Workforce Compensation Cloud 2018 Implementation Essentials
-1Z0-973 Benefits Cloud 2017 Implementation Essentials 
-Customer Experience Cloud
-1Z0-349 Eloqua Marketing Cloud Service 2017 Implementation Essentials
-1Z1-477 Responsys Marketing Platform Cloud Service 2017 Implementation Essentials
 1Z0-952 Data Management Platform Cloud 2017 Implementation Essentials
-1Z0-1014 Sales Cloud 2018 Implementation Essentials
-1Z0-971 Incentive  Compensation Cloud 2017 Implementation Essentials
-1Z0-1015 Incentive Compensation Cloud 2018 Implementation Essentials 
-1Z0-977 Partner Relationship  Management Cloud 2017 Implementation Essentials
-1Z0-1020 Partner Relationship Management Cloud Service 2018 Implementation  Essentials 
 1Z0-978 Customer Data  Management Cloud Service 2017 Implementation Essentials
-1Z0-1021 Customer Data Management Cloud Service 2018 Implementation  Essentials 
 1Z0-979 Sales Performance  Management Cloud Service 2017 Implementation Essentials
-1Z0-1022 Sales Performance Management Cloud Service 2018 Implementation  Essentials
 1Z0-426 Social Relationship Management 2014    Implementation Essentials
-1Z1-345 Policy Automation Cloud 2017 Implementation Essentials
-1Z0-326 RightNow Cloud Service 2016 Technical    Implementation Essentials
-1Z0-325 RightNow Cloud Service 2016 Implementation    Essentials
-1Z0-980 Knowledge Management Cloud 2017 Implementation Essentials
-Financials Cloud
-1Z0-960 Financials Cloud:  General Ledger 2017 Implementation Essentials
-1Z0-961 Financials Cloud:  Payables 2017 Implementation Essentials
-1Z0-1005 Financials Cloud: Payables  2018 Implementation Essentials 
-1Z0-962 Financials Cloud:  Receivables 2017 Implementation Essentials
-1Z0-1006 Financials Cloud: Receivables 2018 Implementation Essentials 
-1Z0-974 Revenue Management  Cloud Service 2017 Implementation Essentials
-1Z0-1018 Revenue Management Cloud 2018 Implementation Essentials 
-1Z0-975 Accounting Hub Cloud  2017 Implementation Essentials
-1Z0-1019 Accounting Hub Cloud Service 2018 Implementation Essentials 
-Project Portfolio Cloud Management Cloud
-1Z0-964 Project Portfolio Management Cloud 2017 Implementation Essentials
-1Z0-1008 Project Portfolio Management Cloud 2018 Implementation Essentials
-Risk Management Cloud
-1Z0- 951 Financial Reporting Compliance Cloud 2017 Implementation Essentials
-1Z0-958 Risk Management Cloud 2018 Implementation Essentials
-Management Cloud
-1Z0-1001 Order Management Cloud 2018 Implementation Essentials
-1Z0-989  Configurator Cloud 2017 Implementation Essentials
-1Z0-1025 Configurator Cloud Service 2018 Implementation Essentials
-1Z0-1026 Pricing Cloud 2018  Implementation Essentials
-Product Lifecycle Management Cloud
-1Z0-991 Innovation Management Cloud 2017 Implementation Essentials
-1Z0-1027 Innovation Management Cloud 2018 Implementation Essentials
-Manufacturing Cloud
-1Z0-348 Manufacturing Cloud 2017 Implementation Essentials
-1Z0-1002 Manufacturing Cloud 2018 Implementation Essentials
-Inventory Management Cloud
-1Z0-1023 Inventory Management and Enterprise Structures Cloud 2018  Implementation Essentials 
-1Z0-987 Cost Management Cloud 2017 Implementation Essentials
-1Z0-1024 Cost Management Cloud 2018 Implementation Essentials 
-Supply Chain Planning Cloud
-1Z0-992 Planning Central Cloud Service 2017 Implementation Essentials
-1Z0-1028 Planning Central Cloud  Service 2018 Implementation Essentials 
-1Z0-988 Transportation Management Cloud Service 2017 Implementation Essentials
-1Z0-956 Warehouse Management Cloud 2018 Implementation Essentials
-Infrastructure as a Service
-1Z0-337 Cloud Infrastructure Classic 2018 Associate Architect
-1Z0-337 Infrastructure as a Service 2017 Implementation Essentials
-Big Data
-1Z0-928 Cloud Platform Big Data Management 2018 Associate
-Management Cloud
-1Z0-930 Cloud Platform Systems Management 2018 Associate
-Identity and Security Management
-Application Integration
-Data Integration
-Data Management
-Application Grid
-Application Integration Architecture
-Business Process Management
-Business Intelligence Foundation
-Business Intelligence (OBI) Foundation Suite 11
-1Z0-531 Essbase 11 Essentials
-Cloud Application Foundation
-Data Integration
-Data Integrator 12
-Data Integrator 11
-Endeca Information Discovery
-Demand Management (Demantra)
-1Z0-558 Value Chain Planning: Demantra Demand    Management 7 Essentials
-1Z0-216 E-Business Suite R12: General Ledger and    Receivables Fundamentals
-Hyperion
+1Z0-215 E-Business Suite R12: General Ledger and    Payables Fundamentals
 1Z0-588 Hyperion Data Relationship Management 11.1.2    Essentials
 1Z0-532 Hyperion Financial Management 11 Essentials
 1Z0-533 Hyperion Planning 11 Essentials
-Insurance Policy Administration
-1Z0-343 Edwards EnterpriseOne Distribution 9.2 Implementation Essentials
-On Demand
+Exam available in: 1. Brazilian Portuguese, 2. Latin  American Spanish
 Customer Hub and Data Quality
-1Z0-587 Customer Hub and Data Quality Essentials
-Policy Automation
-1Z0-534 Policy Automation 10 Rule Developer Essentials
-Project Lifecycle Management
-1Z0-466 Project Lifecycle Management Essentials
-1Z0-566 User Productivity Kit 11 Implementation    Consultant Essentials
-1Z0-583 User Productivity Kit 11 Technical Consultant    Essentials
-Server & Storage Systems
+1Z0-439 Primavera Unifier 10 Essentials
+1Z0-590 3.0 for x86 Essentials
 1Z0-580 Solaris 11 Installation and Configuration    Essentials
-StorageTek Tape Storage
-Exadata Database Machine
-1Z0-485 Exadata Database Machine 2014 Implementation Specialist
-Exalogic Elastic Cloud
-1Z0-491 Exalogic Elastic Cloud 2014 Implementation    Essentials
-1Z0-404 Communications Session Border Controller 7 Basic Implementation Essentials
-1Z0-954 Communications Session Border Controller Troubleshooting 2017 Implementation Essentials
-1Z0-321 Communications Elastic Charging Engine 2017 Implementation Essentials
-1Z0-509 Communications Billing and Revenue Management 7 Advanced Implementation Essentials
-1Z0-493 Communications Order and Service Management Server 7 Implementation Essentials
-1Z0-957 Monetization Cloud 2018 Implementation Essentials
-Education and Research
-1Z0-562 Utilities Customer Care and Billing 2 Essentials
-1Z0-492 Utilities Smart Grid Gateway 2 for Advanced    Metering Infrastructure Implementation Essentials
-Access Your Certification Results
-Badge Your Testing and Training profiles
 Get Credit for Your Certifications
-Discover the Benefits of Digital Badging
-Cloud Business Builder
-Integrated Cloud Applications & Platform Services
-Differentiate Your Business with OPN
-Gold Level Brief

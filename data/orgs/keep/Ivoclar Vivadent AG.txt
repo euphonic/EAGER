@@ -1,25 +1,5 @@
-Please select your region:
-Other Latin American countries
-Benelux
-Other European countries
-Other European countries
-All Near East & African countries
-Other Asian & Pacific countries
 We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. You consent to our cookies if you continue to use our website.
-Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
-Expiry
-hsleadflows.net
-hubspot.com
-hubspot.net
-BIGipServer#
-icde-tool.ivoclarvivadent.com
 Used to distribute traffic to the website on several servers in order to optimise response times.
-JSESSIONID
-This cookie is used to determine if the visitor has accepted the cookie consent box.
-Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
-Expiry
-Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
-Expiry
 Collects anonymous data on the user's visits to the website, such as the number of visits, average time spent on the website and what pages have been loaded with the purpose of generating reports for optimising the website content.
 Collects data on the number of times a user has visited the website as well as dates for the first and most recent visit. Used by Google Analytics.
 Registers a timestamp with the exact time of when the user accessed the website. Used by Google Analytics to calculate the duration of a website visit.
@@ -29,36 +9,23 @@ Collects data on where the user came from, what search engine was used, what lin
 Registers a unique that is used to generate statistical data on how the visitor uses the website.
 Registers a unique that is used to generate statistical data on how the visitor uses the website.
 Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
-Expiry
 Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.
 Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
 Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
-ads/ga-audiences
 Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites.
 Registers a unique that identifies a returning user's device. The is used for targeted ads.
-hubspot.com
 Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.
+Recognises the user's device and what Issuu documents have been read.
 Collects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.
 Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.
-Keeps track of a visitor's identity. This cookie is passed to the marketing platform HubSpot on form submission and used when de-duplicating contacts.
 Used by the social networking service, LinkedIn, for tracking the use of embedded services.
 Used by the social networking service, LinkedIn, for tracking the use of embedded services.
 Used by the social networking service, LinkedIn, for tracking the use of embedded services.
-quantserve.com
 Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads.
 Registers a unique on mobile devices to enable tracking based on geographical location.
 Registers a unique that is used by Google to keep statistics of how the visitor uses YouTube videos across different websites.
 Tries to estimate the users' bandwidth on pages with integrated YouTube videos.
-Registers a unique to keep statistics of what videos from YouTube the user has seen.
-Expiry
-__cfruid
-tetricevoflow-new-referer
-zoolu_cta_359b1285
 Cookies are small text files that can be used by websites to make a user's experience more efficient.
 The law states that we can store cookies on your device if they are strictly necessary for the operation of this site. For all other types of cookies we need your permission.
-This site uses different types of cookies. Some cookies are placed by third party services that appear on our pages.
-You can at any time change or withdraw your consent from the Cookie Declaration on our website.
 Learn more about who we are, how you can contact us and how we process personal data in our Privacy Policy.
-Three areas of strength
 operates in three product areas. In these three areas we offer dentists and dental technicians products and product systems that support                                             them across the entire treatment and fabrication process and enable them to achieve esthetic results.
-Direct Restoratives

@@ -1,137 +1,21 @@
-Government & Defense
-Public Safety & Transportation
-Research & Development
-Home & Outdoor
-Camera Cores & Components
-Government & Defense
-Land Soldier Solutions
-Integrated Solutions
-Handheld Thermal Cameras
-Gas Detection Cameras
-Test & Measurement
-Fixed Thermal Cameras
-sCameras & Kits
-Monitoring People Counting and Tracking
-Hardware & Software Solutions
-Public Safety & Transportation
-Tactical & Law Enforcement
-sCameras & Kits 
-Traffic Detection Traffic Monitoring Traffic Detection Boards
-Traffic Management Software
-Thermal Security Cameras
-Mobile & Wearable Solutions
-Visible Security Cameras
-Video Management Command and Control Software
-Servers, Storage & Clients
-Retail Analytics and People Counting
-Thermography Cameras
-Infrared Guided Measurement
-Test & Measurement
-Thermography Software
-Retail Analytics and People Counting
-R&and Science
-High Performance Cameras
-Bench Top Test Kits
-High Speed Data Recorders
-Fixed Mount Thermal Cameras
-Handheld Thermal Cameras
-Monitoring Home & Outdoor
-sCameras & Kits
-Test & Measurement
-Camera Cores & Components
-Traffic Detection Boards
-Software Development Kits
-About Worlds Sixth Sense
 There's more to see—and avoid—at night, through glare, and in the fog.
 Advanced driver-assistance (ADAS) that include thermal imaging sensors deliver data-driven, life-saving action in real time.
 Giving cars the power of thermal sight for safer roads
 There's more to see—and avoid—at night, through glare, and in the fog.
 Advanced driver-assistance (ADAS) that include thermal imaging sensors deliver data-driven, life-saving action in real time.
-Thermal Vision Automotive Development Kit (ADK)
-Central Security System for Global Event Handling
-Pro-Grade Thermal Camera for Smartphones
-Sourceless Radionuclide Identification Device
 Ultra High Performance Multi-Sensor Camera System
-240 × 180 Advanced Thermal Imaging Camera
 We're building more than innovative technologies; we're striving to create a more sustainable, more efficient, and safer future by enhancing human perception through best-in-class intelligent imaging & sensing solutions.
 Stay locked in on what’s in front of you. We've got your back with the powerful, unrivaled advantage of best-in-class surveillance, imaging and intelligence.
-For your work
 Make your machines work harder. Produce more. Repair less. Work smarter with brilliant technology that makes critical decision-making clear as day.
-For your life
 Ever wonder what it’s like to be a super hero?  Seeing is unbelievable.
-and World Wildlife Fund
-Ending Rhino Poaching in Kenya: Kifaru Rising Project
-The World's Sixth Sense
-About About The World's Sixth Sense
-Reseller & Customer Info
-Open Box & Refurb Cameras
-Antigua and Barbuda
-Aruba
-United States
-Government & Defense
-Public Safety & Transportation
-Research & Development
-Home & Outdoor
-Camera Cores & Components
-Government & Defense
-Land Soldier Solutions
-Integrated Solutions
-Handheld Thermal Cameras
-Gas Detection Cameras
-Test & Measurement
-Fixed Thermal Cameras
-sCameras & Kits
-Monitoring People Counting and Tracking
-Hardware & Software Solutions
-Public Safety & Transportation
-Tactical & Law Enforcement
-sCameras & Kits 
-Traffic Detection Traffic Monitoring Traffic Detection Boards
-Traffic Management Software
-Thermal Security Cameras
-Mobile & Wearable Solutions
-Visible Security Cameras
-Video Management Command and Control Software
-Servers, Storage & Clients
-Retail Analytics and People Counting
-Thermography Cameras
-Infrared Guided Measurement
-Test & Measurement
-Thermography Software
-Retail Analytics and People Counting
-R&and Science
-High Performance Cameras
-Bench Top Test Kits
-High Speed Data Recorders
-Fixed Mount Thermal Cameras
-Handheld Thermal Cameras
-Monitoring Home & Outdoor
-sCameras & Kits
-Test & Measurement
-Camera Cores & Components
-Traffic Detection Boards
-Software Development Kits
-About Worlds Sixth Sense
-The World's Sixth Sense
-World's Sixth Sense
+System['import']('app');®
 At we provide superpower vision, helping people around the world save lives, protect the environment, and enhance productivity. We're building more than innovative technologies; we're striving to build a more sustainable, more efficient, safer future. 
 See how thermal imaging has helped Jonah Energy reduce fugitive natural gas emissions by 75%.
-Lawrence Dennis
 Lawrence Dennis shares how ATI's aerial technology is taking the benefits of technology to new heights.
 cameras opened the doors to a whole new industry for Rob Camann and Mechanical's and plumbing business.
-Academy Award® winning filmmaker Louie Psihoyos used a special CO2 Camera from the Research & Science group in his new documentary "Racing Extinction."
 Scott Harris of PropertyExam.com explains how thermal imaging separates his company from the competition.
-Chief Brent Elliott
 Chief Brent Elliott of Green Bay Fire Dept shares why he strongly believes that thermal imaging is a necessary tool from both a tactical and command level.
-Pilot Alexis Scully
 Pilot Alexis Scully flies rescue missions in Oregon for the Army National Guard. Hear her story and how she uses to get people home safely.
-The World's Sixth Sense
-About About The World's Sixth Sense
-Reseller & Customer Info
-Open Box & Refurb Cameras
-Antigua and Barbuda
-Aruba
-United States
 System['import']('app');To Be The World’s Sixth Sense
 We don’t just come to work every day. We come to make a difference every day. We have the privilege of helping save lives and livelihoods. Our products are used in a wide array of situations to rescue people in danger, detect criminals, conserve energy, navigate safely, provide security around the globe, and protect our environment. We empower real-life heroes to do their jobs more effectively and it’s an honor and responsibility that fuels everything we do.
 Since our founding in 1978, has grown substantially. Today we are the global leader in the design, manufacture and marketing of sensor systems, created for users in the commercial and government sectors, internationally and domestically.
@@ -139,7 +23,6 @@ improves the world with innovative, infrared sensing and detection technologies,
 Our people set us apart. As the market-leader, is a busy, dynamic place. We offer challenging careers and real professional growth in a culture that encourages constant creativity, continuous learning, and individual responsibility.
 When you join our team you will relish the opportunity to be part of our success. Because, just as our products make a difference to the world, everyone who works with us is given the ability to make an impact on our future. 
 Thanks to the talent and imagination of our people, we are the best at what we do. Working to the highest ethical standards, we support the countries and communities in which we trade. In addition to our Corporate Charitable Giving Program, every one of our sites supports local charities and contributes to disaster relief efforts - another way for you to make a difference.
-Be Bold. Be Brave. Be Ready. Be Ambitious.
 is made up of innovative, engaged and yet diverse groups of people. What brings us all together are our Core Organizational Values: a few firmly held beliefs about how we do business, develop our people and set a new standard for the industry. Taken together, our values embody what it means to FLIR.
 If these core values speak to you, we’re always looking for creative, passionate people to add to our growing team.
 We have a pioneering, courageous spirit to innovate for the future. We do not fear the unknown and will blaze new trails to save lives and livelihoods.
@@ -160,271 +43,29 @@ How We Take Care Of You...
 At FLIR, our people are the source of our energy. Our team members have established as the market leader in the infrared industry, which is why we reward them well and have built an environment of creativity, continuous learning, and professional freedom – ideal for flourishing careers.
 As a member of the team, you will always have the opportunity to make a substantial contribution to this principle, because we recognize everyone has the ability to drive our future achievements. We offer competitive, performance-based packages which include base salary, the chance to earn cash bonuses and, in some cases, participation in our long-term incentive program.
 All our teams enjoy generous benefits, as we believe it is important to provide a comprehensive rewards system to support your professional growth, wellbeing, and financial future.
-The World's Sixth Sense®®
-Government & Defense
-Public Safety & Transportation
-Research & Development
-Home & Outdoor
-Camera Cores & Components
-Government & Defense
-Land Soldier Solutions
-Integrated Solutions
-Handheld Thermal Cameras
-Gas Detection Cameras
-Test & Measurement
-Fixed Thermal Cameras
-sCameras & Kits
-Monitoring People Counting and Tracking
-Hardware & Software Solutions
-Public Safety & Transportation
-Tactical & Law Enforcement
-sCameras & Kits 
-Traffic Detection Traffic Monitoring Traffic Detection Boards
-Traffic Management Software
-Thermal Security Cameras
-Mobile & Wearable Solutions
-Visible Security Cameras
-Video Management Command and Control Software
-Servers, Storage & Clients
-Retail Analytics and People Counting
-Thermography Cameras
-Infrared Guided Measurement
-Test & Measurement
-Thermography Software
-Retail Analytics and People Counting
-R&and Science
-High Performance Cameras
-Bench Top Test Kits
-High Speed Data Recorders
-Fixed Mount Thermal Cameras
-Handheld Thermal Cameras
-Monitoring Home & Outdoor
-sCameras & Kits
-Test & Measurement
-Camera Cores & Components
-Traffic Detection Boards
-Software Development Kits
-About Worlds Sixth Sense
-- The World's Sixth Sense
 Systems, Inc. designs, develops, manufactures, markets, and distributes technologies that enhance perception and awareness. We bring innovative sensing solutions into daily life through our thermal imaging, visible-light imaging, video analytics, measurement and diagnostic, and advanced threat detection systems.
 offers a diversified portfolio that serves a number of applications in government & defense, industrial, and commercial markets. Our products help first responders and military personnel protect and save lives, promote efficiency within the trades, and innovate consumer-facing technologies. strives to strengthen public safety and well-being, increase energy and time efficiency, and contribute to healthy and intelligent communities.
-- The World's Sixth Sense
 We're building more than innovative technologies; we're striving to build a more sustainable, more efficient, safer future.
 - The Global Leader in the Design, Manufacture and Marketing of Thermal Imaging Infrared Cameras
-The World's Sixth Sense
-About About The World's Sixth Sense
-Reseller & Customer Info
-Open Box & Refurb Cameras
-Antigua and Barbuda
-Aruba
-United States
-Government & Defense
-Public Safety & Transportation
-Research & Development
-Home & Outdoor
-Camera Cores & Components
-Government & Defense
-Land Soldier Solutions
-Integrated Solutions
-Handheld Thermal Cameras
-Gas Detection Cameras
-Test & Measurement
-Fixed Thermal Cameras
-sCameras & Kits
-Monitoring People Counting and Tracking
-Hardware & Software Solutions
-Public Safety & Transportation
-Tactical & Law Enforcement
-sCameras & Kits 
-Traffic Detection Traffic Monitoring Traffic Detection Boards
-Traffic Management Software
-Thermal Security Cameras
-Mobile & Wearable Solutions
-Visible Security Cameras
-Video Management Command and Control Software
-Servers, Storage & Clients
-Retail Analytics and People Counting
-Thermography Cameras
-Infrared Guided Measurement
-Test & Measurement
-Thermography Software
-Retail Analytics and People Counting
-R&and Science
-High Performance Cameras
-Bench Top Test Kits
-High Speed Data Recorders
-Fixed Mount Thermal Cameras
-Handheld Thermal Cameras
-Monitoring Home & Outdoor
-sCameras & Kits
-Test & Measurement
-Camera Cores & Components
-Traffic Detection Boards
-Software Development Kits
-About Worlds Sixth Sense
+System['import']('app');®
 Systems, Inc., (“FLIR”) prohibits the posting of materials that infringe the intellectual property rights of others. In addition, expressly reserves the right to remove any content that infringes the intellectual property of others or that violates FLIR’s Terms of Use. may terminate the accounts of users who has reason to believe have engaged in such conduct.
-If you believe that your work has been copied in a way that constitutes copyright infringement, please provide System's Copyright Agent with a notice containing the following information:
-- An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
-- description of the copyrighted work that you claim has been infringed;
 - description of where the material that you claim is infringing is located on the web site;
-- Your address, telephone number, and email address;
-- statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
-- statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
-may change this Copyright Policy Statement from time to time for any reason. When we make such changes, we will post notification of them on our main page. Your continued use of this site after notification of such changes have been posted shall constitute your assent to be bound by these changes.
-The World's Sixth Sense
-About About The World's Sixth Sense
-Reseller & Customer Info
-Open Box & Refurb Cameras
-Antigua and Barbuda
-Aruba
-United States
-Government & Defense
-Public Safety & Transportation
-Research & Development
-Home & Outdoor
-Camera Cores & Components
-Government & Defense
-Land Soldier Solutions
-Integrated Solutions
-Handheld Thermal Cameras
-Gas Detection Cameras
-Test & Measurement
-Fixed Thermal Cameras
-sCameras & Kits
-Monitoring People Counting and Tracking
-Hardware & Software Solutions
-Public Safety & Transportation
-Tactical & Law Enforcement
-sCameras & Kits 
-Traffic Detection Traffic Monitoring Traffic Detection Boards
-Traffic Management Software
-Thermal Security Cameras
-Mobile & Wearable Solutions
-Visible Security Cameras
-Video Management Command and Control Software
-Servers, Storage & Clients
-Retail Analytics and People Counting
-Thermography Cameras
-Infrared Guided Measurement
-Test & Measurement
-Thermography Software
-Retail Analytics and People Counting
-R&and Science
-High Performance Cameras
-Bench Top Test Kits
-High Speed Data Recorders
-Fixed Mount Thermal Cameras
-Handheld Thermal Cameras
-Monitoring Home & Outdoor
-sCameras & Kits
-Test & Measurement
-Camera Cores & Components
-Traffic Detection Boards
-Software Development Kits
-About Worlds Sixth Sense
-Supply Chain Information
-Supplier Code of Conduct
-Supplier Code of Conduct - Chinese
-Supplier Code of Conduct - French
-Supplier Code of Conduct - German
-Supplier Code of Conduct - Russian
-Supplier Code of Conduct - Spanish
-Supplier Code of Conduct - Swedish
+System['import']('app');®
 California Transparency in Supply Chains Act of 2010
-Conflict Minerals Policy Statement
-Conflict Materials Report
-The World's Sixth Sense
-About About The World's Sixth Sense
-Reseller & Customer Info
-Open Box & Refurb Cameras
-Antigua and Barbuda
-Aruba
-United States
-This Terms of Use Agreement (the "Agreement") is between you, any company or business entity on whose behalf you are acting, and Systems, Inc., its subsidiaries, and affiliates (collectively "FLIR") which own and operate FLIR's network of Web properties (collectively the "Site"). By your use of the Site you agree, without limitation or qualification, to be bound by, and comply with this and all future Agreements. If you do not wish to be bound by the terms of this Agreement, please do not use this Web site.
-The term "Content" means any information, data, text, messages, articles, software, photos, video, graphics, music, sounds and any other material or services posted on the Site by FLIR, except User Provided Content. You agree that all Content is the sole property of and its licensors who shall retain all right, title, and interest in and to it.
-The term "User Provided Content" means all information, text, messages, articles, photos, or other material provided by you or other users, whether publicly posted or privately transmitted. User Provided Content is the sole responsibility of the person who provided it. You represent and warrant that you own or otherwise control all of the rights to the User Provided Content that you submit to the Site, and that you, or the owner of any such User Provided Content, grant to an unlimited right to use, republish, reproduce, modify or adapt it for any business purpose (except as limited by FLIR's Privacy Policy Statement), and waive all moral rights in it.
-does not control, and is not responsible for, any User Provided Content, nor does guarantee its accuracy or integrity. Notwithstanding, retains the unlimited right, at its sole discretion, to monitor any and all User Provided Content and to edit, delete, render unavailable, or otherwise dispose of any User Provided Content without notice and without liability to any party. You acknowledge that you may be exposed to content that is offensive and/or objectionable to you.
+System['import']('app');Terms of Use
 The Web Site is protected by copyright as a collective work and/or compilation, pursuant to copyright laws, international conventions, and other copyright laws. All Content on the Site is protected by copyright, and is owned or controlled by or its licensors. You will abide by any and all additional copyright notices, information, or restrictions contained in any Content or User Provided Content on the Site. You may not modify, publish, retransmit, participate in the transfer, sale or resale of, copy (other than temporary copies that may appear in or be created by your browser), create derivative works of, distribute, perform or display any Content in any way, except that you may make one copy for your personal, non-commercial use only, provided that you maintain all copyright and other notices contained in such Content.
-The trademarks, logos, service marks, page headers, custom graphics, button icons, scripts, and trade dress displayed on the Site are registered and unregistered Trademarks of and others. Except as provided in this Agreement or by written permission of FLIR, you may not copy, imitate, or use the Trademarks.
-You represent, warrant and covenant that: (a) you will not upload, post or transmit to, or distribute or otherwise publish through the Site either directly or indirectly any materials which (i) restrict or inhibit any other user from using and enjoying the Site, (ii) are unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, offensive, pornographic, profane, sexually explicit, or indecent, (iii) constitute or encourage conduct that would constitute a criminal offense, give rise to civil liability or, otherwise violate law, (iv) violate, plagiarize, or infringe the rights of third parties including, without limitation, copyright, trademark, patent, rights of privacy or publicity, or any other proprietary right, (v) contain a virus or other harmful component, (vi) contain any information, software or other material of a commercial nature, (vii) are unsolicited email ("Spam"), or (viii) constitute or contain false or misleading indications of origin or statements of fact; and (b) that you are at least eighteen (18) years old. You specifically agree to comply with all agree with all local rules regarding online conduct and acceptable content.
 Some features on the Site require registration. By registering at, and in consideration of, your use of the Site you agree to provide, true, accurate, current, and complete information about yourself, and to maintain and promptly update such information. You may only maintain one active registration with By accepting this Agreement, you certify that you have no other registration with FLIR.
-You agree to indemnify, defend, and hold harmless FLIR, from and against any claim, liability, cost, damage, expense, or loss it may incur (including, without limitation, reasonable attorneys' fees and costs) as a result of (i) your use of User Provided Content or Content; (ii) any content provided by you; (iii) any violation by you of your obligations under this Agreement; and (iv) any violation by you of the rights of others. reserves the right, but not the obligation to, at its own expense, assume control of the defense of any action subject to indemnification by you under this Agreement. You agree not to settle any claim arising under this Agreement without the prior written consent of You will use your best efforts to cooperate with in the defense of any claim.
 KIND, EXPRESS, IMPLIED, STATUTORY, COMPLETENESS, TRUTH, ACCURACY, NON-RIGHT, MERCHANTABILITY, "IS, FAULTS" "AVAILABLE" FURTHER, UNINTERRUPTED, TIMELY, SECURE, ERROR-FREE, CORRECTED, VIRUSES, PROPERTIES, SERVICES, INFORMATION, ACCURATE, YOU.
 You agree that will not be held liable to anyone for any loss or injury resulting from your direct or indirect use of the Site. This includes, but is not limited to, loss or injury caused in whole or in part by FLIR's procuring, compiling, interpreting, reporting or delivering any portion of the Site. Some jurisdictions do not allow the disclaimer of such warranties, so this may not apply to you, but the disclaimer will apply to the furthest extent allowed by law.
 You acknowledge that will not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to damages for loss of profits, goodwill, use, data or other intangible losses (even if has been advised of the possibility of such damages), resulting from or related to the use or inability to use the Site whether or not such loss or damage is based on contract, tort (including negligence and strict liability) or otherwise. Some jurisdictions do not allow the waiver of such damages, so this may not apply to you, but the waiver will apply to the furthest extent allowed by law.
-The Site contains links to, and is linked from, other non-Web sites. makes no claim or representation regarding, and accepts no responsibility for any content, products, or materials on such sites, nor does it assume any responsibility for your reliance on or use of content, products or other materials obtained from such sites. Such reliance is at your own risk.
-This Agreement, your rights and obligations, and all actions contemplated by this Agreement will be governed by the laws of the United States of America and the State of Oregon (except with respect to its conflict of law provisions), as if the Agreement were a contract wholly entered into and wholly performed in Multnomah County, Oregon, independent of your actual state or country of residence. Any dispute arising out of or relating to this Agreement whether at law or in equity will be resolved exclusively in the federal or state courts located in Multnomah County, Oregon, and you hereby irrevocably and unconditionally consent to the exclusive jurisdiction and venue of such courts.
-Compliance with Export Control Laws.
 Some software, documentation, products and technical information available on or through the Site may be subject to or foreign export controls. By accessing, downloading, purchasing or using such software, documentation, products or technical information you represent and warrant that you are in compliance with and shall abide by any such applicable laws and regulations. makes no representation that materials on the Site are appropriate or available for use in locations outside the United States, and accessing them from territories where their contents are illegal is prohibited.
 This Agreement constitutes the entire agreement between and you with respect to your use of the Site. Any cause of action you may have with respect to your use of the Site must be commenced within one (1) year after the claim or cause of action arises. If for any reason a court of competent jurisdiction finds any provision of the Agreement, or portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to effect the intent of the Agreement, and the remainder of this Agreement shall continue in full force and effect. All provisions of this Agreement that impose obligations continuing in their nature shall survive the termination or expiration of this Agreement, including but not limited to, provisions for indemnity and any licenses granted by you to The failure of to exercise or enforce any provision of this Agreement shall not constitute a waiver of such right or provision.
-may change these Terms of Use from time to time for any reason. When we make such changes, we will post notification of them on our main page. Your continued use of this site after notification of such changes have been posted shall constitute your assent to be bound by these changes.
-The World's Sixth Sense®®
-Government & Defense
-Public Safety & Transportation
-Research & Development
-Home & Outdoor
-Camera Cores & Components
-Government & Defense
-Land Soldier Solutions
-Integrated Solutions
-Handheld Thermal Cameras
-Gas Detection Cameras
-Test & Measurement
-Fixed Thermal Cameras
-sCameras & Kits
-Monitoring People Counting and Tracking
-Hardware & Software Solutions
-Public Safety & Transportation
-Tactical & Law Enforcement
-sCameras & Kits 
-Traffic Detection Traffic Monitoring Traffic Detection Boards
-Traffic Management Software
-Thermal Security Cameras
-Mobile & Wearable Solutions
-Visible Security Cameras
-Video Management Command and Control Software
-Servers, Storage & Clients
-Retail Analytics and People Counting
-Thermography Cameras
-Infrared Guided Measurement
-Test & Measurement
-Thermography Software
-Retail Analytics and People Counting
-R&and Science
-High Performance Cameras
-Bench Top Test Kits
-High Speed Data Recorders
-Fixed Mount Thermal Cameras
-Handheld Thermal Cameras
-Monitoring Home & Outdoor
-sCameras & Kits
-Test & Measurement
-Camera Cores & Components
-Traffic Detection Boards
-Software Development Kits
-About Worlds Sixth Sense
 Systems, Inc. is a world leader in the design, manufacture, and marketing of intelligent sensing technologies that enhance perception and awareness. Pioneers in the commercial and government infrared industry, provides a wide variety of sensing solutions that detect people, objects, and substances that may not be perceived by human senses. These solutions enable professionals to make more informed decisions that save lives and livelihoods.
-Events & Presentations
-Details on events & presentations
-Management team & policy details
 Get up-to-date stock details
-The World's Sixth Sense
-About About The World's Sixth Sense
-Reseller & Customer Info
-Open Box & Refurb Cameras
-Antigua and Barbuda
-Aruba
-United States
-This Privacy Policy covers how Systems, Inc., its subsidiaries, and affiliates, including companies recently acquired by Systems, Inc., such as DVTEL, Armasight and Prox Dynamics (collectively “FLIR”) treat Personal Information (as defined below) that collects and receives through your use of websites (collectively the “Site”) and cloud services (collectively the “Cloud Services”). By using the Site or Cloud Services, you consent to the collection and use of your information in accordance with the terms of this Privacy Policy.  
-This Privacy Policy Only Applies to This Privacy Policy does not apply to the practices of companies that does not own or control, or to the people that does not employ or manage.
-The Site and Cloud Services are not intended for use by any children, including children under the age of thirteen.  does not knowingly collect Personal Information online from children under thirteen. If you think that has collected Personal Information from your child, please contact us at  the address provided below.  Because is committed to protecting children’s privacy online, use of the Site and Cloud Services by children under the age of thirteen is prohibited.
-Collection of Personal Information
-“Personal Information” is information about you that is personally identifiable, like your name, address, email address or phone number, and that is not otherwise publicly available.  collects Personal Information in a number of circumstances, including under the following circumstances: 
-Registrations: To use certain features of the Site or to use Cloud Services, you must first complete a registration procedure which requires you to provide certain Personal Information, such as your name and email address (providing demographic information, such as your job title, is optional). When you buy and install a new product, we may ask you to register your purchase electronically. When you do any of these, we keep this registration information on file with any information you've already given us on previous visits to the Site.  collects this information and uses it internally for purposes such as marketing, customer support and administration, technical administration of the Site and Cloud Services, or to contact you.
+System['import']('app');Privacy Policy
 Community Forums: You may submit Personal Information to by using the Community Forum feature of the Site. Information that you submit in this manner will be subject to the terms contained in our Terms of Use Agreement. To review these terms visit Terms of Use .
 Purchases, Contests and Information: You may order e-mail newsletters, join a limited-access premium site, sign up for an event or contest, or purchase products or services. Personal Information collected by is often limited to e-mail address, language, country or location, but may include other information.  For example, if you choose a service or transaction that requires payment, such as making a purchase in the shopping area of the Site, we or our third party service providers will request Personal Information necessary for billing and/or shipping, such as: name, address, telephone number, and credit card number. 
 Other:  may, from time to time, collect other information from you when you voluntarily provide it (for instance, when we make special offers, hold promotions, or conduct surveys). Information collected by these means is used internally for purposes such as marketing, customer administration, technical administration of the Site, or to contact you.
-Use and Security of Personal Information
 In addition to the uses described above, we may use your Personal Information for the following purposes:
 To allow to carry out its contractual obligations to you.
 To make the Site and Cloud Services easier for you to use by not making you enter your Personal Information more than once.
@@ -439,7 +80,6 @@ strictly protects the security of your Personal Information and honors your choi
 takes precautions to protect our users’ information both online and offline.  Inside FLIR, data is stored in password-controlled servers with limited access.  You also have a significant role in protecting your information.  Except as described in this Privacy Policy, no one can see or edit your Personal Information without knowing your login and password, so do not share these with others. 
 We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization.  Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of your account has been compromised), please immediately notify us in accordance with the “Contact Us” section below.
 Your Personal Information may be transferred to countries other than your own to process and store data in accordance with our Privacy Policy and to provide you with products and services. Some of these countries may not have the same data protection safeguards as the country where you reside. By using the Sites, Cloud Services and our products and services, you consent to us transferring your data to these countries. 
-Personal Information Sharing
 does not rent, sell or share your Personal Information with other people or non-affiliated entities except to provide the products or services you’ve requested, when has your permission, or under the following circumstances.
 We provide the information to trusted third parties who work on behalf of or with under confidentiality agreements, including third parties who provide packaging, mailing and delivery services, answer customer questions about products or services, send postal mail, process event registrations and provide other administrative services.  These third parties may use your Personal Information to help communicate with you and for other reasons.  However, these third parties do not have any independent right to share your Personal Information. 
 also works with other vendors, partners, advertisers and other service providers in different industries and categories of business.  This may include other companies who wish to offer our registered customers information about their products and services using postal mail. 
@@ -447,13 +87,10 @@ For more information regarding these third parties, please contact us at one of 
 You may submit Personal Information through the Community Forum feature of the Site.  Any information that you post or disclose through this feature may be available to other users and the general public.  We urge you to be very careful when deciding to disclose information through the Community Forum feature.
 may disclose your Personal Information if required to do so by law, including laws outside your country of residence, or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on FLIR; (b) protect and defend the rights, property, privacy or safety of FLIR, our affiliates, you or others; or (c) allow us to pursue available remedies or limit the damages that we may sustain; or otherwise in response to law enforcement requests (including requests from authorities outside your country of residence).
 In the event that is acquired by or merged into another company, or if undergoes any reorganization, joint venture, assignment, transfer or other disposition of all or any portion of its business, assets or stock (including in connection with any bankruptcy or similar proceedings), all information collected will be transferred to the acquiring company as one of FLIR's assets and will be governed by the acquiring company's privacy policy, if any.
-Control of your Personal Information
-When you register, or otherwise give us Personal Information, will not share that information with third parties without your permission, other than as stated in this Privacy Policy.
 We will provide you with the means to ensure that your Personal Information is correct and current. You may review and update the Personal Information you have provided to us at any time, by logging into your personal account, and may change your marketing preferences.
 Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion.  There may also be residual information that will remain within our databases and other records, which will not be removed.
 collects information from all users of the Site, except as described below.  What information collects and how we use it, depends upon your activity on the Site.
 and its service providers collects non-personally identifiable information from all visitors to the Site, such as address, browser type, and the date and time a user accessed the Site. We use this information for system administration purposes in order to enhance the operation of the Site and make it more useful to visitors. 
-uses cookies. cookie is a small amount of data placed on your computer or device. We use both session cookies and persistent cookies. session cookie terminates automatically after you close your browser. persistent cookie remains on your computer or device, but can be removed by following the directions on your browser and/or mobile operating system. You can set your browser to disable cookies, but this may prevent you from enjoying all of the features of the Site and Cloud Services.
 We use cookies to deliver content that is specific to your interests, to streamline the login process, and to collect anonymous user traffic data. The cookies make your use of the Site and Cloud Services easier, may allow you to retrieve an earlier shopping cart, make the Site and Cloud Services run more smoothly, and help us to maintain the security of the Site and Cloud Services.  We also use cookies to understand how the Site and Cloud Services are used so that can improve the Site and Cloud Services and resolve questions about them.
 If you choose to not have your browser or device accept cookies from the Site and Cloud Services, you will be able to view the text on the screens, however you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the Site. Your Shopping Cart will also not remember items added but not checked out. 
 We may use pixel tags (also known as web beacons and clear GIFs) to, among other things, track the actions of users of the Site and Cloud Services (including email recipients), measure the success of our marketing campaigns and compile statistics about use of the Site and Cloud Services and response rates.
@@ -463,224 +100,23 @@ also collects Personal Information from users of the Site as described further a
 We offer Cloud Services on an optional basis for purchasers of many different products and services.  The terms for some Cloud Services are available when you first log into the services, and review and accept the terms of use contained in the log in process for those Cloud Services. The terms for other Cloud Services are set forth below.
 Xtend™ and Instruments™ cameras.  This paragraph applies to the Cloud Services offered on an optional basis for purchasers of Instruments cameras or other devices.   If you want to subscribe to the Cloud Services you need to provide us with some basic information, including Personal Information, when you register on the Site for Xtend.  Once you subscribe, you can connect your Extend camera or other devices to the Cloud Services via the web, iand Android mobile devices, and take advantage of camera connectivity features and limited cloud storage with no recurring fees. 
 For the Xtend and Instruments Cloud Services described above, the recordings you want to make when using cameras will (according to the options you choose when you register) be uploaded into cloud servers that are currently located in the US, and which may be located in other central locations to better enhance the provision of the Cloud Services. Amazon Web Services (“AWS”) is FLIR’s Cloud Services hosting provider for these cameras and applications.  More information on hosting services and the privacy policy are available in the section entitled “Personal Information Sharing” above.  The recordings you upload to these Cloud Services will neither be used by us nor by our hosting provider[s] for any other purpose than providing the Cloud Services to you under your control, or as otherwise described in this Privacy Policy.  Once you have deleted your camera data from your account, the data will no longer be available to you.
-may occasionally update this Privacy Policy. When we do, we will also revise the Privacy Policy Version Date at the top of the Privacy Policy. Any changes will become effective when we post the revised Privacy Policy on the and Lorex Sites. Your continued use of the Sites and Cloud Services after such changes have been posted shall constitute your assent to be bound by these changes.
-Systems, Inc.Cookies are small text files that are placed on to your computer by websites that you visit. They are used to make websites work, to improve efficiency of websites, to improve the user’s experience and to provide usage information on websites. This information should make your website visits more productive by storing and using information on your website preferences and habits.
-Your web browser can choose whether or not to accept cookies. Most web browser software is initially set up to accept them.
 Essential cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, and to use online forms.
 Analytical cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
 Marketing cookies. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences. These cookies also record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website, the advertising displayed on it and communications sent more relevant to your interests.
-By continuing to use this site, you are accepting our use of these cookies that make advertising and communications more relevant to you and your interests, and further help us to improve the site.
 Used by google to see what time you saw an advertisement
 Used by the social networking service, LinkedIn, for tracking the use of embedded services.
-ARRAffinity
 Used to distribute traffic to the website on several servers in order to optimize response times.
-a session identifier that we use only on your site to keep track of a single chat session
-www.flir.com .olark.com
-www.flir.com .olark.com
-www.flir.com .olark.com
-www.flir.com .olark.com
-www.flir.com .olark.com
-www.flir.com .olark.com
-www.flir.com .olark.com
 storage identifier that we use to maintain chat state across pages (e.g. message history)
-www.flir.com .olark.com
 The main cookie for tracking visitors. It contains the domain, utk (see below), initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session).
-This cookie is used for to keep track of a visitor's identity. This cookie is passed to HubSpot on form submission and used when de-duplicating contacts.
-Whenever HubSpot changes the session cookie, this cookie is also set. We set it to 1 and use it to determine if the user has restarted their browser. If this cookie does not exist when we manage cookies, we assume it is a new session.
 This cookie name is associated with the product Visual Website Optimizer, by based Wingify. The tool helps site owners measure the performance of different versions of web pages. This cookie ensures a visitor always sees the same version of a page and is used to track behavior to measure the performance of different page versions.
-www.flir.com olark.com
-These cookies collect information sales and marketing purposes to help improve visitor's experience. Find out more at pardot.com. The visitor cookie includes the name “visitor” plus the unique identifier for the visitor, ex: “visitor_id1234”. This cookie is set by our tracking code on website visitors. No personally identifiable information is stored in the cookie.
-These cookies collect information sales and marketing purposes to help improve visitor's experience. Find out more at pardot.com. The visitor cookie includes the name “visitor” plus the unique identifier for the visitor, ex: “visitor_id1234”. This cookie is set by our tracking code on website visitors. No personally identifiable information is stored in the cookie.
-www.flir.com
 Collects data on the user's visits to the website, such as what pages have been loaded. The registered data is used for targeted ads.
-Government & Defense
-Public Safety & Transportation
-Research & Development
-Home & Outdoor
-Camera Cores & Components
-Government & Defense
-Land Soldier Solutions
-Integrated Solutions
-Handheld Thermal Cameras
-Gas Detection Cameras
-Test & Measurement
-Fixed Thermal Cameras
-sCameras & Kits
-Monitoring People Counting and Tracking
-Hardware & Software Solutions
-Public Safety & Transportation
-Tactical & Law Enforcement
-sCameras & Kits 
-Traffic Detection Traffic Monitoring Traffic Detection Boards
-Traffic Management Software
-Thermal Security Cameras
-Mobile & Wearable Solutions
-Visible Security Cameras
-Video Management Command and Control Software
-Servers, Storage & Clients
-Retail Analytics and People Counting
-Thermography Cameras
-Infrared Guided Measurement
-Test & Measurement
-Thermography Software
-Retail Analytics and People Counting
-R&and Science
-High Performance Cameras
-Bench Top Test Kits
-High Speed Data Recorders
-Fixed Mount Thermal Cameras
-Handheld Thermal Cameras
-Monitoring Home & Outdoor
-sCameras & Kits
-Test & Measurement
-Camera Cores & Components
-Traffic Detection Boards
-Software Development Kits
-About Worlds Sixth Sense
-Traffic Management Software
-Grid view
-Advanced transportation management software
 Cameleon is a central software platform for transportation monitoring and management that allows for the control of ITS-specific devices, including cameras, signs, detector stations, gates, signal heads and incident detection. Cameleon includes a complete video management solution native to the application.
-Add to compare
-Video detection management software
 is an intelligent software platform for use with a video detection system. collects traffic data, events, alarms and video images generated by the video detectors, sensors and cameras. also offers video management capacity and can control network video recorders, video walls, mobile and fixed cameras.
-Add to compare
-Traffic Management Software
-Tactical & Law Enforcement
-sCameras & Kits 
-Traffic Detection Traffic Monitoring Traffic Detection Boards
-Traffic Management Software
-Traffic Management Software (1)
-Signal Detection & Intelligent Transportation (1)
-The World's Sixth Sense
-About About The World's Sixth Sense
-Reseller & Customer Info
-Open Box & Refurb Cameras
-Antigua and Barbuda
-Aruba
-United States
-Government & Defense
-Public Safety & Transportation
-Research & Development
-Home & Outdoor
-Camera Cores & Components
-Government & Defense
-Land Soldier Solutions
-Integrated Solutions
-Handheld Thermal Cameras
-Gas Detection Cameras
-Test & Measurement
-Fixed Thermal Cameras
-sCameras & Kits
-Monitoring People Counting and Tracking
-Hardware & Software Solutions
-Public Safety & Transportation
-Tactical & Law Enforcement
-sCameras & Kits 
-Traffic Detection Traffic Monitoring Traffic Detection Boards
-Traffic Management Software
-Thermal Security Cameras
-Mobile & Wearable Solutions
-Visible Security Cameras
-Video Management Command and Control Software
-Servers, Storage & Clients
-Retail Analytics and People Counting
-Thermography Cameras
-Infrared Guided Measurement
-Test & Measurement
-Thermography Software
-Retail Analytics and People Counting
-R&and Science
-High Performance Cameras
-Bench Top Test Kits
-High Speed Data Recorders
-Fixed Mount Thermal Cameras
-Handheld Thermal Cameras
-Monitoring Home & Outdoor
-sCameras & Kits
-Test & Measurement
-Camera Cores & Components
-Traffic Detection Boards
-Software Development Kits
-About Worlds Sixth Sense
-Grid view
-Network Video Management System
+System['import']('app');®
 Latitude is a reliable, enterprise-level software solution for video surveillance supporting an unlimited number of cameras over networks. Latitude features enhanced cyber security, edge device integration, and global administration. Users will experience a simplified discovery process and analytics setup of FC-Series thermal cameras. Automated tracking is also available with thermal and cameras.
-Add to compare
 The Horizon delivers best-in-class performance, stability and unique price positioning for video installations of up to 180 cameras. Horizon offers high-performance video surveillance for securing small-to-medium sized businesses with independent or multiple sites. Feature-rich, highly scalable and third party-compliant with an open standard, Horizon offers unsurpassed value for such installations as retail stores, offices, small to mid-size manufacturing facilities, warehouses, and educational institutions.
-Add to compare
 Meridian is a compact, all-in-one network video recorder (NVR) that is a convenient plug-and-play video surveillance system perfect for small security installations with 8, 16, or 24 cameras. This out-of-the box system features United Client web interface and other viewing capabilities that will save the cost of additional workstations.
-Add to compare
-Central Security System for Global Event Handling
 TruWITNESS® is a revolutionary platform that combines smart mobile sensors and Iocapabilities with the power of the Cloud. Utilizing real-time video, audio and location data display on United VMS, Truallows video security operations to reach a new level of situational awareness, providing powerful tools for responding to complex threats as they occur. 
-Add to compare
-Video Management Filter Products
-Thermal Security Cameras
-Mobile & Wearable Solutions
-Visible Security Cameras
-Video Management Command and Control Software
-Servers, Storage & Clients
-Retail Analytics and People Counting
-Number of Channels
-Critical Infrastructure (1)
-The World's Sixth Sense
-About About The World's Sixth Sense
-Reseller & Customer Info
-Open Box & Refurb Cameras
-Antigua and Barbuda
-Aruba
-United States
-Government & Defense
-Public Safety & Transportation
-Research & Development
-Home & Outdoor
-Camera Cores & Components
-Government & Defense
-Land Soldier Solutions
-Integrated Solutions
-Handheld Thermal Cameras
-Gas Detection Cameras
-Test & Measurement
-Fixed Thermal Cameras
-sCameras & Kits
-Monitoring People Counting and Tracking
-Hardware & Software Solutions
-Public Safety & Transportation
-Tactical & Law Enforcement
-sCameras & Kits 
-Traffic Detection Traffic Monitoring Traffic Detection Boards
-Traffic Management Software
-Thermal Security Cameras
-Mobile & Wearable Solutions
-Visible Security Cameras
-Video Management Command and Control Software
-Servers, Storage & Clients
-Retail Analytics and People Counting
-Thermography Cameras
-Infrared Guided Measurement
-Test & Measurement
-Thermography Software
-Retail Analytics and People Counting
-R&and Science
-High Performance Cameras
-Bench Top Test Kits
-High Speed Data Recorders
-Fixed Mount Thermal Cameras
-Handheld Thermal Cameras
-Monitoring Home & Outdoor
-sCameras & Kits
-Test & Measurement
-Camera Cores & Components
-Traffic Detection Boards
-Software Development Kits
-About Worlds Sixth Sense
-Reseller and Customer Information
-Standard Terms and Conditions of Sale
+System['import']('app');®
 For additional information on product documentation, support, warranties and return processes, please visit: 
-The World's Sixth Sense
-About About The World's Sixth Sense
-Reseller & Customer Info
-Open Box & Refurb Cameras
-Antigua and Barbuda
-Aruba
-United States
+System['import']('app');

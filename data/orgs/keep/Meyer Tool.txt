@@ -1,14 +1,10 @@
-The Trusted Manufacturing Partner
 is your trusted manufacturing partner, from machining to coating to assembly to finishing.  Minimize your supply chain management by letting become...
 and its subsidiaries offer a wide range of services to the aerospace and gas turbine engine industries.  Being a key supplier to the aerospace manufacturi...
-Industrial Gas Turbine
 has developed state of the art processes to machine a variety of land-based turbine components. We are a premier hole drilling supplier of various hot section c...
 For over 35 years, Repair Services has developed numerous FAA- and OEM-approved repair and overhaul procedures for a wide range of engine components.  As an integ...
 Tool’s products and services supply military, commercial, general & business aviation, as well as aeroderivative and mid to large industrial gas turbines.  ...
-The Trusted Manufacturing Partner
 is your trusted manufacturing partner, from machining to coating to assembly to finishing.  Minimize your supply chain management by letting become your trusted manufacturing partner. Our complete manufacturing solution approach to airfoil and hot section turbine componen...
 and its subsidiaries offer a wide range of services to the aerospace and gas turbine engine industries.  Being a key supplier to the aerospace manufacturing industry, Tool, Inc. holds AS9100, Nadcap, and 145 certifications.  Our team of experienced staff engineers wo...
-Industrial Gas Turbine
 has developed state of the art processes to machine a variety of land-based turbine components. We are a premier hole drilling supplier of various hot section components. We utilize a variety of systems in order to fill the needs of our customers including high speed hole drilling...
 For over 35 years, Repair Services has developed numerous FAA- and OEM-approved repair and overhaul procedures for a wide range of engine components.  As an integrated part of the family, we offer turbine repair services that extend beyond our facility. Whether you need turn...
 Tool’s products and services supply military, commercial, general & business aviation, as well as aeroderivative and mid to large industrial gas turbines.  "Our first customer is still a customer. We’re very proud to be able to say that." Arlyn Easton, Founder of Tool, Inc...
@@ -20,37 +16,10 @@ The men and women of take great pride in offering the aerospace and gas turbine 
 utilizes Five Axis Vision Inspection Systems for a variety of non-contact dimensional inspections.  Designed and built to support Tool’s own production, the system has a proven track record for providing accurate and precise measurements on line-of-sight, machined characteristics.
 The Five Axis Vision Inspection System is ideal for measuring the position of cooling holes and slots, as well as inspecting diffuser footprints, notches, and diameters.  The variable data feeds directly into the Orion data management package for real-time and off-line analysis.
 created the system to address a key problem facing the industry:  how best to accurately obtain positional measurements for small diameter cooling holes on airfoils. Many competitors and customers use CMMs or manual layouts to verify the true position of these holes.   Both methods rely on a small pin that flexes and bends and can result in false readings.   Tool’s Five Axis Vision Inspection System successfully passes Gage R&studies for hole positions held as tight as .010″ – .020″.
-Machine Accuracy:
-Rotary Axis Repeatability: ±15 seconds
 The system is controlled by Tool’s proprietary software with programs generated from the model. The machine measures the difference between the nominal position and the deviation in and from nominal at the center of the hole.
 The Five Axis Vision Inspection System also works like a surface light comparator, allowing a variety of characteristics to be measured, stored and analyzed.  Screen capture images can be generated as documentation to support an inspection result.
-eComparator
 Recently, began working with Certified Comparator Products and their new eCad system, which combines networked data with a state-of-the-art visual comparator.  The eCad system links the data to the product or consumable being inspected, showing the tolerance bands.   Variable and attribute measurements are acquired through the system and managed via the Orion network.
  Serving Aerospace and Power Generation Industries Since 1951
-Turning, Milling, Drilling
-Materials Joining
-Chemical Stripping
-Measurement and Testing
-Electron Beam Welding
-Equator & CMMs
-Blue Light Scanning
-Networked Airflow Test Stands
-Infra-Red Through Hole Inspection
-Ultrasonic Testing
-Robotic Eddy Current
-Materials Lab
-Capabilities by Location
-Networked Airflow Test Stands
-The Trusted Manufacturing Partner
 is your trusted manufacturing partner, from machining to coating to assembly to finishing.
 Minimize your supply chain management by letting become your trusted manufacturing partner. Our complete manufacturing solution approach to airfoil and hot section turbine component manufacturing minimizes logistical expenses and time wasted shipping products to multiple sources.
 is vertically integrated and offers the complete range of services for turbine engine components:
-EDM: Conventional and Small Hole Drilling
-Waterjet Scrubbing, Cutting and Drilling
-Laser Machining and Welding
-Conventional Machining
-Non-Destructive Testing (
-Chemical Stripping
-Metallurgical Lab Evaluation
-All special processes are Nadcap certified.
-Industrial Gas Turbine

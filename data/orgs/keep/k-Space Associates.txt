@@ -1,43 +1,15 @@
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-Repeatable and Accurate Temperature Measurement
-2Real-Time, In Situ Film and Thermal Stress Monitoring
-2Film Stress and Absolute Curvature Mapping 
- Process Monitoring and Control for MOCVD
 In-line Process Monitoring to Increase Performance and Yield
-Real-time Thickness Monitoring of Multilayer Thin Films
 The World's Leading Analytical System
-Absolute Temperature Made Absolutely Easy!
-kScanning Pyro
 Full Carrier Temperature Maps at the Click of a Button!
-Ex Situ Carrier Characterization
-Custom In-Line Monitoring and Process Control
 Leaders in Custom and Thin-Film Metrology Solutions for Research, Development, and Production
 Associates, Inc. is a leading manufacturer of in-line, 
-ex situ
  metrology tools for the semiconductor, thin-film, photovoltaic (PV), solar, automotive, glass, and building materials industries. Our tools and custom metrology solutions are in research and production facilities around the world.
 What's New at What do you want to measure?
-Wafer and Film Temperature
-Wafer Curvature, Bow, and Tilt
 Surface Roughness and Quality
-Film Thickness and Deposition Rate
-Photovoltaics
-Let us measure for you
-World Class Technical Support
 We take pride in providing the best technical support in the industry. No automated queues, no slow response times. When you call, you’ll always get a friendly person to direct your call to the appropriate engineer. Or, contact us via email – we guarantee we’ll respond within 1 business day. 
 today so we can discuss your thin-film metrology needs.
 We look forward to hearing from you!
@@ -45,64 +17,30 @@ Curious about our company? Check out our video featuring our facility, our peopl
  Take a Tour of What We Do
 For industrial applications, is known for its ability to provide robust data and analysis for in-line solutions in production environments. works side by side with the customer to understand their specific needs, and then develops a custom solution to meet measurement requirements. This includes technology, software, data analysis, customization, automation of measurements, and integration with existing systems.
 For the thin-film, semiconductor and photovoltaic (PV) industries, metrology tools focus on real-time data acquisition, processing, and analysis of nearly all deposition parameters of importance. These parameters include wafer and film temperature, thin-film stress and strain, wafer curvature, bow and tilt, surface roughness and quality, film thickness and deposition rate, optical band gap and atomic spacing. We also supply 
-ex situ
  wafer and surface analysis tools that perform full curvature, stress, and wafer bow mapping on up to 300mm wafers.
 Our tools are used in today’s most advanced thin-film deposition and processing applications within compound semiconductor, silicon semiconductor and photovoltaic advanced thin film production and R&D.  Sophisticated software analysis and reporting capabilities provide information to better understand tomorrow’s electronic and optoelectronic devices, or to provide online control during mass production to enhance yield. Tailored optics and fully integrated solutions have been designed for simple mounting and non-invasive monitoring of advanced deposition processes such as: MOCVD, MBE, sputtering, thermal and e-beam evaporation, and PLD.
+Sign up for the eNewsletter
 agree to my personal data being stored and used to receive the newsletter.
 This field is for validation purposes and should be left unchanged.
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-Representatives and Distributors
 Associates, Inc. is a leading manufacturer of 
-, in-line, and 
-ex situ
  metrology tools for the semiconductor, thin-film, and photovoltaic (PV) industries.  Our tools are used for monitoring nearly all thin-film deposition processes, including MBE, MOCVD, PLD, PVD, sputtering, and evaporation.  Incorporated in 1992 and driven to supply the best technical support in the industry, our tools are used worldwide in both research and full production monitoring of semiconductor, PV, thin-film deposition, annealing, and processing applications.
-What do you need to measure?
-Please feel free to browse our 
- page, scan through our 
   for further information.  We look forward to hearing from you!
 Curious about our company? Check out our video showing our facility, our people, and where we turn ideas into reality!   
- Take a Tour of Request More Information
 agree to have k‐Space (and/or the k‐Space Distributor for my country) collect and store my name, company name, phone number, and email so they can provide the tech support or product information requested.
 agree to have my personal data stored and used by k‐Space (and/or the k‐Space Distributor for my country) to send me information and commercial offers, e.g. product updates and company news.
-This form collects your name, company name, email and phone number so that k‐Space (or our distributor for your country) can provide you with tech support or product information. Check out our
  for the full story on how we protect and manage your submitted data.
 This field is for validation purposes and should be left unchanged.
-This iframe contains the logic required to handle Ajax powered Gravity Forms.
- if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/www.k-space.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.k-space.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );
+Sign up for the eNewsletter
 agree to my personal data being stored and used to receive the newsletter.
 This field is for validation purposes and should be left unchanged.
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-Representatives and Distributors
 is proud to announce the addition of Chipo Mulaisho as Technical Sales Engineer. Chipo is a graduate of the University of Michigan, where he obtained a Masters in Materials Science and Engineering. While at of Chipo worked under both the Boukai and Millunchick research groups. “am excited to help provide customers […]
 Template Analysis Now Available for Scanning BandiTools kBandiT’s Scanning Detector Option provides an automated, motor-controlled detector for scanning the radius of a platen during rotation, which yields full wafer and platen temperature mapping in situ. Thermal uniformity profiles can be monitored at various thermocouple temperature setpoints and at various points in the grower’s device […]
 New In-Line Metrology Solution for the Building Products Industry
@@ -112,367 +50,93 @@ is thrilled to announce our newest addition, Soma Perooly, to the team! Soma wil
 Associates, Inc. grows in-line sales revenue through Q3 by 26 percent
 Associates, Inc., a leader in metrology tools for research and production facilities, has increased year-to-date sales for its in-line metrology market segment by 26% compared to the same period last year. This increase is attributed to continued strong sales in the solar industry, as well as the entry into new metrology markets such as […]
 What Do You Want to Measure? Custom Metrology Solutions has provided custom metrology solutions for over 15 years, developing both multi-point in-line measurements and large-scale off-line mapping measurements for a variety of manufacturing applications. Some solutions are based on our core technology portfolio, such as kBandiand kMOS, while others require custom optics, […]
+Sign up for the eNewsletter
 agree to my personal data being stored and used to receive the newsletter.
 This field is for validation purposes and should be left unchanged.
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-Representatives and Distributors
-20th European Workshop on Molecular Beam Epitaxy
 International Conference on Compound Semiconductors
 2019 International Conference on Compound Semiconductor Manufacturing Technology
-61st Electronic Materials Conference
-2019 International Workshop on Gallium Oxide and Other Related Materials
 35th North American Molecular Beam Epitaxy Conference
 66th International Symposium and Exhibition of the American Vacuum Society Menu 
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-Representatives and Distributors
 Associates, Inc. is a leading manufacturer of in-situ, in-line, and ex-situ metrology tools for the semiconductor, thin-film, and photovoltaic industries. Our products utilize optical imaging technology for non-contact, non-invasive real-time data acquisition, processing, and analysis of temperature, film thickness and growth rate, curvature and film stress, surface quality and atomic spacing, and optical constants.  Our products are used for monitoring thin-film deposition processes, including MBE, MOCVD, PLD, PVD, ALD, sputtering, and evaporation.   Incorporated in 1992 and driven to supply the best technical support in the industry, our tools are used worldwide in both research and production. We are looking for positive, results driven people to join our team.  Please see our current job openings listed below, and send resumes and cover letters to: 
 There are currently no openings available - 1/17/19
+Sign up for the eNewsletter
 agree to my personal data being stored and used to receive the newsletter.
 This field is for validation purposes and should be left unchanged.
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-Representatives and Distributors
 For Technical Support and General Inquiries
 agree to have k‐Space (and/or the k‐Space Distributor for my country) collect and store my name, company name, phone number, and email so they can provide the tech support or product information requested.
 agree to have my personal data stored and used by k‐Space (and/or the k‐Space Distributor for my country) to send me information and commercial offers, e.g. product updates and company news.
-This form collects your name, company name, email and phone number so that k‐Space (or our distributor for your country) can provide you with tech support or product information. Check out our
  for the full story on how we protect and manage your submitted data.
 This field is for validation purposes and should be left unchanged.
-This iframe contains the logic required to handle Ajax powered Gravity Forms.
- if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"https:\/\/www.k-space.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.k-space.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );
+Sign up for the eNewsletter
 agree to my personal data being stored and used to receive the newsletter.
 This field is for validation purposes and should be left unchanged.
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-Representatives and Distributors
 serves over 700 companies, government agencies and universities in 44 countries. glimpse at just a few of the universities and research facilities we serve is below (corporate customers not listed).
-If you would like to be added to the list or for further references, please contact 
 Below is a partial list of universities and agencies that have our tools in North America.
-Arizona State University
-Boston University
-Brown University
-California Institute of Technology
-Carnegie Mellon University
-Case Western Reserve University
-Cornell University
-Drexel University
-Duke University
-Florida A&University
-Florida State University
-Georgia Institute of Technology
-Harvard University
-Johns Hopkins University
-Lehigh University
-Louisiana State University – Baton Rouge
-Massachusetts Institute of Technology
-McGill University
-Michigan State University
-Michigan Technological University
-North Carolina A&State
-North Carolina State University
-Northeastern University
-Northwestern University
-Ohio University
-Old Dominion University
-Princeton University
-Purdue University
-Rutgers University
-Simon Fraser University
-Stanford University
-State University of New York – Albany
-State University of New York – Stony Brook
-The Ohio State University
-The Pennsylvania State University
-University at Buffalo
-University of Alabama
-University of Albany
-University of Arkansas
-University of California – Berkeley
-University of California – Irvine
-University of California – Livermore
-University of California – Los Angeles
-University of California – Riverside
-University of California – San Diego
-University of California – Santa Barbara
-University of Central Florida
-University of Colorado
-University of Connecticut
-University of Delaware
-University of Florida
-University of Houston
-University of Illinois – Chicago
-University of Illinois – Urbana-Champaign
-University of Iowa
-University of Kansas
-University of Maine
-University of Maryland – College Park
-University of Michigan
-University of Minnesota
-University of Missouri
-University of Nebraska – Lincoln
-University of New Mexico
-University of New Orleans
-University of North Carolina – Chapel Hill
-University of Notre Dame
-University of Oklahoma
-University of Pennsylvania
-University of Pittsburgh
-University of Puerto Rico
-University of Rochester
-University of Texas – Austin
-University of Texas – Dallas
-University of Texas – Richardson
-University of Utah
-University of Vermont
-University of Washington
-University of Wisconsin – Madison
-University of Wisconsin – Milwaukee
-Utah State University
-Washington State University
-Wayne State University
-Argonne National Laboratory (ANL)
-Brookhaven National Laboratory (BNL)
-Lawrence Berkeley National Laboratory (LBNL)
 National Aeronautics and Space Administration (NASA)
 National Institute of Science and Technology (NIST)
-National Renewable Energy Laboratory (NREL)
-Oak Ridge National Laboratory (ORNL)
 Pacific Northwest National Laboratory (PNNL)
-Sandia National Laboratories
-Air Force Research Laboratory (AFRL)
-Army Research Laboratory (ARL)
-Naval Research Laboratory (NRL)
 Below is a partial list of universities and agencies that have our tools in Asia. 
-Beijing Normal University
-Central Research Institute of Electric Power Industry
-Changchun Institute of Optics, Chinese Academy of Sciences
-Chiba University
 Electronics and Telecommunications Research Institute (ETRI)
-Fudan University
 Gwangiu Institute Of Science And Technology (GIST)
-Hakkaido University
-Hiroshima University
-Institute of Physics, Chinese Academy of Sciences
 Institute of Semiconductors, Chinese Academy of Sciences
-Japan Advanced Institute of Science & Technology (JAIST)
-Jeon Nam University
-Kogakuin University
 Korea Institute of Science and Technology (KIST)
-Korea Research Institute of Standards and Science (KRISS)
-Kyoto University
-Kyushu University
-Nagaoka University of Technology
-Nagoya University
-Nanjing University
 National Industrial Research Institute of Nagoya (NIRIN)
 National Institute for Materials Science (NIMS)
-National Institute of Advanced Industrial Science & Technology (AIST)
-National Institute of Metrology
 National Laboratory for High Energy Physics
 North China Research Institute of Electro-optics (NCRIEO)
-Osaka Institute of Technology
-Peking University
-Pohang University of Science & Technology (POSTECH)
-Ritsumeikan University
-Seoul National University
-Shanghai Institute of Microsystem and Information Technology (SIMIT), Chinese Academy of Sciences
-Shanghai Institute of Technical Physics, Chinese Academy of Sciences
-The University of Tokyo
-Tsinghua University
-University of Science & Technology of China
-University of Yamanashi
-Waseda University
-Xi’an Jiaotong University
 Below is a partial list of universities and agencies that have our tools in Europe.
-CEMES-CNRS
-Chalmers University of Technology
-CINaM-CNRS
-Delft University of Technology
-Deutsches Elektronen-Synchrotron (DESY)
-Eindhoven University of Technology
-European Synchrotron Radiation Facility (ESRF)
-Forschungszentrum Jülich
-Fraunhofer Institute IAF
-Fraunhofer-Institut für Silicatforschung ISC
-GEMaat Université de Versailles Saint-Quentin-en-Yvelines
-ICMAB-CSIC
-Imperial College London
-Institut d’Electronique, de Microélectronique et de nanotechnologies (IEMN)
 Institut des NanoSciences de Paris (INSP)
-Institut des Nanotechnologies de Lyon (INL)
-Institut Matériaux Microélectronique Nanosciences de Provence (IM2NP)
-Institute of High Pressure Physics
-Institute of Physics CR
-Institute of Physics PAS
-Istituto SPIN-CNR
-Izmir Institute of Technology
-Katholieke Universiteit Leuven
 Laboratoire de Photonique et de Nanostructures (LPN)
 Laboratoire de Science et Ingenierie des Materiaux et Procedes (SIMaP)
-Leibniz Universität Hannover
-Linköping University
 Luxembourg Institute of Science and Technology (LIST)
-Max Planck Institut für Mikrostrukturphysik
-Max Planck Institut für Festkörperforschung
-Max Planck Institute for Eisenforschung Gmb(MPIE)
-Military University of Technology
 Norwegian University of Science and Technology (NTNU)
-Paul Scherrer Institut
-Paul-Drude-Institut für Festkörperelektronik
-Physikalisch-Technische Bundesanstalt PTB
-Technische Universität Darmstadt
-Technische Universität Dresden
-Technische Universität Hamburg Harburg
-The University of Liverpool
-The University of Nottingham
-The University of Sheffield
-The University of York
-Universidad Rey Juan Carlos
-Universität Augsburg
-Universität Freiburg
-Universität Regensburg
-Universität Ulm
-Université catholique de Louvain
-University College London
-University of Cambridge
-University of Fribourg
-University of Glasgow
-University of Leeds
-University of Oxford
-University of Warwick
-University of Würzburg
+Sign up for the eNewsletter
 agree to my personal data being stored and used to receive the newsletter.
 This field is for validation purposes and should be left unchanged.
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-Representatives and Distributors
 If you don’t see a krepresentative or distributor for your country or region, then please 
-Australia and Southern Pacific 
-Torvac is k-Space’s Midwest Distributor covering MN, WI, IA, IL, ND, SD, and NE.
-Richard Thomson, MD
-Operations 4900 Constellation Drive St. Paul, 55127
-101 Stafford Court Williamsburg, 23185
-Torvac is k-Space’s Midwest Distributor covering MN, WI, IA, IL, ND, SD, and NE.
-Richard Thomson, MD
-Torvac is k-Space’s Midwest Distributor covering MN, WI, IA, IL, ND, SD, and NE.
-Australia and Southern Pacific
 Torvac is k-Space’s Midwest Distributor covering MN, WI, IA, IL, ND, SD, and NE.
 Torvac is k-Space’s Midwest Distributor covering MN, WI, IA, IL, ND, SD, and NE.
-Operations 4900 Constellation Drive St. Paul, 55127
-101 Stafford Court Williamsburg, 23185
+Torvac is k-Space’s Midwest Distributor covering MN, WI, IA, IL, ND, SD, and NE.
+Torvac is k-Space’s Midwest Distributor covering MN, WI, IA, IL, ND, SD, and NE.
+Torvac is k-Space’s Midwest Distributor covering MN, WI, IA, IL, ND, SD, and NE.
+Sign up for the eNewsletter
 agree to my personal data being stored and used to receive the newsletter.
 This field is for validation purposes and should be left unchanged.
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-Representatives and Distributors
 to be Featured on the Fox Business Network
 was showcased in a segment airing on the Fox Business Network. The two-minute segment is part of the Manufacturing Marvels series highlighting premier manufacturers.
-Take a Tour of the Headquarters in Dexter, MI
 Wins 2011 National Exporter of the Year
+Sign up for the eNewsletter
 agree to my personal data being stored and used to receive the newsletter.
 This field is for validation purposes and should be left unchanged.
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-kScanning Pyro
-Molecular Beam Epitaxy (MBE)
 Metalorganic Chemical Vapor Deposition (MOCVD)
 Thermal and E-beam Evaporation
-Physical Vapor Deposition (PVD)
-Pulsed Laser Deposition (PLD)
-Other Industrial Applications
-Representatives and Distributors
-Representatives and Distributors
+Sign up for the eNewsletter
 agree to my personal data being stored and used to receive the newsletter.
 This field is for validation purposes and should be left unchanged.
+Connect with k-Space

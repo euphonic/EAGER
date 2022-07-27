@@ -1,93 +1,21 @@
-Toggle Part Selector
-Spin-transfer Torque MRAM
-Spin-transfer Torque Technology
-NVMe Storage Accelerator Series
-Applications & Case Studies
-Applications & Case Studies
-Factory Automation
-Spin-transfer Torque MRAM
-Quality Program
-Technical Papers Published by Browse Technical Papers
-United States, Canada & Mexico
-Europe, Middle East & Africa
-Buy Now from Worldwide Distributors
-General Information Request
-Frequently Asked Questions
 Reduces latency by up to 90%
-Protects data with persistence 
-Reduce footprint
-Remove batteries/supercaps
-NVMe Over Fabric
 Infiniband, Ethernet and other fabrics
-Utilizes nvtechnology
-Designing for Xilinx FPGAs
-Easily integrate Xilinx FPGAs
-Performance optimizations
-Modular Launches nvNVMe Storage Accelerator Featuring Technology in New U.2 Form Factor
 Modular Technologies, Inc., has partnered with Technologies, Inc., to enable the launch of the new Spin-Transfer Torque (STT-MRAM)-based nvStorage Accelerator. The nvis ideally suited for synchronous logging applications such as those used for financial trading. 
- Reports Third Quarter 2018 Financial Results
-Chandler, AZ, November 8, 2018 — Technologies, Inc. (Nasdaq: MRAM), the world's leading developer and manufacturer of discrete and embedded MRAM, today announced financial results for the third quarter ended September 30, 2018.
 and SilTerra join forces to create new manufacturing center for 
 — Technologies, Inc. (NASDAQ: MRAM), the world's leading developer and manufacturer of Magnetoresistive (MRAM), entered into a multi-year partnership with SilTerra, a world-class semiconductor manufacturing services company located in Kulim, Malaysia, to create additional manufacturing capacity for Toggle products.  This partnership is part of a three-way agreement between Everspin, SilTerra and Bosch Sensortec, a licensee of Everspin’s sensor intellectual property.
 Sign up to receive product updates and other information
 Please let us know what we can improve
 Information for current and prospective investors
-Toggle Part Selector
-Spin-transfer Torque MRAM
-Spin-transfer Torque Technology
-NVMe Storage Accelerator Series
-Applications & Case Studies
-Applications & Case Studies
-Factory Automation
-Spin-transfer Torque MRAM
-Quality Program
-Technical Papers Published by Browse Technical Papers
-United States, Canada & Mexico
-Europe, Middle East & Africa
-Buy Now from Worldwide Distributors
-General Information Request
-Frequently Asked Questions
-Pre-Programming for MRAM
 Xeltek SuperPro Programming Support for Parallel I/Interface and Serial Interface products from Technologies, Inc
-Contact Xeltek >
 has partnered with to build fully processed 300mm wafers with Everspin’s magnetic tunnel junction (MTJ) Spin-Torque Magnetoresistive Random-Access Memory (ST-MRAM) technology, starting with 40 nanometer and 28 nanometer low power platforms. 
 E2V, based in Chelmsford, England, offers a selection of MRAMs qualified for the −55°to 125°temperature range as well as in stacked multichip packaging that can achieve densities up to 32Mb.
-Need assistance or have questions about products?
-World-Wide Sales Offices
-World-Wide Sales Offices
-5670 Chandler Blvd., Suite 100, Chandler, Arizona 85226
-World Wide Information Request
-Europe, Middle East and Africa
 Sign up to receive product updates and other information
 Please let us know what we can improve
 Information for current and prospective investors
-Toggle Part Selector
-Spin-transfer Torque MRAM
-Spin-transfer Torque Technology
-NVMe Storage Accelerator Series
-Applications & Case Studies
-Applications & Case Studies
-Factory Automation
-Spin-transfer Torque MRAM
-Quality Program
-Technical Papers Published by Browse Technical Papers
-United States, Canada & Mexico
-Europe, Middle East & Africa
-Buy Now from Worldwide Distributors
-General Information Request
-Frequently Asked Questions
-About Our Company
-About Our Company
-Executive Management
-Board of Directors
-Global Compact Membership
 Headquartered in Chandler, Arizona, Technologies, Inc. is the worldwide leader in designing, manufacturing, and commercially shipping discrete and embedded Magnetoresistive (MRAM) and Spin-Torque (ST-MRAM) into markets and applications where data persistence and integrity, low latency, and security are paramount.  With over 70 Million and ST-products deployed in data center, cloud storage, energy, industrial, automotive, and transportation markets, has built the strongest and fastest growing foundation of users in the world.  
-Core Competence with MRAM: 
-From Perpendicular to Field-Switched 
 Everspin’s knowledge and experience in magnetic memory design, manufacture and delivery into relevant applications is unique within the semiconductor industry.  With an intellectual property portfolio of more than 500 active patents and applications, leads the market in development of both in-plane and perpendicular magnetic tunnel junction (MTJ) ST-bit cells.  
 Manufacturing - The Capacity to Deliver
 In 2014, partnered with for full turn-key 300mm high-volume production of in-plane and perpendicular ST-on advanced technology nodes including 40nm, 28nm and beyond.  In addition, owns and operates an integrated magnetic fabrication line located in Chandler, Arizona, where produces products are based on 180nm, 130nm, and 90nm process technology nodes. Product package and test operations are located in China, Taiwan and other Asian countries.
-World-Wide Manufacturing Sites >
 Sign up to receive product updates and other information
 Please let us know what we can improve
 Information for current and prospective investors

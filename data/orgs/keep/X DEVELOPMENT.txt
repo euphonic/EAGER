@@ -20,14 +20,6 @@ Multiseat : Various informations about how to obtain and develop such model.
 Deprecated and obsolete : Notes on deprecated and obsolete extensions and server-side stuff.
 More Xorg Documentation : Some pointers from deep in the Wiki. This page should possibly be moved into Development/Documentation.
 Pointer acceleration : information on the pointer accel mechanism.
-Server debugging : How to debug the server with gdb.
 Server profiling : How to profile the server.
-Using Eclipse : Some tips to use Eclipse to develop X.Org.
-PciReworkHowto : How to fia video driver to use libpciaccess
-VgaArbiter : Routing instructions correctly.
-Xv2, Render : a long rambling discussion about giving Pictures GCs, and moving Xv to Render + RandR.
 X12 : a list of things we'd fiif we ever get around to a new version of the core protocol
-Helping out
-? ContributionHOWTO: How to get started contributing bug reports, patches, fixes, or even entire drivers.
-ToDo : Things that need doing.
 Janitor Xorg Janitor project page

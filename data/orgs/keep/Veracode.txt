@@ -1,166 +1,47 @@
-Static Analysis (SAST)
-Software Composition Analysis (SCA)
-Dynamic Analysis (DAST)
-Vendor Application Security Testing
-Security Certifications
-Mobile Application Security Testing
-Application Security Consulting 
-Security Program Management
-By Business Need
-Third-Party Security
-By Organization Type
-Independent Software Vendor
-Secure Development
-Getting Internal Buy In
 Common Vulnerabilities
-State Of Software Security
+Apply to Become a Partner
 Thoma Bravo completes acquisition of Software, creating independent AppSec company
-Get the Latest Insights
-Homepage Stat Card Set
 in Gartner for AST
-customers globally.
 Why delivers the application security solutions and services today’s software-driven world requires. Veracode’s unified platform assesses and improves the security of applications from inception through production so that businesses can confidently innovate with the web and mobile applications they build, buy and assemble as well as the components they integrate into their environments.
  of applications written for the web contain at least one vulnerability on initial assessment.
-more than a third
- of data breaches.          
 Attacks at the application layer are growing by 
-more than 25%
 With its powerful combination of automation, process and speed, seamlessly integrates application security into the software lifecycle, effectively eliminating vulnerabilities during the lowest-cost point in the development/deployment chain, and blocking threats while in production. This comprehensive solution is managed through one centralized platform and stems from a powerful combination of best-in-class technology and top-notch security experts who offer remediation coaching and guidance on processes.
-For Security Professionals
-For Operations
 makes writing secure code just one more aspect of writing great code. With our designed-for-developer tools, and workflow integrations, and tips for fixing vulnerabilities when they are found, you can make security a seamless part of your development lifecycle without sacrificing speed or innovation.
-Securing DevOps
-For Security Professionals
 With Veracode, application security can meet the needs of developers while still satisfying reporting and assurance requirements for the business. Veracode’s ability to provide the right solutions for each stage of the software lifecycle ensures the applications that companies build and buy – and the third party components they use – are secure.
  Everything You Need to Know About Maturing Your AppSec Program
 delivers the application security solutions and services today’s software-driven world requires so that innovation and security can go hand-in-hand. customers ramp up quickly, see value on day one, demonstrate compliance with regulations, and easily scale over time.
-For Operations
 provides solutions that ensure the security of an application all the way through deployment. Operations teams can get better insight about attacks on production applications – and protect against compromise – without impacting performance. And when new vulnerabilities are discovered in open source components already in use they can quickly find and remediate those risks.
 has been a strong partner helping to build a recommendation and business case on the importance of application vulnerability testing. - Unum
 application vulnerability testing has given us and our customers increased confidence in the quality of our software and it has also proved an invaluable part of our engineers ongoing security education - Alfresco
 We work with our customers' security, development and operations teams to create advanced application security programs.
 We work with our customers' security, development and operations teams to create advanced application security programs.
 We work with our customers' security, development and operations teams to create advanced application security programs.
-This Week At Analyst Report
 Gartner Application Security Testing Magic Quadrant 2018
 Everything You Need to Know About Maturing AppSec
-PeerPaper Report 2018
-Have questions? Contact us today! 
-Visit the community >
 We use cookies to collect information to help us personalise your experience and improve the functionality and performance of our site. By continuing to use our site [without first changing your browser setting], you consent to our use of cookies. For more information see our 
-Static Analysis (SAST)
-Software Composition Analysis (SCA)
-Dynamic Analysis (DAST)
-Vendor Application Security Testing
-Application Security Consulting
-By Business Need:
-Third-Party Security 
-By Organization Type:
-Independent Software Vendor
-Secure Development
-Getting Internal Buy In
-Cloud Certifications
 is a leading provider of enterprise-class application security, seamlessly integrating agile security solutions for organizations around the globe. In addition to application security services and secure devops services, provides a full security assessment to ensure your website and applications are secure, and ensures full enterprise data protection. Application protection services from include white box testing, and mobile application security testing, with customized solutions that eliminate vulnerabilities at all points along the development life cycle.Community
-Static Analysis (SAST)
-Software Composition Analysis (SCA)
-Dynamic Analysis (DAST)
-Vendor Application Security Testing
-Security Certifications
-Mobile Application Security Testing
-Application Security Consulting 
-Security Program Management
-By Business Need
-Third-Party Security
-By Organization Type
-Independent Software Vendor
-Secure Development
-Getting Internal Buy In
 Common Vulnerabilities
-State Of Software Security
+Apply to Become a Partner
 envisions a world where secure software is synonymous with great software, and where applications that matter are made to be secure from the start.
-700 EMPLOYEES
 Working with you gain access to some of the top security experts in the industry. These experts can offer strategic advice for building a scalable program, help executing your program, and remediation coaching for when flaws are found.
 Our goal is to work with your security and development teams to create an advanced program – one that reduces risk across your entire application landscape, and accelerates your business. By embedding into your existing software development workflow, is able to ensure assessments and vulnerability remediation are completed during logical points throughout your distinct process.
 The power of the Platform is in its scalability, integrations with development tools and its ability to ensure security policies are consistently enforced across the enterprise. While some companies talk about scanning 10,000 applications overall, we scanned that many applications for a single customer.
 We're focused on that mission every day. Application security isn't part of our business, it's our only business. And it's the driving force behind everything we do. At Veracode, we inspire a culture of innovation and infuse creativity into all our initiatives.
- FaceTime Bug an AppSec Fail
 Carnegie Mellon’s Software Engineering Institute Report Shows Efficacy of Static Application Security Testing
 When you work at Veracode, you become part of community of professionals dedicated to solving problems and helping each other reach their fullest potential.
-Visit the community >
 We use cookies to collect information to help us personalise your experience and improve the functionality and performance of our site. By continuing to use our site [without first changing your browser setting], you consent to our use of cookies. For more information see our 
-Static Analysis (SAST)
-Software Composition Analysis (SCA)
-Dynamic Analysis (DAST)
-Vendor Application Security Testing
-Application Security Consulting
-By Business Need:
-Third-Party Security 
-By Organization Type:
-Independent Software Vendor
-Secure Development
-Getting Internal Buy In
-Cloud Certifications
 is a leading provider of enterprise-class application security, seamlessly integrating agile security solutions for organizations around the globe. In addition to application security services and secure devops services, provides a full security assessment to ensure your website and applications are secure, and ensures full enterprise data protection. Application protection services from include white box testing, and mobile application security testing, with customized solutions that eliminate vulnerabilities at all points along the development life cycle.Community
-Static Analysis (SAST)
-Software Composition Analysis (SCA)
-Dynamic Analysis (DAST)
-Vendor Application Security Testing
-Security Certifications
-Mobile Application Security Testing
-Application Security Consulting 
-Security Program Management
-By Business Need
-Third-Party Security
-By Organization Type
-Independent Software Vendor
-Secure Development
-Getting Internal Buy In
 Common Vulnerabilities
-State Of Software Security
-Committed To Our Partners
+Apply to Become a Partner
 At Veracode, partners are integral to our ability to deliver the application security solutions and services that today’s software-driven world requires. is committed to our worldwide network of partners to help them profitably grow their business with our market-leading application security solutions. Our partners have access to top-notch tools, training and support to drive growth, differentiate their businesses and reach new markets.
 Why Managed through a single, centralized platform, offers a cloud-based, turnkey solution that enables partners to quickly get started and rapidly deliver value to their customers. Fully integrating across the software development lifecycle (SDLC), Veracode’s varied portfolio can quickly address the application security needs of your customers -- from inception through production -- so they can confidently innovate with the web and mobile applications they build, buy and assemble.
 Named a 5x leader in Gartner’s Magic Quadrant, our solution is highly scalable and easily integrated into your customer’s environment.
-Integrate With Your Customers' Business
-Benefits To Your Organization
 Veracode’s award-winning Partner Program offers the training, tools and support you need to get up and running fast with minimal impact to your existing business. Our partners benefit from market leading application security solutions combined with a collection of benefits to help you drive profitable sales opportunities, including:
-Proposal-based marketing funds
-Online and hands-on training
-Extensive sales and marketing resources
 Take advantage of the explosive market for application security - apply to become a partner.
-Visit the community >
 We use cookies to collect information to help us personalise your experience and improve the functionality and performance of our site. By continuing to use our site [without first changing your browser setting], you consent to our use of cookies. For more information see our 
-Static Analysis (SAST)
-Software Composition Analysis (SCA)
-Dynamic Analysis (DAST)
-Vendor Application Security Testing
-Application Security Consulting
-By Business Need:
-Third-Party Security 
-By Organization Type:
-Independent Software Vendor
-Secure Development
-Getting Internal Buy In
-Cloud Certifications
 is a leading provider of enterprise-class application security, seamlessly integrating agile security solutions for organizations around the globe. In addition to application security services and secure devops services, provides a full security assessment to ensure your website and applications are secure, and ensures full enterprise data protection. Application protection services from include white box testing, and mobile application security testing, with customized solutions that eliminate vulnerabilities at all points along the development life cycle.Community
-Static Analysis (SAST)
-Software Composition Analysis (SCA)
-Dynamic Analysis (DAST)
-Vendor Application Security Testing
-Security Certifications
-Mobile Application Security Testing
-Application Security Consulting 
-Security Program Management
-By Business Need
-Third-Party Security
-By Organization Type
-Independent Software Vendor
-Secure Development
-Getting Internal Buy In
 Common Vulnerabilities
-State Of Software Security
-reasons to work at Meet
-our leadership team
+Apply to Become a Partner
 Securing The Software That Powers Your World Is Big Job.
 We're focused on that mission every day. Application security isn't part of our business, it's our only business. And it's the driving force behind everything we do. At Veracode, we inspire a culture of innovation and infuse creativity into all our initiatives.
 We Love Coming To Work Every Day.
@@ -169,86 +50,26 @@ This can’t happen without a powerhouse mix of the best minds and skillsets in 
 Along the way, we encourage employees to experiment, learn, imagine, play, create and treat each other kindly. Oh, and eat food. Lots of food.
 Few Of The Reasons Why We Love Working At ... And You Will Too!
 is the leader in the application security space, with the most comprehensive offering available. We take our mission to secure the software that powers your world seriously. Our award-winning, industry-leading products dominate the AppSec market!
-Our Leadership
-Meet our leadership team
-Chief Executive Officer
 Sam King assumed the role of Chief Executive Officer following Veracode's acquisition by Thoma Bravo. Having previously served as General Manager following Veracode’s acquisition by Technologies in April 2017 and Chief Strategy Officer prior, Ms. King is a recognized expert in...
-Chris Wysopal
-Chief Technology Officer
 Chris Wysopal is Chief Technology Officer at Veracode. He oversees technology strategy and information security. Prior to co-founding in 2006 Veracode, Chris was vice president of research and development at security consultancy @stake, which was...
-Meet our leadership team
 And Our Amazing Team Is Located All Over The Globe.
-is growing fast.
 We are home to over 700 employees worldwide and have tripled in size since 2012
-Salesforce Administrator/Data Analyst
-Senior Salesforce Administrator
-Account Executive – Mid Market/SMB
-Senior Enterprise Customer Success Manager
-Test Automation Engineer – Static Scan Team
-Research Engineer (Vulnerability Data Curation) (Singapore)
-Java Developer - Integrations
-Senior Java Developer - Integrations
-Manager, DevOps Enablement
-Global Channel Marketing Manager
-Account Executive, Market
-Head of Marketing
-Principal Agile Program Manager / RTE
-Technical Support Engineer – Night Shift
-Software Developer in Test (SDET)
-Software Architect – Static Scan Team
-Account Manager – Market
-Engineering Manager – Static
-Principal Solutions Architect – Key Accounts, Central Region
-Senior Application Security Consultant
-Senior Agile Program Manager / RTE
-Senior Systems Engineer
-Technical Content Developer
-Python Automation Engineer
-Principal Java Developer-eLearning
 Solutions Architect, Enterprise and Mid-Market
-Software Dev for Test Engineer (SDET)
-Principal Data Architect
-Senior Software Dev for Test Engineer 
-Senior DevOps Engineer
-Account Manager - Mid Market
-Associate Business Development Manager
-Associate Customer Success Manager
-Visit the community >
 We use cookies to collect information to help us personalise your experience and improve the functionality and performance of our site. By continuing to use our site [without first changing your browser setting], you consent to our use of cookies. For more information see our 
-Static Analysis (SAST)
-Software Composition Analysis (SCA)
-Dynamic Analysis (DAST)
-Vendor Application Security Testing
-Application Security Consulting
-By Business Need:
-Third-Party Security 
-By Organization Type:
-Independent Software Vendor
-Secure Development
-Getting Internal Buy In
-Cloud Certifications
 is a leading provider of enterprise-class application security, seamlessly integrating agile security solutions for organizations around the globe. In addition to application security services and secure devops services, provides a full security assessment to ensure your website and applications are secure, and ensures full enterprise data protection. Application protection services from include white box testing, and mobile application security testing, with customized solutions that eliminate vulnerabilities at all points along the development life cycle.Terms of Use
 ATTENTION: These terms of use set forth the basis on which you are permitted to access and use veracode.com and its related websites (the "Sites"). Please read the terms of use carefully before using the Sites. By accessing and using the Sites in any way, including, without limitation, browsing the Sites, you agree to and are bound by the terms of use described herein. If you do not agree to all of the terms and conditions contained herein, do not use the Sites in any manner.
-All copyrights and other intellectual property rights in the Sites, including without limitation all software and written and graphical content included in the Sites, are owned by Veracode, Inc. and/or its subsidiaries ("Veracode") and are hereby reserved.
-hereby authorizes you to make a single copy of the content displayed on the Sites for your use in learning about, evaluating or acquiring services or products, provided (i) you mark such copy "© 2018 Veracode, Inc. All rights reserved."; (ii) the use of such copy is for informational and non-commercial or personal use and will not be copied or posted on any network computer or broadcast in any media; and (iii) no modifications to such copy are made. No other permission is granted to you to print, copy, reproduce, distribute, transmit, upload, download, store, perform, display in public, alter, or modify the content contained on the Sites. Accredited educational institutions, such as K-12, universities and colleges, may download and reproduce the content displayed on the Sites for distribution in the classroom. Distribution outside the classroom requires express written permission. Use for any other purpose is expressly prohibited by law, and may result in civil and criminal penalties. Violators will be prosecuted to the maximum extent possible. The Sites may contain email services, bulletin board services, forums, communities, and/or other message or communication facilities designed to enable you to communicate with others (collectively "Communication Services"). You agree to use the Communication Services only to post, send and receive messages and material that are proper. By way of example, and not as a limitation, you agree that when using the Communication Services or the Sites, you will not (i) use them in connection with surveys, contests, pyramid schemes, chain letters, junk email, spamming or any duplicative or unsolicited messages; (ii) defame, abuse, harass, threaten or otherwise violate the legal rights of others; (iii) publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, obscene, pornographic, racist, lewd, lascivious, excessively violent, harassing, unlawful, or otherwise objectionable topic, name, material or information; (iv) upload, or otherwise make available, files that contain material protected by intellectual property laws unless you own or control the rights thereto or have received all necessary consent to do the same; (v) advertise or offer to sell or buy any goods or services for any business purpose, unless such Communication Services specifically allows such messages; (vi) restrict or inhibit any other user from using and enjoying the Communication Services or the Sites; (vii) harvest or otherwise collect information about others, including email addresses; or (viii) violate any applicable laws or regulations. has no obligation to monitor the Sites or Communication Services. However, reserves the right to review materials posted to the Sites and the Communication Services and to remove and/or edit any materials in its sole discretion. reserves the right to terminate your access to the Sites and the Communication Services at any time, without notice, for any reason whatsoever. reserves the right at all times to disclose any information as it deems necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, in Veracode's sole discretion.
-All copyrights and other intellectual property rights in the Sites, including without limitation all software and written and graphical content included in the Sites, are owned by and are hereby reserved. and any other trademarks or service marks used on the Sites are trademarks or registered trademarks of or their respective owners and may not be used without prior written consent. Any use of Veracode’s marks, or any others displayed on the Sites, will inure solely to the benefit of their respective owners.
 does not accept or consider unsolicited ideas, suggestions, materials or other information (all of the foregoing being "Submissions"). The purpose for this policy is to avoid misunderstandings or disputes with respect to the origin of ideas, products, services and strategies of Veracode. Please do not send your unsolicited Submissions to or anyone at Veracode. In the event that you disregard this policy and post, upload, input, provide, submit or otherwise make a Submission to Veracode, (i) you will be granting and its affiliates permission to use your Submission in connection with the operation of its businesses (the "License"), including, without limitation, the right to copy, distribute, display, edit, reproduce, translate and reformat your Submission for both commercial and non-commercial purposes, (ii) you warrant and represent that you own or otherwise control all of the rights to your Submission, including, without limitation, the rights necessary to grant the License and (iii) any such Submissions will be considered non confidential and non proprietary communications. No compensation will be paid with respect to your Submission. will not be subject to any obligation of confidence with respect to your Submission.
-Any links to third party websites are provided for your convenience only, and makes no recommendation or endorsement as to such websites or the products or services offered thereon.
+You may not use the Sites for any purpose that is unlawful or prohibited by the terms and conditions provided herein. You may not use the Sites in any manner that could damage, disable, overburden or otherwise impair any server or the network(s) connected to any server, or interfere with any other person's use and enjoyment of the Sites. You may not attempt to gain unauthorized access to the Sites or the computer systems or networks connected to any server through any means. You may not obtain any materials or information through any means not intentionally made available to you through the Sites.
 You may not frame the Sites in a manner that may cause confusion to customers, nor may you interfere or attempt to interfere in any way with the operation of the Sites, including without limitation through data mining, the use of any robot, scraper or other automated device, or circumvention or attempted circumvention of any website security features.
 You agree that would be irreparably harmed by the use, by you or others, of the Sites or facilities in connection with the transmission of spam, newsgroup postings or unsolicited email in violation of the terms of use as provided herein, and that is entitled to obtain injunctive relief against any such transmission (in addition to all other remedies available at law or in equity). reserves the right to block, filter or delete unsolicited email.
 You acknowledge and agree that material on the Sites is subject to the Export Administration Laws and Regulations. Diversion of such material contrary to law is prohibited. You agree that none of the material on the Sites, nor any direct product therefrom, is being or will be acquired for, shipped, transferred, or re-exported, directly or indirectly, to proscribed or embargoed countries or their nationals, nor be used for nuclear activities, chemical biological weapons, or missile projects unless authorized by the Government. You certify that you are not on the Department of Commerce's Denied Persons List or affiliated lists or on the Department of Treasury's Specially Designated Nationals List. You agree to comply strictly with all export laws and assume sole responsibility for obtaining licenses to export or re-export as may be required.
 "IS" KIND, IMPLIED, RISK, IT.
-SITES, LAW, THAT: (i) CREATING, PRODUCING, SITES, NON-SITES; (ii) DEALERS, (CLAIM, e.g. CONTRACT, WARRANTY, TORT, LIABILITY, NEGLIGENCE, FRAUD, AND/OTHERWISE) $100; (iii) DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, DAMAGES, DAMAGES.
 Some jurisdictions do not allow the exclusion of implied warranties, so the above exclusion may not apply to you.
-If you believe that material posted on the Sites infringes your copyright, you should provide notice of such infringement as follows:
-These terms of use are the entire agreement between you and in relation to your use of the Sites, and all other representations or discussions are hereby excluded from this agreement. If any part of these terms are held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect. Veracode's failure to insist on or enforce strict performance of these terms shall not constitute a waiver of any breach or any future breaches thereof.
 We use cookies to collect information to help us personalise your experience and improve the functionality and performance of our site. By continuing to use our site [without first changing your browser setting], you consent to our use of cookies. For more information see our cookies policy .
 is a leading provider of enterprise-class application security, seamlessly integrating agile security solutions for organizations around the globe. In addition to application security services and secure devops services, provides a full security assessment to ensure your website and applications are secure, and ensures full enterprise data protection. Application protection services from include white box testing, and mobile application security testing, with customized solutions that eliminate vulnerabilities at all points along the development life cycle.
 loadingCertifications and Security at Every Level
 delivers an application security service that is end to end, built for scale, and works to systematically reduce application security risks. But recognizes that customers need assurance that its services are delivered securely and assurance that customer binaries, bytecode and analysis results remain confidential.
 was founded by world-class security experts who have been addressing sophisticated enterprise security challenges for nearly two decades. We have leveraged our experience with securing customer networks, applications and data to design, implement, maintain and audit security at every layer of our cloud-based services. This page outlines the mechanisms and procedures we have taken to deliver our secured cloud-based services, and describes the certifications that attest to our security.
-Multi-layered protection 
-All customers benefit from:
 Data encryption in transit - Data is encrypted using in transit
 Data encryption at rest - Data is encrypted on servers using AES-256.
 Strong authentication controls - Enforced complexity requirements, Two-factor authentication, address restrictions and forced resets, as well as optional Single Sign On support
@@ -256,7 +77,6 @@ Role-based access controls - End user viewing, access & uploading permissions.
 Administrative auditing - manage users, groups, and access permissions, and audit user activity
 Protection of your privacy - We take your privacy very seriously. More .
 See below for more details about Veracode's certifications and the technology controls that support them.
-Service Organization Controls (SOC) 3
 is committed to protecting the security and confidentiality of our customers' information as if it were our own. To that end, we are pleased to announce that has achieved 3 certification - an audit by an outside, independent auditor to ensure we have appropriate internal controls in place for security and confidentiality of our environment.
 The 3 certification, formerly known as SysTrust, is a rigorous process developed by the American Institute of Certified Public Accountants (AICPA) and the Canadian Institute of Chartered Accountants (CICA) to provide independent assurance that an organization's systems are reliable. Ernst & Young evaluated Veracode's operational practices and controls and awarded with an unqualified certification regarding Veracode's conformity with the following SysTrust principles:
 Security The system is protected against unauthorized access (both physical and logical);
@@ -273,55 +93,20 @@ Service Organization Controls (SOC) reports are designed to help organizations t
 commits extensive resources to the design, implementation, monitoring and maintenance of our security infrastructure. This includes:
 Systrust SOC-2 and 3 certified. Audit by an outside, independent auditor to ensure we have appropriate internal controls in place for security and confidentiality of our environment.
 Highly scalable and redundant online infrastructures
-Constant monitoring of production systems
-Ongoing threat assessments
-Rapid deployment of industry-standard security technologies
 Protection at the application level
 Your Applications uploaded to the Platform are private to your Account
 Uploaded Applications are purged from the Platform once the analysis is complete.
 Servers reside behind sophisticated firewall that selectively grants access to network resources
 External penetration testing performed for system security and validation
 Multiple internet backbone connections provide routing redundancy and high-performance connectivity
-Intrusion Detection System (IDS) continuously monitors network traffic
 Protection at the facilities level
-Servers hosted in redundant facilities, which are automatically backed up to a geographically-separated site
 Data centers implement ongoing audits, 24/7/365 monitoring and surveillance, on-site security staff, mantraps and strict access controls
 The primary inhibitor to organizations being able to identify software vulnerabilities is the availability of source code.
 We use cookies to collect information to help us personalise your experience and improve the functionality and performance of our site. By continuing to use our site [without first changing your browser setting], you consent to our use of cookies. For more information see our cookies policy .
 is a leading provider of enterprise-class application security, seamlessly integrating agile security solutions for organizations around the globe. In addition to application security services and secure devops services, provides a full security assessment to ensure your website and applications are secure, and ensures full enterprise data protection. Application protection services from include white box testing, and mobile application security testing, with customized solutions that eliminate vulnerabilities at all points along the development life cycle.
-Static Analysis (SAST)
-Software Composition Analysis (SCA)
-Dynamic Analysis (DAST)
-Vendor Application Security Testing
-Security Certifications
-Mobile Application Security Testing
-Application Security Consulting 
-Security Program Management
-By Business Need
-Third-Party Security
-By Organization Type
-Independent Software Vendor
-Secure Development
-Getting Internal Buy In
 Common Vulnerabilities
-State Of Software Security
-Select your location from the drop-down menu to find the partners in your area, or enter the name of your partner in the search field.
-For a list of distribution partners, 
-United States
-Visit the community >
+Apply to Become a Partner
 We use cookies to collect information to help us personalise your experience and improve the functionality and performance of our site. By continuing to use our site [without first changing your browser setting], you consent to our use of cookies. For more information see our 
-Static Analysis (SAST)
-Software Composition Analysis (SCA)
-Dynamic Analysis (DAST)
-Vendor Application Security Testing
-Application Security Consulting
-By Business Need:
-Third-Party Security 
-By Organization Type:
-Independent Software Vendor
-Secure Development
-Getting Internal Buy In
-Cloud Certifications
 is a leading provider of enterprise-class application security, seamlessly integrating agile security solutions for organizations around the globe. In addition to application security services and secure devops services, provides a full security assessment to ensure your website and applications are secure, and ensures full enterprise data protection. Application protection services from include white box testing, and mobile application security testing, with customized solutions that eliminate vulnerabilities at all points along the development life cycle.Sam King, Chief Executive Officer
 Sam King assumed the role of Chief Executive Officer following Veracode's acquisition by Thoma Bravo. Having previously served as General Manager following Veracode’s acquisition by Technologies in April 2017 and Chief Strategy Officer prior, Ms. King is a recognized expert in application security and the emerging practice of DevSecOps.
 She is a sought-after speaker at industry events including Conference, Gartner Security Summit and InfoSecurity and has been profiled in business publications such as the Huffington Post, CNNMoney, Financial Times, InfoSecurity Magazine and the Boston Business Journal.
@@ -338,69 +123,29 @@ Mike McGuinness, Executive Vice President, Sales
 Mike serves as Executive Vice President of Sales for and is responsible for global sales growth including both the direct and channel sales teams. 
 seasoned veteran of the software industry, Mike has spent more than two decades establishing rapid growth programs for a wide range of companies, most recently serving in senior vice president of sales roles for software quality solutions company SmartBear, and cybersecurity providers Bromium and Sophos. Earlier in his career, Mike also served as PTC’s head of sales, helping the company to triple its revenue in four years. His executive experience also includes stints as of technology companies NuGenesis and PanGo Networks.
 Mike is a graduate of Fairfield University where he served on the board of trustees from 2000 to 2012. In his spare time he is an avid cyclist and snowboarder.
-Paiman Nodoushani, SVP, Engineering and Product
 Paiman Nodoushani has more than 25 years of experience leading complex and diverse engineering teams in both small and large companies. Paiman has spent the last seven years building cohesive teams that deliver Cloud/Saabased solutions. He has depth of experience successfully integrating acquisitions and fully realizing the potential of acquired technologies.
 Prior to joining Veracode, Paiman was the of engineering at Monotype, a $1 billion market cap company where he led a large geographically dispersed engineering team in building enterprise class products with focus on Saaand Cloud. Previously, he was the of engineering at Layer3TV, and and engineering and data center operations at Continuum Managed Service.
 Pejman Pourmousa is Vice President of Services at Veracode, where he is responsible for the successful adoption of Veracode’s solutions by its customers. This includes program management, customer success, security consulting, manual penetration testing and customer support. Pejman has spent the last seven years building cohesive teams that help customers develop, deploy and mature their App Sec programs. Using his depth of experience, he guides top leaders of organizations on how to fully realize the potential of their application security programs.
 Pejman has spent the entirety of his career in the area of services management and delivery specifically around Compliance, Risk and Security. Prior to he was a Manager of Client Services at Integrity Interactive (acquired by Global) where he led the team responsible for the delivery of Compliance and Risk solutions across Global’s client base.
 Pejman holds a Bachelors from Brandeis University in Business, History and Secondary Education. Pejman enjoys time with his family and friends and watching New England sports teams.
-Chris Eng, Security Research
 Chris Eng is Vice President of Research at Veracode. founding member of the team, he currently leads all security research initiatives including applied research, product security, and Labs. Chris has led projects breaking, building, and defending software in a career spanning nearly two decades. In addition to research, he consults frequently with stakeholders to advance application security initiatives.
 Chris is a frequent speaker and occasional review board member at premier industry conferences. Bloomberg, Fox Business, CBS, and other prominent media outlets have featured Chris in their coverage.
 Prior to Veracode, Chris was technical director at Symantec (formerly @stake) and an engineer at the National Security Agency.
-Leslie Bois, VP, Global Channel & Alliances
 Leslie Bois is responsible for developing and executing Veracode’s global strategy to build a strong partner network that will play a more significant role in the company’s go-to-market efforts. Bois will work cross functionally to align all aspects of the business to support channel partners to grow their businesses with Veracode’s leading application security solutions.
 Before joining Veracode, Bois most recently served as vice president channel sales, North America, at Kaspersky Lab where she was responsible for managing VAR, LAR, Distribution and partnerships as well as the creation and execution of a comprehensive strategy to increase market share in North America. In her role, Bois will help foster a thriving partner community, enabling them to take advantage of application security experts to help design programs that fit into the realities of today’s software and development-driven world.
 Bois has a in Marketing from Plymouth State University.
 We use cookies to collect information to help us personalise your experience and improve the functionality and performance of our site. By continuing to use our site [without first changing your browser setting], you consent to our use of cookies. For more information see our cookies policy .
 is a leading provider of enterprise-class application security, seamlessly integrating agile security solutions for organizations around the globe. In addition to application security services and secure devops services, provides a full security assessment to ensure your website and applications are secure, and ensures full enterprise data protection. Application protection services from include white box testing, and mobile application security testing, with customized solutions that eliminate vulnerabilities at all points along the development life cycle.
-Static Analysis (SAST)
-Software Composition Analysis (SCA)
-Dynamic Analysis (DAST)
-Vendor Application Security Testing
-Security Certifications
-Mobile Application Security Testing
-Application Security Consulting 
-Security Program Management
-By Business Need
-Third-Party Security
-By Organization Type
-Independent Software Vendor
-Secure Development
-Getting Internal Buy In
 Common Vulnerabilities
-State Of Software Security
-Security Program Management
+Apply to Become a Partner
 Successfully scale your Application Security Program with the help of Program Management professionals 
-Experienced Specialists
 Defining an application security program for your organization is a daunting task, and finding seasoned application security experts is a challenge. Whether you are struggling to figure out where to start or trying to scale an established application security program, getting help from people with experience can improve the effectiveness and maturity of your program. Our experienced Security Program Managers help you define the goals of your program, onboard and answer questions about products, and work with your teams to ensure that your program stays on track and continues to mature. Security Program Management helps you take the most direct path to success.
-An experienced team of experts
 With more than a decade of experience building AppSec programs across thousands of customers, Veracode’s Security Program Management practice has built-up a wealth of knowledge about the keys to a successful program. Our experts leverage industry best practices to guide you through starting and scaling an application security program, by delivering metrics and measuring KPIs that demonstrate your program’s success to your management team.
 Security Prorgam Managers partner with your organization to support the necessary organizational changes required to introduce, grow, and maintain application security within your development processes. This includes enabling your team and evolving your processes while finding the optimal technical solutions to integrate/automate your security assessment efforts.
-Learn More About the State of Software Security
-Get The Report
-Leverage Specialists for Added Value
 customers who work with our Security Program Managers scale their application coverage by an average of 25 percent per year. Security Program Managers also reduce the time needed to deploy and mature your application security program and lessen your risk of failure, saving you money while helping you become more secure.
-Manage Your Program in One Unified Platform
 customers who work with our Security Program Managers scale their application coverage by an average of 25 percent per year. Security Program Managers also reduce the time needed to deploy and mature your application security program and lessen your risk of failure, saving you money while helping you become more secure.
-Program Manager’s Perspective: Best Practices for Scaling an AppSec Program
 What Makes an AppSec Program Successful: Program Management Perspective
-Datasheet
-Automate security into your  DevOps pipeline
-Visit the community >
 We use cookies to collect information to help us personalise your experience and improve the functionality and performance of our site. By continuing to use our site [without first changing your browser setting], you consent to our use of cookies. For more information see our 
-Static Analysis (SAST)
-Software Composition Analysis (SCA)
-Dynamic Analysis (DAST)
-Vendor Application Security Testing
-Application Security Consulting
-By Business Need:
-Third-Party Security 
-By Organization Type:
-Independent Software Vendor
-Secure Development
-Getting Internal Buy In
-Cloud Certifications
 is a leading provider of enterprise-class application security, seamlessly integrating agile security solutions for organizations around the globe. In addition to application security services and secure devops services, provides a full security assessment to ensure your website and applications are secure, and ensures full enterprise data protection. Application protection services from include white box testing, and mobile application security testing, with customized solutions that eliminate vulnerabilities at all points along the development life cycle.For Global Enterprises
 When 12,000 security professionals were asked to name the number one enterprise application security threat for their organization, 69% said application-layer vulnerabilities* — yet less than 10% ensure that all their business-critical applications are reviewed for security before and during production.†
 Clearly, global organizations need a better way to scale their programs so they can better protect their entire application infrastructure in a cost-effective manner — without hiring more consultants or installing more servers and tools.
@@ -416,8 +161,6 @@ Constantly exposed to the Internet, which makes them easy to probe by attackers 
 Replete with common vulnerabilities such as injection that can easily be found via freely-available scanning tools.
 Continuously changing, with short development cycles driven by new methodologies such as agile and continuous deployment.
 Assembled as hybrid code from a combination of in-house development, outsourced code, third-party libraries and open source components — without visibility into which components contain critical vulnerabilities.
-Even more vulnerable with Web 2.0 technologies that increase the attack surface by incorporating client-side logic using complex JavaScript or technologies such as Adobe Flash.
-* Source: 2013 Global Information Security Workforce Study from Booz Allen Hamilton.
 The Platform offers a holistic, scalable way to manage security risk across your entire application portfolio.
 Is a Leader in the Gartner Magic Quadrant for Application Security Testing (March 2018)
 We use cookies to collect information to help us personalise your experience and improve the functionality and performance of our site. By continuing to use our site [without first changing your browser setting], you consent to our use of cookies. For more information see our cookies policy .
@@ -425,7 +168,6 @@ is a leading provider of enterprise-class application security, seamlessly integ
 loadingFor Midsize Enterprises
 With larger companies increasing their security protections, small-medium businesses (SMBs) are now the low-hanging fruit for cyber criminals. Almost 75% of data breaches investigated are focused on companies with less than 100 employees. Yet surprisingly, more than two-thirds of business owners surveyed believe that their data and devices are safe and secure. The discrepancy suggests that many SMBs are not even aware that they’ve been attacked.
 Most businesses remain underinvested when it comes to securing all their software – much of which is externally sourced from vendors. Increases in the use of mobile computing, cloud services and social media in recent years have only worsened the threats SMBs face.  With the costs of recovery from a single breach incident climbing, security misconceptions among business owners amount to a dangerous disconnect that threatens business continuity, intellectual property and employee/customer data.
-Why are applications the leading cyber-attack vector?
 Attackers have turned their attention to vulnerabilities in web-facing applications because they’re:
 Constantly exposed to the Internet and easy to probe from the outside.
 Easier to attack thanks to common software bugs, freely available scanners, and a global malicious hacker marketplace.
@@ -438,20 +180,16 @@ Using our smart , cloud-based and programmatic approach to application-layer sec
 Is a Leader in the Gartner Magic Quadrant for Application Security Testing (March 2018)
 We use cookies to collect information to help us personalise your experience and improve the functionality and performance of our site. By continuing to use our site [without first changing your browser setting], you consent to our use of cookies. For more information see our cookies policy .
 is a leading provider of enterprise-class application security, seamlessly integrating agile security solutions for organizations around the globe. In addition to application security services and secure devops services, provides a full security assessment to ensure your website and applications are secure, and ensures full enterprise data protection. Application protection services from include white box testing, and mobile application security testing, with customized solutions that eliminate vulnerabilities at all points along the development life cycle.
-loadingIndependent Audits for ISVs
 Now more than ever, Independent Software Vendors (ISVs) and outsourced development firms are asked to certify that their software is secure as a pre-requisite to becoming approved suppliers. This is often driven by formal governance programs instituted by enterprises for managing third-party risk in the software supply chain.
 Fact is, the Financial Services Information Sharing and Analysis Center (FS-ISAC) — an industry working group consisting of security executives from leading blue-chip companies — has  published a list of recommended control types for third-party software . The group’s recommendations include implementing  binary static analysis (SAST)  as a detective control for assessing the security of all third-party software — including commercial off-the-shelf software, outsourced code, third-party components and open source.
-Cost effective audits
 Our Vendor Application Security Testing (VAST) program helps ISVs and other developers document their compliance with corporate security policies. As a trusted, independent party, we provide an impartial security audit of your software that you can use to augment your self-attestation. Plus we provide detailed test results and step-by-step remediation assistance for your developers so they can quickly remediate critical vulnerabilities that can damage your customers' brands. With our security documentation in hand, you can demonstrate the security posture of your applications, shortening sales cycles and giving you a competitive advantage over other vendors in your space.
 Rigorous analysis — without access to your source code
 Our cloud-based platform automates all test procedures and analyzes binaries while protecting your intellectual property.
 Our platform provides detailed test results with line of code level information to help developers rapidly prioritize and remediate vulnerabilities.
 Rigorous analysis using best practices and standard controls such as the  Top 10 ,  CWE/Top 25  and PCI.
 We support all widely-used languages and platforms for web and mobile applications including:
-Web Platforms: J2EE, ASP.NET, Classic (including VBScript and VB6), PHP, Cold Fusion, Ruby, JavaScript (including Jquery and Node.js)
-Mobile Platforms: Objective for iOS, Java for Android, JavaScript frameworks including PhoneGap, Apache Cordova, Appcelerator Titanium
-Legacy Business Applications: COBOL
 We provide tight integration with existing processes and tools including:
+IDEs such as Eclipse and Visual Studio.
 Build systems including Jenkins, Ant, Maven and Team Foundation Server (TFS).
 Issue tracking systems such as JIRA, Bugzilla and Archer GRC.
 Dedicated support and step-by-step expert guidance for successful remediation efforts.
@@ -468,8 +206,6 @@ And like past industrial revolutions and manufacturing-based economies, the appl
 different approach to application security (AppSec) — one that aligns with the new role of software and today’s                      development paradigms — is now key to effective information security.
 And that approach entails an AppSec program that both integrates security seamlessly                     into developer processes, and that is a comprehensive, mature, ongoing program — rather than a one-off project. Why? Because these                      programs get results. Our 2017 State of Software Security report found that organizations with long-standing, comprehensive AppSec                      programs had a 35 percent better pass rate than programs in place for less than a year.
 “There is no application security silver bullet. It’s going to take more than one automated technique and                 manual processes to secure your applications. Gather the strengths                 of multiple testing techniques along the entire application lifetime                 to drive down application risk in your organization."
-Chris Wysopal
-Co-Founder and CTO
 Unfortunately, application security is frequently misunderstood. Too often, business and                  security leaders don't know how or where to begin, or they lack the technology framework to fully execute on a plan. As a result, they rely on an approach that delivers subpar results.
 We typically find that organizations are at one of four maturity stages in addressing application security. Those four stages are: a reactive approach, which relies on ad hoc tools and security assessments that reside outside the development lifecycle; a baseline approach that depends  on assessments at the end of the software development lifecycle (SDLC); an expanded approach that begins to integrate tools at various stages but often lags behind the required pace; and an advanced approach that manages application security in a more holistic and integrated way.
 Regardless of which stage you’re currently in, however, your goal should be to move toward  a mature, comprehensive program, which is ultimately the most effective way to protect your application layer.
@@ -486,21 +222,16 @@ Learn more about your next steps if you're in the expanded stage.
 The goal for an organization should be to, over time, reach the final stage, an advanced approach. As the name implies, this approach encompasses a more comprehensive framework for application security. The methodology aims to protect all code and applications — from those developed internally to those made up primarily of open source components — and across application lifecycles, from development to to production. Notably, in this stage, developers own the testing and fixing of security-related defects in code. Security testing is integrated into their existing tools and processes, leaving the security team to focus on more strategic endeavors like policy and training. Not only does this lead to a more cost-effective model, it delivers significantly better protection.
 has found that 88% of Java applications have a component with at least one known vulnerability.2
 mature application security program might seem intimidating to some organizations.   But it’s important to remember that there is an established series of steps most organizations take when developing an application security program. The keys are to start small, keep things simple, prove the value and then mature the program over time. In fact, the most successful companies we’ve worked with have started by securing a few apps at a time. In addition, if   you build security assessments into the development process, reaching maturity is less daunting. The journey to a more advanced application security framework and a more mature approach  to security starts with a few key steps:
-Executive buy-in and support.
 Improved application security — and cybersecurity in general — starts with support from  the highest corners of the enterprise. Without backing and without adequate funding, an organization will remain perpetually mired in reactive mode. In order to gain support, it's necessary to keep your senior-level executives and board-level leaders informed about application security vulnerabilities and risks, while keeping the discussion broad and strategic. This requires facts, numbers and, whenever possible, a business case. It's critical to answer  any and all questions they might have and ensure that any concerns are addressed promptly. Once the executive team buys in, other groups in the enterprise will follow.
-Developer buy-in and support.
 With the emergence of DevOps, and security’s “shift left,” application security won’t happen without developer buy-in, support and participation. To ensure the success of your application security initiative, it’s essential to work closely with your developers so they understand the guidelines, strategies, policies, procedures and security risks involved with application security. What’s more, they must be prepared and equipped to operate securely within their particular development processes. Watch this video of one of our security experts outlining the best ways to go about getting your development team on board.
 Create a security champion Consider asking a developer with an interest  in security to be a security champion.                           These champions help to reduce culture conflict between development and security by                          amplifying the security message on a peer-to-peer level. They don’t need to be experts,                          more like the "security consciousness" of the group.
 An application security maturity assessment.
 It's impossible to reach a destination if you lack a map. In this case, the map is a security maturity assessment. It provides insights into key factors, including where an enterprise is currently at in terms of AppSec maturity and where it hopes to be. Although it's entirely possible to develop an assessment internally, offers a variation of the Opensoftware assurance maturity model. This open framework aids in evaluating existing software security practices, identifies iterations that lead to a well-balanced program, and offers insights into concrete improvements to a security program. Using this tool, an enterprise can define and measure key security-related activities. The Openmethodology revolves around flexibility. It's a tool that organizations of all shapes and sizes — and across a spectrum of industries — can use to take application security to the next level.
-Program goals.
 With an assessment of where gaps, deficiencies and opportunities exist, it's possible to establish clear goals for improving your organization's security posture. For many businesses, the Top 10 serves as an excellent guide for remediating vulnerabilities. Of course, many other tools and metrics exist. The common denominator is that it's important to understand the value of the goals and set predictable timelines and metrics for gauging results. Without definable standards, it's difficult, if not impossible, to achieve consistent results through application security and other cybersecurity tools.
 An inventory of current applications and software code.
 Another important piece of the puzzle is identifying the current state of the software and applications within your organization. An understanding of where your organization is at with application security, as well as program goals, does no good if your enterprise doesn't know what exactly it’s looking for and where the vulnerabilities lie. Too often, organizations succumb to attacks because they lack visibility into the web perimeter and other exposure points to the outside world. In fact, research has found that organizations have between 30 percent and 40 percent more exposure than they realize. discovery scan of the perimeter — and the resulting inventory  of exposure points — is a crucial step in reducing risk. Such a scan can help you determine where you might need to apply patches or eliminate sites that are no longer in use but are still active.
 Defining the policy and the program.
 With a thorough understanding of all the various components of your application security program, it's possible to develop clear and relevant policies and procedures. Even with code scans and various other tools in place, it's important to have processes that ensure your organization is adhering to regulatory controls, industry standards and internal policies. Ensuring that teams are synced, and that different groups within your organization are communicating and collaborating effectively, is paramount. mature application security program incorporates clear policies and guidelines — and has the mechanisms in place to make sure people follow them.
-Simplify Your Path to AppSec Maturity With the Verified Program
-When you’re part of the Verified program, you’ll benefit by:
 Getting solid guidance and a proven roadmap for maturing your application security program
 Generating clear evidence to show your executive team that your program is making progress
 Staying ahead of customer and prospect security concerns, and speeding your sales cycle, without straining limited security resources
@@ -515,10 +246,7 @@ When an enterprise sets the bar at the appropriate level and makes results achie
 of organizations now rely             on open source software.3
 more sophisticated approach to application security also requires the right combination of tools and technologies. As a rule, multiple testing techniques are more effective than a single, blunt-force method. multi-dimensional framework also helps spot different types of vulnerabilities that might otherwise go undetected. For example, research indicates that there are differences in the types of vulnerabilities discovered by examining applications dynamically at runtime, as compared to doing static tests in a non-runtime environment.
 In order to achieve an inception-to-production view — essentially a complete approach — it's important to not only rely on a mix of static, dynamic and manual testing, but also on tools that allow developers to test code early and frequently, including in sandboxes and other private spaces, without interfering with security policies. This includes tools such as  Greenlight, which brings security scanning into the while providing immediate feedback, and Sandbox, which lets teams assess new code against the security policy without triggering compliance reporting for the current version of the app.
-Our 2017 State of Software Security report found  that DevOps organizations that test frequently with
 Developer Sandbox have a 48% better fix rate than those doing policy-only scanning.
-Mature Application Security Program Features:
-Dynamic analysis
 Find out more about the different types of application security testing and the strengths and limitations of each in Your Guide to Application Security Solutions.
 According to the National Institute of Standards and Technology (NIST), the cost of fixing a vulnerability during post production                         is 30x more expensive than addressing it during earlier stages.4
 Teams must not just find vulnerabilities, but mitigate or remediate them as well.
@@ -526,7 +254,6 @@ An organization must create an inventory of all components and the versions used
 Developer training on secure coding is a key to AppSec success. Most developers have little to no security training — in school or on-the-job.
 The enterprise must continually measure and iterate.
 Hear first-hand how a large investment bank matured its application security program from the ground up.
-DOLLARS-AND-APPROACH
 In an era of escalating threats and risks, it's essential to address application security in a sensible and effective way. Web application attacks have emerged as the No. 1 risk to organizations, yet application security comprises only a small fraction of overall security spending.
 At the heart of an effective operation is a multi-faceted approach to application security. This means moving away from one-off scans or penetration tests, and establishing a comprehensive and integrated framework for continual assessment and action. While it's nothing short of essential to secure business-critical applications, application security must permeate processes and workflows that touch every piece of code. Only then can an organization adopt a mature approach and minimize the risks in today's business landscape.
 In the end, application security won’t be sufficiently addressed with a one-off project. But forward-thinking organizations are reducing their risk and moving their businesses forward with ongoing, comprehensive application security programs. Although creating this program might seem overwhelming at first, most organizations break it down into a series of manageable steps and slowly decrease their risk over time.

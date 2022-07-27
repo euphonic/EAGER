@@ -1,6 +1,4 @@
-Medium Size Displays – Automotive and Applications
 About is an emissive display technology company
-solving the challenges faced by the industry.
 Inc. is an emissive display technology company providing innovative solutions to address the challenges faced by the industry. Active Matrix Organic Light Emitting Diode (AMOLED) displays face many challenges with respect to non-uniformity (“Mura”), image retention, burn-in of images on the display, along with a host of other issues.
 Our patented technology solutions address these problems enabling wide range of applications such as high dynamic range (HDR) smartphone, displays (laptop, tablet), TV, Virtual Reality (VR), Augment Reality (AR), automotive, medical and more.
 Active-Matrix Organic Light-Emitting Diode (AMOLED) is display technology is used for wearable devices, mobile phones, televisions, and everything in between.
@@ -15,22 +13,9 @@ is now a seventeen-year old company based in Waterloo, Ontario, Canada. We emplo
 will continue to DRIVE, MEASURE, emissive displays.
 We are proud to be a leading intellectual property and technology development company operating in the emerging and fast growing display industry, part of the $100world-wide flat panel display market.
 Please follow a link below to review our current opportunities and apply for a position.
-Board of Directors
-About Emissive Displays
-Senior Analog/Display Layout Engineer (12-month contract)
-Software Developer
 We are the management team
 Our management group who works together with our multi-disciplinary team of technical, development and application specialists/engineers, production and sales personal to further develop and commercialize our technology.
-Chief Executive Officer
-Joe Acchione
-Vice-President Operations
-Dr. Tang, PhD
-Vice-President Business Development
-Director of Engineering
 Please follow a link below to review our current opportunities and apply for a position.
-Senior Analog/Display Layout Engineer (12-month contract)
-Software Developer
-Latest Compensation Demo on a Google Pixel 2 Display
 Tang to speak at Vehicle Displays Detroit, the 25th Annual Symposium & Expo
 Director of Engineering to speak at the 9th International Conference on Flexible and Printed Electronics
 Active-Matrix Organic Light-Emitting Diode (AMOLED) is a relatively new display technology for wearable devices, mobile phones, televisions, and everything in between. Currently used on the Apple Watch and several top Android Smartphones like the Flex, Nexus and Samsung Galaxy series, the market for displays is expected to reach a level of $28.3 billion by 2020, according to research firm DisplaySearch.
@@ -38,15 +23,10 @@ Active-Matrix Organic Light-Emitting Diode (AMOLED) is a relatively new display 
 (Active Matrix) refers to how the display is addressed. Each pixel has an active element (a thin-film transistor, or TFT) that actively provides current to the OLED, maintaining that pixel’s brightness while the other pixels are being addressed. Without the active matrix, displays are small and low-resolution, used for applications like mobile phone sub-displays.
 displays are a next-generation technology; they offer both higher performance, and lower potential cost than today’s high quality AMLCDs.
 AMOLEDs provide higher performance than AMLCDs
-Image Quality: Richer colors, deeper blacks, and sharper images
-Thickness: No backlight means they’re thinner and lighter
-Power: 30-50% less power consumption
-Response Time: 1,000 times faster, so fast moving images aren’t blurred
 Viewing Angle: Widest field of view
 AMOLEDs can be manufactured at 30-50% lower cost than AMLCDs
-Can use much of the existing infrastructure
+Fewer components and simpler processing (backlight or color filters)
 Compatible with upcoming technologies such as ink jet printing, and roll-to-roll processing
-How Displays Work
 To understand displays and their unique advantages, it’s helpful to understand a bit about AMLCDs (Active-Matrix Liquid Crystal Display) – the bright, full-color ones found on most mobile phones, tablets, notebook computers, and televisions.
 Backlight: a bright source of light, typically LEDs or fluorescent tubes.
 Liquid crystal and polarizers: these layers work together to block the light or let it through
@@ -58,14 +38,12 @@ The backlight must be on even during dim images, wasting a lot of power.
 The liquid crystal layer can’t block all the light, so some light leaks through, making the blacks “gray”
 Because the light comes from the backlight, and has to pass through several layers, the viewing angle can be poor
 The colors filters are inefficient, so to save power they are often thin, leading to washed-out colors.
-How Displays Work
 displays are inherently simpler and have only two main layers:
 An (organic light-emitting diode) layer that emits light.
 backplane made of (thin-film transistor) circuits that provide current to the OLEDs, thereby controlling their brightness.
 There’s usually a polarizer on top, which cuts reflected light. And that’s it! The simpler structure will lead to lower cost than LCDs, in addition to being thinner and lighter.
 AMOLEDs also have other advantages:
 Lower Power: Only those pixels that are lit up consume power; dim screens (such as white text on a black background) consume almost no power, and video (where the pixels are only about 30% on) consumes much less power than LCD.
-Higher Contrast: When a pixel is off, no light comes out all. This high contrast (over 100,000:1) gives stunning image quality
 Better Viewing Angle: Because the light comes from the OLEDs on top of the display, the viewing angle is a true 180 degrees with no color shift
 Richer Colors: The colors of the OLEDs are rich and deep, so the display looks much more vibrant than LCD.
 Please follow a link below to review our current opportunities and apply for a position.

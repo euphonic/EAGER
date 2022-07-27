@@ -1,12 +1,10 @@
 Inc. specializes in providing high-performance and economical sensors to customers worldwide. Utilizing innovative micro-system design and fabrication, Posifa’s Sensor Dies offer unprecedented levels of performance and robustness to both our off-the-shelf Sensors and Transducers, and our customers’ proprietary systems. Whether your application calls for greater accuracy or sustainability to aggressive environmental challenges, Posifa’s products improve and harden your systems like nothing else.
 offers sensing solutions either as packaged and calibrated sensors and transducers, or as bare dies. You can choose the solution that best fits your needs.
-launched PMF2000 series of Mass Air Flow Sensors
 San Jose, May 31, 2012 – Microsystems, Inc., a leader in Advanced Sensor Development, today unveiled its new line of Low-flow Mass Air Flow Sensors. The PMF2000 family, which incorporates the latest and microelectronics innovations, eliminates the field failures associated with pressure shock, humidity and contamination that have for years plagued other manufacturers...
 offers sensing solutions either as packaged and calibrated sensors and transducers, or as bare dies. You can choose the solution that best fits your needs.
 Standard Sensors and Transducers
 Posifa’s off-the-shelf sensors and transducers, building on our Sensor Dies and deep expertise in sensor electronics, offer improved
 performance, reduced cost, and environmental robustness compared to similar sensors from other suppliers.  offers compatible packaging and calibration for easy drop-in replacement to your existing designs, so that you can realize instant performance improvements and cost savings. Our Data Sheets highlight the many technical advantages offers.
-Sensor Dies for Custom Applications
 Not every application can accommodate standard sensor packaging. Posifa’s 100% tested Sensor Dies, offered as bare die or in
 custom packaging, allow you to integrate our innovation seamlessly into your proprietary systems.  Whether you are looking to replace traditional sensing elements with technology to realize improved performance, energy savings, and cost/footprint reduction, or to introduce brand new products leveraging the unique capabilities of Sensor Dies, our Support team is here to tailor an exact fit for you.
 is committed to Continued Innovation

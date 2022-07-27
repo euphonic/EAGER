@@ -1,54 +1,24 @@
-Strengthening Leadership In Extreme Performance Storage
-Applications and Time-to-Insight
 From transactional Oracle and Server based applications to Real-Time Analytics and applications, Systems customers have experienced 1000x performance increase, 300% faster data integrity reporting, and 40% reduction in infrastructure costs. is the trusted expert in delivering extremely low-latency storage solutions.
 Breaking boundaries enables innovation! Systems continuously breaks boundaries in application performance resulting in our customers gaining competitive advantage while reducing their costs. Our customers are able to extend these benefits to their customers with a dramatically improved end-user experience.
-Data Center Economics
 Systems Extreme Performance Storage delivers consistent high performance with enterprise-class data services to help customers maximize both application performance while significantly reducing infrastructure costs.
-Consistent Extreme Performance
 Systems continually sets new standards for performance storage within enterprise data center environments.
 performance advantage saves customers money, with less IO, less expensive processors or fewer processors due to greater efficiency, fewer application licenses, and of course, reduced power & cooling at the rack level.
 The Systems analytics engine is always learning and adjusting to changing workloads, answering management questions about performance, workload, provisioning, and dedupe.  And, the new mobile app allows for instant visibility into performance, efficiency and temperature statistics.
 “FSPs combines ease of deployment, reliability, and unsurpassed performance, enabling our company to face the future with confidence. Flash technology, such as the FSP, allowed us to collapse multiple tiers of storage into one, dramatically lowering our data center costs for storage. The choice to go with was an obvious one, as it allowed us to replace nearly all of our legacy disk array architectures and software to be best prepared for our digital future.”
-Viktor Kuzmenko, Head of Systems Administration at Ingosstrakh
 “It’s quite a bit faster than using flash, Fibre Channel and [tiers]. We can stick all our data into flash now. Before we were taking our storage [with disk] and migrating it to storage [with flash]. We were expecting performance improvements, but not this much. don’t see any reason to turn back [to HDDs].“
 Bill Evans, of Information Technology at Ferrellgas
 “Most enterprises have at least several applications where extremely low storage latency can directly translate to increased revenues, better customer experience, or differentiated competitive advantage. These applications tend to be transactional, database-driven or real-time analytics workloads where a 500 microsecond latency difference can be directly monetized. For these environments, architecture can matter a great deal in an ability to consistently deliver sub 300μs performance that companies can base their reputation on, regardless of widely varying workloads and operational workflows.”
 Eric Burgener, Research Director, Enterprise Storage at IDC
 “solved our performance issues at a fraction of the cost of other systems. Not only are we exceeding our business service levels, we project a return on investment of 11 months with the platform.”
-Derek Cornwell, infrastructure services manager at BlueScope
 Dec 18, 2018Systems Turns Transformative Year into Breakthrough Success Read More >
-Nov 12, 2018Systems Closes X-Storage Acquisition Read More >
-Oct 16, 2018Systems Signs Agreement to Acquire X-Storage Strengthening Leadership in Extreme Performance Storage Solutions Read More >Skip to content
-Big Data Analytics
-Big Data Warehousing
-Financial Markets
-Healthcare and Wellness
-Private Cloud
-Extreme Storage
-Symphony - Array Management
-OpenStack
-Flash Fabric Architecture
-Intelligent Module
 Violin, the disruptive innovator in Extreme Performance Storage, is revolutionizing how businesses operate by enabling storage technology to be Instrumental to their company by changing the SLAs and capabilities of information and application storage infrastructure. extreme storage platforms, powered by Concerto OS™, a fully integrated storage operating system, is the industry leader in the combination of every significant category measured in all-flash arrays: low latency, reliability, affordability, density, scalability and of course extreme performance. With tightly integrated data services, storage platforms provide a unique and leading combination of data protection, business continuity, and data reduction services in a flexible, delivering significant and savings.
 Systems is headquartered in San Jose, California. Memory, founded in 2005 was acquired in 2017 by Quantum Partners LP, a private investment fund managed by Soros Fund Management LLC, fueling the emergence of new Systems.
-Virtual Infrastructure
-OpenStack
-Flash Fabric Architecture
-Intelligent Module
-Datasheets
- PatentsInnovating & Solving Customer’s Challenges Together
 We are committed to empowering our strategic partner ecosystem for growth and profitability with the All Flash storage platform. Together, we are developing innovative business solutions that drive revenue streams and help accelerate the enterprise data center at the intersection of Cloud, Enterprise and Virtualized mission-critical applications. The charter is “Partner First”.
-Join the Partner Network
-Innovating & Solving Customer’s Challenges Together
 Our programs are designed to drive your revenue growth, deliver mission critical solutions to your customers and support you to provide the world-class products that will help solidify a long-term relationship with your customer.
 As a Systems partner and reseller, you control end user pricing and you have the opportunity to make money on both the sale of technology solution, as well as on the delivery of services and training to the end user.
 We are investing to foster our joint success to find new opportunities, solve customer problems, and close deals faster and more profitably.
-Benefits include:
-Lead-generation and sharing programs
-Discounted partner demo program
 Training — On-line and in-person
 Leading companies worldwide are partnering with Systems to lead the data center transformation from legacy disk arrays to flash-based primary storage. Flash Arrays represent offer the opportunity to rebalance the data center by getting storage on a Moore’s Law curve and unblock the I/bottleneck. partners see the opportunity to grow their business by working with us to enhance their product offering and incorporate technology into their customer solutions. Together we work to accelerate the modern data center at the intersection of business-critical applications, analytics/big data, and virtualization.
-Accelerate Sales
 The Systems Partner Network is designed to help you differentiate your solutions in the rapidly evolving storage market, drive new revenue opportunities, and win more business. We are investing to foster our joint success with technical and sales support to find new opportunities, solve customer problems, and close deals faster and more profitably. Our products are a match for a range of use cases including database acceleration, analytics / big data, and both server and desktop virtualization. Our partner portal offers access to a range of resources including on-line training, deal registration, prepackaged programs, and sales tools. Certified partners get direct access to technical experts dedicated to enabling your success.Industry Recognition
 Systems 7650 Named Editor’s Choice by StorageReview.com Download the Review
 Concerto 7000 All Flash Array Named 2014 Product of the Year Finalist by Storage Magazine/SearchStorage.com Visit Site
@@ -56,226 +26,76 @@ Wins 2015 Storage Visions Visionary High Performance Storage Application Award f
 Concerto 7000 All Flash Array Selected as Finalist in Visionary Product Awards category at Storage Visions 2015. Visit Site
 receives an infoSpotlight Data Center Excellence Award for the Concerto 7000. Visit Site
 6000 All Flash Array is a Finalist for Techworld Awards 2014 Storage/Big Data Product of the Year. Visit Site
-Computer Technology Review’s Top 25 Must-Have Software Applications Award:Concerto 7000. Visit Site
 Storage, Virtualization, Cloud (SVC) Awards 2014 – Systems is a Finalist in two categories: Technology Award for SSD/Flash Storage Product of the Year and Storage Company of the Year. Visit Site
-Concerto 2200 Named One of CRN’s “Must-See Storage Offerings” at VMWorld 2014
 Window Flash Array Named One of CRN’s “10 Coolest Flash Storage Products Of 2014″ Visit Site
 Windows Flash Array Named One of ITPro’s Best Enterprise Storage Solutions at TechEd 2014 Visit Site
 The Flash Storage industry recognized with a 2014 Best of Show for Most Innovative Customer Implementation for the storage platform installed at The Australia Department of Defense Central Operations Center in Canberra, Australia. Visit Site
 Professionals Vote as Innovation Leader for InfiniBand All-Flash Storage Arrays in first annual Brand Pulse leader survey Visit Site
 named Best Data Storage Solution in 2014 Readers Choice Inaugural Awards Program (Database Trends and Applications) in Windows Flash Array (WFA) a 2014 finalist for Best Database Performance Solution Visit Site
-Systems wins Gold and Silver in Network Products Guide Best Deployment Awards for and Web Farm Case Studies Visit Site
 Systems Named Winner of Storage of the Year by MicroScope ACEs 2014 Technology Visit Site
-All Flash Array Named Winner of “Cool Tools” Award Supporting Collier County School District Virtualized Environment Visit Site
-High Moon Studios Wins Storage Visions Conference Award with Maestro Appliance Visit Site
 Systems named Winner of Storage, Virtualization, Cloud (SVC) 2013 Award for Private Sector Virtualization Project of the Year Supporting Virtualized Environment. Visit Site
-6000 wins the annual Storage Award in the Flash/category Visit Site
-Systems wins Gold and Silver in Network Products Guide Best Deployment Awards for and Web Farm Case Studies Visit Site
 AlwaysOn 2011 Company of the Year Visit Site
 2011 Gartner Cool Vendor in Storage Visit Site
 Silicon Valley’s hottest companies by Lead411 in 2011 Visit Site
 Silicon Valley’s hottest companies by Lead411 in 2011 Visit Site
 Systems wins the both the “Ground Breaker Award for Engineering Excellence” and the “Peoples Choice Award for Exciting Technology” Visit SiteSkip to content
-Big Data Analytics
-Big Data Warehousing
-Financial Markets
-Healthcare and Wellness
-Private Cloud
-Extreme Storage
-Symphony - Array Management
-OpenStack
-Flash Fabric Architecture
-Intelligent Module
 To inquire about career opportunities, please 
 does not accept unsolicited resumes from any source other than directly from candidates. An unsolicited resume sent to from a recruiter does not constitute any type of relationship between the recruiter and and does not obligate to pay fees if we hire the candidate. All opportunities (with the exception of sales) are based in the San Jose, headquarters.
 We are aggressively seeking enthusiastic and talented staff for the following areas:
-Virtual Infrastructure
-OpenStack
-Flash Fabric Architecture
-Intelligent Module
-Datasheets
-Big Data Analytics
-Big Data Warehousing
-Financial Markets
-Healthcare and Wellness
-Private Cloud
-Extreme Storage
-Symphony - Array Management
-OpenStack
-Flash Fabric Architecture
-Intelligent Module
-Research & Development Center
-Virtual Infrastructure
-OpenStack
-Flash Fabric Architecture
-Intelligent Module
-Datasheets
- PatentsExecutive Chairman, CEO
 He most recently served as Chairman and of Formation Data Services, developers of a revolutionary cloud software storage platform for replace traditional arrays.  He previously worked in various executive capacities at EMC, where he was instrumental in helping transform the business from a single-product hardware company to a leading solutions provider.  Before EMC, Mark was Vice President and General Manager of Hewlett-Packard/Compaq/Digital’s $2.5 billion Enterprise Storage Group, which was the largest storage organization in the world at the time, and served in various storage-related business, engineering and product development roles at Digital Equipment Corporation.
 He is currently a board member at Ciber Corporation, a leading provider of services. Mark has been granted more than 10 patents for hardware and software technology. He graduated from the University of Colorado, Boulder in 1984 with a in Mechanical Engineering.
 Todd Oseth is the chief operating officer for Systems He oversees product development, software and hardware architecture, product validation, deployment engineering, solutions engineering, professional services and technical support.
 Prior to Violin, Todd held a number of leadership positions including Managing Director at LLC, President & at Intermap Technologies, & President Neterion, and at McData (acquired by Brocade).
 Todd is an accomplished executive with outstanding success in establishing new products and technologies in domestic and international markets through both acquisition and organic growth. He has had full P&responsibility for $700M+ businesses. Todd has a deep understanding of complex technologies along with unique skills required to match customer needs to specifications to determine the best route to market. He has successfully led startups and Fortune 100 companies; possesses international experience for global business across the semiconductor, computing, networking, storage, and Software as a Service (SaaS) environments. Todd holds a Bachelor of Science in electrical engineering and computer science from the University of Minnesota, as well as an from the University of St. Thomas, Kotz School of Management.
-Chief Marketing Officer
 Gary Lyng is a senior executive with extensive experience and success in trailblazing business growth and leadership in enterprise storage and software markets. He joins at a pivotal time, with the company beginning to implement its most aggressive and innovative product roadmap ever. He leads all marketing functions including product management, product marketing, and corporate marketing teams while ensuring that the customer-voice and net-impact are central in the cycle from first concepts to solution delivery.
 Lyng has spent more than 20 years driving innovative, award-winning products, teams and programs. He is known in the industry as a veteran of flash pioneer SanDisk (acquired by Western Digital), EMC, NetApp, Hewlett Packard, and Veritas Software. His extensive impactful experience includes enterprise software and systems, enterprise applications, and close collaboration with enterprise customers, partners, and major cloud hyper-scale players.
 Lyng has worked with both large and early-stage organizations developing business strategy, product directions and executing go-to-market strategies, he is also well known for his speaking, and motivation as a Visioneer. He is a computer science graduate from Milton Keynes College, in the United Kingdom next door to Bletchley Park, known to many as the birthplace of modern computing.
-Senior Vice President of Worldwide Field Operations
 Rick is a Sales Leader with significant experience in Storage, Virtualization, Security, and e-Discovery. Rick has been instrumental in growing sales under significant challenges contributing to successful exit in a number of technology companies. With more than 30 years of experience growing companies to be market leaders, Rick is a great match for Violin’s growth moving forward. Rick comes to from Kaminario, where he was vice president of North America channel sales business, significantly growing the business by signing hundreds of partners and industry-leading OEMs. doctoral candidate for physiology at Columbia University, Rick earned a bachelor’s degree in biology from University of Colorado.
-Chief Financial Officer
 Jim Curley is a proven with over 20 years of experience.  He was at four publicly-traded companies, three of which he led through their IPO’s (LeapFrog Enterprises, Gymboree Corporation & Huffman Koos).  Also, he was for 8 years at Nano-Tex, Inc., a Ross & Co.  majority-owned company, where he restructured the company, raised a second round of venture capital funding and sold the Company to Crypton, Inc. in 2014.  Mr. Curley received his in Finance from Texas A&University and was a with Arthur Andersen & Co.  He served 4 years as an officer (Captain) in the Air Force at the Pentagon, Washington D.C.
-Chief Technology Officer
 As Chief Architect, Tim oversees the architecture team in formulating the vision and architecture for all products and development, and directly participates in all phases of product development. Tim has spent over 15 years in the software industry, with the majority in enterprise storage, where he holds multiple patents.
 Before joining in 2013 he served as Technical Director at Quantum (after acquiring deduplication pioneers Rocksoft) in the office of the CTO, responsible for the entire life cycle of the deduplication product lines. Tim holds a Bachelor of Science degree in Pure Mathematics and Computer Science from the University of Adelaide, Australia.
-Chief Scientist
-Chief Scientist
 Richie has been in the computer industry for over 40 years. He began his career as a software engineer at Digital Equipment Corporation (DEC), building operating systems and compilers for the PDP-8 and PDP-11 computers. In 1975, he served as a member of the core team that defined the computer architecture, and later the implementation team for the first computer. After joining DEC’s Storage Business Unit in 1978, Richie was a key architect of the Digital Storage Architecture and a key implementer of several of the hardware and firmware components of the associated product family. He became DEC’s Storage Architect in 1990, Storage Technical Director in 1994, and Compaq Computer Corporation’s Storage Technical Director in 1998, where he was responsible for technical oversight of the entire corporate storage architecture and product line. Prior to joining X-IO, he had been an independent consultant in the storage industry and a technical advisor to several emerging storage companies since 2000.
 Richie holds 32 patents for his work in processor and storage system architecture and design and was awarded a Lifetime Achievement Award at the Server I/Conference in January 2000. He also frequently speaks at industry events. He holds a bachelor’s degree in mathematics from the Polytechnic Institute of New York University.
-Vice President, Platform Development
 Pat Balakrishnan is the Vice President, Software Development at Violin.  He  has 25 years of leadership experience in software development for storage, server, and networking technologies. Pat has previously held management and senior technical positions at SeaMicro (acquired by AMD), Blade Network Technologies (acquired by IBM), Alcatel-Lucent, Riverstone Networks (acquired by Lucent) and Cabletron Systems.
-Vice President, Product Management
 Bob has more than 25 years experience designing, developing, and deploying systems and solutions across a broad array of industries and technologies.
 Most recently, Bob was Vice President Product Development & Professional Services at Intermap Technologies transforming the business focus to products, solutions, and services, and apply his past experience to help drive the success of the company. Previously, he was Senior Director of Product Strategy and Planning for at Corp. He has served in executive roles at several start-ups providing marketing and business guidance that successfully drove these companies into the marketplace.
 Bob has held senior positions at a broad range of software startups, with technologies in secure communications, content management, and language translation. He also has an extensive background in computer systems manufacturing, satellite communications, GPS, and is a former Search & Rescue/Special Operations helicopter pilot.
 He holds a from the United States Air Force Academy and an from Golden Gate University.
-Vice President, Channels
 Tim has over 25 years of experience in Operations & Sales Leadership – most recently with Grant Dental Technology as VP, Operations.  Tim leads the Global Sales Operations efforts for X- Additionally Tim has held Operations and Sales positions with Cyalume Technologies, Combat Training Solutions Inc., Colorado Homeland Defense Alliance, and Eli Lilly.  Tim began his career as a Pilot, Aviation Safety & Operations Officer in the Navy.  He holds a in Finance from Villanova University and an from Southern New Hampshire University.
 Georgine has spent nearly three decades in executive roles at technology companies, holding VP-level titles with responsibility for sales, service operations, strategic partnerships, financial and strategic planning. She has served since 2014, first as vice president, worldwide sales operations and support, then as vice president, worldwide field operations, following positions at Ericsson, Actelis Networks, Network Equipment Technologies, and Redback Networks. As a specialist in international business, she has a wealth of experience in global channel relationships, international trade laws, multi-county compensation, contract negotiations, and partnerships, in EMEA, APAC, and Latin America. She is a graduate of San Jose State University.
-Vice President, Customer Success
 Clay is a customer centric Technical Support and Services leader who has distinguished himself as a champion for delighting customers and exceeding their expectations. He ensures every touchpoint is frictionless and brings value to customers. Developing enterprise class services and support methodologies to ensure rapid and reliable customer success allows technologies to accelerate our customer’s performance, growth and profitability. Clay inspires his teams to be the voice of the customer for product, tools and process improvements.  Clay has broad experience in enterprise storage hardware, software and solutions with leadership roles at Fortune 100 companies and to multiple startups like Legato Software and Systems. Clay has an from Wake Forest University.Overview
 To build and preserve brand value, Systems owns numerous registered and unregistered logos, trademarks and slogans in the and/or other countries. Listed below are logos, trademarks, and slogans with the appropriate trademark symbol under law. trademark rights may differ in other countries and the trademark laws of those countries should be followed when marking with the appropriate trademark symbol.
-While makes every effort to keep this list updated, please note that it may not be comprehensive. does not waive its trademark rights or other intellectual property rights for any logo, trademark or slogan that is not on this list. Use of logos, trademarks and slogans are subject to Trademark and Logo Usage Guidelines.
-Questions regarding logos, trademarks or slogans should be directed to trademarks@violinsystems.com .
 trademarks, logos and slogans are valuable assets to and its brand and act to distinguish products from its competitors’ products. takes many steps to protect against unauthorized or improper use of its trademarks, logos and brand. Third parties that are authorized by to use its trademarks, logos and slogans are required to use them in a proper and consistent manner and in accordance with these Guidelines and the terms and conditions of any agreement you have with Violin.
-Although allows authorized third parties to use logos and trademarks if they follow these Guidelines, retains all ownership rights in its logos, trademarks and brand. Any goodwill or legal rights created from use of logos, trademarks, slogans and brand are for the benefit of and inure to alone and not any third party. has the absolute discretion to revoke any right to use logos, trademarks and slogans, even if such use is not expressly prohibited by these Guidelines. may modify these Guidelines without notice to you. It is your responsibility to ensure that you are referring to the current version of these Guidelines.
-The following are authorized to use logos and trademarks and must abide by these Guidelines:
 Original equipment manufacturers (“OEMs”) who purchase products from for integration into non-Products;
-Authorized distributors who purchase products from (“Authorized Distributors”) for distribution to system integrators, retailers, or resellers only in regions authorized by (“Authorized Resellers”);
 Other third party vendors integrating or reselling products acquired from Authorized Distributors, or Authorized Resellers; and
-Other third parties authorized in writing by to use trademarks, logos or slogans.
-If you do not fall within one of the above listed categories and would like to use trademarks, logos or slogans, please contact trademarks@violinsystems.com .
-Your right to use trademarks, logos and slogans is non-transferrable, which means that you are not authorized to give others the right to use logos, trademarks and slogans without Violin’s express, written permission.
 OEMs, distributors, integrators, resellers and other third parties using or selling Products acquired from out of region sources or counterfeit products are not permitted to use any trademarks, logos or slogans. It is your responsibility to ensure that you are acquiring in region and non-counterfeit products from sources selling legitimate products. Inquiries regarding the region authorized for product or the legitimacy of products should be sent to trademarks@violinsystems.com .
 is giving you limited, non-exclusive and fully-revocable permission to use its logos, trademarks and slogans in the region that the product was first shipped in a truthful, fair and non-misleading manner and in compliance with these Guidelines and the terms and conditions of any agreement you have with Violin. You may not use trademarks, logos or slogans in a way that is misleading, deceptive, libelous, defamatory, infringing, obscene, offensive, damaging or disparaging to Violin’s brand, or otherwise objectionable to in its absolute discretion. Do not use trademarks, logos or slogans in connection with any photograph that does not display a genuine product or packaging.
-Always use trademarks and logos in the manner intended by Violin. Do not use them for goods or services for which they were not originally intended. You may not modify, distort, change, abbreviate, shorten or hyphenate trademarks or logos. Do not flip, rotate, stretch, or add effects to Violin’s logo. You may not abbreviate or create acronyms out of trademarks.
-If you are using trademarks, slogans or logos to describe or its product, be truthful and accurate. Do not use trademarks, slogans or logos to make unsubstantiated claims about or the quality, capacity or specification of its products. Any questions about the language that you can use to describe or its products should be directed to trademarks@violinsystems.com .
-You may not use trademarks or logos on or in connections with any website that displays adult content, contains violence or hate speech, sells or distributes unauthorized, grey market or counterfeit products, or violates any applicable laws or regulations.
-If you are authorized by to use trademarks, logos, or slogans, you must include a proper trademark attribution notice. The proper trademark attribution used by is:
-Violin, the logo, [alphabetical, properly spelled, and capitalized list of trademarks], for example: Systems is a registered trademark or trademarks of Systems in the and/or other countries.
 Some countries have additional attribution requirements or may require translation of attribution notices to a language other than English. Please consult with trademarks@violinsystems.com if you have any questions about the proper attribution notice to use for your country.
-You must mark trademarks, logos, and slogans with the proper symbol, which is either ® or ™ symbol, you must use ® or ™. updates its list of registered and other trademarks on its website at http://www.violinsystems.com/company/trademarks
 You acknowledge that takes no position regarding the quality of products or services that you offer. You shall make no claims or implications that endorses or is affiliated with your products or services.
-Unless otherwise agreed to in writing by Violin, in no event shall be liable for any direct, indirect, punitive, special, incidental, or consequential damages arising out of, or in any way connected with these Guidelines, your products containing all-flash array storage technology manufactured by or your relationship with any end users, whether based on breach of contract, tort (including negligence), strict liability or otherwise.
-Unless otherwise agreed to in writing by Violin, you will defend, indemnify and hold and its employees, officers, directors, successors and assigns harmless from any and all claims, actions, and suits based on your use, sales, marketing and distribution of any products containing all-flash array storage technology manufactured by or your use of trademarks, logos or slogans.
-If you are using any of Violin’s logos, you must use only Violin-approved artwork and you must follow the Brand Identity Standards which are updated frequently and found at http://www.violinsystems.com/company/violin-memory-logo-guidelines/ . These Brand Identity Standards specify the format, spacing, color, and font requirements for logos. You may find approved artwork at http://www.violinsystems.com/media-library .
 Consult with Violin’s list of trademarks for proper spelling and capitalization. This list can be found at http://www.violinsystems.com/company/trademarks/ .
-Violin’s trademark list is updated frequently and you must check it to make certain that the list has not changed. If you have any questions about the spelling, formatting or capitalization of a trademark, logo or slogan or if there is a trademark that you believe should be on the list but is not, please contact trademarks@violinsystems.com
-Use Violin’s trademark as an adjective to describe a product, such as Concerto™ 7000 and not in place of the product itself, such as buy a Concerto 7000. (Remember, it is a Concerto 7000 All Flash Array, not a “7000 All Flash Array”.) Do not use any trademarks as a verb or in the plural or possessive form. For example, do not say, Concerto’s new design is fabulous!” Instead, you should state, “The new design of the Concerto 7000 All Flash Array is fabulous”. Do not use Violin’s trademarks as puns, slang or portray them negatively.
-Do not make up your own trademarks, logos or slogans and attribute them to or combine them with Violin’s trademarks, logos or slogans.
-Do not combine trademarks, logos, or slogans with your or another companies’ names, trademarks or domains, or use them in a way that suggests an affiliation between and your or another company, or sponsorship or endorsement by another company or Violin’s products unless you have authorization from Violin.
-If you would like to use one of Violin’s trademarks, logos or slogans in film production or commercial television, please contact trademarks@violinsystems.com .Skip to content
-Big Data Analytics
-Big Data Warehousing
-Financial Markets
-Healthcare and Wellness
-Private Cloud
-Extreme Storage
-Symphony - Array Management
-OpenStack
-Flash Fabric Architecture
-Intelligent Module
  Systems Turns Transformative Year into Breakthrough Success
- Systems Closes X-Storage Acquisition
- Systems Signs Agreement to Acquire X-Storage Strengthening Leadership in Extreme Performance Storage Solutions
  Debuts New Extreme Performance Storage Solution that Maximizes Application Performance while Reducing Costs
- Systems’ Named to Forbes Technology Council
-June 19, 2018
- Tara Sistem Named as Turkish Distributor of Systems’  Flash Storage Platform
- Systems Chairman, Mark Lewis Moves to Full-time CEO
  Systems Partners with to Transform Customers’  Data Centers through Extreme-Performance Storage
  Systems Joins Saturn Business Systems’ Portfolio of Enterprise Business Solutions for a Performance Data-Driven Age
-April 19, 2018
  Systems and Distribution Extend International Reach of Extreme Performance Storage Solutions
- Systems Strengthens Executive Leadership with  Storage and Software Veteran Mark Lewis
  Chooses for Research, Development and Engineering Services to Support Company’s Accelerated Growth
  Systems Chosen by Keeper Technology to  Provide Customers the Power of Flash Platforms
  Systems Adds to Executive Ranks  with new Product Management Gary Lyng
  Systems Among ‘Storage Companies to Watch in 2018’ in Frost & Sullivan Stratecast Perspectives & Insight for Executives
- Systems Partners with Dutch Ridge Consulting Group, to Offer All-Flash Storage Solutions to Government Agencies
-January 23, 2018
-January 18, 2018
  Expands International Enterprise Customer and Partner Community; Appoints Georgine Nordin to International Alliances
  Provides Customers with Breadth of Acquisition and Deployment Options
- Names Rick Ruskin Senior Vice President of Worldwide Sales
  Expands Leadership with Appointment of Susan Scheer Aoki as Product Operations
- Violin® Announces Issuance of New Patent (Patent No. 9,733,836)
- Violin® Announces Issuance of New Patent (Patent No. 9,417,823)
- Violin® Announces Issuance of New Patent (Patent No. 9,513,845)
- Violin® Announces Issuance of New Patent (Patent No. 9,465,756)
- Violin® Enhances Executive Team with Storage Industry Veteran
- Violin® Announces Issuance of New Patent (Patent No. 9,495,110)
- Violin® Appoints James Curley Chief Financial Officer
-Virtual Infrastructure
-OpenStack
-Flash Fabric Architecture
-Intelligent Module
-Datasheets
-Big Data Analytics
-Big Data Warehousing
-Financial Markets
-Healthcare and Wellness
-Private Cloud
-Extreme Storage
-Symphony - Array Management
-OpenStack
-Flash Fabric Architecture
-Intelligent Module
- All the storage news that’s fit to print! And then some…
+ Goodbye X-IO, Hello Axellio and 2.0!
  Solid State Storage For High Performance Applications
- Infrastructure Vendors Making Strides in 2019
  to add X-flash, hybrid and disk as mid-range options
- Systems Intends to Acquire X-Storage Renamed Axellio
  High performance flash pioneer Systems has agreed to buy X-IO’s division.
- Systems to Acquire X-Storage Business
  buys ISE, X-splits off Axellio
- Systems gnaws off X-Technologies’ storage arm baby
- Acquires X-Storage, Axellio Spun Off
  Systems plans full integration with X-technology to converge high end performance scalability with price-performance leadership
- Systems With 8 Storage Platform Up to 88TB: Company’s Revival?
  Systems: Storage for Extreme Performance
  Bringing Tier 0 in From the Lunatic Fringe – Systems Briefing Note
  8 delivers high performance storage offering that maximizes application performance while reducing costs
  Goes to ‘Extremes’ in New-Gen Storage Performance
- Systems lineup adds XVS8 power hitter
- Regarding Systems and its race for All-Flash Array glory
- launches XVS8 flagship high-performance flash array
  Reanimated returns to scene with flashy 8 array, and, er, app
  Retuned rolls out first of new products aimed at their target extreme performance market
- Announces Extreme Performance 8
- What Next for Systems?
- Systems prepares NVMe launch, but not for drives
- 10 Fastest Growing Storage Companies in 2018
- 20 Top Enterprise Data Storage Vendors
-Virtual Infrastructure
-OpenStack
-Flash Fabric Architecture
-Intelligent Module
-Datasheets
-Big Data Analytics
-Big Data Warehousing
-Financial Markets
-Healthcare and Wellness
-Private Cloud
-Extreme Storage
-Symphony - Array Management
-OpenStack
-Flash Fabric Architecture
-Intelligent Module
 Our Technology Partner Solutions Ecosystem
 partners with leading technology vendors to deliver high performance and scalable all-flash storage solutions to meet the business critical workloads of our customers.
-Infrastructure Vendors
-Virtual Infrastructure
-OpenStack
-Flash Fabric Architecture
-Intelligent Module
-Datasheets

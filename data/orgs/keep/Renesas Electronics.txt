@@ -1,69 +1,14 @@
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 New Digital Isolators Provide Superior Radiation Performance for Small Satellites 
  Rad-Tolerant ISL71610& ISL71710offer highest isolation protection for power supply stages and serial communications interfaces in low Earth orbit SmallSats
+Simplify Home Appliance Maintenance with Failure Detection e-Solution 
  Easily add abnormality-detection functionality to RX66Motor Control with new e-development environment
-Proud to be Official Technical Partner of the Victorious Mahindra Racing Team 
  With expanded Formula technology partnership, system-level design and power management expertise boosts performance of Mahindra Racing
 Introducing Industry’s First USB-C™ Combo Buck-Boost Battery Charger 
  Digitally configurable ISL9241 supports both charging and higher power charging of notebooks, ultrabooks, tablets, and power banks
 Find information about recommended products and solutions created by and our development partners to help you select the right devices for your design.
-Energy Management Systems
-Industrial Automation
 provides a comprehensive lineup of semiconductor devices and easy-to-use, sophisticated microcontroller development environments.
-Microcontrollers & Microprocessors
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
 Synergy™ - Now Even More IoFriendly
   Synergy is a complete and qualified Ioplatform that includes integrated software, a scalable family of microcontrollers (MCUs), development tools, plus support and maintenance.  
 Autonomous Security for IoEdge Devices
@@ -71,460 +16,63 @@ Autonomous Security for IoEdge Devices
 Compact & Long-Lasting Wireless Charging Solution
   has pushed the advantages of wireless charging further by developing a new wireless charging solution that contributes to more compact size and longer battery life. 
 Saving Plant Maintenance Costs Through Reduced Sensor Power Consumption
-Smooth, Fast Startup of Sensorless Motor Using Sensorless Initial Position Detection
-On-Demand Webinar
 RL78 and SecureRF: Securing Ultra Low-Power MCUs at the Edge of the IoT
 Learn how the Renesas-Securepartnership uniquely delivers a practical and secure identification and authentication solution.
-On-Demand Webinar
-	An Overview of the Groundbreaking Synergy™ Platform
 This webinar will show how the revolutionary Synergy Platform is breaking through the traditional barriers faced by developers.
-On-Demand Webinar
 Quick Solutions for IoApplications
 Learn learn what makes Renesas' RL78 microcontrollers ideal for Ioedge nodes and the importance of near-sensor processing, to "build your own" Ioapplication.
-Enhancing the "otta" Personal Monitoring Service with Bluetooth® Low Energy Solution
 Learn how developed the "otta" beacon to support this unique monitoring service with Io(Internet of Things) technology.
 Find "easy to build" microcontroller solutions that will assist in your product development.
 Faster embedded system development with advanced middleware and Linux.
-Motor Control Evaluation
 Shorten time to market with our user-friendly motor control development environment.
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
-FY2018 Announcement of Full-Year Results
-View Latest Information
-View Latest Information
-Latest Materials
-Earnings report, financial data, financial report, presentation material, news release
-Bunsei Kure, President & of Updates
-January 11, 2019
 plans to announce its full-year financial results for the fiscal year ended December 2018 on February 8, 2019
-Presentation on Renesas' Industrial Solution Business
 Consolidated Financial Results for the Third Quarter Ended September 30, 2018
 plans to announce its financial results for the third quarter of the fiscal year ending December 2018 on October 31, 2018
-Execution of Syndicated Loan Agreement
-Reports Third Quarter 2018 Financial Results
-Message from CEO
-Business Risk Factors
-Industrial / Broad-based Businesses
-  Financial Data
-Distributions of Shareholders and Shares
-Dividend Information
 Contact us to request materials or for inquiries related to investor relations at Electronics.
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 About delivers trusted embedded design innovation with complete semiconductor solutions that enable billions of connected, intelligent devices to enhance the way people work and live. global leader in microcontrollers, analog, power, and Soproducts, provides comprehensive solutions for a broad range of automotive, industrial, home electronics, office automation, and information communication technology applications that help shape a limitless future.
-Global Operations
 Eco-Products Initiative (Eco-Product Activities)
-Acting Together with Suppliers
-Transaction Procedure
-What are Semiconductors?
-Micon Car Rally
-University Program
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
-General information about Renesas' listing status and fiscal year events
-Distributions of Shareholders and Shares
-List of major shareholders
-Dividend Information
+This section includes general information about Electronics' stock and bonds.
 List of the analysts who make recommendations and reports concerning Electronics' performance
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
-This page includes the latest event schedule, presentation information and shareholders' meeting. Please refer to each event page for archives.
 The schedule listed above is subject to change.
-Full-Year Financial Results for FY2018/12 (schedule)
-Full-Year Financial Results for FY2018/12 (scheduled on February 8, 2019)
 We will announce full-year financial results for the fiscal year ended December 2018 on February 8, 2019. Until February 8, we will refrain from making comments or responding to questions related to the financial results.
-Go to Presentations by years
 The 16th Ordinary General Meeting of Shareholders
-Toyosu Civic Center Hall, 5F, at 2-18, Toyosu 2-chome, Koto-ku, Tokyo, Japan
 Notice of Resolutions Adopted at the 16th Ordinary General Meeting of Shareholders
 Notice of The 16th Ordinary General Meeting of Shareholders
 The 16th Ordinary General Meeting of Shareholders Matters for Internet Disclosure
 Go to Shareholders' Meeting by years
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
-This page includes the latest Reports. Please refer to each report page for archives.
-Financial Data
-Earnings Report for the 3rd Quarter ended September 30, 2018
 Go to Earnings Reports by years
-Financial Data
-FY2018 Financial Data
 Go to Financial Data by years
-Financial Report 2017
 Go to Financial Reports by years
 Letters to customers including notices of the general meeting of shareholders
 Notice of The 16th Ordinary General Meeting of Shareholders
 Fiscal Year 2017 First Half Business Report
 Go to Business Reports by years
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 has the Alliance Partner Program, which offers solutions that utilize our products and services. Our partners can provide you with great support in a variety of aspects. We also have consortiums for specific fields such as automotive and industrial to strengthen collaboration among companies. For details, please see each section below.
 The Alliance partner program provides online tools to increase the synergy between our customers, third party partners, and Renesas.
 Customers can search our online database to quickly find qualified design consultants, programming houses, partner development tools, and manufacturing companies that provide services or products that support products and customers.
 Participating companies will be entered into the online database gaining visibility to the thousands of customers viewing our web pages every day.
-Go to Alliance Partners
-R-Car Consortium
 The R-Car Consortium brings together system integrators, middleware/application developers, and operating system and tools vendors who are developing solutions for the Connected Car & market.
 With highly reliable and technically advanced SoCs from Renesas, and end-to-end development support, customers can get optimal solutions for their requirements. Members of the Consortium receive evaluation boards and software to help co-develop advanced Connected Car & solutions.
 Go to R-Car Consortium
 The R-Consortium provides members with the latest information about Renesas, encourages members to share information on trends in the industrial market among themselves, and makes available examples of industrial solutions.
 By engaging actively in information dissemination on a global scale, the consortium serves as a venue for generating collaboration among and its partners.
-Go to R-Consortium
-Boards and Kits Search
 You can use the useful filters on this page to select purpose, application, and so on to easily find the best boards and kits from and our partners for your project.
 Go to Boards and Kits Search
-Find all Synergy Platform components, software, hardware, tools, kits, and services from and partner companies.
-Go to Synergy Solutions Gallery
 The Marketplace site features RZ/Platform products offered by and partners. Here you can evaluate and purchase software, boards, and other certified products from our partners.
-Go to RZ/Linux Marketplace
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
-Activities 2018 (Social and Environmental)
-Activities 2018 (Social and Environmental)
-Environmental Report 2018
-Our Goals
 We will contribute to the sustainable advancement of society by achieving growth as One Global and aim to be the world’s no. 1 position
 Our aim is to achieve sustainable growth by becoming a trusted partner of our customers around the world
 In 2017, following the increase in sales mainly from higher demands in automotive and industrial products, the completion of the purchase of Intersil in February 2017, the dissipation of the impact from the Kumamoto earthquake in 2016, and as a result of unified efforts to implement the Reform Plan, the Group achieved a double-digit operating margin, bringing the establishment of a stable financial base clearly into view.
@@ -538,490 +86,67 @@ In addition to continuing our efforts to foster human resources through employee
 As good corporate citizens, we will work to increase our contributions to society with the aim of achieving harmonious coexistence with the local community
 Our goal at is to become a corporate citizen that is a familiar, friendly presence for the residents of the local communities in which we operate. It is important, therefore, that also accurately grasps the needs of the local community members and provides a solid response.
 The Group is engaging in social contribution programs in different regions throughout the world. Looking to the future, we aim to continue serving as a good corporate citizen, to listen to what the residents of the local communities are saying, to become a company that is viewed warmly by local communities, and to coexist in harmony with them.
-Introducing the ISO14001 certifications acquired by Group
 Introducing our Green Procurement Activities, guidelines and standards, and entry formats
-Eco-Products Initiative
 We create environmentally friendly products to achieve a sustainable society
 Archive of past (Social and Environmental) reports
-Product Policies and Programs
-Environmental Compliance
 Introducing our efforts to overseas laws and regulations.
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Impact of the January 26 Earthquake in the Kumamoto Prefecture on Operation
 Launches Digital Isolators with Superior Radiation Performance for Small Satellites in Low Earth Orbit
 Simplifies Home Appliance Maintenance with Failure Detection e-Solution for Motor-Equipped Home Appliances
-January 18, 2019
-Proud to be Official Technical Partner of the Victorious Mahindra Racing at Marrakesh E-Prix
-Execution of Syndicated Loan Agreement
 Electronics’ 32-bit RX65Microcontrollers with Advanced Security and Graphics Achieves Amazon FreeQualification
-Consumer Automotive
-Corporate/Management
 Impact of the January 26 Earthquake in the Kumamoto Prefecture on Operation
-Notice Regarding Completion of Absorption-Type Merger with Semiconductor Package & Test Solutions
 Impact of the January 3 Earthquake in the Kumamoto Prefecture on Operation
-About the Media Reports Regarding June 19, 2018
 [UPDATE] Impact of the June 18 Earthquake in the North of Osaka Prefecture on Operation
-June 18, 2018
 Impact of the June 18 Earthquake in the North of Osaka Prefecture on Operation
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 This section includes summaries of financial information in graphs, tables and downloadable data.
 Fiscal/quarter year-comparable graphs with financial indicators and downloadable spreadsheet
-Financial statements such as balance sheets, earnings reports, cash flow statements and downloadable spreadsheet
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 recognizes the importance of ensuring management efficiency, integrity and transparency to continuously improve our corporate value.
-Message from CEO
 Renesas' achievements and future growth plans from Bunsei Kure, Representative Director, President and CEO
-Business Risk Factors
 Information about the business risks that could affect investment decisions
 Corporate governance system and how it works
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
-Major Operations
 Research, development, design, manufacture, sale, and servicing of semiconductor products
-Tetsuya Tsurumaru, Representative Director, Chairman
 Bunsei Kure, Representative Director, President and CEO
 Our framework to build a trusted brand
 Business structure, built around 3 semiconductor solutions
-Global Operations
 Headquarters, sales companies, design and application technologies companies, manufacturing companies
 The rules that should be observed in carrying out Renesas' business activities
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 welcomes new business partners who can closely work with us on a long term basis to ensure that we meet the expectations of our customers and continue to provide our customers with the satisfaction they deserve.
 We welcome any comments or questions, so please feel free to contact us.
 Procurement policies for fair business practices, quality management and sustainability
-Acting Together with Suppliers
 procurement and collaboration with our suppliers
-Transaction Procedure
 Basic flow of transactions between and partners
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Enter the email address and password that are registered to the Alliance Partner Program.
-Solutions: Services offered by and partners
 Technology: Industrial core technology and R-IN
 The R-Consortium provides members with the latest information about Renesas, encourages members to share information on trends in the industrial market among themselves, and makes available examples of industrial solutions.
 By engaging actively in information dissemination on a global scale, the consortium serves as a venue for generating collaboration among and its partners.
 The R-Consortium aims at being a one-stop source of essential information and consulting support to make worldwide industry more efficient and active and provide added value, to help partners benefit their customers.
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Start your collaboration here, whether you are a designer looking for a partner to help differentiate your design or speed up your development, or a development tool vendor, design house or consultant with a service to offer.
 Search our online database to quickly find qualified design consultants, programming houses, partner development tools, and manufacturing companies that provide services or products that support products and customers.
-Search Alliance Partners
-Boards and Kits Search
-Interested in becoming a partner?
 Company information will be added into our online database to gain visibility from thousands of customers viewing our web pages every day.
-How to Join
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
-R-Car Consortium
 The R-Car Consortium brings together system integrators, middleware/application developers, and operating system and tools vendors who are developing solutions for the Connected Car & market. With highly reliable and technically advanced SoCs from Renesas, and end-to-end development support, customers can get optimal solutions for their requirements. Members of the Consortium receive evaluation boards and software to help co-develop advanced Connected Car & solutions.
 The R-Car Consortium aims to lead the Connected Car & market through:
-Collaboration with partners
 Mutual cooperation to provide new value to customers
 Enhancement of development environment and support system to accelerate development
-Implementation of next-generation Connected Car & solutions
 Enter the email address and password that are registered to the Alliance Partner Program.
 How to Join R-Car Consortium
   Find out how to apply for admission to the R-Car Consortium 
-R-Car Consortium Partners
-  View member companies and organizations 
   Access development support and evaluation boards available to members 
-R-Car Consortium FAQs
   Get answers to frequently asked questions about the R-Car Consortium 
 : and BlackBerry Deliver R-Car Based Development Environment Integrating Virtualization, Functional Safety, and Security
 : Delivers High-End 3Graphics for Large-Scale Display Instrument Clusters with R-Car E3 System-On-Chip
@@ -1029,400 +154,45 @@ R-Car Consortium FAQs
 : Introduces Integrated Open Image Signal Processor Solution for Automotive Camera System Development with Solutions
 : and OpenSynergy Adopted by Parrot Faurecia Automotive’s Safe Multi-Display Cockpit
 : Electronics’ R-Car Virtualization Software Package Paves Way for Integrated Cockpit and Connected Car Devices with Hypervisor for R-Car System-on-Chip
-21st Seminar report
 : and Magna Bring Advanced Safety Features to More Vehicle Segments and Consumers
 : Green Hills Software Extends Its Trusted Instrument Cluster Solutions to Electronics’ R-Car D3 System-on-Chip
 : Delivers R-Car V3System-On-Chip for Automotive Front Cameras in Level 3 and Level 4 Autonomous Vehicles
 Thank you for using the R-Car Consortium site. This site was switched over to a new system as of 30th May 2016. Your old login and password will no longer work. You must use your Alliance Partner Program login and password to access the member site.
 If you do not yet have an Alliance Partner Program account, please follow the steps in the registration manual to sign up. Once you have an Alliance Partner Program account, please contact 
  to request access to the R-Car Consortium member site.
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
-Energy Management System Solutions
 Smart meters enable an advance toward a next-generation ecology in which power, gas, and water meters are linked via networks. Renesas' measurement and communication technology with ultra-low-power technology raise smart meters to a new level.
-Smart Meters realize Energy Efficiency and Smart Grids
 Smart meters for power, gas, and water are spreading worldwide. Smart meters have two-way communication, which enable to track utility usage in real time by both the utility supplier and the consumer, and also enable  start / reading / cutoff of supply remotely by supplier. Implementation of a Home Energy Management System (HEMS) or Building Energy Management System (BEMS) that enables visualization of the power usage in individual homes or in entire buildings is also possible.
 Further advances can be anticipated that will make the entire power grid smarter. Smarter power grids capable of dynamically optimizing supply will be essential once power grids begin to supply large amounts of electricity from renewable energy sources such as solar power.
 The Burgeoning Market for Smart Meters
 In Japan, following the April 2014 revision of the Act on Rationalization of Energy Use, 10 major power companies decided to introduce smart meters. Tokyo Electric Power Company plans to complete the transition to smart meters within its service area by 2020, and a similar transition is expected to be completed nationwide by 2024. In the United States more than 55 million smart power meters are already in use, accounting for more than 40% of households. In the the European Parliament issued a directive (Directive 2009/72/EC) in 2009 encouraging a transition to smart power meters and directing member nations to prepare a legal framework for the introduction of smart meters. Already both Sweden and Italy have reached nearly 100% adoption of smart meters. In addition to the advanced economies, interest in smart meters is high in emerging economies, with more and more countries planning adoption.
 Learn Renesas's approach to today's energy management system applications and browse block diagrams to see how our devices could be used in your next project.
-Power Meter (Three-phase)
-Power Meter (Single-phase)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
-R-Car Consortium FAQs
-Frequently Asked Questions
 You will need to qualify for membership, and sign the specified agreements. Get more details about 
 how to join the R-Car Consortium
 Membership is also available to overseas companies; however, various events are currently held mainly in Japan.
 There are no participation fees to be part of the Consortium. Some exceptions may apply.
 Middleware/applications, OSs, and tool vendors and system integrators are our most common members. For details, view 
 Members get access to a development environment, including evaluation boards and software tools needed for evaluation. Members also receive extended support for co-developing a demonstration platform using an R-Car solution, and opportunities to promote and exhibit products.
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
-System Development
-Kyoto Microcomputer Co., Ltd.
-Kyoto Microcomputer development environment
-Core Emulators and Debuggers
-Kyoto Microcomputer Co., Ltd.
-Kyoto Microcomputer emulator and debugger
-Bitran Bitran emulator and debugger (for RZ/T1)
-acontis technologies Japan
-Ethermaster protocol implementation & customization
-Protocol implementation & customization
-Conformance testing support
-Protocol implementation & customization
-Conformance testing support
-Protocol implementation & customization
-Conformance testing support
-Mitsubishi Electric Engineering Company
-Protocol implementation & customization
-Conformance testing support
-Protocol implementation & customization
-Module contract development
-Conformance testing support
-System Development
 Embedded applications of high-speed data search engine
 System proposal, board development, firmware design development, and conformance testing support
-Inter Factory Partners Co., Ltd.
-System integration
-Nippon Systemware Co., Ltd. (NSW)
-Software system contracting, including cloud systems
-Nihon Synopsys G.K.
-Software verification tool and simulation tool
 System integration: embedded security, board development, and application development
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
-R-Car Consortium Partners
-Middleware/Applications
-Advanced & Wise Technology Corp
-Arphic Technology Co., Ltd.
-Advanced Telematic Systems GmbH
-Middleware Co., Ltd.
-Elektrobit
-GlobalLogic
-Hitachi Solutions, Ltd.
-Hitachi Systems Co., Ltd.
-InnoTree Co, Ltd.
 Laboratory, Graduate School of Science and Technology. Kumamoto University
-Ittiam Systems Private Limited
 Kanazawa Institute of Technology
-Kyoto Software Research, Inc.
-Luxoft Global Operations GmbH
-M's Multiple Operating Network Communication Systems, Ltd.
 Panasonic Industrial Devices Systems and Technology Co.,Ltd.
-PathPartner
-Penta Security Systems Inc.
-SevenCore Co., Ltd.
-Shanghai Bwave Technology Co., Ltd.
-(JAPAN) Trend Micro Incorporated
-DataCom CO., LTD.
-Operating System
-Department of Information Engineering (Takada Laboratory), Graduate School of Information Science, Nagoya University
-Elektrobit
-GlobalLogic
-Mentor Graphics Japan Co.,Ltd.
 Panasonic Industrial Devices Systems and Technology Co.,Ltd.
-Software Systems Limited
-SevenCore Co., Ltd.
-Thunder Software Technology Co.
-Advanced Data Controls Corp.
-Australian Semiconductor Technology Company Pty Ltd
-Elektrobit
-Four Link Systems Inc.
-GlobalLogic
-Hitachi Solutions, Ltd.
-Hitachi Systems Co., Ltd.
-Kyoto Microcomputer Co., Ltd.
-Maxell System tech Co.,Ltd.
-Mentor Graphics Japan Co.,Ltd.
-Software Systems Limited
-Semiconductor Package & Test Solutions Co., Ltd. (Former Northern Japan Semiconductor, Inc.)
-Silicon studio Sohwa & Sophia Technologies Inc.
 TechMatrix Tektronix Japan (Corporation)
-(JAPAN) Vector Informatik GmbH
-Dialog Semiconductor (UK) Ltd
-Maxim Integrated
-Western Digital Engineering/Manufacturing
-Andor System Support Co., Ltd
-Cyient Ltd.
-Japan Radio Co., Ltd.
+The DiThe Qt Company
 Corporate Organic Materials Semiconductor Components Group, L&Technology Services
-Macronix (Asia) Limited Japan Branch
-Maxell System tech Co.,Ltd.
-Mitsubishi Electric Engineering Company Limited
-SkyStream Software Research Associates, Inc.
 Spacelink Supercomputing Systems AG
-Winbond Wipro Limited
-Zylux Acoustic SIer (System Integrator)
-ArcherMind Technology (Nanjing) Co., Ltd.,
-Capgemini Japan K.K.
-Cyient Ltd.
-Hitachi Industry & Control Solutions, Ltd.
-Hitachi Information & Telecommunication Engineering, Ltd.
-Hitachi Solutions, Ltd.
-Hitachi Systems Co., Ltd.
-Luxoft Global Operations GmbH
-Micware Co.,Ltd.
-Mitsubishi Electric Engineering Company Limited
-Shanghai Bwave Technology Co., Ltd.
-Buildsystem Co., Ltd.
-Four Link Systems Inc.
-Japan Open Systems Technologies Ltd.
-Mentor Graphics Japan Co.,Ltd.
-Micware Co.,Ltd.
-Mitsubishi Electric Engineering Company Limited
-M's Murata Manufacturing Co., Ltd.
-Nihon System Kaihatsu Co.,Ltd.
-PathPartner
-Shanghai Bwave Technology Co., Ltd
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 offers solutions for managing and controlling power supplies efficiently in many fields, from industrial to consumer electronics.
 power supply has the task of converting alternating current (AC) power or temporally variable direct current (DC) power to fixed-voltage power. Even a one percent improvement in conversion efficiency is directly linked to lower power consumption and energy saving.
 offers (power factor correction) ICs that employ critical interleaving mode and battery control ICs that detect the remaining battery level with high precision to help improve conversion efficiency
@@ -1431,194 +201,41 @@ Li-Ion Battery Management Solution
 Renesas' lithium-ion battery management solution is built around a battery management that offers a low-power microcontroller and high-performance analog front end (AFE) in a single package, along with an evaluation board, sample software, and other tools to support the development of safe, secure, and high-performance lithium-ion batteries.
 Power Supply for Air Conditioner
 Because air conditioners operate at comparatively high power levels, a (Power Factor Correction) circuit is generally incorporated into the power supply.
-Search by Application
 Power Supply for Air Conditioner
-Search by Design Topology
-DC-Inverter
-Device selection from design topologies
-Search by Key Device
-ICs for Power Supply
 ICs for Microcontroller Power Supply System
-Power MOSFETs
-Microcontroller for Power Control 
-Overview of Fast Recovery Diodes
-mini-Introduction
 is a tool for simulating the operation of a power MOSFET.
-power characteristics graph is calculated according to user-specified conditions and displayed online.
-Applicable products: MOSFET
 You can download simulation data such as parameters or models for each product lineup shown below.
-MOSFETs for switching
-Bipolar transistors
-Op Amp,
-Logic ICs
 All electronic and electric devices in the world around us require a power supply to run. To use an analogy, the power supply is like the foundation of a house. However, mostly it is taken for granted and not really given much thought, like air.
 (power factor correction) suppresses the peak power level by using harmonic control to utilize power efficiently, thus achieving energy savings. However, since the factors valued by customers' end products—efficiency, low spurious radiation, protective functions against malfunction, cost reduction through fewer parts—and the balance of these factors or power supply requirements differ, ICs of a variety of specifications are needed. is technology leader. With a wide variety of applications and a product lineup with specifications covering a broad power range, contributes to the realization of an energy-efficient society.
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
-System (hardware/software development support)
 (provision and management of kit; Etherand Modbus stack samples)
 gateway middleware library and evaluation kit for realizing safe and secure factories. They can be used to interlink and coordinate security devices that use the network standard* with manufacturing equipment, sensors, and controllers in a factory. (*standard for security devices and network interconnection.)
-High-Speed Data Search Engine
 Proprietary software technology for high-speed data processing that solves processing speed issues in large-volume data analysis. Embeddable.
 Partners possessing various skills that support development of products for the industrial segment, such as certification testing support for communications standards and industrial protocol implementation support, are members of this consortium.
 Please consider them as candidates for collaboration for developing your product and providing solutions to your customers.
-acontis technologies Japan
-Protocol implementation (EtherCAT)
-System integration (EtherCAT)
 Protocol implementation and conformance testing (EtherCAT)
-System integration
-System integration (EtherCAT)
-Mitsubishi Electric Engineering Company
-System integration (CC-Link and CC-Link)
-Inter Factory Partners Co., Ltd.
-System integration (DeviceNet, EtherNet/IP, and EtherCAT)
-System integration (embedded security, etc.)
-Partner expected to join
-Partner expected to join
-System integration
-Evaluation Boards & Kits
 Evaluation Boards for R-IN32 Series
 An evaluation platform for performing software development and system development of an for industrial Ethernet communications supporting Ether(R-IN32M3-EC).
-Includes industrial Ethernet (R-IN32M3-EC). Various communications protocols can be evaluated.
-Various interfaces, such as Ethernet, CAN, CSI, I2C, (USB), and an external microcontroller interface, can be evaluated.
-Tessera Technology (development kit provider)
 An evaluation platform for performing software development and system development of an for industrial Ethernet communications supporting CC-Link Field (R-IN32M3-CL).
-Includes industrial Ethernet (R-IN32M3-CL). Various communications protocols can be evaluated.
-Various interfaces, such as Ethernet, CAN, I2C, (USB), and an external microcontroller interface, can be evaluated.
-Tessera Technology (development kit provider)
 compact evaluation platform for performing software development and system development of an for industrial Ethernet communications supporting Ether(R-IN32M3-EC).
-Includes industrial Ethernet (R-IN32M3-EC). Various communications protocols can be evaluated.
-This compact version has a limited interface.
-Tessera Technology (development kit provider)
 Bus Interface Solution for Industrial Ethernet
 (provision and management of kit; Etherand Modbus stack samples)
-Systems (development kit provider)
 (provision and management of kit; Etherand Modbus stack samples)
 Various open network protocols are used for communications between devices over a network in the industrial segment. There are several protocols currently existing, and they are unlikely to be merged into a single protocol. Implementing one of these protocols from scratch requires many resources. There are R-Consortium partners who offer protocols for industrial network.
-Modbus RTU/ASCII
-acontis technologies Japan
-Partner expected to join
-For Tessera Technology board
-For KickStart Kit
 limited-use sample (can be used for 90 minutes). Comes with a sample program for Siemens S7-1200 PLC.
 demo sample of 8-bit I/messaging using the popular EtherNet/stack. Comes with a simple master so operation can be checked solely in a environment.
-CC-Link Field (Intelligent Device Station) samples are available. *To use, please merge with a set of drivers/middleware.
 sample for checking control using Read Coil/Write Coil commands. By combining with a simple master application, operation can be checked in a environment.
-Operation Verification Tool
 This tool simulates a CC-Link master station on a It is available for use free of charge. However, usage time is limited. version with unlimited use can be obtained from the CC-Link Partner Association's website.
 This is a small, simple tool for an EtherNet/node device. An file is not necessary.
-Real-time OS
 Real-time performance is an important factor in the industrial segment. The necessity of real-time is growing in response to demands for Ethernet, multi functionality, and advanced functionality. There are R-Consortium partners who provide support for real-time They each offer their own characteristic real-time For details, please contact our partners.
 Support for Ethernet is becoming mainstream not only in the industrial segment but in many types of networked devices. The industrial segment differs from general usage in that device size is limited, so often a more compact stack or a stack with higher speed real-time performance is required. There are R-Consortium partners who offer TCP/You can find the most suitable TCP/stack for your application. For details, please contact our partners.
 Development Environment for R-IN32 Series
 Our partners offer compilers, ICE, and debuggers as a development environment for the R-IN32 Series. You have the freedom to choose any environment you want?an environment you are familiar with, the latest cutting-edge environment, or so on.
-Kyoto Microcomputer Co.,Ltd.
-Yokogawa Digital Computer Development Environment for RZ/Series
 Like the R-IN32 Series, our partners also offer compilers, ICE, and debuggers for the RZ/Series. You have the freedom to choose any environment you want - an environment you are familiar with, the latest cutting-edge environment, or so on.
-Kyoto Microcomputer Co.,Ltd.
-Yokogawa Digital Computer LSI
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 offers a multitude of microcontrollers combining low power consumption and excellent reliability as solutions for gas and water meters
-Gas and Water Meter Solutions
 Gas meters must measure and display the amount of gas used, and in Japan they must also provide safety functions to automatically detect abnormal states and cut off the gas supply. This means that the microcontrollers used in gas meters require the ability to connect to sensors of various types.
 The Japanese Measurement Law stipulates replacement limits of 10 years for gas meters and eight years from water meters, and the batteries incorporated into these meters must have operational lifetimes of at least this duration. These applications therefore require microcontrollers with ultra-low current consumption.
 The RL78/L1x Series and RL78/G1x Series offer such ultra-low current consumption while providing improved fail-safe functions such as a high-safety watchdog timer (WDT) and an on-chip oscillation circuit that is highly resistant to oscillation errors. In addition, a broad lineup of package options enables customers to select a microcontroller with precisely the right functions and size for the gas meter or water meter they are developing.
@@ -1626,251 +243,34 @@ The RL78/I1features enhanced analog functions such as op-amp, 12-bit A/converter
 Browse block diagrams for flow meters applications to see how our devices could be used in your next project.
 Renesas’ RL78/L1x Series of MCUs offer low power consumption in the standby state and can operate across a wide range of voltages. In addition, a broad lineup of packages is available to meet your necessary functionality and size requirements.
 Renesas’ RL78/L1x Series and RL78/G1x Series of MCUs offer low power consumption. They also incorporate a highly reliable watchdog timer (WDT) and an on-chip oscillator circuit with minimal susceptibility to oscillation errors, in order to increase the fail-safe functionality of the These MCUs are suitable for the development of gas meters demanding stable operation with a high level of reliability.
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Communication links bring new value. Renesas’ technological expertise can help reduce development time while enabling highly sophisticated smart meters.
-Complex Smart Meter Communication Involving Multiple Standards
 The biggest feature of smart meters is their communication functionality. This functionality links the power supplier (the power company) and the consumer (the device in the home), and a variety of communication standards are used in different countries and regions.
 In Japan, wireless multi-hop, 1:wireless, and are being considered for communication between the supplier and smart meter. For communication within the home (or building), Wi-wireless communication, supplemented by power line communication (PLC), are the main methods employed.
 In the and Europe, Wi-and hold the dominant positions, while a variety of other methods such as wireless multi-hop, 2or 3mobile communication, and ZigBee® wireless communication are under consideration.
 Browse block diagrams for connectivity applications to see how our devices could be used in your next project.
 (Power Line Communication) is a communication method using a power line. By using a power line as a communication network, system designers can reduce costs. For this reason, is attractive as a communications method in smart meters (AMI), HEMS, and solar panel monitoring systems.
 Sub-gigahertz (sub-GHz) wireless communications technology uses waves around the 920 MHz band. With the proliferation of the Wi-Alliance's international wireless communication standards, sub-GHz wireless communications are being rapidly adopted by the market.
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 The R-Car Consortium provides development support to our partners. dedicated system evaluation board is available upon request. This evaluation board can be used for reference during the design of system hardware, operating system, driver software and application development. The board also provides system function emulation and performance evaluation, which can significantly shorten product development turnaround time.
-System Development / Evaluation Board
-R-Car H3 system evaluation board
-R-Car M2 system evaluation board
 R-Car M3 system evaluation board
-R-Car E2 system evaluation board
 R-Car H2 system evaluation board
-Application Development / Evaluation Board
-R-Car H3 and M3 Starter Kit
  releases new development kits designed for professional engineers in highly specialized areas such as image recognition and HMI
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 offers an extensive lineup of microcontrollers for smart power meters, backed by solutions to meet a range of customer requirements.
-Smart Power Meter Solutions
 smart power meter consists primarily of a measurement unit and a communication unit. As measurement unit solutions, offers the RL78/I1and its higher-end sibling the RL78/I1C, both of which feature an ultra-low-power on-chip RTC, and the RX21Group, with an on-chip 24-bit ΔΣ to reduce the number of external components and associated costs. When an external ΔΣ is used, available options include the RL78L1x, RX210, and RX220. As communication unit solutions, offers microcontrollers with features such as an on-chip ultra-low-power sub-GHz driver with 802.15.4g/e support, essential for Wi-applications, and support for international power line communication standards (G3-and PRIME). offers an extensive lineup of microcontrollers for smart power meters to meet a broad range of customer requirements.
 Browse block diagrams for electricity meters applications to see how our devices could be used in your next project.
-Power Meter (Three-phase)
 Within the microcontroller (MCU) lineup offered by Renesas, the RX200 Series and RL78 Family provide the high performance, large memory capacity, and low power consumption required by three-phase meters.
-Power Meter (Single-phase)
 has a rich lineup of control microcontrollers for single-phase meter. RL78/I1Group, RL78/I1Group and RX21Group with a built-in 24-bit ΔΣ(delta-sigma) help to reduce costs and external components.
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
 Advanced Driver Assistance System (ADAS)
-Car Information System
-Building Security Systems
-Fire and Safety Systems
-Lighting Systems
-Energy Management System
-Personal Medical Devices
-Major Home Appliance
-Industrial Automation
-Sensors and Actuators
-Functional Safety
-embedded Artificial Intelligence (e-AI)
-Human Machine Interface
-Functional Safety
-SOTB™ Process Technology
-Microcontrollers & Microprocessors
-RH850 MCUs
-Other MCUs / MPUs
-MCUs and Processors
-Systems-on-Chip (SOC)
-Power Management
-Battery Management
-Embedded System Platforms
-R-Platform for Industrial
-OptoPower Management
-Space & Harsh Environment
-Timing & Digital Logic
-Part Number Decoder
-Power Cross Reference
-PowerCompass
 Advanced Driver Assistance System (ADAS)
-R-Car Consortium
-R-Platform for Industrial
-Factory Automation
-Power Cross-Reference
-Forum (Rulz)
-Training & Tutorials
-Webinars
-Product Policies and Programs
-Alliance Partner Program
-R-Car Consortium
-Environmental Compliance
-(Long-Term Product Supply Program)
-View MyPortal
-Europe/Middle East/Africa
-Japan (日本語)
-Taiwan Region (中文)
-SOTB™ Process Technology
 Energy Harvesting in Embedded Systems is Now a Reality
 Exclusive technology from breaks the previous trade-off between getting either low active current or low standby current consumption – previously you could only choose one. With SOTB, you get both without compromise. Additionally, supports high operating frequency for high performance and small silicon node geometry for high-density memory. This is a recipe for very capable, extreme low-power applications that run from harvested ambient energy – no batteries required.
-Extreme Low-Power Applications
-What Is The Process?
 disruptive extreme low-power technology exclusively from Renesas.
 What Are The Benefits Of SOTB?
 Extreme low active and standby power, speed scalability, high performance analog with low noise, and high immunity to disruption from particle radiation.
-Embedded Controller Using SOTB
 The new embedded controller, the R7F0E, enables easy design of energy harvesting applications that require no batteries.
-Energy Harvesting Examples
 Examples illustrating use and benefits of the specialized functions in the R7F0to manage harvested energy sources.
-electronica 2018 / Battery-less Velocity Measurement
-electronica 2018 / Battery-less Heart Monitor
-electronica 2018 / Battery-less Agriculture Soil Monitor
-Energy Harvesting Demonstration / Solar Power
-Energy Harvesting Demonstration / Vibration Power 1
-Energy Harvesting Demonstration / Vibration Power 2 

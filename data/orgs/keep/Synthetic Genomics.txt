@@ -1,12 +1,7 @@
-Algae Biofuels
-Events and Presentations
-Advancing to Better Life
 Harnessing the power of to answer the world’s greatest health challenges.
-Dan Gibson at 2018
 Dan Gibson, of Technology, spoke at 2018 about how the world’s first “biological teleporter” may change how medicines are delivered on-demand
 RNA-Based Medicines for Complex Diseases
 Enabling a new generation of vaccines and therapeutics to work with the human immune system.
-Cells Designed for Purpose
 Optimizing biological systems to create new and better bio-based products that span industries.
 Transformative Partnerships
 Collaborating with industry leaders for next-gen cell and system engineering.
@@ -22,23 +17,14 @@ We have sequenced and annotated thousands of genomes of different organisms from
 Characteristics and functions of all biological entities, including viruses and living cells, are written into the code of These entities can be reconstructed if we can read and write the sequence of their code. Our proprietary tools and capabilities enable us to engineer nearly any type of cell or design and build genes and pathways.
 continues to build on its legacy of scientific firsts
 founded by Craig Venter, Ph.D., and Nobel Laureate Hamilton Smith, Using reprogrammed cells as bio-factories, founders sought to provide transformative new products across industries.
-First Genome Transplanted
 First bacterial genome transplantation. As a key proof of principle in biology, the project was an important step towards realizing the ultimate goal of creating a organism that can solve global health and sustainability challenges.
-First Bacterial Genome Synthesized
 Created the largest man-made structure. This genome was regarded as a striking technical accomplishment and formed the groundwork of Genomics’ biology platform.
-Isothermal Assembly
 This assembly method, first published in Nature Methods , can be used to seamlessly construct and natural genes, genetic pathways, and entire genomes, and could be a useful molecular engineering tool.
-First Cell Created
 Developed the first self-replicating cell, a bacterial cell that was designed in the computer and brought to life through chemical synthesis, without using any pieces of natural This enables the development of many important cell-based applications including vaccines, pharmaceuticals, biofuels, and food products.
-Flu Vaccine
 Responding to a global health threat posed by the H7N9 bird flu, developed a approach that rapidly generated a vaccine seed from downloadable sequence data.
-Automated DNA, RNA, and Protein Production
 Genomics’ BioXp System releases its cloning module. This new capability automates and expedites cloning, a procedure used in nearly every academic and commercial molecular biology laboratory worldwide.
-Engineered Phage
 Developed “supercharged” phages, a type of virus, to combat antibiotic-resistant strains of Pseudomonas, a bug that causes skin infections, sepsis, and potentially-fatal pneumonia.
-First Minimal Cell
 Built the first minimal bacterial cell. This is the smallest genome of any organism that can be grown in laboratory media. This feat leads to new tools and semi-automated processes for whole genome synthesis, aiding in more efficient development of biologic drugs.
-LeadershipPhilosophy
 Cells have evolved over billions of years to become highly efficient at making biological products. Imagine the possibilities if we could reprogram cells’ internal machinery to further enhance or modify their function with a specific purpose in mind. That’s what we do.
 Together with our partners, creates transformative medicines and bio-based products. Our strategic collaborations support innovations in the areas of RNA-based vaccines and therapeutics, automated and production, and biotherapeutic discovery and manufacturing.
 Each partnership is a true collaboration: Our partners bring an intimate knowledge of their customers and markets, from regulatory requirements to commercialization pathways. We bring the ability to design and build biology for function, enabled by world-leading expertise in genomics, virology, and cell engineering.

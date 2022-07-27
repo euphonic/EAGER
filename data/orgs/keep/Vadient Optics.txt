@@ -1,8 +1,5 @@
 was formed to fabricate freeform gradient index nanocomposite optical elements. Our optical engineers are transforming the long-unchanged field of lens fabrication. Vadient’s Volumetric Index of Refraction Gradient (VIRGO) lens technology reduces size, weight, and power requirements of high-performance electro-optical systems, like efficient solar concentrators, night vision imagers, and professional high-definition televisions (HDTV).
-Leave a Reply
-You may use these tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>Search
 was created by former technical and management staff of the Hewlett Packard (HP) product development division in Corvallis, OR, specifically to commercialize Volumetric Index of Refraction Gradient (VIRGO) lens technology.
-You may use these tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>Search
 The basic principles of opticshave remained unchanged for some time:
 Euclid developed the principles used in modern optical design by 300 BC
 Newton rounded out modern optical design by describing refraction in the latter half of the 16th century.
@@ -11,5 +8,3 @@ Today’s optical systems use lens materials that are homogeneous, like glass, w
 The geometrical and wave aberrations, inherent to the manner in which light refracts at the interface between two materials, limits optical lens performance as a function of the light’s color and location within the lens’ pupil. These aberrations are unavoidable with common refractive and additional optical elements are required to correct for aberration and achieve high quality optical performance.
 Each additional spherical lens element also introduces its own aberrations. As a result, demanding optical designs, such as high-performance, wide-angle and low f-number optical imaging systems, use stacks of many lens elements, driving up system cost, size and weight.
 more natural approach to lens design would be to vary the refractive index throughout an entire volume of the optical element so that greater control over the light ray trajectories can be achieved, and aberrations can be eliminated. Vadient’s Volumetric Index of Refraction Gradient (VIRGO) lens technology  (link to tech and applications page) takes this approach.
-Leave a Reply
-You may use these tags and attributes: <a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>

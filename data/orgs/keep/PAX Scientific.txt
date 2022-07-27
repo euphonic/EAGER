@@ -1,9 +1,4 @@
-Fans and Blowers
-Capturing the Force of Nature
-Fans and Blowers
-is a fluid
 dynamics research and design firm. 
-Our understanding of natural
 fluid flow allows us to design industrial equipment and other technologies that
 are highly efficient and innovative. We then license these designs to
 manufacturers in a variety of industries.
@@ -21,7 +16,4 @@ Water Technologies  commercializes technologies for water and wastewater managem
 Mixer markets industrial mixing technologies (other than water or wastewater mixers), and researches atmospheric mixing.
 Most fluid-handling devices (fans, mixers, pumps, turbines, propellers), as well as those that move through fluids (boat hulls and aircraft fuselages) face significant limitations, such as drag resistance, low output, inefficient energy usage, excessive noise, or component wear. The Streamlining Principle  employs natural flow geometries to improve upon these existing limitations and provide the following benefits:
 Increased Efficiency: Decreased      noise, increased output, decreased power usage
-Optimized Flow Pattern: Drag      reduction, controlled directional thrust/flow, low shear/cavitation
-Decreased Manufacturing and      Maintenance Cost: Optimized material usage, reduced motor size,      increased structural integrity
 Our R&team studies the fundamental mathematics and fluid dynamics underlying the Streamlining Principle  using both numerical methods and analysis. We also use in-house and external experimental testing by independent research facilities to validate our methods and ensure that performance is fully optimized.  We then optimize streamlining geometries for targeted fluid-handling applications.
-Through PAX’s subsidiaries, we are currently commercializing the following technologies:

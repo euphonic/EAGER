@@ -1,25 +1,4 @@
-Long-Haul and Subsea
-DTN-Family
-FlexILS
-DTN-XTC
-mTera
-Data Center Interconnect
-Infinera Management Suite
-Transcend Software Suite
-Mobile Fronthaul
-Research & Education Networks
-Packet-Optical Packet Super-channel
-High Density Design
-Programmability
-Primers
-CloudWave Optics
-Infinite Capacity Engine
 Photonic Integrated Circuit (PIC)
-Super-channels
-Technical Assistance Center
-Technical Assistance Center
-Board of Directors
-Corporate Social Responsibility
 Intelligent transport solutions Powered by industry-leading innovation and economics
 Infinera’s ICE4 powers Australia-Japan Cable with best-in-class subsea transport
 Multi-terabit capacity, low power consumption and proven reliability
@@ -28,12 +7,5 @@ Supporting revolutionary applications and experiments at SC18
 Infinera mTera, now with Layer 1 data encryption
 Get the Infinera Fiber Deep advantage
 Unmatched operational speed and simplicity for cable MSOs
-Sets foundation to double capacity
-Let our experts help deploy your network
 Industry first! 600transmission
-in Telia Carrier production network
-Investors & Shareholders
-Research & Education
-Data Sheets
-Webinars
 Infinera uses cookies to help give you the best experience on our site. By continuing, you consent to the use of these cookies. To learn more, view our 

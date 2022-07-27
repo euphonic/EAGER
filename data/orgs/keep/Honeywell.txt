@@ -1,47 +1,16 @@
-Automation Systems
-Software and Controls
-Facilities and Operations
-Energy Solutions
-Gas Processing Equipment
-Refrigerants
-Electronic Materials
-Corporate Citizenship
 What is Urban Air Mobility
 If you can’t beat the traffic, go above it
 What is Urban Air Mobility
 If you can’t beat the traffic, go above it
-These breakthroughs are making the world smarter and safer
 The Future of Retail Has Arrived
 These shopping experiences will make you come back for more
- USBs are Threatening Industrials
 Our new research exposes major cybersecurity risks
- Performance Materials
 Committed to make a difference
 Our programs serve a global community and our hometowns too
 Data may be delayed by up to 20 minutes.
-Performance Materials
-Corporate Citizenship
-Performance Materials
-Corporate Citizenship
-Automation Systems
-Software and Controls
-Facilities and Operations
-Energy Solutions
-Gas Processing Equipment
-Refrigerants
-Electronic Materials
-Corporate Citizenship
 Our programs serve a global community and our hometowns too.
 Just as we are committed to creating solutions using a blend of physical assets and software to improve quality of life, we are committed to making a measurable difference in our own neighborhoods and communities.
 We provide resources and financial support to causes and communities around the world and encourage employee volunteerism.
-Inclusion and Diversity
-Integrity and Compliance
-Citizenship Report
-Sustainable Opportunity Policy
-Performance Materials
-Corporate Citizenship
-Performance Materials
-Corporate Citizenship
 We are building a smarter, safer, and more sustainable world.   That’s the Power of Connected. That’s the Power of Honeywell.
 Our company invents and manufactures technologies that address some of the world’s most critical challenges around energy, safety, security, productivity and global urbanization. We are uniquely positioned to blend physical products with software to support connected systems that improve buildings, factories, utilities, and aircraft, and that enable a safer, more comfortable and more productive world. Our solutions enhance the quality of life of people around the globe and create new markets and even new industries.
  As a Fortune 100 company with $40.5in sales in 2017, has established a track record of strong financial performance over time.
@@ -51,21 +20,6 @@ We develop innovative solutions for more fuel-efficient and environmentally frie
 Honeywell’s solutions enhance productivity and safety for more than half a billion workers annually. Our productivity solutions include a mix of products, from rugged mobile computers, voice-enabled software and workflows, bar code scanners, and printing solutions.
 We are a global leader in the industry with a wide portfolio of personal protective equipment, including connected products that track the locations and status of workers and first responders in hazardous locations.
 Our and Process Solutions provide customers with a fully integrated solution to de-risk and accelerate projects that increase safety, start-up facilities sooner and operate at peak performance. Worldwide
-Automation Systems
-Software and Controls
-Facilities and Operations
-Energy Solutions
-Gas Processing Equipment
-Refrigerants
-Electronic Materials
-Corporate Citizenship
-Vimal Kapur
-Senior Vice President and 
-John Waldron
-Performance Materials
-Corporate Citizenship
-Performance Materials
-Corporate Citizenship
 Honeywell's story stretches back more than 130 years and encompasses several predecessor companies and the inspiring work of tens of thousands of people. But our core mission and values have been consistent:
 vision for a secure, comfortable, cleaner, more efficient future...
 steadfast belief in the power of innovation...
@@ -75,20 +29,17 @@ More than 130 Years of Innovation
 Our roots reach to 1885, when an inventor named Albert Butz patented the furnace regulator and alarm. He formed the Butz Thermo-Electric Regulator Co., Minneapolis, in April 1886, and soon invented a device he called the "damper flapper” – an ingenious predecessor to the modern thermostat.
 Here's how it worked. When a room cooled below a predetermined temperature, a thermostat closed the circuit and energized an armature. This pulled the stop from the motor gears, allowing a crank attached to the main motor shaft to turn one-half revolution. chain connected to the crank opened the furnace's air damper to let in air. This made the fire burn hotter. When the temperature rose to the preset level, the thermostat signaled the motor to turn another half revolution, closing the damper and damping the fire. The temperature correction was automatic. Over the years, many products have been based upon similar, but more complicated closed-loop systems.
 The Consolidated Temperature Controlling Co. acquired Butz's patents and business, and by 1893, had renamed itself Electric Heat Regulator Co. In 1898, the company was purchased by Sweatt, who, by 1916, named the company Minneapolis Heat Regulator Company, expanded its product line and patented the first electric motor approved by Underwriters Laboratories.
-Meanwhile, in Wabash, Indiana...
 In 1904, a young engineer named Mark – from whom our name originated – was perfecting the heat generator as part of his plumbing and heating business. Two years later, he formed the Heating Specialty Co. Incorporated, specializing in hot water heat generators.
 In 1927, Minneapolis Heat Regulator Company and Heating Specialty Co. merged to form the Minneapolis-Regulator Co., and became the largest producer of high-quality jeweled clocks. Sweatt became Chairman and Mark became President. The company quickly grew as it began to tackle more challenges, including industrial controls and indicators.
-Business Around the World 
 The company has been selling its products throughout the world for a long time. In 1934, the company acquired Time-O-Stat Controls Corporation and began establishing a track record of global expansion. We established offices in Toronto, the Netherlands, London and Stockholm. By 1941, The company had distributors in Chile, Panama, Trinidad, New Zealand, Argentina, and South Africa. By 1972, we operated 25 wholly-owned subsidiaries, 142 branch offices, and joint ventures in five countries outside the In 1993, the company opened affiliates in Abu Dhabi, China, Oman, Romania, and the Ukraine. By 1998, the company had operations in 95 countries.
-Products, Developments and Acquisitions
 Minneapolis-Regulator Co. leveraged its scientific and engineering talent to adapt to changing times. We radically improved mass production and added an array of aeronautical equipment to our portfolio. In 1942, we invented the electronic autopilot, which proved vital to the war effort.
 In 1953, the company introduced the iconic T-86 "Round" thermostat, which replaced chunky, rectangular models. One of the world's most recognizable designs, it remains in production today and is used in more households around the world than any other thermostat.
 In 1954, we began working to make gyroscopes more sensitive and precise while reducing their size and weight – and continued improving them over the next two decades.
 In 1955, we established a partnership with Raytheon Corp., marking Honeywell's entry into the computer business.
 In 1957, we began working on fire detection and alarm systems. In many North American cities, the red and black "Protected by Honeywell" window stickers and placards were nearly as recognizable as the “Round” thermostat. Today we are the global leader in the industry.
 The company's name was officially changed to in 1963.
-Six years later, instruments helped astronauts Neil Armstrong and Edwin "Buzz" Aldrin land on the moon.
 In 1970, merged its computer business with General Electric's to form Information Systems. In 1986, the personal computer emerged and the company formed Bull, a global joint venture with Compagnie des Machines Bull of France and Corporation of Japan. Its ownership level was gradually decreased until, in 1991, was no longer in the computer business. The company's digital computer knowledge lives on today in the field of automation control, integrating sensors, and activators.
+The AlliedSignal Connection
 During World War I, Germany controlled much of the world's chemical industry, causing shortages among the and our allies of critical drugs and dyes. In 1920, publisher Eugene Meyer and scientist William Nichols formed the Allied Chemical & Dye Corporation as a partnership of five American chemical companies.
 In 1928, Allied opened a synthetic ammonia plant and quickly became the world's leading producer of ammonia .
 After World War II, Allied began manufacturing other new products, including nylon 6 (used in manufacturing everything from tires to clothes) and refrigerants. 
@@ -111,9 +62,7 @@ Developed by the National Center for Missing and Exploited Children in partnersh
 Safe Kids at Home
 For more than 13 years, and Safe Kids Worldwide have partnered to protect more than 3 million children from preventable injuries in the United States, China, India and Malaysia. The Safe Kids at Home program educates families about reducing incidents of the top causes of home-related injuries, such as fires, burns and scalds. Learn more here.
 As a company with a reputation for building lasting solutions for a sustainable world, we have several programs focused on habitat and ecosystems education to inspire teachers and students to become environmental stewards.
-Institute for Ecosystems Education - New Jersey
 This program utilizes the New Jersey Student Learning Standards for Science, which requires hands-on, inquiry-based learning that relies on exploration and question-based learning approaches, helping to prepare New Jersey graduates to enter an economy that is more reliant on careers. and New Jersey Audubon award students with medals to commemorate their work. Learn more here . 
-Institute for Ecosystems Education - Mexico
 This week-long training is held at Pronatura Training Center and the Technology Solution Center in Mexico City. It combines classroom instruction with outdoor experiences, which aims to inspire students to take a more active role in preserving the environment, helping their community become more sustainable, and acquiring critical thinking and problem-solving skills. Find more details  here .
 With our neighbors and neighborhoods in mind, we created programs that foster safe homes and community living spaces, which are critical to personal well-being and peace of mind.
 S2003, more than 24,500 employee volunteers have partnered with Rebuilding Together to repair nearly 600 homes and non-profit centers in 52 communities in Canada, Mexico, Puerto Rico, and the continental United States. 

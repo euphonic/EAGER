@@ -1,17 +1,5 @@
-Photovoltaics
-Semiconductor Materials
-Epitaxial Lift Off
-Structure and Device Fabrication
-Compound Semiconductor Solutions
                                     specializes in metalorganic chemical vapor deposition (MOCVD) growth of semiconductor structures for use in wireless communications and in the growth and fabrication of advanced solar cells for space, unmanned aerial vehicle (UAV), and terrestrial use.
-Photovoltaics
-High-Efficiency, Lightweight, and Flexible
-Semiconductor Materials
-Grown Semiconductor
-Solar Cell and Device Development
-Photovoltaics
 Designs and manufacture of ELO-based solar cells and sheets for a variety of power on the move applications
-Semiconductor Materials
 Designs and manufacture of epitaxial material used in cellular phones and other wireless Engineering Services
 Contract engineering services, including the development of solar cells, solar sheets, and device structures
 is located in Niles, Illinois - just outside the city of Chicago.  We are also nearby O'Hare International Airport.  
@@ -35,24 +23,16 @@ Founded in 2000, is well equipped to conduct its business.  The company occupies
 is dedicated to producing quality products to meet customer needs.  is an 9001-certified company.  Production begins only after we are sure that all required customer specifications have been met.  In order to ensure the quality of our products, we employ sophisticated quality control processes. 
 prides itself on the quality of its employees.  Some members of our technical staff are among the world’s foremost experts in the growth and processing of GaAs- and InP-based electronic and solar cells.  Our staff supports customers, not only during the product development period, but also during production in order to enable continuing improvements in final product performance and yield. 
 also performs contract research and development.  Since 2003, has been a prime federal contractor on more than thirty programs to develop solar cells, transistors, and lasers.  key result of this innovation has been the development of the epitaxial lift-off (ELO) process, which uses in its line of solar cell and solar sheet products.  has also supported other companies in the performance of their research and development programs.  Many of the innovations developed at have been incorporated into commercial products.
-Recent NewsDr. Noren Pan, and President
 Dr. Pan, who co-founded in 2000, currently serves as President and  His previous position was Chief Scientist of Kopin.  Dr. Pan received a Ph.from the University of Illinois at Urbana- Champaign in 1988.  He has published more than 60 scientific papers.  He is a senior member of and was inducted to the Chicago Entrepreneurial Hall of Fame in 2007.
 Dr. Mark Osowski, Vice President of Engineering and Business Development
 Dr. Osowski joined in November 2009. Prior to MicroLink, Dr. Osowski worked as the Terrestrial Product Development Manager at Boeing-Spectrolab.  Dr. Osowski has over 15 years experience in the compound semiconductor industry.  His research experience has covered a broad range of device designs/applications, including; high efficiency multijunction solar cells, high power multimode pump lasers, and directly modulated diode lasers for telecom and datacom applications.  Dr. Osowski received his Ph.degree in Electrical Engineering from the University of Illinois at Urbana-Champaign in 1998.  He has over 50 publications and two patents in the field of compound semiconductor devices.
-Mr. Andree Wibowo, Vice President of Corporate Strategy
 Mr. Wibowo joined in 2001 after receiving his in Chemical Engineering from University of Wisconsin at Madison.  He has served in several roles, including Production Engineer, and Production Manager.  Mr. Wibowo was responsible for transitioning and Bifrom R&to volume manufacturing and obtaining 9001:2000 certification for high volume production.  Mr. Wibowo was responsible for developing volume production of epistructures for epitaxial lift-off solar cells for space and terrestrial applications.  While working full time at MicroLink, Mr. Wibowo earned an in Finance and Economics from University of Chicago Booth School of Business in 2011.
 Dr. Chris Youtsey, Chief Technology Officer
 Dr. Youtsey joined in December 2007.  Previously he worked at TriQuint Semiconductor, where he contributed to both the Research and Development group and the Production Process Engineering group.  Dr. Youtsey received his Ph.degree in Electrical Engineering from the University of Illinois at Urbana-Champaign in 1998.  He is the author of 30 peer-reviewed journal publications and has received four patents.
-Dr. Sudersena Rao Tatavarti, Technical Director
 Dr. Tatavarti joined in January 2007.  He is responsible for the development of structures for solar cells and other devices.  Previously, Dr. Tatavarti worked at Nortel Networks on growth and processing of InP- based materials.  Dr. Tatavarti received a Ph.in Solid State Physics from the University of Delhi in 1986.  He has published more than 60 papers in refereed international journals and conference proceedings.
-Mr. Glen Hillier, Manager of Design and Development
 Mr. Hillier joined in October 2004.  Prior to MicroLink, Mr. Hillier managed the high-speed epitaxial materials development group at Nortel Networks and was responsible for the insertion of InGaMMICs into 192 10 Gb/s optical communication systems.  He also worked at Bell Northern Research (BNR) in Ottawa where he was instrumental in the development of for long wavelength distributed feedback laser diodes, PIN/detectors, and Mach-Zehnder modulators used in optical communications systems.  Additional work included the development and patenting of an inverted wafer rotation system for a state-of-the-art system used by  Mr. Hillier received his from the Applied Physics Honors program at the University of Waterloo, Ontario in 1985.
 Mr. Ray Chan, Director of Solar Sheet Production and Products
 Mr. Chan joined in October 2008.  Previously, Mr. Chan worked at TriQuint Semiconductor in Hillsboro, Oregon, where he was responsible for the development and sustaining of various sputtered metal deposition processes and electroplate activities.  Mr. Chan was a project leader for the development and production ramp of CuSn pillar bump technologies on 150 mm and 200 mm wafers for flip-chip assembly and packaging.  Mr. Chan received his and degrees in Electrical Engineering from the University of Illinois at Urbana-Champaign in 1995 and 1996. 
-Photovoltaics
-Semiconductor Materials
-Epitaxial Lift Off
-Structure and Device Fabrication
 has been an 9001 certified company since 2005.  Certification provides a framework to provide our customers with products and services that comply with their requirements while meeting or exceeding their needs and expectations for performance and reliability at a competitive cost. 
 Certification ensures that systems and infrastructure are in place to conduct business effectively along with delivering these high quality products.  Working with an 9001 certified company ensures customer satisfaction through continual improvement, company efficiency, consistency and dedication to quality service. 
 has a history of collaborating with customers in order to translate customer desires into observable, measurable functional requirements for a deliverable product.

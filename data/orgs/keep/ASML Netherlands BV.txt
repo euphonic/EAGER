@@ -1,70 +1,24 @@
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
 Agrees to Acquire Mapper Assets and Intends to Offer Continued Employment to Staff - Intends to Take Over the Majority of Mapper Employees in Addition to the Company’s IP
 VELDHOVEN, the Netherlands, January 28, 2019 - Holding (ASML) today announces it has agreed to acquire intellectual property assets of the Delft, Netherlands-based high-tech company Mapper. Furthermore, intends to offer suitable positions to Mapper’s highly skilled employees working in research & development and product assembly.
-Nikon, and Carl Zeiss Sign Agreement to Settle All Litigation
-January 23, 2019
-TOKYO, Japan, VELDHOVEN, the and OBERKOCHEN, Germany - January 23, 2019 - Nikon Corporation (“Nikon”) (TYO: 7731), Holding (“ASML”) (NASDAQ: ASML) and Carl Zeiss Gmb(“Zeiss”) have signed a Memorandum of Understanding relating to a comprehensive settlement of all legal proceedings over patents for lithography equipment and digital cameras.
 Reports 10.9 Billion Net Sales and 2.6 Billion Net Income in 2018 - Expects Sales Growth in 2019 Despite Challenging Environment and Proposes to Raise Dividend by 50%
-January 23, 2019
-VELDHOVEN, the Netherlands, January 23, 2019 - Holding (ASML) today publishes its 2018 fourth-quarter and full-year results.
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-In a nutshell
-Add to my favorites
-Questions and Answers
+How we do it
 What is ASML's vision and mission?
 Our vision is a world in which semiconductor technology is everywhere and helps to tackle society’s toughest challenges. We contribute to this goal by creating products and services that let our customers define the patterns that integrated circuits are made of, and we continuously raise the capabilities of our products, enabling our customers to increase the value and reduce the cost of chips.
 By helping to make chips cheaper and more powerful, we help to make semiconductor technology more attractive for a larger range of products and services, which in turn enables progress in fields such as healthcare, energy, mobility and entertainment.
@@ -75,243 +29,86 @@ creates lithography systems. The lithography system filters light through a blue
 Our lithography systems are a hybrid of high-tech hardware and advanced software, used by our customers (the world’s top chipmakers) to mass produce chips in their factories. These systems are modular so we can service, upgrade and continuously improve them. We further enhance system performance and reliability with predictive algorithms, which optimize the blueprint of a chip for the best possible manufacturing result, and with metrology, which analyzes and corrects the chip manufacturing process in real-time.
 What is lithography?
 Lithography is arguably the most important and critical part of the chip production process. chip is an integrated circuit of billions of transistors that are connected across dozens of layers. Lithography determines how a chip design can be mass produced on silicon, since it defines the size and shape of all chip components, connections and contacts. It is also critically important in making and connecting every layer of the chip.
-What is ASML's global presence?
 We are a multinational company with offices in 60 cities in 16 countries, headquartered in Veldhoven, the Netherlands. We employ more than 19,000 people on payroll and flexible contracts (expressed in full time equivalents). is traded on Euronext Amsterdam and under the symbol ASML.
-Where are your R&facilities located?
 Our main research and manufacturing sites are in Veldhoven (the Netherlands), Wilton (Connecticut), San Diego (California) and at our Center of Excellence in Linkou (Taiwan). We cooperate closely with independent research labs at (Leuven, Belgium) and the Advanced Research Center for Nanolithography (ARCNL) in Amsterdam, as well as many universities and research institutes. As a system integrator with a value sourcing strategy, we also rely on a network of key suppliers such as VDL, and to conduct research in their own fields of expertise.
 Our technological leadership is fueled by fast cycles of innovation, intense collaboration with customers and suppliers, and by employing the best and brightest from all over the world.
 We innovate across our entire product portfolio at the same pace as our customers through large and sustained investment in R&To accelerate our product development, we engineer in parallel what may usually happen sequentially, all the while guarding the product’s reliability, manufacturability and serviceability. This enables us to get our innovations into the hands of chipmakers faster.
 We collaborate with chipmakers to understand how our technology best fits their needs, challenges and visions of the future. It is through this collaboration and trust that we can build for today and develop for tomorrow.
 Our talented employees bring together technical creativity, different perspectives and multidisciplinary teamwork across time zones and cultures. We believe that even the biggest challenge can be overcome with this combination of innovation drivers. We persevere until the job’s done.
 We expand our knowledge and skills by tapping into an ecosystem of expert suppliers for manufacturing, and academia for fundamental research. We see ourselves as architects and integrators, inspiring our partners to innovate on the cutting edge of engineering while sharing risk and reward.
-How does protect its intellectual property?
 In a high-tech company like ASML, innovation is our lifeblood. So applying protection, like patents, for inventions that make us successful is vital for our future success. has built a strong portfolio of more than 10,000 patent rights through sustained high investment in Research and Development, totaling more than 8 billion since 2004. Patents preserve those investments and ensure freedom to operate, creating leverage to negotiate deals and vigorously defend lawsuits.
-Do you sponsor events and support charities?
 As a global technology leader and employer, actively participates in the communities where we operate. We focus on three activities:
 We give back to communities by supporting local charities and global education projects. If you want to request sponsoring, fill in 
- and send it to 
 . Requests are assessed individually by the sponsoring committee.
 We feel a strong responsibility for the next generation of innovators. That is why we support and run science, technology, engineering and mathematics programs globally that give youth the opportunity to unlock their potential.
 We aim to make the local communities we operate in attractive places to live for our employees.
-In addition, the 
 , an independent organization, provides financial support to charities worldwide that focus on education.
 When was the company established and what do the letters stand for?
 was founded in Eindhoven (the Netherlands) in 1984. It started as a joint venture between two Dutch companies: Royal Philips Electronics and Advanced Semiconductor Materials International (ASMI). It was named Lithography to complement International’s subsidiary companies, which had similar names and served the semiconductor industry. In 1988, International withdrew from the partnership but the company was too young to change names, so it continued as Lithography. After floatation as an independent company, ‘ASML’ became well known and became the official company name, so ‘Lithography’ is no longer used.
-Where can download company information?
 Is it possible to visit ASML?
 At ASML’s headquarters in Veldhoven, the Netherlands, we organize visits for specific groups to minimize interruptions to business. In line with the type of group (press, analysts, students, etc.), requests will be passed on to the appropriate department for consideration. Please contact us through 
 , stating the purpose of the visit, when you would like to come and the estimated size of the group.
 For all other locations, please call or email the appropriate regional office.
-Why is Cymer an independently operated business?
 acquired Cymer to accelerate the development of light sources. During the regulatory review of the acquisition, agreed to manage the light source business independently to maintain fair competition with other light source suppliers and continue to sell light sources to other scanner manufacturers.
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-In a nutshell
-Add to my favorites
+How we do it
 The Board of Management consists of six members:
-President and Chief Executive Officer
 Peter Wennink was appointed as President and on 1 July 2013.
 He joined in 1999 as Executive Vice President, Chief Financial Officer and member of the Board of Management.
 Mr. Wennink has an extensive background in finance and accounting. Prior to his employment with ASML, Mr. Wennink worked as a partner at Deloitte Accountants, specializing in the high technology industry with an emphasis on the semiconductor equipment industry.
 Mr. Wennink is a member of the Institute of Registered Accountants, a member of the supervisory board of the Eindhoven University of Technology and a member of the Advisory Board of the Investment Committee of Stichting Pensioenfonds (Dutch pension fund for government employees). Mr. Wennink further serves on the Board of the FME-(the employers' organization for the technology industry in the Netherlands).
-Martin van den Brink
-President and Chief Technology Officer
 Martin van den Brink was appointed President and on 1 July 2013.
 He joined when the company was founded in early 1984. He held several positions in engineering and, since 1995, Mr. Van den Brink served as Vice President Technology. In 1999 Mr. Van den Brink was appointed as Executive Vice President Marketing & Technology and as a member of ASML's Board of Management.
 Mr. Van den Brink has earned a degree in Electrical Engineering from Arnhem (University), and a degree in Physics (1984) from the University of Twente, the Netherlands. In 2012, he was awarded an honorary doctorate in physics by the University of Amsterdam, and in 2014 he was made a Knight of the Order of the Dutch Lion (Orde van de Nederlandse Leeuw).
 He received the 2014 Cledo Brunetti Award for contributions to nanotechnology, and was awarded the 2015 Robert Noyce Medal for exceptional contributions to the microelectronics industry.
-Frits  van Hout
 Executive Vice-President and Chief Strategy Officer
 Frits van Hout rejoined in early 2001 as Vice President Customer Support, having previously been with the company from its founding in 1984 through 1992. In this period Mr Van Hout held several positions in engineering, program management and sales. In 2008, he was appointed Executive Vice President Integral Efficiency and was appointed as member of ASML's Board of Management in 2009. After initially serving as Chief Marketing Officer, Mr. Van Hout was appointed Chief Program Officer in 2013.
 From 1998 to 2001 Mr Van Hout served as of the Beyeler Group, based in the and Germany, where he was responsible for its restructuring and regaining profitability. Before that, from 1992 to 1997, he was Director of Technical Operations and later Business Unit Manager at Datacolor International in Switzerland and the UK, responsible for the Textile and Printing markets.
 Mr. Van Hout earned a Master’s degree in Theoretical Physics (1981), University of Oxford; and a Master’s degree in Applied Physics (1984), Eidgenössische Technische Hochschule, Zürich.
-Mr. Van Hout is a member of the Board of the Stichting Brainport, the Eindhoven Region Economic Development Board.
 Executive Vice President and Chief Operations Officer
 Frederic Schneider-Maunoury joined in January 2010 as Executive Vice President and Chief Operating Officer, and was appointed as member of ASML's Board of Management after notification of the general meeting of shareholders held on March 24, 2010.
 Mr Schneider-Maunoury joined from French industrial and transport equipment group Alstom, where he was Vice President Thermal Products Manufacturing. Previously, he had operational responsibility at Turbo Machines Group and ran the Hydro Business as general manager. Before joining Alstom in 1996, Mr Schneider-Maunoury held various positions at the French Ministry of Trade and Industry.
-Mr. Schneider-Maunoury is a graduate of Ecole Polytechnique (1985) and Ecole Nationale Supérieure des Mines (1988) in Paris.
-Executive Vice President EUV
 Mr. Fouquet joined in 2008 and was appointed as Executive Vice President and member of the Board of Management in 2018. Mr. Fouquet has held several positions at the Company, including Executive Vice President Applications, which position he held from since 2013 until 2018. Prior to joining ASML, Mr. Fouquet worked at semiconductor equipment peers Tencor and Applied Materials.
-Executive Vice President and Chief Financial Officer (CFO)
 Roger Dassen joined in June 2018 as Executive Vice President and Chief Financial Officer, and was appointed as member of ASML's Board of Management after notification of the general meeting of shareholders held on April 23, 2018.
 Mr. Dassen joined from Deloitte Touche Tohmatsu Limited (DTTL) where he was the Global Vice Chairman, Risk, Regulatory, and Public Policy. In this capacity, he also served as the Global Chief Ethics Officer and a member of the Executive. Dassen is a former of Deloitte Netherlands. He was a Deloitte audit partner since 1996 and served as advisory partner and/or global for a number of the firm's largest clients.
 Mr. Dassen is professor of auditing at the Free University of Amsterdam. He has a master's degree in economics and business administration, and a Phin business and economics from the University of Maastricht.
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-In a nutshell
-Add to my favorites
-To enter an event into your Microsoft® Office Outlook® calendar, or receive a reminder of the event via email or text message, please click the appropriate link below.
-Show only the following type of events:
-Publication of 2018 Annual Reports
-Remind me
-Goldman Sachs Technology & Internet Conference 2019
-Presentation Tuesday, February 12 at 2:00pm PST
-Remind me
-Roger Dassen, CFO
-Remind me
-Daiwa Investment Conference
-Tokyo, Japan
-Remind me
-Remind me
-Remind me
-Remind me
-Remind me
-Annual General Meeting of Shareholders 2019
-Morgan Conference 2019
-Boston, USA
-Remind me
-Remind me
-Remind me
-Remind me
-Global Technology Conference
-Remind me
-Stifel Cross Sector Insight Conference
-Boston, USA
-Remind me
-Remind me
-Technology Leadership Forum 
-Vail, CO, USA
-Remind me
-Jeffries Investor Day 2019
-Remind me
-Mizuho Investment Conference 2019
-Tokyo, Japan
-Remind me
-Citi Global Tech Conference
-Remind me
-Credit Suisse Asian Investment Conference 2019
-Remind me
-Remind me
-Scottsdale, AZ, USA
-Remind me
-Remind me
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
+How we do it
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-In a nutshell
-Add to my favorites
+How we do it
 Our customers include all of the world's leading chipmakers, like Intel, Samsung, and GlobalFoundries, who use our product portfolio to manufacture a wide range of semiconductor chips.
 The heart of ASML’s product portfolio is the semiconductor lithography system. The system works with a light source, which generates ultraviolet light. This light is projected through a blueprint (usually referred to as 
 ) of a geometric chip pattern. Optics reduce and focus the pattern onto a thin slice of silicon (the 
@@ -319,103 +116,39 @@ The heart of ASML’s product portfolio is the semiconductor lithography system.
 Our lithography system is a combination of high-tech hardware and advanced software, affording exact control over the shape and size of the chip patterns it creates. But to create today’s most advanced chips, the patterns and their margins for error are so small that it is no longer sufficient to look at the lithography system in isolation. That is why we enhance system performance and reliability with predictive algorithms (which optimize the blueprint of a chip for lithography) and with metrology (which measure and correct the chip manufacturing process on our systems in real-time). We call the integration of these optimizations for chip manufacturing ’Holistic Lithography’.
 Our main customer groups are makers of 
  can store and process large amounts of data on electronic products and are usually classed as volatile or non-volatile. Volatile memories typically lose stored information when power is removed, while non-volatile memories retain their information. The main type of volatile memory is known as (Dynamic Random Access Memory), a low-cost, high-capacity chip that provides electronics with memory to help process information. The main type of non-volatile memory chip is known as Flash, which is used to  store data on electronic devices. Both and Flash chips are made in dedicated memory factories. 
-Logic chips
  process information and are the brains of electronic devices. Chipmakers that design and manufacture logic chips are known as IDMs (Integrated Device Manufacturers). Contract manufacturers, known as foundries, produce chips on order for other companies.
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-In a nutshell
-Add to my favorites
+How we do it
 We set the bar high for everything we do, we trust in our abilities to reach our goals and we continuously improve ourselves, our products and processes in search of excellence.
 We persevere until we reach our goal. We get the job done because we feel a responsibility for the industry and for the communities in which we operate.
+We have a thirst for knowledge. 
 We are eager to learn new things and understand different perspectives. We make time to simplify what is complex, helping others to understand and contribute.
 We foster an environment where the best ideas can emerge. That means asking for and sharing opinions openly, respectfully and often.
 We measure what we do and use that data to improve our work. In our world of nanometers, details matter, so we make sure we dot our i’s and cross our t’s. We take smart risks to push our technology and business forward.
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-In a nutshell
-Add to my favorites
+How we do it
 In 1984, Philips and Advanced Semiconductor Materials International (ASMI) created a new company to develop lithography systems. Called ASML, we began our days inauspiciously, located in a wooden shed next to a Philips building in Eindhoven, the Netherlands. That same year we launched the 2000 stepper, our first system. By 1985 we grew to 100 employees and moved into futuristic-looking headquarters in nearby Veldhoven. In 1986 we brought the 2500 stepper to market. With its superior alignment technology, it helped to build the reputation of some of today’s leading semiconductor manufacturers. In the same year we established our very close partnership with lens manufacturer Carl Zeiss, which endures today. By 1988 we had begun to make in-roads in the Asian market, after Philips established a joint-venture foundry in Taiwan. In the United States we grew from a few employees to 84, spread over five locations. withdrew from the joint venture and was bought out by Philips.
 The 1990s: from helping hand to IPO
 In 1991, we launched what turned out to be our breakthrough platform, the 5500, which dramatically reduced manufacturing times for our customers. In 1995, Philips sold its remaining shares and became a fully independent public company, listed on the Amsterdam and stock exchanges. It brought in the capital to fuel our growth further. We expanded our production facilities in Veldhoven. In 2000, we acquired Silicon Valley Group and added Wilton, Connecticut as an R&and manufacturing location.
@@ -427,708 +160,250 @@ In 2010, we shipped the first prototype Extreme Ultraviolet (EUV) lithography to
 , the San Diego-based manufacturer of lithography light sources, to accelerate the development of We shipped the second generation system (NXE:3300) that year, with the third generation system (NXE:3350) following in 2015. lithography turned the corner in 2016, when customer began ordering our first production-ready  system NXE:3400 in batches. This system could manufacture 125 wafers per hour. 
 Next to EUV, we continued to improve the performance of our immersion lithography systems. The NXT1970Ci and NXT1980Di, the work horses of the chip industry, were installed in customer factories around the world.
 We expanded our Holistic Lithography portfolio in 2016 with the acquisition of Hermes Microvision (HMI), a leading supplier e-beam metrology tools. The joint and effort resulted in the first shipment of the e-beam pattern fidelity metrology system (ePfm5) in 2017. The e-beam metrology complements ASML’s fourth-generation YieldStar 375optical metrology system, which also first shipped in 2017.
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-In a nutshell
-Add to my favorites
+How we do it
+How we do it
+How we do it
 Innovation is rarely a straight line. We know it takes strong partnerships, multidisciplinary teamwork and a keen focus on how we can best help our customers. We believe that even the biggest challenge can be overcome by chipping away at it, if necessary with hundreds of people over years. We love the challenges that present themselves when pushing our technology to the next level. And then we persevere to get the job done. Together. 
 Open Innovation for better results
 The way we work together in our ecosystem of suppliers, partners and customers is something we call ‘Open Innovation’. We are proud of this form of collaboration, which is based on building mutual trust and managed self-interest. It is a belief that has shaped from its earliest years: we have always seen ourselves as architects and integrators, inspiring our partners to innovate on the cutting edge of engineering together, each in their own strength, all the while sharing risk and reward. Open Innovation expands the knowledge and skills of all partners involved, bringing technology to a higher level faster than any one partner could have done alone. 
-Sustained R&D, fast engineering cycles
 We innovate across our entire product portfolio at the same pace as our customers through large and sustained investment in research and development. To accelerate our product development, we engineer in parallel what may usually happen sequentially, all the while guarding the product’s reliability, manufacturability and serviceability. This enables us to get our innovations into the hands of chipmakers faster. We collaborate closely with chipmakers to understand how our technology best fits their needs, challenges and visions of the future. It is through this collaboration and trust that we can build for today and develop for tomorrow.
-Diversity fosters great ideas
 The whiteboard is our favorite forum. We sketch our ideas on them, and only the best ones stay put. To get to the best ideas, we question everything while keeping an open, curious mind. We know that a great idea can come from anyone, so we foster a melting pot of different backgrounds, talents and passions. We are proud of that diversity and we know that it makes us stronger. 
-We get the job done together
 We innovate as one team around the world. We have a strong sense of pride, shared purpose and foster a knowledge-based culture. These are the characteristics that enable us to push the boundaries of technology further and further.
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-In a nutshell
-Add to my favorites
+How we do it
 We are organized in three main business lines that reflect our entire product portfolio – Deep Ultraviolet (DUV) systems, Extreme Ultraviolet (EUV) systems and Applications. These business lines are supported by a number of business functions, such as Research, Sales, Operations and Sourcing. We are 
 always looking for people who will join us
  in the struggle for the best idea, the best solution, the best way forward.
-Development & Engineering
 More than 7,000 engineers – from fields as diverse as physics, robotics, chemistry and materials engineering – work together with one goal in mind: to create a better, faster and smarter lithography system that our customers can use to mass produce their next-generation semiconductor chips. 
-Click here for current vacancies in this department.
 Our system engineers are experienced and highly trained technical architects who oversee the early design of an entirely new system. 
-Click here for current vacancies in this department.
 smaller group of engineers work in Research, exploring future technologies and engineering options with the help of a large network of universities, research institutes and technology partners. 
-Click here for current vacancies in this department.
 Thousands of our engineers worldwide are dedicated to a simple goal: making sure that the lithography systems in our customers’ factories are up and running. In the field and in Global Support Centers on three continents, they aim to detect problems before they can impact production. If a system does go down, our specialists work together around the clock to get it back online as fast as possible. 
-Click here for current vacancies in this department.
-Strategic Sourcing
 Manufacturing a lithography system is a complex process. With thousands of parts, most of them made by suppliers, the Sourcing team manages long-term relationships, and ensures the parts arrive at our assembly sites on time, in the right quantities and according to technical and quality specifications. 
-Click here for current vacancies in this department.
 Our cleanroom is where the work really comes together and a lithography system is assembled, proving that speed and accuracy are not mutually exclusive. Customers want their systems fast, but for a tool to operate with nanometer accuracy, it must be assembled, adjusted and tested with diligence and care. 
-Click here for current vacancies in this department.
-Corporate Intellectual Property
 Innovation is our lifeblood. So protecting the inventions that make us successful is vital for our future success. has built up a strong portfolio of more than 10,000 patent rights. Patents preserve our R&investments and ensure freedom to operate, creating leverage to negotiate deals and vigorously defend lawsuits. 
-Click here for current vacancies in this department.
-Transport Planning and Control
 Shipping 100 tons of delicate lithography equipment halfway around the world in three fully loaded 747s – it’s all in a day’s work for Transport Planning and Control. The team not only arranges for the custom-made, air-conditioned containers holding the lithography systems to be transported by plane and truck, they also ensure the precious cargo is handled with care and not held up at customs. 
-Click here for current vacancies in this department.
 Cymer is an independently operated business within the group that develops, manufactures and services deep-ultraviolet (DUV) light sources. The product portfolio includes excimer lasers using argon fluoride (ArF) or krypton fluoride (KrF) gases to generate light in the deep-ultraviolet spectrum. These lasers generate the light that photolithography scanners use to image patterns on silicon wafers..
 For more information on Cymer light source products visit 
 San Diego-based Cymer was acquired by in 2013. At the time of the acquisition, Cymer was also at the forefront of researching and developing extreme-ultraviolet (EUV) light sources. These activities have been fully integrated into the organization and continue to be based at the San Diego site.
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-In a nutshell
-Add to my favorites
+How we do it
 Our vision is a world in which semiconductor technology is everywhere and helps to tackle society’s toughest challenges. 
 We contribute to this goal by creating products and services that let our customers define the patterns that integrated circuits are made of, and we continuously raise the capabilities of our products, enabling our customers to increase the value and reduce the cost of chips. 
 By helping to make chips cheaper and more powerful, we help to make semiconductor technology more attractive for a larger range of products and services, which in turn enables progress in fields such as healthcare, energy, mobility and entertainment.
 The invention of the integrated circuit (1958) is a pivotal moment in human history. Connecting miniaturized electronic components on a slab of silicon, this first semiconductor chip ignited a race for its better, cheaper and more powerful successors.
 We believe that semiconductor technology is a force for good. Without it, there would be no smartphones, internet or modern aviation to connect us, wherever and whoever we are. There would be no satellites to better understand our planet, and none of the medical technology that helps to diagnose and treat disease. 
 is a key player in the fast-paced industry that makes it all happen, as we are one of the world’s leading manufacturers of chip-making machines. We provide chipmakers with hardware, software and services to mass produce patterns on silicon, increasing the value of a chip while lowering its manufacturing cost. All of the world’s top chip companies are our customers, so chances are that every single day, you use semiconductor technology that was partly made on our machines.
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-In a nutshell
-In a nutshell
-Add to my favorites
-In a nutshell
+How we do it
 provides chipmakers with everything they need - hardware, software and services - to mass produce patterns on silicon, helping to increase the value and lower the cost of a chip. Our key technology is the lithography system, which brings together high-tech hardware and advanced software to control the chip manufacturing process down to the nanometer.
 All of the world’s top chipmakers like Samsung, Intel and use our technology, enabling the waves of innovation that help tackle the world’s toughest challenges.
 has 19,000 employees worldwide. We are headquartered in Veldhoven (The Netherlands) and have over 60 offices in 16 countries.
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting interest in (science, technology, engineering and mathematics) among school-aged children, the workforce of the future. “We’re All Nerds Now,” reads a  New York Times article  headline from back in 2014. “Never before has the boundary between geek culture and mainstream culture been so porous,” they continue. This is certainly still true today, perhaps even more so. The days of being considered socially awkward or even inferior as a nerd are over. Being a nerd is, frankly, cool.
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product portfolio, technology roadmaps and business opportunities — all the way to 2025. With lithography being at the very heart of the semiconductor industry, we have the advantage of longer-term visibility that others in the industry don’t have. Here are three key takeaways from the event. 1. Big trends fuel the semiconductor industry’s fast growth
-Introducing the ‘Digital Gold’ Hackathon for developers
 Software is what makes ASML’s hardware work. To us, software solutions are pure ‘digital gold’, and recently, we proved it. Earlier this month we brought 37 software developers of 24 different nationalities to our headquarters in Veldhoven to participate in ASML’s first hackathon. The hackathon participants were winners of a  coding challenge  that issued in August in collaboration with the tech platform Codility. In total, 1,295 people participated in the challenge. The prize: trip to the to participate in a two-day hackathon at our headquarters in Veldhoven.
-sets RECORDS™ title for the Smallest advertisement
 ASML’s lithography machines are used to create microchips on the nanometer scale (that’s a millionth of a millimeter), which in turn enables electronic devices to become cheaper, faster and more powerful. So, it may come as little surprise that has set the RECORDS™ title for the world’s smallest advertisement, created with one of our lithography machines. The world’s smallest advertisement has a surface area of 258 micrometers squared, measuring just 33.27 micrometers x 7.76 micrometers. It would easily be covered by a single strand of human hair, which are about 75 micrometers wide (one micrometer equals a thousandth of a millimeter).
 20 years of lithography innovation  acknowledged by European Patent Office
 The European Patent Office (EPO) recently recognized the groundbreaking R&undertaken by and its partners over the past 20 years. This article reflects on some of the most notable highlights and one extra-special ‘eureka moment’. Recognition of the innovation came in the form of the  European Inventor Award , Popular Prize 2018. It was presented by the to the two main team leaders at ASML, physicist Vadim Banine and engineer Erik Loopstra. The technology of (extreme ultraviolet) lithography is central to the next generation of systems that will be used to manufacture tomorrow’s microchips, and it represents a major advance in the continued miniaturization of these essential components.
-Fellows: giving technical experts the recognition they deserve
 If the prospect of becoming a manager doesn’t make you excited, don’t worry; there are other ways to advance your career. At ASML, people can steer clear of the ‘managerial’ track and choose the ‘expert’ or ‘project lead’ tracks instead. In this article, we highlight our two most recent Fellows, a title awarded to experts in our R&department who have made outstanding contributions to our technology.  Take a look at our technical job opportunities at  www.workingatasml.com . Moving forward in your career doesn’t always have to mean becoming a manager. Back in 2012, the Harvard Business Review published an article entitled “ Your Career Needs to Be Horizontal ”, which pointed out the fact that even then, though society has moved away from the traditional ‘career ladder’, most of us still assume that career success is vertical.
 Are you soft enough for the job? The future of soft skills in technology
 Think you can get away with merely having great ‘hard’ skills in a technical job? Think again. The evidence is adding up: soft skills are becoming  increasingly important  in the workplace. Thanks to accelerating technology, tasks that require hard skills are declining, making soft skills key differentiators for job candidates. Oxbridge Academy, a South African-based online college even goes so far as to claim that  hard skills are useless without soft skills . “While [technical skills] are the skills you’ll list on your CV, today’s employers seek more than this,” they explain.  Another article  relates, “It won’t matter how well you understand or can fix a pipe if no one can relate to you”. In a 2017  report , Deloitte Access Economics predicted that “soft skill intensive occupations will account for two-thirds of all jobs by 2030, compared to half of all jobs in 2000. The number of jobs in soft-skill intensive occupations is expected to grow at 2.5 times the rate of jobs in other occupations.” They cited technology, globalization, and demographic shifts that will change how businesses compete as reasons for this increase.
-Calculated risks and dedication paves path toward Fellowship
 High honor conferred to Anthony Yen, as one of many achievements in a long career driven toward realizing the volume introduction of lithography; important lessons for eager engineering graduates looking to chart a path toward success The first executive to earn the prestigious title of Fellow, Anthony (Tony) Yen spent more than 30 years driving toward the creation of ever-smaller integrated circuits.
-on the home stretch
 ASML’s decade-long, dogged pursuit of as the next-generation lithography technology was vindicated in early 2017, when reported customers had placed big batches of orders for systems. Billions of euros worth of orders for systems silenced the skeptics who for years had claimed would never be used to manufacture chips.
 The era of ‘Things’ is coming and our industry is enabling it
 In today’s connected world, semiconductor chips can help save energy in a  smart thermostat  for your home, are helping you drive  your car , and can reliably monitor your heart rate with  your watch . The ‘Internet of Things’ is expected to connect anywhere from  50 to 200 billion such devices  by 2020. Toni Mesquida Küsters (Senior Director Product Marketing at ASML) explains how these new applications of chip technology are enabled by mature lithography systems. The legendary inventor  Nikola Tesla  might have predicted the rise of the  Internet of Things  (IoT) in 1926 when he said, “When wireless is perfectly applied the whole earth will be converted into a  huge brain , which in fact it is, all things being particles of a real and rhythmic whole.”
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-Board of Management
 Corporate Responsibilty
-Board of Management
-Add to my favorites
-Board of Management
 ASML's Board of Management is charged with the management of ASML, which means among other things that it is responsible for setting and achieving ASML's objectives, strategy and policies, as well as for ASML's general affairs. The Board of Management is also responsible for the identification and management of the risks connected to ASML's business activities. 
 The Board of Management is accountable to the Supervisory Board and to the General Meeting of Shareholders for its management of ASML.
 detailed overview of the responsibilities and tasks of ASML's Board of Management, and all related subjects, is set forth in the Rules of Procedure of the Board of Management, which can be downloaded below.
 Rules of Procedure Board of Management
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-Board of Management
 Corporate Responsibilty
-Add to my favorites
 Holding is incorporated under Dutch law and has a two-tier board structure. Responsibility for the management of lies with the Board of Management; the Supervisory Board, composed of independent, non-executive members, in turn supervises and advises the members of the Board of Management in performing their management tasks.  More information on ASML’s legal regime and corporate structure can be found in ASML’s 20-under Item 6.C.—Board Practices.
-Annual Report on Form 20-F
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-Board of Management
 Corporate Responsibilty
 Corporate Responsibilty
-Add to my favorites
 Corporate Responsibilty
 For information about our Corporate Responsibility Policy and our Conflict Minerals Policy please consult the available policy documents below. For more information about our non financial performance please see our 
-Integrated Report 2017
-Conflict minerals report 2017
-Corporate Responsibility Policy
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-Board of Management
 Corporate Responsibilty
-Board of Management
-Add to my favorites
-Board of Management
 The Supervisory Board, upon recommendation by the Selection and Nomination Committee, appoints the members of the Board of Management, subject to notification to the Annual General Meeting of Shareholders (AGM).
 Members of the Board of Management are appointed for a maximum term of four years with possibility of re-appointment for consecutive four-year terms, in accordance with the Dutch Corporate Governance Code.
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-Board of Management
 Corporate Responsibilty
-Board of Management
-Add to my favorites
-Board of Management
-Composition Board of Management
 The Board of Management consists of six members:
-President and Chief Executive Officer
 Peter Wennink was appointed as President and on 1 July 2013.
 He joined in 1999 as Executive Vice President, Chief Financial Officer and member of the Board of Management.
 Mr. Wennink has an extensive background in finance and accounting. Prior to his employment with ASML, Mr. Wennink worked as a partner at Deloitte Accountants, specializing in the high technology industry with an emphasis on the semiconductor equipment industry.
 Mr. Wennink is a member of the Institute of Registered Accountants, a member of the supervisory board of the Eindhoven University of Technology and a member of the Advisory Board of the Investment Committee of Stichting Pensioenfonds (Dutch pension fund for government employees). Mr. Wennink further serves on the Board of the FME-(the employers' organization for the technology industry in the Netherlands).
-Martin van den Brink
-President and Chief Technology Officer
 Martin van den Brink was appointed President and on 1 July 2013.
 He joined when the company was founded in early 1984. He held several positions in engineering and, since 1995, Mr. Van den Brink served as Vice President Technology. In 1999 Mr. Van den Brink was appointed as Executive Vice President Marketing & Technology and as a member of ASML's Board of Management.
 Mr. Van den Brink has earned a degree in Electrical Engineering from Arnhem (University), and a degree in Physics (1984) from the University of Twente, the Netherlands. In 2012, he was awarded an honorary doctorate in physics by the University of Amsterdam, and in 2014 he was made a Knight of the Order of the Dutch Lion (Orde van de Nederlandse Leeuw).
 He received the 2014 Cledo Brunetti Award for contributions to nanotechnology, and was awarded the 2015 Robert Noyce Medal for exceptional contributions to the microelectronics industry.
-Frits  van Hout
 Executive Vice-President and Chief Strategy Officer
 Frits van Hout rejoined in early 2001 as Vice President Customer Support, having previously been with the company from its founding in 1984 through 1992. In this period Mr Van Hout held several positions in engineering, program management and sales. In 2008, he was appointed Executive Vice President Integral Efficiency and was appointed as member of ASML's Board of Management in 2009. After initially serving as Chief Marketing Officer, Mr. Van Hout was appointed Chief Program Officer in 2013.
 From 1998 to 2001 Mr Van Hout served as of the Beyeler Group, based in the and Germany, where he was responsible for its restructuring and regaining profitability. Before that, from 1992 to 1997, he was Director of Technical Operations and later Business Unit Manager at Datacolor International in Switzerland and the UK, responsible for the Textile and Printing markets.
 Mr. Van Hout earned a Master’s degree in Theoretical Physics (1981), University of Oxford; and a Master’s degree in Applied Physics (1984), Eidgenössische Technische Hochschule, Zürich.
-Mr. Van Hout is a member of the Board of the Stichting Brainport, the Eindhoven Region Economic Development Board.
 Executive Vice President and Chief Operations Officer
 Frederic Schneider-Maunoury joined in January 2010 as Executive Vice President and Chief Operating Officer, and was appointed as member of ASML's Board of Management after notification of the general meeting of shareholders held on March 24, 2010.
 Mr Schneider-Maunoury joined from French industrial and transport equipment group Alstom, where he was Vice President Thermal Products Manufacturing. Previously, he had operational responsibility at Turbo Machines Group and ran the Hydro Business as general manager. Before joining Alstom in 1996, Mr Schneider-Maunoury held various positions at the French Ministry of Trade and Industry.
-Mr. Schneider-Maunoury is a graduate of Ecole Polytechnique (1985) and Ecole Nationale Supérieure des Mines (1988) in Paris.
-Executive Vice President EUV
 Mr. Fouquet joined in 2008 and was appointed as Executive Vice President and member of the Board of Management in 2018. Mr. Fouquet has held several positions at the Company, including Executive Vice President Applications, which position he held from since 2013 until 2018. Prior to joining ASML, Mr. Fouquet worked at semiconductor equipment peers Tencor and Applied Materials.
-Executive Vice President and Chief Financial Officer (CFO)
 Roger Dassen joined in June 2018 as Executive Vice President and Chief Financial Officer, and was appointed as member of ASML's Board of Management after notification of the general meeting of shareholders held on April 23, 2018.
 Mr. Dassen joined from Deloitte Touche Tohmatsu Limited (DTTL) where he was the Global Vice Chairman, Risk, Regulatory, and Public Policy. In this capacity, he also served as the Global Chief Ethics Officer and a member of the Executive. Dassen is a former of Deloitte Netherlands. He was a Deloitte audit partner since 1996 and served as advisory partner and/or global for a number of the firm's largest clients.
 Mr. Dassen is professor of auditing at the Free University of Amsterdam. He has a master's degree in economics and business administration, and a Phin business and economics from the University of Maastricht.
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-Board of Management
 Corporate Responsibilty
-Board of Management
-Add to my favorites
-Board of Management
 The Supervisory Board, upon recommendation by the Remuneration Committee, determines the remuneration of the members of the Board of Management. The remuneration is determined in accordance with the Remuneration Policy adopted by ASML’s on April 26, 2017.
 For more information on the Board of Management’s remuneration, see ASML’s Remuneration Policy and the latest version of the Remuneration Report as included in the Supervisory Board Report, which can be downloaded below.
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-Board of Management
 Corporate Responsibilty
-Board of Management
-Add to my favorites
-Board of Management
 According to Dutch law, members of ASML’s Board of Management are required to notify the Dutch Authority Financial Markets (‘AFM’) of Financial Instruments held by or on behalf of them, as well as any transactions in such holdings done by or on behalf of them. The publishes all reported transactions on its website, see the link below. To find transactions concluded by members of the Board of Management, please search for ‘ASML’ or the name of the relevant person.
 The Remuneration Report as included in Integrated Report and as published the the Board of Management Remuneration section also contains information about Securities held by Board of Management members.
 The members of ASML’s Board of Management are bound by ASML’s Insider Trading Rules.
 Integrated Report 2017 based on GAAP
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter
-Show allAdvanced Search
-In a nutshell
+How we do it
 is one of the world’s leading manufacturers of chip-making equipment. Headquartered in Veldhoven, the Netherlands, employs more than 21,000 people.
-System Enhancements
-Application Programs and Products
-Images Customer Magazine
 What does lithography have in common with samurai swords? Read about some of the highlights of 20 years of lithography innovation at ASML, recognized by a special award from the European Patent Office.
-Board of Management
-Speak Up Policy
-Code of Conduct for Suppliers
 Corporate Responsibilty
-Supervisory Board Committees
-Articles of Association
 endorses the importance of good corporate governance, of which independence, accountability and transparency are the most significant elements.
-Board of Management
 Corporate Responsibilty
-Board of Management
-Add to my favorites
-Board of Management
 has a Disclosure Committee to ensure compliance with applicable disclosure requirements arising under United States and Dutch law. The Disclosure Committee reports to and assists our Chief Executive Officer and Chief Financial Officer in the maintenance and evaluation of disclosure controls and procedures. The Audit Committee is kept informed about the outcome of Disclosure Committee meetings. The Disclosure Committee gathers all relevant financial and non-financial information and assesses materiality, timeliness and necessity for disclosure of such information. The Disclosure Committee comprises various members of senior management.
 More information on the Disclosure Committee can be found in ASML's Integrated Report.
 Integrated Report 2017 based on GAAP
-look into ASML’s cleanroom
-look into ASML’s cleanroom
-Kids, tech is cool.
 Society is facing an approaching global talent shortage as the job market struggles to keep up with the ever-increasing prevalence of technology. Tech companies play an important role in promoting…
 Three key takeaways from ASML’s Investor Day 2018
 On Thursday November 8, 2018, investors and financial analysts from around the world gathered at our headquarters in the to get an update from our executives about ASML’s product…
-customer co-investment program
-customer co-investment program
-Share Buyback
-Form 8937
-customer co-investment program
-customer co-investment program
-Working at FAQ
-Vacancies
-Working at Business Areas
-Vacancies
-United States
-Customer Training Centers
-In a nutshell
-Share Buyback
-Form 8937
-Images Customer Magazine
-System Enhancements
-Board of Management
+EUV: Questions and answers
+EUV: Questions and answers
+How we do it
 Corporate Responsibilty
-Working at Business Areas
-Vacancies
-Add to my favorites
-Share on Twitter

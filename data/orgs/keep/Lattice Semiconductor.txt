@@ -1,210 +1,21 @@
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
-Low-Power, On-Device AI
- Programmable Logic
-Always-on Key Phrase Detection
-Single Wire Aggregation
-Development with iCE40 UltraPlus Gets Easier
-iCE40 UltraPlus breakout board
 . This easy-to-use, low cost board for evaluation and development enables you to reach a new level of capability. Available for only $49.
 Limited Time Offer: Embedded Vision Development Kit available for $199
-Discover Proven Human Presence Simplified
 Appoints Mark Nelson as Corporate Vice President ... 
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
 (NASDAQ: LSCC) provides smart connectivity solutions powered by our low power FPGA, video and products to the consumer, communications, industrial, computing, and automotive markets worldwide. Our unwavering commitment to our customers enables them to accelerate their innovation, creating an ever better and more connected world.
-Corporate Management
-Corporate Social Responsibility
-Portland, - Corporate Headquarters
 Portland, the "City of Roses", is home to over 1.9 million people and is one of the fastest growing cities in the United States. It is located just an hour from the beautiful Oregon coast and picturesque Cascade ski resorts.
-7th Floor, 111 5th Avenue, Portland 97204
-Oregon - Development Center
-5555 Moore Ct, Hillsboro, 97124 
-Shanghai - Development Center
 Serving as the largest base of Chinese industrial technology, the important seaport and China's largest commercial and financial center, Shanghai draws the attention of the whole world.
-Building 17, No. 1036 Tianlin Road
-Minhang District, Shanghai, 200233 China 
-Manila - Operations Center
 With its protected harbor, Manila serves as the main seaport of the Philippines, as the Port of Manila is one of the busiest in the world. Diverse manufacturers produce a wide variety of products such as electronic goods, textiles, and clothing.
-Silicon Valley - Development Center
 Known as the "Capital of Silicon Valley", San Jose is California's oldest civil settlement. Historic and high-tech, San Jose offers many interesting activities; world-class cultural arts, professional sports, theme parks, wineries, parks and gardens.
 Singapore has the full value chain of activities including 40 integrated circuit design houses, 14 silicon wafer fabrication plants and 20 outsourced assembly and test facilities.
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
 Join The Best & Brightest In The Industry
 Join Team and help us remove roadblocks to innovation and create a smarter, better-connected world. Together we can enable what’s next. 
 We are a global company. But more than that, we are a worldwide community of engineers, designers, and manufacturing operations specialists who in partnership with world-class sales, marketing and support teams are removing roadblocks to our customers’ innovations and enabling them to bring their ideas and products to market faster. 
@@ -216,823 +27,192 @@ is uniquely sized to offer you the opportunity to grow and push the limits of yo
 Think you might have what it takes to succeed at Lattice? Click on View Opportunities to see what roles we are currently hiring. 
 Working at definitely has its perks.
 We are located across the globe. Discover what each of our sites has to offer.
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
-Wearables
-Head Mounted Displays
-Comms & Computing
-Data Center Systems
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
-Type-Port Controllers
-Mature & Discontinued Devices
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Europe Africa Sales
-Software, Cables, & Boards
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Board Of Directors
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
 Interested in reading more about and its products? Check out the latest industry articles on our “
-sensSolutions Stack Wins Hot 100 Product Award
-January 30, 2019-Products
-PORTLAND, - January 30, 2019 - (NASDAQ: LSCC), a leading provider of customizable smart connectivity solutions, today announced the company's popular sensAI™ solutions stack was named an Magazine Hot 100 Product of 2018.
 to Host the Vision Industry and Technology Forum – Presented by the Embedded Vision Alliance
-January 28, 2019-Products
 (NASDAQ: LSCC) today announced that as part of its investment in smart vision systems, it will host the upcoming Vision Industry and Technology Forum, a quarterly invitation-only event presented by the Embedded Vision Alliance®.
-Schedules Fourth Quarter and Full Year 2018 Results Conference Call
-January 22, 2019-Financial
 (NASDAQ: LSCC), a leading provider of programmable logic devices, announced that it will hold its fourth quarter and full year 2018 conference call on Tuesday, February 12, 2019. Jim Anderson, President and Chief Executive Officer, and Sherri Luther, Chief Financial Officer, will discuss Semiconductor’s financial results and business outlook.
 Appoints Mark Nelson as Corporate Vice President of Worldwide Sales
-January 08, 2019-Corporate
 (NASDAQ:LSCC), a leading provider of programmable logic devices, announced the appointment of Mark Nelson as the company’s Corporate Vice President of Worldwide Sales, effective immediately.
 Etron to Showcase and & Etron DRAM™ Interoperability at 2019
-January 07, 2019-Products
 January 7, 2019, Las Vegas: Etron will demonstrate interoperability of the EPC5 solution and Etron DRAM, laying the groundwork for a miniaturized Endpoint subsystem suitable for high volume, form factor constrained applications, at the Etron booth during 2019. 
 Appoints Sherri Luther as Chief Financial Officer
-January 02, 2019-Corporate
 PORTLAND, Ore.--(WIRE)--Jan. 2, 2019-- (NASDAQ:LSCC), a leading provider of customizable smart connectivity solutions, announced the appointment of Sherri Luther as the Company’s Chief Financial Offer, effective immediately. 
-Appoints Glenn O'Rourke as Corporate VP, Global Operations
-PORTLAND, Ore.--(WIRE)--Dec. 11, 2018-- (NASDAQ: LSCC), a leading provider of customizable smart connectivity solutions, announced the appointment of Glenn O’Rourke as the Company’s Corporate Vice President, Global Operations, effective immediately.
 Visit to learn about ultra-low power implementations of RISC-processor based on the iCE40 UltraPlus FPGA.
-Industry Executive  Esam Elashmawi joins Silicon Catalyst Board
-Silicon Valley, (November 8, 2018) – Silicon Catalyst, the world’s only startup incubator focused exclusively on solutions in silicon, announced today that Esam Elashmawi, Chief Marketing and Strategy Officer of (NASDAQ: LSCC), has been appointed to its Board of Directors.
-See sensOn-Device Solutions at 2018
 Meet with to discover the senssolution for always-on, on-device in smart factory, auto, city and home applications. See demos of reference designs for human presence detection, human gesture detection, and face tracking detection using our small form factor, low power FPGAs enabling intelligence at the Edge.
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Our Privacy Policy  explains how we collect and use information from and about you when you visit our website, create an account with us, or otherwise interact with us. This policy explains more about how we use cookies and your choices concerning cookies.
 Like most websites, we use cookies and similar technologies to remember things about you so that we can provide you with a better experience.  We may use the following technologies:
 Cookies are small data files stored on your browser or device. They may be served by the entity that operates the website you are visiting (“first-party cookies”) or by other companies (“third-party cookies”). For example, we partner with third-party analytics providers, like Google, which sets cookies when you visit our websites. This helps us understand how you are using our services so that we can improve them.
-Local storage allows data to be stored locally on your browser or device and includes HTML5 local storage and browser cache.
 SDKs are blocks of code provided by partners that may be installed in mobile applications. SDKs help us understand how you interact with mobile applications and collect certain information about the device and network you use to access the application.
 We use cookies for a number of reasons, like helping us see which features are most popular, counting visitors to a page, improving our users’ experience, keeping our services secure, and generally providing you with a better experience. The cookies we use generally fall into one of the following categories.
-For example, we may use these cookies to remember your language preferences.
-We use these cookies to help identify and prevent security risks.
 We use these cookies to collect information about how you interact with our services and to help us improve them.
 For example, we may use these cookies to determine if you have interacted with a certain page.
+We use these cookies to help us understand improve our services.
 For example, we can use these cookies to learn more about which features are the most popular with our users and where we may need to make improvements.
 We and our advertising partners use these cookies to deliver advertisements, to make them more relevant and meaningful to visitors to our website, and to track the efficiency of our advertising campaigns, both on our services and on other websites.
-For a full list of the cookies we deploy on our website and the categories they fall into, please click this link .
-Device IDs:  If you access our website using a mobile device, the advertising identifier associated with your device or other identifiers may be recorded and used for purposes similar to those of cookies.  We do not use cookies to identify or record a device location.
 You have a number of options to control or limit how we and our partners use cookies and similar technologies, including for advertising.
-Although most browsers and devices accept cookies by default, their settings usually allow you to clear or decline cookies. If you disable cookies, however, some of the features of our services may not function properly.
 To prevent your data from being used by Google Analytics, you can install Google’s opt-out browser add-on.
 For information on how our advertising partners allow you to opt out of receiving ads based on your web browsing history, please visit http://optout.aboutads.info/. European users may opt out of receiving targeted advertising through the European Interactive Digital Advertising Alliance.
 To opt out of ads on Facebook, Baidu, or Google that are targeted to your interests, use your Facebook, Baidu, or Google Ads settings.  To opt out of ads on other services, please use the settings for those services.
 Check your mobile device for settings that control ads based on your interactions with the applications on your device. For example, on your idevice, enable the “Limit Ad Tracking” setting, and on your Android device, enable the “Opt out of Ads Personalization” setting.
 Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our Cookie Policy .This website contains software files, documentation, and other information pertaining to the products and services of ("Lattice"). This documentation is provided as a courtesy to customers, potential customers, and other persons and entities with bona fide commercial relationships with Lattice. By accessing, downloading, or otherwise using any data from this website, you agree to be bound by the terms and conditions described in this Notice and in our Privacy Policy .
-License to Use Information
-You are licensed to download and copy documentation, software, and other materials from this website conditioned upon your agreement to and compliance with the following terms and conditions.
 You agree that you are not an individual, or an individual employed by or otherwise associated with an entity, identified on the Department of Commerce's Denied Persons, Unverified or Entity Lists, the Department of Treasury's Specially Designated Nationals Lists, or the Department of State's Debarred Parties List, and you are not otherwise ineligible to receive items under applicable export control laws and regulations. You may use the materials for informational purposes only.
 You may distribute copies of the information at this website only to customers and potential customers of Lattice, and only free of charge and in compliance with all applicable export control laws and regulations. Any other distribution is prohibited without the prior written consent of Lattice. You may not use the information in any way that may be adverse to Lattice's interests.
-You may use any software provided on this website provided that you agree to be bound by the terms and conditions of the software license agreement(s) accompanying such software. You may not modify, reverse engineer, or disassemble any of the software, except as expressly permitted by the terms of the license agreement for such software.
 Failure to comply with these terms and conditions will terminate the limited license granted herein.
 Nothing contained in this Notice is to be construed as conferring by implication, estoppel, or any other legal theory, a license or right to any patent, trademark, copyright, or other intellectual property right, except those expressly provided herein. The products, processes, software, and other technology described at this website may be the subject of other intellectual property rights owned by or by third parties, and no licenses thereto are granted herein.
 If you purchase products directly from from this website, in the absence of a written agreement executed by a duly authorized party from Lattice, the following terms and conditions shall apply as between you, the Buyer, and Lattice, the Seller:
-WARRANTIES: "IS" ACCURACY, COMPLETENESS, MERCHANTABILITY, PROPERTY, (DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, INCLUDING, LIMITATION, PROFITS, INTERRUPTION, INFORMATION) SITE, LIABILITY, YOU.
 RIGHTS: The software and any accompanying documentation provided to agencies of the Government are "commercial computer software" and "commercial computer software documentation" pursuant to 227.7202 and 12.212, and their successors. All use, reproduction, release, performance, display or disclosure of the software and related documentation by or for the Government shall be in strict accordance with the terms and conditions of this Notice. Use of the documentation, materials, or information by the Government constitutes acknowledgement of Lattice's proprietary rights in them.
 may make changes to these materials, specifications, or information, or to the products described herein, at any time without notice. makes no commitment to update this documentation. reserves the right to discontinue any product or service without notice and assumes no obligation to correct any errors contained herein or to advise any user of this document of any correction if such be made. recommends its customers obtain the latest version of the relevant information to establish, before ordering, that the information being relied upon is current.
 warrants performance of its products to current and applicable specifications in accordance with Lattice's standard warranty. Testing and other quality control procedures are performed to the extent deems necessary. Specific testing of all parameters of each product is not necessarily performed, unless mandated by government requirements.
 assumes no liability for applications assistance, customer's product design, software performance, or infringements of intellectual property rights arising from the use of the products and services described herein.
 products are not designed, intended, authorized, or warranted for use as components in systems intended for surgical implant in the body, or in other applications intended to support or sustain life, or in any other application in which the failure of Lattice's product could create a situation where personal injury, death, or severe property or environmental damage may occur. Inclusion of products in such applications is prohibited.
-The documentation, software, and other materials contained at this website are owned and copyrighted by or its affiliates. Copyright © 1995-2018 Corporation, 111 5th Avenue, Suite 700, Portland, Oregon 97204, All rights reserved.
-Corporation, (design), (logo), (stylized), (design), (design), LSC, Crosslink, Atlanta, CleanClock, Custom Mobile Device, DiePlus, E2CMOS, ECP5, PERFORMANCE, FlashBAK, FlexiClock, flexiFLASH, flexiMAC, flexiPCS, FreedomChip, GAL, GDX, Generic Array Logic, GigaRay, Explorer, iCEblink, iDice, iCE40,ICE40 Ultra, iCE40 Ultra Lite, iCE40 UltraPlus, iCE5, iCE65, iCEcable, iCEchip, iCEcube, iCEcube2, iCEman, iCEprog, iCEsab, iCEsocket, IPexpress, ISP, ispATE, ispClock, ispDOWNLOAD, ispGAL, ispGDS, ispGDX, ispGDXV, ispGDX2, ispGENERATOR, ispJTAG, ispLEVER, ispLeverCORE, ispLSI, ispMACH, ispPAC, ispTRACY, ispTURBO, ispMACHINE, ispVM, ispXP, ispXPGA, ispXPLD, Diamond, LatticeCORE, LatticeEC, LatticeECP2, LatticeECP2M, LatticeECP, LatticeECP3, LatticeECP4, LatticeECP-DSP, LatticeMico, LatticeMico8, LatticeMico32, LatticeSC, LatticeSCM, LatticeXP, LatticeXP2, MACH, MachXO, MachXO2, MachXO3, MachXO3H, MachXO3L, MACO, mobileFPGA, ORCA, PAC, PAC-Designer, PAL, Performance Analyst, Platform Manager, ProcessorPM, PURESPEED, Radiant, Reveal, SensorExtender, SiliconBlue, the logo, the logo, Silicon Image, the Silicon Image logo, Speedlocked, Speed Locking, SuperBIG, SuperCOOL, SuperFAST, SuperWIDE, sysCLOCK, sysCONFIG, sysDSP, sysHSI, sysI/O, sysMEM, TMDS, The Simple Machine for Complex Design, TraceID, TransFR, UltraMOS, Instaport, the Instaport logo, InstaPrevue, SiBEAM, Si(and design), SiSnap, the SiSnap logo, UltraGig, the UltraGig logo, MHL, SuperMHL, Superand design, the logo with Mobile High-Definition Link, WirelessHD, the Wirelesslogo, Wiand the Wilogo and specific product designations are either registered trademarks or trademarks of or its subsidiaries in the United States and/or other countries. ISP, Bringing the Best Together and More of the Best are service marks of Corporation.
 NOTICE: Other product names used in this publication are for identification purposes only and may be trademarks of their respective companies.
 The products of are covered by one or more of the following patents:
-ispClock5400D
-Power Manager II
-Diamond Software/Radiant Software
 does not represent that products described herein are free from patent infringement or from any third-party right.
 This legal notice is updated from time to time and users are advised to check the most current notice as posted at this URL.
-Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our Cookie Policy .Applications
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
 Employee Perks To Ensure Your Life Is As Satisfying As Your Work
-Taking Care of Our Team 
 At we aim for optimal health and well-being. Our benefits and wellness philosophy encourages a culture of wellness because our success depends on all of us being at our best. We offer competitive benefits packages including:
-Flexible Savings (FSA) & Health Savings Accounts (HSA)
-Sick Leave
-Reward & Recognition Program
-Employee Assistance Plan (EAP)
-Please note that benefits vary by geography.
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
-Raises the Bar on Low Power AI
 Low-Cost, Low-Power on the Edge
 Board Moves Vision-System Processing Up Front
-Adds Snap 60GHz Modules
 Bridging Machine Learning's Divide
 Change Is In The Air - 60 GHz Infrastructure Boosted By Regulatory Reform
-January 19, 2018
 Predictions: Manufacturing, Devices And Companies
-SemiEngineering
-January 11, 2018
-Machine Learning's Growing Divide
-SemiEngineering
-January 11, 2018
-Press Heralds Semi’s Move to FD-SOI
-Advanced Substrate News 
-Like Fiber in the Sky
 60GHz Modules Allow Beam Steering
 License-Free 60GHz Radio For Gigabit-Class Wireless Infrastructures
 Modules ease 60GHz point-to-point comms
-Lives on the Edge
-New Bridging Capabilities Address Needs of Mobile-Influenced Markets
 Sensing Big Opportunities in IoT
-World India
-Glen Hawk from Semi talks about Edge Computing
 Distributed Solution for Reduced Server Cost and Increased Flexibility
-Enables Low-Latency Concurrent Sensor Processing
-September 19, 2017
-Next-Gen SteamHardware Will Process Tracking Data On Board
-Tom’s Hardware
-September 18, 2017
 Enabling Machine Learning At The Edge
-Smart Connectivity Solutions Enable Seamless and Immersive AR/Experiences
 Cores Feature Building Blocks For Creation Of Unique Video Bridging Applications
-Microcontroller Tips
-Modular Cores Ease Video Bridging
 Implementation Of Artificial Neural Networks At The Edge
 - 30+ Years of Providing Energy-Efficient, Cost-Effective Solutions That Enable Innovation at the Edge
-Reference Designs Span Security, Crypto, Machine Learning
-60 GHz Wireless SiTechnology Transmits Blu-ray Quality Video
 Enables Energy-efficient Embedded Vision Processing at the Edge
-Flaherty Publishing
-Video Interview - on Smart Connectivity Advances
 Chipmakers Get Ready for Primetime
 Expands CrossLink Programmable (pASSP) Solutions
-February 22, 2017
-R&Delivers 2.0 460Hz 4:4:4 HDBase100m Extender Over Single Cat5e Cable With Support
-February 10, 2017
-Reference Design Transmits Ultra-At 18Gbit/s
 Abdullah Raouf of Semi on their Embedded Technology
-Power Systems Design
 And Partner To Integrate WirelessTech Into Vive Add-On Kit
-UploadVR
-January 27, 2017
-Abdullah Raouf of on Their Latest Low-power FPGAs, IC3, and iCE40 UltraPlus
-Power Systems Design
 2.1 To Bring Robust Home Theater Experience
-January 19, 2017
-Using FPGAs in Mobile Heterogeneous Computing Architectures
 Expert - 2017 In The Rear View Mirror
-Introduces iCE40 UltraPlus High-performance Low-power FPGAs
-iCE40 UltraPlus The New Tiniest Mightiest FPGA
-40nm Technology Reinvigorated
-Just Announced iCE40 UltraPlus
-World
 Low-Power Configurability Can Be Had For Mobile And IoEdge Devices
-Embedded Computing
 FPGAs Take On Multi-Sensor Signal Processing At IoEdge Nodes
 FPGAs Increase Memory And For Always-On IoDesign
-Gives iCE40 More Power, I/And Memory
 Expands iCE40 Range, Targets Sensor Aggregation
 Time for a New Approach to Video Bridging
 and Surgical Imaging Partner on 60 GHz for Medical Devices
-Q&A: Exploring Millimeter Waves for a New Breed of Devices
+to be Acquired for $1.3 Billion
 Diverse Set of Applications Shows the Versatility of the 60 GHz Band 
 Epson Offers Up Five Video Projectors With 4Enhancement And HDR
-TWi(This Week in Tech) Live Specials 296 - Intel Developer Forum 2016 
 FPGAs Solve Challenges at the Core of IoImplementation
-Q&A: Addressing the Video Interface Divide
 Comparing CPLD-Based Circuit Board Power Management Architectures
 Gigabit Wireless: 60 GHz is the Next Frontier
-Elettronica Plus
 Video Bridging Solution Promises New Level of Design Flexibility and Innovation
-Programmable (pASSP) I/Bridge for Mobile Image Sensors & Displays
 - Low Cost Video Interface Bridge with High Bandwidth, Low Power and Small Footprint
-Video Interface Bridge Target Mobile
 First Programmable (pASSP) Interface Bridge
 The World's Best Multiplexer - CrossLink pFits into the Odd Spaces in New Designs
 Programmable Interface Bridge for Mobile Image Sensors and Displays
-This Programmable Can Bridge Those Interface Gaps
-Programmable (pASSP) Interface Bridge
 Programmable Bridging Device Resolves Interface Mismatches
-Programmable Interface Bridge for Mobile Image Sensors
 Video Bridging Solution Promises New Level of Design Flexibility and Innovation
-Bridge Brings Mobile Display Interfaces to Industrial Apps
-Announces pInterface Bridge for Mobile Image Sensors and Displays
 Programmable Video Bridge Said to Be First in "New Product Category"
-superMHL: Bringing Connectivity Home
-Electronics Components World
 Blending Type-with MHL
 and MediaTek Want to Drive 4Video over Type-C
-Will superReplace HDMI?
 and Mediatek Announce superSmartphone Reference Designs Supporting 4over USB-C
-Making Mobile Video Move: Bolsters Type-Solutions
-Power Efficient 4Video Solution over Type-C
 and MediaTek to Collaborate on Reference Smartphones for Superover USB-C
-USB-Moves Amazing 4Video from Phone to TVs
 and MediaTek Deliver Reference Designs for 4Type-C
-Embedded Computing
-Companies Deliver Power Efficient 4Video Solution over type-C
 4Rides USB-for Handsets
 The Humble Type-Connector Can Deliver Amazing 4Video to Screens
 The That Can Finally Handle 4K: Type-for Video Transfer from Phones and Other Devices
-MediaTek Uses Chipset to Drive 4Video in Smartphones
-Solving the Wireless Bandwidth Crunch with 60 GHz Millimeter-Wave Technologies
-February 22, 2016
 Comparing CPLD-Based Circuit Board Power Management Architectures
 Researchers Use Software-Defined Radio for Testing Millimeter-Wave Antennas
-Microwaves and RF
 Why That Crazy-Fast Home Internet Replacement May Be too Good to be True
-Test-bed Will Accelerate Ultrafast 5Implementation
-SiBEAM, NI, Join 5mmWave Exploratory Study
-Open Source Test-bed for Ultra-fast 5G: in the Making
-Wireless Spearheads New Testbed for mmWave Spectrum
-FierceWirelessTech
-Wins Grant to Build mmWave Testbed
-January 19, 2016
 2016 in the Rear View Mirror
-The Peggy Smedley Show
 Qualcomm Quick Charge Now Supported by the Flexible Charging Controller
 The lois a Thing, But What is it Really?
 Q&A: What You Need to Know About Type-C
-Lattice’s Flexible Charging Controller Supports Qualcomm Quick Charge
-Battery Power Magazine
-Expands Type-Product Range
 superChips Arrive on the Scene
 Brings superCompatibility to 3.1 Type-C
-Will the World Coalesce Around Type-C?
 Outs Pair of superChipsets, Hopes to Enable Easier Implementation
-Tom’s Hardware
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
-Using eto Easily Enable Theater Quality Surround Sound
-Higher bandwidth – 37of audio that supports all audio formats
 Full home theater experience with the simplicity of operating a set
-Future proof receivers against changes in video standards
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 This demonstration takes the output from four fish-eye cameras and performs de-warping, white balance correction, and image stitching. The demonstration also enables the user to provides different views.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 This demonstration identifies and tracks a human face. The inferencing is done using Convolutional Neural Networks implemented in the Embedded Vision Development Kit’s ECP5 Power consumption is less than 1W.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
-Human Presence Detection Using ECP5 and CNNs | sensAI
 This demonstration processes video images and identifies the presence of a human. The inferencing is done using Convolutional Neural Networks implemented in the Embedded Vision Development Kit’s ECP5 Power consumption is less than 1W.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
-Object Counting Using ECP5 and CNNs | sensAI
 This demonstration tallies apples and oranges to demonstrate object counting. The inferencing is done using eight Convolutional Neural Networks implemented in the Embedded Vision Development Kit’s ECP5 Power consumption is less than 1W.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 This demonstration looks for speed limit signs and interprets what is on the sign. The inferencing is done using Convolutional Neural Networks implemented in the Embedded Vision Development Kit’s ECP5 Power consumption is less than 1W.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 Fast Prototyping for Embedded Vision Applications
 Learn how easy it is mix and match multiple I/types with the modular platform.
-Input options: HDMI, DisplayPort, Dual Sensor
-Output options: HDMI, DisplayPort, USB3-GbE
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 The full-featured sensstack includes modular hardware platforms, neural network cores, software tools, reference designs, and custom design services from eco-system partners.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 Using CrossLink to implement a to bridge
 This video shows how you can use Lattice's CrossLink device to implement a to bridge.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
-Benefits of Wireless Tech in VR
 Learn how Lattice's 60 GHz Wirelesstechnology can take your experience to the next level.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 Always-on Computing Demos from From always-on cameras with processing at the edge and the cloud to always-on displays and face detection, our FPGA-based solutions have you covered.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 Using CrossLink for 360 Surround View Applications
 Taking a simple camera and converting it regular image into a 360 surround view doesn't have to be difficult. Learn how our CrossLink can help.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
-Enable Predictable Design Convergence with Radiant Software
 Our next-generation Radiant software is a full featured design tool suite. Achieve predictable design convergence, optimized for edge devices.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 Learn how our Embedded Vision Development kit and 60 GHz Wirelessproducts support autonomous robot requirements, such as collision avoidance, all while consuming an incredibly low amount of power.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 2.1 now includes a home theater feature called Enhanced Audio Return Channel (eARC), which will ensure forward compatibility between audio devices such as a Sound Bar, A/Receiver (AVR) and TV.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
-CrossLink Cores for Mobile Influenced Markets
 Check out how CrossLink's collection of cores helps you solve design challenges with interface adoption.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 We have combined the bridging capability of our CrossLink FPGA, the low-power, small form factor ECP5 and the high-resolution benefits of our ASSP, onto this modular platform. Learn about the specs of this development kit and let us help you enable flexible connectivity and energy efficient image processing for robotics, drones, ADAS, smart surveillance and AR/systems.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 showcases product solutions for connectivity and processing at the edge.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 CrossLink 4:1 CSI-2 Aggregator Demo from Learn more about Lattice's CrossLink and its new 4:1 CSI-2 camera aggregator bridge, ideal for drones, AR/VR, 360 cameras, and other automotive and industrial solutions.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 Learn how products support edge computing applications (video processing acceleration), sensor bridging for machine vision, and stereo vision for robotics and drones.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 Learn how FPGAs can support the needs of modern Advanced Driver Assistance Systems (ADAS) .
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
+Stereo Vision for Robotics using Products
 CrossLink FPGA, ECP5 and come together to provide one clean and efficient solution for video processing and delivery.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
-Automotive Solutions for ADAS
 Using Lattice’s ECP5 device, we are able to take the images of multiple automotive cameras, stitch them together, and apply many enhancing/correcting benefits to output one final, clean image for the driver.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
-Signal Aggregation Solutions with iCE40 FPGAs
 The iCE40 UltraPlus is the world’s smallest FPGAs with enhanced memory & DSPs for reduced system cost, lower power consumption & faster time-to-market. Our sensor data fusion with embedded RISC-and multi-sensor aggregation demos show why iCE40 UltraPlus is a must for your next consumer device.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
-Signal Aggregation Solutions with iCE40 FPGAs
+We are demonstrating video and audio signal aggregation in products using iCE40 FPGAs.
 The iCE40 UltraPlus is the world’s smallest FPGAs with enhanced memory & DSPs for reduced system cost, lower power consumption & faster time-to-market. Our sensor data fusion with embedded RISC-and multi-sensor aggregation demos show why iCE40 UltraPlus is a must for your next consumer device.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
-iCE40 UltraPlus Benefits Demo
 Meet iCE40 UltraPlus, the first iCE40 product supporting D-with and modes. Learn about additional benefits, like driving a display along with integrated memory for frame buffering, in this video.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 Whenever the interface on a camera does not match that of the application processor, a bridge is required. common application example is muxing or merging multiple CSI-2 image sensors and combining them to one CSI-2 output. The CrossLink solution is a camera aggregator used for drones, 360 cameras, action cameras, surveillance and augmented reality applications.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 The ECP5 Family breaks the rule that all FPGAs should be the highest density, power hungry, and expensive. With a focus on compact, high volume applications, optimized the ECP5 architecture for low cost, small form factor and low power consumption. These characteristics make the ECP5 devices ideal for delivering programmable connectivity solutions to complement ASICs and ASSPs.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 To enable demonstrations of our Type-solutions to potential customers we have recorded a short video showing our product working as a UFP, and DRP.
-Sorry, no compatible source and playback technology were found for this video. Try using another browser like Chrome or download the latest Adobe Flash Player .
 See an overview of the MachXO2 product family. Learn how MachXO2 lowers cost, lowers power and integrates system functionality, all in a small package. See how easy it is to start designing with MachXO2 devices with free design tools, trials & reference designs.
-Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our Cookie Policy .Applications
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
-President, Chief Executive Officer, Director
-Corporate Vice President, R&D
 Chief Marketing and Strategy Officer
-Sherri Luther
-Chief Financial Officer
+ to download an image.
 Corporate Vice President, General Counsel, and Secretary
-Corporate Vice President, Worldwide Sales
-Corporate Vice President, Global Operations
-Vice President and General Manager, AMEA
-President, Asia Pacific Region
-Senior Director, Corporate Marketing
-Gordon Hands
-Tom Watzka
-Senior Business Development Manager, Asia Pacific
-Logo, Black, Solid White Background
-Portland, - Corporate Headquarters
-Hillsboro, - Development Center
-Shanghai, China - Development Center
-Manila, Philippines - Operations Center
-San Jose, - Development Center
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
 Lattice’s Code of Conduct reflect our commitment to honest and ethical business practices and provide standards and guidelines of conduct for and its employees. employees are expected to comply at all times with our Code of Conduct and other company policies.
 To be successful over the long term, a business must be built on a foundation of honesty and integrity. We want to do the right thing, both because it is right and because it makes good business sense. We strive to act ethically in all of our dealings, and to be respectful of others and responsible in our actions.
 Any person who feels that our conduct does not meet the guidelines in our Code of Conduct should contact our Legal Department as set forth below. If you wish to remain confidential, you may provide information anonymously to the Legal Department at the following address:
 Alternatively, you may use the following form to contact us. Please include your contact infomation with your submission.
-Please enter your comments before submitting the form.
 Integrity and ethical behavior are hallmarks of Lattice’s corporate culture and business conduct. We believe they are vital to Lattice's continued success and growth. We appreciate your cooperation in helping us meet these high standards.
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
 This Privacy Policy informs and describes the way ("Lattice") collects, uses, and discloses your personal data that we collect when you visit our web site, request information about our products or services, place an order with us, interact with customer support, or otherwise interact with us.
-Collection of Information
  Information we collect directly from you
-We collect information that you provide directly to us.  For example, we collect basic log information when you use our web site, such as the type of browser you use, access times, pages viewed, your address, and the referring link through which you accessed our web site.  In addition, in order to perform certain functions on this web site, such as access certain documents, download software, or request technical support, you must first complete the registration form and select a user name (your email address) and a password. During registration you are also required to provide contact information (such as name and business telephone number). If you choose not to provide the requested information, then you will not be able to perform these various functions. Equally, you should not provide this information if you disagree with the terms of this Privacy Policy.
 We may also collect information directly from you when you provide your information to us at trade shows, call us on the phone, send us an email, communicate with us via third-party social media sites, request customer support, apply for a job with us, or otherwise communicate with us.  We may use cookies, web beacons, and other similar tracking technology.
-Information Collected by Cookies and Similar Tracking Technologies: We use cookies, web beacons (also known as "tracking pixels") and similar tracking technologies to collect information about you when you interact with our web site or emails.  For more information about how we use cookies, please see the Cookie Policy .
 When you register, you can opt-in to receive email communications from Lattice.  If you opt-in, we will send you information on new product launches, updated software, live seminars in your locality and other general information relating to the Lattice's business. You may also select individual areas of interest relating to Lattice’s business about which you would like to remain informed (via "web content updates" that let you know when the web site has been updated).  If you sign up for "web content updates," you will be notified of new content added to the site in the sections you select as being of interest to you.
 Out of respect for your privacy, we do not send such communications unless you affirmatively express your interest in them, and we allow you to adjust your preference or terminate delivery of such messages any time by replying to the message or clicking the "manage my email preferences" or "unsubscribe" links at the bottom of every email.
 We use the information we collect from and about you for the following additional purposes:
 Respond to your request for information regarding and communicate with you about and our products;
-Send you technical notices and support and administrative messages;
 Detect and prevent fraudulent transactions and other illegal activities, comply with our legal obligations and protect the rights and property of and others; and,
 For any other purpose specifically described to you at the time we collect information.
-Sharing and disclosure of personally identifiable information
 We may share your personal data with certain third parties as described below in this section or with your consent and at your direction.  We obligate these third parties by contract to keep your personal data confidential and not to use it for any purpose other than to carry out services for Lattice.
-Subsidiaries and sales channel partners
 Personal information and information on the documents you download is collected for joint use by and the network of subsidiaries, representatives, distributors, and other sales partners that represent us. Members of this team may contact you directly if they believe they may be able to assist you in your work.
 Your personal data may be shared with third parties in order to deliver certain additional services.  We may share your personal data with certain third party service providers who assist us in providing products and services, including assisting us with marketing and communication initiatives and support services.
-Joint events and programming
 Occasionally we work with third parties to deliver a joint seminar series, for example.
 We reserve the right to disclose your personally identifiable information in accordance with or as required by law or when we believe that disclosure is necessary to protect our legal rights or to comply with a judicial proceeding, court order, or legal process.
 In the event that all or part of the business of is acquired by another company through a merger, or sale of all or a portion of its assets or otherwise, your personally identifiable information would be transferred as part of the transaction.
-Changes to your information
-If you no longer wish to receive email communications from Lattice, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at webmaster@latticesemi.com. If your personally identifiable information changes, or if you wish to modify your communication preferences, or if you no longer desire our services, you may correct or update your account by making the appropriate change on the "my account" section of this site.
 The information we collect about you may be transferred to, and accessed from within, jurisdictions in which does business which may not offer the same level of data protection as your home jurisdiction.  We will take steps to maintain an adequate level of protection for this information in the jurisdictions in which we process it.  If you are a resident of the European Economic Area ("EEA"), this information is transferred pursuant to Standard Contractual Clauses.  Please see the "Note to Residents" section below for more details.
-Advertising and Analytic Services Provided by Others
-Certain of our tools may employ a software technology called "web beacons" or "clear gifs" that enable them to provide us with statistics. Web beacons are tiny graphics with unique identifiers which are embedded invisibly on web pages. The use of these devices is subject to the privacy policy of the relevant partner site.
 Web beacons may also be used to tell us which parts of our web site customers have visited and whether emails we have sent you have been opened or forwarded.  For more information about web beacons and other advertising and analytic services, please visit our Cookie Policy .
-Links to other sites
-This web site contains links to other sites that are not owned or controlled by Lattice. is not responsible for the privacy practices of such other sites.
 We encourage you to be aware when you leave our site and to read the privacy statements of other web sites that you visit.
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use reasonable means in accordance with the custom and practices of the industry to protect your personal information, we cannot guarantee its absolute security.
+If you have any questions about security on our web site, you can send email us at webmaster@latticesemi.com.
 We will only process your personal data in accordance with the following legal bases:
 As necessary to perform our responsibilities under our contract with you.  For example, by processing your order and providing the products or services you purchase.
 When we have a legitimate interest in processing your personal data.  For example, to communicate with you about changes to our services or legal documents, to prevent fraud, or to provide, protect and improve our products and services.
@@ -1044,314 +224,48 @@ If you have a concern about our processing of personal data that we are not able
 If we decide to change our privacy policy, we will post those changes to this privacy statement on this web site and in other places we deem appropriate so that you have adequate notice of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here and at the top of the policy.
 This version 2.0 of our privacy policy was first published on May 25, 2018.
-Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our Cookie Policy .Applications
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
-Corporate Social Responsibility
 At Corporation, we are committed to a comprehensive corporate social responsibility (“CSR”) program that aligns with our core values and contributes to our success as a responsible corporate citizen. We believe our success depends on our ability to do the right thing for our customers, suppliers and employees. We strive to develop innovative solutions while minimizing the environmental impact of our operations. In addition to operating in full compliance with all applicable laws, rules, and regulations, we draw upon internationally recognized standards to advance social and environmental responsibility throughout our supply chain. 
 As one element of our program, we have adopted and support the most recent version of the Electronic Industry Citizenship Coalition (“EICC”) Code of Conduct. Our commitment to our program and the Code of Conduct extends to our supply chain partners. We require key suppliers to acknowledge and implement the principles within the Code of Conduct.
 We implement our program through policies and procedures designed to promote continuous improvement and allow us to pursue conformance to these standards. We incorporate our initiatives into our Quality Assurance Manual, which contains a management system that includes ongoing training, documentation procedures, supply chain risk management, routine assessments, a corrective action process and management review. 
 We believe continuous improvement to our program is essential to our success. We understand you have options when selecting business partners, and we are committed to making you happy with your decision to do business with Corporation. 
-Quality Assurance Manual
-Supply Chain Management
-2015 - Conflict Minerals Report
-2014 - Conflict Minerals Report
-2013 - Conflict Minerals Report
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
-Expands Ultra-Low Power sensStack with Optimized Solutions for Always-On, On-Device 
-Expands Ultra-Low Power sensStack with Optimized Solutions for Always-On, On-Device 
 accuracy with flexible milliwatt solutions; New reference designs for human presence and hand gesture recognition with scalable performance/power
 New Compact Accelerator for iCE40 UltraPlus
  FPGAs with support for 16-bit and 1-bit quantization for improved performance, power, and accuracy tradeoffs
 Enhancement to Accelerator for ECP5
  FPGAs with up to 2x increase in memory bandwidth, for improved performance in smaller devices
 New hardware platforms, reference designs, and demos showcase scalable performance and power optimized for always-on, on-device applications
-PORTLAND, – September 25, 2018 –
  stack designed to speed time-to-market for developers of flexible machine learning inferencing in consumer and industrial Ioapplications. Building on the ultra-low power (1 mW-1 W) focus of the sensstack, is releasing new cores, reference designs, demos and hardware development kits that provide scalable performance and power for always-on, on-device artificial intelligence (AI) applications.  
 “Flexible, low-power, always-on, on-device is increasingly a requirement in edge devices that are battery operated or have thermal constraints. The new features of the sensstack are optimized to address this challenge, delivering improved accuracy, scalable performance, and ease-of-use, while still consuming only a few milliwatts of power,” said Deepak Boppana, Senior Director, Product and Segment Marketing, Semiconductor. “With these enhancements, senssolutions can now support a variety of low-power, flexible system architectures for always-on, on-device AI.” 
 Examples of the architectural choices that senssolutions enable include: 
-Stand-alone 
-iCE40 UltraPlus
  based always-on, integrated solutions, with latency, security, and form factor benefits.
 Solutions utilizing iCE40 UltraPlus as an always-on processor that detects keyphrases or objects, and wakes-up a high performance So/ for further analytics only when required, reducing overall system power consumption.
 Solutions utilizing the scalable performance/power benefits of ECP5 for neural network acceleration, along with flexibility to seamlessly interface to on-board legacy devices including sensors and low-end MCUs for system control.
 Updates to the sensstack include:
-Compact Accelerator core
  for improved accuracy on iCE40 UltraPlus FPGA, and enhanced 
  for improved performance on ECP5 FPGAs
-neural network compiler tool
  with improved ease-of-use and both Caffe and TensorFlow support for iCE40 UltraPlus FPGAs
-Reference Designs
-hand gesture recognition
- reference designs and demos
-Modular Hardware Platforms
- – New iCE40 UltraPlus development platforms including 
-Himax HM01B0 UPduino Shield
-DPControl iCEVision Board
  – New vehicle classification and package detection demos from sensDesign Services Partners
-senspartner eco-system
  continues to expand worldwide with new design service and partners focused on enabling smart home, smart factory, smart city, and smart car applications. “Lattice’s low power, small size FPGAs and neural network cores and tools, will significantly accelerate adoption of artificial intelligence at the edge,” said Amit Vashi, Chief Operating Officer, Softnautics, a sensDesign Services partner. “With our expertise in machine learning, we are proud to be working closely with to enable senssolution deployments as evident by our jointly developed vehicle classification demo using ECP5 FPGAs”.  
 About (NASDAQ: LSCC) is a leader in smart connectivity solutions at the network edge, where the “things” of Iolive. Our low power and video products deliver edge intelligence, edge connectivity, and control solutions to the industrial, consumer, communications, computer, and automotive markets. Our unwavering commitment to our global customers enables them to accelerate their innovation, creating an even better and more connected world. 
-For more information about please visit 
 . You can also follow us via
-WeChat, 
-Corporation, (& design), sensAI, iCE40 UltraPlus, ECP5, Radiant, Diamond, and specific product designations are either registered trademarks or trademarks of or its subsidiaries in the United States and/or other countries.
-NOTICE: Other product names used in this publication are for identification purposes only and may be trademarks of their respective holders. 
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
 (NASDAQ: LSCC) provides smart connectivity solutions powered by our low power FPGA, video and products to the consumer, communications, industrial, computing, and automotive markets worldwide. Our unwavering commitment to our customers enables them to accelerate their innovation, creating an ever better and more connected world.
-Corporate Management
-Corporate Social Responsibility
-Portland, - Corporate Headquarters
 Portland, the "City of Roses", is home to over 1.9 million people and is one of the fastest growing cities in the United States. It is located just an hour from the beautiful Oregon coast and picturesque Cascade ski resorts.
-7th Floor, 111 5th Avenue, Portland 97204
-Oregon - Development Center
-5555 Moore Ct, Hillsboro, 97124 
-Shanghai - Development Center
 Serving as the largest base of Chinese industrial technology, the important seaport and China's largest commercial and financial center, Shanghai draws the attention of the whole world.
-Building 17, No. 1036 Tianlin Road
-Minhang District, Shanghai, 200233 China 
-Manila - Operations Center
 With its protected harbor, Manila serves as the main seaport of the Philippines, as the Port of Manila is one of the busiest in the world. Diverse manufacturers produce a wide variety of products such as electronic goods, textiles, and clothing.
-Silicon Valley - Development Center
 Known as the "Capital of Silicon Valley", San Jose is California's oldest civil settlement. Historic and high-tech, San Jose offers many interesting activities; world-class cultural arts, professional sports, theme parks, wineries, parks and gardens.
 Singapore has the full value chain of activities including 40 integrated circuit design houses, 14 silicon wafer fabrication plants and 20 outsourced assembly and test facilities.
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
 Join The Best & Brightest In The Industry
 Join Team and help us remove roadblocks to innovation and create a smarter, better-connected world. Together we can enable what’s next. 
 We are a global company. But more than that, we are a worldwide community of engineers, designers, and manufacturing operations specialists who in partnership with world-class sales, marketing and support teams are removing roadblocks to our customers’ innovations and enabling them to bring their ideas and products to market faster. 
@@ -1363,328 +277,76 @@ is uniquely sized to offer you the opportunity to grow and push the limits of yo
 Think you might have what it takes to succeed at Lattice? Click on View Opportunities to see what roles we are currently hiring. 
 Working at definitely has its perks.
 We are located across the globe. Discover what each of our sites has to offer.
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
 Interested in reading more about and its products? Check out the latest industry articles on our “
-sensSolutions Stack Wins Hot 100 Product Award
-January 30, 2019-Products
-PORTLAND, - January 30, 2019 - (NASDAQ: LSCC), a leading provider of customizable smart connectivity solutions, today announced the company's popular sensAI™ solutions stack was named an Magazine Hot 100 Product of 2018.
 to Host the Vision Industry and Technology Forum – Presented by the Embedded Vision Alliance
-January 28, 2019-Products
 (NASDAQ: LSCC) today announced that as part of its investment in smart vision systems, it will host the upcoming Vision Industry and Technology Forum, a quarterly invitation-only event presented by the Embedded Vision Alliance®.
-Schedules Fourth Quarter and Full Year 2018 Results Conference Call
-January 22, 2019-Financial
 (NASDAQ: LSCC), a leading provider of programmable logic devices, announced that it will hold its fourth quarter and full year 2018 conference call on Tuesday, February 12, 2019. Jim Anderson, President and Chief Executive Officer, and Sherri Luther, Chief Financial Officer, will discuss Semiconductor’s financial results and business outlook.
 Appoints Mark Nelson as Corporate Vice President of Worldwide Sales
-January 08, 2019-Corporate
 (NASDAQ:LSCC), a leading provider of programmable logic devices, announced the appointment of Mark Nelson as the company’s Corporate Vice President of Worldwide Sales, effective immediately.
 Etron to Showcase and & Etron DRAM™ Interoperability at 2019
-January 07, 2019-Products
 January 7, 2019, Las Vegas: Etron will demonstrate interoperability of the EPC5 solution and Etron DRAM, laying the groundwork for a miniaturized Endpoint subsystem suitable for high volume, form factor constrained applications, at the Etron booth during 2019. 
 Appoints Sherri Luther as Chief Financial Officer
-January 02, 2019-Corporate
 PORTLAND, Ore.--(WIRE)--Jan. 2, 2019-- (NASDAQ:LSCC), a leading provider of customizable smart connectivity solutions, announced the appointment of Sherri Luther as the Company’s Chief Financial Offer, effective immediately. 
-Appoints Glenn O'Rourke as Corporate VP, Global Operations
-PORTLAND, Ore.--(WIRE)--Dec. 11, 2018-- (NASDAQ: LSCC), a leading provider of customizable smart connectivity solutions, announced the appointment of Glenn O’Rourke as the Company’s Corporate Vice President, Global Operations, effective immediately.
 Visit to learn about ultra-low power implementations of RISC-processor based on the iCE40 UltraPlus FPGA.
-Industry Executive  Esam Elashmawi joins Silicon Catalyst Board
-Silicon Valley, (November 8, 2018) – Silicon Catalyst, the world’s only startup incubator focused exclusively on solutions in silicon, announced today that Esam Elashmawi, Chief Marketing and Strategy Officer of (NASDAQ: LSCC), has been appointed to its Board of Directors.
-See sensOn-Device Solutions at 2018
 Meet with to discover the senssolution for always-on, on-device in smart factory, auto, city and home applications. See demos of reference designs for human presence detection, human gesture detection, and face tracking detection using our small form factor, low power FPGAs enabling intelligence at the Edge.
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
-Wearables
-Head Mounted Displays
-Comms & Computing
-Data Center Systems
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
-Type-Port Controllers
-Mature & Discontinued Devices
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Europe Africa Sales
-Software, Cables, & Boards
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Board Of Directors
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
-Our Privacy Policy  explains how we collect and use information from and about you when you visit our website, create an account with us, or otherwise interact with us. This policy explains more about how we use cookies and your choices concerning cookies.
 Like most websites, we use cookies and similar technologies to remember things about you so that we can provide you with a better experience.  We may use the following technologies:
 Cookies are small data files stored on your browser or device. They may be served by the entity that operates the website you are visiting (“first-party cookies”) or by other companies (“third-party cookies”). For example, we partner with third-party analytics providers, like Google, which sets cookies when you visit our websites. This helps us understand how you are using our services so that we can improve them.
-Local storage allows data to be stored locally on your browser or device and includes HTML5 local storage and browser cache.
 SDKs are blocks of code provided by partners that may be installed in mobile applications. SDKs help us understand how you interact with mobile applications and collect certain information about the device and network you use to access the application.
 We use cookies for a number of reasons, like helping us see which features are most popular, counting visitors to a page, improving our users’ experience, keeping our services secure, and generally providing you with a better experience. The cookies we use generally fall into one of the following categories.
-For example, we may use these cookies to remember your language preferences.
-We use these cookies to help identify and prevent security risks.
 We use these cookies to collect information about how you interact with our services and to help us improve them.
 For example, we may use these cookies to determine if you have interacted with a certain page.
+We use these cookies to help us understand improve our services.
 For example, we can use these cookies to learn more about which features are the most popular with our users and where we may need to make improvements.
 We and our advertising partners use these cookies to deliver advertisements, to make them more relevant and meaningful to visitors to our website, and to track the efficiency of our advertising campaigns, both on our services and on other websites.
-For a full list of the cookies we deploy on our website and the categories they fall into, please click this link .
-Device IDs:  If you access our website using a mobile device, the advertising identifier associated with your device or other identifiers may be recorded and used for purposes similar to those of cookies.  We do not use cookies to identify or record a device location.
 You have a number of options to control or limit how we and our partners use cookies and similar technologies, including for advertising.
-Although most browsers and devices accept cookies by default, their settings usually allow you to clear or decline cookies. If you disable cookies, however, some of the features of our services may not function properly.
 To prevent your data from being used by Google Analytics, you can install Google’s opt-out browser add-on.
 For information on how our advertising partners allow you to opt out of receiving ads based on your web browsing history, please visit http://optout.aboutads.info/. European users may opt out of receiving targeted advertising through the European Interactive Digital Advertising Alliance.
 To opt out of ads on Facebook, Baidu, or Google that are targeted to your interests, use your Facebook, Baidu, or Google Ads settings.  To opt out of ads on other services, please use the settings for those services.
 Check your mobile device for settings that control ads based on your interactions with the applications on your device. For example, on your idevice, enable the “Limit Ad Tracking” setting, and on your Android device, enable the “Opt out of Ads Personalization” setting.
 Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our Cookie Policy .This website contains software files, documentation, and other information pertaining to the products and services of ("Lattice"). This documentation is provided as a courtesy to customers, potential customers, and other persons and entities with bona fide commercial relationships with Lattice. By accessing, downloading, or otherwise using any data from this website, you agree to be bound by the terms and conditions described in this Notice and in our Privacy Policy .
-License to Use Information
-You are licensed to download and copy documentation, software, and other materials from this website conditioned upon your agreement to and compliance with the following terms and conditions.
 You agree that you are not an individual, or an individual employed by or otherwise associated with an entity, identified on the Department of Commerce's Denied Persons, Unverified or Entity Lists, the Department of Treasury's Specially Designated Nationals Lists, or the Department of State's Debarred Parties List, and you are not otherwise ineligible to receive items under applicable export control laws and regulations. You may use the materials for informational purposes only.
 You may distribute copies of the information at this website only to customers and potential customers of Lattice, and only free of charge and in compliance with all applicable export control laws and regulations. Any other distribution is prohibited without the prior written consent of Lattice. You may not use the information in any way that may be adverse to Lattice's interests.
-You may use any software provided on this website provided that you agree to be bound by the terms and conditions of the software license agreement(s) accompanying such software. You may not modify, reverse engineer, or disassemble any of the software, except as expressly permitted by the terms of the license agreement for such software.
 Failure to comply with these terms and conditions will terminate the limited license granted herein.
 Nothing contained in this Notice is to be construed as conferring by implication, estoppel, or any other legal theory, a license or right to any patent, trademark, copyright, or other intellectual property right, except those expressly provided herein. The products, processes, software, and other technology described at this website may be the subject of other intellectual property rights owned by or by third parties, and no licenses thereto are granted herein.
 If you purchase products directly from from this website, in the absence of a written agreement executed by a duly authorized party from Lattice, the following terms and conditions shall apply as between you, the Buyer, and Lattice, the Seller:
-WARRANTIES: "IS" ACCURACY, COMPLETENESS, MERCHANTABILITY, PROPERTY, (DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, INCLUDING, LIMITATION, PROFITS, INTERRUPTION, INFORMATION) SITE, LIABILITY, YOU.
 RIGHTS: The software and any accompanying documentation provided to agencies of the Government are "commercial computer software" and "commercial computer software documentation" pursuant to 227.7202 and 12.212, and their successors. All use, reproduction, release, performance, display or disclosure of the software and related documentation by or for the Government shall be in strict accordance with the terms and conditions of this Notice. Use of the documentation, materials, or information by the Government constitutes acknowledgement of Lattice's proprietary rights in them.
 may make changes to these materials, specifications, or information, or to the products described herein, at any time without notice. makes no commitment to update this documentation. reserves the right to discontinue any product or service without notice and assumes no obligation to correct any errors contained herein or to advise any user of this document of any correction if such be made. recommends its customers obtain the latest version of the relevant information to establish, before ordering, that the information being relied upon is current.
 warrants performance of its products to current and applicable specifications in accordance with Lattice's standard warranty. Testing and other quality control procedures are performed to the extent deems necessary. Specific testing of all parameters of each product is not necessarily performed, unless mandated by government requirements.
 assumes no liability for applications assistance, customer's product design, software performance, or infringements of intellectual property rights arising from the use of the products and services described herein.
 products are not designed, intended, authorized, or warranted for use as components in systems intended for surgical implant in the body, or in other applications intended to support or sustain life, or in any other application in which the failure of Lattice's product could create a situation where personal injury, death, or severe property or environmental damage may occur. Inclusion of products in such applications is prohibited.
-The documentation, software, and other materials contained at this website are owned and copyrighted by or its affiliates. Copyright © 1995-2018 Corporation, 111 5th Avenue, Suite 700, Portland, Oregon 97204, All rights reserved.
-Corporation, (design), (logo), (stylized), (design), (design), LSC, Crosslink, Atlanta, CleanClock, Custom Mobile Device, DiePlus, E2CMOS, ECP5, PERFORMANCE, FlashBAK, FlexiClock, flexiFLASH, flexiMAC, flexiPCS, FreedomChip, GAL, GDX, Generic Array Logic, GigaRay, Explorer, iCEblink, iDice, iCE40,ICE40 Ultra, iCE40 Ultra Lite, iCE40 UltraPlus, iCE5, iCE65, iCEcable, iCEchip, iCEcube, iCEcube2, iCEman, iCEprog, iCEsab, iCEsocket, IPexpress, ISP, ispATE, ispClock, ispDOWNLOAD, ispGAL, ispGDS, ispGDX, ispGDXV, ispGDX2, ispGENERATOR, ispJTAG, ispLEVER, ispLeverCORE, ispLSI, ispMACH, ispPAC, ispTRACY, ispTURBO, ispMACHINE, ispVM, ispXP, ispXPGA, ispXPLD, Diamond, LatticeCORE, LatticeEC, LatticeECP2, LatticeECP2M, LatticeECP, LatticeECP3, LatticeECP4, LatticeECP-DSP, LatticeMico, LatticeMico8, LatticeMico32, LatticeSC, LatticeSCM, LatticeXP, LatticeXP2, MACH, MachXO, MachXO2, MachXO3, MachXO3H, MachXO3L, MACO, mobileFPGA, ORCA, PAC, PAC-Designer, PAL, Performance Analyst, Platform Manager, ProcessorPM, PURESPEED, Radiant, Reveal, SensorExtender, SiliconBlue, the logo, the logo, Silicon Image, the Silicon Image logo, Speedlocked, Speed Locking, SuperBIG, SuperCOOL, SuperFAST, SuperWIDE, sysCLOCK, sysCONFIG, sysDSP, sysHSI, sysI/O, sysMEM, TMDS, The Simple Machine for Complex Design, TraceID, TransFR, UltraMOS, Instaport, the Instaport logo, InstaPrevue, SiBEAM, Si(and design), SiSnap, the SiSnap logo, UltraGig, the UltraGig logo, MHL, SuperMHL, Superand design, the logo with Mobile High-Definition Link, WirelessHD, the Wirelesslogo, Wiand the Wilogo and specific product designations are either registered trademarks or trademarks of or its subsidiaries in the United States and/or other countries. ISP, Bringing the Best Together and More of the Best are service marks of Corporation.
 NOTICE: Other product names used in this publication are for identification purposes only and may be trademarks of their respective companies.
 The products of are covered by one or more of the following patents:
-ispClock5400D
-Power Manager II
-Diamond Software/Radiant Software
 does not represent that products described herein are free from patent infringement or from any third-party right.
 This legal notice is updated from time to time and users are advised to check the most current notice as posted at this URL.
-Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our Cookie Policy .Applications
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything to Everything
-Platform Firmware Resiliency (PFR)
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-Programmable Logic
-FPGA, & System Management Optimized for Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find the Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Export Classification Information
-Part Number Reference Guide
-Outside Resources to Help Get the Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products via the Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information for Investors & Analysts
-Board Of Directors
-What is Doing?
-Is a Good Fit for You?
-NewsletterSubscribe
-                      Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our 
-Europe & Africa
-Legacy Devices & Software
 This Privacy Policy informs and describes the way ("Lattice") collects, uses, and discloses your personal data that we collect when you visit our web site, request information about our products or services, place an order with us, interact with customer support, or otherwise interact with us.
-Collection of Information
  Information we collect directly from you
-We collect information that you provide directly to us.  For example, we collect basic log information when you use our web site, such as the type of browser you use, access times, pages viewed, your address, and the referring link through which you accessed our web site.  In addition, in order to perform certain functions on this web site, such as access certain documents, download software, or request technical support, you must first complete the registration form and select a user name (your email address) and a password. During registration you are also required to provide contact information (such as name and business telephone number). If you choose not to provide the requested information, then you will not be able to perform these various functions. Equally, you should not provide this information if you disagree with the terms of this Privacy Policy.
 We may also collect information directly from you when you provide your information to us at trade shows, call us on the phone, send us an email, communicate with us via third-party social media sites, request customer support, apply for a job with us, or otherwise communicate with us.  We may use cookies, web beacons, and other similar tracking technology.
-Information Collected by Cookies and Similar Tracking Technologies: We use cookies, web beacons (also known as "tracking pixels") and similar tracking technologies to collect information about you when you interact with our web site or emails.  For more information about how we use cookies, please see the Cookie Policy .
 When you register, you can opt-in to receive email communications from Lattice.  If you opt-in, we will send you information on new product launches, updated software, live seminars in your locality and other general information relating to the Lattice's business. You may also select individual areas of interest relating to Lattice’s business about which you would like to remain informed (via "web content updates" that let you know when the web site has been updated).  If you sign up for "web content updates," you will be notified of new content added to the site in the sections you select as being of interest to you.
 Out of respect for your privacy, we do not send such communications unless you affirmatively express your interest in them, and we allow you to adjust your preference or terminate delivery of such messages any time by replying to the message or clicking the "manage my email preferences" or "unsubscribe" links at the bottom of every email.
 We use the information we collect from and about you for the following additional purposes:
 Respond to your request for information regarding and communicate with you about and our products;
-Send you technical notices and support and administrative messages;
 Detect and prevent fraudulent transactions and other illegal activities, comply with our legal obligations and protect the rights and property of and others; and,
 For any other purpose specifically described to you at the time we collect information.
-Sharing and disclosure of personally identifiable information
 We may share your personal data with certain third parties as described below in this section or with your consent and at your direction.  We obligate these third parties by contract to keep your personal data confidential and not to use it for any purpose other than to carry out services for Lattice.
-Subsidiaries and sales channel partners
 Personal information and information on the documents you download is collected for joint use by and the network of subsidiaries, representatives, distributors, and other sales partners that represent us. Members of this team may contact you directly if they believe they may be able to assist you in your work.
 Your personal data may be shared with third parties in order to deliver certain additional services.  We may share your personal data with certain third party service providers who assist us in providing products and services, including assisting us with marketing and communication initiatives and support services.
-Joint events and programming
 Occasionally we work with third parties to deliver a joint seminar series, for example.
 We reserve the right to disclose your personally identifiable information in accordance with or as required by law or when we believe that disclosure is necessary to protect our legal rights or to comply with a judicial proceeding, court order, or legal process.
 In the event that all or part of the business of is acquired by another company through a merger, or sale of all or a portion of its assets or otherwise, your personally identifiable information would be transferred as part of the transaction.
-Changes to your information
-If you no longer wish to receive email communications from Lattice, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at webmaster@latticesemi.com. If your personally identifiable information changes, or if you wish to modify your communication preferences, or if you no longer desire our services, you may correct or update your account by making the appropriate change on the "my account" section of this site.
 The information we collect about you may be transferred to, and accessed from within, jurisdictions in which does business which may not offer the same level of data protection as your home jurisdiction.  We will take steps to maintain an adequate level of protection for this information in the jurisdictions in which we process it.  If you are a resident of the European Economic Area ("EEA"), this information is transferred pursuant to Standard Contractual Clauses.  Please see the "Note to Residents" section below for more details.
-Advertising and Analytic Services Provided by Others
-Certain of our tools may employ a software technology called "web beacons" or "clear gifs" that enable them to provide us with statistics. Web beacons are tiny graphics with unique identifiers which are embedded invisibly on web pages. The use of these devices is subject to the privacy policy of the relevant partner site.
 Web beacons may also be used to tell us which parts of our web site customers have visited and whether emails we have sent you have been opened or forwarded.  For more information about web beacons and other advertising and analytic services, please visit our Cookie Policy .
-Links to other sites
-This web site contains links to other sites that are not owned or controlled by Lattice. is not responsible for the privacy practices of such other sites.
 We encourage you to be aware when you leave our site and to read the privacy statements of other web sites that you visit.
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use reasonable means in accordance with the custom and practices of the industry to protect your personal information, we cannot guarantee its absolute security.
+If you have any questions about security on our web site, you can send email us at webmaster@latticesemi.com.
 We will only process your personal data in accordance with the following legal bases:
 As necessary to perform our responsibilities under our contract with you.  For example, by processing your order and providing the products or services you purchase.
 When we have a legitimate interest in processing your personal data.  For example, to communicate with you about changes to our services or legal documents, to prevent fraud, or to provide, protect and improve our products and services.
@@ -1696,190 +358,33 @@ If you have a concern about our processing of personal data that we are not able
 If we decide to change our privacy policy, we will post those changes to this privacy statement on this web site and in other places we deem appropriate so that you have adequate notice of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here and at the top of the policy.
 This version 2.0 of our privacy policy was first published on May 25, 2018.
-Like most websites, we use cookies and similar technologies to enhance your user experience. We also allow third parties to place cookies on our website. By continuing to use this website you consent to the use of cookies as described in our Cookie Policy .To help us respond to you more quickly, please select the department you are trying to contact that best matches your feedback or question.
 For all other inquires, please fill out the form below.
 Note: we try to respond to every customer and partner inquiry, but to do that we need you to fill in the entire form. If we do not have your full contact information it may prevent us from responding.
-JavaScript is required for full functionality of this form.
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything To Everything
-Data Center Systems
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-super/ MHL
-Programmable Logic
-FPGA, CPLD, & System Management Optimized For Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-MHL/to bridges
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find The Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Part Number Reference Guide
-Outside Resources To Help Get The Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products Via The Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information For Investors & Analysts
-Board Of Directors
-What is Doing?
-Is Good Fit For You?
-Board of Directors
-Corporate Management
-Corporate Social Responsibility
-Tuesday, February 12, 2019 
-Click here to add this event to your calendar
  (NASDAQ: LSCC) is the global leader in smart connectivity  solutions, providing market leading intellectual property and low-power, small  form-factor devices that enable more than 8,000 global customers to quickly  deliver innovative and differentiated cost and power efficient products. The Company's broad end-market exposure extends from consumer electronics to  industrial equipment, communications infrastructure and licensing.
  was founded in 1983 and is headquartered in Portland, Oregon.
-Corporate Management
-Minimum 20 minute delay
-Refresh quote
-sensSolutions Stack Wins Hot 100 Product Award
 to Host the Vision Industry and Technology Forum – Presented by the Embedded Vision Alliance
-Schedules Fourth Quarter and Full Year 2018 Results Conference Call
 Appoints Mark Nelson as Corporate Vice President of Worldwide Sales
 Appoints Sherri Luther as Chief Financial Officer
-Appoints Glenn O'Rourke as Corporate VP, Global Operations
  Statements in this site looking forward in time are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Investors are cautioned that forward-looking statements involve risks and uncertainties, including the effect of changing economic conditions, the effect of overall market conditions, product demand and market acceptance risks, risks associated with dependencies on silicon wafer suppliers, the impact of competitive products and pricing, technological and product development risks and other risk factors detailed in the Company's Securities and Exchange Commission filings. Actual results may differ materially from forward-looking statements. 
-Replication or redistribution of Online, Inc. content is expressly prohibited without the prior written consent of Online, Inc. Online, Inc. shall not be liable for any errors or delays in the content, or for any actions taken in reliance thereon.
-Financial Tear Sheet
-Europe & Africa
-Legacy Devices & Software
-Making Devices Smarter & Sleeker
-Wearables
-Head Mounted Displays
-Comms & Computing
-Connecting Anything To Everything
-Data Center Systems
-HetNet Small Cells
-Industrial & Auto
-Enabling Intelligent Automation
-Human Machine Interface / HMI
-Security & Surveillance
-super/ MHL
-Programmable Logic
-FPGA, CPLD, & System Management Optimized For Low Power & Small Size
-World's Smallest FPGAs
-iCE40 UltraPlus
-iCE40 Ultra/UltraLite
-CrossLink
-CrossLink
-Bridging & Expansion FPGAs
-Power & Thermal Management
-Power Manager II
-ispClock
-Connectivity & Acceleration
-Programmable Logic Devices
 All You Need to Complete a Design
-Reference Designs
-Development Kits & Boards
-Programming Hardware
-ispClassic
 HDMI, and Type-to Enhance Your Products
-MHL/to bridges
-Type-Port Controllers
 Help Choosing the Right Products
-Mature & Discontinued Devices
-Need Help?  We’re Here to Assist You
-& Reference Design Home
-Dev Kit & Boards Home
-Get Technical Support
-Find The Right Software & Licenses
-Key Reference Materials
-Quality & Reliability Home
-Part Number Reference Guide
-Outside Resources To Help Get The Job Done
-Legacy Devices & Software
-Mature & Discontinued Devices
-Silicon Image Software Archive
-Direct, Rep, & Distribution
-Europe Africa Sales
-Direct, Rep, & Distribution
-Direct, Rep, & Distribution
-Buy Products Via The Web
-Software, Cables, & Boards
-Buy End-of-Life Products 
-Mature & Discontinued Devices
-Corporate Social Responsibility
-Information For Investors & Analysts
-Board Of Directors
-What is Doing?
-Is Good Fit For You?
-Corporate Management
-Corporate Management
-Board of Directors
-Corporate Management
-Corporate Social Responsibility
-Board of Directors
-Corporate Management
-President, Chief Executive Officer, Director
-President, Chief Executive Officer, Director
 Jim Anderson is  Semiconductor’s President and Chief Executive Officer and serves on the  Company’s Board of Directors. He joined in September 2018, after  leading AMD’s Computing and Graphics business group from 2015. 
 While at AMD, Jim drove a  strategic and operational ... 
-Corporate Vice President, R&D
-Corporate Vice President, R&D
 Stephen Douglass is Semiconductor’s Corporate Vice President of Research & Development. He joined in September 2018 after serving as Corporate Vice President Customer Technology Deployment at Xilinx.
 Chief Marketing and Strategy Officer
 Chief Marketing and Strategy Officer
 Esam Elashmawi is Semiconductor’s Chief Marketing and Strategy Officer.  He joined in September 2018 after serving as Senior Vice President and General Manager at Microsemi since 2010.  
-Sherri Luther
-Chief Financial Officer
-Sherri Luther
-Chief Financial Officer
 Sherri Luther is Semiconductor’s Chief Financial Officer. She joined in January 2019 after serving as Corporate Vice President of Finance at Coherent Inc. 
 Sherri brings to the role 29 years of strategic and financial operations experience, with an expertise in financial r... 
 Corporate Vice President, General Counsel, and Secretary
 Corporate Vice President, General Counsel, and Secretary
 Byron Milstead is Lattice’s Corporate Vice President, General Counsel, and Secretary based in Singapore. He joined the Company in 2008. 
 Before joining Lattice, Byron was senior vice president and general counsel of Credence Systems and was previously a partner with Ater Wy... 
-Corporate Vice President, Worldwide Sales
-Corporate Vice President, Worldwide Sales
 Mark Nelson is Semiconductor’s Corporate Vice President of Worldwide Sales. He joined in January 2019 after serving as Vice President and General Manager of Worldwide Sales for Intel Corporation’s Programmable Solutions Group (PSG).
 Mark brings to the role 30 years of broa... 
-Corporate Vice President, Global Operations
-Corporate Vice President, Global Operations
 Glenn O’Rourke is Semiconductor’s Corporate Vice President of Global Operations. He joined in December 2018 after serving as Corporate Vice President of Supplier Management, Technology and Product Cost Center at  Xilinx.
-Vice President and General Manager, AMEA
-Vice President and General Manager, AMEA
-President, Asia Pacific Region
-President, Asia Pacific Region
 Jerry Xu is Lattice’s President, Asia Pacific Region. He leads the Sales and Application Engineering functions in the region. Jerry joined in 2016 in the same role but focused on the Communications and Compute segments. His mission is to lead business growth from with the b... 
-Financial Tear Sheet
-Europe & Africa
-Legacy Devices & Software

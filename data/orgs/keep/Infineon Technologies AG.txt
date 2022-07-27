@@ -1,340 +1,60 @@
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
 What you need to know about electromobility
 How long does a charging process take? Does battery power come to an end after 100 km? And what are plug-in hybrids? We shed light on these and other questions.
-Comprehensive solutions for charging design
 From power and control to sensor and security. Get your insight into Infineon's solutions for fast eVehicle charging.
-Mobile World Congress 
 Visit us and discover how we are connecting the real and the digital world.
 Easy CoolSiC™ modules to reduce the Total Cost of Ownership of systems by providing the highest levels of efficiency.
 How to easily prototype & evaluate your Iodesign
 Speed up your prototyping! Join our webinar & learn how to combine Shield2Go boards, get the software and bring your designs faster to life! 7th Feb 2019
 Wide Band-Gap Semiconductors (SiC/GaN)
-Smart Low-Side & High-Side Switches
-Lighting ICs
-High Power Diodes & Thyristors
-Gate Driver ICs
-Motor Control ICs
-AC-Power Conversion
-Isolated Industrial Interface
-Automotive System Overview
-System Basis Chips (SBC)
-Engine Managmenet IC
-Constant Current Control for Transmission
-Restraint System IC
-and Surge Protection Overview
-Multi Purpose Devices
-Low Capacitance Devices
-Microcontroller Overview
-32-bit Industrial Microcontroller based on ARM® Cortex®-M
-32-bit TriCore™ Microcontroller
-16-bit C166 Microcontroller
 8051 compatible 8-bit Microcontroller
-32-bit Embedded Power ICs based on ARM® Cortex® M
-Legacy Products (C500-, C166-, XC166-, AUDO1-Family)
-Antenna Tuners
-Antenna Switch Modules (ASM)
-Transistor
-mmWave-(Transceivers 24-86 GHz)
-Magnetic Position Sensor
-Magnetic Speed Sensor
-Magnetic Current Sensor
-Integrated Automotive Pressure Sensor
-Radar Sensor ICs
-Capacitive Pressure Sensor for Consumer Applications
-3Image Sensor REAL3™
-Security & Smart Card Solutions Overview
-Smart card solutions for government ID
-OPTIGA™ embedded security solutions
 Secure Access Module CIPURSE™ (SAM)
 Security controllers for tokens
-Smart card modules
-SECORA™ Pay security solutions
-Transceivers Overview
-Automotive Transceiver
-Industrial Transceiver
-Transistor & Diode Overview
-Bipolar Transistor
-Home and building automation
-Industrial automation
-Body and comfort
-Chassis, safety and ADAS
-Hybrid and electric vehicles
-Cellular base stations
-Wireless backhaul
-Commercial, construction and agricultural vehicles (CAV) overview
 Autonomous driving for commercial, construction and agricultural vehicles
 24body applications for trucks and agricultural vehicles
-Low voltage motor control for trucks and agricultural vehicles
 Hybrid electric solutions for construction, commercial and agricultural vehicles
 Valve control for trucks and agricultural vehicles
-Health and fitness
-Multicopters and drones
-Home and building automation
-Computing and data storage
-Communication switches and routers
-Industrial heating and welding
 Commercial, construction and agricultural vehicles (CAV)
-Industrial automation
-Motor control and drives
 Uninterruptible power supply (UPS)
-strips and multichannel applications
-Automotive lighting
-Light electric vehicles
-Motorcycle engine management
-Small body control module for 2-wheelers
-Autonomous turn signal driver for 2-wheelers
-Motor control and drives overview
-Motor control for battery powered applications
 Motor control for home and building automation
-Motor control for industrial automation
-Permanent magnet synchronous motor (PMSM)
-Brushless motor (BLDC)
-Embedded systems
-Charger for mobile devices
 Uninterruptible power supply (UPS)
-Power transmission and distribution overview
-High voltage direct current (HVDC)
-Flexible transmission systems (FACTS)
-Automated guided vehicles
-Smart card and security overview
-Authentication and brand protection
-Security for IoT
-eapplications
-Home and building automation
-Solar energy systems overview
-Central inverter solutions
-Micro inverter solutions
-String inverter solutions
-Wind energy systems overview
-Solution Finder
-Boards & Shields for Arduino
-& Devices Component Libraries
 Designer Digital Prototyping (TINACloud)
-Power Desk SupIRBuck DC-POL
-Power Supply Simulation Tool (PowerEsim)
-Discrete & Simulation Tool
-Microcontroller Development Tool (DAVE)
-Magnetic Sensor Simulation Tool
-Cross Reference Search
-      Unfortunately, your browser does not support embedded frames (iframes): You can view the embedded page 
 It aims at finding the right product for the right application in a very short time.
-Explore the Solution Finder
-Frequently asked Questions
-Webinars
-Surface Mounted Devices (SMD)
-Through Hole Devices (THD)
-16949 and 9001 Certificates
-Orderable Part Number Overview
-Orderable Part Number Information
-Green Products Technical Information
-Halogen-free Products Overview
-Automotive System IC
-and Surge Protection
-Microcontroller
-Security & Smart Card Solutions
-Transceivers
-Transistor & Diode
 Wide Band-Gap Semiconductors (SiC/GaN)
-Smart Low-Side & High-Side Switches
-Lighting ICs
-High Power Diodes & Thyristors
-Gate Driver ICs
-Motor Control ICs
-AC-Power Conversion
-Isolated Industrial Interface
-Automotive System IC
-Automotive System Overview
-System Basis Chips (SBC)
-Engine Managmenet IC
-Constant Current Control for Transmission
-Restraint System IC
-and Surge Protection
-and Surge Protection Overview
-Multi Purpose Devices
-Low Capacitance Devices
-Microcontroller
-Microcontroller Overview
-32-bit Industrial Microcontroller based on ARM® Cortex®-M
-32-bit TriCore™ Microcontroller
-16-bit C166 Microcontroller
 8051 compatible 8-bit Microcontroller
-32-bit Embedded Power ICs based on ARM® Cortex® M
-Legacy Products (C500-, C166-, XC166-, AUDO1-Family)
-Antenna Tuners
-Antenna Switch Modules (ASM)
-Transistor
-mmWave-(Transceivers 24-86 GHz)
-Magnetic Position Sensor
-Magnetic Speed Sensor
-Magnetic Current Sensor
-Integrated Automotive Pressure Sensor
-Radar Sensor ICs
-Capacitive Pressure Sensor for Consumer Applications
-3Image Sensor REAL3™
-Security & Smart Card Solutions
-Security & Smart Card Solutions Overview
-Smart card solutions for government ID
-OPTIGA™ embedded security solutions
 Secure Access Module CIPURSE™ (SAM)
 Security controllers for tokens
-Smart card modules
-SECORA™ Pay security solutions
-Transceivers
-Transceivers Overview
-Automotive Transceiver
-Industrial Transceiver
-Transistor & Diode
-Transistor & Diode Overview
-Bipolar Transistor
 Commercial, construction and agricultural vehicles (CAV)
-Motor control and drives
-Power transmission and distribution
-Smart card and security
-Solar energy systems
-Wind energy systems
-Home and building automation
-Industrial automation
-Body and comfort
-Chassis, safety and ADAS
-Hybrid and electric vehicles
-Cellular base stations
-Wireless backhaul
 Commercial, construction and agricultural vehicles (CAV)
-Commercial, construction and agricultural vehicles (CAV) overview
 Autonomous driving for commercial, construction and agricultural vehicles
 24body applications for trucks and agricultural vehicles
-Low voltage motor control for trucks and agricultural vehicles
 Hybrid electric solutions for construction, commercial and agricultural vehicles
 Valve control for trucks and agricultural vehicles
-Health and fitness
-Multicopters and drones
-Home and building automation
-Computing and data storage
-Communication switches and routers
-Industrial heating and welding
 Commercial, construction and agricultural vehicles (CAV)
-Industrial automation
-Motor control and drives
 Uninterruptible power supply (UPS)
-strips and multichannel applications
-Automotive lighting
-Light electric vehicles
-Motorcycle engine management
-Small body control module for 2-wheelers
-Autonomous turn signal driver for 2-wheelers
-Motor control and drives
-Motor control and drives overview
-Motor control for battery powered applications
 Motor control for home and building automation
-Motor control for industrial automation
-Permanent magnet synchronous motor (PMSM)
-Brushless motor (BLDC)
-Embedded systems
-Charger for mobile devices
 Uninterruptible power supply (UPS)
-Power transmission and distribution
-Power transmission and distribution overview
-High voltage direct current (HVDC)
-Flexible transmission systems (FACTS)
-Automated guided vehicles
-Smart card and security
-Smart card and security overview
-Authentication and brand protection
-Security for IoT
-eapplications
-Home and building automation
-Solar energy systems
-Solar energy systems overview
-Central inverter solutions
-Micro inverter solutions
-String inverter solutions
-Wind energy systems
-Wind energy systems overview
-Solution Finder
-Boards & Shields for Arduino
-& Devices Component Libraries
 Designer Digital Prototyping (TINACloud)
-Power Desk SupIRBuck DC-POL
-Power Supply Simulation Tool (PowerEsim)
-Discrete & Simulation Tool
-Microcontroller Development Tool (DAVE)
-Magnetic Sensor Simulation Tool
-Cross Reference Search
-      Unfortunately, your browser does not support embedded frames (iframes): You can view the embedded page 
 It aims at finding the right product for the right application in a very short time.
-Explore the Solution Finder
-Frequently asked Questions
-Webinars
-Orderable Part Number Information
-Halogen-free Products
-Surface Mounted Devices (SMD)
-Through Hole Devices (THD)
-16949 and 9001 Certificates
-Orderable Part Number Information
-Orderable Part Number Overview
-Orderable Part Number Information
-Green Products Technical Information
-Halogen-free Products
-Halogen-free Products Overview
 first chipmaker to be named "Partner of The Year" by Hyundai for cooperation in electro-mobility
 In Germany, young people are pushing e-mobility: acceptance of it decreases with age. Drivers choose "green" power for their electric vehicles
 safe for sensitive data in the car: Volkswagen relies on from Visit on Twitter
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
 OKOur Partner Ecosystem comprises a global network of specialized companies offering knowledge and experience in Hardware, Software, Tools, Services and End Applications to design solutions based on products.
 Benefit from reduced development efforts with trusted resources and expedite your time to market.
 Select your partner with the help of the Partner Finder below or one of our specialized programs:
-Americas, Asia-Pacific, Europe, Middle East, Africa, Greater China, Japan
-Security & smart card solutions
 Arrow Electronics offers Secured Provisioning Services for hardware based security ... more devices, such as the OPTIGA™ Trust These Services enable customers of all sales and demand profiles to take full advantage of silicon based security features.
-Americas, Asia-Pacific, Europe, Middle East, Africa, Greater China, Japan
-Security & smart card solutions
 Preferred Partner The Atos solution is based on a dedicated security controller which ... more can be easily integrated into an existing (Electronic Control Unit) without deeply affecting the complete board design. Infineon’s SLI97 was selected as the security chip to provide the required automotive qualification and to ensure the requested performance for automotive applications. Together with the chip platform provides a cryptographic library which supports the cryptographic functionality.
 Consumers, citizens and employees increasingly expect anywhere-anytime experiences — whether they are ... more making purchases, crossing borders, accessing e-gov services or logging onto corporate networks. Entrust Datacard offers the trusted identity and secure transaction that make those experiences reliable and secure. Solutions range from the physical world of financial cards, passports and cards to the digital realm of authentication, certificates and secure communications. With more than 2,000 Entrust Datacard colleagues around the world, and a network of strong global partners, the company serves customers in 150 countries worldwide.
-Americas, Asia-Pacific, Europe, Middle East, Africa, Greater China, Japan
-Security & smart card solutions
 The ioTrust™ software on TPM-equipped devices provides a secure wrapper that ensures that ... more interactions with the and usage of its keys are carried out in a secure manner.
-Americas, Asia-Pacific, Europe, Middle East, Africa, Greater China, Japan
-Microcontroller, Security & smart card solutions
-Americas, Asia-Pacific, Europe, Middle East, Africa, Greater China, Japan
-Security & smart card solutions
 token authentication for Industrie 4.0: The certificate based ... more ePass Public Key Infrastructure (PKI) tokens enable users to secure virtual communications and transactions with advanced digital signature and data encryption features, mainly for intellectual property protection and authentication in critical industrial installations and upgrades functionality.
 Icon Labs, a 2014 Gartner "Cool Vendor" and 2015 Gartner "Select Vendor", is a leading provider of embedded ... more software for device security, device protection, and networking management, including the award-winning Floodgate Defender and Floodgate Security Framework. The recently announced Floodgate Certificate Authority (CA) and Public Key Infrastructure (PKI) client offer manufacturers easy and efficient integration of certificate-based machine to machine authentication. Founded in 1992, Icon Labs is headquartered in West Des Moines, Iowa, USA.
-Americas, Asia-Pacific, Europe, Middle East, Africa, Greater China, Japan
-Security & smart card solutions
 The Icon Labs solution makes it easy for OEMs to add security to their devices, and by ... more automating the process, provides the scalability required as the number of Iodevices grows into the billions.
 jNet Thingis in the business of securing the Internet of Things by bringing connected JavaCard and GlobalPlatform ... more implementations into embedded (non-smartcard) form factor products. jNet's customers come from a variety of segments such as industrial automation, instrumentation and secure payments. The company is headquartered in Milpitas, Silicon Valley, USA.
 Securing connected Iowith Java: Javelin-SC: intelligent and efficient IP-addressable ... more security building blocks for connected devices and network nodes.
-Americas, Europe, Middle East, Africa
-Security & smart card solutions
 Providing customers with an easy path to integrating support into ... more their products and systems via a common Application Programming Interface (API) architecture, independent of the operating environment.
 NovTech uses 52ACA, a programmable security chip, in their ... more Field Programmable Gate Array (FPGA)-based industrial platform – NetLeapBy using a hardware solution, robust security measures were easily implemented to fight various software and physical attacks against the system.
 OnBoard Security was created to help automotive and Ioorganizations stay ahead of the curve through ... more superior cybersecurity. For over 10 years, the world-renowned experts at OnBoard Security have been pioneering that protect the Internet of Things, now and for the future. OnBoard Security addresses three significant challenges; ensuring the security and privacy of connected vehicles, making hardware roots of trust easy to use, and avoiding the existential threat from quantum computers to the integrity of the internet.
-Asia-Pacific, Europe, Middle East, Africa, Americas
-Security & smart card solutions
 OnBoard Security supplies a middleware for the OPTIGA™ chip. The TrustSentinel ... more middleware provides the core interface and security services framework for any application relying on the Additionally, OnBoard Security's Aerolink® library and Infineon's security controller (97) make vehicle to vehicle (V2V) communications more secure.
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
 2018 Fiscal Fourth Quarter and Fiscal Year Results
-2018 Fiscal Third Quarter Results
 For the eight year in a row:
 is one of the world's most sustainable companies
 The car of the future – mobility in 2030
@@ -342,29 +62,9 @@ How will the mobility of tomorrow look like? Follow us on a journey into the yea
 safe for sensitive data in the car: Volkswagen relies on from Business & Financial Press
 first chipmaker to be named "Partner of The Year" by Hyundai for cooperation in electro-mobility
 60 mm thyristor modules from Bipolar combine right fit functionality with proven reliability
-Latest market news
-Quiet Period
-Neubiberg, Germany
-Quarterly Financial Results about 2019 Fiscal First Quarter Results
-Conference Calls
 Conference Call for Analysts and Investors and Press Conference Call
-Visit on Twitter
 Yes, we are on Facebook! Step by and stay informed about latest press releases, research projects, innovations and important events within the semiconductor world and beyond. Don't miss out on a thing with our official corporate Facebook channel.
 Subscribe to the official YouTube channel and don't miss any video anymore. Watch our products, application and job videos and many more 24/7.
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-      Unfortunately, your browser does not support embedded frames (iframes): You can view the embedded page 
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKWe make life easier, safer and greener
 The world’s swelling population, more and more megacities and the rising demand for energy is prompting us to rethink many aspects of our modern lifestyle.
 is a world leader in semiconductor solutions that make life easier, safer and greener. Microelectronics from is the key to a better future. In the 2018 fiscal year (ending 30 September), the Company reported sales of around €7.6 billion with about 40,100 employees worldwide. is listed on the Frankfurt Stock Exchange (ticker symbol: IFX) and in the on the over-the-counter market International Premier (ticker symbol: IFNNY).
 Driving the Future of Automotive Electronics
@@ -379,197 +79,80 @@ Efficiency, powerful batteries and chargers, and high effectiveness: These custo
 Over 15 years of world-leading security expertise for increasingly demanding security requirements
 Digital communication calls for robust protection against the misuse of personal data – whether it be stored on an electronic passport or transmitted over the Internet. Based on its core competences in the fields of security, contactless communication and integrated microcontroller solutions (embedded control), offers an extensive portfolio of semiconductor-based security products for many chip card and security applications.
 With this expertise, is helping to increase security in an increasingly networked world, for example for mobile payment, for system security and secure electronic documents.
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
 Information according to Section 5 of the German Telemedia Act (TMG) 
 Dr. Reinhard Ploss (CEO) 
-Dr. Helmut Gassel
 Dr. Eckart Sünner (Chairman of the Supervisory Board)
 Commercial Register at Amtsgericht München, 126492 
 All content and materials on this site are provided “as is“. makes no warranties or representations with regard to this content and these materials of any kind, whether express or implied, including without limitation, warranties or representations of merchantability, fitness for a particular purpose, title and non-infringement of any third party intellectual property right. No license, whether express or implied, is granted by Infineon. Use of the information on this site may require a license from a third party, or a license from Infineon.
 accepts no liability for the content and materials on this site being accurate, complete or up-to-date or for the contents of external links. distances itself expressly from the contents of the linked pages, over the structure of which has no control.
-Content on this site may contain or be subject to specific guidelines or limitations on use. reserves the right to make corrections, deletions, modifications, enhancements, improvements and other changes to the content and materials, its products, programs and services at any time or to move or discontinue any content, products, programs, or services without notice.
-Where to buy
 Please use our location finder to get in contact with your nearest distributor or sales office
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Data Protection for Shareholders
 2018 Fiscal Fourth Quarter and Fiscal Year Results
 Infineon's Automotive conference call
-2018 Fiscal Third Quarter Results
-Latest News and Events
 safe for sensitive data in the car: Volkswagen relies on from Business & Financial Press
 first chipmaker to be named "Partner of The Year" by Hyundai for cooperation in electro-mobility
 60 mm thyristor modules from Bipolar combine right fit functionality with proven reliability
-Quiet Period
-Neubiberg, Germany
-Quarterly Financial Results about 2019 Fiscal First Quarter Results
-      Unfortunately, your browser does not support embedded frames (iframes): You can view the embedded page 
-Power (+ PMM) Conference Call - Presentation by Division Presidents Peter Wawer and Andreas Urschitz
 Sustainability at Infineon, Supplementing the Annual Report 2018
  Financial Statements and Management Report 2018 of (german only)
-Conference Calls and Webcasts
 Conference Call for Analysts and Investors and Press Conference Call
 Conference Call for Analysts and Investors and Annual Press Conference
-Bundesanstalt für Finanzdienstleistungsaufsicht
 over-the-counter-market
-European Semiconductor Industry Association
-Global Semiconductor Alliance
-Semiconductor Equipment and Materials International
-Semiconductor Industry Association
-World Semiconductor Trade Statistics
 Zentralverband Elektrotechnik- und Elektroindustrie e.V.
-Market Research & Analysis
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKAny use of this web site provided by (hereinafter “Infineon“) under the http://www.infineon.de  and/or http://www.infineon.com  (hereinafter “Web Site“) is subject to these Terms of Use.
-endeavors to diligently support and maintain the Web Site. However, does not warrant or guarantee that the Web Site is accessible at all times. also does not warrant or guarantee that the Web Site is always up to date and that the information on the Web Site is complete and free from errors at all times. Delays, wording mistakes, omissions and wrong information may occur.
 reserves the right to change these Terms of Use as well as the content and structure of the Web Site at any time. This includes the right to claim fees for certain offers, services and/or products on the Web Site or to no longer provide such offers, services and/or products.
-All users of the Web Site are responsible for all of their activities related to the Web Site and obliged to comply with all applicable laws.
-The information, material and documentation available on this Web Site (hereinafter “Materials”) are protected by copyright laws, international copyright treaties, and other laws and conventions related to intellectual property. Except as stated herein, these Materials may not be reproduced, modified, displayed or distributed in any form or by any means without Infineon’s prior written consent.
-grants permission to download, reproduce, display and distribute the Materials posted on this Web Site solely for informational and non-commercial or personal use, provided that the user does not modify such Materials, retains all copyright and proprietary notices as they appear in such Materials, and identifies as the source of the Materials.
 further grants to educational institutions (specifically universities and grammar schools) permission to download, reproduce, display and distribute the Materials posted on this Web Site solely for use in the classroom, provided that such institutions identify as the source of the Materials.
 Unauthorized use of any of these Materials is expressly prohibited by law, and may result in civil and criminal penalties.
-Any software that is made available to download from this Web Site (hereinafter "Software") is copyrighted. Use of this Software is governed by the terms of the respective license agreement, if any, that accompanies or is included with such Software (hereinafter "License Agreement"). user will be unable to install any Software that is accompanied by or includes a License Agreement before first agreeing to the License Agreement terms. Any reproduction or redistribution of the Software not in accordance with the License Agreement is expressly prohibited, and may result in civil and criminal penalties.
 User activities that aim at rendering the Web Site non-functional or at least obstruct the use of the Web Site are unlawful and may be prosecuted on the basis of civil and criminal law.
 Without prejudice to Section 10, any information, data, material or other content that the user sends to the Web Site (hereinafter “User Content”) will be deemed non-confidential and not protected by law. By sending any User Content to the user grants to the right – without limitation as to territory, time and scope – to use, reproduce, display, modify, incorporate, license and distribute the User Content or to exploit the User Content in any other way whatsoever.
 In particular, the user agrees that may use any ideas, concepts, techniques or other know-how that the user sends to the Web Site for any and all commercial and non-commercial purposes.
 Some sections of this Web Site may be password protected. In the interest of safety and security of the business transactions, only registered users may access said sections. reserves the right to deny registration to any user. particularly reserves the right to determine certain sections, which were previously freely accessible, subject to registration.
-For registration the user shall give accurate information and, where such information changes over time, update such information without undue delay. The user shall ensure that its e-mail address, as supplied to Infineon, is current at all times. Upon registration, the user will be provided with an access code, comprising a user and a password (hereinafter "User Data"). On first access the user shall promptly change the password received from into a password known only to the user. The User Data allow the user to view or change its data or, as applicable, to withdraw its consent to data processing.
-The user shall ensure that User Data are not accessible by third parties and shall be liable for all transactions and other activities carried out under its User Data. If and to the extent the user becomes aware that third parties are misusing its User Data, the user shall notify thereof without undue delay in writing, or, as the case may be, by e-mail. After receipt of such notice, will deny access to the password-protected section under such User Data. Access by the user will only be possible again upon the user's application to or upon new registration.
 The user may at any time request termination of its registration in writing, provided that the deletion does not violate the proper performance of contractual relationships. In such event will remove all user data and other stored personally identifiable data of the user as soon as these data are no longer needed.
 may at any time and without obligation to give reasons deny the user the right to access the password-protected section by blocking its User Data, in particular if the user
 uses false data for the purpose of registration;
 violates these Terms of Use or neglects its duty of care with regard to User Data;
-All Materials on this Web Site are provided “as is“. makes no warranties or representations with regard to these Materials of any kind, whether express or implied, including without limitation, warranties or representations of merchantability, fitness for a particular purpose, title and non-infringement of any third party intellectual property right.
 In particular, the user acknowledges and agrees that the application notes, reference designs simulations and/or other such design materials on this Web Site (hereinafter “Design Materials”) are provided as an example only and that user will exercise its own independent analysis and judgment in its use of the Design Materials. assumes no liability for use of the Design Materials and/or user’s product designs and/or any applications assistance provided by Infineon.
-Except for the rights of use and other rights expressly granted herein, no other rights are granted to the user nor shall any obligation be implied requiring the grant of further rights. Use of the Materials on this Web Site may require a license from a third party, or a license from Infineon.
 reserves the right to make corrections, deletions, modifications, enhancements, improvements and other changes to the Materials, its products, programs and services at any time or to move or discontinue any Materials, products, programs, or services without notice.
-Nothing in these Terms of Use shall limit or exclude Infineon's liability under mandatory liability laws, for injuries to life, body or health, for fraudulent concealment of defects, or in cases of Infineon's intentional misconduct or gross negligence.
 Without prejudice to Section 7.1, in cases of Infineon's slight negligent breach of obligations that restrict essential rights or duties arising from the nature of these Terms of Use or of an obligation whose observance the user regularly may trust in, Infineon's liability shall be limited to the typical, foreseeable damage.
-Hyperlinks
-The Web Site may contain hyperlinks to web sites of third parties. shall have no liability for the contents of such web sites and does not make representations about or endorse such web sites or their contents as its own, as does not control the information on such web sites and is not responsible for the contents and information given thereon. The use of such web sites shall be at the sole risk of the user.
-If the user violates these Terms of Use, such user’s permit to use this Web Site terminates automatically. In addition, may terminate the user’s permit to use this Web Site at its discretion and at any time regardless of any violation of these Terms of Use. In any of the foregoing events, the user is obliged to immediately destroy any content that has been downloaded or printed from this Web Site.
 For collection, use and processing of personally identifiable data of the user of the Web Site, will comply with applicable laws on data privacy protection and the Privacy Policy, which is available per hyperlink on this page .
-The user shall comply with all applicable national and international laws and regulations, in particular the applicable export control regulations and sanction programs. The user also agrees not to export, re-export or transfer any software or technology developed with or using information, software or technology offered by Infineon, in violation of any applicable laws or regulations of the competent authorities. Further, the user shall neither use any products, information, software and technology offered by in or in connection with nuclear technology or weapons of mass destruction (nuclear, biological or chemical) and carriers thereof nor supply military consignees. 
 These Terms of Use are subject to the laws of the Federal Republic of Germany with the exception of the United Nations Convention on the International Sale of Goods (CISG). The exclusive place of jurisdiction is Munich, unless the user is a consumer domiciled in the Federal Republic of Germany.
 In case that a provision of these Terms of Use is invalid or unenforceable the validity of the remaining provisions remains unaffected. 
-Where to buy
 Please use our location finder to get in contact with your nearest distributor or sales office
-OKQuiet Period
-Quarterly Financial Results about 2019 Fiscal First Quarter Results
 The 26th Korean Conference on Semiconductors
 Korea's Semiconductor Conference is the forum to discuss the direction of the Korean semiconductor industry in this era of change. Through this conference, the researchers who lead the semiconductor industry will be able to share their creative ideas and develop their skills to the next level.
 The 26th Korea­n Confe­rence­ on Semic­onduc­tors Websi­te
 The Automotive Ethernet Congress in Munich, with solution-aimed papers and workshops by leading automobile manufacturers and suppliers presents solid and in-depth support for concrete implementation of Ethernet projects.
-Host: Mobile World Congress 2019
 The mobile industry is characterised by growth and opportunity, and as the industry changes, opportunities increase. 2019 will provide an in-depth coverage of the current and future mobile industry, highlighting specific areas of growth as well as the latest technological developments, next generation services and growth strategies.
-embedded world
 The embedded world in Nuremberg, Germany is the world´s largest tradeshow for embedded technologies. At the Nuremberg Exhibition Centre the focus will be again on all things embedded systems: the embedded community comes together here in annual rotation at the embedded world Exhibition & Conference.
 The Payments Summit is the premier industry event covering all things payments, including FinTech, chip technology, mobile wallets, NFC, contactless, open transit systems and more. Attend the 9th annual Summit and get the latest on all of these exciting and the many business opportunities they can unlock.
 As the Premier Event in Applied Power Electronics™, focuses on the practical and applied aspects of the power electronics business. This is not just a designer's conference, has something of interest for anyone involved in power electronics.
-25 MarchMar – 27 MarchMar
-High Security Printing EMEA
 High Security Printing - Europe specialises in the production and issue of currency, fiduciary documents, cards, e-passports, visas, vehicle documents and licences
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Data Protection for Shareholders
 first chipmaker to be named "Partner of The Year" by Hyundai for cooperation in electro-mobility
 In Germany, young people are pushing e-mobility: acceptance of it decreases with age. Drivers choose "green" power for their electric vehicles
-strengthens collaboration with – becoming a shareholder
+grieves for Wolfgang Mayrhuber
 Chief Financial Officer Dominik Asam to move from to Airbus  in April 2019
 							Click here to subscribe for press releases and market news
-Conference Calls
 Conference Call for Analysts and Investors
-Conference Calls
 Conference Call for Analysts and Investors
-      Unfortunately, your browser does not support embedded frames (iframes): You can view the embedded page 
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
 OKData protection is a high priority for the Group. We comply with the data protection laws of the countries in which we do business. Internal data protection regulations ensure that uniform and high data protection standards apply to all companies of the Group. Our employees are obliged to comply with the legal and internal data protection regulations and to protect personal data.
 Extensive operational, technical and organizational security measures protect your data against accidental and deliberate manipulation, loss, destruction and against access by unauthorized persons. We regularly review our security measures and adapt them to technological progress.
 In the following, you will learn more about the handling of personal data within the Group (hereinafter also referred to as "Infineon").
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Health & Safety
-Corporate Citizenship
 For the ninth year in a row:
 is one of the world's most sustainable companies
 We see sustainability as leaving behind a world worth living in - for our children and our children's children.
-Dr. Reinhard Ploss
-Corporate Social Responsibility
 In addition to gaining a deeper understanding of our customers’ systems, optimizing our products and solutions, and achieving adequate profitability in line with our targets, it is also imperative that we run our business on a sustainable basis, responsibly committed towards society.
 We understand sustainability as the symbiosis between economy, ecology and social engagement, continuously respecting and recognizing the importance of cultural diversity. This is reflected in our Policy that sets guidelines for responsible and sustainable business operation, based on the fulfilment of the legal requirements where we operate and the commitment to follow the 10 principles of the Global Compact, which we signed up for in 2004. Furthermore, internal rules and requirements, voluntary self-commitments, as well as our customers' requirements, form an additional framework for our approach.
 Based on the ethical values mentioned above, we have identified six fields of activity:
-Environmental Sustainability
 Optimizing the efficient use of resources has long been at the core of our sustainability strategy.
-More about Environmental Sustainability
-Occupational Safety & Health
 Through comprehensive preventive measures, we ensure a safe and healthy working environment.
-More about Occupational Safety & Health
 Integrity guides our conduct towards our shareholders, business partners, colleagues, and the general public.
-Corporate Citizenship
 Interacting positively with local communities in the region in which we operate and supporting people in need is highly important for us.
-More about Corporate Citizenship
 Our suppliers have to adhere to strict requirements listed in our Business Conduct Guidelines and our Principles of Purchasing.
 We respect internationally applicable human rights, labor standards and fair business practices and ensure their compliance.
-More on Sustainability at Top Downloads
-Sustainability at Report 2018
-Supplier Code for a Responsible Sourcing of Conflict Minerals
-Awards and Notable events
+Read more in our Sustainability Report 2018.
 Over the years, has won many awards.
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-embedded world 2018
-Mobile World Congress 2018
-embedded world 2017
-Mobile World Congress 2017
-embedded world 2016
-Mobile World Congress 2016
-Mobile World Congress 2015
-embedded world 2015
-embedded world 2014
-embedded world 2013
-Press Conference Microcontroller Family 1000
-embedded world 2012
-Press Conference Microcontroller Family 4000
-Annual General Meeting 2012
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
 OKWe do what we promise. That´s quality made by Infineon.
 What does quality mean to us?
 products are part of our everyday life: the trains we board are moved by highly energy-efficient drives powered by our modules. Our sensors, microcontrollers and security solutions make the vision of automated driving a reality. Today, radar systems already support the driver for instance by recognizing objects or persons in the road. An emergency brake can be activated automatically, preventing a collision.
 Our products make life easier, safer and greener. In some applications they even help save lives. That is why there is no compromise when it comes to quality.
 Our customers can rely on us: We do what we promise. That’s quality made by Infineon.
-Quality at a glance
 Quality is not something you add – it has to be built-in
 Quality is a decisive competitive advantage. For this reason, quality is an integral part of the whole product lifecycle from development and production to delivery and associated product services.
 It takes up to 1,200 manufacturing steps to go from the silicon wafer to the chip. Complex chemical and physical methods are employed in a highly automated production environment . On many of our products, conducting paths are microscopically small; a single dust particle could cause the chip to fail. That is why our wafers are processed in cleanrooms equipped with cutting-edge machinery and controlled by highly-skilled employees. The manufacturing process is subject to permanent electronic monitoring in order to ensure stability and achieve the goal of “zero defect”.
@@ -579,23 +162,13 @@ Keeping commitments is also a value that characterizes our internal collaboratio
 All employees act as quality advocates in their respective areas of responsibility.
 They are sensitive to deviations and are encouraged to always detect the underlying root cause in order to find a sustainable solution.
 Well-established processes, methods and tools together with continuous improvement programs complete the basis for the outstanding position of quality at Infineon. We follow the principle of cross-linking the quality functions in our global matrix organization. By doing so, we make sure that we have a dedicated quality interface in place wherever it helps us come even closer to “zero defect”.
-Quality along the product lifecycle
-Trend analysis
 Our society is in a state of constant change. New challenges and requirements emerge, changing our markets. We always keep an eye on these developments. Based on out observations, together with our customers we determine which products are needed in order to offer safe and green solutions that are successful in the market.
 Then we define the requirements a new product has to fulfill. The decisive factor here is the system in which our customer will use a chip from Infineon. For example, applications in a car call for properties quite different from those needed in a smartphone. Our design engineers then translate these requirements into a theoretical chip construction. This step already takes subsequent manufacturing techniques into account.
 Now questions with a decisive bearing on realization are answered: What technology is best suited? How can we guarantee the necessary reliability of the product? Which of our sites are candidates for manufacturing? When this phase is over we have turned the theoretical concept into initial chip prototypes and have produced samples in small quantities.
-Verification and validation
 In the next step we check whether or not the product fulfills all the defined requirements. We provide our customers with samples so that they can test the product in the intended applications. At the same time the manufacturing technology is refined and a manufacturing plan is formulated so that the product can then be produced in larger quantities.
-Ramp-up & volume production
 The unit quantity of the new product is now continuously increased. Here we consider the entire value chain, from the supplier all the way to the customer. Stable processes are crucial in order to smoothly integrate the product in ongoing manufacturing activities. We use optical, electrical and statistical testing procedures to constantly guarantee the necessary product quality.
 Once a product has reached "end-of-life", we remove it from production in a process planned on a long-term basis. We inform our customers with sufficient lead time and continue to supply the agreed level of quality. Often we have already developed a functionally improved successor product.
 We continue to meet all our commitments – from the first chip to the very last.
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-welcomes your comments and questions:
 Please use the various contact channels, which are accessible through our different service modules attached to the pages. 
 Our support is available in English, German and Mandarin. You can chat with us or call us toll-free 24/7.
 If you have any questions about our products you can contact our technical experts here.
@@ -603,35 +176,12 @@ Find out where is located and visit the regional websites.
 The headquarter is in Munich, Germany. But is represented in nearly all parts of the world.
 works on the energy efficiency, mobility and security of tomorrow, to reach our goals we need competent people.
 The employees at are active in many different areas, we offer many different career paths. There are professionals, students and graduates, as well as school pupils at Infineon.
-If you have any questions about this topic please select the contact for your specific location.
 Our Media Relations Team provides the press releases, press kits and events. Media Relations is the right contact for journalists. 
+If you have any questions about the latest press releases, press kits or news about you will find a contact here.
 Our Investor Relations Team provides the financial results and reports of Infineon, for example the quarterly financial results, or annual reports.
 Besides the financial topics Investor Relations deals with Corporate Governance and many more.
 If you have questions about stock information, latest news, conference calls or other topics you will find a contact here.
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
 Our picture library contains corporate and product images. Images found in the media pool can be downloaded for online and print usage.
-In case you need images in 
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKWelcome to Infineon's Purchasing Site
 Please take this opportunity to learn more about becoming our supplier. At we actively seek suppliers whose objectives are compatible with ours. Specifically, we are looking for a commitment to deliver products and services with high quality at competitive prices worldwide.
 More than half of Infineon’s total costs occur with its suppliers. Only in close co-operation with our suppliersto optimize the whole value chain, we will achievesustainable competitive advantages in the future. values those suppliers who can contribute new ideas through innovative technology or creative business solutions.
 Therefore we implemented optimized processes for our purchasing activities and built enabling organizational structures, using new leading technologies. Our suppliers must continuously improve their performance and thereby their costs as well as ours.
@@ -642,7 +192,6 @@ Security is becoming more and more important in the days of modern technologies.
 Thus, we require a certain level of security measures to be taken by our supplier, which we summarized in the Supplier Security Guide , and which are in alignment with Technologies’ own security standards.
 In case you have reason to believe, that we are not living up to our own standards, feel free to contact either our Purchasing Office (+49 89 234 45112 ) or our Corporate Audit Office (+49 89 234 23373).
 We look forward to engage with suppliers that are aligned with us on these important topics.  
-Quality Management
 Our suppliers are fully responsible for the quality of their products. They must ensure that all products, supplied to Technologies, meet all applicable purchase specifications.
 Each supplier must set up a quality management system that will achieve the requirements of the Purchase Specification part These requirements should be viewed as fundamental in any supplier's management system in order to support the Zero Defect approach of Technologies.
 It is the responsibility of our suppliers to establish procedures and programs that document their quality practices.
@@ -652,195 +201,48 @@ Should a disaster strike and remove a key component of the supply chain or affec
 Hence has embarked on implementing a comprehensive Business Continuity Management system, and part of that is to assess the business continuity capabilities of all key suppliers, subcontractors or supply partners who engage in business with or intend doing so.
 All key suppliers are therefore required to provide us with sufficient proof of business continuity management systems or planning, control and mitigation. Proof can be provided in the form of plans, concepts or measures that are product specific, while strategic enough to encompass risk assessment measures, disaster prevention and business interruption avoidance.
 Suppliers will also be assessed on their risk management policies and practices as part of our supplier evaluation system.
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Part of your life. Part of tomorrow.
 We make life easier, safer and greener – with technology that achieves more, consumes less and is accessible to everyone. Microelectronics from is the key to a better future.
-Part of your life. Part of tomorrow.
 How do we contribute to a better future?
-With our entrepreneurial spirit
 Through creativity and commitment we create value for our customers, employees and investors. We understand how semiconductors increase the performance of modern technology and enable solutions that will shape our lives today and tomorrow. Developed with passion and manufactured with precision, every single product proves our will to succeed. This is what makes us a reliable partner and helps our customers to become even more successful.
-By accepting responsibility for society
 combines entrepreneurial success with responsible behavior. Efficient use of energy, environmentally-friendly mobility and security in a connected world – we solve some of the most critical challenges that our society faces while taking a conscientious approach to the use of natural resources.
 Men and women from more than 90 countries make a successful international company – with their skills, their enthusiasm and the courage to challenge the status quo and open up new horizons. Since the semiconductor was invented, we have helped shape the future – every single day.
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Explore our focus areas
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Data Protection for Shareholders
 							Click here to subscribe for press releases and market news
-      Unfortunately, your browser does not support embedded frames (iframes): You can view the embedded page 
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
 The 26th Korean Conference on Semiconductors
 Korea's Semiconductor Conference is the forum to discuss the direction of the Korean semiconductor industry in this era of change. Through this conference, the researchers who lead the semiconductor industry will be able to share their creative ideas and develop their skills to the next level.
 The 26th Korea­n Confe­rence­ on Semic­onduc­tors Websi­te
 The Automotive Ethernet Congress in Munich, with solution-aimed papers and workshops by leading automobile manufacturers and suppliers presents solid and in-depth support for concrete implementation of Ethernet projects.
-Mobile World Congress 2019
 The mobile industry is characterised by growth and opportunity, and as the industry changes, opportunities increase. 2019 will provide an in-depth coverage of the current and future mobile industry, highlighting specific areas of growth as well as the latest technological developments, next generation services and growth strategies.
-embedded world
 The embedded world in Nuremberg, Germany is the world´s largest tradeshow for embedded technologies. At the Nuremberg Exhibition Centre the focus will be again on all things embedded systems: the embedded community comes together here in annual rotation at the embedded world Exhibition & Conference.
 The Payments Summit is the premier industry event covering all things payments, including FinTech, chip technology, mobile wallets, NFC, contactless, open transit systems and more. Attend the 9th annual Summit and get the latest on all of these exciting and the many business opportunities they can unlock.
 As the Premier Event in Applied Power Electronics™, focuses on the practical and applied aspects of the power electronics business. This is not just a designer's conference, has something of interest for anyone involved in power electronics.
-25 MarchMar – 27 MarchMar
-High Security Printing EMEA
 High Security Printing - Europe specialises in the production and issue of currency, fiduciary documents, cards, e-passports, visas, vehicle documents and licences
 At you can find all the innovations and key players of the connected industry in one place. Discuss with your industry peers, take part in presentations with renowned experts, and find out everything about integrated energy systems, innovative supplier solutions, and industrial IT.
 New business models & processes, skills and organizations are needed to stay competitive when new players are entering the industry. Strategies are challenged by shorter development time for automation, electrification and connectivity projects. We are pleased to welcome you to Vehicle Electronics & Connected Services, the largest automotive conference in Northern Europe. This is a unique event where you get a glimpse into the future of automotive.
-Apr 10, 2019 - Apr 11, 2019 | Dubai, United Arab Emirates | Tradeshow
-Seamless Middle East
 Seamless is a meeting place for the brave new world of commerce. It is a new event built on 19 years of experience, bringing together the converging worlds of ecommerce, retail and payments.
-16Kang Sheng Industrial Park
-2191 Bryanston
-32330 Cd Juarez Chih
-56 Samseong 4-Gil
-University-industry Cooperation Center
-Düsseldorfer Landstrasse 401
-United States
-Ba Dinh District
-United States
-8th Floor
-52-53 Senyan Kebayoran Baru
 Freistädter Strasse 400
-United States
-118 Stondbridge Drive
-United States
-United States
-United States
-United States
-250 Rua Elvira Ferraz
-13th Glass Tower
-The 10th Floor
-Kallang Way 168
-22510 Tijuana B.C.
-Wybrzeze Gdynskie 6D
-United States
-United States
-No.6 Xing Chuang San Lu RD
-Wuxi High-tech Zone Comprehensive Bonded Zone
-Wuxi-Singapore Industrial Park
-BESbswyToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Dr. Reinhard Ploss
-Chief Executive Officer (CEO)
 Reinhard Ploss has been a member of the Management Board of since 2007. He has been since 1 October 2012.
 Reinhard Ploss was born on 8 December 1955 in Bamberg. He studied process engineering at the Technical University of Munich and in 1986 received his doctorate. He began his career at (Siemens until 1999) in the same year. 
-Chief Financial Officer (CFO)
 Dominik Asam has been the Chief Financial Officer of since 2011.
 Dominik Asam was born on 6 March 1969 in Munich. He studied at the Technical University of Munich and the École Centrale in Paris. He is a graduate mechanical engineer and an ‘Ingénieur des Arts et Manufactures’. In addition, he completed an at in Fontainebleau, France. Dominik Asam joined in 2003.
-Dr. Helmut Gassel
-Chief Marketing Officer (CMO)
 Helmut Gassel has been a member of the Management Board and Chief Marketing Officer of since 2016. He is responsible for Sales & Marketing, Regions, Strategy Development, Mergers & Acquisitions and Intellectual Property.
 Helmut Gassel was born on 13 March 1964, in Dortmund, Germany. He holds a Diploma in Physics from the Ruhr-University in Bochum, Germany. He received his Phin Electrical Engineering from the University Duisburg, Germany. He joined (Siemens until 1999) in 1995.
-Chief Operations Officer (COO)
 Jochen Hanebeck has been a member of the Management Board of and Chief Operations Officer since 2016. He is responsible for Operations including Manufacturing, Logistics, Quality, Customs and Purchasing.
 Jochen Hanebeck was born on 2 February 1968 in Dortmund. He received a degree in electrical engineering from Aachen University. He has been with since 1994 (Siemens until 1999).
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
 Support is available in English, German and Mandarin from our talented team of experts.
-Get product support from our technical experts
 Find an answer to your question
-      Unfortunately, your browser does not support embedded frames (iframes): You can view the embedded page 
-      Unfortunately, your browser does not support embedded frames (iframes): You can view the embedded page 
-- Your Idea Pays
 Submit your Idea for improvement here!
-Solution Finder
-Eval Board Finder
-Microcontroller Development Tools
-Microcontroller Application Note Selector
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Dr. Eckart Sünner 
 Chairman of the Supervisory Board of Licht Curriculum vitae
-Dr. Herbert Diess
 Member of the Management Board of Volkswagen Curriculum vitae
-Dr. Wolfgang Eder
-Chairman of the Management Board of voestalpine (Linz/Austria)
-Management Consultant
 Prof. Dr. Renate Köcher
-Managing Director - Institut für Demoskopie Allensbach GmbH, Allensbach
-Géraldine Picaud
-and member of the Executive Committee, LafargeHolcim Ltd., Jona, Switzerland
-Dr. Manfred Puffer
-Management Consultant 
-Deputy chairman, general works council, Curriculum vitae
-Annette Engelfried
-Trade Union Secretary, Information Technologies, Siemens Team,
-Metall District Manager Berlin-Brandenburg-Saxony
-Senior Vice President Operations Finance 
-Representative of Senior Management 
 Member of the Works Council, Munich - Campeon 
-Dr. Susanne Lachenmann
 Lead Development Engineer for Design Enabling and Services, Design methodology, physical verification (Senior Staff Engineer)
 First authorized agent of Metall, Regensburg
-Kerstin Schulzendorf
 Expert in the frontend-production
 Deputy chairwoman of the Works Council Warstein
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
 Corporate Vice President Communications and Public Affairs & Associations
-Senior Director External Communications 
-Volker Gieritz
 Spokesperson Power Management & Multimarket (transitionally)
-Diana Kaaserer
-Spokesperson Corporate & Innovation
-Gregor Rodehüser
-Spokesperson Markets & Business Development
-Oliver Scharfenberg
-Fabian Schiffer 
-Spokesperson Industrial Power Control
-Spokesperson Digital Security Solutions
-For other requests please turn to:
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
 OKHuman Resources Management and Human Rights
 respects internationally applicable human rights, labor standards and fair business practices and ensures their compliance. We do not tolerate any infringement of these standards as reflected in the Business Conduct Guidelines .
-Respect to Human Rights, Freedom of Association, Abolition of Child Labor
 Our Code of Conduct, the Business Conduct Guidelines, reflect our commitment to comply with internationally proclaimed human rights, including the protection of personal dignity and privacy of every individual. We shall not condone human rights abuses. The Business Conduct Guidelines shall apply to both internal cooperation and conduct towards external partners. 
 The  Business Conduct Guidelines are globally binding rules applicable to every employee, each member of the Managing Board of and to each member of the Board of Directors or similar body of Group Companies. Participation in training in this field is mandatory and is repeatedly carried out at regular intervals. 
 Our  Business Conduct Guidelines  acknowledges the right of employees to join associations and the right to collective bargaining to agree on working conditions. and the respective employee associations work together constructively and in good faith as well as with mutual respect. 
@@ -849,14 +251,6 @@ We also require our suppliers and service providers to comply with the requireme
 As reflected in the Business Conduct Guidelines, discrimination shall not be tolerated. An employee or an external business partner shall not be discriminated against, harassed or offended on the basis of race, color, national origin, gender, religion, age, disability, union or political affiliation, sexual orientation, marital or family status. Any forms of sexual harassment, corporal punishment, physical coercion and verbal abuse are prohibited, as well as any intimidating hostile or offensive conduct. 
 All employees, business partners, customers or other stakeholders who would like to report possible violations of national regulations or internal guidelines can make their report  to this portal , openly or anonymously. Each report will be processed, and if necessary, will take the appropriate measures.  Read more
 As an international organization, we thrive on the diversity of our staff. Our global diversity management provides the framework for a corporate culture which values the individuality of each staff member and promotes equal opportunities – irrespective of age, disability, ethnic-cultural origin, gender, religion or belief, or sexual identity. The focuses selected may vary from one location to another and are tailored to local needs.  More information about diversity 
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Data Protection for Shareholders
-Quarterly Financial Results
-Archive International Rectifier
 Comprehensive term for the manufacture and processing of wafers with a diameter of 300 millimeters.
 “Mixed-signal” is a generic term for integrated circuits that operate simultaneously with analog and digital signals. Owing to similar requirements in terms of development and manufacturing processes, they are generally grouped together with integrated circuits operating exclusively with analog signals, hence giving rise to the combination “analog-mixed-signal”.
 Application Specific Integrated Circuit. Logic specially constructed for a specific application and customer; implemented on an integrated circuit.
@@ -878,77 +272,32 @@ Integrated Circuit. Electronic Component parts composed of semiconductor materia
 Insulated Gate Bipolar Transistor Module. IGBTs are semiconductor components used increasingly in power electronics due to their robustness, high blocking voltage, and their ability to be triggered with negligible power. Modules are formed using several IGBTs in parallel within a single casing. These modules are used to drive electric motors both in automotive and industrial applications. Motor speed and torque can be regulated along a gradual scale. Trains such as Germany’s and France’s use modules for an efficient and rapid electrical drive control.
 Integrity Guard (IG) is a revolutionary security technology designed for chip cards and security applications, with which is ringing in a new era in the field of hardware-based security. was specially developed for sophisticated, longlife applications such as payment cards and government identification documents. enables a security controller for the first time to provide complete error detection and comprehensive encryption of all chip functions across the entire data path within the chip. For this reason it is known as “digital security”. is used in the security controllers of the 77 and 78 families and has won numerous international awards.
 An inverter, also called a DC/converter, is an electrical device for converting voltage into voltage, or direct current into alternating current. Inverters are used in solar power plants, for example, for converting the voltage generated in the solar modules into voltage, which is then fed into the electricity network.
-Micro-electro-mechanical system. micro-electro-mechanical system, or simply a microsystem, is a miniaturized device, assembly or part that contains components of minute dimensions (only measurable in micrometers) that work together as a system. Usually a microsystem consists of one or more sensors, actuators and control electronics on one chip. manufactures microphones as Due to their diminutive size, low power consumption, good shielding from interfering signals and low-cost production, these types of microphone are being increasingly installed in mobile devices such as smartphones, tablets, cameras, and accessories such as headsets and hearing aids.
 Metal-Oxide-Semiconductor Field-Effect Transistor. is currently the most widely used transistor architecture. MOSFETs are used both in highly integrated circuits and in power electronics as special power MOSFETs.
 Near field communication. An international communication standard for contactless data exchange over short distances. The initial drafts of the communication standard appeared several years ago, but the technology did not break through until 2011 when it was included in the first smartphones. can be used as an access key to content on terminals and for services such as cashless payment and paperless ticketing.
 Power transistor is a term used in electronics to refer to a transistor for switching or controlling large voltages, currents and outputs. There is no standard method of differentiating between transistors for signal processing and power transistors. Power transistors are mainly produced in packages that enable installation on heat sinks, as it is otherwise impossible to handle the dissipation loss of several kilowatts that occurs with some types and applications.
 special diode that has a metal-semiconductor junction rather than a semiconductor-semiconductor junction. The most frequently used semiconductor material up to 250 volts is silicon. Silicon carbide (SiC) is used for voltages in excess of 300 volts (see Silicon Carbide). SiSchottky diodes offer a number of advantages over conventional diodes in power electronics. When used together with transistors, it is possible to dramatically reduce switching losses in the diode itself, as well as in the transistor. The name derives from the German physicist Walter Schottky
-(1886 – 1976).
-Chemical symbol of silicon carbide (see Silicon carbide.
 Compound semiconductor made from silicon (chemical symbol Si) and carbon (chemical symbol C). The abbreviation is SiBecause of its special material properties (e.g. good thermal conductivity), Siis used for Schottky diodes, as well as elsewhere (see Schottky diode).
 switch-mode power supply is an electronic module that transforms an voltage into a voltage. Switch-mode power supplies are more efficient than mains transformers and can be more compact and lighter than conventional power supplies containing a heavy transformer with a ferrous core. Switch-mode power supplies are mainly used in PCs, notebooks and servers. However, they also achieve a very high level of efficiency even at low power, so they are increasingly found in plug-in power supply units, for example, as chargers for mobile phones.
 wafer is typically around 350 microns (μm) thick when sawn into individual chips. thin wafer is one that has been polished down to less than 200 microns thick (a human hair or a sheet of paper, by comparison, is about 60 microns thick). Thin wafer technology offers benefits: Thinner chips mean losses can be reduced and the heat generated can be dissipated more effectively. Another advantage is that electrically active patterns can be produced on the backside as well, enabling the chip to provide completely new functions. Thin wafer chips also allow more compact packages.
 Trusted Platform Module. chip that adds elementary security functions such as license and data protection to a computer or similar device. TPMs can be integrated into tablet PCs, smartphones and consumer electronics as well as PCs and notebooks. trusted computing platform (see Trusted Computing) can be created by combining a specially configured operating system and appropriate software with a device containing a TPM.
 Trusted Computing means that the hardware and software used in PCs, as well as other computer-controlled systems, such as mobile phones, can be controlled. This is achieved by means of an additional chip, the Trusted Platform Module (TPM), which can use cryptography to measure the integrity of the hardware and of the software data structures, while also saving these values in a verifiable way.
 							Click here to subscribe for press releases and market news
-      Unfortunately, your browser does not support embedded frames (iframes): You can view the embedded page 
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Health & Safety
-Corporate Citizenship
-Sustainability at Report 2018
 Explanatory Notes - Sustainability at Report 2018
 Limited Assurance Report of the Independent Auditor Regarding Sustainability Information
 Limited Assurance Report of the Independent Auditor Regarding the Combined Separate Non-Financial Report
-Consult here Infineon's latest Annual Report
 Download Infineon's Global Compact - Communications on Progress 
 Download Infineon´s Water Mandate Communication on Progress
-Sustainability at Report 2017
-Explanatory Notes 2017
-Limited Assurance Report 2017
 Global Compact - Communication on Progress 2017 
-Water Mandate - Communication on Progress 2017
-Sustainability at Report 2016
 Explanatory Notes - Sustainability Chapter - Annual Report 2016
-Independent Assurance Report 2016
 Global Compact - Communication on Progress 2016
-Water Mandate - Communication on Progress 2016
-Sustainability chapter - Annual Report 2015
 Explanatory Notes - Sustainability Chapter - Annual Report 2015
-Independent Assurance Report 2015
 Global Compact - Communication on Progress 2015
-Water Mandate - Communication on Progress 2015
 Sustainability chapter of Annual Report 2014
 Explanatory Notes - Sustainability Chapter - Annual Report 2014
-Independent Assurance Report 2014
 Global Compact - Communication on Progress 2014
 Water Mandate - Communication on Progress 2014
-Sustainability chapter of Annual Report 2013
 Explanatory Notes - Sustainability Chapter - Annual Report 2013
-Independent Assurance Report 2013
-Limited Assurance Letter 201
-Global Compact - Communication on Progress 2013
-Sustainability chapter of Annual Report 2012
 Explanatory Notes - Sustainability Chapter - Annual Report 2012
-Independent Assurance Report 2012
-Limited Assurance Letter 201
-Global Compact - Communication on Progress 2012
-For older reports please use our 
-archive of Annual Reports
-Principles of Purchasing
-Supplier Code for Responsible Conflict Minerals
-Do you want to give feedback?
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKInformation Security
 In times of cybercrime, security threats against companies have increased. Thus, it is utmost crucial for us to safeguard confidentiality, integrity, and availability of business data, particularly personal data. For years, has met the lawful minimum requirements. On top of that, we operate a global information security management system (ISMS), which enables us to identify and systematically assess all potential risks in order to avoid or at least mitigate them. These risks may occur, if buildings, datacenters, networks, systems, and applications are inadequately secured.
 Such risks are also associated when it comes to outsourcing of services or the use of cloud-based solutions. By conducting regular internal and external audits, we constantly review and optimize all relevant risk areas. As a result, we continuously improve our security standards and thereby strengthen customer and business partner trust.
 An independent inspection authority certified our according to the world-wide accepted standard  ISO/27001 . This  certificate globally covers all relevant corporate sectors, ranging from research and development, production and testing, logistics and sales of semiconductor components including corporate services. As the most important international standard, ISO/27001 defines proven procedures as well as best practices for the optimization of information security.
@@ -957,104 +306,35 @@ Integrity guides our conduct towards our shareholders, business partners, collea
 Our Corporate Governance concept applies to the entire company. Good Corporate Governance ensures the success of the company on the basis of trust and respect. We consider Corporate Governance to be an integrated, holistic approach that encompasses all corporate values, processes and goals. Corporate Governance includes standards for internal controlling as well as guidelines for corporate ethics in a competitive environment.
 To a substantial degree, our company's public image is determined by our behavior and by the way each of us presents and conducts him or herself. All employees share the responsibility for ensuring that our company meets its Corporate Social Responsibility worldwide. The Business Conduct Guidelines reflect our ethical principles and are the fundamental basis for our daily activities.
 This ethical commitment also embodies our policy on bribery and corruption, political contributions and business transparency. They apply to all employees worldwide in dealing with each other or with customers, shareholders, business partners and the public.   Read more
-Reporting of Compliance Concerns
 All employees, business partners, customers or other stakeholders who would like to report possible violations of national regulations or internal guidelines can make their report to the Integrity Line , openly or anonymously. All reports are treated confidentially and include a non-retaliation policy.
 The Integrity Line also considers local languages in addition to English. Read more  
 The ten principles of the Global Compact in the areas of human rights, labor, the environment, and anti-corruption are derived from the “Universal Declaration of Human Rights,” the “ International Labor Organization's Declaration on Fundamental Principles and Rights at Work,” the “ Rio Declaration on Environment and Development,” and the “United Nations Convention Against Corruption”.
 joined the Global Compact in 2004, and therefore, aligned its Corporate Social Responsibility (CSR) strategy to follow and comply with the ten principles of the Global Compact. Please see Infineon's Communication on Progress
-Principles of Purchasing
 We at adhere ourselves to the international and local laws and respect different cultural practices. We expect from our suppliers to do the same as well as to embrace, support and to be committed to the principles of the Global Compact Initiative. Aligned with our Business Conduct Guidelines, we develop in 2013 the new   Principles of Purchasing , in order to inform our suppliers about the ethical and legal requirements related with the challenges in their day-to-day business regarding to human rights and environmental sustainability. Our suppliers and service providers shall comply with these requirements and monitor their compliance with these principles.
-“California Transparency in Supply Chains Act” and the “United Kingdom Modern Slavery Act”
 As reflected in our commitment to the United Nations Global Compact we respect and observe the internationally proclaimed human rights, including the rights to personal dignity, privacy and cultural practices. As set forth in our Business Conduct Guidelines as well as in our Principles of Purchasing, we shall not condone human rights abuses, neither in the form of direct nor beneficial nor silent complicity and we are against any form of forced labor. We strictly oppose any form of human trafficking and slavery.  
 The “California Transparency in Supply Chains Act” of 2010 and the “United Kingdom Modern Slavery Act” of 2015 require certain businesses to provide disclosure concerning their efforts, if any, to address the issues of slavery and human trafficking in their supply chains. The disclosures are intended to provide consumers the ability to make better choices about the products and services they buy and the companies they support.
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
 Hotline - Get connected with the answers!
 Hotline - Get connected with the answers! Wherever, Whenever
-0800 951 951 951 (German/English)
-4001 200 951 (Mandarin/English)
-* interconnection fee
+We offer competent Service in 
 Some countries may require you to dial a code other than "00" to access
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-0011 800 - 951 951 951
-001 800 - 951 951 951
-Kaszakhstan
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-00 800 - 951 951 951
-001 800 - 951 951 951
-001 800 - 951 951 951
-00 800 - 951 951 951
-001 800 - 951 951 951
-00 800 - 951 951 951
 Get in contact by Phone!
-Where to buy
 Please use our location finder to get in contact with your nearest distributor or sales office
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-Supply Chain Management
 We expect our suppliers to be committed to the values reflected in our Principles of Purchasing and to fulfill our Purchase Specifications. requires that its suppliers and vendors comply with all applicable laws, including those relating to labor practices and forced labor.
 These and other expectations towards suppliers including Environmental Protection, Health&Safety, Human Rights, Fair Business Practices, among others are reflected in our Principles of Purchasing. Furthermore, we expect them to support the principles of the Global Compact Initiative.
 is not listed on stock exchanges and therefore not legally required to comply with the requirements of the Securities and Exchange Commission (published in August 2012) neither to publish a report on conflict minerals.
 is taking systematic steps to avoid the use of Conflict Minerals in its supply chain that directly or indirectly finance or benefit armed groups in the and thereby achieving and maintaining a supply chain that is Conflict Free. These systematic steps are based on the five-step framework for risk-based due diligence on the source and chain of custody of Conflict Minerals in our supply chain according to the “Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas”.Moreover, has joined the so-called “Conflict-Free Sourcing Initiative”. We have set out our targets in the “Conflict Minerals Policy”.  Read our Conflict Minerals Policy and our  Supplier Code for a Responsible Sourcing of Conflict Minerals .
 Corporate responsibility and respect of human rights are essential for Technologies. Thus, is aware of the fundamental problem and, as a responsibly acting entity, has defined a group wide approach with the aim of guaranteeing the required transparency within its own supply chain.
-Supplier Management
 Supplier Management is the organization, controlling and development of supplier relationships. Supplier Management is based on four interlocking modules, through which uniform sourcing, evaluation, classification and development of suppliers is achieved.
 At Infineon, old and new suppliers have to fulfill a Corporate Social Responsibility questionnaire including Environmental Sustainability, Ocupational Health and Safety, and Business Continuity questions among others. These questionnaires are then evaluated by specialists. Upon receipt and review of the questionnaire, if any answers appear to be unacceptable for Infineon, an improvement process is defined and communicated to the supplier. reserves also the right to audit such supplier. For more information about supplier management, please click  here .
-Principles of Purchasing
 The Principles of Purchasing reflect the essential business behavior requirements as outlined in our Business Conduct Guidelines. As stated there, all of our Suppliers shall comply with all requirements described herein. In addition, each of our Suppliers shall ensure that its affiliates, contractors and subcontractors also comply with all requirements described herein.
 We demand that Suppliers reject forced labor as well.
 While we recognize and respect cultural differences, we believe that workers should be employed on the basis of their ability to do the job, rather than on the basis of personal characteristics or beliefs. We recruit, select, train, promote and compensate employees solely on the basis of work-related criteria. Furthermore, we compensate our employees fairly for their work with wages that meet at least minimum legal standards and adhere to the applicable laws, regulations and agreements on working hours and general working conditions.
 Our Suppliers shall comply with these principles.
-Our Suppliers shall not tolerate any discrimination, harassment or offense based on race, color, national origin, gender, religion, age, disability, union or political affiliation, sexual orientation, marital or family status. Any forms of sexual harassment, corporal punishment, physical coercion and verbal abuse shall be prohibited, as well as any intimidating hostile or offensive conduct that interferes with an employee’s work performance.
 * Exceptions apply to employment relationships in developing countries operating under the International Labour Organization (ILO) Convention 138 or to governmental authorized job trainings or apprenticeship programs that clearly benefit the persons participating.
 abiding by the rules of fair competition and anti-trust laws
-working against corruption in all its forms
-not taking advantage of anyone through manipulation, concealment, abuse of privileged information, misrepresentation of material facts and any unfair dealing practices  working against corruption in all its forms.
 Our Suppliers shall comply with this business practice.
 Our Suppliers shall establish a robust and resilient supply chain and adequate processes to ensure uninterrupted product delivery and provision of services. We recommend that our Suppliers implement and administer appropriate plans to ensure business continuity. 
 All key suppliers are required to provide us with sufficient proof of business continuity management systems or planning, control and mitigation. Proof can be provided in the form of plans, concepts or measures that are product specific, while strategic enough to encompass risk assessment measures, disaster prevention and business interruption avoidance. 
-abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZOccupational Safety and Health
 The safety and health of our employees is of highest priority at Infineon. Our concept for occupational safety mainly focuses on prevention, with the aim of creating a safe working environment which avoids the occurrence of workplace related accidents.
 Our Occupational Safety and Health Management System in place at Infineon’s production sites and at Campeon corporate headquarters is certified in accordance with the 18001 certificate  standard and is designed to ensure that the required measures are taken to minimize the risks in the working environment that could endanger our employees.
 Our employees are regularly informed about workplace-specific topics as well as about operational circumstances. Through extensive preventative measures, we create a safe working environment that minimizes the number of workplace accidents.
@@ -1066,84 +346,45 @@ The project is run jointly with employee representatives. On the basis of a staf
 In terms of memory concept fully phases over its offer of Smart Card ICs from Mask to Flash based products. Being absolutely convinced of the numerous advantages coming along with this flexible memory concept, designs all new security controllers based on its FLASH™ technology. 
 is looking back on a long history and a more than 15 years experience with Flash, which differs from ordinary consumer Flash by its highest quality and reliability. 
 Infineon's Flash based products are used in many life critical Automotive applications (e.g. Airbag, Braking) since years. Combining this experience with its high security expertise, developed the FLASH™ concept, which offers the required reliability and security needed even for high security Smart Card applications like Payment, Government ID, Payand High-end MobCom.
-welcomes your comments and questions.
 If you have any questions concerning our products, please fill out the following form. Your inquiry will be sent to the appropriate specialist who will be in touch with you as soon as possible.
 You will receive a confirmation E-mail to validate your address in our system. Any attached file to the reply which will help to support your inquiry is highly appreciated.
-Please post your technical question as detailed as possible*
 agree to the processing of my personal data according to the privacy policy .*
-agree providing me newsletters and further marketing information about products, services & events by email and/or telephone and transmitting my data to its licensed distributors & partners exclusively for sales support purpose. can withdraw my consent at any time.
-Your opinion matters!
 In order to better align the website to your business needs, we would appreciate your feedback.
+Would you have 6-8 minutes to provide us with further feedback regarding our website once you have finished browsing?
 The information that you provide will be treated with strict confidentiality, of course. Your responses will remain anonymous.
-Thank you very much!
-NoToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Data Protection for Shareholders
 (fiscal year from October 1 to September 30)
 							Click here to subscribe for press releases and market news
-Conference Calls
 Conference Call for Analysts and Investors
-Conference Calls
 Conference Call for Analysts and Investors
-      Unfortunately, your browser does not support embedded frames (iframes): You can view the embedded page 
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
 OKCorporate Citizenship
-Corporate Citizenship
 As a socially committed company, we consider as a voluntary approach to make an ongoing positive contribution to the development of the local communities in which we operate. Corporate Citizenship, understood as our voluntary commitment to these communities, is therefore a key component and one of the six pillars of our strategy.
 Based on the ten principles contained in the Global Compact, the OECD’s (Organization for Economic Co-operation and Development) Millennium Development Goals and the Local Agenda 21, has created the so-called Corporate Citizenship Guidelines .
 This Corporate Citizenship Guideline helps us to ensure that our donations make a sensible contribution to the communities supported and are carried out in accordance with transparent criteria and that the final activities supported comply with the ethical standards which orientated our business.
 Please find bellow the amount spent in 2018 fiscal year with our Corporate Citizenship initiatives:
 In addition to monetary and material donations, we are proud of the commitment of our employees in voluntary activities supported in all these fields of initiatives.
-Education for Future Generations
 This field of corporate citizenship support young talents with their studies and development, provides endowment of professorships and chairs at recognized universities and also provide support to students to improve their education condition, expanding their knowledge and experience. In 2018 fiscal year some of the initiatives supported were:
 Volunteer activities at the University of Central Florida for research in the field of solar energy (USA)
 Support for the German Speaking Society Kuala Lumpur for educational projects and humanitarian aid for refugees (Malaysia)
-Local Social Needs
 This field support cultural events and activities to improve quality of life of people of surrounding cities and communities. It also support and maintain social programs and organizations that support people in vulnerable conditions. Others initiatives focus to contribute to the economic development of surrounding regions. In 2018 fiscal year some of the initiatives supported were:
-Support for “Stiftung Ambulantes Kinderhospiz München”: The out-patient children’s hospice care foundation assists families with severely ill children (Germany)
 Support for American Cancer Society: Support for research, prevention, discovery and treatment of all types of cancer (USA)
-Environmental Sustainability
 Our aim is to support environmental initiatives for the awareness of the population regarding the importance to protect the environment and the ecosystems. In 2018 fiscal year some of the initiatives supported were: 
-Support for “myTREEvolution”: Project for CO2 footprint reductions (Malaysia)
-Responding to Natural and Humanitarian Disasters
 These focus areas are supplemented by our commitment in the field of emergency assistance in the event of natural and humanitarian disasters. In 2018 fiscal year some of the initiatives supported were:
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Data Protection for Shareholders
-      Unfortunately, your browser does not support embedded frames (iframes): You can view the embedded page 
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
 OKconducts webinars related to our key segments industrial, automotive and security.
-All webinars at a glance
 The webinars are all free of charge and are held in English. In about 60 minutes, some selected experts will guide you through specific topics and answer your questions in a Q&session.
-What is a system?
 Basics about service, consumer and warehouse robots - design and typical requirements
 Infineon's product portfolio adressing  service, consumer and warehouse robots
 Get the basic understanding of wireless charging and its market
 Know the relevant products and solutions for designs based on inductive and resonant standards
  Get a recommendation for your wearable and smartphone design challenges
-Voice user interface audio chain bottlenecks
-Application benefits which premium microphones enable
+In this webinar you will learn about:
 The integration of discretes in emerging applications such as sharp antennas, lidar and others
 What we offer beyond product performance - the criteria for the right choices
-Applications utilizing barometric data
 Infineon's new, intelligent pressure and temperature sensor combo solution
 New boards and software tools that enable easy evaluation and quick integration of pressure sensors
 Application trends in DC-EV-Charging.
 Why battery charging seems to remain the most efficient solution.
 The difference between AC- and DC-Charging and what component families to use.
 The current situation and the ongoing developments
-Portable generator market analysis
 Undestanding supply chain and target customers
 Infineon's role as a full system solution provider
 Learn the key elements of a multicopter system
@@ -1154,53 +395,36 @@ The value proposition, target topologies and applications for CoolMOS™
 The excellent performance, exceptional ease-of-use and best price/performance ratio of CoolMOS™ P7
 Discover an overview about Infineon's high performance industrial portfolio
 Understand LDOs' key features and how your application may benefit from its excellent characteristics
-Learn about tools to select and simply evaluate LDOs
 Get a basic understanding about wireless charging for consumer applications and its market
 Know the relevant products which fit into wireless charging (inductive and resonant)
+In this webinar you will learn about:
 Understand the whole technology chain needed for IoT, not just about sensor to cloud
 Discover the benefits and key advantages of capacitive barometric sensing technology
 Understand who the stakeholders are in terms of security and how to make sure their requirements are designed in from the start
-The capabilities of radar
-24GHz value proposition
 Insights into the robotic revolution, industrial and collaborative robots as well as current market trends
-The requirements facing robot manufacturers
-How can help meet these requirements
-What Coolis about
 How Coolhelps to achieve cost-savings, efficiency improvements, size reductions, etc.
-Package innovation: Coolin SOT-223
 What is a horticultural lighting system?
 Infineon's contribution to as a full system solution
 contribution to as a full system solution
 Infineon's product portfolio adressing lighting
 product portfolio adressing lighting
-Where this device series in adopted in different Radio Frenquency applications
 What the unique selling value these products is 
-How compare beyond  performance excellence
-Target applications and topologies
 Thermal behavior of SOT-223
-Digital control of power supplies
-Infineon's toolchain for developing digital control applications
 The widest product portfolio in the market with seamless functionality among all products
 Dedicated semiconductor solutions for each application
 Innovative components to meet and exceed even the most rigorous requirements for reliability, quality and energy efficiency
 Technical support from highly experienced engineers to help optimize your system design and cost and to reduce time-to-market
+In this webinar you will learn about:
 How can you easily implement a switch mode power supply to power your embedded system?
 What options do you have when implementing a power supply ?
 What is synchronous rectification, its benefits and how can you implement synchronous rectification in your power supply?
 How can you leverage a microcontroller reference design to implement an subsystem and focus on the differentiating feature of your product rather than on the design of the system ?
 Infineon's solutions for embedded systems
-3magnetic sensors
-Product portfolio and positioning
-Target applications for 1200SiSchottky Diodes
-New features  and benefits of 1200 CoolSiC™ Schottky Diode Generation 5
-Portfolio mapping across target applications
+In this webinar you will learn about:
 Infineon's solution for a mid-range and high-end drivers
-Overview about automatic opening systems
 Infineon's role as a full system solution provider
-Infineon's solution for optimized motor control
 Infineon's solution for power management
 Infineon's role as a full system solution provider
-Infineon's motor control solution for optimized motor control
 Infineon's power supply solution for highest efficiency
 What is a multicopter system?
 Infineon's role as a full system solution provider
@@ -1210,22 +434,12 @@ Infineon's demo solution for multicopters
 How Infineon's 24 GHz radar technology integrates into modules
 SMR's role in new trends like IoT
 Key benefits of radar technology when compared with ultrasound and other sensor In this webinar you will learn about:
-Infineon’s extremely low power 3 dimensional linear hall sensor addressing many applications.
 Introduction to Infineon’s low cost magnetic based wheel speed sensor and be surprised with the versatility of our capacitive based miniature absolute pressure sensor DPS310.
 An overview about the TLx493family that features highly accurate three-dimensional sensing with extremely low power consumption in a small 6-pin package.
 The TLE4922, an active mono cell hall sensor ideally suited for detecting the motion and position of ferromagnetic and permanent magnet structures.
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
 We make life easier, safer and greener – with technology that achieves more, consumes less and is accessible to everyone. Microelectronics from is the key to a better future.
-Revenue in fiscal year 2017: € 7,063 m
 About 37,500 employees worldwide (as of September 2017)
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKEnter a new world of security
+36 R&locations; 18 manufacturing locations
 From unlocking the door at home or work, to buying a ticket on the bus, to entering a sold-out stadium, a growing number of places have come to rely on an electronic access management system. This practical and convenient method of authentication or authorization determines who may, for example, gain entry to a building or space, or use a particular service. While an access management system offers numerous advantages – especially to those who use them – many existing systems have unsecure solutions in their access control infrastructure, making them especially vulnerable to attack. In the interest of reducing potential risks, businesses and institutions are readier than ever to migrate from a less secure closed, proprietary legacy system with vendor lock-in, to a newer, more efficient and secure one that is open source and non-proprietary.
 The multi-faceted access management landscape
 Nowadays, the market for access management systems is best described as highly fragmented. This is primarily due to the wide range of segments and applications the field covers. The scope ranges from corporate access control in office buildings and governmental institutions, to hotel room or sporting event access, to incorporation of loyalty and micropayment schemes, along with many others. Because each segment comes with its own list of security requirements, most access management system solutions are tricky, if not impossible, to scale. further drawback: their security level cannot easily be altered once a solution has been implemented.
@@ -1242,57 +456,31 @@ Scalability. Open standards make it easy to scale projects, using a single-famil
 Multi-sourcing flexibility. From vendor neutrality to lowest implementation cost and BOM.
 In combination, these advantages lead to outstanding synergies for the entire access management ecosystem. Simply put, everyone benefits: the card and reader manufacturer, system integrator, service provider – and the actual person using the access management system on a day-to-day basis.
 Keep exploring to find access management solutions for your project. Reach out to us anytime – we would be pleased to assist you.
-Security demonstration as displayed at Mobile World Congress 2018 in Barcelona
-Next stop: Future of transport ticketing
 Watch the interview with Bernardo Knoblich, Head of Transport Ticketing Product Line at and learn more about transport ticketing technology.
-Europe, Middle East, Africa, Americas
-Security & smart card solutions
 Universal Smart Cards offers a ‘one stop shop’ for smart products ... more and provides advice and consultancy services to facilitate the implementation of smart cards. and have developed a Java Card™ applet development kit that allows to develop, integrate, test and customise Java Card applications on the Oracle JavaCard Edition 2 platform.
-welcomes your comments and questions.
 If you have any questions concerning our products, please fill out the following form. Your inquiry will be sent to the appropriate specialist who will be in touch with you as soon as possible.
 You will receive a confirmation E-mail to validate your address in our system. Any attached file to the reply which will help to support your inquiry is highly appreciated.
-Please post your technical question as detailed as possible*
 agree to the processing of my personal data according to the privacy policy .*
-agree providing me newsletters and further marketing information about products, services & events by email and/or telephone and transmitting my data to its licensed distributors & partners exclusively for sales support purpose. can withdraw my consent at any time.
-Your opinion matters!
 In order to better align the website to your business needs, we would appreciate your feedback.
+Would you have 6-8 minutes to provide us with further feedback regarding our website once you have finished browsing?
 The information that you provide will be treated with strict confidentiality, of course. Your responses will remain anonymous.
-Thank you very much!
-NoToggle Navigation
 is well-versed in these challenges and accordingly offers a flexible, scalable portfolio suitable for motorcycle engine management needs. From highly cost-effective chipset solutions, such as MCU, U-chip and sensors, to scalable chipset solutions that support EFI, e-carburetor and system approaches.
-Motorcycle engine management system diagram
 Hover over the diagram to see recommended products
 Highest feature density in smallest package supporting smallest form factor
 Single device TLE8080solution to manage the entire electronic power interface of an one cylinder combustion engine
 Scalable and an easy-to-use XC2700 family supporting easy to implement up- and downgrade options for functional enhancement or cost optimization
-CO2 reduction 17g/km; fuel efficiency increase 16mpg
-Energy efficiency: Small-engine motorcycle chip-set
-Software for the Small Engine Starter Kit
 Unboxing the Small Engine Starter Kit
-Energy efficiency: Small-engine motorcycle chip-set
-Software for the Small Engine Starter Kit
 Unboxing the Small Engine Starter Kit
-Energy efficiency: Small-engine motorcycle chip-set
 Unboxing the Small Engine Starter Kit
-Software for the Small Engine Starter Kit
 TO-Leadless (TOLL): Package for High Current Applications
-Energy efficiency: Small-engine motorcycle chip-set
 Unboxing the Small Engine Starter Kit
-Software for the Small Engine Starter Kit
 TO-Leadless (TOLL): Package for High Current Applications
-Energy efficiency: Small-engine motorcycle chip-set
-Webinars
-welcomes your comments and questions.
 If you have any questions concerning our products, please fill out the following form. Your inquiry will be sent to the appropriate specialist who will be in touch with you as soon as possible.
 You will receive a confirmation E-mail to validate your address in our system. Any attached file to the reply which will help to support your inquiry is highly appreciated.
-Please post your technical question as detailed as possible*
 agree to the processing of my personal data according to the privacy policy .*
-agree providing me newsletters and further marketing information about products, services & events by email and/or telephone and transmitting my data to its licensed distributors & partners exclusively for sales support purpose. can withdraw my consent at any time.
-Your opinion matters!
 In order to better align the website to your business needs, we would appreciate your feedback.
+Would you have 6-8 minutes to provide us with further feedback regarding our website once you have finished browsing?
 The information that you provide will be treated with strict confidentiality, of course. Your responses will remain anonymous.
-Thank you very much!
-NoJoint news release by and Biometrics
 Munich, Germany and Oslo, Norway – 27 November 2018 – Working together to advance the biometric card landscape: (FSE: / OTCQX: IFNNY), the global leader in smart card payment solutions, and Biometrics (ASA), the leading provider of advanced fingerprint identification and authentication solutions have joined forces. The two companies aim to seamlessly integrate IDEX’ biometrics technology into platforms featuring Infineon’s secure elements and will develop a system-on-card demonstrator that runs on the latest dual-interface 16-bit security controller from Infineon.
 Biometric cards are expected to further reduce card fraud by introducing a simple second factor authentication. This can be used for payment transactions and applications combining payment with social services. In addition, the fingerprint authentication compresses the overall transaction times compared to a authentication. This simple tap and go significantly improves the payment experience of a user.
 The technical challenge of contactless biometric smart cards is their sensitive power consumption profile. Infineon’s secure elements have a big advantage to enable biometrics due to an optimized power profile in non-battery supported contactless systems as well as their outstanding contactless transaction performance. They support contactless payment transactions at significantly below 300ms, this enables a biometric payment transaction to be performed in less than one second.
@@ -1301,7 +489,6 @@ and are also leading the charge towards interoperability, which is crucial for e
 is collaborating with major industry players to develop an open, workable ecosystem for smart card solutions that enable payment, corporate and access applications.
 “As the leading fingerprint biometrics company, we are committed to continuously growing our partner ecosystem,” explained Stan Swearingen, at Biometrics. “We are delighted to collaborate closely with the highly experienced team at towards turning the biometric integration on smart cards into a seamless experience.”
 Biometric technology is already widely accepted in mobile telephony and will increasingly spread to smart card applications such as payment, identification and access solutions: According to market research firm ABI, the number of payment cards with biometric functionality is expected to grow from 4.5 million units in 2019 to 120 million by 2023.
-About Biometrics
 Biometrics, also known as (OSE: IDEX), is the leading provider of fingerprint identification offering simple, secure and personal authentication for all. We help people make payments, prove their identity, gain access to information, unlock devices or gain admittance to buildings with the touch of a finger. We invent, engineer and commercialize these secure, yet incredibly user-friendly solutions. For more information visit www.idexbiometrics.com
 and aim to seamlessly integrate IDEX’ biometrics technology into platforms featuring Infineon’s secure elements and will develop a system-on-card demonstrator that runs on the latest dual-interface 16-bit security controller from Infineon.
 Munich, Germany – 26 November 2018 – (FSE: / OTCQX: IFNNY) is strengthening its long-term partnership with Corporation, a global supplier of advanced automotive technology, systems and components, to bolster its automotive business. is a global leader in semiconductor solutions for the automotive industry. Both companies aim to jointly enhance their system know-how in established and new – like automated driving and electro-mobility.
@@ -1318,88 +505,38 @@ Munich, Germany, 21 November 2018 – Dominik Asam, Chief Financial Officer of A
 Born in 1969, Dominik Asam was appointed to the Management Board in 2011 and since then has been responsible as for Accounting & Reporting, Financial Controlling, Financial Planning, Investor Relations, Tax, Treasury, Audit, Compliance, Export Control, Risk Management, Business Continuity as well as Information Technology. His tenure included the purchase of the company International Rectifier, the largest acquisition in the history of Infineon. During Dominik Asam’s term as CFO, also received for the first time an Investment Grade rating from Standard & Poor’s and has been listed without interruption in the Dow Jones Sustainability™ Europe Index, and in the Dow Jones Sustainability™ World Index for four years.
 Dominik Asam is a graduate mechanical engineer and Ingénieur des Arts et Manufactures; he earned his from Asam began his professional career in 1996 at the investment bank Goldman Sachs, where he worked in a variety of positions as a designated expert on the chip industry. He joined for the first time in 2003, where he began as Head of Investor Relations, Mergers & Acquisitions, Venture Capital, and then also took on responsibility for corporate strategy. Starting in 2005 he held a variety of positions at the Siemens Group and in 2010 became Head of Group Controlling at before returning to in 2011.
 About is a world leader in semiconductor solutions that make life easier, safer and greener. Microelectronics from is the key to a better future. In the 2018 fiscal year (ending 30 September), the Company reported sales of €7.6 billion with about 40.100 employees worldwide. is listed on the Frankfurt Stock Exchange (ticker symbol: IFX) and in the on the over-the-counter market International Premier (ticker symbol: IFNNY).
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Data Protection for Shareholders
-Quarterly Financial Results
-Quarterly Financial Results
-Archive International Rectifier
-Quarterly Financial Results
 Conference Call for Analysts and Investors
-Financial Statements and Management Report 2018 of (german only, PDF)
 Sustainability at Infineon, Supplementing the Annual Report 2018 (PDF)
-Financial Data 2014 - 2018 (PDF)
 Conference Call for Analysts and Investors
 Conference Call for Analysts and Investors
-Half-Year Financial Report (PDF)
 Conference Call for Analysts and Investors
 Conference Call for Analysts and Investors
 Financial Statements and Management Report 2017 of (german only, PDF)
 Sustainability at Infineon, Supplementing the Annual Report 2017 (PDF)
-Financial Data 2013 - 2017 (PDF)
 Conference Call for Analysts and Investors
 Conference Call for Analysts and Investors
-Half-Year Financial Report (PDF)
 Conference Call for Analysts and Investors
 Conference Call for Analysts and Investors
 Financial Statements and Management Report 2016 of (german only, PDF)
 Sustainability at Infineon, Supplementing the Annual Report 2016 (PDF)
-Financial Data 2012 - 2016 (PDF)
 Conference Call for Analysts and Investors
-Quarterly Financial Report (PDF)
 Conference Call for Analysts and Investors
-Half-Year Financial Report (PDF)
 Conference Call for Analysts and Investors
-Quarterly Financial Report (PDF)
 Conference Call for Analysts and Investors
 Financial Statements and Management Report 2015 of (german only, PDF)
 Conference Call for Analysts and Investors
-Quarterly Financial Report (PDF)
 Conference Call for Analysts and Investors
-Half-Year Financial Report (PDF)
 Conference Call for Analysts and Investors
-Quarterly Financial Report (PDF)
 Conference Call for Analysts and Investors
 Financial Statements and Management Report 2014 of (german only, PDF)
 Conference Call for Analysts and Investors
-Quarterly Financial Report (PDF)
 Conference Call for Analysts and Investors
-Half-Year Financial Report (PDF)
 Conference Call for Analysts and Investors
 							Click here to subscribe for press releases and market news
-Conference Calls
 Conference Call for Analysts and Investors
-Conference Calls
 Conference Call for Analysts and Investors
-      Unfortunately, your browser does not support embedded frames (iframes): You can view the embedded page 
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKToggle Navigation
-Where to Buy
-myLogin to myRegister for myCart
-Health & Safety
-Corporate Citizenship
-Data Protection for Shareholders
-Data Protection for Shareholders
-Articles of Association
-Declaration of Compliance
-Equity Based Compensation
-Managers' Transactions
-Corporate Risk Management
-Corporate Governance Report
 Statement on Corporate Governance in accordance with sections 289f and 315d of the German Commercial Code (HGB)
-Compensation Report
-Global Tax Policy
 							Click here to subscribe for press releases and market news
-      Unfortunately, your browser does not support embedded frames (iframes): You can view the embedded page 
-© 1999 - 2019 Usage of this website is subject to our Usage Terms
-Switch to Mobile Version
-Switch to Desktop Version
-OKEnvironmental Sustainability
 The growing scarcity of natural resources is one of today’s greatest global challenges. Optimizing efficiency in the use of resources offers both ecological and economic benefits and is a key component in our sustainability strategy worldwide. Hence, developing energy-efficient products is a central element of our desire to save energy and deal with climate change.
 In order to ensure efficient resources management, established a global management system, (Integrated Management Program for Environment, Energy, Safety, and Health ), which integrates targets and processes relating to ecological sustainability (including energy management) as well as occupational safety and health protection.
 has been certified in accordance with 14001 and 18001 standards worldwide. Additionally it has been certified in accordance with 50001 energy management standard at our main European manufacturing sites as well as our Campeon corporate headquarters.
@@ -1407,7 +544,5 @@ For Infineon, responsibility and sustainability are more than just the fulfillme
 Based on the requirements of the Group Policy for Environmental Protection, Energy Management, Safety and Health (Policy), our performance is monitored by the Management Board. The results of our processes as well as the achievement of our targets, among others, are then presented to the Management Board during the Annual Management Review.
 We have made considerable efforts in reducing water consumption at our production sites.  more
 Most of the energy required to produce semiconductors is electricity. We continually strive for improving energy efficiency.  more
-Greenhouse Gas Emissions
 Greenhouse Gases are required for technical reasons in the production of semiconductors. However, we early began to limit their use.  more
-Waste Management
 Our waste management system aims to reduce waste volumes to a minimum, and to recycle or dispose unavoidable waste properly and efficiently.  more

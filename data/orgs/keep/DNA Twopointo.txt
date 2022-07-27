@@ -1,82 +1,32 @@
-Questions? Feedback?
- powered by 
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
 DNA2.0 is now reflects what has always been a part of our company’s DNA—a relentless focus on invention, creation, finding new solutions and moving biology forward—the beginning of a new era in biology, one that will constantly evolve.
 From building the industry’s leading antibody libraries to developing enzymes for commercial drug and biofuel manufacture, our products and services support breakthroughs across the life sciences. Every day delivers DNA, proteins and cells that transform biology from a discovery science to an engineering discipline, improving the way people research, create and live.
-expression vectors
-large scale prep
-large constructs
-Protein Expression
-high throughput
-large scale
-challenging proteins
-CRISPR/CAS9 ENGINEERING
-CRISPR/Cas9 and 
  custom constructs and vectors. Tools for genome editing and engineering.
-gdesign software
 Discover features and ORFs in any sequence, including promoters, origins, markers, restriction sites and more.
-Design and create the vector that works best for your research. VectorGPS® and Vectorology™ efficiently explore multiple elements for increased protein expression.
 High levels of protein expression in transient or stable transfections. Superior integration efficiency >80% with stable Leap-In vectors.
-ContactWe are Synthetic Biology
 has been the industry leader in Synthetic Biology Solutions for over a decade.
 Our products, consultants and services enable researchers worldwide to achieve their goals.
 With significant industry experience in fields such as molecular biology, bioinformatics, technology development and research leadership, the company’s senior management team uniquely positions as an industry-leading enabler of visionary products and services.  ATUM’s visionary biotech leadership has improved the way people research, create and live, one gene at a time.
-Ferenc Boldog, Ph.D.
-Director, Cell Line Development
 Dr. Ferenc Boldog joined in 2016 and has brought his expertise and creativity to the company’s molecular biology, cell biology and protein therapeutics development processes.  Prior to ATUM, he was the Head of Cell Line Development at Shire. Throughout his 35-year academic and industrial career, Ferenc’s passion has been science and innovation, which is reflected in his 10 patents and 40 publications.
-Michael Feldhaus, Ph.D.
-Senior VP, Antibody Technologies
 Dr. Feldhaus co-founded in September of 2013. has developed the capacity, speed and high throughput, small scale production capabilities to support discovery efforts which may utilize in silico design, deep sequencing of immune repertoires and antibody fragment based discovery platforms. Previously, as the Executive Vice President of Research at Adimab, Dr. Feldhaus led teams that would ultimately develop the premier Igantibody discovery and optimization platform. Dr. Feldhaus successfully designed and managed more than 25 antibody discovery projects while at Adimab with over 20 pharmaceutical companies. Dr. Feldhaus is on the advisory board for Cambridge Health Tech, and he has more than 20 patents (issued and applications). Dr. Feldhaus completed his undergraduate degree in Microbiology at the University of Illinois in Champaign-Urbana, and holds a Ph.in Experimental Pathology from the School of Medicine at the University of Utah.
-Mark Fox, Ph.D.
 Dr. Mark Fox joined in 2017. Prior to his current position, Dr. Fox led the expression and purification groups at Catalyst Biosciences developing methods for the production of novel proteases and was a Principal Scientist at Rinat Laboratories, Pfizer inc. Before entering industry, Mark conducted Post graduate level research at the University of California, San Francisco and at the University of Washington. He received his Ph.in Molecular Parasitology from the University of Glasgow and holds a Masters and Undergraduate degree from the same University.
-Sridhar Govindarajan, Ph.D.
-Chief Information Officer
 As ATUM’s Co-founder and CIO, Dr. Sridhar Govindarajan leads the company’s automation and protein engineering efforts. He offers more than 20 years of scientific computing experience. Prior to his current position, Govindarajan led the computational research in optimizing directed evolution technologies at Maxygen, Inc., and was a Systems Architect at EraGen Biosciences. Govindarajan conducted graduate-level research at the University of Michigan’s Department of Chemistry, and was a Junior Research Fellow at the Indian Institute of Technology (IIT)’s Department of Chemistry. In addition to his role at ATUM, Govindarajan contributes to the science community through industry event presentations and the publishing of more than 40 papers, including a 2008 peer-reviewed paper in Nature. He received his Ph.in Computational Chemistry/Biophysics from the University of Michigan and holds an undergraduate degree in Chemistry from in Mumbai, India.
-Claes Gustafsson, Ph.D.
-Chief Commercial Officer
 As ATUM’s Co-Founder and CCO, Dr. Gustafsson oversees most of the company’s external communications. Prior to co-founding ATUM, Gustafsson was Scientist and later Manager at Maxygen Inc., where he led, managed and collaborated with key strategic teams for more than five years. He also held a Scientist position at Kosan Biosciences, as well as a number of research, teaching, and post-doctoral positions at UCs Santa Cruz and San Francisco, and at University of Umeå. He holds 43 issued patents and has published >40 scientific papers. Gustafsson received his Ph.in Molecular Biology/Biochemistry from the University of Umeå, Sweden (Heja Löven) where he studied translation under Prof Glenn Björk.
-Jeremy Minshull, Ph.D.
-Chief Executive Officer
 Dr. Jeremy Minshull has served as President/of since co-founding the company in 2003. Previously, he was Vice President of Core Technology at Maxygen Inc., where he developed new technologies and scientific infrastructure to support directed evolution projects in chemical, agricultural and human therapeutic areas. He also held an early position at Affymax, where he helped develop and enable shuffling. Dr. Minshull has received several industry awards, holds 54 patents, is a member of several professional societies, and has authored or co-authored >40 peer-reviewed papers. Dr. Minshull was a post-doctoral fellow at San Francisco, and received his Ph.from the University of Cambridge, where he studied basic control of the eukaryotic cell cycle with Nobel laureate Dr. Tim Hunt. Minshull received an honors degree in Natural Sciences (Biochemistry) from Sidney Sussex College, University of Cambridge, England.
-Jon Ness, Ph.D.
 Dr. Jon Ness is a co-founder of and has coordinated the technology development since its inception. Prior to his tenure at ATUM, Ness was one of the first employees at Maxygen Inc., where he led Maxygen’s Shuffling Technology Development Group. He also served as project leader for Maxygen’s collaborative partnership with Novozymes, focusing on improving industrial enzymes, including the laundry detergent protease subtilisin. As a post-doctoral fellow at Affymax, Ness laid the groundwork for in vivo recombination and whole genome shuffling in microorganisms. Dr. Ness holds 18 patents and is the co-author of 10 peer-reviewed articles. He received a Ph.in Bacterial Genetics and Physiology from Davis, and a in Microbiology from the University of Minnesota.
-Mark Welch, Ph.D.
-VP, Research and Development
 Dr. Mark Welch has been with since 2006. At ATUM, Dr. Welch developed the Genemachine-learning technology for experiment-driven gene expression optimization. He currently oversees gene, protein, vector and strain engineering contracts for customers as well as new technology development. Prior to work at ATUM, Dr. Welch held positions at Applied Biosystems, engineering improved proteins for diagnostic applications, at Kosan, engineering novel polyketide synthases to produce valuable intermediates for pharmaceutical syntheses, and at Maxygen, Inc., developing directed evolution methods for the improvement of proteins for a range of applications. Dr. Welch received his Ph.at the University of Colorado at Boulder in 1996 in the laboratory of Dr. Michael Yarus for studies of the mechanism and evolution of the ribosomal peptidyl transferase activity.
 is the leading bioengineering solutions provider. Founded in 2003, (formerly DNA2.0®) offers an integrated pipeline of solutions for the research community, including platforms for protein and vector engineering, products such as expression vectors, fluorescent and chromogenic proteins, cell strains and reagents, as well as gene design, optimization, synthesis and cloning. is based in the US, with a global customer base encompassing academia, government and the pharmaceutical, chemical, agricultural and biotechnology industries. is by far the most published synthetic biology vendor, providing expert support to and collaboration with scientists. The company is privately held and is headquartered in Newark, California
 With a reverence for the interplay between science, technology and nature, has developed a unique engineering platform based on machine learning and Design of Experiment (DoE).  The ProteinGPS®  proprietary protein engineering technology uses megadimensional, empirical optimization processes to calculate the set of nodes that are information-rich in the relevant space, gene synthesis to make those exact sequences, and machine learning to find the preferred solution. The result: precise engineering of any measurable property in any protein so that it fulfills the exact functional criteria needed for commercialization. The proprietary VectorGPS® technology uses Design-of-Experiment (DoE) algorithms to build testable numbers of vectors from sets of control elements, and advanced machine learning to assess the contribution of each element to vector performance; resulting in custom vectors engineered precisely for individual proteins and expression systems.
 While leading the industry in creating value-added applications through protein engineering, vector design and gene synthesis, has also chosen to emphasize customer service as a critical measure of success. The freely available software tool  Gene Designer  and the online , put all the tools and expertise needed for sequence management and design at the fingertips of the user. The company positions itself as a resource and research partner for its customers, to enable accurate and innovative delivery of specific, immediately useful solutions. Customers value the individual, Ph.D.-level support they receive from ATUM’s sales and support staff, as well as the speed, accuracy, and flexibility with which products and services are delivered.
-10,041,077 vectors, transposons and transposases for eukaryotic genome modification. Minshull and Lee
 9,771,402 Fluorescent and colored proteins and methods for using them. Minshull and Theodorou
-9,580,697 Enhanced nucleic acid constructs for eukaryotic gene expression. Minshull, Welch, Govindrajan and Caves
-9,574,209 Enhanced nucleic acid constructs for eukaryotic gene expression. Minshull, Welch, Govindrajan and Caves
-9,534,234 Enhanced nucleic acid constructs for eukaryotic gene expression. Minshull, Welch, Govindrajan and Caves
 9,493,521 Fluorescent and colored proteins and methods for using them. Minshull and Theodorou
-9,428,767 Enhanced nucleic acid constructs for eukaryotic gene expression. Minshull, Welch, Govindrajan and Caves
 9,290,552 Fluorescent and colored proteins and methods for using them. Minshull and Theodorou
 9,206,433 Methods, compositions and kits for a one-step cloning system. Minshull, Ness and Theodorou
 9,102,944 Methods, compositions and kits for one-step cloning using topoisomerase. Ness and Minshull
 8,975,042 Fluorescent and colored proteins and methods for using them. Minshull and Theodorou
-8,825,411 Design, synthesis and assembly of synthetic nucleic acids. Govindarajan, Minshull and Ness
 8,635,029 Systems and methods for biopolymer engineering. Gustafsson, Govindarajan and Minshull
 8,412,461 Systems and methods for antibody engineering. Gustafsson, Govindarajan and Minshull.
 8,401,798 Systems and methods for constructing frequency lookup tables for expression systems. Welch and Gustafsson.
 8,323,930 Methods, compositions and kits for one-step cloning using topoisomerase. Ness and Minshull.
-8,158,391 Production of an α-carboxyl-ω-hydroxy fatty acid using a genetically modified Candida strain. Gross, Lu, Ness and Minshull.
 8,126,653 Synthetic nucleic acids for expression of encoded proteins. Welch and Gustafsson.
 8,005,620 Systems and methods for biopolymer engineering. Gustafsson, Govindarajan and Minshull.
 7,805,252 Systems and methods for designing and ordering polynucleotides. Gustafsson, Govindarajan, Ness, Villalobos and Minshull.
@@ -91,48 +41,27 @@ Made in sunny California.We are Synthetic Biology
 has been the industry leader in Synthetic Biology Solutions for over a decade.
 Our products, consultants and services enable researchers worldwide to achieve their goals.
 With significant industry experience in fields such as molecular biology, bioinformatics, technology development and research leadership, the company’s senior management team uniquely positions as an industry-leading enabler of visionary products and services.  ATUM’s visionary biotech leadership has improved the way people research, create and live, one gene at a time.
-Ferenc Boldog, Ph.D.
-Director, Cell Line Development
 Dr. Ferenc Boldog joined in 2016 and has brought his expertise and creativity to the company’s molecular biology, cell biology and protein therapeutics development processes.  Prior to ATUM, he was the Head of Cell Line Development at Shire. Throughout his 35-year academic and industrial career, Ferenc’s passion has been science and innovation, which is reflected in his 10 patents and 40 publications.
-Michael Feldhaus, Ph.D.
-Senior VP, Antibody Technologies
 Dr. Feldhaus co-founded in September of 2013. has developed the capacity, speed and high throughput, small scale production capabilities to support discovery efforts which may utilize in silico design, deep sequencing of immune repertoires and antibody fragment based discovery platforms. Previously, as the Executive Vice President of Research at Adimab, Dr. Feldhaus led teams that would ultimately develop the premier Igantibody discovery and optimization platform. Dr. Feldhaus successfully designed and managed more than 25 antibody discovery projects while at Adimab with over 20 pharmaceutical companies. Dr. Feldhaus is on the advisory board for Cambridge Health Tech, and he has more than 20 patents (issued and applications). Dr. Feldhaus completed his undergraduate degree in Microbiology at the University of Illinois in Champaign-Urbana, and holds a Ph.in Experimental Pathology from the School of Medicine at the University of Utah.
-Mark Fox, Ph.D.
 Dr. Mark Fox joined in 2017. Prior to his current position, Dr. Fox led the expression and purification groups at Catalyst Biosciences developing methods for the production of novel proteases and was a Principal Scientist at Rinat Laboratories, Pfizer inc. Before entering industry, Mark conducted Post graduate level research at the University of California, San Francisco and at the University of Washington. He received his Ph.in Molecular Parasitology from the University of Glasgow and holds a Masters and Undergraduate degree from the same University.
-Sridhar Govindarajan, Ph.D.
-Chief Information Officer
 As ATUM’s Co-founder and CIO, Dr. Sridhar Govindarajan leads the company’s automation and protein engineering efforts. He offers more than 20 years of scientific computing experience. Prior to his current position, Govindarajan led the computational research in optimizing directed evolution technologies at Maxygen, Inc., and was a Systems Architect at EraGen Biosciences. Govindarajan conducted graduate-level research at the University of Michigan’s Department of Chemistry, and was a Junior Research Fellow at the Indian Institute of Technology (IIT)’s Department of Chemistry. In addition to his role at ATUM, Govindarajan contributes to the science community through industry event presentations and the publishing of more than 40 papers, including a 2008 peer-reviewed paper in Nature. He received his Ph.in Computational Chemistry/Biophysics from the University of Michigan and holds an undergraduate degree in Chemistry from in Mumbai, India.
-Claes Gustafsson, Ph.D.
-Chief Commercial Officer
 As ATUM’s Co-Founder and CCO, Dr. Gustafsson oversees most of the company’s external communications. Prior to co-founding ATUM, Gustafsson was Scientist and later Manager at Maxygen Inc., where he led, managed and collaborated with key strategic teams for more than five years. He also held a Scientist position at Kosan Biosciences, as well as a number of research, teaching, and post-doctoral positions at UCs Santa Cruz and San Francisco, and at University of Umeå. He holds 43 issued patents and has published >40 scientific papers. Gustafsson received his Ph.in Molecular Biology/Biochemistry from the University of Umeå, Sweden (Heja Löven) where he studied translation under Prof Glenn Björk.
-Jeremy Minshull, Ph.D.
-Chief Executive Officer
 Dr. Jeremy Minshull has served as President/of since co-founding the company in 2003. Previously, he was Vice President of Core Technology at Maxygen Inc., where he developed new technologies and scientific infrastructure to support directed evolution projects in chemical, agricultural and human therapeutic areas. He also held an early position at Affymax, where he helped develop and enable shuffling. Dr. Minshull has received several industry awards, holds 54 patents, is a member of several professional societies, and has authored or co-authored >40 peer-reviewed papers. Dr. Minshull was a post-doctoral fellow at San Francisco, and received his Ph.from the University of Cambridge, where he studied basic control of the eukaryotic cell cycle with Nobel laureate Dr. Tim Hunt. Minshull received an honors degree in Natural Sciences (Biochemistry) from Sidney Sussex College, University of Cambridge, England.
-Jon Ness, Ph.D.
 Dr. Jon Ness is a co-founder of and has coordinated the technology development since its inception. Prior to his tenure at ATUM, Ness was one of the first employees at Maxygen Inc., where he led Maxygen’s Shuffling Technology Development Group. He also served as project leader for Maxygen’s collaborative partnership with Novozymes, focusing on improving industrial enzymes, including the laundry detergent protease subtilisin. As a post-doctoral fellow at Affymax, Ness laid the groundwork for in vivo recombination and whole genome shuffling in microorganisms. Dr. Ness holds 18 patents and is the co-author of 10 peer-reviewed articles. He received a Ph.in Bacterial Genetics and Physiology from Davis, and a in Microbiology from the University of Minnesota.
-Mark Welch, Ph.D.
-VP, Research and Development
 Dr. Mark Welch has been with since 2006. At ATUM, Dr. Welch developed the Genemachine-learning technology for experiment-driven gene expression optimization. He currently oversees gene, protein, vector and strain engineering contracts for customers as well as new technology development. Prior to work at ATUM, Dr. Welch held positions at Applied Biosystems, engineering improved proteins for diagnostic applications, at Kosan, engineering novel polyketide synthases to produce valuable intermediates for pharmaceutical syntheses, and at Maxygen, Inc., developing directed evolution methods for the improvement of proteins for a range of applications. Dr. Welch received his Ph.at the University of Colorado at Boulder in 1996 in the laboratory of Dr. Michael Yarus for studies of the mechanism and evolution of the ribosomal peptidyl transferase activity.
 is the leading bioengineering solutions provider. Founded in 2003, (formerly DNA2.0®) offers an integrated pipeline of solutions for the research community, including platforms for protein and vector engineering, products such as expression vectors, fluorescent and chromogenic proteins, cell strains and reagents, as well as gene design, optimization, synthesis and cloning. is based in the US, with a global customer base encompassing academia, government and the pharmaceutical, chemical, agricultural and biotechnology industries. is by far the most published synthetic biology vendor, providing expert support to and collaboration with scientists. The company is privately held and is headquartered in Newark, California
 With a reverence for the interplay between science, technology and nature, has developed a unique engineering platform based on machine learning and Design of Experiment (DoE).  The ProteinGPS®  proprietary protein engineering technology uses megadimensional, empirical optimization processes to calculate the set of nodes that are information-rich in the relevant space, gene synthesis to make those exact sequences, and machine learning to find the preferred solution. The result: precise engineering of any measurable property in any protein so that it fulfills the exact functional criteria needed for commercialization. The proprietary VectorGPS® technology uses Design-of-Experiment (DoE) algorithms to build testable numbers of vectors from sets of control elements, and advanced machine learning to assess the contribution of each element to vector performance; resulting in custom vectors engineered precisely for individual proteins and expression systems.
 While leading the industry in creating value-added applications through protein engineering, vector design and gene synthesis, has also chosen to emphasize customer service as a critical measure of success. The freely available software tool  Gene Designer  and the online , put all the tools and expertise needed for sequence management and design at the fingertips of the user. The company positions itself as a resource and research partner for its customers, to enable accurate and innovative delivery of specific, immediately useful solutions. Customers value the individual, Ph.D.-level support they receive from ATUM’s sales and support staff, as well as the speed, accuracy, and flexibility with which products and services are delivered.
-10,041,077 vectors, transposons and transposases for eukaryotic genome modification. Minshull and Lee
 9,771,402 Fluorescent and colored proteins and methods for using them. Minshull and Theodorou
-9,580,697 Enhanced nucleic acid constructs for eukaryotic gene expression. Minshull, Welch, Govindrajan and Caves
-9,574,209 Enhanced nucleic acid constructs for eukaryotic gene expression. Minshull, Welch, Govindrajan and Caves
-9,534,234 Enhanced nucleic acid constructs for eukaryotic gene expression. Minshull, Welch, Govindrajan and Caves
 9,493,521 Fluorescent and colored proteins and methods for using them. Minshull and Theodorou
-9,428,767 Enhanced nucleic acid constructs for eukaryotic gene expression. Minshull, Welch, Govindrajan and Caves
 9,290,552 Fluorescent and colored proteins and methods for using them. Minshull and Theodorou
 9,206,433 Methods, compositions and kits for a one-step cloning system. Minshull, Ness and Theodorou
 9,102,944 Methods, compositions and kits for one-step cloning using topoisomerase. Ness and Minshull
 8,975,042 Fluorescent and colored proteins and methods for using them. Minshull and Theodorou
-8,825,411 Design, synthesis and assembly of synthetic nucleic acids. Govindarajan, Minshull and Ness
 8,635,029 Systems and methods for biopolymer engineering. Gustafsson, Govindarajan and Minshull
 8,412,461 Systems and methods for antibody engineering. Gustafsson, Govindarajan and Minshull.
 8,401,798 Systems and methods for constructing frequency lookup tables for expression systems. Welch and Gustafsson.
 8,323,930 Methods, compositions and kits for one-step cloning using topoisomerase. Ness and Minshull.
-8,158,391 Production of an α-carboxyl-ω-hydroxy fatty acid using a genetically modified Candida strain. Gross, Lu, Ness and Minshull.
 8,126,653 Synthetic nucleic acids for expression of encoded proteins. Welch and Gustafsson.
 8,005,620 Systems and methods for biopolymer engineering. Gustafsson, Govindarajan and Minshull.
 7,805,252 Systems and methods for designing and ordering polynucleotides. Gustafsson, Govindarajan, Ness, Villalobos and Minshull.
@@ -147,48 +76,27 @@ Made in sunny California.We are Synthetic Biology
 has been the industry leader in Synthetic Biology Solutions for over a decade.
 Our products, consultants and services enable researchers worldwide to achieve their goals.
 With significant industry experience in fields such as molecular biology, bioinformatics, technology development and research leadership, the company’s senior management team uniquely positions as an industry-leading enabler of visionary products and services.  ATUM’s visionary biotech leadership has improved the way people research, create and live, one gene at a time.
-Ferenc Boldog, Ph.D.
-Director, Cell Line Development
 Dr. Ferenc Boldog joined in 2016 and has brought his expertise and creativity to the company’s molecular biology, cell biology and protein therapeutics development processes.  Prior to ATUM, he was the Head of Cell Line Development at Shire. Throughout his 35-year academic and industrial career, Ferenc’s passion has been science and innovation, which is reflected in his 10 patents and 40 publications.
-Michael Feldhaus, Ph.D.
-Senior VP, Antibody Technologies
 Dr. Feldhaus co-founded in September of 2013. has developed the capacity, speed and high throughput, small scale production capabilities to support discovery efforts which may utilize in silico design, deep sequencing of immune repertoires and antibody fragment based discovery platforms. Previously, as the Executive Vice President of Research at Adimab, Dr. Feldhaus led teams that would ultimately develop the premier Igantibody discovery and optimization platform. Dr. Feldhaus successfully designed and managed more than 25 antibody discovery projects while at Adimab with over 20 pharmaceutical companies. Dr. Feldhaus is on the advisory board for Cambridge Health Tech, and he has more than 20 patents (issued and applications). Dr. Feldhaus completed his undergraduate degree in Microbiology at the University of Illinois in Champaign-Urbana, and holds a Ph.in Experimental Pathology from the School of Medicine at the University of Utah.
-Mark Fox, Ph.D.
 Dr. Mark Fox joined in 2017. Prior to his current position, Dr. Fox led the expression and purification groups at Catalyst Biosciences developing methods for the production of novel proteases and was a Principal Scientist at Rinat Laboratories, Pfizer inc. Before entering industry, Mark conducted Post graduate level research at the University of California, San Francisco and at the University of Washington. He received his Ph.in Molecular Parasitology from the University of Glasgow and holds a Masters and Undergraduate degree from the same University.
-Sridhar Govindarajan, Ph.D.
-Chief Information Officer
 As ATUM’s Co-founder and CIO, Dr. Sridhar Govindarajan leads the company’s automation and protein engineering efforts. He offers more than 20 years of scientific computing experience. Prior to his current position, Govindarajan led the computational research in optimizing directed evolution technologies at Maxygen, Inc., and was a Systems Architect at EraGen Biosciences. Govindarajan conducted graduate-level research at the University of Michigan’s Department of Chemistry, and was a Junior Research Fellow at the Indian Institute of Technology (IIT)’s Department of Chemistry. In addition to his role at ATUM, Govindarajan contributes to the science community through industry event presentations and the publishing of more than 40 papers, including a 2008 peer-reviewed paper in Nature. He received his Ph.in Computational Chemistry/Biophysics from the University of Michigan and holds an undergraduate degree in Chemistry from in Mumbai, India.
-Claes Gustafsson, Ph.D.
-Chief Commercial Officer
 As ATUM’s Co-Founder and CCO, Dr. Gustafsson oversees most of the company’s external communications. Prior to co-founding ATUM, Gustafsson was Scientist and later Manager at Maxygen Inc., where he led, managed and collaborated with key strategic teams for more than five years. He also held a Scientist position at Kosan Biosciences, as well as a number of research, teaching, and post-doctoral positions at UCs Santa Cruz and San Francisco, and at University of Umeå. He holds 43 issued patents and has published >40 scientific papers. Gustafsson received his Ph.in Molecular Biology/Biochemistry from the University of Umeå, Sweden (Heja Löven) where he studied translation under Prof Glenn Björk.
-Jeremy Minshull, Ph.D.
-Chief Executive Officer
 Dr. Jeremy Minshull has served as President/of since co-founding the company in 2003. Previously, he was Vice President of Core Technology at Maxygen Inc., where he developed new technologies and scientific infrastructure to support directed evolution projects in chemical, agricultural and human therapeutic areas. He also held an early position at Affymax, where he helped develop and enable shuffling. Dr. Minshull has received several industry awards, holds 54 patents, is a member of several professional societies, and has authored or co-authored >40 peer-reviewed papers. Dr. Minshull was a post-doctoral fellow at San Francisco, and received his Ph.from the University of Cambridge, where he studied basic control of the eukaryotic cell cycle with Nobel laureate Dr. Tim Hunt. Minshull received an honors degree in Natural Sciences (Biochemistry) from Sidney Sussex College, University of Cambridge, England.
-Jon Ness, Ph.D.
 Dr. Jon Ness is a co-founder of and has coordinated the technology development since its inception. Prior to his tenure at ATUM, Ness was one of the first employees at Maxygen Inc., where he led Maxygen’s Shuffling Technology Development Group. He also served as project leader for Maxygen’s collaborative partnership with Novozymes, focusing on improving industrial enzymes, including the laundry detergent protease subtilisin. As a post-doctoral fellow at Affymax, Ness laid the groundwork for in vivo recombination and whole genome shuffling in microorganisms. Dr. Ness holds 18 patents and is the co-author of 10 peer-reviewed articles. He received a Ph.in Bacterial Genetics and Physiology from Davis, and a in Microbiology from the University of Minnesota.
-Mark Welch, Ph.D.
-VP, Research and Development
 Dr. Mark Welch has been with since 2006. At ATUM, Dr. Welch developed the Genemachine-learning technology for experiment-driven gene expression optimization. He currently oversees gene, protein, vector and strain engineering contracts for customers as well as new technology development. Prior to work at ATUM, Dr. Welch held positions at Applied Biosystems, engineering improved proteins for diagnostic applications, at Kosan, engineering novel polyketide synthases to produce valuable intermediates for pharmaceutical syntheses, and at Maxygen, Inc., developing directed evolution methods for the improvement of proteins for a range of applications. Dr. Welch received his Ph.at the University of Colorado at Boulder in 1996 in the laboratory of Dr. Michael Yarus for studies of the mechanism and evolution of the ribosomal peptidyl transferase activity.
 is the leading bioengineering solutions provider. Founded in 2003, (formerly DNA2.0®) offers an integrated pipeline of solutions for the research community, including platforms for protein and vector engineering, products such as expression vectors, fluorescent and chromogenic proteins, cell strains and reagents, as well as gene design, optimization, synthesis and cloning. is based in the US, with a global customer base encompassing academia, government and the pharmaceutical, chemical, agricultural and biotechnology industries. is by far the most published synthetic biology vendor, providing expert support to and collaboration with scientists. The company is privately held and is headquartered in Newark, California
 With a reverence for the interplay between science, technology and nature, has developed a unique engineering platform based on machine learning and Design of Experiment (DoE).  The ProteinGPS®  proprietary protein engineering technology uses megadimensional, empirical optimization processes to calculate the set of nodes that are information-rich in the relevant space, gene synthesis to make those exact sequences, and machine learning to find the preferred solution. The result: precise engineering of any measurable property in any protein so that it fulfills the exact functional criteria needed for commercialization. The proprietary VectorGPS® technology uses Design-of-Experiment (DoE) algorithms to build testable numbers of vectors from sets of control elements, and advanced machine learning to assess the contribution of each element to vector performance; resulting in custom vectors engineered precisely for individual proteins and expression systems.
 While leading the industry in creating value-added applications through protein engineering, vector design and gene synthesis, has also chosen to emphasize customer service as a critical measure of success. The freely available software tool  Gene Designer  and the online , put all the tools and expertise needed for sequence management and design at the fingertips of the user. The company positions itself as a resource and research partner for its customers, to enable accurate and innovative delivery of specific, immediately useful solutions. Customers value the individual, Ph.D.-level support they receive from ATUM’s sales and support staff, as well as the speed, accuracy, and flexibility with which products and services are delivered.
-10,041,077 vectors, transposons and transposases for eukaryotic genome modification. Minshull and Lee
 9,771,402 Fluorescent and colored proteins and methods for using them. Minshull and Theodorou
-9,580,697 Enhanced nucleic acid constructs for eukaryotic gene expression. Minshull, Welch, Govindrajan and Caves
-9,574,209 Enhanced nucleic acid constructs for eukaryotic gene expression. Minshull, Welch, Govindrajan and Caves
-9,534,234 Enhanced nucleic acid constructs for eukaryotic gene expression. Minshull, Welch, Govindrajan and Caves
 9,493,521 Fluorescent and colored proteins and methods for using them. Minshull and Theodorou
-9,428,767 Enhanced nucleic acid constructs for eukaryotic gene expression. Minshull, Welch, Govindrajan and Caves
 9,290,552 Fluorescent and colored proteins and methods for using them. Minshull and Theodorou
 9,206,433 Methods, compositions and kits for a one-step cloning system. Minshull, Ness and Theodorou
 9,102,944 Methods, compositions and kits for one-step cloning using topoisomerase. Ness and Minshull
 8,975,042 Fluorescent and colored proteins and methods for using them. Minshull and Theodorou
-8,825,411 Design, synthesis and assembly of synthetic nucleic acids. Govindarajan, Minshull and Ness
 8,635,029 Systems and methods for biopolymer engineering. Gustafsson, Govindarajan and Minshull
 8,412,461 Systems and methods for antibody engineering. Gustafsson, Govindarajan and Minshull.
 8,401,798 Systems and methods for constructing frequency lookup tables for expression systems. Welch and Gustafsson.
 8,323,930 Methods, compositions and kits for one-step cloning using topoisomerase. Ness and Minshull.
-8,158,391 Production of an α-carboxyl-ω-hydroxy fatty acid using a genetically modified Candida strain. Gross, Lu, Ness and Minshull.
 8,126,653 Synthetic nucleic acids for expression of encoded proteins. Welch and Gustafsson.
 8,005,620 Systems and methods for biopolymer engineering. Gustafsson, Govindarajan and Minshull.
 7,805,252 Systems and methods for designing and ordering polynucleotides. Gustafsson, Govindarajan, Ness, Villalobos and Minshull.
@@ -209,233 +117,50 @@ Looking to grow your experience in a great company that is truly employee-centri
 is the leading bioengineering solutions provider, offering an integrated pipeline of solutions including gene design, optimization and synthesis, expression vectors, and platforms for protein and strain engineering. explores novel applications for synthetic genes and the synergy between efficient gene design and protein optimization technologies. ATUM’s tools and solutions are fueling the transformation of biology from a discovery science to an engineering discipline. For more information about us visit www.atum.bio.
 This entry-level position is within our production group. The work includes following standard operating procedures for using automated liquid handling stations, interfacing with our in-house database, providing support in various lab functions including PCR, making agarose gels, growing culture from stock, organizing/purging storage plates, and interacting with our bioinformatics department.
 Have demonstrated skills in molecular biology, particularly in the areas of and cloning.
-Are hands-on
 Have a demonstrated ability to contribute intellectually to projects
 Are able to complete projects under strict deadlines
 And are comfortable working in a fast-paced setting while retaining impeccable organizational skills
 …we want to talk to you!
 If  you also have experience with automated liquid handling stations, basic programming, or synthesis platforms, that’s a plus!
-Education Requirements
 Bachelor’s degree in Biology or related field with molecular biology/biotechnology experience.
 Be part of the next gen bio-tech revolution: Quantitative Biology
-Learn new concepts and experiment with new technologies
-Free catered lunch (everyday)
-401(k) & Safe Harbor plan
-Creation date: 2018-10-25
 Looking to grow your experience in a great company that is truly employee-centric? Here’s the opportunity to work with a great team with excellent growth potential! is looking for a new member for our purification team.
 is a world leading bioengineering company. The company has developed an integrated bioengineering pipeline for gene and protein design / optimization / manufacturing as well as unique proprietary platforms for protein and strain engineering. The pipeline relies on state-of-the-art Synthetic Biology and Machine Learning to provide custom made solutions for our customers, including large and small pharma and biotech, as well as agricultural and industrial biotech companies across the globe. is a 15 year old, heavily science driven company that currently employs ~100 people. For more information visit www.atum.bio
 This position is within our protein group. The ideal candidate will be responsible for purification and characterization of a variety of protein types including therapeutic proteins, antigens and assay reagents expressed in E.coli and Yeast expression systems. They will not be satisfied with just doing their part but being part of a collaborative team that aims to continually improve. Proteins will be purified at various scales ranging from high throughput robotic purification to many grams. The incumbent is expected to become a subject matter expert in yeast and E.coli fermentation, in addition to downstream purification operation, including chromatography, membrane separation, targeted precipitation, and protein refolding of inclusion bodies.
 Have 3 to 5 years of demonstrated skills in E.coli/Yeast expression systems, and protein purification.
-Are hands-on
 Have a demonstrated ability to contribute intellectually to projects
 Are able to complete projects under strict deadlines
 And are comfortable working in a fast-paced setting while retaining impeccable organizational skills
 …we want to talk to you!
 If you also have experience with protein refolding of inclusion bodies and protein characterization that’s a plus!
-Education Requirements
 Phdegree in Biochemistry or related field, or Bachelors/Masters with industry experience. Must have 3-5 years hands-on experience in E.coli/Yeast recombinant protein production.
-Physical Requirements
 This position requires the ability to frequently and repetitively move and/or pour a minimum of 5lbs (up to 25lbs may occasionally be required) as well as other physical activities, including:
-Constantly opening and closing lab receptacles, including removing and adhering plate seals, twisting caps, lifting lids.
 Occasionally ascending/descending a ladder to retrieve lab supplies.
 Constantly positioning self to pour or pipette reagents used for the lab process, including large and small volumes.
 Be part of the next gen bio-tech revolution: Quantitative Biology
-Learn new concepts and experiment with new technologies
-Free catered lunch (everyday)
-401(k) & Safe Harbor plan
 occasionally hosts university undergraduate level interns during the summer months. To apply, please send a cover letter and your resume to hr@atum.bio . Phone calls not accepted.
-Made in sunny California.Questions? Feedback?
- powered by 
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
-Location & Driving Directions
 Want an actual person to answer when you have a question?
 Our Customer Support Ph.D.s are experts in the fields of protein expression, gene synthesis and the voodoo of cloning; and your partner for accurate and innovative solutions.
 Support Scientists are available to discuss cloning strategies, gene design constraints, bioinformatics analyses and various molecular biology/biotechnology concerns. Everyone in the team has extensive experience in molecular biology or a related discipline.
-Corporate Headquarters (Newark, California)
-, and Communications – 
-From San Jose Airport:
 Take I-880-North. Take Exit 17 for Mowry Avenue. Turn Left onto Mowry Avenue. Turn Right onto Cherry Street. Turn Left onto Central Avenue. Turn Right onto Central Court and arrive at 37950 Central Court on your right.
-From San Francisco Airport:
 Take US-101-South. Take Exit 406 onto CA-84-for Marsh Road and the Dumbarton Bridge. Turn Left onto Marsh Road. Turn Right onto Bayfront Expressway. Proceed across the Dumbarton Bridge. Take Exit 36 for Thornton Avenue. Turn Right onto Thornton Avenue. Turn Right onto Willow Street. Turn Left onto Central Avenue. Turn Left onto Central Court and arrive at 37950 Central Court on your right.
-From Oakland Airport:
-Take I-880-South. Take Exit 19 for Thornton Avenue/CA-84-Turn Right onto Thornton Avenue. Turn Left onto Newark Blvd. Continue onto Central Avenue. Turn Right onto Central Court and arrive at 37950 Central Court on your right.
-Japan (Non-exclusive Distributor):
-Cosmo Bio Co., Ltd.
-ContactQuestions? Feedback?
- powered by 
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
-Corporate and Academic Partners
 Alliances are important to ATUM’s business strategy. Only by working with the leading academic and industry groups in their respective fields can we take advantage of the many opportunities and applications available in the emerging field of synthetic biology. strongly believes in the power of partnerships and collaborative efforts and has a rich history of joint research and development projects. occasionally provides 
- Synthetic Biology consultation, products and/or services.
 If you are interested in exploring a collaboration or discussing other emerging opportunities, please contact us at 
  a pioneer in the integration of antibody discovery, maturation and biomanufacturing, and employ a strategic alliance in the area of antibody discovery via the design and construction of 
-pJexpress Pichia expression vectors
  were constructed by the world-leading 
-Anton Glieder
  is the non-exclusive distributor for Japan, providing customers the convenience and choice to order directly from or to use CosmoBio for orders and sales support.
-Cytovance Biologics
  utilizes GeneGPS® from as part of their 
-Keystone Expression System™
- for microbial strain development for successful biomanufacturing. See the Bioprocess International 
-Singularity University
  utilizes accelerating technologies to address humanity’s hardest problems. sponsors the SynBio Startup Launchpad, a program to nurture aspiring life science entrepreneurs seeking to apply the rapid-cycle, low-cost approaches employed by tech and biotech startups.  
  is a resource for hands-on activities and informative animations on synthetic biology, and a place to discuss the challenge of engineering biological systems. Founded by Dr. Natalie Kuldell at MIT.
-ContactQuestions? Feedback?
- powered by 
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
 Keep up with conferences, press coverage and press releases - valuable information on the latest in synthetic biology.
 Could Revolutionize Gene Therapy
-Screening to Small-Scale Biomanufacture
-Designer - Computational Tools for Mapping Out Synthetic October 1, 2017
-Protein Potential
 Speed, yield and quality critical for cell line development, says By Dan Stanton
 Solentim and announce technology collaboration to enable rapid, high expression, stable cell line development
-and Extend Joint Development Agreement
 Receives Patent to Expand and Integrate Transposon Based Technologies for Protein Pharmaceutical Development
-and Just Biotherapeutics Team Up to Accelerate Drug Discovery
 and Horizon Discovery Announce Collaboration and Technology Cross-License to Simplify and Speed Bioproduction Cell Line Development
-Phacilitate: Leaders World & World Stem Cell Summit 2019
-Miami, FL
-January 22, 2019 - January 25, 2019
 will exhibit at booth #7 and present a poster
-ISBioTech 9th Spring Meeting
-Norfolk, VA
-will present on Thursday March 14 at 9:30 am, and exhibit at booth # 923
-ContactQuestions? Feedback?
- powered by 
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
-Meet at these upcoming Events
-Phacilitate: Leaders World & World Stem Cell Summit 2019
-Miami, FL
-Tuesday, January 22, 2019 - Friday, January 25, 2019
 will exhibit at booth #7 and present a poster
-ISBioTech 9th Spring Meeting
-Norfolk, VA
-Monday, March 11, 2019 - Thursday, March 14, 2019
-will present on Thursday March 14 at 9:30 am, and exhibit at booth # 923
-Boston, MA
-12th Annual Proteins & Antibodies Congress
-Wednesday, April 24, 2019 - Thursday, April 25, 2019
 will exhibit at booth # 136 and present a poster
-14th Protein Expression in Animal Cells
-Sunday, September 22, 2019 - Thursday, September 26, 2019
-1.1. Ordering from All products listed on www.atum.bio (“Website”), including, without limitation, vectors (“Vectors”), chromogenic and fluorescent proteins (“ProteinPaintbox”), cloning kits and transposases, are cumulatively “Products”. also provides one or more services including those listed on the Website (“Services”). If Customer would like to purchase Products or Services, it must submit a guarantee of payment (for example purchase order, credit card details or a form of pre-payment) (“Order”). If accepts the Order, it cannot be cancelled by Customer and Customer will be responsible for payment of the total amount on the Order upon invoice.
 1.2. License for Products. Subject to the terms herein, if Customer purchases an Product (but excluding Research Use Only Vectors, ProteinPaintbox, Pichia Strains and Reagents), Customer is granted a limited, non-transferable, fully paid-up, non-exclusive right to use said Product (including for the production of proteins and research, development and commercialization of such proteins derived from Products). Except as expressly permitted in these Terms and Conditions, Customer may not (1) modify the Products in any way, including without limitation by replacing any protein-encoding sequence with any other protein-encoding sequence; (2) determine the sequences of the Products; (3) disclose the sequences of any Products (including those for which provides the sequences); (4) directly or indirectly reverse-engineer the Products; (5) create any derivative(s) of the Products; or (6) copy the Products. If Customer purchases an vector that is sold in a form intended for Customer to clone Customer genes into (“Catalog Vector”), Customer is granted a limited, non-transferable, fully paid-up, non-exclusive right to clone into such vector which must be performed using a kit purchased from ATUM.
 For clarity, for any and all Vectors (including Research Use Only Vectors), once Customer’s gene has been cloned into an Vector by ATUM, or by Customer using a kit purchased from ATUM, Customer may replicate the resulting plasmid. For clarity, Customer may modify a Customer gene cloned into an Vector designed solely for propagation but not for expression of cloned sequences (“Cloning Vectors”) in any way, including by replacing any protein-encoding sequence with any other protein-encoding sequence. Notwithstanding Section 1.6, Customers may transfer Cloning Vectors to any third party without the prior written permission of ATUM.
 1.4. License for ProteinPaintbox. Except as set forth and subject to the terms herein, including, without limitation Section 1.6, if Customer purchases a ProteinPaintbox product, Customer is granted a limited, non-transferable, non-sublicensable, fully paid-up, non-exclusive right to use the applicable ProteinPaintbox product purchased for research and development purposes only. Customer may not (1) modify the ProteinPaintbox product or (2) use the ProteinPaintbox product for commercial purposes without the prior written consent of ATUM.
@@ -457,15 +182,11 @@ For clarity, for any and all Vectors (including Research Use Only Vectors), once
 5.3.1. WARRANTIES, WARRANTIES, MERCHANTABILITY, PURPOSE, TITLE, INFRINGEMENT, INCIDENTAL, CONSEQUENTIAL, CONTINGENT, SPECIAL, DAMAGES, INJURY, DAMAGE, LOSS, CUSTOMER’SERVICES.
 6. Quality Assurance and Animal-Free Media
 6.1. Quality Assurance Verification. Unless otherwise specified in writing, all materials shipped in fulfillment of Orders have been manufactured by in Newark, California, USA, in strict accordance with standard operating procedures. Synthetic oligonucleotides are assembled into the full-size fragment, which is experimentally verified. The assembled fragment is sequence-verified on both strands using capillary electrophoresis analysis. All instrumentation is calibrated to current industry standards at the time of testing, and every analyst is trained to use the analytical application on each instrument. Corresponding sequence trace files are available for download from Customer’s online account. tracks and stores origins and lot numbers for each component of the gene synthesis process. Each step of the gene synthesis process is time-stamped and bar-coded. Each synthesized fragment encodes the expected sequence.
-6.2. BSE/Declaration. certifies that shipped is free from (Bovine spongiform encephalopathy) and (Transmissible spongiform encephalopathy). Unless otherwise specified in writing, Products are produced from animal-free media.
 7.1.1. Ownership. Customer shall own all right, title and interest in and to (1) sequences provided by Customer, or (2) sequences designed by for Customer and paid for in full by Customer (collectively, the “Customer Work Product”). Upon completion of Services, will retain one copy of the Customer Work Product for archival purposes and as required by applicable biosecurity laws, guidelines and regulations.
 7.1.2. License. Customer represents, warrants, and covenants that it has all necessary licenses and rights, including but not limited to, all patent and other intellectual property rights, in all Customer Materials provided to in connection with any serivce to be provided to Customer by Customer hereby agrees to and shall indemnify and hold harmless and its affiliates, officers, agents, and employees from and against any action, claim, or liability, including attorneys’ fees, arising out of any breach of the foregoing representation and warranty or arising out of any action related to actual or alleged infringement of third-party patents directed at in connection with services or products provided to Customer, including, without limitation any sequences, materials or other information provided by Customer. By agreeing to these Terms and Conditions and providing with Customer Materials, Customer represents and warrants that it has the power and authority to grant the foregoing license, or otherwise has obtained all licenses and rights, including all intellectual property rights, necessary for to provide the requested Services.
 7.2. Intellectual Property. Ownership of all proprietary tools used, developed or improved in providing Services, including but not limited to tools, techniques and technologies for synthesis, cloning assembly, genome modification and other manipulations, sequence optimization algorithms and design methods including sequence element choice for expression in bacterial, yeast and mammalian systems, Vector design and configurations and sequences of elements therein and related know-how, including any proprietary software created therefor, at all times will remain the property of ATUM.
 8.1. treats all account contact information, payment information and DNA/protein sequences, Customer Materials, or other information submitted by Customers as strictly confidential. Information is only disclosed to employees at bound by a confidentiality agreement on a need-to-know basis to enable the individual to perform their duties. Information is only used for the purpose for which it was disclosed.
 8.2. Unless covered by a separate Non-Disclosure Agreement executed by the parties, Customer acknowledges that all information and materials that come into Customer’s possession or knowledge in connection with past and future purchases of Products and which is marked, identified, accepted as confidential or proprietary, or may be deemed confidential or proprietary by its nature or by the circumstances of its disclosure (“Confidential Information”), including but not limited to the sequences of any Research Use Only Vectors, consists of confidential or proprietary information the improper disclosure or use of which will be damaging to Therefore, Customer agrees (1) to hold all Confidential Information in confidence by using the same degree of care as used for its own confidential or proprietary information of like nature, but in no event less than reasonable care; (2) to disclose Confidential Information only to those of its employees having a need to know, and not to disclose Confidential Information to any other party; (3) not to use any Confidential Information, and to the fullest extent permissible under applicable law, will not modify, reverse engineer, reverse-compile, reverse assemble, synthesize or in any way use any Confidential Information whether for internal consumption or open market sale, or for any other purpose inconsistent with these Terms and Conditions.
-8.3. Under no circumstance shall a company entity engaged in the gene synthesis business, if any, have access to ATUM’s Confidential Information without ATUM’s prior written consent.
-8.4. Customer shall notify promptly in writing upon becoming aware of any unauthorized use or disclosure of Confidential Information or any other breach of this Agreement by Customer. To the extent permitted by law, Customer, at its own cost, will reasonably cooperate with to help expeditiously regain possession of such Confidential Information and prevent its further unauthorized use.
-8.5. Equitable relief. The parties agree that the unauthorized disclosure or use of Confidential Information may cause irreparable harm to that monetary damages alone may not redress. Notwithstanding anything to the contrary in these Terms and Conditions, and in addition to all other remedies, (1) may apply to any court of competent jurisdiction for a temporary restraining order, preliminary injunction, or other interim or conservatory relief to stop or prevent the unauthorized disclosure of Confidential Information, and (2) shall not be restricted or limited from submitting ant patent matters to the International Trade Commission or from bringing any action for infringement or misappropriation of intellectual property rights in any court of competent jurisdiction.
 8.6. Return of Confidential Information. Customer will return or destroy (and upon request, certify destruction of) Confidential Information (including destruction of copies, duplications, notes, summaries, analysis etc.) upon fulfilment of an Order or upon ATUM’s request, whichever is earlier.
 8.8. Survival. The obligations of Customer under this Section shall survive the termination of the parties’ business relationship.
 9.1. Unless agreed otherwise, these Terms and Conditions will remain in effect until either party terminates their relationship on sixty (60) days’ written notice. Any such termination will not affect Orders that have been acknowledged, which will be filled in the ordinary course of business according to these Terms and Conditions and any applicable additional agreements between and Customer. If either party materially breaches these Terms and Conditions and fails to cure the breach within thirty (30) days after receiving written notice of the breach, the non-breaching party may terminate.
@@ -473,83 +194,27 @@ For clarity, for any and all Vectors (including Research Use Only Vectors), once
 10.1. Products are not for use in humans. does not submit Products for regulatory review by any government body or other organization, and does not validate them for clinical, therapeutic or diagnostic use, or for safety and effectiveness. Customer is solely responsible for making sure that the way Customer uses Products complies with applicable laws, regulations and governmental policies. Customer must obtain all necessary approvals and permissions Customer may need. It is solely Customer’s responsibility to make sure Products are suitable for Customer’s particular use. Customer represents and warrants to that Customer will properly test, use, and, to the extent authorized, market any Products and any final articles made from them in accordance with the practices of a technically qualified individual and in strict compliance with all applicable governmental food, drug, device, and cosmetic requirements and other applicable governmental requirements, now and hereinafter enacted.
 10.2. Regulatory requirements, laws, and distribution of information about genetic material may vary from country to country. The information may not be appropriate outside the United States of America. Customer is responsible for complying with all applicable laws necessary for to provide Products and Services to Customer outside the United States of America, and Customer hereby agrees to and shall indemnify and hold harmless and its affiliates and their officers, agents, and employees from any failure by Customer to do so.
 11.1. Should any provision of this Agreement be deemed invalid, entirely or in part, by a court of competent jurisdiction, such invalidity shall not affect the validity of the remaining provisions, which shall not be impaired in any way and shall remain in full force and effect. The parties agree to replace the invalid provision by a valid provision that comes as close as possible to the economic intentions of the parties as evidenced by such invalid provisions.
-11.2. Unless otherwise agreed, California law (excluding any choice of law rules) will govern the interpretation and enforcement of these Terms and Conditions and the relationship between Customer and ATUM.
 11.3. Customer and agree to settle by final and binding arbitration any controversy or claim between them, including without limitation these Terms and Conditions, and/or any product or service, whether based on contract, tort, fraud, misrepresentation, or other legal theory. single arbitrator will conduct the arbitration in Fremont, California under the then current rules and supervision of the American Arbitration Association, including rules governing who shall decide arbitrability. Customer and will select an arbitrator from a panel of persons knowledgeable in subject matter of the Order or the life sciences sector generally as applicable. The arbitrator will have the authority to award temporary and permanent injunctive relief, but may not award punitive or exemplary damages to either party. The decision and award of the arbitrator will be final and binding and may be entered in any court having jurisdiction. Customer and will pay their own attorney’s fees associated with the arbitration, and will pay other costs and expenses of the arbitration as the rules of the American Arbitration Associate provide.
 11.4. Neither party may bring any action, regardless of form, based on breaches of these Terms and Conditions, or any Product or Service more than one (1) year after the party bringing the action knew or should have known that the cause of action accrued.
 11.5. Neither party shall be liable to the other for delays or failures to perform if the delay or failure is caused by shortage of labor, labor disputes, war, act of enemies, riots, insurrection, civil commotion, federal, state or municipal action, statute ordinance, or regulation, fire, flood, earthquake, accident, storm, explosions, acts of God, the inability to obtain essential materials or other resources, or other causes beyond the party’s reasonable control. In the event of an excusable delay as defined above, the affected party shall notify the other party in writing of such delay and an equitable adjustment shall be made in the completion schedules and any other affected terms.
-11.6. Neither party may assign its rights or obligations under these Terms and Conditions without the prior written consent of the other, except (i) as an incident to the transfer of all or substantially all of its business, and (ii) may assign any such agreement to any third party.
 11.7. and Customer are contractors independent of one another. Nothing herein or in the purchase order process is intended to or will constitute either party as an agent, legal representative, or partner of the other for any purpose.
-11.8. The Parties may enter a separate agreement concerning Products and/or Services (“Agreement”). Where these Terms and Conditions conflict with such Agreement, terms of the Agreement will prevail. Notwithstanding, these Terms and Conditions shall apply where such Agreement is silent on a particular issue.
 11.9. waiver of a breach of any term of any other customer agreement or these Terms and Conditions will not be construed as a waiver of any succeeding breach of that term or as a waiver of the term itself. party’s continued performance after the other’s breach will not be construed as a waiver of that breach.
 11.10. All notices required or permitted and all requests for approvals, consents, and waivers must be in writing and must be delivered to the parties at their respective business addresses by a method providing for proof of delivery. Any notice or request will be deemed to have been given on the date of receipt.
-11.11. Customer and its affiliates hereby covenants that they will not (1) use the trademark (including the term “ATUM” and the logo), or trade name or (2) cause any advertising publicity, release, or other disclosure of information concerning these Terms and Conditions or any contract with without ATUM’s prior written consent.
-Made in sunny California.Questions? Feedback?
- powered by 
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
 Could Revolutionize Gene Therapy
-Screening to Small-Scale Biomanufacture
-Designer - Computational Tools for Mapping Out Synthetic October 1, 2017
-Protein Potential
 Speed, yield and quality critical for cell line development, says By Dan Stanton
-Building Biology with Machine Learning
-Synthetic Human Genome Set to Spur Applications
-Systems Biology Finally CHO-Ready
 Engineering the Future: The world struggles to keep up with the pace of change in science and technology
-February 24, 2014
 Don’t Get Hung Up On Gene Synthesis
-CROs: Is Yours Meeting Your Needs?
 Bioengineers look beyond patents: Synthetic-biology company pushes open-source models.
-June 24, 2013
-Make Mine a Double Helix
 Rapid, Scarless Cloning of Gene Fragments Using the Electra Vector System™
 Nudging Difficult-to-Express Proteins Along
-Library Format for Bioengineering: Maximizing Screening Efficiency through Good Design
 Synthetic biology: Stanford, Berkeley engineering a new frontier
-Dan Rather Reports - "Cutting Edge"
-February 4, 2013
 Delivering the - Despite its troubled past, gene therapy finds some traction in prevention research
-Twisting and Turning for Better Protein Expression
 Optimizing Gene Expression with DNA2.0 Technology
 Move Over, Mother Nature. Synthetic biologists harness software to design genes and networks.
 Harnessing Innovation to Improve Expression Systems.
-Pfenex and DNA2.0 Ally to Improve Protein Expression Technology.
-February 22, 2012
 Cosmo Bio Distributing DNA2.0 Products in Japan.
-February 3, 2012
-Protein Variant Libraries.
 Developers aim to standardize information exchange for computer-aided Gene Design. 
 Nature Medicine examines synonymous mutations, gene optimization and DNA2.0.
-Patent Provided for Protein
-February 23, 2011
 DNA2.0 Secures Grant to Extend Gene Optimization Algorithms to Mammalian Protein Production.
 Increasing protein expression, including DNA2.0's Mark Welch on synthetic gene redesign for optimal expression.
 DNA2.0's Jeremy Minshull comments on government Biosecurity recommendations for a sequence-based system of identifying pathogens.
@@ -561,236 +226,92 @@ The synthetic side of protein expression and Dr. Mark Welch's research on what a
 With the licensing of Virginia Tech's Genosoftware, encourages a user and development community for open source bioinformatics software. DNA2.0 continues its strong support and involvement. 
 What's in a name? Defining an emerging field can be challenging. Nature Biotechnology asked 20 experts including DNA2.0's Jeremy Minshull for their views on the term 'synthetic biology'.
 The DNA2.0 gene optimization technology is picked by The Scientist as Top Ten Innovations of 2009 - The ten most exciting tools to hit the life sciences this year.
-DNA2.0 together with all other relevant gene synthesis companies forms International Gene Synthesis Consortium (IGSC) and publish a harmonized screening protocol. Genetic Engineering News writes about the event
-DNA2.0 together with all the other relevant gene synthesis companies forms International Gene Synthesis Consortium (IGSC) and publish a harmonized screening protocol. Nature writes about the event.
 The Silicon Valley Business Journal talks to Jeremy (wearing Nicolay's lab coat) about H1N1, Venture Cap and gene synthesis. Also some very kind words from Austin Gurney at OncoMed and Tillman Gerngross at Adimab.
 GenomeWeb talks to DNA2.0 about software for gene design in the context of Jean Peccoud at receiving a $1.4grant for scaling up GenoCAD.
-Nature Biotech 2009 Preventing the misuse of gene synthesis. Minshull and Wagner. DNA2.0 President Jeremy Minshull and Geneart Ralf Wagner comment on the Nouri & Chyba publication on "proliferation-resistant biotechnology".
 DNA2.0's Claes Gustafsson is interviewed in Science magazine regarding the ongoing efforts to standardize the select agent screening procedures among the gene synthesis vendors.
-Quest - Decoding Synthetic Biology: See Stanford's Drew Endy pipette and UCSF's Chris Voigt tear up books; and DNA2.0 making genes.
 DNA2.0's Jeremy Minshull talks about grants and how the funding allowed the company to develop its novel gene synthesis technology in the absence of venture capital.
 Nature 2009 458:703. For anyone who ever said there's no such thing as a poetic gene. Gustafsson Correspondence to Nature regarding poetry in synthetic genomes.
-February 15, 2009
-Genetic Engineering News 2009 29(4):44. Does offshoring put patents in jeopardy? Piracy of intellectual property remains major concern especially in gene manufacturing. Are your genes made in a country that respect patent rights?
 Swedish tech magazine Ny Teknik has an article about the gene synthesis technology and DNA2.0.
 Tech Closeup took their cameras to DNA2.0 where a thousand synthetic genes are being made and shipped each month. 
 First Artificial Chromosome.  Science magazine publishes study from Craig Venters team creating the first artificial chromosome. The publication discloses that a large part of the gene synthesis for the chromosome was performed by DNA2.0.
-January 24, 2008
 The New York Times talk to DNA2.0's Jeremy Minshull and other leading scientists on the completion of the first artificial chromosome which DNA2.0 helped synthesize.
-September 12, 2007
-How Do You Like Your Genes? Biofabs Take Orders. New York Times talks to DNA2.0's Jeremy Minshull and other gene synthesis vendors on the emerging market for synthetic genes. 
-September 1, 2007
 DNA2.0 President Jeremy Minshull and Operon Patrick Weiss talk about the mutually beneficial partnership between the two companies.
-April 15, 2007
 DNA2.0's bioinformatics toolbox is selected by Genetic Engineering News as Best Of The Web.
 Plastic Wrapper Today Could Be Fuel Tomorrow. New York Times interviews DNA2.0 Jeremy Minshull and our academic collaborator Prof Richard Gross on the ongoing 'fuel-latent plastic' project funded by DARPA
 Synthetic gene firms evolve toward sustainable business?  The opportunities in the emerging gene synthesis market is discussed. Charlie Schmidt from Nature Biotechnology interviews Jeremy Minshull from DNA2.0 as well as the CEOs from a few other gene synthesis companies and related venture capital
 Synthetic biologists try to calm fears. The Synthetic Biology 2.0 conference at Berkeley explored the recent advances in synthetic biology and biosecurity. DNA2.0 president Jeremy Minshull describes how DNA2.0 handles potentially toxic synthetic fragments.
 Synthetic Biology is the main story in the Jan/Feb issue of Genome Technology. In one of the related stories the magazine asks DNA2.0 about the vendor perspective of gene synthesis. Read more in Genome Technology Volume 2006, Issue 1, Page 31. 
-October 18, 2005
 Nova SCience Now: segment on Artificial Life. Any day now, scientists could announce that they have created life from scratch. This segment will take you inside the quest for man-made life-forms with scientists who are on the endeavor's cutting edge.
-Protein Expression Using Synthetic Genes.  tutorial on using synthetic genes for codon optimization and heterologous protein expression. Read more in genetic Engineering News Volume 25, Issue 5, page 32.
-PlanetGene is Cool Site of the Day. The www.PlanetGene.com online resource for optimized genes is selected as "Cool Site of the Day" on Dec 6, 2004.
 Der Krieg soll grüner werden (Greener War). Pentagon wants to minimize the environmental impact of its land based military operations and at the same time access the energy of its plastic trash in the form of fuel. grant to DNA2.0 and Dr. Richard Gross of Polytechnic University (Brooklyn, Ne
-Codon-Optimized Genes. DNA2.0 released PlanetGene, an online catalog to bridge the gap in protein expression between databases and experimentation. Read more in Genetic Engineering News Volume 24, Issue 20, Page 19.
 Interview with Dr. Jeremy Minshull, President of DNA2.0. Interview with the president of DNA2.0 including discussions on state-of-the-art protein engineering technology, market development of custom gene synthesis and key applications for synthetic biology. 
 Military Bioengineering Plastic Fuels. is interested in tapping into the waste generated by the military's refuse as an on-site fuel source using the technology developed by DNA2.0 in Menlo Park, and Prof Richard Gross in Polytechnic Univ Brooklyn, NY.
 Spirals Into Artist's Medium. DNA2.0, tomatoes, Descartes and Deep Blue's 36th move against Kasparov. One morning we'll wake up and the entire article will make sense (except the part about the glowing bunny).
-ContactQuestions? Feedback?
- powered by 
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
-Cutting-edge research & developments using Biotechnology tools from ATUM
-2003 – 2005
 Leap-In transposase, and continue relationship, co-authors with Nobel Laureate. Spotlight on ATUM’s antibody services.
 Leap-In transposase, Transaminase engineering using ATUM’s platform. Spotlight on leap-in transposase technology.
-Better cheese, Democratizing medicine, Artificial intelligence meets biology. Spotlight on protein production services.
-Fall, 2015
-Antibody Expression from a Single Vector. Bicistronic Viral Gene Expression (Vaccine). Mapping Neural Circuits (Nature). In Silico Resurrection (Cell Reports). mAb Against Influenza (PNAS).
-Atlas. CAR-for Glioblastoma (Sci Transl Med). Bridging Evolutionary Divergence (Nature). Dual Target Recognition (mAbs). Retinal Neuroprotection (Cell). Direct Delivery of Cas9 (Biology). Stable Packaging (Nature Scientific Reports).
-Fall, 2014
-Open Access SynBiol Tools. Pichia Secreted Protein Expression 18g/(Biotechnol). Research Can be Sweet (Nature). Mapping Transcriptional Networks (Cell). Improving Cognitive Function (Neurosci). Control (Cell). Combating Infection (JACS).
-Engineering Better Mammalian Vectors. Mapping Behaviour Using Synthetic Genes (Cell). Eradicating Cancer (Nature). Preventing Tuberculosis (PNAS). Squid Sucker Teeth. Protein Engineering (Syn Bio).
-CRISPR/Cas9 Genome Engineering. Natl Labs Improves Protein Expression with GeneSubverting the Immune Response with gp120 (Nature Immunol). Sugars to Biofuels (Nature). Voracious Feeding Behavious (Cell).
-Fall, 2013
-Optimizing Secreted Expression. Synthetic Circular Permutation Library Co-Publication.
-PTEN-long Cancer Pathogenesis (Science). mediated RNA-guided Targeting and Regulation (Cell). Solving Structure (Nature). Cells and Fractals.
-Electra Vector System™ – Universal, IP-Free©, Scarless Cloning System. Deep Mutational Scanning of Erbitux Antibody Library. Semi-Synthetic Antimalarial Production of Artemisinin. H5N1 Human Adaptation. Recessive Parkinson’s Disease. Bioengineers Look Beyond Patents. Library Format for Bionengineering.
 Dramatically different gene design criteria for coli, Baculovirus/Sf9 & Optimizing expression in insect cells. First view of Insulin binding. Feeding Crickets dsProtein self-assembly. Dan Rather Reports – “Cutting Edge”. Genefor human tissue expression.
-Fall, 2012
 Successful aminotransferase engineering with ProteinSynthetic gene networks. Heat stable nanowires. Refactored phage genome. Antitumorigenic mAb. Single-chain variable fragment (scFv) library. Allosteric inhibition of MtATP-phosphoribosyltransferase.
-Summer, 2012
 Increasing protein expression in Secretomes and signaling. Cannabis catalysis. engineering a better enzyme. Combating infectious disease. X-ray Crystallography highlights.
-Spring, 2012
-How to Engineer proteins for predictableeExpression. Live cell fluorescence. Measles and H5N1 vaccines. Biochemistry. Pfenex protein expression collaboration.
-Winter, 2012
 Malaria secretion and pathogenesis. Cell-fate control gene therapy. Structural characterization of Tuberculosis gene. Integration.
 Infologs transform protein engineering. Cell free chromosome assembly. Pandemic Flu vaccines. synthetic nose. Engineering Fred. Cancer research highlights.
 Step by Step instructions for designing better genes. Proteomics uncovers critical disease pathways. Deep sequencing the Voodoo Lilly. Synthetically engineering a novel plasmid. Hemorrhagic Virus research highlights.
 new for researchers. Better biosimilars from Dartmouth, Pfenex and Sutro Biopharma. Biofuels research highlights.
 Predictable protein expression in Pichia. crystal structure. Himalayan plant-based therapeutics. Synthetic genetic circuits. Hemorrhage, shock and death. Prion protein conversion.
-June, 2009
-January/February, 2006
-September, 2005
-June, 2005
 Inc. (d/b/a ATUM) (“ATUM”), as the controller and operator of this website (www.atum.bio) (“Website”), is committed to protecting your privacy and providing you with a positive, secure environment on our Website and in using our products and services.
 We treat all account contact information, personal information, payment information and DNA/protein sequences submitted by customers as strictly confidential. Information is only disclosed to employees who are bound by a confidentiality agreement on a need-to-know basis to enable each individual to perform their duties, or to third parties upon your prior written consent.  confidentiality agreement is available upon request.
+1. Information We May Collect From You
 When you fill out and submit a form on our Website, send us an email, give us a phone call, apply for a job at ATUM, meet with us in person or otherwise interact with ATUM, we may collect, retain and update the information you provide us. Such information may include information from which you may be personally identified, such as your name, email address, phone number, fax number, postal address, business information about your employer, product/service interests or preferences, job title, job function or other detail you provide to us. does not purchase or rent e-mail lists from third parties.
 We may use your personal information for the purpose of operating our business, providing shipment of products, sending marketing or other communications relating to our business, and other legitimate purposes permitted by applicable law. More specifically, we may use your personal information to: 1) Perform a contract to which you or your company is a party, or taking necessary steps at your request prior to entering a contract; 2) Send you products or supply you with services that you purchase; 3) Send you statements and invoices and collect payments from you;  4) Send you information about your account, changes to any relevant agreements, statements and policies;  5) Respond to any queries or requests you may have in relation to our products/services; or 6) Send you newsletters or information concerning our product service offerings which you are most likely to be interested in.
 Credit card information is used only for payment processing and fraud prevention. We will not use credit card information and other personal information required to process a transaction on credit for any other purpose.
-3. Sharing of Personal Information
 will never rent, sell or otherwise make customer names, e-mail addresses, postal addresses or telephone numbers available to third parties without the prior permission from customer. We will only provide your personal information to third parties with your prior written consent when it is necessary for the performance of the service you have requested.
 Nevertheless, we may disclose your personal information to the extent that it is required by law, in compliance with any court order in any legal proceedings, and in order to establish, claim, exercise or defend our legal rights.
 We will retain your personal information for as long as necessary to fulfil the purposes for which it was collected, and, if applicable, as long as required for complying with any legal, accounting, or reporting requirements.
-Under legislation applicable to you, you may be entitled to exercise some or all of the following rights:- 1) Request correction of your personal information to correct any incomplete or inaccurate data; 2) Request erasure of your personal information (subject to the terms under Section 4 “Retention”); 3) Request a copy of your personal information to be sent to yourself or a third party in a structured, commonly used, machine-readable format;  4) Abstain from providing, opting out, or withdraw your consent to, object to or request to restrict the processing of your personal information by us; and 5) Lodge a complaint with a supervisory authority relating to the processing of personal information by us.
-If you need assistance exercising your above rights, or help with accessing, correcting, or deleting your personal information, please feel free to contact us directly at privacy@atum.bio or send a postal mail to 37950 Central Court, Newark, 94560 (Attn: Legal). We make good faith efforts to honor reasonable requests to rectify, update, or delete your data. We will respond to your request within thirty (30) days. We may need to confirm your identity and verify that the requestor has the right to access or request deletion of the data as a security measure to ensure that your data is not disclosed to a person who has no right to receive it. If we are unable to honor your request, we will provide you with an explanation.
 We use this information to improve and customize your browsing experience and understand how users interact with our Website.
 You may receive e-newsletters or other communications from us if you have purchased products or services from us, opened an account with us, requested a quotation, met with us at a trade show, downloaded Gene Designer or directly requested to be added to our mailing list and have not opted out of receiving these communications.
 Our e-newsletters and marketing emails include an opt-out link in the footer. You can use this link at any time to adjust your marketing preferences and to opt-out of receiving any future marketing communications. You can also contact us at communications@atum.bio at any time to update your preferences.
 When you opt out of marketing communications, we may still use your personal information to communicate with you about a product/service purchase, performance of a contract, or in relation to financial transactions.
-8. Security of Your Personal Information
 We use reasonable safeguards to protect against the loss, alteration, unauthorized use and disclosure of the personal information you provide to us. These include physical, administrative and technical measures which are periodically reviewed. While we cannot ensure or guarantee that loss, misuse or alteration of information will never occur, we use commercially reasonable efforts to prevent it.
 You should note that transmission or submission of information over the internet is never entirely secure. We cannot guarantee the security of information you submit via our Website while it is in transit over the internet, and any such submission is at your own risk.
 Our Website may contain links to third party sites. We are not responsible for the information and privacy practices of these third parties, they are subject to their own policies and procedures.
-We may update this Privacy Policy from time to time by posting new versions on this Website. You should check this page periodically to ensure you are familiar with any changes.
-11. Governing Law and Jurisdiction
 This Privacy Policy constitutes a contract made under and shall be governed by and construed in accordance with the laws of the State of California.
-Questions or comments regarding the Website and this Privacy Policy should be sent by e-mail to privacy@atum.bio or by mail directly to 37950 Central Court, Newark, 94560.
 three small dots to indicate that an agent is available to chat
 We're not available to chat right now, but we want to answer your questions. We'll reply to your message via email as soon as we can.
 Hi!  Can we get some basic information before we chat?
-What service/product are you interested in?
-Start chattingQuestions? Feedback?
- powered by 
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
-Electra System
-Expression Vectors
-CRISPR/Cas9
-ProteinPaintbox
-Chromogenic & Fluorescent Proteins
-Protein Expression
-High Throughput Protein Expression
-Large Scale Protein Expression
-Challenging Proteins
-Large Scale Prep
-Large Constructs
-ProteinEngineering
-Bioinformatics Toolbox
-Presentations & Publications
-Webinars & Videos
 Solentim and announce technology collaboration to enable rapid, high expression, stable cell line development
-and Extend Joint Development Agreement
 Receives Patent to Expand and Integrate Transposon Based Technologies for Protein Pharmaceutical Development
-and Just Biotherapeutics Team Up to Accelerate Drug Discovery
 and Horizon Discovery Announce Collaboration and Technology Cross-License to Simplify and Speed Bioproduction Cell Line Development
-Signs Patent Licensing Agreement with Thermo Fisher Scientific
-Launches Cell-Line Development Service 
+DNA2.0, Inc. Becomes ATUM
 DNA2.0 LeapIn Transposons Protected by Newly Issued Patent
 DNA2.0 Acquires to Add Antibody Production Capabilities
 DNA2.0 Announces Opening of European Office in Basel, Switzerland
 DNA2.0 Builds State of the Art Bioproduction Facility in Newark, California
 DNA2.0 Announces Issuance of Patent for Fluorescent and Colored Proteins
 and DNA2.0 Enter Into Protein Engineering Technology Access and Service Agreement
-Pareto Biotechnologies Announces Technology Partnership With DNA2.0, Inc.
 DNA2.0 Introduces Tools For Genome Engineering
 DNA2.0 Partners With St. George’s Infection And Immunity Research Centre On Biopharmaceutical Production In Plants
-December 19, 2013
-DNA2.0 Introduces Simple, IP-Free©, Scarless Cloning
-Protein Variant Library Expertise From DNA2.0
 DNA2.0 Partners With Newcastle University On Bacillus Subtillis Expression System
 DNA2.0 Teams Up With Penn Gene Therapy Program  On Optimizing Gene Expression For HIV-1 Vaccine
 DNA2.0 Taps Technology As Research Partner For Industrial Scale Protein Expression
-September 18, 2012
 DNA2.0 And Aldevron Collaborate On Insect Cell Expression System
-DNA2.0 Sponsors Singularity University Launchpad
 DNA2.0 Patents Key Method For Synthesizing Bioplastic Polymer
-May 24, 2012
-April 27, 2012
-DNA2.0 Introduces The Bioengineering Platform
 DNA2.0 Partners With Cosmo Bio To Deliver Bioengineering Solutions To Japanese Researchers
-February 20, 2012
-DNA2.0 Introduces Protein Variant Libraries
-January 31, 2012
-Make 2012 Your Breakthrough Year: 12 Reasons To Switch To DNA2.0 In 2012 
-January 20, 2012
 DNA2.0 Integrates Synthetic Biology Open Language (SBOL) Into Gene Designer
 DNA2.0 Names Walter Tian Senior Vice President, Marketing And Corporate Strategy
-DNA2.0 Expands pJexpress Family Of Vectors To Pichia pastoris
 DNA2.0 Partners With To Offer Biological Building Blocks Through Gene Designer
 DNA2.0 Opens Gene Marketplace
 DNA2.0 Expands To New Menlo Park Facility
 DNA2.0 Secures Grant To Extend Gene Optimization Algorithms To Mammalian Protein Production
-February 23, 2011
 Time To Make the Switch: 11 Reasons To Move From Cloning To Gene Synthesis In 2011
 DNA2.0 Introduces Free Life Science Teaching Tools For Educators And Students
 Gene Designer's Drag-And-Drop Functionality For Sequence Design Awarded Patent
-Gene Synthesis Customers Rate Confidentiality And Intellectual Property Protection As Very Important Factors When Ordering Synthetic Genes
-August 19, 2010
-DNA2.0 Celebrates Freedom Of Expression With Mammalian Expression Vectors
 DNA2.0 Introduces Powerful, Free Gene Design Software
 DNA2.0 Awarded Patents For Breakthrough Gene Optimization Technology
 DNA2.0 And Blue Sky Biotech Announce Strategic Alliance For Bundled Customer Exprience From Gene Synthesis To Purified Protein
 World’s Top Gene Synthesis Companies Establish Tough Biosecurity Screening Protocol
-November 19, 2009
+DNA2.0 Unlocks The Secrets Of Optimized Gene Design
 Caltech And DNA2.0 Scientists Create New Enzymes For Biofuel Production
-May 23, 2009
 Microscopic Manufacturers Produce Eco-Friendly Plastics
-May 19, 2009
-DNA2.0 Introduces Freedom Of Expression With New Family Of Bacterial Expression Vectors
 DNA2.0 Expands European Presence By Opening Office: Experienced Life Sciences Executive, Dr. Michael Dyson, To Lead European Operations
-RNAi Helps Illuminate The Inner Workings Of The Cell Cycle: Synthetic RNAissance™ Genes Created By DNA2.0 Enable Key Research
-Genes As Time Machines
 Operon Biotechnologies And DNA2.0 Announce Comarketing And Technology Development Partnership
-August 22, 2007
 Adimab And DNA2.0 Enter Exclusive Antibody Discovery Relationship
-August 3, 2007
 DNA2.0 And MediAnnounce Joint R&Agreement For Protein Engineering And Gene Synthesis Distribution In Japan
-DNA2.0 Announces The Launch of PlanetGene — The First Online Repository Of Codon Optimized Human Genes Available For Purchase
-September 27, 2004
-DNA2.0 Introduces RNAissance Genes—Industry’s First Synthetic RNAi-resistant Genes
-April 19, 2004
-New Enzyme Discovery Suggests Evolutionary Process
 DNA2.0 Inc. Co-Founders Reports Technology For Intelligent Protein Engineering
-August 15, 2003

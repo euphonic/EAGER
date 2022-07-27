@@ -1,23 +1,15 @@
-Ultra small & bright
 LaserLight is enabling a breakthrough in ultra-small projectors that are highly portable, brighter than ever, and always in focus.
-Style meets safety
 Driving new trends in style with the brightest, smallest light source that delivers the longest range headlights commercially available.
-See every detail
 SLD’s LaserLight technology is leading the way to new opportunities in lighting innovations with a laser-based lighting platform.
 LaserLight enables the incredible ability to see beyond a kilometer, that’s ten times farther than with the portability of a flashlight.
 LaserLight is enabling a breakthrough in ultra-small pico-projectors that are highly portable, brighter than ever, and always in focus.
-Style meets safety
 Driving new trends in style with the brightest, smallest light source that delivers the longest range headlights commercially available.
-See every detail
 SLD’s laserlight technology is leading the way to new opportunities in product innovations with a laser-based lighting platform.
 LaserLight enables the incredible ability to see up to a kilometer, that’s three times farther than with the portability of a flashlight.
 The world's first high luminance, white LaserLight source delivers 100 times the luminance of LEDS, for ultra-long beam distance, narrow beam angles and small optic sizes.
 LaserLight Fiber features safe, high efficiency fiber delivery of incoherent, broad spectrum white light for remote lighting architectures.
 revolutionary Gablue with a miniature form factor that is ideal for single emitter packages or integration into multi-chip modules.
 See what’s next for in high-speed communications, sensing, AR/VR, and everything in between.
-Beyond Lighting
-LaserLight Fiber
-LaserLight delivered
 is where the future of lighting is being built. New ideas are being harnessed to realize tomorrow’s product innovations. We are pioneering new ways to generate light that weren’t thought possible – until now. 
 LaserLight, the world’s brightest and most innovative light source.
 The next generation in lighting has arrived, shining brighter and farther than ever before. In the last decade, enabled a new generation of lighting that changed everything. Now, LaserLight outshines the limits of to deliver safe, high luminance white light from an incredibly small point source. LaserLight doesn’t just offer superior technology, it’s enabling entirely new opportunities.
@@ -29,36 +21,17 @@ demonstrates LaserLight technology as next generation solid state lighting techn
 achieves product performance and initiates sample shipments for auto and lighting, establishes long term development and supply agreements.
 achieves automotive quality certifications 16949 and 9001, Pre-production deliveries commence.
 achieves safety certifications and for production launch into auto and commercial lighting. High volume LaserLight production lines established.
-Our leadership
-CTO, Co-Founder
-Founder of Nitres
-(Sold to Cree, $200M)
 Steven DenBaars presently is Chief Executive Officer & Co-Founder at Inc. Dr. DenBaars is also a director of Soraa, Inc. and Akoustis Technologies, Inc. and Co-Director-Solid State Lighting and Energy Electronics Center at the University of California, Santa Barbara.  Dr. DenBaars has been in the compound semiconductor business for over 30 years starting with his prior work at Hewlett-Packard Optoelectronics division in 1988 and has co-founded 3 semiconductor startups. Prof. DenBaars joined in 1991 and holds the Mitsubishi Chemical Chair in Solid State Lighting and Displays.  Dr. DenBaars specific research interests include fabrication of wide-band gap semiconductors (Gabased), and their application to Blue LEDs, diodes and energy efficient solid-state lighting. He has over 840 peer reviewed scientific publications and over 179 patents on electronic materials and devices. He has been honored with an Young Investigator award, Fellow Award and the Aron Kressel Award. He has been a Fellow of the National Academy of Inventors since 2014 and was elected to the National Academy of Engineering in 2012.
-1st Ga& LED
-Inventor of the Year
 Professor Shuji Nakamura is co-founder and of Laser, a leader in the commercialization of light sources for display, lighting, sensing, and automotive applications.  Professor Nakamura is the 2014 Nobel Laureate in Physics for the invention of efficient blue light-emitting diodes, which have enabled bright and energy-saving white light sources, as well as the invention of the violet Gadiode, used widely for Blu-ray data storage.  Since 2000, he has been a professor of Materials and Electrical & Computer Engineering at the University of California, Santa Barbara. Professor Nakamura obtained B.E., M.S., and Ph.degrees in Electrical Engineering from the University of Tokushima, Japan in 1977, 1979, and 1994, respectively. Throughout his career, Professor Nakamura has received a myriad of recognitions, including the Global Energy Prize, Inventor of the Year USA, Harvey Prize by Technion, Prince of Asturias Award for Technical Scientific Research, Czochralski Award, Finland's Millennium Technology Prize, and the Global Innovation Leader Award.  He has over authored or co-authored over 500 scientific publications and 500 patents.
-CEO, Co-Founder
-President and COO, Co-Founder
-20 years, industry corporate development
-Specialty Illumination
 Dr. Paul Rudy is a Co-Founder, CMO, and of Business Development at Laser, a leader in the commercialization of Gabased light sources.  Paul has worked in the field of photonics for more than 20 years, and has extensive experience in photonics general management, technical product marketing, business development, and product management.  Prior to SLD, Paul worked as Director of Marketing at Coherent, the world's largest commercial manufacturer, specifically working to commercialize devices based on gallium arsenide.  Dr. Rudy received his doctoral degree in physics from the University of Rochester, from USC, and undergraduate physics from Duke University.  He has over 50 patents and has authored more than 40 technical marketing papers and conference talks.
-10 years, Photonics & Operations leadership 
->200 patents in lasers
 Dr. Raring is President and Chief Operating Officer of Laser, and a Co-Founder.  As President and COO, he leads the development and commercialization of LaserLight, based on state-of-the-art blue and green InGaN-based diodes fabricated on nonpolar/semi-polar GaDr. Raring helped lead the spin-off of in July of 2013.  Prior to SLD, Dr. Raring worked at Inc. as of Engineering and a founding employee where he helped grow the company and establish key infrastructure such as the epitaxial growth and fabrication capabilities.  Earlier in his career, Dr. Raring worked at Sandia National Laboratories as a Senior Member of Technical Staff in the photonic integrated circuit (PIC) group where he developed high-functionality InP-based devices. Dr Raring received his Ph.in Materials Science from the University of California, Santa Barbara in 2006 where he developed an advanced InP-based photonic integration scheme by combining regrowth with quantum well intermixing.  Leveraging this novel monolithic integration platform, he demonstrated the first single-chip 40 Gb/s optical transceiver. Dr. Raring has authored or co-authored over 100 technical papers and conference presentations.
-BD, Co-Founder, CMO
-Dietmar Zapf
-of Global Operations
-Crocus, Cypress
 Rafael is responsible for the financial management of Laser. 
 He brings over 25 years of corporate and operational finance experience to the business, having worked in corporations such as Intel, Johnson & Johnson and Procter & Gamble. He has over 20 years of semiconductor manufacturing and R&finance experience and has successfully led as Finance Director for a fabless semiconductor company in a turnaround mode. is his second startup.
 Raised in Mexico, Rafael brings relevant international experience to our corporation. He holds an from Carnegie Mellon University and a in Business Administration from the Instituto Tecnológico Autónomo de Mexico (ITAM), with a focus on Finance and Entrepreneurship.
 20 yrs in supply chain
-& Semiconductors
 Dietmar Zapf brings 20+ years of Supply Chain, Manufacturing and Operations management experience to Laser. He has held senior positions in both startups and large publicly traded companies in the telecommunications, and Semiconductor industries. Prior to joining Laser, he was managing operations at Kaiam, Coherent, and at Santur. As Senior Supply Chain Manager at JDSU, he was responsible for transferring multiple product lines to offshore manufacturing sites. He is passionate about leading manufacturing organizations both domestically and internationally as well as transitioning startups into revenue generating companies. 
 Mr. Zapf was born and raised in Germany, but has lived in the Bay Area for 30 years, he graduated from Berkeley where he was a member of the Crew team.
-culture of innovation
 No revolutionary idea wins on value alone.  It takes many ideas and bright people working together to create a seismic shift toward a new technology solution.  Pioneer the realm of possible, and join 100+ employees from 17 countries to be a part of the future of lighting.
-Silicon Valley
 SLD is 9001 certified and automotive compliant to 16949, and operates facilities in Santa Barbara, and in Fremont, CA.
 Headlights are passé: Luxury cars of the future will be illuminated with lasers
 Most people don’t turn on their car’s headlights and think, wish they were brighter. Shuji Nakamura is not most people. The Nobel Prize-winning illumination scientist has spent the past five years developing a laser-based lighting system.

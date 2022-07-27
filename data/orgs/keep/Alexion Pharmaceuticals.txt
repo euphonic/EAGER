@@ -1,11 +1,8 @@
-ULTOMIRIS™ (ravulizumab-cwvz)
 is indicated for the treatment of adult patients with paroxysmal nocturnal hemoglobinuria (PNH).
 Comply with the most current Advisory Committee on Immunization Practices (ACIP) recommendations for meningococcal vaccination in patients with complement deficiencies.
 Immunize patients with meningococcal vaccines at least 2 weeks prior to administering the first dose of ULTOMIRIS, unless the risks of delaying therapy outweigh the risk of developing a meningococcal infection [see Warnings and Precautions for additional guidance on the management of the risk of meningococcal infection].
 Vaccination reduces, but does not eliminate, the risk of meningococcal infections. Monitor patients for early signs of meningococcal infections and evaluate immediately if infection is suspected.
 is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS). Under the REMS, prescribers must enroll in the program [see Warnings and Precautions]. Enrollment in the program and additional information are available by telephone: 1-888-765-4747 or at www.ultomirisrems.com .
-CONTRAINDICATIONS
-Serious Meningococcal Infections
 Life-threatening meningococcal infections have occurred in patients treated with The use of increases a patient’s susceptibility to serious meningococcal infections (septicemia and/or meningitis). Meningococcal disease due to any serogroup may occur.
 Vaccinate for meningococcal disease according to the most current Advisory Committee on Immunization Practices (ACIP) recommendations for patients with complement deficiencies. Revaccinate patients in accordance with recommendations considering the duration of therapy.
 Immunize patients without a history of meningococcal vaccination at least 2 weeks prior to receiving the first dose of If urgent therapy is indicated in an unvaccinated patient, administer meningococcal vaccine(s) as soon as possible and provide patients with 2 weeks of antibacterial drug prophylaxis.
@@ -14,24 +11,18 @@ Vaccination reduces, but does not eliminate, the risk of meningococcal infection
 Closely monitor patients for early signs and symptoms of meningococcal infection and evaluate patients immediately if infection is suspected. Inform patients of these signs and symptoms and steps to be taken to seek immediate medical care. Meningococcal infection may become rapidly life-threatening or fatal if not recognized and treated early. Consider discontinuation of in patients who are undergoing treatment for serious meningococcal infection.
 Due to the risk of meningococcal infections, is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS). Under the REMS, prescribers must enroll in the program.
 Prescribers must counsel patients about the risk of meningococcal infection/sepsis, provide the patients with the educational materials, and ensure patients are vaccinated with meningococcal vaccines.
-Other Infections
 Monitoring Disease Manifestations after Discontinuation
 After discontinuing treatment with ULTOMIRIS, closely monitor for signs and symptoms of hemolysis, identified by elevated along with sudden decrease in clone size or hemoglobin, or re-appearance of symptoms such as fatigue, hemoglobinuria, abdominal pain, shortness of breath (dyspnea), major adverse vascular event (including thrombosis), dysphagia, or erectile dysfunction. Monitor any patient who discontinues for at least 16 weeks to detect hemolysis and other reactions. If signs and symptoms of hemolysis occur after discontinuation, including elevated LDH, consider restarting treatment with ULTOMIRIS.
-Thromboembolic Event Management
 The effect of withdrawal of anticoagulant therapy during treatment has not been established. Therefore, treatment with should not alter anticoagulant management.
 Administration of may result in infusion reactions. In clinical trials, 3 out of 222 patients with treated with experienced infusion reactions (lower back pain, drop in blood pressure and infusion-related pain) during administration. These reactions did not require discontinuation of Interrupt infusion and institute appropriate supportive measures if signs of cardiovascular instability or respiratory compromise occur.
 Adverse reactions reported in 5% or more of patients treated with vs. Eculizumab was Upper respiratory tract infection (39% vs 39%), Headache (32% vs. 26%), Diarrhea (9% vs. 5%), Nausea (9% vs. 9%), Pyrexia (7% vs 8%), Pain in extremity (6% vs. 5%), Abdominal pain (6% vs. 7%), Dizziness (5% vs. 6%), Arthralgia (5% vs. 5%).
 The serious adverse reactions in patients treated with included hyperthermia and pyrexia.
 Please see full prescribing information for ULTOMIRIS, including Boxed WARNING, regarding serious and life-threatening meningococcal infections/sepsis.
-To view full prescribing information on ULTOMIRIS™ please click here.
 Ultomiris™ (ravulizumab-cwvz) is a new treatment option for adult patients living with paroxysmal nocturnal hemoglobinuria (PNH). Ultomiris™ is the first and only long-acting C5 inhibitor that provides immediate and complete inhibition for 8 weeks.
-Pursuing Groundbreaking Innovation
 Through the transformative power of our science, we have delivered life-changing therapies to patients suffering from rare diseases—diseases that often affect families for generations. We have pioneered the complex field of complement biology and delivered solutions to challenges that once seemed impossible for patients with devastating complement-mediated and metabolic disorders.
-Creating a Lasting Impact
 The dedication and passion of our employees enable us to achieve our mission. We are building a rewarding place to work where people are empowered to make a difference and where diversity of backgrounds and ideas is encouraged.
 Serving Patients Today and the Generations That Follow
 Patients with rare diseases are our guiding star. They inspire us every day to find answers, and we act with integrity, urgency, and discipline because we know their lives are at stake.
-Serious Meningococcal Infections
 Life-threatening meningococcal infections have occurred in patients treated with The use of increases a patient’s susceptibility to serious meningococcal infections (septicemia and/or meningitis). Meningococcal disease due to any serogroup may occur.
 Vaccinate for meningococcal disease according to the most current Advisory Committee on Immunization Practices (ACIP) recommendations for patients with complement deficiencies. Revaccinate patients in accordance with recommendations considering the duration of therapy.
 Immunize patients without a history of meningococcal vaccination at least 2 weeks prior to receiving the first dose of If urgent therapy is indicated in an unvaccinated patient, administer meningococcal vaccine(s) as soon as possible and provide patients with 2 weeks of antibacterial drug prophylaxis.
@@ -40,10 +31,8 @@ Vaccination reduces, but does not eliminate, the risk of meningococcal infection
 Closely monitor patients for early signs and symptoms of meningococcal infection and evaluate patients immediately if infection is suspected. Inform patients of these signs and symptoms and steps to be taken to seek immediate medical care. Meningococcal infection may become rapidly life-threatening or fatal if not recognized and treated early. Consider discontinuation of in patients who are undergoing treatment for serious meningococcal infection.
 Due to the risk of meningococcal infections, is available only through a restricted program under a Risk Evaluation and Mitigation Strategy (REMS). Under the REMS, prescribers must enroll in the program.
 Prescribers must counsel patients about the risk of meningococcal infection/sepsis, provide the patients with the educational materials, and ensure patients are vaccinated with meningococcal vaccines.
-Other Infections
 Monitoring Disease Manifestations after Discontinuation
 After discontinuing treatment with ULTOMIRIS, closely monitor for signs and symptoms of hemolysis, identified by elevated along with sudden decrease in clone size or hemoglobin, or re-appearance of symptoms such as fatigue, hemoglobinuria, abdominal pain, shortness of breath (dyspnea), major adverse vascular event (including thrombosis), dysphagia, or erectile dysfunction. Monitor any patient who discontinues for at least 16 weeks to detect hemolysis and other reactions. If signs and symptoms of hemolysis occur after discontinuation, including elevated LDH, consider restarting treatment with ULTOMIRIS.
-Thromboembolic Event Management
 The effect of withdrawal of anticoagulant therapy during treatment has not been established. Therefore, treatment with should not alter anticoagulant management.
 Administration of may result in infusion reactions. In clinical trials, 3 out of 222 patients with treated with experienced infusion reactions (lower back pain, drop in blood pressure and infusion-related pain) during administration. These reactions did not require discontinuation of Interrupt infusion and institute appropriate supportive measures if signs of cardiovascular instability or respiratory compromise occur.
 Adverse reactions reported in 5% or more of patients treated with vs. Eculizumab was Upper respiratory tract infection (39% vs 39%), Headache (32% vs. 26%), Diarrhea (9% vs. 5%), Nausea (9% vs. 9%), Pyrexia (7% vs 8%), Pain in extremity (6% vs. 5%), Abdominal pain (6% vs. 7%), Dizziness (5% vs. 6%), Arthralgia (5% vs. 5%).
@@ -52,17 +41,14 @@ Please see full prescribing information for ULTOMIRIS, including Boxed WARNING, 
 Working at is an experience like no other. With a focus on rare diseases that have few, if any, effective treatments, each endeavor is urgent and every day counts. Together, we are building a rewarding place to work where people are empowered to make a difference and where diversity of backgrounds and ideas is encouraged.
 We are looking for talented individuals who share our passion and commitment to change the lives of patients with rare diseases. We hope you will consider joining our team
 has become aware of scams from individuals, organizations, and Internet sites claiming to represent in recruitment activities in return for disclosing financial information. Career opportunities are published only through Alexion’s official communication channels. The process includes an interview and never requires payment or fees from job applicants. Interviews will never be conducted via Google Hangouts, and any potential candidate will only be communicating with an team member through an official email address which will end in @alexion.com. If you receive a suspicious email or job offer on behalf of Alexion, do not provide any personal information or pay any fees. Interested applicants should only apply through this website. Any fraudulent activity should be reported to GSOC@alexion.com .
-© 2019 You are now leaving www.alexion.com, a website provided by                 Pharmaceuticals, Inc. This link will take you to a different site to which                 this Privacy Policy does not apply.Research and Development
 At Alexion, we know that fighting rare diseases requires persistence, dedication, and a relentless pursuit of the highest levels of medical innovation. Our research and development programs aim to deliver life-changing therapies that bring hope to patients and families affected by rare diseases. Often, these patients have few, if any, effective treatment options and face devastating and life-threatening consequences.
 pioneered the complex field of complement biology, and today our internal research efforts focus on leveraging our 20+ years of experience in this field. We discovered and developed the world’s first complement inhibitor, Soliris® (eculizumab), for the treatment of life-threatening, ultra-rare disorders caused by uncontrolled complement activation, and we are now applying this deep expertise to pursue novel molecules and targets in the complement cascade.
 Alexion’s development efforts focus on the core therapeutic areas of hematology, nephrology, neurology, and metabolic disorders. We are working to expand Soliris into new complement indications and strengthen our clinical-stage pipeline through internal and external development opportunities in our four core areas.
 As we develop and deliver life-changing therapies, we are also leveraging a proprietary bioinformatics platform to strengthen our understanding of rare diseases and provide insights into their epidemiology.
 The complement system is a complex branch of the body’s immune system that destroys and removes foreign particles. While the complement system is essential to maintaining health, it can also become over-activated, contributing to the development of numerous devastating diseases. In PNH, for example, a genetic error in cell proteins results in a deficiency in complement inhibitors that normally protect red blood cells. red blood cells are then recognized by the immune system as foreign particles, and are destroyed by complement. In aHUS, healthy tissue is attacked when complement is activated inappropriately or excessively. In anti-acetylcholine receptor (AchR) antibody-positive MG, antibodies bind to AchR, activating the complement cascade, which leads to a localized inflammation and destruction of the muscle membrane at the neuromuscular junction (NMJ), in turn leading to a loss of normal muscle function.
 Clinical trials are a critical part of our efforts to develop innovative new therapies for patients with severe and devastating rare diseases. has ongoing and actively recruiting clinical trials in a wide range of therapeutic areas.
-Our Pipeline
 Learn more about our global R&organization's rare disease pipeline
 Learn more about some of our key ongoing clinical trials
-Voluntary Data Sharing
 is indebted to patients and their families for their participation in clinical studies that help to advance treatments. As an organization, we are committed to voluntary sharing of Alexion-sponsored clinical trial data to address unmet medical/clinical needs.
 Qualified academic investigators may submit a research proposal for access to clinical data and applicable supporting documents pertaining to Alexion-sponsored interventional clinical studies considered in scope.
 Our online portal to receive and review academic research proposals is currently under construction. If you would like additional information, please click the link below and fill out our medical information inquiry form.
@@ -72,84 +58,55 @@ has become aware of scams from individuals, organizations, and Internet sites cl
 career at is a chance to build on your education at one of the fastest growing companies in the biopharmaceutical industry.
 Our internship programs are designed to ensure students gain valuable industry and functional experience, work on meaningful and challenging assignments, and build partnerships within their professional networks. We offer a variety of opportunities across our business for students to achieve a true sense of what it's like to work at Alexion.
 offers internships across multiple degree levels (BA/BS, MA/MS, MBA, PharmD, Ph.D.) and encourage students in any major to explore the diverse career options available within the biotechnology industry.
-Functional areas include:
-© 2019 You are now leaving www.alexion.com, a website provided by                 Pharmaceuticals, Inc. This link will take you to a different site to which                 this Privacy Policy does not apply.About About (NASDAQ: ALXN) is a global biopharmaceutical company focused on serving patients and families affected by rare diseases through the discovery, development and commercialization of life-changing therapies.
 Since its founding in 1992, has given hope to people who had none and shined a light on those who felt isolated and alone. But we know that fighting rare diseases takes so much more than hope. It requires persistence, dedication, and a relentless pursuit of the highest levels of medical innovation.  At Alexion, our goal is to deliver medical breakthroughs where none currently exist. We are driven because we know people's lives are at stake.
 has 2,500 passionate and dedicated employees serving patients in 50 countries around the world.
 Our breakthrough Therapies
 Through the transformative power of our science, has delivered life-changing therapies to patients suffering from rare diseases. We have pioneered the complex field of complement biology and delivered solutions to challenges that once seemed impossible for patients with devastating complement-mediated and metabolic disorders.
-developed Soliris® (eculizumab), the world's first approved terminal complement inhibitor, for the treatment of patients with paroxysmal nocturnal hemoglobinuria (PNH), atypical hemolytic uremic syndrome (aHUS), and anti-acetylcholine receptor (AchR) antibody-positive generalized myasthenia gravis (gMG).
 also has two highly innovative enzyme replacement therapies for patients with life-threatening and ultra-rare metabolic disorders—Strensiq® (asfotase alfa) for patients with hypophosphatasia (HPP) and Kanuma® (sebelipase alfa) for patients with lysosomal acid lipase deficiency (LAL-D).
 Alexion’s ambition is to be the global leader in rare diseases. By leveraging our 20+ years of expertise in complement biology and our capabilities in hematology, nephrology, neurology, and metabolic disorders, we will bring additional life-changing therapies to patients and redefine what it means to live with a rare disease. Our legacy will be measured in the families we serve today and the generations that follow.
-© 2019 You are now leaving www.alexion.com, a website provided by                 Pharmaceuticals, Inc. This link will take you to a different site to which                 this Privacy Policy does not apply.(NASDAQ: ALXN) is a global biopharmaceutical company focused on serving patients and families affected by rare diseases through the discovery, development and commercialization of life-changing therapies.
 Since its founding in 1992, has given hope to people who had none and shined a light on those who felt isolated and alone. But we know that fighting rare diseases takes so much more than hope. It requires persistence, dedication, and a relentless pursuit of the highest levels of medical innovation.  At Alexion, our goal is to deliver medical breakthroughs where none currently exist. We are driven because we know people's lives are at stake.
 has 2,500 passionate and dedicated employees serving patients in 50 countries around the world.
 Our breakthrough Therapies
 Through the transformative power of our science, has delivered life-changing therapies to patients suffering from rare diseases. We have pioneered the complex field of complement biology and delivered solutions to challenges that once seemed impossible for patients with devastating complement-mediated and metabolic disorders.
-developed Soliris® (eculizumab), the world's first approved terminal complement inhibitor, for the treatment of patients with paroxysmal nocturnal hemoglobinuria (PNH), atypical hemolytic uremic syndrome (aHUS), and anti-acetylcholine receptor (AchR) antibody-positive generalized myasthenia gravis (gMG).
 also has two highly innovative enzyme replacement therapies for patients with life-threatening and ultra-rare metabolic disorders—Strensiq® (asfotase alfa) for patients with hypophosphatasia (HPP) and Kanuma® (sebelipase alfa) for patients with lysosomal acid lipase deficiency (LAL-D).
 Alexion’s ambition is to be the global leader in rare diseases. By leveraging our 20+ years of expertise in complement biology and our capabilities in hematology, nephrology, neurology, and metabolic disorders, we will bring additional life-changing therapies to patients and redefine what it means to live with a rare disease. Our legacy will be measured in the families we serve today and the generations that follow.
 © 2019 You are now leaving www.alexion.com, a website provided by                 Pharmaceuticals, Inc. This link will take you to a different site to which                 this Privacy Policy does not apply.Timeline: Commitment to Breakthrough Innovation
 Since our founding in 1992, has given hope to people who had none and shined a light on those who felt isolated and alone. We have remained steadfast in our pursuit of groundbreaking innovation, and have delivered solutions to challenges that once seemed impossible. Here are some of the milestones throughout our history.
-Company Milestone Product Milestone Awards and Recognition
 ULTOMIRIS™ is approved in the for the treatment of adult patients with paroxysmal nocturnal hemoglobinuria (PNH).
 acquires Syntimmune, a clinical-stage biotechnology company developing antibody therapeutics targeting the neonatal Fc receptor (FcRn)
 and Dicerna partner to discover and develop interference (RNAi) therapies for complement-mediated diseases
 moves its global headquarters to Boston, Massachusetts. The Company’s world-class complement research and process development teams remain in the New Haven Center of Excellence
 and Complement Pharma partner to co-develop pre-clinical complement inhibitor for neurodegenerative disorders
-acquires Wilson Therapeutics, strengthening its pipeline and expanding its focus on metabolic and neurologic disorders
 is named one of the World's Most Innovative Companies by Forbes consecutively from 2012 to 2018
 Alexion’s data sciences work contributes to Rady Children’s Institute for Genomic Medicine scientists’ achievement of new RECORDS™ title for fastest genetic diagnosis
-Soliris® (eculizumab) is approved in the and Japan for the treatment of adult patients with generalized myasthenia gravis (gMG) who are anti-acetylcholine receptor (AchR) antibody-positive and in the European Union for the treatment of refractory generalized gin adult patients who are anti-Achantibody-positive.
-celebrates its 25th anniversary
-Alexion’s Center of Excellence (New Haven, CT) receives Platinum Certification
 Appoints Ludwig Hantson, Ph.D., as Chief Executive Officer
-celebrates its 10th anniversary of serving patients with PNH, and the approval of Soliris® (eculizumab)
 Kanuma® is approved as a treatment for patients with lysosomal acid lipase deficiency (LAL-D) in Japan
 receives 2016 Rare Impact Award from the National Organization for Rare Disorders (NORD) and is named as Industry Innovation Honoree for the Company’s work in bringing Strensiq® and Kanuma® to market
-Kanuma® receives 2016 German Prix Galien Award in the Orphan Product category
 Science names as a Top Employer in both 2015 and 2016
 initiates two Phase 3 clinical trials of ALXN1210 in complement inhibitor treatment-naïve patients with and aHUS, and receives for ALXN1210 for the treatment of patients with from the EC
-moves into its new global corporate headquarters in New Haven, Connecticut
 Strensiq® (asfotase alfa) is approved as a treatment for patients with hypophosphatasia (HPP) in the U.S., EU, Japan and Canada
 Kanuma® (sebelipase alfa) is approved as a treatment for patients with lysosomal acid lipase deficiency (LAL-D) in the and EU
 acquires Synageva BioPharma, strengthening its pipeline and establishing a metabolic franchise with the addition of Kanuma as a potential treatment for LAL-D
-opens new headquarters in Zürich, Switzerland
 is named one of Fortune Magazine’s Fastest Growing Companies in 2011, 2012, 2014 and 2015
-Soliris® receives orphan drug designation (ODD) for multiple potential indications:
 Prevention of delayed graft function (DGF) in renal transplant patients from the FDA, and prevention of after solid organ transplantation from the EMA
-Treatment of refractory myasthenia gravis (MG) from the and EMA
 initiates multinational registration trials of eculizumab as a potential treatment for patients with NMO, and DGF
 Connecticut Magazine names one of the top workplaces in the state in both 2010 and 2014
-Asfotase alfa receives Breakthrough Therapy Designation from the for the treatment of HPP
 Soliris® is approved as a treatment for patients with ain Japan
-Soliris® receives orphan drug designation (ODD) for the treatment of neuromyelitis optica (NMO) from the and EMA
 acquires asfotase alfa, the first potential treatment for patients with hypophosphatasia (HPP)
 New England Journal of Medicine publishes data from Phase 2 study of asfotase alfa in
 is added to the S&500 Index of leading global companies
 presented with the Partners in Progress Award from the National Organization for Rare Diseases (NORD)
-responds to a historic public health crisis in Germany and provides Soliris® without charge to hundreds of patients with life-threatening Shiga toxin coli-related hemolytic uremic syndrome (STEC-HUS)
 The and the approve Soliris® as the first and only treatment for adult and pediatric patients with aHUS
 Green Building Council (USGBC) twice recognizes with Certification Awards for constructing, operating and maintaining interiors that meet the highest green building and performance standards
-Soliris® receives the Prix Galien France Award for Drugs for Rare Diseases
-Soliris® is first used as a treatment for patients with atypical hemolytic uremic syndrome (aHUS) in France and Germany
-Soliris® receives the Prix Galien Award for Best Biotechnology Product
-Soliris® (eculizumab) receives approval from the and European Medicines Agency (EMA) as the first and only treatment for patients with PNH
 honored with the Corporate Leadership Award from the National Organization for Rare Disorders (NORD)
 earns the Award of Excellence from Connecticut United for Research Excellence (CURE)
 establishes operations in Europe by opening an office in Paris, France
-Second pivotal Phase 3 study of eculizumab in patients with begins (SHEPHERD)
-Pilot study with eculizumab commences in Leeds, England in paroxysmal nocturnal hemoglobinuria (PNH)
 New England Journal of Medicine publishes positive results from pilot study of eculizumab in 11 patients with PNH
-First pivotal Phase 3 study of eculizumab commences in patients with (TRIUMPH)
 First in-human clinical trial of eculizumab begins
-1992-1994
-C5 complement inhibitor development program commences
 First pilot manufacturing facility is established in New Haven, CT, USA
 © 2019 You are now leaving www.alexion.com, a website provided by                 Pharmaceuticals, Inc. This link will take you to a different site to which                 this Privacy Policy does not apply.As we pursue our mission to serve patients and families affected by rare diseases, is committed to building strong and sustainable business partnerships that enable us to develop and deliver life-changing therapies. As a fully-integrated biopharmaceutical company, we bring world-class expertise and resources to our collaborations, including proven global capabilities spanning scientific, medical, regulatory, manufacturing and commercial operations.
 Expanding our pipeline through business development is a key component of Alexion’s strategic focus. As part of this effort, we aim to build a robust clinical-stage pipeline through licensing, acquiring, or partnering on clinical-stage assets.
 Our business development team is currently evaluating opportunities with an exclusive focus on developing life-changing therapies for patients with rare diseases that lack effective treatment options in our core areas of focus:
-Hematology
 We are also seeking partnerships that will maximize the potential of our internal complement research efforts through select opportunities in complement.
 offers unique capabilities and expertise that make us the partner of choice in developing promising drug candidates into leading rare disease therapies, including:
 Global leadership in complement biology with 20+ years of experience and a dedicated world-class research team
@@ -162,20 +119,13 @@ is committed to supporting investigator-sponsored research (ISR) to advance medi
 © 2019 You are now leaving www.alexion.com, a website provided by                 Pharmaceuticals, Inc. This link will take you to a different site to which                 this Privacy Policy does not apply.encourages the submission of proposals focused on preclinical translation of scientific discoveries into therapies for rare disorders. Please note that receives many requests for Discovery Partnerships and carefully evaluates each submission on a highly competitive basis. This review process considers, among other things, scientific rigor, translatability and alignment with our strategic priorities, as well as potential redundancy with research efforts.
 Our core area of focus has been treating complement-mediated diseases. We are always interested in scientific research with high potential to translate into breakthrough therapies for rare diseases outside of our core focus.
 Proposals focused on the characterization and/or optimization of a therapeutic candidate (or surrogate molecule), or the validation of novel targets for rare diseases are given priority. Proposals for access to Alexion's large repertoire of therapeutic surrogates to validate novel indications will also be considered.
-Resources from Alexion’s internal Research & Development can be made available to support research work (i.e. antibody engineering, protein purification, bioanalytical assay development). Please specify on your proposal whether you will require any of these capabilities. If you would like more information, please contact Discovery.Partnerships@Alexion.com .
 Investigators interested in submitting a proposal for consideration will first have to register on Alexion’s web-based system by creating a profile . Once registered, the proposal can be submitted electronically. Please note that e-mail submissions are not accepted and will not be reviewed. To complete your proposal submission, please specify the type of support you are requesting (collaboration funding, research reagents and/or capabilities). The application should assume the form of a grant application with the following information:
 Email VisionTracker at: VTSupport@envisionpharma.com
 Clinical research–such as patient natural history, non-interventional biomarker studies, and/or drug intervention studies—will not be considered by Discovery Partnerships and proposals should be submitted through the Investigator-Sponsored Research (ISR) page .
 For more information, please contact Discovery.Partnerships@Alexion.com .
-© 2019 You are now leaving www.alexion.com, a website provided by                 Pharmaceuticals, Inc. This link will take you to a different site to which                 this Privacy Policy does not apply.Alexion's CSR-S·T·A·Platform
 supports our mission to transform the lives of people affected by rare and devastating disease while creating value for all our stakeholders.
-Serve Communities and
-Sustain our planet
 We invest in our communities and shared planet in support of those who depend on us today and for generations that follow.
-Our Communities:
-Global Day of Service: Employees donated 7,500+
 Support for education and other causes in our
-local communities around the world
 Environmental Health and Safety (EHS) management system informed by globally accepted standards
 policy endorsed by our emphasizes environmental stewardship and the health and safety of our employees, contractors, and communities
 We urgently seek to understand patient journeys, find answers, and collaborate to deliver access to therapies that change lives.
@@ -187,8 +137,6 @@ We aspire to become the most rewarding place to work, embracing diversity and go
 Total Rewards Program meets the needs of our employees and their families
 Diversity and Inclusion: We deliver extraordinary results by embracing different perspectives
 Health, Safety, and Wellness: culture that promotes physical and mental well-being
-Training and Development allows each employee to develop their unique path forward
-Board of Directors oversight of CSR
 Recognized as one of the world’s most innovative companies and a top employer
 Cross-functional Steering Committee serves as strategic decision-making task force
 We pioneered complement biology, spurring new treatments for devastating disorders. We work to advance healthcare through innovative diagnostics and proactive transparency.
@@ -202,7 +150,6 @@ Vendor Code of Conduct: seeks to conduct business with vendors who share our com
 Our Executive-level Ethics and Compliance program was established by our Board of Directors and Executive Committee
 Privacy and Data Protection: Protecting patient and healthcare provider information is key to delivering on our mission
 supports various initiatives and activities that provide medical education or benefit our patients and local communities. Support may be provided through the funding of:
-Medical Education Grants
 Interested in submitting an application? Click here to visit our External Funding Management System (EFMS) portal.
 In addition to these initiatives, is committed to collaborating and fostering new relationships with researchers for innovative research projects that advance medical and scientific knowledge about our products, product candidates, and therapeutic areas of interest.
 Interested in learning more about Investigator-Sponsored Research? View our global program here .
@@ -217,7 +164,6 @@ Ellen received her from Stanford University’s School of Law and her Bachelor's
 Paul Clancy is Executive Vice President, Chief Financial Officer of Alexion. Mr. Clancy is responsible for global financial management, treasury, internal audit, corporate strategy, business development, investor relations, information technology, and security activities.
 Prior to joining Alexion, Mr. Clancy served as the Executive Vice President, Finance and Chief Financial Officer and a member of the Executive Committee of Biogen, where he led the financial performance of the company. Prior to joining Biogen, Mr. Clancy spent 13 years at PepsiCo, serving in a range of finance, strategy and general management positions. Mr. Clancy serves on the Board of Directors of the biopharmaceutical companies Agios Pharmaceuticals, Inc. and Incyte Corporation.
 Mr. Clancy holds an from Columbia University and a Bachelor of Science in Finance from Babson College.
-Indrani Franchini, J.D.
 Indrani Franchini, J.D., is Executive Vice President, Chief Compliance Officer of Alexion. Ms. Franchini is responsible for leading Alexion’s global compliance program and co-leads the Global Corporate Compliance Committee.
 Ms. Franchini has extensive experience developing and building the infrastructure and company-wide standards for global compliance programs. Prior to joining Alexion, Ms. Franchini served as Chief Compliance Officer at Hess Corporation. She previously spent nearly ten years with Pfizer overseeing all compliance elements for the development, marketing, and promotion of its global business. Earlier in her career, Ms. Franchini served as an attorney with Milbank, Tweed, Hadley & McCloy in the firm’s New York and Tokyo offices.
 Ms. Franchini earned her from the University of Michigan Law School and a Bachelor of Arts from Princeton University. In addition, she spent a year as a Fulbright Fellow at the Kyushu University Graduation School in Fukuoka, Japan.
@@ -225,18 +171,15 @@ Brian Goff is Executive Vice President, Chief Commercial Officer of Alexion. Mr.
 Mr. Goff is a proven global biopharmaceutical executive with a 25-year track record of consistently delivering sustainable growth through multiple business cycles. He has deep expertise in commercial operations across multiple therapeutic areas, as well as broad experience in managing a range of functions, including R&D, Medical Affairs, Manufacturing and Quality with a number of industry-leading biopharmaceutical companies.
 Prior to joining Alexion, Mr. Goff was Chief Operating Officer and a Member of the Board of Directors of Neurovance. Prior to joining Neurovance, Mr. Goff served as Baxalta’s Executive Vice President & President — Hematology Division. He previously served with Baxter Healthcare Corporation as Global Hemophilia Franchise Head. Earlier in his career, Mr. Goff held positions of increasing responsibility in sales and marketing roles with Novartis Pharmaceuticals, and the pharmaceutical division of Johnson & Johnson.
 Mr. Goff has a from the Wharton School at the University of Pennsylvania and a Bachelor of Arts from Skidmore College.
-Anne-Marie Law
 Anne-Marie Law is Executive Vice President, Chief Human Resources Officer of Alexion. She is responsible for Human Resources on a global basis, with the goal of continuing to build the organization capabilities to advance Alexion’s strategy.
 Ms. Law brings more than 25 years of experience at global corporations to the organization. Prior to joining Alexion, she served as Chief Human Resources Officer at Hyatt Hotels Corporation, where she was responsible for building the strategy to support the company’s 100,000 employees worldwide, and designing talent systems to create world class leadership and customer connectivity capabilities. She previously served as Executive Vice President and Head of Human Resources for Baxalta Incorporated, and held various senior human resources positions at McKesson Corporation, including the Specialty Health Division, VeriSign, and Xilinx, Inc.
 Ms. Law is a graduate of Leicester University with a degree in Art History in the United Kingdom and the National College of Ireland, Dublin.
-John Orloff, M.D.
 John Orloff, M.D., is Executive Vice President, Head of Research & Development of Alexion. Dr. Orloff is focused on strengthening Alexion’s clinical pipeline and research programs, enhancing research and development productivity, overseeing regulatory and medical affairs, and supporting business development. Dr. Orloff has 20 years of experience in the biopharmaceutical industry and deep expertise spanning various stages of clinical and non-clinical development, including developing medicines for rare diseases.
 Prior to joining Alexion, Dr. Orloff served as Executive Vice President, Head of Research & Development at Novelion, where he currently sits on the Board of Directors. He previously served with Baxalta as Global Head of R&and Chief Scientific Officer, where he advanced the company’s pipeline and oversaw regulatory approval of 10 unique products and two devices. He also held executive R&roles with Baxter International, Merck Serono, Novartis and Merck Research Laboratories. Prior to joining the biopharmaceutical industry in 1997, Dr. Orloff was with the Yale School of Medicine for seven years.
 Dr. Orloff received a Bachelor of Arts from Dartmouth College, and a from the University of Vermont College of Medicine. He completed his medical training at the University of Pittsburgh Medical Center and Yale University School of Medicine.
 Rana Strellis is Senior Vice President, Global Communications and Culture. Prior to joining in April 2017, Ms. Strellis served as Senior Vice President, Global Communications, Culture and Diversity and Inclusion for Baxalta. In this role, Ms. Strellis created and executed a culture transformation vision, diversity and inclusion strategy, and a corporate brand reputation plan. Prior to Baxalta, she held progressive roles of responsibility at Baxter Healthcare in Strategy and Business Operations, Marketing, and Human Resources in both the and Europe.
 As Global Head of Strategy and Business Operations at BioScience for Baxter Healthcare, Ms. Strellis led the creative campaign to elevate the brand profile as a premier biotech organization. Additionally, she served as the Channel Marketing Leader for GAMMAGARD® and led the development of a channel value proposition platform that drove brand preference for GAMMAGARD® and Albumin. As the Marketing Operations Leader at BioScience, Ms. Strellis also successfully led the cross-functional steering committee to implement a best-in-class launch for HyQvia. Prior to her marketing roles, Ms. Strellis held Human Resources management positions for various domestic and global Baxter divisions.
 Ms. Strellis received a master’s degree in Industrial & Labor Relations from Cornell University, and a bachelor’s degree in Economics from the University of Illinois.
-Board of Directors
 David Brennan is Chairman of Alexion’s Board of Directors. He served as a Director of since July 2014 and as Interim Chief Executive Officer of from December 2016 to March 2017.
 From 2006 to 2012, he served as Chief Executive Officer and Executive Director of AstraZeneca PLC, one of the world's largest pharmaceutical companies. Mr. Brennan worked for AstraZeneca in increasing roles of responsibility, including as Executive Vice President of North America from 2001 to 2006, and as Senior Vice President of Commercialization and Portfolio Management from 1999 to 2001.
 Prior to the merger of Astra and Zeneca Plc, he served as Senior Vice President of Business Planning and Development of Astra LP, the American subsidiary of Astra Mr. Brennan began his career in 1975 at Merck and Co. Inc., where he rose from Sales Representative in the Division to General Manager of Chibret International, a French subsidiary of Merck.
@@ -273,10 +216,7 @@ As part of our commitment to behaving ethically, requires employees to report an
 Internal monitoring and auditing are integral parts of Alexion's comprehensive Compliance Program. Effective monitoring and auditing can detect and prevent deviations that can potentially prompt compliance concerns. Alexion's Compliance and Internal Audit functions conduct a variety of monitoring activities in an effort to detect and respond to potential issues of non-compliance. In accordance with the Guidance, our compliance monitoring and auditing program will be modified as necessary in response to new regulatory requirements, changes in business practices, and other considerations.
 Our Code of Ethics and Business Conduct and company policies educate employees and agents about Alexion’s commitment to compliance. It is the responsibility of every employee to read, understand and follow these guidance materials. advises employees that failure to adhere to our ethical and legal standards may have disciplinary consequences, up to and including termination of employment. When the outcome of an investigation shows that discipline is warranted, appropriate action is taken.
 Alexion's Compliance Program supports prompt response and corrective action for detected problems as appropriate under the circumstances. Regardless of how a potential compliance concern is raised, it will be carefully reviewed, thoroughly and thoughtfully investigated in a timely manner, and appropriately resolved.
-Anti-Corruption and Anti-Bribery
 has a zero tolerance policy towards bribery and corruption. We comply with the anti-corruption laws of every country in which we operate, including the Foreign Corrupt Practices Act and the Bribery Act.
-Vendor Code of Conduct
 and its subsidiaries are committed to conducting business in an ethical, legal, and socially responsible manner. We expect our vendors to share this commitment.
-Transparency Requirements
 will make public any disclosures necessary to comply with transparency laws or regulations applicable to pharmaceutical manufacturers, including, but not limited to, National Physician Payment Transparency Program (“Open Payments”) in the United States and the Loi Bertrand Act (“Sunshine Act”) in France. These regulations have mandated increased transparency in interactions between healthcare providers and companies manufacturing health care products and/or medical devices. The intention of these requirements is to eliminate potential conflicts of interest in the interactions between these companies and healthcare professionals. To comply with these regulations, reports certain payments or other transfers of value made in the course of our professional interactions with healthcare professionals and healthcare organizations where applicable.
 is committed to establishing and maintaining a comprehensive and effective compliance program in accordance with California 1765 (California Business & Professions Code 119400, 119402), and the Office of Inspector General, Department of Health and Human Services, "Compliance Program Guidance for Pharmaceutical Manufacturers."

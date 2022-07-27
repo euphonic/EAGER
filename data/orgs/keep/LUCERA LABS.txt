@@ -1,12 +1,6 @@
-email: William Russell, Founder
 Will is an experienced engineer, designer, and product developer. Prior to founding Labs, Will worked in the aerospace industry where he originated and developed novel space and technologies for a variety of applications.  Named one of Aviation Week’s “40 Under 40” (2014), Will switched gears to consumer electronics a year later with Wakē. 
-Hal Schmidt, Hardware Engineer
 Hal began soldering wires and writing code for while it was still in its infancy, but we still tease him like he's the new guy. He specializes in electrostatic discharge of high-end digital sensors and letting the magic smoke out of integrated circuits (we call him "Sparky"). Hal received his Master's degree in Aeronautics and Astronautics and his in Electrical Engineering.
-Gregory Eslinger, Cloud Developer
 Gregory is an aerospace engineer who manages Wakē’s cloud infrastructure. Prior to joining the team, Gregory worked with developing satellite control algorithms. Fluent in German, Gregory also works with the German military (Bundeswehr) developing next-generation radar systems.
-Brandon Brown, User Experience & Applications Engineer
 Brandon is a driven software engineer and product developer working on the Wake user experience and applications. Brandon has a strong background in aerospace systems and technologies. He is passionate about Ioand pretty much anything with lots of lights and buttons.
-Kayla Eslinger, Customer Support
 Kayla is part of the Wakē customer service team and previously worked as a registered nurse. She has worked in multiple capacities with patients and families at different medical institutions across the Prior to nursing school, at Northeastern University, she worked as a Research Data Coordinator at Boston Children's Hospital.
-Jamie Schmidt, Creative Content Strategist
 Jamie's professional background is primarily business operations and human resources within small business. Before relocating, she gained most of her experience working for an aerospace manufacturing company in Huntington Beach, She has her in Corporate Communication from Chapman University. She is a certified yoga instructor and encourages a non-sedentary lifestyle.

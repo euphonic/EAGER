@@ -1,92 +1,30 @@
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 See the top reasons to work at Qorvo.
-Qorvo Drives the Future of the Connected Car
 look at the connected vehicle in a 5world
-Transforming Transportation 
-Qorvo Drives the Future
-of the Connected Car
 look at the connected vehicle in a 5world
-Millimeter wave, massive and beamforming... Qorvo defense technologies that propel 5G.
+See how in our new video.
 The 3 Ahas That Make IoWork
 See how Qorvo is making the future of connectivity 
 5G: The Future of From Smartphones to Smart Everything
 Qorvo has all the core technologies to enable 5— from wireless infrastructure to mobile devices.
-Resources for Your Design Needs
-Explore our growing library of resources, including block diagrams, videos, design tools, articles, white papers, blog posts and more.
-Qorvo to Webcast Quarterly Earnings Conference Call on February 7, 2019
 Qorvo Module Enables Cellular Vehicle-to-Everything Trials by Major Automakers
-Qorvo Showcases Breadth of IoSolutions at with Core Technologies
 Qorvo 802.11ax 5 GHz Improves Wi-Fi Performance in the Enterprise
 Nordic Semiconductor rolls out its unique nRF91 Series cellular Iomodule to all customers and makes cellular Ioaccessible to any application
 Aperture Tuning: An Essential Technology in 5Smartphones
@@ -94,9 +32,6 @@ More antennas, less space. Aperture tuning is key to solving the complexity that
 Is Wi-Fi 6 the end of Wi-Fi? Learn more in our updated white paper.
 Top Design Tips for the Automotive Front End
 How does an automotive engineer design a connected vehicle? We share some strategies to solve the toughest issues.
-Our 10 Most Popular Blogs of 2018
-Did your favorite Qorvo blog post make the cut? Check out any you might have missed!
-Catch up with the latest blogs from Brent Dietz:
 It's a Wonderful Wi-Fi
 Turbocharging Cable — Move Over Fiber!
 Giving Thanks for the “Internet of Thingsgiving”
@@ -104,105 +39,32 @@ Got a Minute? 4 Insights into the Internet of Things
 What exactly is the IoT? How does it work? How can it help us in our daily life? Learn more in our series of "IoT Minute" videos.
 Qorvo's Cees Links weighs in on which technology might win in the battle for wireless connectivity. 
 (hint? It's not what you think.)
+IoApplications and Design Guide E-Book
 Learn more about trends, challenges and design of for the Iomarket.
 V2in the Connected Car of the Future
 V2technology enables a car to communicate with everything. Learn more about the systems and networks that connect the car to the environment, cloud and infotainment.
 System-Efficient Design (SEED) Methodology
 Over 2,000 Products Available in Our Catalog
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Customer Premises Equipment
-Defense and Aerospace
-Customer Premises Equipment
-Defense and Aerospace
-Ultra-Low Noise, Flat Gain Amplifier
-23 dGaAs / GaPower Doubler Hybrid
-Wideband Transfer Switch
-25 dBalanced Return Path Amplifier
-High Gain High Linearity Driver Amplifier
-2.4 GHz Wi-Fi Front End Module
-QPF4528
 5 GHz Wi-Fi Front End Module
 5 GHz Wi-Fi Front End Module
 5 GHz Wi-Fi Front End Module
-View All New Products
-World of Problem Solvers
 We are mobile and infrastructure innovators, defense experts and passionate visionaries — but what best defines us is our knack for solving the industry's most complex engineering problems. And it all starts with our people. Join our team, and start making a difference.
 Subscribe to our mailing list to get updates on everything Qorvo.
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
-AcceptOther Items...
-Go to "Contact Us" Page
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
@@ -210,16 +72,10 @@ See the top reasons to work at Qorvo.
 Your car. Your smartphone. Your wrist. Your heart. Even outer space.
 All around you, Qorvo products are at work, connecting and protecting the world. We bring core technologies and radio frequency (RF) solutions to 
 Transforming the way you live, work, play and communicate — that's what inspires us.
-Board of Directors
-Our Communities
 Corporate Social and Environmental Responsibility
-At Our Core
 At Qorvo, we are driven by the possibility of discovery — of new technologies and advancements in design, manufacturing and
 communications that make the world a better, more connected place. We've been working on that for more than 30 years, both as
 innovators and as stewards of our global community. And we are just getting started.
-Qorvo By the Numbers
-Board of Directors
-Our Communities
 Corporate Social and Environmental Responsibility
 Read the latest trends, how-to articles, design tips and more from
 From rovers and spacecraft that travel the galaxy to tiny filters that help keep a heart beating, Qorvo's products enable amazing real-world technology. Learn how some of our customers are using our products to solve unique engineering challenges.
@@ -227,444 +83,115 @@ Look Inside the Army's Counterfire Radar System
 Qorvo and Lockheed Martin teamed up to manufacture the Army's radar technology for the Q-53, providing microelectronics and components that support mission capabilities.
 Smart Home Energy Management with Levarys and Qorvo
 Imagine a stylish smart home system with connected sensors, thermostats and plugs — all wirelessly controlled from your smartphone or tablet. Using Qorvo technology, Levarys' Luna Smart Home System makes that vision a reality.
-People Power and Qorvo Deliver Smart Internet of Things Systems
-View All Customer Stories
 5is more than low-band front-end modules and switches. At Qorvo, we have all the core technologies to fully 
-wireless infrastructure
 mobile  to the technologies to make them happen. And we partner with carriers and standards bodies to bring the vision to life.
 From the core technologies we design to the exciting ways our customers use our products, Qorvo enables a world of innovation.
 Qorvo hires driven, passionate people who are ready to take risks in order to better connect the world. Explore our opportunities.
-Read the latest news and information from Qorvo.
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
-AcceptOther Items...
-Go to "Contact Us" Page
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 See the top reasons to work at Qorvo.
 Qorvo has been recognized for our continuous commitment to technology innovation and community service. Below are our most recent awards.
-Board of Directors
-Our Communities
 Corporate Social and Environmental Responsibility
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
-AcceptOther Items...
-Go to "Contact Us" Page
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 See the top reasons to work at Qorvo.
 Quality matters at Qorvo. Our commitment to customers is to provide quality products and services — every time. 
-ISO 9001, ISO 14001, ISO 50001, IATF 16949 and AS9100 certifications
  that demonstrate our focus on delivering exceptional quality, reliability and performance for our customers.
 Quality at Our Core
-Board of Directors
-Our Communities
 Corporate Social and Environmental Responsibility
 "Qorvo is committed to providing solutions that meet our customer's quality, reliability and performance requirements. We pursue excellence in the customer experience and continually drive improvement in all that we do."
-Bob Bruggeworth
-Qorvo Corporate Quality, Environmental and Social Responsibility Policy
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
-AcceptOther Items...
-Go to "Contact Us" Page
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 See the top reasons to work at Qorvo.
-How to Buy
 Innovative solutions for everything that connects our world. Sales, support and applications engineers ready to help you create sought-after products. At Qorvo, we provide the core technologies, products and systems-level expertise to quickly solve your complex technical issues. 
 Our products are available to buy online and through our network of authorized sales people and channel partners. Explore your options for purchasing and sampling our products.
-Need Help?
-How to Buy
-How to Buy
-Ordering Qorvo Products
 Whether you'd like to request a sample, are ready to buy, or need assistance finding the right part, rest assured — Qorvo has you covered.
 Shop the Qorvo Online Store for the convenience of purchasing products online.
-Buy from an Authorized Channel Partner
 Our authorized partners keep inventory on hand and can answer your technical questions.
-Buy Direct from Qorvo Sales
 Qorvo local sales people answer your questions and provide one-on-one assistance with orders.
 Over 2,000 Products Available in Our Catalog
 Search our extensive portfolio of products for mobile, network infrastructure, and aerospace / defense applications.
-Find Your Local Qorvo Sales Contacts
 Select your region and country to view your local Qorvo sales person and authorized channel partner. For the United States, you can also view your sales contacts by state.
-By Region
-Infrastructure & Defense
-Serving Boeing, Lockheed Martin, Northrop Grumman & Raytheon
 Connect With Our Sales Team
-Contact Sales Rep
 View PDFs of our standard terms and conditions of sale. These T&Cs are for customers buying products from us.
 Sign up to receive Qorvo's newsletters, new product announcements, and and alerts.
 From GaAs, GaN, SAW, BAW, and SiGe, Qorvo has the right technology, products and solutions to help you shape and launch your most powerful new ideas.
 Qorvo products power a wide variety of applications across mobile, infrastructure, connectivity, defense/aerospace and more.
 Explore the most recent additions to our comprehensive portfolio of innovative solutions.
 View the latest emails highlighting new Qorvo products, resources and technology trends.
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
-AcceptOther Items...
-Go to "Contact Us" Page
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 See the top reasons to work at Qorvo.
 Qorvo has a widespread global presence, with engineering and manufacturing facilities located in North America, Europe and Asia. We also have a global sales and engineering support network that can serve your needs from anywhere on the planet.
 See below for the addresses of our global locations or 
-view them on a map
-How to Buy
-Board of Directors
-Our Communities
 Corporate Social and Environmental Responsibility
-Manufacturing, Test or Assembly
-United States of America
-950-Lawrence Dr.
-United States of America
-United States of America
-United States of America
-Apopka, Florida
-Design & Manufacturing
-United States of America
-Brooksville, Florida
-6036 Nature Coast Blvd.
-United States of America
-Deerfield Beach, Florida
-Deerfield Beach, 33441
-United States of America
-Hiawatha, Iowa
-Hiawatha, 52233
-United States of America
-Chelmsford, Massachusetts
-2 Executive Drive, 3rd Floor
-United States of America
-United States of America
-Greensboro, North Carolina
-Corporate Headquarters, Design, Sales, Support & GaAs / GaManufacturing
-7628 Thorndike Road
-United States of America
-Greensboro, North Carolina
-United States of America
-Greensboro, North Carolina
-United States of America
-Hillsboro, Oregon
-Design, Sales, Support & GaAs Manufacturing
-United States of America
-United States of America
-Design, Sales, Support & GaAs / Ga/ Manufacturing
-United States of America
-United States of America
-4350 Innovation Dr.
-United States of America
-Sales, Support and Operations
-Heredia, Costa Rica
-/ Assembly & Test
-Barreal de Heredia
-Heredia, Costa Rica 40104
-Assembly, Test & Packaging
-Industrial Park of Beijing
-Economic and Technological Development Area
-Level 5, Units 01B, 02B, 19& 19B
-China World West Wing Office
-Assembly, Test & Packaging
-The Industrial Park of Dezhou Economic
-and Technological Development Area
-Shanghai, China
-Pudong New Area
-Jianye Rd., Huo Ju Development Zone
-3rd Floor, Vasant's House, No. 5
-Bangalore, 560 032, India
-Grand Front Osaka Tower B
-No. 1, Persiaran Pulai Jaya 9,
-Kawasan Perindustrian Pulai Jaya
-Room B, 11F, No. 216, Sec. 2
-Spinnerijstraat 14
-31770, Colomiers, France
-Data Protection Contact
-Design Center & Manufacturing
-Loeffelholzstrasse 20
-Data Protection Contact
-Leidseveer 10
 Data Protection at Qorvo in Europe
 We are supported by Alef Völkner (fox-on Datenschutz GmbH), 
 who is appointed as (Datenschutzbeauftragte) for our German legal entities in Nuremberg (Nürnberg) and Munich (München)
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
 AcceptGet ready for the future of Ioand mobile communication.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 For more than 30 years, Qorvo has been all around you. We've been innovating, researching, developing and acquiring cutting-edge technologies that shape the world as you know it.
@@ -672,53 +199,36 @@ Regardless of the route to becoming Qorvo, the mission has always remained the s
 Here are a few of the milestones that got us where we are today, and where Qorvo will help take you tomorrow.
 First Offering for Smart Home Lighting
 We partnered with to launch a family of smart home lighting solutions that support multiple standards for the IoT.
-Qorvo Wins Prestigious Award for 5Front End
-Qorvo’s QM19000 , the world’s first 5front end, was named “Innovative Breakthrough in Mobile Technology” by the Global TD-Initiative (GTI). QM19000 supports 5testing and enables early 5deployments.
-5Trial at 2018 Winter Olympics
 Qorvo’s 28 GHz products supported the Samsung 5demo at the 2018 Winter Olympics in PyeongChang.
-Industry's First 5Front End
-Qorvo announces a breakthrough 5RFFE, QM19000 , developed in close collaboration with a global chipset provider.
-Qorvo Joins Board
 Qorvo Bob Bruggeworth is elected to the board of directors of the Semiconductor Industry Association (SIA), which represents leadership in semiconductor manufacturing, design and research.
-New Qorvo.com Released
 Qorvo launches its integrated website, providing a unified product catalog and an expanded Design Hub.
 Adds ultra-low power, short range wireless offerings for the connected home and Internet of Things to our expanding portfolio.
-Qorvo scales the manufacturing of Gaon silicon carbide (Gaon SiC) MMICs from 4-inch to 6-inch wafers, poising the company to double Gamanufacturing capacity
-New Horizons Sends Pictures from Pluto
 The Qorvo-enabled New Horizons spacecraft makes its closest approach to Pluto, sending the world’s first photographs from three billion miles away.
 Qorvo unveils Flex™, integrated front-end solutions to improve the performance and simplify the design of 4smartphones.
-First Day of Qorvo
 Qorvo, Inc.’s doors open, bringing together all the critical building blocks needed to simplify design, reduce size and conserve power for mobile, infrastructure and aerospace/defense applications.
 TriQuint and announce an agreement to merge and operate under a new name as Qorvo with a goal to deliver the core technologies and innovation that enable customers to accelerate their next-generation designs.
-February 24, 2014
 introduces Fusion™ — a complete front-end solution for global 4world phones and tablets that integrates all major transmit and receive functionality from the transceiver to the antenna.
 First and Only Manufacturer to Achieve 9 for GaN
 TriQuint is the first and only gallium nitride (GaN) chip manufacturer to achieve the Department of Defense’s Manufacturing Readiness Level 9.
 First Envelope Tracking Power Amplifiers for Mobile is the first to market the envelope tracker + multi-mode multi-band (MMPA) system solution.
-Expanded Network Infrastructure and Defense Opportunities
 TriQuint acquires Wireless and its Spatium® technology, which replaces traveling wave tube amplifiers (TWTAs). As a result, network infrastructure and defense market opportunities expand.
-PAs Added to Portfolio
 acquires Amalfi Semiconductor to add PAs to its front-end offerings.
 The TriQuint-enabled Mars Curiosity rover lands safely on Mars, marking the beginning of NASA’s most ambitious Mars mission.
+GaResearch Contract Awarded
 TriQuint awarded nearly $20 million in defense contracts to further research in Gaand other high-performance technologies.
 TriQuint acquires TriAccess Technologies, which expands its cable product line and Fiber to the Home products.
 implements gallium nitride (GaN) in cable infrastructure products.
-TriQuint receives the Department of Defense accredited Category 1"Microelectronics Trusted Source." This is the Department’s highest designation, which certifies that TriQuint’s products, processes and procedures meet stringent control and secure handling standards.
 acquires Filtronic Compound Semiconductors to add GaAs ptechnology.
 adds voltage-controlled oscillators (VCOs) for wireless and infrastructure applications through its acquisition of Universal Microwave Corporation.
 Iosolution provider GreenPeak Technologies forms through the merger of Xanadu Wireless and Ubiwave, creating a leader in battery-free communication technology for wireless sense and control applications. Qorvo acquires GreenPeak in 2016.
 strengthens its infrastructure offering through acquisition of Sirenza Microdevices.
-First with Integrated Shielding
 ships components with integrated shielding, which can eliminate the need for bulky and costly external shields.
 Communication Received From Huygens Probe on Saturn’s Moon, Titan
 TriQuint enabled communication included data and a photo of Titan's surface.
-Record Set with PAs Shipped
 becomes the first company to ship 1 billion power amplifiers.
 TriQuint acquires Technologies in Bend, Oregon, to expand its bulk acoustic wave (BAW) expertise. 
-Capabilities Added
 TriQuint merges with Sawtek in Orlando, Florida, adding surface acoustic wave (SAW) filter capabilities.
 acquires Nitro Communications, to expand into gallium nitride (GaN) technologies.
-Design Center for Wireless
 TriQuint opens its Munich, Germany design center through acquisition of Infineon’s GaAs business. 
 TriQuint acquires Texas Instruments’ GaAs Monolithic Microwave Integrated Circuit (MMIC) business and Raytheon Defense Systems and Electronics Group.  
 The Cassini–Huygens spacecraft, equipped with TriQuint’s devices, launches its mission to Saturn. 
@@ -727,8 +237,6 @@ First Products Shipped
 Technologies, which later becomes TriQuint’s manufacturing and design center in Bend, Oregon, ships its first products and emerges as the world's sole supplier for defense and test instrument customers.
 designs the first HBT-based power amplifier for cellular phones.
 Visionaries in high-performance radio frequency (RF) founded to design and manufacture solutions for mobility, connectivity and enhanced functionality for mobile devices.
-Merger of GaAs Leaders
-GaAs pioneers Gazelle Microcircuits, Gigabit Logic and TriQuint merge under the TriQuint Semiconductor name.
 TriQuint Forms as Tektronix Spinoff
 group of talented engineers founds TriQuint as a spinoff of Tektronix to research and develop the use of GaAs for high-performance wireless applications.
 TriQuint name is conceived after an engineer wins a $50 contest for using the periodic table to name the 3-5 company.
@@ -736,177 +244,53 @@ Motorola's Martin Cooper, pioneer and visionary in the wireless communications i
 Dean Watkins and Richard Johnson form Watkins-Johnson Company (WJ,) a leader in semiconductor-manufacturing equipment and electronic products for the wireless-telecommunications and defense industries. TriQuint acquires in 2008.
 From the core technologies we design to the exciting ways our customers use our products, Qorvo enables a world of innovation.
 Qorvo products power a wide variety of applications across mobile, infrastructure, connectivity, defense/aerospace and more.
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our Privacy Policy .
-AcceptOther Items...
-Go to "Contact Us" Page
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 See the top reasons to work at Qorvo.
-Our Communities
 At Qorvo, we believe good things happen when we come together. Through our Qorvo Cares program, we foster a strong commitment to doing good — not only for our employees but in our communities. Whether it's making holidays brighter for those in need or inspiring the next generation of minds, Qorvo employees are giving back and making a positive difference all around the world. 
-Board of Directors
-Our Communities
 Corporate Social and Environmental Responsibility
 Innovation thrives at Qorvo, especially when we take a break for fun. From site picnics and holiday parties to wellness fairs and 5run/walks, we celebrate healthy minds and strong bodies, all while building lasting connections. 
 Our employees love to serve the places they call home, and our Qorvo Cares program fosters this passion in three main areas:
-Qorvo Cares in Action
 See Qorvo Cares in action! Habitat for Humanity, local food banks, events, Red Cross matching donations and more — Qorvo employees get involved with each other and our communities. Browse photos from some of our recent events!
 Explore the awards we've earned from our communities and the industry.
 With innovation at our core, we employ the industry's most inventive minds that thrive on challenge.
 From the core technologies we design to the exciting ways our customers use our products, Qorvo enables a world of innovation.
-Read the latest news and information from Qorvo.
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
-AcceptOther Items...
-Go to "Contact Us" Page
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 See the top reasons to work at Qorvo.
-Board of Directors
-Board of Directors
-Our Communities
 Corporate Social and Environmental Responsibility
-Chairman of the Board
 Mr. Quinsey is chairman of the board and an independent director of Qorvo. He was previously
 president and of TriQuint, where he also served on the board of directors since joining the
 company in July 2002. Mr. Quinsey was previously with Semiconductor, a manufacturer of
@@ -915,9 +299,6 @@ Analog Division from September 1999 to January 2002. Prior to that, he was with 
 Semiconductor from 1979 to September 1999, holding various positions including vice president and
 general manager of the / Circuits Division, which developed both silicon and gallium arsenide
 technologies for wireless phone applications. Mr. Quinsey received a degree in electrical
-engineering from Marquette University.
-Robert Bruggeworth
-President and Chief Executive Officer
 Mr. Bruggeworth is president, and a director of Qorvo. Prior to the merger of and
 TriQuint to form Qorvo, he served as president, chief executive officer and a director of from
 January 2003 to December 2014. Prior to this, he was president of from June 2002 until January
@@ -926,8 +307,6 @@ he was vice president of wireless products. Prior to joining in September 1999, 
 Bruggeworth held various leadership positions at Inc., a supplier of electrical and electronic
 connection devices, from July 1983 to April 1999, serving most recently as vice president of global
 computer and consumer electronics, based in Hong Kong. He is a graduate of Wilkes University,
-Wilkes-Barre, Pennsylvania.
-Principal of Dan DiLeo, LLC
 Mr. DiLeo is an independent director of Qorvo. Mr. DiLeo was previously a director at RFMD, a
 position he has held since his election to the board in August 2002. He is currently the principal
 of Dan DiLeo, LLC, a consulting firm that he founded in March 2002. Mr. DiLeo was an executive vice
@@ -939,7 +318,6 @@ wireless business unit from January 1995 to May 1998. He currently sits on the b
 several private semiconductor device companies in the and Europe. From May 2000 to May 2009,
 Mr. DiLeo also served as a director of Data I/Corporation, a publicly traded company that designs
 and manufactures equipment and software to program for original equipment
-President & Chief Executive Officer of Monitronics
 Mr. Gardner is an independent director of Qorvo. He was previously a director of RFMD, a
 position he has held since his election to the board in November 2004. Mr. Gardner joined
 Monitronics as president and In September 2015 and brings more than 25 years of expertise in
@@ -964,7 +342,6 @@ St. Johns Medical Center and the community foundation of Jackson Hole. Mr. Gibso
 financial expertise and technology industry experience including executive level experience to the
 board and committees. Mr. Gibson received a degree in electrical engineering in 1974 and an MBA
 in finance from the University of Illinois in 1976.
-John "Jack" Harding
 President and Chief Executive Officer of eSilicon Corporation
 Mr. Harding is an independent director of Qorvo. Mr. Harding was previously a director of RFMD,
 a position he has held since his election to the board in November 2006. Mr. Harding founded and is
@@ -1002,7 +379,6 @@ TriQuint, a position he has held since his election to the board in August 2012.
 founding partner for Tritech Sales and Services, His career in the telecommunications industry
 spans over 25 years, ranging from AT&Wireless to a number of startup companies. He served as
 executive vice president and chief technology officer of AT&Wireless Services, based in
-Redmond, Washington, where he led the Technology Development Group responsible for the development
 and deployment of the first 3networks in the His role was to define the future wireless
 network architecture and technology direction. During his career, Mr. Nelson has worked closely
 with both national and international regulators and standards bodies on the creation of 3G
@@ -1010,7 +386,6 @@ specifications and standards. Highly regarded as a spokesperson and industry lea
 direction of wireless technologies, he has developed strategies to make radio spectrum available
 for successful 3deployments. Mr. Nelson earned a from the University of Minnesota and is the
 inventor of numerous patents covering broad and fundamental aspects of wireless communications.
-Chairman and Chief Executive Officer of Mentor Graphics (Nasdaq: MENT)
 Mr. Rhines is an independent director of Qorvo. Dr. Rhines was previously a director of
 TriQuint, a position he has held since his election to the board in 1995. He is currently chairman
 and chief executive officer of Mentor Graphics; vice chairman of the Electronic Design Automation
@@ -1029,7 +404,6 @@ players). Dr. Rhines was president of TI's Data Systems Group and held numerous 
 executive management positions. He earned a BSin metallurgical engineering from the University of
 Michigan, an and doctorate from Stanford University, an from Southern Methodist University
 and an honorary doctor of technology from Nottingham Trent University.
-Susan Spradley
 Executive and General Manager of Viavi Solutions
 Ms. Spradley is an independent director of Qorvo, following her appointment to the board of
 directors in January 2017. Ms. Spradley joined Viavi Solutions (then JDSU) in January 2013 as
@@ -1041,7 +415,6 @@ also serves as chair of Ignite, a White House and National Science Foundation in
 promote leadership in developing applications and services for broadband and software-defined
 networks. She earned a in Computer Science from the University of Kansas, Lawrence, and
 completed the Advanced Management Program at Harvard Business School.
-Walter Wilkinson, Jr.
 Founder and General Partner of Kitty Hawk Capital
 Mr. Wilkinson is an independent director of Qorvo. Mr. Wilkinson was previously a director of
 RFMD, a position he held since his election to the board in 1992 and served as the chairman of the
@@ -1055,189 +428,56 @@ a Leadership Fellow, having completed the NACD's program for corporate directors
 career he has helped to start or expand dozens of rapidly growing companies in a variety of
 industries. Mr. Wilkinson serves or has served as a director of numerous venture-backed companies,
 both public and private. He earned a degree from North Carolina State University.
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
-AcceptOther Items...
-Go to "Contact Us" Page
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 See the top reasons to work at Qorvo.
 Qorvo is committed to meeting the most stringent industry and customer requirements. Here you can learn more about our compliance with industry standards and find additional information about our facilities and policies. We've also highlighted a few overview documents that provide a synopsis of Qorvo and our corporate strategy.
 You can view additional resources in our 
-Need Help?
-How to Buy
-Board of Directors
-Our Communities
 Corporate Social and Environmental Responsibility
-Qorvo Corporate Brief
 View from the Top: Qorvo's Vijay Balakrishna
-Defining What's Possible: The Path to 5G
-Corporate Policies
-Environmental Compliance
-Quality / Certifications
 We've received numerous certifications that demonstrate our leadership and commitment to our high quality standards.
 From signed W-9 forms to purchasing terms, view information specifically for Qorvo suppliers.
-Explore our growing library of resources, including design tools, videos, blog posts, brochures, articles and white papers, to help you with your product designs.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 Find a comprehensive set of product catalogs for your application needs.
 Browse our selection of e-books, including our For Dummies® titles.
-Access the latest technical articles about Qorvo products and industry trends.
-Check out our growing library of videos.
-Read Qorvo white papers and other technical documentation.
 Explore the awards we've earned from our communities and the industry.
 Keep up with the latest news and events from Qorvo.
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
-AcceptOther Items...
-Go to "Contact Us" Page
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 See the top reasons to work at Qorvo.
-Board of Directors
-Our Communities
 Corporate Social and Environmental Responsibility
-Robert Bruggeworth
-Chief Executive Officer
 Robert Bruggeworth is president and chief executive officer of Qorvo. Prior to the
 merger of and TriQuint to form Qorvo, he served as president and chief executive
 officer of from January 2003 to December 2014. He was previously president of RFMD
@@ -1247,22 +487,14 @@ Mr. Bruggeworth held various leadership positions at Inc., a supplier of electri
 and electronic connection devices, from July 1983 to April 1999, serving most recently
 as vice president of global computer and consumer electronics, based in Hong Kong. He serves on the board of directors of the Semiconductor Industry Association (SIA) and Safety Incorporated, a leader in the development, manufacture and supply of safety products that protect people and facility infrastructures. He
 is a graduate of Wilkes University, Wilkes-Barre, Pennsylvania.
-Chief Financial Officer
-Mark Murphy is Qorvo's chief financial officer (CFO), responsible for finance,
 investor relations and regulatory reporting. Mr. Murphy joined Qorvo as in June
 2016. He was previously executive vice president of Delphi Automotive PLC, a large
 high-tech company serving automotive markets. Mr. Murphy joined Delphi from Praxair,
 Inc., a global industrial gas supplier, where he was president of the Industrial
 Gases business and, before that, president of Praxair's Surface Technologies and
 Electronic Materials division. He previously served as senior vice president and of
-Electronic Materials, Inc., corporate controller of Praxair, president of
-Praxair’s Electronics division and vice president of finance for Praxair Asia
 based in Shanghai. Mark began his career as an officer in the Marine Corps and
 received an from Harvard University and a bachelor's degree in business
-administration from Marquette University.
-Steven "Eric" Creviston
-President of Mobile Products
-Steven "Eric" Creviston is president of Qorvo's Mobile Products, responsible for
 mobile product marketing, R&D, design centers, pricing, sales and specialized sales
 support. Prior to the merger of and TriQuint to form Qorvo, Mr. Creviston was
 corporate vice president and president of RFMD's Cellular Products Group from June 2002
@@ -1272,13 +504,8 @@ served as product line director of RFMD's Nokia product line. Before joining in
 1994, Mr. Creviston was employed by Teledyne Electronic Technologies in Mountain View,
 California, from October 1987 to November 1994, most recently in the role of commercial
 products manager. He received his from the University of Illinois, Urbana.
-Corporate Vice President of Global Operations
 Paul Fego is Qorvo's corporate vice president of global operations, responsible for internal and external wafer fabrication, assembly & test technology and manufacturing.  Mr. Fego joined Qorvo in July 2018 and was previously vice president and manager of the Worldwide Manufacturing group at Texas Instruments (TI).  In his previous role, Mr. Fego managed all of TI's wafer fabrication, assembly and test operations in nine countries. He started his career at as a manufacturing supervisor in 1980, rose quickly through the ranks to become manufacturing manager and then left in 1989 to become operations director at Microelectronics. In 2002, he became president and chief operating officer at Photronics, Inc., a global leader in photomask solutions for companies that manufacture semiconductors, flat panel displays and other electronic components.  He was recruited to return to in 2005 to lead its worldwide manufacturing. Mr. Fego earned a bachelor’s degree from Rutgers University.
-Jamie Flinchbaugh
-Corporate Vice President, Qorvo's Lean Journey
 Jamie Flinchbaugh is corporate vice president of Qorvo's lean journey.  He helps drive lean initiatives across all Qorvo functions.  Jamie was previously Qorvo's lean executive consultant, advising and coaching the leadership team to help create a culture of lean throughout Qorvo.  Jamie is co-founder and partner of the Lean Learning Center and has helped build nearly 20 companies as a co-founder, board member, advisor or angel investor.  He has advised over 300 companies on their lean journeys - from the board room to the factory floor - including a range of companies from to Harley-Davidson and several leading semiconductor companies.  Jamie is the co-author of “The Hitchhiker's Guide to Lean" and a frequent contributor to IndustryWeek and other publications.  He earned an in Engineering and an from Massachusetts Institute of Technology, in Engineering from the University of Michigan, and a in Mechanical Engineering from Lehigh University.
-Corporate Vice President of Marketing
-Brandi Frye is Qorvo's corporate vice president of marketing, responsible for Qorvo's
 corporate brand. She leads the strategy and execution for worldwide product promotions,
 public relations, corporate communication and employee engagement. Prior to the merger
 of TriQuint and to form Qorvo, Ms. Frye was TriQuint's senior director of
@@ -1288,7 +515,6 @@ responsibility in marketing and product line/program management, most recently a
 director of marketing responsible for $8 billion of branded product sales through
 Intel's 70,000 channel members. Ms. Frye serves on the board of directors for Girls Inc. of the Pacific Northwest, empowering all girls to be strong, smart and bold. She earned a in Business from Linfield College and
 an from George Fox University.
-Corporate Vice President of Quality
 Gary Grant is Qorvo's corporate vice president of quality, responsible for all
 corporate quality functions including customer quality, supplier quality and failure
 analysis/reliability labs. Prior to the merger of TriQuint and to form Qorvo, Mr.
@@ -1302,7 +528,6 @@ well as an degree from the University of Texas at Dallas.
 Corporate Vice President and General Counsel
 Jeff Howland is Qorvo's corporate vice president and general counsel serving as
 secretary to Qorvo's Board of Directors. He is responsible for all corporate legal
-contracts and litigation activities. Mr. Howland joined Qorvo in 2015 after serving
 more than 20 years as outside counsel to while he was a partner at Womble Carlyle,
 one of the largest and most technologically advanced business law firms in the
 mid-Atlantic and southeastern During his 28 years at Womble Carlyle, he provided
@@ -1311,8 +536,6 @@ businesses, including semiconductor, software and life science companies. Prior 
 he was an attorney with Houston-based legal firm Baker & Botts, concentrating on
 corporate and securities work for publicly traded oil and gas companies. Mr. Howland
 earned his degree from the University of South Carolina School of Law and a in
-economics from Wake Forest University.
-President of Infrastructure and Defense Products
 James Klein is president of Qorvo's Infrastructure and Defense Products (IDP),
 responsible for product marketing, R&D, design centers, pricing, sales and
 specialized sales support. Prior to the merger of TriQuint and to form Qorvo, Mr.
@@ -1324,7 +547,6 @@ with Raytheon where he most recently served as the general manager of the Advanc
 Products Center for Raytheon's space and airborne systems. Mr. Klein was with Texas
 Instruments in program management and engineering roles within the Defense Systems
 Equipment Group from 1988 to1998. He holds both and degrees from Texas
-A&University.
 Corporate Vice President and Chief Human Resources Officer
 Ralph Knupp is Qorvo's corporate vice president and chief human resources officer, responsible for developing
 and implementing the people strategy that supports the company's overall business
@@ -1347,79 +569,21 @@ devices, from 1992 until 2007. From 1990 to 1992, Mr. Schwarz held various leade
 positions in marketing and systems engineering at Chips & Technology, a fabless
 graphics chip provider that was later acquired by Intel. He earned a and computer
 science degree from Santa Clara University, where he also performed graduate
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
-AcceptOther Items...
-Go to "Contact Us" Page
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
@@ -1427,18 +591,9 @@ See the top reasons to work at Qorvo.
 We are committed to complying with environmental regulations and providing products with exceptional quality, reliability and performance. Our formal, third-party registration to ISO 9001, ISO 14001, 18001, IATF 16949, AS9100 and ISO 50001 demonstrates our leadership and dedication to our customers and quality.
 See below for our current certifications, as well as summaries of each certification type.
 Quality at Our Core
-Board of Directors
-Our Communities
 Corporate Social and Environmental Responsibility
-Current Certifications
 Qorvo and its operations have received the following certifications.
-Apopka, FL
-Brooksville, FL
-Broomfield, CO
-Heredia, Costa Rica
-Certification Types
 Types of Qorvo certifications include the following.
-9100 for Aerospace Quality Systems 
 AS9100 certification is the standardized quality management system for the aerospace industry. Supported by the Society of Automotive Engineers and the European Association of Aerospace Industries, this certification includes requirements relating to quality and safety that major aerospace manufacturers and suppliers have to abide by.
 9001 for Quality Management Systems
 Developed by the International Organization for Standardization (ISO), 9000 organizes, defines and maintains a quality assurance system for manufacturing and service industries. One of the most common management tools today, 9000 deals with the essentials of quality management systems. This includes the eight management principles on which the family of standards is based.
@@ -1446,214 +601,69 @@ Developed by the International Organization for Standardization (ISO), 9000 orga
 group of standards related to environmental management, 14001 helps organizations minimize how their operations negatively affect the environment. These standards also help organizations follow applicable laws, regulations and other environmental requirements.
 18001 for Occupational Health and Safety Management Systems
 group of standards related to occupational health and safety management, 18001 helps organizations minimize how their operations negatively affect the safety of their employees. These standards also help organizations follow applicable laws and regulations, identify and control health and safety risks, reduce the potential for accidents and injuries, and improve overall performance.
-16949 for Automotive Quality Systems
 The 16949 is an technical specification directed at the development of a quality management system. This certification lays the groundwork for continual improvement, emphasizing defect prevention, and the reduction of variation and waste in the supply chain.
-50001 for Energy Management Systems
 50001 specifies requirements for establishing, implementing, maintaining and improving an energy management system, whose purpose is to enable an organization to follow a systematic approach in achieving continual improvement of energy performance, including energy efficiency, energy use and consumption.
 The Defense Microelectronics Activity (DMEA) was created by the Department of Defense. The is composed of highly specialized engineering facilities and microelectronic engineers that work in close partnership with the major defense contractors and the semiconductor industry, to provide support for fielded systems across all military organizations.
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
-AcceptOther Items...
-Go to "Contact Us" Page
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 See the top reasons to work at Qorvo.
 Corporate Social and Environmental Responsibility
                                 For more than 30 years, Qorvo has been designing next-generation solutions. From spacecrafts near the edge of our galaxy to state-of-the-art smartphones back here on Earth, our products are all around you. Because our work affects the world we live in, it's only natural for us to commit to influencing that world in a positive way.
-Board of Directors
-Our Communities
 Corporate Social and Environmental Responsibility
-Supplier Requirements
-Supplier Requirements
 Dedicated to Safety, the Environment and Our Communities
 Environmental stewardship, community involvement and meeting product regulations are more than just recommendations to us — they're values we put into
 practice that define who we are. We're always mindful that we inhabit this planet with you, and we strive to be both good stewards and good fellow members of
-our global community.
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
-AcceptOther Items...
-Go to "Contact Us" Page
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 See the top reasons to work at Qorvo.
 Photos of Qorvo executives are available for both print and web usage. Right-click on the links below to download high-resolution JPGs you can use for print and web.
 For bios and additional management information, visit our 
-Robert Bruggeworth
-Chief Executive Officer
-Chief Financial Officer
-Steven "Eric" Creviston
-President of Mobile Products
-Corporate Vice President of Global Operations
-Jamie Flinchbaugh
-Corporate Vice President, Qorvo's Lean Journey
-Corporate Vice President of Marketing
-Corporate Vice President
-Corporate Vice President and
-President of
-Corporate Vice President
-Corporate Vice President of
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 
 AcceptGet ready for the future of Ioand mobile communication.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 Qorvo prides itself on its social and environmental programs and performance. However, we cannot be successful in this area unless our suppliers are also. We are a team — Qorvo and our supply chain — working together to satisfy the needs and requirements of the most technologically advanced customers in the world.
 This page explains our requirements to our suppliers and provides tools to help them be successful. The majority of these requirements are detailed in our Qorvo Banned and Restricted Substances Specification (SPE-001275) . However, we will use this web page to discuss those requirements in greater detail and offer some tools to our suppliers. We include links to these tools and documents within the expandable text below, but you can also access them on our Supplier Resources page; select "Product Compliance" from the filter dropdown on that page to view them. If you need more information or have any questions about these requirements or the content on this web page, please contact us at qorvogreen@qorvo.com .
 The expandable sections below discuss specific requirements for suppliers on the following:
-Banned and Restricted Substances
-Specific Requirements for Suppliers
-Banned and Restricted Substances
 There are many substances banned or restricted from use in Qorvo products, or banned from use in processes to make Qorvo products. These substances are listed in SPE-001275 , the Qorvo Banned and Restricted Substances specification . There are several tables within this document:
 Table 1: Lists the substances and categories of substances that are restricted or banned in products or assembly processes for Qorvo products.
 Table 2: Lists those substances and categories of substances that are required to be tested by analysis and the approved analytical technique.
-In addition to SPE-001275 , Qorvo has provided a Qorvo Banned and Restricted Substance List as a Microsoft Excel file, which lists all of the substances that Qorvo is aware that fits into the categories listed in SPE-001275. This is a rather extensive list, with approximately 26,000 entries currently. Please be aware that an individual substance can be listed multiple times, if it fits several of the categories listed in SPE-001275. Both SPE-001275 and the associated Excel file are updated annually, with the new versions released each June.
-Suppliers are allowed to claim some ingredients as "confidential" or "trade secret." However, if any of these ingredients are listed in SPE-001275 and the Excel Banned and Restricted List , they cannot be claimed as "confidential." All of the substances listed in SPE-001275 have legal requirements mandating their disclosure to various environmental and safety agencies around the world. Qorvo is required to disclose the presence of all materials listed in SPE-001275 and therefore requires its suppliers to do the same.
 Certificates of Compliance (CoCs) are documents in which a supplier certifies that their product complies with certain legal or customer requirements. Qorvo requires CoCs to state whether a supplier's products:
-Are halogen-free (≤ 900 ppm bromine, ≤ 900 ppm chlorine and ≤1500 ppm bromine plus chlorine at the homogeneous material level).
 Are antimony-free (≤ 700 ppm at the homogeneous material level).
-Contain any Substances of Very High Concern (SVHCs). If the chemical, material or component contains any SVHCs, suppliers must identify the and provide its concentration in the chemical, material or component. The list of SVHCs can be found at http://echa.europa.eu/web/guest/candidate-list-table .
+Are PFOS- and PFOA-free.
 Qorvo would prefer a single Costating compliance to all of these requirements. CoCs should be updated annually or upon request.
 If a chemical, material or component is used to manufacture Qorvo products and becomes a part of those products, we require third-party analytical lab reports at the homogeneous material level for the following:
-Rosubstances (cadmium, hexavalent chromium, mercury, lead, polybrominated biphenyls and polybrominated diphenyl ethers)
+4 new RoPhthalate compounds (DEHP, BBP, DBP, and DIBP)
 We will probably add more substances to this list in the future, as more substances are added to the Rodirective.
 For a definition of "homogeneous materials," please see the Product Content and Regulatory Compliance page and expand the "RoDirective" section. Also, note that Qorvo considers semiconductor chips to be homogeneous materials for the purposes of the Rodirective.
 These test reports should be less than one year old and should be updated annually. The lab reports must be signed by the lab technicians and by an approving manager. The reports should list the analytes, detection limits, methods and results. The reports should contain a flowchart showing the sequence of steps for the analysis, and a picture of the materials that were tested to allow Qorvo to determine that the appropriate material was tested.
@@ -1661,52 +671,36 @@ The testing laboratory must be certified to 17025. You can provide proof of this
 For an example of a lab report, please see the GaAs lab report that we have provided in Supplier Resources .
 material declaration is a document that describes the materials and substances from which a product is made. For example, a capacitor would be broken down into the following homogeneous materials: ceramic (or glass), the inner electrode, the outer electrode, the underplating and the surface plating. Each of these materials would have a distinct homogeneous composition and would be composed of various substances. An example of a material declaration format is the IPC-1752 standard. Other examples may be in spreadsheet or other documentation forms. Qorvo will accept many formats of material declarations — the important issue is that we receive the information, not the form that it is in.
 Suppliers of materials and process chemicals must supply Qorvo with a Material Safety Data Sheet (MSDS) or Safety Data Sheet (SDS) that provides Qorvo with sufficient information to determine the composition of the materials that will be added to the Qorvo product. Qorvo requires that suppliers of components that go into Qorvo products must supply Qorvo with a full material declaration that accounts for 100% of the weight of the component.
-As mentioned in the "Banned and Restricted Substances" section above, Qorvo understands the need to protect Confidential Business Information (CBI). Qorvo will accept material declarations where the identities of certain substances or materials are protected. However, if any of these substances are listed in the Qorvo Banned and Restricted Substances Specification (SPE-001275) , their presence must be disclosed. Qorvo does not allow for substances listed in SPE-001275. In material declarations where a supplier claims over the identity of certain substances, the supplier must submit a certification stating that their product does not contain any of the substances in SPE-001275. Please be aware that some of Qorvo's customers have other requirements regarding claims, if the amount of substance is more than 10% at the homogeneous material level. If a supplier's products contain substances listed as by the supplier and the supplier's materials are included in Qorvo products sold to certain customers, Qorvo may require the supplier to submit more information to substantiate the claim.
-Packaging for Shipping Qorvo Products
 This section applies to our SubContract Assemblers (SCAs) — those suppliers who assemble Qorvo products, package those products and ship the products to our customers.
 Packaging is governed by different regulations throughout the world. Below, we discuss some of the regulations. For a more extensive list of packaging regulations, please see Appendix of the IPC-1758 Declaration Requirements for Shipping, Pack and Packing Materials Standard , which can be downloaded for free from the website.
 The Directive on Packaging and Packaging Waste
 The Directive on Packaging and Packaging Waste (94/62/EC) restricts the summed concentration of several heavy metals (cadmium, mercury, lead and hexavalent chromium) in packaging materials to less than 100 ppm in total. However, Qorvo customers have further limited the combined concentration to less than 80 ppm in total.
-The Commission Decision on Dimethylfumarate
 The 61st entry in Annex of the Regulation restricts the allowable concentration of dimethylfumarate to less than 0.1 ppm in the "article or parts thereof." Qorvo assumes that the 0.1 ppm limit applies at the "packaging material" level as defined below.
-What Are Packaging Materials?
 Consider the following example. An ships Qorvo's components in tape-and-reel packaging to customers. The customer wants 12,500 parts. There are 2,500 parts in carrier tape put on a reel with a Pro-Band support to prevent collapse of the reel edges. Each reel is labeled with a product bar code label and put into a moisture barrier bag with a desiccant bag and a Humidity Indicating Card (HIC). The moisture barrier bag is then vacuum sealed and labeled with three labels — product bar code label, label and Rocompliance label. Each bagged reel is put into a cardboard box that is taped shut and labeled, and five of these single-reel boxes are packed into a larger box for shipment, which is also taped shut and labeled. The packaging materials are:
 The carrier tape in which the parts are encapsulated
-The desiccant bags
 The product bar code labels on the moisture barrier bags
 The labels on the moisture barrier bags
 The Rocompliance labels on the moisture barrier bags
-The single-reel cardboard boxes
-The multi-reel cardboard box
 The labels on the multi-reel cardboard box
 The tape used on the cardboard boxes
 If the used an adhesive or staples to close the boxes, then the adhesive or staples would also be packaging components.
-Each of these "packaging materials" must meet the above requirements of <0.1 ppm dimethyl fumarate and <80 ppm combined concentration of cadmium, mercury, lead and hexavalent chromium.
 Please note: Packaging materials are considered to be "articles" under the regulation, and therefore any Substances of Very High Concern (SVHCs) that may be present in packaging materials must be disclosed if they are above 0.1% by weight at the packaging component level.
 In the section below, we will provide some background and resources where you can find more detailed information on Conflict Minerals. We will explain our expectations for your conflict minerals management, and we will outline what we look for when we review the conflict minerals information you send us.
-The Dodd-Frank Wall Street Regulation and Consumer Protection Act defines “Conflict Minerals” as:
 any other mineral or its derivatives determined by the Secretary of State to be financing conflict in the or an adjoining country.
 This definition of Conflict Minerals means that all coltan, cassiterite, gold and wolframite are Conflict Minerals, regardless of the source of the minerals. If the source was determined to be located in the Covered Countries, then reporting to the is required, along with a Conflict Minerals Report.
-Please note, Qorvo has not banned all Conflict Minerals from the and adjoining countries (Angola, Congo, Central African Republic, South Sudan, Uganda, Rwanda, Burundi, Tanzania, and Zambia) – just those mineral sources that are being used to fund armed conflict.
 If you are interested in more information on the Conflict Mineral law, regulations implementing the Dodd-Frank Act, and recommended guidance for complying with the regulations, some good resources are available at:
-Tools to Gather Conflict Mineral Sourcing Information
 Qorvo is a member of the Responsible Minerals Initiative, or “RMI” (formerly the Conflict-Free Sourcing Initiative, or “CFSI”), and has adopted the tools for the management of Conflict Minerals, including the RMI’s Conflict Minerals Reporting Template (CMRT). We require that our suppliers use the to report the tin, tantalum, tungsten and gold smelters used in the components and materials sold to Qorvo. The is updated frequently and the latest version can be downloaded at http://www.responsiblemineralsinitiative.org/conflict-minerals-reporting-template/ .
-What will Qorvo focus on in reviewing your Conflict Mineral information?
 Regardless of how suppliers choose to create the CMRTs they send to Qorvo, suppliers need to understand how Qorvo is going to review these templates.
 We have created a Review Criteria document that will walk you through each field on the and explain what we will look for when reviewing your template. In general, we are looking for:
 evidence that your company has established due diligence measures (QA-QI) – also see "Supplier Expectations" below; and
 logic in your answers (for example: if you answer “Yes” to Questions 1 and 2 for tin, you should have at least one tin smelter on your smelter list).
 Please review Qorvo's Review Criteria document in its entirety before submitting your to Qorvo. This document will provide you with everything you need to know about how we will review your submission.
-Supplier Expectations:
 Qorvo has aligned its Conflict Minerals Program with the Organization for Economic Co-operation and Development (OECD) Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas, and we expect our suppliers to do the same. Suppliers are expected to cooperate in providing due diligence information to confirm that the relevant products supplied to Qorvo are conflict-free. This means that any 3metals contained in the products supplied to Qorvo either: (1) do not directly or indirectly fund armed conflict or violence in the Covered Countries, or (2) originate from recycled or scrap sources.
 As part of their due diligence practices, Qorvo suppliers are expected to:
 Adopt a conflict minerals policy that is consistent with Qorvo’s policy, and implement a management system to support due diligence efforts and compliance with their policy.
 Do a complete “refresh” of the conflict minerals data and smelters in their supply chain at least twice a year (mid-year and end-of-year).
-Respond to any inquiry regarding their conflict minerals data or particular smelters, and push those inquiries down through their supply chain.
 What do we mean by complete "refresh"?
 We view the Smelter List as a snapshot of the smelters in our supply chain at a particular time. It is not a tool that can track the chain of custody of all the materials in our products. Some of our suppliers have a high rate of turnover of the materials used to build their products, while other suppliers purchase enough raw materials at one time to last several years. Therefore, we cannot track actual materials through the supply chain. When suppliers refresh their smelter data, it should represent who they are currently purchasing from. For example, if in the past a supplier has purchased from a smelter that is no longer in operations, that smelter should not appear on the suppliers updated CMRT.
-Please refer to SPE-001288 for additional details regarding Qorvo’s conflict minerals expectations for suppliers.
-If there are any questions regarding conflict minerals at Qorvo, please contact us at conflictminerals@qorvo.com .
 Corporate Social Responsibility and Code of Conduct
 Corporate Social Responsibility (CSR) — sometimes known as Social and Environmental Responsibility (SER) — is defined in 26000 as the "responsibility of an organization for the impacts of its decisions and activities on society and the environment." These responsibilities should result in transparent and ethical behavior that does the following:
 Contributes to sustainable development, including health and the welfare of society
@@ -1714,14 +708,8 @@ Takes into account the expectations of stakeholders
 Is in compliance with applicable law and consistent with international norms of behavior
 Is integrated throughout the organization and practiced in its relationships
 There are several different programs available that companies can use to guide them in the development of their program. The first two programs below are specific to the electronics industry, while the others are more general in nature:
-Qorvo's Requirements for Suppliers
 Qorvo is a member of the and as such, we have adopted the Code of Conduct . We require our suppliers to complete a Self-Assessment Questionnaire (SAQ) for those facilities that produce components or materials for Qorvo, or provide assembly services.
 We encourage our suppliers to download the Code of Conduct from the hyperlink in the above paragraph. Within each section of the code (Labor, Health and Safety, Environmental, Ethics and Management System), there are several standards as listed below. Please see the Code of Conduct for a detailed explanation of the requirements for each of these standards.
-Solid Waste
-Responsible Sourcing of Minerals
-Improvement Objectives
-Corrective Action Process
-Documentation and Records
 For each of these standards, the will ask you the following about the management system elements that support your company's approach to the standard:
 What is your company's commitment or policy addressing this standard? Is it documented?
 Who within your company is responsible for meeting this commitment? Is there a senior manager who is responsible for compliance with this commitment?
@@ -1730,112 +718,40 @@ Have you assessed the risk of your company and its suppliers not meeting this re
 Do you have goals, targets, objectives or similar aims to improve your company's and its suppliers' performance to meeting the requirements of this standard? What are they? What progress are you making?
 Have you trained the appropriate personnel on the requirements of this standard? Is this training documented? How do you track whether the appropriate personnel receive and understand the training?
 How have you communicated your commitment to this standard to the general public and your employees, local community, customers and suppliers? How do you update these groups on your progress toward meeting the requirements of the standard?
-Are your workers allowed to participate in the process of meeting this standard's requirements? Do they give feedback, and is that feedback taken into account?
 Do you audit your company's and your suppliers' performance in meeting the requirements of this standard? Is this auditing process integrated with your normal quality auditing system and possibly also your environmental, health and safety auditing system? Is this system documented? What records are kept? What are the recent results of audits conducted under this process?
 Do you use a corrective action process for the results of the auditing process? Is this system documented? What records are kept? What are the recent results of corrective actions that are closed and open under this process?
-How much of your system is documented? Do you have policies, procedures, specification, work instructions, training presentations, training attendee logs, etc., for your system? What records do you keep to show compliance to this standard?
 Do you extend the requirements of this standard to your suppliers? How do you communicate the requirements to them? How do you monitor their compliance?
-If you have any questions regarding or Qorvo's requirements for it, please contact us at qorvogreen@qorvo.com .
 This section applies to our SubContract Assemblers (SCAs) — those suppliers who assemble Qorvo products, package those products and ship the products to our customers.
 Qorvo calculates Greenhouse Gas (GHG) emissions and reports to the Carbon Disclosure Project (CDP) on an annual basis. We are encouraging our SCAs to engage in calculating and reporting Scope 1 and Scope 2 emissions. Scope 1 emissions account for those emissions created by on-site combustion and chemical usage and Scope 2 emissions account for emissions generated by the use of electricity.
-Guidance for calculating emissions can be found at http://www.ghgprotocol.org/sites/default/files/ghgp/pfc.xls .
 Guidance on completing the report can be found at http://www.cdproject.net/en-US/Pages/guidance-climate-change.aspx .
 To accurately capture the emissions created in the course of manufacturing Qorvo products, it is necessary to include information relating to the emissions of our SCAs. We have created an Excel reporting tool, Input Template , that allows our SCAs to easily report this data to us. You can find the template for download on our Supplier Resources page. We require data on the annual usage of the following:
 Natural gas (reported in therms)
-Propane (reported in gallons)
-Diesel (reported in gallons)
-Electricity (reported in kWh)
-Water (reported in gallons)
 Conversion factors are included in the reporting tool, but you can see these additional resources for energy and volume conversions:
-If you have any questions regarding emission calculations or Qorvo's requirements, please contact us at qorvogreen@qorvo.com .
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our Privacy Policy .
-AcceptOther Items...
-Go to "Contact Us" Page
-How To Buy
-Buy from an Authorized Channel Partner
-Buy Direct from Qorvo Sales
-Products by Part #
-Go to Products
-Discrete Transistors
-Frequency Converters & Sources
-IoControllers
-Go to Applications
-Customer Premises Equipment
-Defense and Aerospace
-How to Buy
-Go to Innovation
-Board of Directors
-Our Communities
+5The Future of Go to About Us
 Corporate Social and Environmental Responsibility
-Internships & Recent College Graduates
-Life at Qorvo
-Top Reasons to Work at Qorvo
-Interviewing at Qorvo
-Gain Block Amplifiers
-Wi-Fi Network Equipment Amplifiers
-Go to Control Products
-Programmable Capacitor Arrays
 Go to Discrete Transistors
-Go to Filters & Duplexers
 Go to Frequency Converters & Sources
 Integrated Synthesizers with Mixers
-Modulators / Demodulators
-Upconverters / Downconverters
 Go to Integrated Products
-Defense & Aerospace
-Wireless Infrastructure
-Go to Optical
-Go to Passives
-Protection Circuits
-Fixed Attenuators
-Antenna Switch Modules
 Go to Defense and Aerospace
-Distributed Wi-Fi
-Industrial, Scientific & Medical
-Go to Mobile Products
-Advanced Filter Solutions
-Go to Network Infrastructure
 Point-to-Point Radio
-Wireless Infrastructure
 Butterworth vs. Chebyshev Bandpass Filter Response
-dBm-Volts-Watts Conversion
-Key Frequency Bands
-Modelithics Qorvo GaLibrary
-Impedance Matching Calculator
-/ Return Loss Conversion  
-Connected Car For Dummies®
-Go to Customer Stories
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-Go to Technology
 Gallium Nitride (GaN)
-Go to Quality
 Go to Corporate Social and Environmental Responsibility
-Supplier Requirements
-Go to Newsletters
-Go to Events and Trade Shows
 Explore the latest additions to our product portfolio.
-Qorvo is paving a path to 5G.
 Get ready for the future of Ioand mobile communication.
-Contact Qorvo via phone, email or form.
 Qorvo's Gatechnology helps keep you connected and protected.
 Our journey for a better, more connected tomorrow.
 Read the latest trends, how-to articles, design tips and more from Qorvo experts.
 See the top reasons to work at Qorvo.
 Smart Home Energy Management with Levarys and Qorvo
 Look Inside the Army's Counterfire Radar System
-People Power and Qorvo Deliver Smart Internet of Things Systems
-Qorvo and BQ: How Your Smartphone Connects
 Smart Home Energy Management with Levarys and Qorvo
-5The Future of Low-power Qorvo chips enhance connectivity, reliability of
-new Luna Smart Home System
-smart home system
  with stylish thermostats; smart radiator valves; temperature, door
 and window sensors; and smart plugs — all wirelessly connected and controlled. Using Qorvo technology,
 Levarys' Luna Smart Home System
-Zigbee Green Power chips
  provide secure, long range and highly reliable wireless
 transmission of data within the Luna Smart Home System. With a smartphone or tablet, users can
 turn on and off and control the thermostat — while at home or on the road —
@@ -1843,9 +759,7 @@ providing comfort and significant energy savings.
 "Our new Luna smart home solution gives customers a set of smart that seamlessly
 interact, creating more comfort at home, saving energy and making life easier," said Annette Herber and Anita Hübner, managing directors of 
 . "By choosing Qorvo's Zigbee chips, we can offer end users the reliable and flexible wireless network they need."
-Smart Energy Efficiency
 The Luna system makes intelligent decisions based on sensor input. For example, residents can
-efficiently heat individual rooms by combining a smart radiator valve with a small temperature and
 window sensor. If someone forgets to close a window, the Luna system will automatically stop
 heating the room. It will also turn the heating back on once the window is closed.
 Qorvo's wireless chips offer flexibility so that Levarys can add extra fitting the
@@ -1854,13 +768,7 @@ From the gateway to the smart plug, all Luna smart home are elegantly designed f
 today's contemporary homes. And protecting personal data is as high of a priority as energy efficiency; any information that the collect and manage is saved on servers in a
 secure data center. The new Zigbee Luna Smart Home System is currently available as an end-user kit
 at electronics retailers in Germany, Austria and Switzerland.
-Back to Customer Stories >
 Qorvo's innovative portfolio enables the smart home, smart energy and other Ioapplications.
 Our future-proof portfolio of communication chips for the smart home support Zigbee, Thread and Bluetooth communication protocols.
-IoControllers
 Qorvo's ultra-low-power, wireless data communication controller chips enable applications for the smart home and IoT.
-Levarys Chooses Qorvo's ZigBee Chips for Smart Home Energy Management
-People Power and Qorvo Deliver Smart Internet of Things Systems
 Wi-Fi and the Connected Living Room: Pathway to the Internet of Things
-How to Buy
-Qorvo uses cookies and other technologies to enhance your experience, display customized content, secure our website and help us understand how our website is used.  For details, please see our 

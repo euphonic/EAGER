@@ -1,17 +1,8 @@
-Realtime Drainage Analysis
-Production Guided
 Founded in 2016 by Stuart Jackson, NarSysTech designs and develops self-aware technologies for the stimulation market.
 NarSysTech Products are based on our patent pending Production Potential Modeling (PPM) Technology which models how a reservoirs production potential changes over time.
-NarSysTech products use the to interpolate between time-lapse volumes and visualize expected drainage in real-time.
-Factory Drilling and Completions
 Standardization and automation are the two main tenets of factory processes, whether building cars, manufacturing computer chips or drilling and completing unconventional wells...
-The Next Technical Revolution
 Over the past decade, drilling contractors and operators have steadily marched toward more automated drilling and completion processes and practices...
-Welcome to NarSysTech
         The primary objectives of NarSysTech are to provide our clients with higher and more consistent production from every well through the early identification of by-passed pay and prediction of pressure anamolies that are caused by assymetrical drainage. This is accomplished through with our patent pending Production Potential Modeling (PPM) engine which is at the core of all of our product offerings. Learn more about this pivotal technology and the products that it enabled on this site or contact us directly at 
-NarSysTech New Website
-NarSysTech has made its new website live
 MicroSeismic Inc. Licenses PPMServer
 MicroSeismic Inc. and NarSysTech have entered into a non-exclusive licensing agreement
-Strategic Alliance with MicroSeismic, Inc.
 MicroSeismic and NarSysTech form alliance to develop Production Potential Modeling server

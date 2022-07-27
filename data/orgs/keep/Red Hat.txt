@@ -1,117 +1,46 @@
 Your account gives you access to your member profile and preferences, and the following services based on your customer status:
-Connect for Business Partners
-Not registeyet? Here are a few reasons why you should be:
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
 Your account gives you access to your member profile, preferences, and other services depending on your customer status.
 For your security, if you're on a public computer and have finished using your services, please be sure to log out.
-Boston, MA
 The premier open source technology event
-Expand your possibilities
-The world's leading provider of 
-open source solutions
-About Featutopic
-Understanding integration
-named a leader
- in The Forrester New Wave: Enterprise Container Platform Software Suites, Q4 2018
-Get the report
-and combine
  to create leading hybrid and multicloud provider
 Products for integrating cloud-native apps
-Automation & Management
 The foundation for new apps, virtualization, and secure clouds.
 platform for public and private clouds.
-An agentless automation platform.
-tool for managing your across your enterprise.
-Open, software-defined storage.
-predictive analytics tool with real-time analysis.
-distributed integration platform.
-An iPaasolution tis part of Fuse.
-messaging platform enabling real-time integration.
-An management platform.
 An integration platform for unifying data.
 collection of cloud-native runtimes.
 An open, hybrid PaaS.
 platform for public and private clouds.
-block and object storage platform for clouds.
-suite of tools for private and public cloud infrastructure.
-Build and manage an open Iaacloud.
 An OS-independent network-based registry.
-scalable security framework.
-An Iaacloud management platform.
-predictive analytics tool with real-time analysis.
 collection of cloud-native runtimes.
 An open, hybrid PaaS.
 An Eclipse-based integrated development environment.
-business rules management platform.
 An intelligent, scalable data-caching solution.
 dev platform for automating business decisions and processes.
 platform for developing Java-based services.
-An Apache web server, a servlet engine, and middleware.
-An agentless automation platform.
-An Iaacloud management platform.
-tool for managing your across your enterprise.
-predictive analytics tool with real-time analysis.
 The foundation for new apps, virtualization, and secure clouds.
-OpenStack Platform
 platform for public and private clouds.
-Ansible Automation
-An agentless automation platform.
-tool for managing your across your enterprise.
-Open, software-defined storage.
-predictive analytics tool with real-time analysis.
-distributed integration platform.
-An iPaasolution tis part of Fuse.
-messaging platform enabling real-time integration.
-An management platform.
-JBoss Data Virtualization
 An integration platform for unifying data.
 OpenShift Application Runtimes
 collection of cloud-native runtimes.
-OpenShift Container Platform
 An open, hybrid PaaS.
-OpenStack Platform
 platform for public and private clouds.
-block and object storage platform for clouds.
-suite of tools for private and public cloud infrastructure.
-Cloud Infrastructure
-Build and manage an open Iaacloud.
 An OS-independent network-based registry.
-Certificate System
-scalable security framework.
-An Iaacloud management platform.
-predictive analytics tool with real-time analysis.
 OpenShift Application Runtimes
 collection of cloud-native runtimes.
-OpenShift Container Platform
 An open, hybrid PaaS.
 An Eclipse-based integrated development environment.
-business rules management platform.
-Data Grid
 An intelligent, scalable data-caching solution.
-Process Automation Manager
 dev platform for automating business decisions and processes.
-JBoss Enterprise Application Platform
 platform for developing Java-based services.
-An Apache web server, a servlet engine, and middleware.
-Automation & management
-Ansible Automation
-An agentless automation platform.
-An Iaacloud management platform.
-tool for managing your across your enterprise.
-predictive analytics tool with real-time analysis.
-and open source
 We believe in collaboration. We believe in choice, control, and freedom. Open source values like meritocracy, community building, and transparency are changing the way we approach business and life.
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
-OpenShift Container Platform
- OpenStack Platform
-Buy online (Japan)
-Around the world
+We use cookies on our websites to deliver our online services. Details about how we use cookies and how you may disable them are set out in our Privacy Statement . By using this website you agree to our use of cookies.
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
-Open source software
 is an enterprise software company with an open source development model.
 The result is better, more reliable, and more adaptable technologies.
 With engineers connected to open source communities, the freedom of our subscription model, and a broad portfolio of products that's constantly expanding, is here to help you face your business challenges head-on.
@@ -126,166 +55,65 @@ Manage your certifications, view exam history, and download certification-relate
 Let's partner for something great.
 Connect is a partner community where we work together to build ideal customer solutions and support the services you provide with our products. So let’s do something great— together.
 Connect for Technology Partners is where we work with you to make sure your products are tested with our products and are ready for the customer. Joining gives you access to software, documentation, certification standards, and support from our team.
-Grow your business with us
 Connect for Business Partners is where you can become part of our campaigns to cut through the noise of today’s marketing environments. We’ll help you differentiate your brand as an open source partner and provide training every step of the way.
 From the right foundation–an open foundation–your technology and culture can scale however you need. Expand your possibilities.
 Apex partners help organizations accelerate app dev and delivery; integrate apps, data, and devices; and automate business processes
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.Search
 Your account gives you access to your member profile and preferences, and the following services based on your customer status:
-Connect for Business Partners
-Not registeyet? Here are a few reasons why you should be:
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
 Your account gives you access to your member profile, preferences, and other services depending on your customer status.
 For your security, if you're on a public computer and have finished using your services, please be sure to log out.
 Watch product demos, hear directly from our customers, get a preview of our training courses, and more.
-Training and certification 
- Apply Training and certification filter 
-Customer success stories 
- Apply Customer success stories filter 
-The Way 
- Apply The Way filter 
-Life at 
- Apply Life at filter 
-Application integration and development 
- Apply Application integration and development filter 
-Platform-as-a-Service 
-Infrastructure-as-a-Service 
- Apply Infrastructure-as-a-Service filter 
-Europe, Middle East, Africa 
- Apply Europe, Middle East, Africa filter 
-Cloud computing 
- Apply Cloud computing filter 
-OpenShift 
- Apply OpenShift filter 
-OpenShift Container Platform 
- Apply OpenShift Container Platform filter 
-OpenStack Platform 
- Apply OpenStack Platform filter 
- Apply Ceph Storage filter 
-Cloud Infrastructure 
- Apply Cloud Infrastructure filter 
-Ansible Engine 
- Apply Ansible Engine filter 
-JBoss Enterprise Application Platform 
-Ansible Automation 
- Apply Ansible Automation filter 
-Process Automation Manager 
- Apply Process Automation Manager filter 
-Data Virtualization 
- Apply Data Virtualization filter 
-Data Grid 
- Apply Data Grid filter 
-OpenShift Online 
- Apply OpenShift Online filter 
-Kernel-based Virtual Machine (KVM) hypervisor 
- Apply Kernel-based Virtual Machine (KVM) hypervisor filter 
-OpenShift Dedicated 
- Apply OpenShift Dedicated filter 
-Certificate System 
- Apply Certificate System filter 
-Enterprise Linux Developer Program 
- Apply Enterprise Linux Developer Program filter 
-JBoss Operations Network 
- Apply JBoss Operations Network filter 
-Hyperconverged Infrastructure 
- Apply Hyperconverged Infrastructure filter 
 OpenShift Application Runtimes 
  Apply OpenShift Application Runtimes filter 
 Tech Lab - La solución Hyperconverged Infrastructure for Virtualization
-Comware creates cloud service with OpenStack Platform
-Upgrade to modern, software-defined storage
-& World WideTechnology
-FeatuAll Channels
-Customer success story
 Intermountain upgraded its environment, using as its trusted partner to optimize and automate solutions for better control and quicker, more reliable service.
-More channels to explore
-The way
 Open source isn't wwe do, it's how we do wwe do. Learn how our product process and subscription model benefits you.
 See our products and technologies in action.
-Customer success stories
 You don't have to take our word for it. Hear wcustomers are saying about our solutions.
 See our products and technologies in action.
 Interested in attending an event? Get a preview.
 Life at Learn about our culture and life at Hat.
 Learn how our partnerships and interoperable solutions help you.
-The way
 Open source isn't wwe do, it's how we do wwe do. Learn how our product process and subscription model benefits you.
 Learn how to get the most out of your subscriptions.
-Training and Certification
 Invest in your skills or the skills of your team with our training and certification opportunities.
-Join the conversation
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
-OpenShift Container Platform
- OpenStack Platform
-Buy online (Japan)
-Around the world
 Your account gives you access to your member profile and preferences, and the following services based on your customer status:
-Connect for Business Partners
-Not registeyet? Here are a few reasons why you should be:
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
 Your account gives you access to your member profile, preferences, and other services depending on your customer status.
 For your security, if you're on a public computer and have finished using your services, please be sure to log out.
-Join the conversation
-Corporate Accounts
-  @Red  channel
  Life at  Life at  @Life at  Life at  Life at  Life at Worldwide
-Europe, Middle East, and Africa
- @RedHatEMEA
- @RedHatUK
- @RedHatItaly
- @Benelux
- @RedHat_France
- Sudamérica y Caribe
- @RedHatSupport
- training and certification
- @RedHat_Services
- Certified Professionals
- @RedHatPartners
- @OpenShift
- @RedHatGov
- @RedHatCloud
- @JBossDeveloper
- @RedHatStorage
- @RedHatEvents
- @RedHatSummit
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
-OpenShift Container Platform
- OpenStack Platform
-Buy online (Japan)
-Around the world
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
 We revolutionized the operating system with Hat® Enterprise Linux® . Now, we have a broad portfolio , including hybrid cloud infrastructure, middleware, agile integration, cloud-native application development, and management and automation solutions. With technologies, companies can successfully adapt as business becomes more digital and interconnected.
 We are Hat. We've been here for more than 25 years, and we're here to help you face your business challenges head-on.
-trusted leader in innovation
 initially saw success with a custom distribution of Linux, then called "Linux." The reliability and growth of and Linux have made the 2 synonymous to many. Since those early days, we've built on this foundation to support nearly all levels of the stack and support Linux across the hybrid cloud.
 is the second-largest contributor to the upstream Kubernetes project and the originator of many of its key features, components, and related container technologies. We have years of experience running Kubernetes in the cloud and supporting organizations using containers in production. Today, we're working with the cloud-native community to push the boundaries of wcontainers and Kubernetes can do, from serverless computing to machine learning.
 Hat's dedication to, support of, and decades of involvement in open source communities lets us contribute useful technology, refine and harden it, and prepare it for the enterprise. This engagement comes with a promise : Keep these technologies open so everyone can help create, promote, and maintain better open source software and discourage patent aggression.
 We believe in the power of open hybrid cloud. Standalone cloud deployments based on proprietary technology aren't the answer because they inhibit clouds from interacting with one another. Open hybrid cloud brings the interoperability, workload portability, and flexibility of open source to hybrid environments, bridging them together and creating a unified experience.
-An open source development model
 Hat's development model begins in open source communities and results in stable, enterprise-ready solutions.
 Freedom and choice with subscriptions
 If you're looking for a traditional licensing model and the resulting added costs and vendor lock-in, you're in the wrong place. Our subscription model gives customers access to the latest technology, enterprise-grade assurance, and open source expertise from our leading engineers.
 In other words, subscriptions give you the freedom to move your business forward with less worry and more room for innovation.
 Only as strong as our people
 Hatters are passionate, curious, and accomplished. We come from different professional backgrounds and hone our skills to create reliable products and experiences for our customers. We're all over the globe but united in the belief tworking in an open way has the power to change the world for the better.
-Our leadership
 The most respected and influential people at are those who show passion for our mission and live it every day. leader at does not rely on their title to earn respect.
 Jim Whitehurst, President and chief executive officer, From the leaders in open source, for the leaders in IT
 Our open source solutions run through the stacks of the world's most demanding datacenters and clouds.
 of healthcare companies in the Fortune Global 5004
 customers benefit from open source innovation
 Our customers deliver innovations taffect their lines of business, organizations, industries, and the global community every day. By using open source technologies to create change, these organizations are proof twhen we work in the open, extraordinary things can happen.
+[1] [2] [3]client data and Fortune Global 500 list, June 2017
 [4]client data, June 2017
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.Search
 Your account gives you access to your member profile and preferences, and the following services based on your customer status:
-Connect for Business Partners
-Not registeyet? Here are a few reasons why you should be:
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
@@ -293,63 +121,6 @@ Your account gives you access to your member profile, preferences, and other ser
 For your security, if you're on a public computer and have finished using your services, please be sure to log out.
  Introduces Commercial Support for Openon Microsoft Windows
 Includes specifics about and images and videos tcan be used in your content.
-Europe, Middle East, Africa 
- Apply Europe, Middle East, Africa filter 
-Application integration and development 
- Apply Application integration and development filter 
-Infrastructure-as-a-Service 
- Apply Infrastructure-as-a-Service filter 
-Platform-as-a-Service 
-JBoss Enterprise Application Platform 
-OpenShift 
- Apply OpenShift filter 
-OpenStack Platform 
- Apply OpenStack Platform filter 
-OpenShift Container Platform 
- Apply OpenShift Container Platform filter 
- Apply Ceph Storage filter 
-Ansible Engine 
- Apply Ansible Engine filter 
-Cloud Infrastructure 
- Apply Cloud Infrastructure filter 
-Data Grid 
- Apply Data Grid filter 
-Data Virtualization 
- Apply Data Virtualization filter 
-JBoss Operations Network 
- Apply JBoss Operations Network filter 
-Process Automation Manager 
- Apply Process Automation Manager filter 
-Ansible Automation 
- Apply Ansible Automation filter 
-OpenShift Dedicated 
- Apply OpenShift Dedicated filter 
-OpenShift Online 
- Apply OpenShift Online filter 
-Certificate System 
- Apply Certificate System filter 
-Hyperconverged Infrastructure 
- Apply Hyperconverged Infrastructure filter 
-Enterprise Linux Developer Program 
- Apply Enterprise Linux Developer Program filter 
-Cloud computing 
- Apply Cloud computing filter 
-Customer success 
- Apply Customer success filter 
- Apply Community to enterprise filter 
-OpenStack 
- Apply OpenStack filter 
-DevOps 
- Apply DevOps filter 
-Cloud management 
- Apply Cloud management filter 
- Apply xPaafilter 
-Big data 
- Apply Big data filter 
-Open source communities 
- Apply Open source communities filter 
-Emerging technology 
- Apply Emerging technology filter 
 Ascend Money and Honoas Innovation Awards 2018 Winners in Thailand
                                       Winners of the Innovation Awards 2018 were unveiled at the Forums, which traveled to 12 cities in the Asia-Pacific region. 
 Unifies Automation Across Hybrid Cloud Management with Latest Version of Ansible Tower
@@ -357,8 +128,6 @@ Unifies Automation Across Hybrid Cloud Management with Latest Version of Ansible
 Open Innovation Labs Hosts First Japan Residency With Fukuoka Financial Group 
                                       Hat, Inc. (NYSE: RHT), the world's leading provider of open source solutions, today announced tFukuoka Financial Group, Inc. (“FFG”), a banking and financial services company based in Japan, has completed a residency with Open Innovation Labs, the first residency completed in Japan. During the residency, the teams worked to improve corporate competitiveness and advance the company’s digital transformation efforts.              
  Introduces Commercial Support for Openon Microsoft Windows
-Reports Third Quarter Results for Fiscal Year 2019
-Sets Jan. 16, 2019, Special Meeting for Vote on Merger Agreement with 
                                       Hat, Inc. (NYSE: RHT), the world’s leading provider of open source solutions, announced today tit had established a record date of Dec. 11, 2018, and a special meeting date of Jan. 16, 2019, for a meeting of its stockholders to, among other things, consider and vote on a proposal to adopt the previously announced Agreement and Plan of Merger, dated as of Oct. 28, 2018, by and among Hat, International Business Machines Corporation (“IBM”) and Socrates Acquisition Corp., a wholly-owned subsidiary of IBM, pursuant to which will acquire for $190.00 per share in an all-cash... 
 Submissions Open for 2019 Certified Professional of the Year Award
                                       Hat, Inc. (NYSE: RHT), the world's leading provider of open source solutions, today announced tsubmissions are being accepted for the 13th annual Certified Professional of the Year Award.
@@ -369,16 +138,8 @@ Fujitsu Adopts OpenShift Container Platform for Global Management Decision-Makin
                                       Fujitsu Limited adopted OpenShift Container Platform for system development at its Business Intelligence Competency Center (BICC), an internal organization to promote collection and company-wide use of its global data, achieving development efficiency with quicker application development and delivery.
 Subscribe to Hat’s company newsletter
 Sign up for Shares for our take on technology trends, open source software, recent industry news, and more.
-By our supported publications
-April 19, 2018
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
-OpenShift Container Platform
- OpenStack Platform
-Buy online (Japan)
-Around the world
 Your account gives you access to your member profile and preferences, and the following services based on your customer status:
-Connect for Business Partners
-Not registeyet? Here are a few reasons why you should be:
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
@@ -387,96 +148,50 @@ For your security, if you're on a public computer and have finished using your s
 We want to hear from you
 Our corporate website is designed to provide an easy-to-use, informative, online experience. Find a broken link? Typo? Have suggestions to improve our site? Please tell us in this quick contact form.
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
-OpenShift Container Platform
- OpenStack Platform
-Buy online (Japan)
-Around the world
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
-The trademarks, logos and service marks ("Marks") displayed on this website are the property of or other third parties. You are not permitted to use these Marks without the prior written consent of or such third party which may own the Mark. Please see the Trademark Guidelines and Policies and the Fedora Trademark Guidelines and Policies.
-either owns the intellectual property rights in the HTML, text, images audio, video, software or other content tis made available on this website, or has obtained the permission of the owner of the intellectual property to make it available on this website. strictly prohibits the redistribution or copying of any part of this website or content on this website without written permission from Hat. authorizes you to display on your computer, download and print pages from this website provided: (a) the copyright notice appears on all such printouts, (b) the information will not be altered, (c) the content is only used for personal, educational and non-commercial use, and (d) you do not redistribute or copy the information to any other media. and its affiliates respect the intellectual property of others. If you believe tyour work has been copied in a way tconstitutes copyright infringement, please follow our Notice and Procedure for Making Claims of Copyright Infringement.
-Any software ("Software") tis made available to you to download from this website is the copyrighted work of and/or third parties. Your use of the Software is governed by the terms of the end user license agreement which accompanies or is included with the Software ("License Agreement"). You will not install any Software tis accompanied by or includes a License Agreement, unless you first agree to the terms of the License Agreement.
-WARRANTED, ALL, AGREEMENT, CONDITIONS, WARRANTIES, MERCHANTABILITY, PURPOSE, NON-INFRINGEMENT, DISCLAIMED, INVALID.
-Submission of ideas
 or any of its employees do not accept or consider unsolicited ideas, including ideas for new advertising campaigns, new promotions, new products or technologies, processes, materials, marketing plans or new product names. Please do not send any original creative artwork, samples, demos or other works. The sole purpose of this policy is to avoid potential misunderstandings or disputes when products or marketing strategies might seem similar to ideas submitted to Hat. Please do not send your unsolicited ideas to or anyone at Hat. If despite our request tyou not send us your ideas and materials, you still send them, please understand makes no assurances tyour ideas and materials will be treated as confidential or proprietary.
-Your use of this website is subject to all applicable local, state, national and international laws and regulations, and you agree not to violate such laws and regulations. Any attempt by any person to deliberately damage this website is a violation of criminal and civil laws. reserves the right to seek damages from any such person to the fullest extent permitted by law.
-In addition, you agree not to post or transmit through this website any material or content tviolates or infringes in any way the rights of others or solicits, encourages or promotes the use of illegal substances or activities, which is unlawful, threatening, abusive, harassing, defamatory, libelous, derogatory, invasive of privacy or publicity rights, vulgar, obscene, bigoted or hateful, profane, scandalous, pornographic, indecent or otherwise objectionable, gives rise to civil or criminal liability or otherwise violates any applicable law. You may not engage in any activity on this website trestricts or inhibits any other user from using or enjoying this website by "hacking", "cracking", "spoofing", or defacing any portions of this website.
-You may not post or transmit through this website advertising or commercial solicitations; promotional materials relating to website or online services which are competitive with and/or this website; software or other materials tcontain viruses, worms, time bombs, Trojan horses, or other harmful or disruptive components, political campaign materials; chain letters; mass mailings, spam mail, any robot, spider, site search/retrieval application, or other manual or automatic device or process to retrieve, index, "data mine", or in any way reproduce or circumvent the navigational structure or presentation of this website or its contents. You may not harvest or collect information about website visitors without their express written consent.
+This website contains links to other websites and resources and are provided for convenience only. has not reviewed the linked websites and is not responsible for the content or availability of any linked websites. The inclusion of any link to a website does not imply endorsement by of the website or their entities, products or services.
 If you are a Network subscriber, you must select a user name and password and you agree (i) to provide with accurate, complete and up to date information; (ii) to update your information to keep it accurate, current and complete; (iii) comply with these Terms of Use. Failure to provide accurate information constitutes a breach of this agreement, which may result in immediate termination of your right to access this website.
 You may not select a user name timpersonates someone else, is or may be illegal, or may be protected by trademark or other proprietary rights, is vulgar or offensive or may cause confusion. reserves the right to reject any user name in our sole discretion.
-You agree not to sell or transfer your use of or access to this website or permit anyone else whose account was suspended or terminated to use this website through your user name or password. You are responsible for maintaining the confidentiality of your password and account and for all activity toccurs on your account. You agree to immediately notify of any unauthorized use of your account or any other breach of security. will not be liable for any loss you incur as a result of someone else using your password and account with or without your permission.
 has the right, but not the obligation, to monitor the content of this website, to determine compliance with these Terms of Use and any other operating rules established by Hat. has the right in our sole discretion to edit, refuse to post or remove any material submitted to or posted on this website twe find to be in violation of these Terms of Use or is otherwise objectionable. You are solely responsible for any information you post, transmit or otherwise make available on this website. You acknowledge and agree, tdoes not have any liability for any action or inaction with respect to any conduct, communication or posting on this website.
-By displaying, publishing and making available for download and use by others any content, messages, text, files, images, photos, video, sounds, profiles, works of authorship, or any other materials ("Content") you give a perpetual, irrevocable, worldwide, royalty-free, and non-exclusive license to reproduce, adapt, modify, translate, publish, publicly perform, publicly display and distribute any Content which you submit, post or display on or through the web site. You agree tthis license includes a right for to make such Content available to other companies, organizations or individuals with whom has relationships for the provision of services, and to use such Content in connection with the provision of those services. You understand tmay (a) transmit or distribute your Content over various public networks and in various media; and (b) make such changes to your Content as are necessary to conform and adapt tContent to the technical requirements of connecting networks, devices, services or media. You agree tthis license shall permit to take these actions. You confirm and warrant to tyou have all the rights, power and authority necessary to grant the above license. Global Avail
 controls this site from its Raleigh, North Carolina, offices; other sites may be administeand operated from various locations inside and outside the United States. If you use this website from other locations you are responsible for compliance with applicable local laws. makes no representation tthe products and services referenced herein are appropriate, or available, worldwide and in fact certain products and services may not be available worldwide.
 By using this website, you represent and warrant tyou are not located in, under the control of, or a national or resident of any country to which the United States has embargoed goods. You agree you will not export or re-export any goods or products unless you have complied with all applicable and foreign government export controls and approvals. makes no claim tcontent contained on this website is appropriate or may be downloaded outside the United States. If you access this website from outside the United States, you do so at your own risk and are responsible for compliance with the laws of your jurisdiction.
-Indemnification
-Any person or corporation submitting content to this website agrees to defend, indemnify and hold and its parent, subsidiaries, affiliates, officers, directors, shareholders, predecessors, successors in interest, employees, agents and licensors harmless from and against any and all claims, losses, liabilities and expenses (including attorneys' fees) related to or arising out of such submitted content, including without limitation claims made by third parties related to any false advertising claims, liability claims for products or services sold by the person or corporation submitting such content, claims for patent, copyright or trademark infringement, claims due to disruption or malfunction of services provided (pertaining to the submitted content), even if such content is reviewed by prior to publishing on the website.
-CONTENT, MATERIALS, INFORMATION, SOFTWARE, "IS" "AVAILABLE" REPRESENTATIONS, IMPLIED, WARRANTIES, IMPLIED, DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, DAMAGES, PROFITS, RESULT, INDIRECTLY, CONTENT, SYSTEMS, SOFTWARE, DATA, FAILURES, ERRORS, BUGS, THAT, (I) UNINTERRUPTED, TIMELY, SECURE, ERROR-FREE, (II) RELIABLE, (III) PRODUCTS, SERVICES, CONTENT, INFORMATION, EXPECTATIONS, (IV) CORRECTED, WEBSITE, CONTENT, (CONTENT) PARTY.
-THAT, (I) UNINTERRUPTED, TIMELY, SECURE, ERROR-FREE, (II) RELIABLE, (III) PRODUCTS, SERVICES, INFORMATION, EXPECTATIONS, (IV) CORRECTED, WEBSITE, CONTENT, COMPONENTS.
-LAW, DIRECT, INDIRECT, PUNITIVE, SPECIAL, INCIDENTAL,CONSEQUENTIAL, (INCLUDING, LIMITATION, BUSINESS, REVENUE, PROFITS, GOODWILL, USE, DATA, ORDERS, ADVANTAGE) WEBSITE, OF, FORESEEN, DAMAGES, ARISE, (NEGLIGENCE), (a) WEBSITE; (b) GOODS, DATA, ENTEINTO, WEBSITE; ( c) WEBSITE, DATA, BEHAVIOR, TRANSACTIONS, (d) DOWNLOAD, USE, DISTRIBUTE.
-DIRECT, DAMAGES, APPLY.
 This agreement and all claims relating to the relationship between the parties are governed by the Federal laws and the laws of the State of New York, without regard to choice of law provisions.
 If one or more of the provisions contained in this Agreement is held invalid, illegal or unenforceable in any respect by any court of competent jurisdiction, such holding will not impair the validity, legality, or enforceability of the remaining provisions.
 If one or more of the provisions contained in this Agreement is held invalid, illegal or unenforceable in any respect by any court of competent jurisdiction, such holding will not impair the validity, legality, or enforceability of the remaining provisions.
 Notice and procedure for making claims of copyright infringement
 To file a notice of infringement with us, please provide the following information to the Hat-designated copyright agent listed below:
-description of the copyrighted work or other intellectual property tyou claim has been infringed.
 description of the material tyou claim is infringing the copyrighted work listed in item #1.
 An address, telephone number, and an email address where the alleged infringing party can contact you.
 The following statement: "have a good faith belief tuse of the copyrighted materials described above as allegedly infringing is not authorized by the copyright owner, its agent, or the law."
-The following statement: "swear, under penalty of perjury, tthe information in the notification is accurate and tam the copyright owner or am authorized to act on behalf of the owner of an exclusive right tis allegedly infringed."
 To file a counter notification with us, please provide the following information to the Hat-designated copyright agent listed below:
 description of the material thas removed or to which has disabled access.
-Your name, address, telephone number, email address, and a statement tyou consent to the jurisdiction of the Federal District Court for the judicial district in which your address is located (or Wake County, North Carolina if your address is outside of the United States), and tyou will accept service of process from the person who provided notification of infringement or an agent of such person.
 The following statement: "swear, under penalty of perjury, thave a good faith belief tthe material identified above was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled."
 has registea designated agent with the Copyright Office pursuant to 17 512(c). Please send notifications of infringement and counter notifications to the designated agent at:
-Vice President, Intellectual Property
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.Search
 Your account gives you access to your member profile and preferences, and the following services based on your customer status:
-Connect for Business Partners
-Not registeyet? Here are a few reasons why you should be:
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
 Your account gives you access to your member profile, preferences, and other services depending on your customer status.
 For your security, if you're on a public computer and have finished using your services, please be sure to log out.
-サブスクリプションの購入について
-）について合意いただく必要がありますので、必ずご確認のうえご購入いただきますようお願いいたします。
-レッドハットエンタープライズ契約
-サブスクリプションのご購入に際して、レッドハットのカスタマーポータルログインIDが必要になります。
-「新規ログインIDの作成方法」
-サブスクリプションを更新される場合、前年度のコントラクト番号が必要になります。
-パートナーからご購入いただく場合
-サブスクリプションを更新されない場合の手続きについては、
-レッドハット・サブスクリプション・スターターキットについて
-サブスクリプション証書のダウンロード手順
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
-OpenShift Container Platform
- OpenStack Platform
-Buy online (Japan)
-Around the world
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
-Scope of This Privacy Statement
 Hat, Inc. and its affiliated companies and subsidiaries (collectively, “Hat”) respect your privacy. This Privacy Statement applies to personal data collected by through the redhat.com website, and other websites which we operate and on which we post a direct link to this Privacy Statement. For some websites managed by affiliates, the affiliate may act as a controller for data collected from the website. This Privacy Statement may not apply to open source project websites sponsoby Hat. Such project websites may have their own privacy statements, which we encourage you to review.
 Please also note tco-branded websites (websites where presents content together with one or more of our business partners) may be governed by additional or different privacy statements. Please refer to the privacy statement on those websites for more information about applicable privacy practices.
 Hat’s obligations with respect to personal data tmay be held on behalf of customers in connection with cloud services provides, such as personal data stoby customers using our OpenShift Online offering, are defined in our agreements with our customers and are not governed by this Privacy Statement.
 As used in this Privacy Statement, “personal data” means any information relating to an identified or identifiable natural person (‘data subject’). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of tnatural person.
-The Personal Data We Collect
 collects personal data directly from you when you interact with us through our websites, including, without limitation, when you:
-Make online purchases or register products;
-Request information or materials (e.g., whitepapers);
 Participate in surveys or evaluations;
 Participate in promotions, contests, or giveaways;
 To the extent permitted by applicable law, the types of personal data collected directly from you may include, without limitation:
-Information used to communicate with you, such as name, title, company name, email address, telephone number, postal address and language;
-Information tmaintains in association with your account, such as your username, password, payment information, purchase records, credit and billing status and support inquiries; and
 Information contained in your job inquiries or applications, such as resume, cover letter, age, education, professional history and contact details.
 We may also collect information relating to your use of our websites and response to our emails through the use of various technologies. Collecting information in this manner allows us to analyze the effectiveness of our websites and our marketing efforts, personalize your experience and improve our interactions with you. For more information about the technologies we employ for these purposes, see the “Cookies and Other Technologies” section below.
 We may also supplement the personal data we collect from you with additional personal data we receive from third parties, such as your employer, our customers, and our business partners where you purchase any of our products or services through such business partners. We do this to help us improve the overall accuracy of the information and its completeness and to help us better tailor our interactions with you.
-How We Use (Process) Your Personal Data
 uses personal data in an effort to enhance your experience on our websites.  In addition, we may use personal data we collect about you to:
 Identify and Authenticate You. We use your personal data to verify your identity when you access and use our Services and to ensure the security of your personal data. This includes your creation of an account tis associated with your personal data. The personal data tmay be collected and processed for this purpose includes: name, title, company name, email address, telephone number, postal address, language, username, and password. We process this information in order to comply with our contractual obligations to you.
 Fulfill Your Requests. If you request something from Hat, such as a product or service, a call back, a newsletter subscription, or specific marketing or other materials, we use the personal data you provide to respond to your request. We or our representatives may also contact you as part of customer satisfaction surveys or for market research purposes. Where requiby applicable law, we will obtain your consent before sending marketing messages. The personal data tmay be collected and processed for this purpose includes: name, title, company name, email address, telephone number, postal address, language, username, payment information, purchase records, credit and billing status, and support inquiries. We process this information in order to comply with our contractual obligations to you when responding to your requests. In other cases it is in our legitimate business interests to be able to provide customers and prospective customers with information, goods, or services they request.
@@ -485,18 +200,14 @@ Provide Support and Customer Service. We use your personal data to provide suppo
 Process Your Job Application. When you apply for a position at Hat, we use the personal data you provide for the purpose of assessing your application, considering you for future positions and carrying out human resources functions in accordance with applicable law.  will share the personal data you supply during the application process with internal human resources professionals as well as professionals in our business functions who are participating in the application and interview process. The personal data tmay be collected, shared, and/or processed for this purpose includes: name, title, company name, email address, telephone number, postal address, language, resume, cover letter, age, education, professional history and contact details. It is in our legitimate business interests to be able to review the qualifications of prospective employees and perform human resources functions with regard to our employees.
 We will not use your personal data in a manner tis inconsistent with the purpose of its original collection, unless you have consented.
 How We Disclose Your Personal Data
-will not sell, rent or lease your Personal Data to others without your consent.
 discloses Personal Data in the following ways:
 may disclose personal data to business partners and service providers in order to support our business operations, such as (but not limited to) fulfilling your orders, following up on requests, providing support and assisting with sales, marketing and communication initiatives. These business partners and service providers include distributors, resellers, payment processors, financial service providers and institutions, materials production and shipping companies, postal or government authorities, market intelligence and consulting service providers, and information technology service providers. Business partners and service providers are requiby contract to keep the information received on behalf of confidential and secure and not use it for any purpose other than the purpose for which it was provided to them.
 may disclose personal data as requiby law or legal process, such as responding to a duly authorized and lawful request of a police or public authority (including to meet national security or law enforcement requirements), to enforce or protect the rights of Hat, when such disclosure is necessary or appropriate to prevent physical harm or financial loss as permitted by applicable law, or in connection with an investigation of suspected or actual illegal activity.
 may also disclose personal data in the context of a business transaction involving part or all of Hat, such as a merger, acquisition, consolidation, or divestiture. Such a transaction may involve the disclosure of personal data to prospective or actual purchasers, or the receipt of it from sellers. It is Hat’s practice to seek appropriate protection for information in these types of transactions. Following such a business transaction, you may contact the entity to which we transferyour personal data with any inquiries concerning the use of tinformation.
-When you visit our websites we may automatically collect information such as your address, browser type and language, operating system, location, date and time. We may also use cookies to collect information as you navigate our websites. cookie is a small amount of data tis sent to your browser from a web server and stoon your device.
 uses some cookies tare strictly necessary for the delivery of services on our websites. Cookies tare strictly necessary allow us to improve the safety and security of our websites, authenticate account users, allow you to access your private accounts on our websites, allow you to sign into different portions of our websites with the use of only one login, balance the traffic on our websites, and remember items in your shopping cart. Cookies tare strictly necessary are not used for marketing purposes.
 also uses cookies to improve our service to you and personalize your web browsing experience, such as by gaining a better understanding of your interests and requirements regarding our websites, our business or our products and services. Cookies tuses to improve our services and your website experience may remember your language and site preferences, invite you to participate in surveys or evaluations, show you when you are logged into our system and allow you to remain logged-in for a period of time, help provide you with support services, remember your login information, and prepopulate forms tyou have already completed.
 also uses cookies tcollect information about how you use our websites, including which pages you visit, and whether you experience any errors. These cookies use aggregate information to provide statistics on how our websites are used, help us improve our websites by measuring errors, testing different designs on our websites, and helping us measure the traffic on our websites so twe can optimize our content accordingly. These cookies are used to help us improve how our websites work, understand winterests our users, and measure website quality and the effectiveness of our online advertising.
 In addition, we may use remarketing technology to advertise on other websites you may visit. In doing so, a third party may place or read a unique ad-serving cookie on your device and use technical information about your browser and your activity at a website to serve advertisements to you on non-websites.
-If you do not want your information to be stoby cookies, you can configure your browser so tit always rejects these cookies or asks you each time whether you want to accept them or not. However, you must understand tchoosing to reject cookies may reduce the performance and functionality of our websites. Your browser documentation includes instructions explaining how to enable, disable or delete cookies at the browser level (usually located within the “Help”, “Tools” or “Edit” facility). While websites at this time generally do not recognize automated browser signals regarding tracking mechanisms, such as “do not track” instructions, you can generally express your privacy preferences regarding the use of most cookies and similar technologies through your web browser.
-also uses web beacons alone or in conjunction with cookies to compile information about usage of our websites and interaction with emails from (e.g., open rates, click through rates). Web beacons are clear electronic images tcan recognize certain types of information on your device, such as cookies, when you viewed a particular website tied to the web beacon, and a description of a website tied to the web beacon. For example, may place web beacons in marketing emails tnotify when you click on a link in the email tdirects you to one of our websites. uses web beacons to operate and improve our websites and email communications.
 In accordance with the laws of certain countries, you may have certain rights and choices regarding the personal data we collect and maintain about you, and how we communicate with you.
 Where the General Data Protection Regulation 2016/679 (“GDPR”) applies to the processing of your personal data, especially when you access the website from a country in the European Economic Area (“EEA”), you have the following rights, subject to some limitations, against the respective Company responsible for the website you are using:
 The right to access your personal data;
@@ -511,32 +222,25 @@ Where the applies, you also have the right to withdraw any consent you have give
 Where the does not apply, grants you the ability to access, modify, or update some of your personal data online at any time. You may log in and make changes to your information, such as your password, your contact information, your general preferences, and your personalization settings. If necessary, you may also contact us via our Feedback Form and describe the changes you want made to the information you have previously provided. However, note tchanging or deleting information necessary for to assist with support, services, and purchases may result in a delay or interruption in processing your requests.
 You will be given an opportunity to tell us whether you would like to receive information, special offers, and promotional materials by email from or our business partners when you create a redhat.com account, when you register for a service, when you provide us with your personal data, or when we send you a marketing email. Where requiby applicable law, we will obtain adequate consent to provide you with these marketing materials. You also have the ability to opt out of receiving marketing emails from at any time without cost by clicking on the relevant link contained in our marketing emails or by contacting us via our Feedback Form. You can also exercise your rights and choices by contacting us as described below under “How to Contact Us.”
 intends to protect your personal data. We have implemented appropriate physical, administrative and technical safeguards to help us protect your personal data from unauthorized access, use and disclosure. For example, we encrypt certain personal data such as payment information when we transmit such information over the Internet. We also require tour business partners and service providers protect such information from unauthorized access, use and disclosure.
-Social Media, Public Forums and Links to Other Websites
 may provide social media features tenable you to share information with your social networks and interact with on various social media websites. Your use of these features may result in the collection or sharing of information about you, depending on the feature. We encourage you to review the privacy policies and settings on the social media websites with which you interact to make sure you understand the information tmay be collected, used, and shaby those websites.
 Our websites may make crooms, forums, blogs, message boards, and/or news groups available to its users. Remember tyour comments and posts become publicly available, and we urge you to exercise discretion when submitting such content.
 Our websites may contain links to other websites. does not control and is not responsible for the information collected by websites tcan be reached through links from our websites. If you have questions about the data collection procedures of linked websites, please contact the organizations toperate those websites directly.
 Hat’s products and services are not directed to children and does not knowingly collect online personal data from children under the age of 16. If you are a parent or guardian of a minor under the age of 16 and believe the or she has disclosed personal data to us, please contact us via our Feedback Form or as described below under “How to Contact Us.”
-Data Transfers and Privacy Shield Frameworks
 is a global organization, with legal entities, business processes, and technical systems toperate across borders. may transfer your personal data to other entities in the United States and elsewhere. The United States and other countries may not have the same data protection laws as the country from which you initially provided the information.
 Where requiby applicable law, we have put in place appropriate safeguards (such as standard contractual clauses approved by the European Commission) in accordance with applicable legal requirements to ensure tyour data is adequately protected. When transferring your personal data internationally, will protect your personal data as provided in this Privacy Statement. If you wish to obtain a copy of the relevant safeguards tare in place to protect the international transfer of your personal data, please contact us as described below under “How to Contact Us.”
 If you are located in the European Economic Area (“EEA”) or Switzerland, and its controlled United States subsidiaries have certified to the EU-and Swiss-Privacy Shield Frameworks for the transfer of personal data from the and Switzerland to the United States, as described in our Privacy Shield Privacy Notice. To learn more about the EU-and Swiss-Privacy Shield Frameworks and to view our certification, please visit www.privacyshield.gov.
 reserves the right to make corrections, changes or amendments to this Privacy Statement at any time. The revised Privacy Statement will be posted on this website. notice will be posted on our homepage for 30 days whenever this Privacy Statement is changed in a material way, and the date of last update will be indicated at the top of the Privacy Statement. If you do not refuse the changes in writing within tnotice period, this shall mean tyou have consented to the Privacy Statement as changed, including with respect to personal data provided to us prior to the changes in the Privacy Statement. We encourage you to periodically review this Privacy Statement for any changes or updates.
 If you are a resident of the European Economic Area and wish to raise a concern about our use of your personal data, you may direct questions or complaints to the Irish Data Protection Commissioner, which is Hat’s lead supervisory authority, at:
-Irish Data Protection Commissioner
-Canal House, Station Road, Portarlington, Co. Laois, R32 AP23, Ireland
 If you have any questions about Hat’s privacy practices or use of your personal data, please feel free to contact us at privacy@redhat.com, via our Feedback Form or by mail at:
-Phase 1st Floor
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.We use cookies on our websites to deliver our online services. Details about how we use cookies and how you may disable them are set out in our Privacy Statement . By using this website you agree to our use of cookies.
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
-Around the world
 links a global network of enterprises, partners, and open source communities tshare a common goal: solving today's business problems with innovative technology.
 Open technology is proven, flexible, and secure
 Wbegan as a better way to build software—openness, transparency, collaboration—soon shifted the balance of power in an entire industry. Today we are the world's most trusted provider of Linux® and open source technology.
 Explore what's important to our customers in:
 From the right foundation–an open foundation–your technology and culture can scale however you need. Expand your possibilities.
-Europe, Middle East, and Africa
 Freedom is open and hybrid
 Every decision you make today is connected to your future success. That's why we believe in an open approach to technology. It gives you choice, simplicity, and a vision for the future of your IT.
 Explore what's important to our customers in:
@@ -544,7 +248,6 @@ From the right foundation–an open foundation–your technology and culture can
 The future has never been so open
 As the connective hub in a global network of enterprises, partners, and open source communities, helps create relevant, innovative technologies tliberate resources for growth and prepare customers for the future of IT.
 Explore what's important to our customers in:
-Victor Vargas, CIO, Ampersand
 From the right foundation–an open foundation–your technology and culture can scale however you need. Expand your possibilities.
 Freedom and choice are the future of technology
 North America is home to Hat's headquarters, more than 20 offices, and Summit. If there's 1 thing this continent is known for, it's diversity—from cultures to styles to ideas. No wonder it's a hotbed of open source innovation.
@@ -552,8 +255,6 @@ Explore what's important to our customers in:
 From the right foundation–an open foundation–your technology and culture can scale however you need. Expand your possibilities.
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.Search
 Your account gives you access to your member profile and preferences, and the following services based on your customer status:
-Connect for Business Partners
-Not registeyet? Here are a few reasons why you should be:
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
@@ -561,135 +262,14 @@ Your account gives you access to your member profile, preferences, and other ser
 For your security, if you're on a public computer and have finished using your services, please be sure to log out.
 Where in the world is Hat?
 With 95+ offices in 35 countries, we're easy to find. 
-Europe, Middle East, Africa
-Level 29, 221 St. Georges Terrace
-Beijing - Raycom
-9 & 10 floor, Raycom Infotech Park, North Tower C
-Beijing - Park View Green
-Road, Chaoyang District, Beijing
-No. 3088 Jin Tian Road, Futian District, Shenzhen
-Harbour City, Kowloon
-10th Floor, East Tower, Carina building, Bagmane Constellation
-Business Park, Doddanekundi Circle, Puram -Marathahalli Outer Ring
-Bangalore Sales Office
- Bangalore -560001
-5th Floor, West Wing
-World Mark -1
-Salt Lake Electronics Complex
-Block - GP, Sector V
-Supreme Business Park, Supreme City
-A-201, 2nd Floor, Hiranandani Gardens, Powai Mumbai 400076
-Tower X, Cybercity, Magarpatta
-Hadapsar Level 0-1
-28/F, #2843, Bank Tower, Ciputra World One
 Jl. Prof. Dr. Satrio Kav 3-5, Jakarta 12940
-Shin Osaka Hankyu Building 3F
-Aqua Hakata 5F, #130 & #131
-Mid Valley City
-Lingkaran Syed Putra
-Level 6 Zip-6011
-8 Shenton Way
-Open Innovation Labs
-8 Shenton Way
-999 Gaysorn Building, 5th Floor
-Open Innovation Labs
-London, EC38NB
-Amsterdam Zuidoost
-Weesperkarspel
-Am Treptower Park 75
-Purkyňova 71/99, 3080/97b, & 647/111
-MC-Square Business Centre
-Leonardo da Vincilaan 19
-Phase 1st Floor
-The Regus Building
-The Sweepstakes
-4th floor,
-+44 20 7009 4445
-Zemlyanoy Val, 9
-Werner-von-Siemens-Ring 14
-Place Numa-Droz 2
-Neuchâtel 2001
-7th floor, The Core
-Science Central, Bath Lane
-Newcastle Upon Tyne
-1st Floor
-Buidling A, 4th floor
-Codenvy
-Millennium Tower, 24th floor,
-Sheraton Plaza Prusa 2
-Palladium Tower Küçükbakkalköy Mahallesi Halk Caddesi
-34 Sderot Yerushalayim
 Aban Center, King Abdul Aziz St.
-Al Ghadir district, Riyadh KSA.
-Fourways Business Park 
-Fourways
-​Ingeniero Butty 240, 14°piso
-Edifício Palácio da Agricultura SB
-Regus Fortaleza
-Ed. Etevaldo Nogueira
-Fortaleza - CE, 60160-230
-Botafogo
-Las Condes, Santiago, Chile
-Edificio Tierra Firme
-Cuauhtémoc
-Batallon de San Patricio 109
-San Pedro Garza Garcia
-via Ppal. 140
+17o andar Cep. 70040-908
 San Isidro, Lima, 27
-127 St-Pierre St.
-United States
-United States
-Executive Briefing Center
-300 Street, 4th floor
-United States
-Open Innovation Labs
-300 Street, 4th floor
-United States
-United States
-United States
-300 Street, 4th floor
-United States
-United States
-4000 Faber Place Drive
-United States
-United States
-101 Wacker Dr., Ste. 150
-United States
-CoreSan Francisco
-101 New Montgomery
-San Francisco, 94105
-United States
-821 Broadway, 6th floor
-United States
-7250 Dallas Parkway Suite 850
-Plano, 75024
-United States
-United States
-United States
-4900 Corporate Dr., Ste. L
-United States
-United States
-Mahwah, 07495
-United States
-United States
-United States
-United States
-Two City Place Drive, Suite 200
-United States
-150 Mathilda Place
-United States
-United States
-314 Littleton Road
-United States
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
-OpenShift Container Platform
- OpenStack Platform
-Buy online (Japan)
-Around the world
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
-Our development model
 How the best ideas become enterprise‑ready
 Innovation doesn't happen by chance. It's the outcome of a proven process. The                     Hat® development                     model begins in the open source community, with thousands of contributors, and results in finished                     products tare tried, tested, and trusted.
 We build open source solutions for the enterprise
@@ -698,97 +278,65 @@ We’re involved in many open source communities, building and refining the tech
 closer look at the development of Ansible Engine
 Ansible is the upstream community of the product teventually becomes Ansible Engine —agentless enterprise—grade automation software. The community was founded in                         2012 and made                         the 2017 GitHub Octoverse report in the categories                         of most reviewed, most discussed, and most                         contributors.
 Every day, community members work on new modules, update existing modules, and contribute to the                         basic and core code tmake modules possible. The turnaround time on Ansible Engine is fast,                         with a new release every 1—3 months. Thanks to the dedication of the upstream community,                         and                         Hat’s enterprise—level experience, Ansible Engine has become a powerful way for customers                         to                         build and write playbooks.
+More eyes. More secure.
 The community—to—enterprise development model often results in more                                     secure software                                     compato proprietary software for 3 core reasons. First: When everyone can see                                     the code, more threats can be discovered. Next: Issues tarise get patched                                     quickly because the source code is accessible. Finally: takes responsibility                                     for testing, hardening, and supporting open source software, so every customer                                     shares the same level of assurance.
-Obvious—and less obvious—savings
 Open source software doesn’t require a licensing fee—which results in a clear                                     advantage when examining the cost to deploy a solution. However, massive development savings are also represented in a community—based distribution. One estimate                                     shows                                     twhen you account for inflation at the time, it would cost approximately US$10.8                                     billion to build the Fedora 9 distribution from scratch.(*) The                                     contributors who                                     work on Linux® projects share this development burden over time.
-Patents for defensive purposes only
 Open source communities are free to innovate without the barriers of patents. We                                     believe tsoftware patents impede innovation in software development and                                     discourage open source innovation. For this reason, we issued our first patent                                     promise in 2002 to discourage patent aggression—and in 2017, we expanded this                                     promise.
-Christophe Defayet, Director of Software                                     Development, Security, and Communication Systems, Amadeus
-Your code is here to stay
 With proprietary solutions, there's always a risk tthe company could discontinue                                     the code. With open source software, however, there's no risk of discontinuation.                                     Even if the vendor stops distributing a certain product, the code will                                     remain available for use and improvement.
-Sources: [*] McPherson, Amanda. Proffitt, Brian. Hale-Evans, Ron. “Estimating                             the Total Cost of a Linux Distribution.” The Linux Foundation. Linux.com. October 2008. https://www.linux.com/publications/estimating-total-cost-linux-distribution
 Linux is the registetrademark of Linus Torvalds in the and other countries.
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.Search
 Your account gives you access to your member profile and preferences, and the following services based on your customer status:
-Connect for Business Partners
-Not registeyet? Here are a few reasons why you should be:
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
 Your account gives you access to your member profile, preferences, and other services depending on your customer status.
 For your security, if you're on a public computer and have finished using your services, please be sure to log out.
-Trademark guidelines and policies
-Patent promise
-Supplier information and requirements
-supplier code of conduct
-Export control product matrix
-Open source assurance
-Open source assurance FAQ
-Open source assurance agreement
-subscription model FAQ
-end user license agreements
-Third party program EULAs
-Tax Strategy.
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
-OpenShift Container Platform
- OpenStack Platform
-Buy online (Japan)
-Around the world
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
-The best way to manage your infrastructure
 Hat® Satellite is an infrastructure management product specifically designed to keep Enterprise Linux® environments and other infrastructure running efficiently, with security, and compliant with various standards.
-Simplify infrastructure management
-Satellite can manage your entire infrastructure—not just Enterprise Linux systems—from a single console.
-Implement your standard operating environment (SOE)
-Improve system consistency, reduce errors, and meet compliance standards.
 Meet the demand for managing thousands of distributed systems across multiple datacenters.
-Lower costs and more efficiency
 More efficiently manage your Linux systems while lowering per-system deployment and management costs.
 Save time and free up resources
 Focus on higher-value activities and respond more quickly to business needs.
 Enterprise Linux 8 provides a consistent foundation for enterprise hybrid cloud, delivering any application on any footprint at any time. The public beta is now open.
 Our subscriptions come with award-winning support; the industry's largest ecosystem of partners, customers, and experts; hardware certifications; and a connection to open source communities where we source the best features and harden them for our enterprise products.
 Need more support? You can also rely on our Technical Account Managers to help you solve your challenges.
-Training & certification
 Learn how to create new cloud-native apps and make existing ones cloud-enabled using microservices, containerization, and DevOps.
 Need more? Test and certify your products on our portfolio or go to market with solutions.
-Find out how our technical experts can help you manage infrastructure efficiently and securely by getting the most out of Satellite.
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.We use cookies on our websites to deliver our online services. Details about how we use cookies and how you may disable them are set out in our Privacy Statement . By using this website you agree to our use of cookies.
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
 We revolutionized the operating system with Hat® Enterprise Linux® . Now, we have a broad portfolio , including hybrid cloud infrastructure, middleware, agile integration, cloud-native application development, and management and automation solutions. With technologies, companies can successfully adapt as business becomes more digital and interconnected.
 We are Hat. We've been here for more than 25 years, and we're here to help you face your business challenges head-on.
-trusted leader in innovation
 initially saw success with a custom distribution of Linux, then called "Linux." The reliability and growth of and Linux have made the 2 synonymous to many. Since those early days, we've built on this foundation to support nearly all levels of the stack and support Linux across the hybrid cloud.
 is the second-largest contributor to the upstream Kubernetes project and the originator of many of its key features, components, and related container technologies. We have years of experience running Kubernetes in the cloud and supporting organizations using containers in production. Today, we're working with the cloud-native community to push the boundaries of wcontainers and Kubernetes can do, from serverless computing to machine learning.
 Hat's dedication to, support of, and decades of involvement in open source communities lets us contribute useful technology, refine and harden it, and prepare it for the enterprise. This engagement comes with a promise : Keep these technologies open so everyone can help create, promote, and maintain better open source software and discourage patent aggression.
 We believe in the power of open hybrid cloud. Standalone cloud deployments based on proprietary technology aren't the answer because they inhibit clouds from interacting with one another. Open hybrid cloud brings the interoperability, workload portability, and flexibility of open source to hybrid environments, bridging them together and creating a unified experience.
-An open source development model
 Hat's development model begins in open source communities and results in stable, enterprise-ready solutions.
 Freedom and choice with subscriptions
 If you're looking for a traditional licensing model and the resulting added costs and vendor lock-in, you're in the wrong place. Our subscription model gives customers access to the latest technology, enterprise-grade assurance, and open source expertise from our leading engineers.
 In other words, subscriptions give you the freedom to move your business forward with less worry and more room for innovation.
 Only as strong as our people
 Hatters are passionate, curious, and accomplished. We come from different professional backgrounds and hone our skills to create reliable products and experiences for our customers. We're all over the globe but united in the belief tworking in an open way has the power to change the world for the better.
-Our leadership
 The most respected and influential people at are those who show passion for our mission and live it every day. leader at does not rely on their title to earn respect.
 Jim Whitehurst, President and chief executive officer, From the leaders in open source, for the leaders in IT
 Our open source solutions run through the stacks of the world's most demanding datacenters and clouds.
 of healthcare companies in the Fortune Global 5004
 customers benefit from open source innovation
 Our customers deliver innovations taffect their lines of business, organizations, industries, and the global community every day. By using open source technologies to create change, these organizations are proof twhen we work in the open, extraordinary things can happen.
+[1] [2] [3]client data and Fortune Global 500 list, June 2017
 [4]client data, June 2017
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.Open Source Communities Collaborate & Innovate
+We use cookies on our websites to deliver our online services. Details about how we use cookies and how you may disable them are set out in our Privacy Statement . By using this website you agree to our use of cookies.
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
 When the best ideas win, you can't lose
 Every solution starts with sharing a problem. Technology thrives in the open, where people are free to share their ideas and build on the work of others.
 Creation is always an act of collaboration.
-The open source way
 At Hat, when we talk about " open source ," we're talking about a proven way of collaborating to create technology. The freedom to see the code, to learn from it, to ask questions and offer improvements: This is the open source way.
 When the best ideas win, customers can't lose.
 From the right foundation–an open foundation–your technology and culture can scale however you need. Expand your possibilities.
@@ -797,56 +345,44 @@ See how Open Innovation Labs brought multiple teams together to apply technology
 Human problems. Open solutions.
 Imagine whappens when someone creates something and, rather than keeping it to themselves, says to the world: “Take this. Build on it. Make it better.”
 lot of incredible things take place. People come together. Ideas get stronger. Progress happens faster. And then there’s all the drama, humor, frustration, accomplishment, and joy thappen along the way.
-That’s wOpen Source Stories is all about.
 Open source communities can innovate far more effectively than traditional R&labs. So we bring customers, partners, and developers into communities of purpose to solve shaproblems together.
 also contributes a lot of code. We pay our engineers and developers to work in open technology communities on behalf of our customers, contributing work to the project like everyone else.
 When useful open source technology emerges, we test it, harden it, and make it secure and reliable. Then we gather, package, and support it as enterprise products.
+More eyes. More secure.
 While it might seem counterintuitive, open source software is often more secure than proprietary software. In fact, debugging and securing software is part of the essence and common purpose of software communities.
-Vice President of Product Management, Technologies
+More eyes. Fewer bugs. Sunlight really is the best disinfectant.
 There’s a community behind every open source technology
 contributes to communities tare changing the landscape of technology—from the operating system and developer toolchain to middleware, the desktop, and the cloud. See the full list of communities we support.
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.We use cookies on our websites to deliver our online services. Details about how we use cookies and how you may disable them are set out in our Privacy Statement . By using this website you agree to our use of cookies.
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
-Deploy apps. Manage systems. Crush complexity.
 In a complex environment, even the smallest tasks can take forever. Sprawling systems are hard to develop, deploy, and maintain. Business demands only increase complexity, and teams struggle with management, availability, and cost.
 Ansible is simple, agentless automation technology tcan improve your current processes, migrate applications for better optimization, and provide a single language for DevOps practices across your organization.
-Automation across IT
 The more your stacks grow and evolve, the more complexities and manual processes they create. But with Hat® Ansible® Automation, repetitive tasks are automated using a simple, human-readable language tanyone in your organization can understand.
-Tackle complex challenges
 Ansible Tower helps teams manage complex multitier deployments by adding control, knowledge, and delegation to Ansible-poweenvironments ensuring consistency and compliance across the enterprise.
 Ansible is an extremely powerful automation language ttalks to the systems, applications, and tools you’re already using and reduces the complexity of existing environments and processes.
 Ansible is agentless, so there’s no software to install on the things you’re automating. This makes it easy to get started and helps teams collaborate—whether their focus is networking, development, infrastructure, applications, or security.
-The power of community
 Ansible is the most popular automation tool in GitHub. With thousands of contributors, hundreds of modules, and many thousands of community-provided automation roles in Ansible Galaxy, you can not only learn and begin to use Ansible quickly, but benefit from community-contributed roles twill help you automate even faster. And best of all, you can trust tAnsible is backed by Hat, the world’s leader in open source.
 Automate to optimize. Consulting leads the way.
 Provision and configure your systems, deploy your applications to OpenShift, or manage your OpenStack® cloud seamlessly with Ansible Automation.
 Ansible-powecommercial offerings tprovide enterprise-ready solutions to automate your entire application and environment life cycle — from servers to clouds to containers and everything in between.
-Ansible Engine
 Support offering for the the Ansible project tincludes the Ansible execution engine, as well as hundreds of modules tenable users to automate all aspects of environments and processes.
 Product and support offering thelps teams manage complex multitier deployments by adding control, knowledge, and delegation to Ansible-poweenvironments.
 Built for Ansible Tower integration
 Enhanced knowledge via integration with other products
-Role-based access control
 Operations, distributed teams, teams of teams
 Ansible Tower is the best way to run Ansible in your company. Your teams can automate by centralizing and controlling Ansible infrastructure with a user interface, role-based access controls, job scheduling, and graphical inventory management. And Ansible Tower’s application programming interface (API) and command-line interface (CLI) make it easy to embed into existing tools and processes.
-Automation for everyone
 Ansible Tower enables entire organizations to consume and access automation regardless of their skills or ability.
 And Ansible Tower is available in 3 editions—Basic, Enterprise, and Premium—so you can get the right one for your organization.
-Ansible Tower dashboard
 See everything going on in your environment from the moment you log in.
 Get recent job activity, the number of active hosts, and alerts about hosts with problems. And you can adjust your settings to see specific jobs or timeframes.
-Simple, self-service IT
 Set up variables and access control to give users the ability to start playbooks based on their role.
 Simplified portal mode and survey features let admins delegate automation job runs to users across the business. can create their own test environments and customer services can start up a demo.
 Role-based access control.
 Learn how the Ansible Engine works and learn about each of its key components.
-Getting started with Ansible
 Learn about Ansible technology and wit can do. This video demonstrates the basics of using Ansible and Ansible language, as well as information about Ansible Tower and our content hub, Ansible Galaxy.
-Forrester study: The Total Economic Impact Of Ansible Tower
 See the 3-year financial impact of Ansible Tower for an organization, including operational efficiency savings, infrastructure appliance savings, and reconfiguration and update savings.
-Introduction to Ansible Playbooks
 Learn key playbook concepts and build upon the ad-hoc demonstration by creating a basic playbook.
 Continuous integration and continuous delivery (CI/CD) requires automation, orchestration, and tooling. Ansible is an easy way to get there.
 Everything you need to get Ansible up and running. Try it out and see wyou can do, faster.
@@ -855,44 +391,32 @@ We’re the world’s leading provider of enterprise open source solutions, usin
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
-Deploy apps. Manage systems. Crush complexity.
 In a complex environment, even the smallest tasks can take forever. Sprawling systems are hard to develop, deploy, and maintain. Business demands only increase complexity, and teams struggle with management, availability, and cost.
 Ansible is simple, agentless automation technology tcan improve your current processes, migrate applications for better optimization, and provide a single language for DevOps practices across your organization.
-Automation across IT
 The more your stacks grow and evolve, the more complexities and manual processes they create. But with Hat® Ansible® Automation, repetitive tasks are automated using a simple, human-readable language tanyone in your organization can understand.
-Tackle complex challenges
 Ansible Tower helps teams manage complex multitier deployments by adding control, knowledge, and delegation to Ansible-poweenvironments ensuring consistency and compliance across the enterprise.
 Ansible is an extremely powerful automation language ttalks to the systems, applications, and tools you’re already using and reduces the complexity of existing environments and processes.
 Ansible is agentless, so there’s no software to install on the things you’re automating. This makes it easy to get started and helps teams collaborate—whether their focus is networking, development, infrastructure, applications, or security.
-The power of community
 Ansible is the most popular automation tool in GitHub. With thousands of contributors, hundreds of modules, and many thousands of community-provided automation roles in Ansible Galaxy, you can not only learn and begin to use Ansible quickly, but benefit from community-contributed roles twill help you automate even faster. And best of all, you can trust tAnsible is backed by Hat, the world’s leader in open source.
 Automate to optimize. Consulting leads the way.
 Provision and configure your systems, deploy your applications to OpenShift, or manage your OpenStack® cloud seamlessly with Ansible Automation.
 Ansible-powecommercial offerings tprovide enterprise-ready solutions to automate your entire application and environment life cycle — from servers to clouds to containers and everything in between.
-Ansible Engine
 Support offering for the the Ansible project tincludes the Ansible execution engine, as well as hundreds of modules tenable users to automate all aspects of environments and processes.
 Product and support offering thelps teams manage complex multitier deployments by adding control, knowledge, and delegation to Ansible-poweenvironments.
 Built for Ansible Tower integration
 Enhanced knowledge via integration with other products
-Role-based access control
 Operations, distributed teams, teams of teams
 Ansible Tower is the best way to run Ansible in your company. Your teams can automate by centralizing and controlling Ansible infrastructure with a user interface, role-based access controls, job scheduling, and graphical inventory management. And Ansible Tower’s application programming interface (API) and command-line interface (CLI) make it easy to embed into existing tools and processes.
-Automation for everyone
 Ansible Tower enables entire organizations to consume and access automation regardless of their skills or ability.
 And Ansible Tower is available in 3 editions—Basic, Enterprise, and Premium—so you can get the right one for your organization.
-Ansible Tower dashboard
 See everything going on in your environment from the moment you log in.
 Get recent job activity, the number of active hosts, and alerts about hosts with problems. And you can adjust your settings to see specific jobs or timeframes.
-Simple, self-service IT
 Set up variables and access control to give users the ability to start playbooks based on their role.
 Simplified portal mode and survey features let admins delegate automation job runs to users across the business. can create their own test environments and customer services can start up a demo.
 Role-based access control.
 Learn how the Ansible Engine works and learn about each of its key components.
-Getting started with Ansible
 Learn about Ansible technology and wit can do. This video demonstrates the basics of using Ansible and Ansible language, as well as information about Ansible Tower and our content hub, Ansible Galaxy.
-Forrester study: The Total Economic Impact Of Ansible Tower
 See the 3-year financial impact of Ansible Tower for an organization, including operational efficiency savings, infrastructure appliance savings, and reconfiguration and update savings.
-Introduction to Ansible Playbooks
 Learn key playbook concepts and build upon the ad-hoc demonstration by creating a basic playbook.
 Continuous integration and continuous delivery (CI/CD) requires automation, orchestration, and tooling. Ansible is an easy way to get there.
 Everything you need to get Ansible up and running. Try it out and see wyou can do, faster.
@@ -902,15 +426,12 @@ Browse Knowledgebase articles, manage support cases and subscriptions, download 
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
 Proactively identify and remediate threats to security, performance, availability, and stability with Hat® Insights—with predictive analytics, avoid problems and unplanned downtime in your environment.
-Automated, real time remediation
 Using real-time views into hybrid environments, ops teams don’t need error reports—you are informed about potential issues and provided with remediation steps to fix them before they become problems. Insights can also automate remediation of issues using Ansible Playbooks
-Less human error. Rapid time to value.
 Take advantage of software-as-a-service (SaaS) to deploy and scale quickly with no additional infrastructure requirements. Teams can immediately begin to decrease security vulnerabilities and avoid unplanned downtime.
 Better, faster, and stronger through experience
 is a leader in open source with access to thousands of cases and verified solutions in our Knowledgebase . We help you mitigate risk using your own experiences, plus comparing across industries and history.
 Our subscriptions come with award-winning support; the industry's largest ecosystem of partners, customers, and experts; hardware certifications; and a connection to open source communities where we source the best features and harden them for our enterprise products.
 Need more support? You can also rely on our Technical Account Managers to help you solve your challenges.
-Training & certification
 Our technical experts can help you explore all the ways Insights can boost security, performance, and stability—while avoiding downtime.
 Connect is a partner community where we work together to build ideal customer solutions and support the services you provide with our products. So let’s do something great— together.
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.We use cookies on our websites to deliver our online services. Details about how we use cookies and how you may disable them are set out in our Privacy Statement . By using this website you agree to our use of cookies.
@@ -918,15 +439,12 @@ Browse Knowledgebase articles, manage support cases and subscriptions, download 
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
 Proactively identify and remediate threats to security, performance, availability, and stability with Hat® Insights—with predictive analytics, avoid problems and unplanned downtime in your environment.
-Automated, real time remediation
 Using real-time views into hybrid environments, ops teams don’t need error reports—you are informed about potential issues and provided with remediation steps to fix them before they become problems. Insights can also automate remediation of issues using Ansible Playbooks
-Less human error. Rapid time to value.
 Take advantage of software-as-a-service (SaaS) to deploy and scale quickly with no additional infrastructure requirements. Teams can immediately begin to decrease security vulnerabilities and avoid unplanned downtime.
 Better, faster, and stronger through experience
 is a leader in open source with access to thousands of cases and verified solutions in our Knowledgebase . We help you mitigate risk using your own experiences, plus comparing across industries and history.
 Our subscriptions come with award-winning support; the industry's largest ecosystem of partners, customers, and experts; hardware certifications; and a connection to open source communities where we source the best features and harden them for our enterprise products.
 Need more support? You can also rely on our Technical Account Managers to help you solve your challenges.
-Training & certification
 Our technical experts can help you explore all the ways Insights can boost security, performance, and stability—while avoiding downtime.
 Connect is a partner community where we work together to build ideal customer solutions and support the services you provide with our products. So let’s do something great— together.
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.We use cookies on our websites to deliver our online services. Details about how we use cookies and how you may disable them are set out in our Privacy Statement . By using this website you agree to our use of cookies.
@@ -934,65 +452,44 @@ Browse Knowledgebase articles, manage support cases and subscriptions, download 
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
 Proactively identify and remediate threats to security, performance, availability, and stability with Hat® Insights—with predictive analytics, avoid problems and unplanned downtime in your environment.
-Automated, real time remediation
 Using real-time views into hybrid environments, ops teams don’t need error reports—you are informed about potential issues and provided with remediation steps to fix them before they become problems. Insights can also automate remediation of issues using Ansible Playbooks
-Less human error. Rapid time to value.
 Take advantage of software-as-a-service (SaaS) to deploy and scale quickly with no additional infrastructure requirements. Teams can immediately begin to decrease security vulnerabilities and avoid unplanned downtime.
 Better, faster, and stronger through experience
 is a leader in open source with access to thousands of cases and verified solutions in our Knowledgebase . We help you mitigate risk using your own experiences, plus comparing across industries and history.
 Our subscriptions come with award-winning support; the industry's largest ecosystem of partners, customers, and experts; hardware certifications; and a connection to open source communities where we source the best features and harden them for our enterprise products.
 Need more support? You can also rely on our Technical Account Managers to help you solve your challenges.
-Training & certification
 Our technical experts can help you explore all the ways Insights can boost security, performance, and stability—while avoiding downtime.
 Connect is a partner community where we work together to build ideal customer solutions and support the services you provide with our products. So let’s do something great— together.
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.We use cookies on our websites to deliver our online services. Details about how we use cookies and how you may disable them are set out in our Privacy Statement . By using this website you agree to our use of cookies.
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
-The best way to manage your infrastructure
 Hat® Satellite is an infrastructure management product specifically designed to keep Enterprise Linux® environments and other infrastructure running efficiently, with security, and compliant with various standards.
-Simplify infrastructure management
-Satellite can manage your entire infrastructure—not just Enterprise Linux systems—from a single console.
-Implement your standard operating environment (SOE)
-Improve system consistency, reduce errors, and meet compliance standards.
 Meet the demand for managing thousands of distributed systems across multiple datacenters.
-Lower costs and more efficiency
 More efficiently manage your Linux systems while lowering per-system deployment and management costs.
 Save time and free up resources
 Focus on higher-value activities and respond more quickly to business needs.
 Enterprise Linux 8 provides a consistent foundation for enterprise hybrid cloud, delivering any application on any footprint at any time. The public beta is now open.
 Our subscriptions come with award-winning support; the industry's largest ecosystem of partners, customers, and experts; hardware certifications; and a connection to open source communities where we source the best features and harden them for our enterprise products.
 Need more support? You can also rely on our Technical Account Managers to help you solve your challenges.
-Training & certification
 Learn how to create new cloud-native apps and make existing ones cloud-enabled using microservices, containerization, and DevOps.
 Need more? Test and certify your products on our portfolio or go to market with solutions.
-Find out how our technical experts can help you manage infrastructure efficiently and securely by getting the most out of Satellite.
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.We use cookies on our websites to deliver our online services. Details about how we use cookies and how you may disable them are set out in our Privacy Statement . By using this website you agree to our use of cookies.
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
-The best way to manage your infrastructure
 Hat® Satellite is an infrastructure management product specifically designed to keep Enterprise Linux® environments and other infrastructure running efficiently, with security, and compliant with various standards.
-Simplify infrastructure management
-Satellite can manage your entire infrastructure—not just Enterprise Linux systems—from a single console.
-Implement your standard operating environment (SOE)
-Improve system consistency, reduce errors, and meet compliance standards.
 Meet the demand for managing thousands of distributed systems across multiple datacenters.
-Lower costs and more efficiency
 More efficiently manage your Linux systems while lowering per-system deployment and management costs.
 Save time and free up resources
 Focus on higher-value activities and respond more quickly to business needs.
 Enterprise Linux 8 provides a consistent foundation for enterprise hybrid cloud, delivering any application on any footprint at any time. The public beta is now open.
 Our subscriptions come with award-winning support; the industry's largest ecosystem of partners, customers, and experts; hardware certifications; and a connection to open source communities where we source the best features and harden them for our enterprise products.
 Need more support? You can also rely on our Technical Account Managers to help you solve your challenges.
-Training & certification
 Learn how to create new cloud-native apps and make existing ones cloud-enabled using microservices, containerization, and DevOps.
 Need more? Test and certify your products on our portfolio or go to market with solutions.
-Find out how our technical experts can help you manage infrastructure efficiently and securely by getting the most out of Satellite.
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.Search
 Your account gives you access to your member profile and preferences, and the following services based on your customer status:
-Connect for Business Partners
-Not registeyet? Here are a few reasons why you should be:
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
@@ -1000,82 +497,44 @@ Your account gives you access to your member profile, preferences, and other ser
 For your security, if you're on a public computer and have finished using your services, please be sure to log out.
 management tool for virtual and private cloud infrastructure
  is an infrastructure management platform tallows departments to control users’ self-service abilities to provision, manage, and ensure compliance across virtual machines and private clouds.
-Through our partners
-Choose your environments
-Provision and manage across physical, 
-private cloud
-Visualize what’s happening
 Discover, monitor, and track all private cloud and virtual resources—and their relationships—so you know what's going on, where.
-Automate the standard stuff
  playbooks to automate provisioning processes and management policies.
-Control your compliance
 Apply corporate governance policies across environments and customize automated remediation processes.
-Use self-service capabilities
 Delegate provisioning, reconfiguration, and retirement to end users through a web-based self-service catalog.
-Provision, reconfigure, and retire guest and host instances.
-Is your cloud strategy limited by your infrastructure?
 Some virtual infrastructures restrict your software choices by binding you to increasingly expensive enterprise-license agreements. Migrating to open source virtualization could open your path to the cloud.
-Run the numbers
 Modernize and innovate across hybrid cloud environments 
 Apex partners help organizations accelerate app dev and delivery; integrate apps, data, and devices; and automate business processes 
-earns “positive” rating from Gartner
 In its 2018 Vendor Rating report, Gartner notes Hat’s ability to meet customer’s modernization needs with flexible and agile open source solutions
-Platform management options
 Management for virtual and private cloud infrastructure
 The majority of enterprises can't afford to dedicate 100% of their business to a single environment. Today's infrastructure is spread out across physical hardware, heterogeneous virtual environments, and private clouds—and tcan be hard to manage. CloudForms makes management easy. It works in all those environments across your platforms and integrates with many of the providers you already use.
 CloudForms for virtual platforms
 Virtualization's widespread applicability has helped reduce vendor lock-in, allowing companies to update their environments with less-expensive commodity servers, operating systems, and applications from a variety of vendors. CloudForms can help organizations continue to avoid vendor lock-in by migrating virtual machines (VMs) to lower cost virtual infrastructure platforms and operating them across multiple hypervisors—such as 
-Kernel-based Virtual Machine
 Using CloudForms to manage virtual platforms, you can:
 Implement self-service ordering with complete life-cycle management.
 See and control security, performance, and capacity for all VMs.
 Maintain compliance with corporate, industry, and government requirements.
-Managing VMware virtual environments
 Managing Virtualization environments
 Wis virtualization management?
-CloudForms for private clouds
 CloudForms brings the interoperability, workload portability, and flexibility of open source to private cloud environments. It’s engineeto work with 
-OpenStack
  and includes management and automation capabilities taren’t available in the OpenStack project. Additionally, CloudForms can help you operate your private cloud more safely by implementing governance and enforcing compliance.
 Using CloudForms to manage Private clouds, you can:
-Manage, approve, automatically provision, customize, secure, and retire cloud instances.
-Track private cloud operations, such as performance, capacity, use, and compliance.
-Track private cloud resource life cycles and use.
 Bring existing deployments under management without changing the process.
 Cloud management for OpenStack with CloudForms
 Building a private cloud with Virtualization and CloudForms
-Wis cloud management?
-CloudForms for physical infrastructure
 For all the applicability and scalability Stuff-as-a-Service provides, it hasn't replaced the need for physical servers. CloudForms is compatible with Lenovo XClarity—an integration tgives system administrators valuable insight into on-premise capacity and its impact on other resources within your hybrid infrastructure.
-Using CloudForms to manage physical infrastructure, you can:
 Discover and manage physical compute infrastructure alongside virtual and multicloud resources in a single display.
-The Business Value of CloudForms
-Wis cloud management?
-The business value of CloudForms
 Rely on Our subscriptions come with award-winning 
-largest ecosystem
  of partners, customers, and experts; hardware certifications; and a connection to 
  communities where we source the best features and harden them for our enterprise products.
 Need more support? You can also rely on our 
-Technical Account Managers
- to help you solve your challenges.
 More ways to improve your experience
-Training & certification
 CloudForms Hybrid Cloud Management with exam (CL221)
 Certified Specialist in Hybrid Cloud Management exam (EX220)
 Integrating CloudForms and Ansible Automation
 Need more? The biggest names in cloud computing partner with Hat.
 Get access to technical experts and support services to help you successfully build, deploy, and manage your cloud.
-Join free
-Ready to start managing more effectively?
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
-OpenShift Container Platform
- OpenStack Platform
-Buy online (Japan)
-Around the world
 Your account gives you access to your member profile and preferences, and the following services based on your customer status:
-Connect for Business Partners
-Not registeyet? Here are a few reasons why you should be:
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
@@ -1083,79 +542,43 @@ Your account gives you access to your member profile, preferences, and other ser
 For your security, if you're on a public computer and have finished using your services, please be sure to log out.
 management tool for virtual and private cloud infrastructure
  is an infrastructure management platform tallows departments to control users’ self-service abilities to provision, manage, and ensure compliance across virtual machines and private clouds.
-Through our partners
-Choose your environments
-Provision and manage across physical, 
-private cloud
-Visualize what’s happening
 Discover, monitor, and track all private cloud and virtual resources—and their relationships—so you know what's going on, where.
-Automate the standard stuff
  playbooks to automate provisioning processes and management policies.
-Control your compliance
 Apply corporate governance policies across environments and customize automated remediation processes.
-Use self-service capabilities
 Delegate provisioning, reconfiguration, and retirement to end users through a web-based self-service catalog.
-Provision, reconfigure, and retire guest and host instances.
-Is your cloud strategy limited by your infrastructure?
 Some virtual infrastructures restrict your software choices by binding you to increasingly expensive enterprise-license agreements. Migrating to open source virtualization could open your path to the cloud.
-Run the numbers
 Modernize and innovate across hybrid cloud environments 
 Apex partners help organizations accelerate app dev and delivery; integrate apps, data, and devices; and automate business processes 
-earns “positive” rating from Gartner
 In its 2018 Vendor Rating report, Gartner notes Hat’s ability to meet customer’s modernization needs with flexible and agile open source solutions
-Platform management options
 Management for virtual and private cloud infrastructure
 The majority of enterprises can't afford to dedicate 100% of their business to a single environment. Today's infrastructure is spread out across physical hardware, heterogeneous virtual environments, and private clouds—and tcan be hard to manage. CloudForms makes management easy. It works in all those environments across your platforms and integrates with many of the providers you already use.
 CloudForms for virtual platforms
 Virtualization's widespread applicability has helped reduce vendor lock-in, allowing companies to update their environments with less-expensive commodity servers, operating systems, and applications from a variety of vendors. CloudForms can help organizations continue to avoid vendor lock-in by migrating virtual machines (VMs) to lower cost virtual infrastructure platforms and operating them across multiple hypervisors—such as 
-Kernel-based Virtual Machine
 Using CloudForms to manage virtual platforms, you can:
 Implement self-service ordering with complete life-cycle management.
 See and control security, performance, and capacity for all VMs.
 Maintain compliance with corporate, industry, and government requirements.
-Managing VMware virtual environments
 Managing Virtualization environments
 Wis virtualization management?
-CloudForms for private clouds
 CloudForms brings the interoperability, workload portability, and flexibility of open source to private cloud environments. It’s engineeto work with 
-OpenStack
  and includes management and automation capabilities taren’t available in the OpenStack project. Additionally, CloudForms can help you operate your private cloud more safely by implementing governance and enforcing compliance.
 Using CloudForms to manage Private clouds, you can:
-Manage, approve, automatically provision, customize, secure, and retire cloud instances.
-Track private cloud operations, such as performance, capacity, use, and compliance.
-Track private cloud resource life cycles and use.
 Bring existing deployments under management without changing the process.
 Cloud management for OpenStack with CloudForms
 Building a private cloud with Virtualization and CloudForms
-Wis cloud management?
-CloudForms for physical infrastructure
 For all the applicability and scalability Stuff-as-a-Service provides, it hasn't replaced the need for physical servers. CloudForms is compatible with Lenovo XClarity—an integration tgives system administrators valuable insight into on-premise capacity and its impact on other resources within your hybrid infrastructure.
-Using CloudForms to manage physical infrastructure, you can:
 Discover and manage physical compute infrastructure alongside virtual and multicloud resources in a single display.
-The Business Value of CloudForms
-Wis cloud management?
-The business value of CloudForms
 Rely on Our subscriptions come with award-winning 
-largest ecosystem
  of partners, customers, and experts; hardware certifications; and a connection to 
  communities where we source the best features and harden them for our enterprise products.
 Need more support? You can also rely on our 
-Technical Account Managers
- to help you solve your challenges.
 More ways to improve your experience
-Training & certification
 CloudForms Hybrid Cloud Management with exam (CL221)
 Certified Specialist in Hybrid Cloud Management exam (EX220)
 Integrating CloudForms and Ansible Automation
 Need more? The biggest names in cloud computing partner with Hat.
 Get access to technical experts and support services to help you successfully build, deploy, and manage your cloud.
-Join free
-Ready to start managing more effectively?
 We’re the world’s leading provider of enterprise open source solutions, using a community-poweapproach to deliver high-performing Linux, cloud, container, and Kubernetes technologies. We help you standardize across environments, develop cloud-native applications, and integrate, automate, secure, and manage complex environments with award-winning support, training, and consulting services.
-OpenShift Container Platform
- OpenStack Platform
-Buy online (Japan)
-Around the world
 Browse Knowledgebase articles, manage support cases and subscriptions, download updates, and more from one place.
 View users in your organization, and edit their account information, preferences, and permissions.
 Manage your certifications, view exam history, and download certification-related logos and documents.
@@ -1183,7 +606,6 @@ The company will continue with a disciplined financial policy and is committed t
 At signing, the company has ample cash, credit and bridge lines to secure the transaction financing. The company intends to close the transaction through a combination of cash and debt. 
 The acquisition has been approved by the boards of directors of both and Hat. It is subject to shareholder approval. It also is subject to regulatory approvals and other customary closing conditions. It is expected to close in the latter half of 2019.
 About is the world's leading provider of enterprise open source software solutions, using a community-poweapproach to deliver reliable and high-performing Linux, hybrid cloud, container, and Kubernetes technologies. helps customers integrate new and existing applications, develop cloud-native applications, standardize on our industry-leading operating system, and automate, secure, and manage complex environments. Award-winning support, training, and consulting services make a trusted adviser to the Fortune 500. As a strategic partner to cloud providers, system integrators, application vendors, customers, and open source communities, can help organizations prepare for the digital future.
-Forward-looking statements
 Certain statements contained in this communication may be characterized as forward-looking under the Private Securities Litigation Reform Act of 1995. These statements involve a number of risks, uncertainties and other factors tcould cause actual results to differ materially. Additional information concerning these factors is contained in IBM's filings and other submissions with the Copies are available from the or from the web site ( www.ibm.com ).
 Statements in this communication regarding and tare forward-looking may include projections as to closing date for the transaction, the extent of, and the time necessary to obtain, the regulatory approvals requifor the transaction, the anticipated benefits of the transaction, the impact of the transaction on IBM's business, the expected terms and scope of the expected financing for the transaction, the aggregate amount of indebtedness of following the closing of the transaction, IBM's expectations regarding debt repayment and its debt to capital ratio following the closing of the transaction, IBM's share repurchase programs and ability and intent to declare future dividend payments, the synergies from the transaction, the combined company's future operating results, and other statements identified by words such as "will", "expect", "believe", "anticipate", "estimate", "should", "intend", "plan", "potential", "predict" "project", "aim", and similar words, phrases or expressions. These forward-looking statements are based on current expectations and beliefs of the management of and (as the case may be), as well as assumptions made by, and information currently available to, such management, current market trends and market conditions and involve risks and uncertainties, many of which are outside of each company's and each company's management's control. In particular, projected financial information for the combined businesses of and is based on estimates, assumptions and projections and has not been prepain conformance with the applicable accounting requirements of Regulation S-relating to pro forma financial information, and the requipro forma adjustments have not been applied and are not reflected therein. None of this information should be considein isolation from, or as a substitute for, the historical financial statements of and Hat.
 Important risk factors related to the transaction could cause actual future results and other future events to differ materially from those currently estimated by management, including, but not limited to: the risk tthe proposed transaction may not be completed in a timely manner or at all, which may adversely affect IBM's and Hat's business and the price of the common stock of and Hat; the failure to satisfy any of the conditions to the consummation of the proposed transaction, including the adoption of the Merger Agreement by the shareholders of Hat; the timing to consummate the proposed transaction; the risk ta regulatory approval tmay be requifor the proposed transaction is delayed, is not obtained or is obtained subject to conditions tare not anticipated; the occurrence of any event, change or other circumstance tcould give rise to the termination of the Merger Agreement; the effect of the announcement or pendency of the proposed transaction on IBM's and Hat's business relationships, operating results and business generally; the risk tthe proposed transaction may disrupt current plans and operations and the potential difficulties in employee retention as a result of the proposed transaction; the ability to achieve the synergies and value creation contemplated; IBM's ability to promptly and effectively integrate Hat' businesses; the risk trevenues following the transaction may be lower than expected; the risk toperating costs, customer loss, and business disruption (including, without limitation, difficulties in maintaining relationships with employees, customers, and suppliers) may be greater than expected; the assumption of unexpected risks and liabilities; the outcome of any legal proceedings tmay be instituted related to the Merger Agreement or the proposed transaction; the diversion of and attention of management of both and on transaction-related issues; and the other factors discussed in "Risk Factors" in IBM's Annual Report on Form 10-for the fiscal year ended December 31, 2017 and subsequent filings with the SEC, which are available at  http://www.sec.gov . assumes no obligation to update the information in the communication, except as otherwise requiby law. Accordingly, you should not place undue reliance on these forward looking statements.

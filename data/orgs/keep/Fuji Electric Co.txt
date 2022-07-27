@@ -1,114 +1,12 @@
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Drives & Inverters
-Semiconductors & Devices
-Photoconductors
 UPS, Uninterruptible Power System
-PCS, Power Conditioning System
-Large-Capacity Rectifier, S-Former
-S-Former-Mini
-Sensors & Measurements
-Factory Automation Systems
-Distributions & Controls
-Transmission & Distribution
-Factory Automation Systems
-PLC, Programmable logic controller
-HMI, Human machine interface
 Process Control System, MICREX-NX
 Monitoring and Control System, MICREX-VieXX
 Multi-purpose Analog monitoRing SYStem(MARSYS)
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer, Shunt Reactor
-Cast Resin Transformer, MOLTRA
-GIS, Gas Insulated Switchgear
-& Switchgear and Control Center
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Food and Beverage Distribution
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
+Medium-Voltage Devices in the Panel
 UPS, Uninterruptible Power System 
-Monitoring and Control Systems 
-Products & Solutions
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
 Presentation of Consolidated Financial Results for 1FY2018 
 Announcement of the Payment of Interim Dividend from Retained Earnings 
 Announcement of Consolidated Financial Results for 1FY2018 
@@ -120,299 +18,24 @@ Announcement of the Payment of Interim Dividend from Retained Earnings
 Announcement of Consolidated Financial Results for 1FY2018 
 Difference between Forecast and Actual Business Results for 1FY2018 
 FE’s First Shipment of Exhaust Gas Cleaning Systems for Ships 
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-About About Further Contribution to the Global Community
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-Research & Development
-Technical Intelligence
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-Electric's Philosophy
-Vision and Fiscal 2018 Target
-Environmental Management
-Stop Global Warming
-Recycling Resources
-Managing Chemical Substances
-Shareholders and Investors
 Four Categories and 10 Principles of the GC
-Electric's Philosophy
-Vision and Fiscal 2018 Targets
-Environmental Management
-Basic Polices on Environmental Protection
-Environmental Management Organizational Framework
-Environmental Accounting
-Environmental Management Targets and Achievements
-Stop Global Warming
 Action Plan to Reduce Emissions
 Reducing Greenhouse Gas Emissions During Production
 Reducing Society's Emissions through Products
-Energy Conservation Initiatives in Logistics
-Scope 3 Emissions
-Initiatives for Utilizing Renewable Energies
-Recycling Resources
-Reducing Waste
-Efficient Use of Water Resources
 Initiatives for Reducing Environmental Impact of Products
-Managing Chemical Substances
-Managing Chemical Substances
-Activities and Performances for Promoting Diversity
-Promoting Work-Life Balance
 Human Resource Development and Fair Evaluation
-Employee Health and Safety Management
-Communicating with Employees
-Enhancing Customer Satisfaction
-Product Quality Assurance
-Promoting Activities with Suppliers
-Shareholders and Investors
-Initiatives by Staff Members
-Policy concerning Local Community Contribution Activities
-Protecting the Natural Environment
-Promoting Youth Development
-Communicating with Local Communities
-Supporting Disaster Recovery and Reconstruction Efforts
 Four Categories and 10 Principles of the GC
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
 Presentation of Consolidated Financial Results for 1FY2018  
 Announcement of the Payment of Interim Dividend from Retained Earnings 
@@ -420,37 +43,27 @@ Announcement of Consolidated Financial Results for 1FY2018
 Difference between Forecast and Actual Business Results for 1FY2018 
 FE’s First Shipment of Exhaust Gas Cleaning Systems for Ships  
 Release of Multi-for Solar Generation Facilities with Storage Batteries  to Achieve Low-Cost Solar Power Systems  
-Awarded Geothermal Power Station Contract in Kenya  
-Issue of Report 2018 (fiscal year ended March 31, 2018)  
 Presentation of Consolidated Financial Results for 1FY2018  
 Announcement of Consolidated Financial Results for 1FY2018  
 Establishment of Joint Engineering Company to Expand Systems Business in China  
-Release of Disclosure Policy  
 Announcement of Business Strategy Meeting  
-Payment of Dividends from Retained Earnings 
 Notice Regarding Change in Share Trading Unit, Reverse Stock Split, and Partial Amendment of Articles of Incorporation 
 The 142nd Ordinary General Meeting of Shareholders  
 Presentation of Consolidated Financial Results for FY2017 / Management Plan for FY2018  
-Co., Ltd held the “Asia Forum 2018” in Bangkok  
-Announcement of Revised Dividend Forecast  
 Announcement of Consolidated Financial Results for FY2017  
-Release of Industry-smallest “Large Capacity System using Lithium Ion Battery”  
 Presentation of Consolidated Financial Results for 3FY2017  
 Announcement of Consolidated Financial Results for 3FY2017  
-Oct 27, 2017
 Presentation of Consolidated Financial Results for 1FY2017  
 Announcement of the Payment of Interim Dividend from Retained Earnings 
 Announcement of Consolidated Financial Results for 1FY2017  
 Difference between Forecast and Actual Business Results for 1FY2017 
 Acquires Indonesian Vending Machine Manufacturing and Sales Company with an Eye to Expanding Business in Southeast Asia  
-Issue of Report 2017 (fiscal year ended March 31, 2017)  
 Release of Outdoor Self-Standing Type Power Conditioning Sub-System: Realizing Lower Costs, Reduced Size and Weight  
 Presentation of Consolidated Financial Results for 1FY2017  
 Announcement of Consolidated Financial Results for 1FY2017  
  Announcement of Revised Earnings Forecast for First Half of Fiscal Year Ending March 31, 2018 
 Announcement of Business Strategy Meeting  
 The 141st Ordinary General Meeting of Shareholders  
-Payment of Dividends from Retained Earnings 
 Release of High Voltage Contactor with the Highest Current Overload Capacity in the Industry  
 Presentation of Consolidated Financial Results for FY2016 / Management Plan for FY2017  
 Presentation of Consolidated Financial Results for 1FY2018  
@@ -458,166 +71,41 @@ Announcement of the Payment of Interim Dividend from Retained Earnings
 Announcement of Consolidated Financial Results for 1FY2018  
 Difference between Forecast and Actual Business Results for 1FY2018 
 FE’s First Shipment of Exhaust Gas Cleaning Systems for Ships  
-Awarded Geothermal Power Station Contract in Kenya  
-Issue of Report 2018 (fiscal year ended March 31, 2018)  
 Presentation of Consolidated Financial Results for 1FY2018  
 Announcement of Consolidated Financial Results for 1FY2018  
 Establishment of Joint Engineering Company to Expand Systems Business in China  
-Release of Disclosure Policy  
 Announcement of Business Strategy Meeting  
-Payment of Dividends from Retained Earnings 
 Notice Regarding Change in Share Trading Unit, Reverse Stock Split, and Partial Amendment of Articles of Incorporation 
 The 142nd Ordinary General Meeting of Shareholders  
 Presentation of Consolidated Financial Results for FY2017 / Management Plan for FY2018  
-Announcement of Revised Dividend Forecast  
 Announcement of Consolidated Financial Results for FY2017  
 Presentation of Consolidated Financial Results for 3FY2017  
 Announcement of Consolidated Financial Results for 3FY2017  
-Oct 27, 2017
 Presentation of Consolidated Financial Results for 1FY2017  
 Announcement of the Payment of Interim Dividend from Retained Earnings 
 Announcement of Consolidated Financial Results for 1FY2017  
 Difference between Forecast and Actual Business Results for 1FY2017 
 Acquires Indonesian Vending Machine Manufacturing and Sales Company with an Eye to Expanding Business in Southeast Asia  
-Issue of Report 2017 (fiscal year ended March 31, 2017)  
 Presentation of Consolidated Financial Results for 1FY2017  
 Announcement of Consolidated Financial Results for 1FY2017  
  Announcement of Revised Earnings Forecast for First Half of Fiscal Year Ending March 31, 2018 
 Announcement of Business Strategy Meeting  
 The 141st Ordinary General Meeting of Shareholders  
-Payment of Dividends from Retained Earnings 
 Release of High Voltage Contactor with the Highest Current Overload Capacity in the Industry  
 Presentation of Consolidated Financial Results for FY2016 / Management Plan for FY2017  
-Announcement of Revised Dividend Forecast  
 Announcement of Consolidated Financial Results for FY2016  
 Difference between Forecast and Actual Business Results for Fiscal 2016 
 Co., Ltd. Has Been Awarded by Aluminium Bahrain  for the World’s Largest Rectifiers  
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
 Top Message to shareholders and investors
-List of Directors, Auditors and Executive Officers
-Business Segments
 Information on Electric’s 5 business segments: Power and Social Infrastructure, Industrial Infrastructure, Power Electronics, Electronic Devices and Food and Beverage Distribution
 Information on corporate governance framework, internal control system, compliance and risk management
 Information on main risks which have negative effect on the operating results and financial position of Disclosure Policy
 Information on basic policy on disclosure with shareholders and investors
-Business Segments
-Internal Control System
-Fiscal Year 2017
-Fiscal Year 2015
-Fiscal Year 2014
-Fiscal Year 2013
-Fiscal Year 2012
-Fiscal Year 2010
-Fiscal Year 2009
-Fiscal Year 2017
-Fiscal Year 2015
-Fiscal Year 2014
-Fiscal Year 2013
-Fiscal Year 2012
-Fiscal Year 2010
-Fiscal Year 2009
-Report 2016 Financials
-Report 2015 Financials
-Report 2014 Financials
-Report 2013 Financials
-Report 2012 Financials
-Report 2011 Financials
-Annual Report 2008(Operational Review)
-Annual Report 2008(Financial Review)
-Operating Results
-Business Segments Information
-Net Sales by Region
 R&Expenditures / Plant and Equipment Investment / Depreciation and Lease Expense
-Income Statement / Statement of Comprehensive Income
-Balance Sheets
-Quarterly Financial Results
 The 141st Ordinary General Meeting of Shareholders
 The 140th Ordinary General Meeting of Shareholders
 The 139th Ordinary General Meeting of Shareholders
@@ -628,459 +116,82 @@ The 135th Ordinary General Meeting of Shareholders
 The 134th Ordinary General Meeting of Shareholders
 The 133rd Ordinary General Meeting of Shareholders
 The 132nd Ordinary General Meeting of Shareholders
-Dividend Policy
-Corporate Bonds and Ratings 
-Articles of Incorporation / Share Handling Rules
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-Gate City Ohsaki, East Tower, 11-2, Osaki 1-chome, Shinagawa-ku, Tokyo 141-0032, JAPAN
-Components & Systems Co., Ltd.
 Development, manufacture, and sales of electrical distribution & control equipment
-Mitsui Sumitomo Bank Ningyo-cho Bldg., 5-7, Nihonbashi Odemma-cho, Chuo-ku, Tokyo 103-0011, JAPAN
-Furukawa Engineering & Construction Co., Ltd.
 Plant construction, air conditioning, electrical work, civil engineering work, photovoltaic system construction, power transmission construction, and planning and performance of telecommunication 
-Solid Square West Tower, 580 Horikawa-cho, Saiwai-ku, Kawasaki-shi, Kanagawa 212-0013, JAPAN
 Sales, repair services, and maintenance services for power distributors, control equipment, drive systems, and motor products
-Mitsui Sumitomo Bank Ningyo-cho Bldg., 5-7, Nihonbashi Odemma-cho, Chuo-ku, Tokyo 103-0011, JAPAN
-Finance and Accounting Support Co., Ltd.
 Handling of accounts receivable and accounts payable functions for finance departments of and its group companies; loan provision and other financial services for Group companies
-Gate City Ohsaki, East Tower, 11-2, Osaki 1-chome, Shinagawa-ku, Tokyo 141-0032, JAPAN
 Sales, installation, and repair of electrical machinery, control systems, and electronic
 Marketing, installation and repair of electrical machinery, control systems and electronic components
-Office and Life Service, Co., Ltd.
-Printing, copying, document management, advertising, design, travel, insurance, real estate, salary computation outsourcing, and manpower dispatching
-Gate City Ohsaki, East Tower, 11-2, Osaki 1-chome, Shinagawa-ku, Tokyo 141-0032, JAPAN
-Chichibu Co., Ltd.
-Manufacture and sales of control equipment
 Manufacture and marketing of power distributors and control equipment
 Processing of plastics and sheet molding
-Total solutions for information systems, data control, and electronic information equipment
-Shinshu Co., Ltd.
-Manufacture and repair of currency handling equipment
-Power Semiconductor Co., Ltd.
 Manufacture of semiconductor devices
-18-1, Tsukama 4-Chome, Matsumoto-shi, Nagano 390-0821, JAPAN
 Consulting and training related to the development of computer and network-related software, computer and network processing, information services, etc.
-Gate City Ohsaki, East Tower, 11-2, Osaki 1-chome, Shinagawa-ku, Tokyo 141-0032, JAPAN
 Design, manufacture, and sales of automatic equipment, labor-saving equipment, dies and jigs, and semiconductor application devices; design, manufacture, and repair of appliances
 Development, manufacture, and sales of electronic operation board
-238, Kamikashiwano-machi, Hakusan-shi, Ishikawa 924-0035, JAPAN
 Sales of computers and communication equipment, development of information processing systems, and provision of related total solutions
-Ichigo Akihabara North Building 15-12, Sotokanda 6-chome, Chiyoda-ku, Tokyo 101-0021, JAPAN
-Manufacture of vending machines
 After-sales service and maintenance/inspection, repair, remodeling, and sales of drives in general, including inverters and motors
 Design, manufacture, sales, maintenance, and repair of meters (including smart meters and meter-related products) used by power utilities and other customers
-2191, Horigane Karasugawa, Azumino-shi, Nagano, 399-8211, JAPAN
 Servicing, maintenance, and inspection of electrical equipment; maintenance work and construction work contracting
-Fujimachi 1-Banchi Hino City, Tokyo 191-8502, JAPAN
-Tsugaru Semiconductor Co., Ltd
 Manufacture and sales of semiconductor devices
-156 Nabekake, Urushikawa, Goshogawara-shi, Aomori 037-0017, JAPAN
-Sakurabashi Building, 5-4, Hatchobori 4-chome, Chuo-ku, Tokyo 104-0032, JAPAN
+Installation, maintenance, remodeling and repair services for vending machines etc.
 Manufacture and sales of various equipment and equipment for facilities in the water/environment fields; design, construction,and unit contract of various plants
-Kanda Manseibashi Bldg, 1-25, Kanda-sudacho, Chiyoda-ku, Tokyo 101-0041, JAPAN
 Operation and maintenance work of water supply, sewage, and waste processing facilities
-Kanda Manseibashi Bldg, 1-25, Kanda-sudacho, Chiyoda-ku, Tokyo 101-0041, JAPAN
-Plumbing sealing (leakage repair) contracting
-16-1, Miyauchi 4-chome, Nakahara-ku, Kawasaki-shi, Kanagawa 211-0051, JAPAN
 Sales of electrical machinery and equipment, semiconductor devices, drive control equipment, and devices
 Repair and maintenance of steam turbines, generators, and peripheral equipment
-858 Acid Mine Road, Sullivan, 63080 USA
 Manufacture and sales of door opening and closing systems
 Sales of electrical distribution and control equipment, drive control equipment, and semiconductor devices
-Manufacture, sales, and services relating to low-voltage power distribution board(switchgear, control equipment)
 Sales and engineering of substation equipment, control panels, and other equipment
-Manufacturing (Thailand) Co., Ltd.
-Manufacture and sales of inverters (LV/MV), power systems (UPS, PCS, switching power supply systems), substation equipment (GIS) and vending machines
-118/2 Moo 18 Klong Nueng, Klong Luang, Pathumthani 12120 THAILAND
 Manufacture and sales of Power Transformers, Distribution Transformers and Cast Resin Transformers
-Sales of electrical distribution and control equipment and drive control equipment
-Room 401, 4thfloor, Corner Stone Building, 16Phan Chu Trinh, Hoan Kiem, Ha Noi, VIETNAM
-Furukawa E&(Vietnam) Co., Ltd.  *
 Engineering and construction of mechanics and electrical works
 Provide the Solution for Electrical and Process Control System
-Sales of inverters, servos, UPS, tools, and other component products
-Wisma 46 – Kota BNI, 12th Floor Suite # 12.05-07
 Sales of drive control equipment and semiconductor devices
-409 410, Meadows, Sahar Plaza, Andheri Kurla Road, Nagar, Andheri (E) Mumbai 400 059, INDIA
 Manufacture of semiconductor devices
-107 Enterprise Drive, Special Export Processing Zone II, Carmelray, Industrial Park, Canlubang, Calamba, Laguna, PHILIPPINES
 Manufacture of magnetic disk and aluminum substrate for magnetic disk
-Lot No.4 and 5, Industrial Zone Phase 1, Kulim Hi-Tech Industrial Park, 09000 Kulim, Kedah Darul Aman, MALAYSIA
 Engineering and construction of mechanics and electrical works
-Lot 5.03, Level 5, Menara Maxisegar, Jalan Pandan Indah 4/2, Pandan Indah, 55100 Kuala Lumpur, MALAYSIA
 Sales of semiconductor devices, electrical distribution and control equipment, and drive control equipment
-Sales of power distribution and control equipment, drive control equipment, rotators, high-voltage inverters, electronic control panels, medium- and large-sized UPS, and measurement equipment
-Co.,Ltd. (Middle East Branch Office)
 Promotion of electrical products for the electrical utilities and the industrial plants
-71, Bldg 892, Road 3618, Block 436, Seef, Manama, BAHRAIN
-Providing research, feasibility studies, Liaison services
-Providing research, feasibility studies, Liaison services
-6 Floor, Phnom Penh Tower,#445 Monivong Blvd (St. 93/232), Sangkat Boeung Pralit, Khan 7 Makara, Phnom Penh, CAMBODIA
 Design and installation contracting for facilities construction
-2922/218 Charn Issara Tower II, 14th Floor, New Petchburi Road, Bangkapi, Huay Khwang, Bangkok 10310,THAILAND
 Sales of electrical/electronic machinery and components
 Manufacture and sales of measurement and control devices
-46, rue Georges Besse, du Brezet, 63039 Clermont-Ferrand, 2, FRANCE
 Sales and engineering of fuel cells and peripheral equipment
-Alter Holzhafen 15, D-23966 Wismar, Germany
 Sales of locally manufactured or imported products in China, and export of locally manufactured products
-26F, Global Harbor Tower B, 1188 North KaiXuan Road, PuTuo District, Shanghai 200062, P.R.CHINA
-Shanghai Power Technology (Wuxi) Co., Ltd.
 Research and development for, design and manufacture of , and provision of consulting and services for drive products, equipment for industrial automation control systems, control facilities for wind power generation and photovoltaic power generation, uninterruptible power systems, and power electronics products
-Lot No.28 2#Area 1,Xi Mei Road New District Wuxi Jiangsu, PEOPLE’CHINA
 Manufacture and sales of low/high-voltage inverters, temperature controllers, gas analyzers, and UPS
-Lot No.28, Xi Mei Road, New District, Wuxi, Jiangsu 214028, PEOPLE’CHINA
-(Changshu) Co., Ltd.
 Manufacture and sales of electromagnetic contactors and thermal relays
-NO.18, Dongshan Road, Changshu City, Jiangsu Province 215500, PEOPLE’CHINA
 Manufacture and sales of industrial heating devices
 Manufacture and sales of photoconductors, semiconductor devices and currency handling equipment
-High-technology Industrial Zone, Feng Tang Rd., Fu Yong, Bao An, Shenzhen, GuangDong 518103, PEOPLE’CHINA
-Manufacture of low-voltage circuit breakers
-No.3, The Third Street of Northeast, Dalian Economic & Technical Development Zone, Dalian 116600, PEOPLE’CHINA
-Motor (Dalian) Co., Ltd.
-Manufacture of industrial motors
-No. 3-2 Northeast 3rd, Dalian Economic & Technical Development Zone, Dalian 116600, PEOPLE’CHINA
 Development, manufacture, sales, servicing, overhauling, and installation of vending machines, and related consulting
-Development of vending machine-related control software and development of management software
-Sales of electrical distribution and control equipments
-Room 2015, 20/F., The Metropolis Tower, 10 Metropolis Drive, Hunghom, Kowloon, KONG
 Sales of semiconductor devices and photoconductors
-Sales of electrical/electronic components
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Research & Development
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-Corporate Data
-Corporate Data
-（Year ended March 31, 2018）
-Gate City Ohsaki, East Tower, 11-2, Osaki   1-chome, Shinagawa-ku, Tokyo 141-0032, Japan
-Number of Employees (consolidated)
-Net Sales (consolidated)
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Research & Development
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-by the Numbers
-Business Segments
 is set up as a capital and technology alliance between Japan "Furukawa Co., Ltd." and German "Siemens AG". Since then, we aim to pursue technological innovation in energy and environment.
 Our employees have diverse values and lead the cutting edge of energy technology; offering products that are ahead of the times.
 With energy and environment technology as its core technology, contributes to the creation of responsible and sustainable societies through its four business segments: Power Electronics Systems, Power and New Energy, Electronic Devices, and Food and Beverage Distribution.
-Power Electronics Systems・Energy Solutions
-Power Electronics Systems・Industry Solutions
-Power Infrastructure
-Food and Beverage Distribution
 Based upon the experience and knowledge, has  products ranging from small Semiconductor to larger Power Plants. We provide total solutions contributing to lower energy consumption to a range of customers. 
 (* Numbers of items are based on product models types)
 is located in 121 locations and 21 countries. Through these networks, we deliver products to customers around the world; contributing to the resolution of energy management problems.
 Electrics' products are introduced in more than 100 countries. We pursue technological innovation in energy and environment and continue to provide environmentally friendly products that use maximum efficiency energy.
 Fiscal Sales for 2017 were 8,429 million US$. The overseas sales ratio is approximately 24.5%.
-Energy Solutions
 supports electricity infrastructure with proven technologies to ensure that energy can be supplied in a stable, reliable, and optimal manner.
 ・Electricity automation systems and electricity strage control systems
-・Power grid substations
-・Industrial substations
-・Ground substations for railways
-・Industrial power supply facilities
 ・Uninterruptible power systems
-・Power conditioning sub-systems
-・Data centers
-・Switchboards
-・Power distribution and control equipment
-Factory energy management
- systems(FEMS)
 Uninterruptible power systems
 combines its power electronics products with measuring instruments and the Internet of Things (IoT) and
 facilitates the advance of plant automation and visualization to increase productivity and save energy.
-・Factory automation components
-・Factory automation systems
-・Industrial motors
-・Drive control systems
-・Measurement and control systems
-・Industrial heating
-・Measuring instruments and sensors
-・Radiation monitoring systems
-・Distribution systems
-・Transport systems
-・Information systems
-General-purpose inverters
-Passenger door systems
 Electric's sophisticated plant engineering capabilities meet the growing demand for electricity by providing an array of highly efficient power plant equipment that supplies environmentally friendly clean energy.
-・Thermal and geothermal power 
-・Hydraulic power generation facilities
-・Solar power generation systems
-・Wind power generation systems
-・Fuel cells
-Geothermal power generation
 Across the industrial and automotive fields, contributes to high levels of efficiency and energy savings by supplying power semiconductors, which are key devices in power electronics.
-・industrial field
 In the food distribution field, helps to ensure the safety and security of food by combining core heating and cooling technologies with mechatronic technologies and the Ioto provide ideal products and solutions.
-・Energy management systems
 Freezers and refrigerated 
-Vending machines for food
 is set up as a capital and technology alliance between Japan "Furukawa Co., Ltd." and German "Siemens AG". Since then, we aim to pursue technological innovation in energy and environment.
 Our employees have diverse values and lead the cutting edge of energy technology; offering products that are ahead of the times.
 With energy and environment technology as its core technology, contributes to the creation of responsible and sustainable societies through its four business segments: Power Electronics Systems, Power Infrastructure, Electronic Devices, and Food and Beverage Distribution.
@@ -1089,420 +200,35 @@ Based upon the experience and knowledge, has  products ranging from small Semico
 is located in 121 locations and 21 countries. Through these networks, we deliver products to customers around the world; contributing to the resolution of energy management problems.
 Electrics' products are introduced in more than 100 countries. We pursue technological innovation in energy and environment and continue to provide environmentally friendly products that use maximum efficiency energy.
 Fiscal Sales for 2017 were 8,429 million US$. The overseas sales ratio is approximately 24.5%.
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Research & Development
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-Energy and Environment Businesses
 With energy and environment technology as its core technology, contributes to the creation of responsible and sustainable societies through its four business segments: Power Electronics Systems, Power Infrastructure, Electronic Devices, and Food and Beverage Distribution.
-Power Electronics Systems
 supports electricity infrastructure with proven technologies to ensure that energy can be supplied in a stable, reliable, and optimal manner.
-■ Energy management
 ■ Power supply and facility
-■ ED&components
-Energy management systems
 Uninterruptible power systems
-Introduction video of Energy Solution
 combines its power electronics products with measuring instruments and the Internet of Things (IoT) and facilitates the advance of plant automation and visualization to increase productivity and save energy.
-■ Factory automation
-■ Process automation
-■ Social solutions
-Inverters  Servo systems
-Gas analyzers
-Industrial drive systems
-Passenger door systems
-Introduction video of Industry Solutions
-Power and New Energy
 Electric’s sophisticated plant engineering capabilities meet the growing demand for electricity by providing an array of highly efficient power plant equipment that supplies environmentally friendly clean energy.
-■ Power plants
-■ New energy
-Steam turbines
-Solar power generation systems
-Geothermal power generation
-Fuel cells
-Introduction video of Power and New Energy
 Across the industrial and automotive fields, contributes to high levels of efficiency and energy savings by supplying power semiconductors, which are key devices in power electronics.
-■ Semiconductors
-IGBTs for automotive applications
-Power MOSFETs
-Introduction video of Electronic Devices
-Food and Beverage Distribution
 In the food distribution field, helps to ensure the safety and security of food by combining core heating and cooling technologies with mechatronic technologies and the Ioto provide ideal products and solutions.
-Can/bottle vending machines with
 Freezers and refrigerated showcases
 Vending machines for food and other 
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Research & Development
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
 Our brand expresses our desire to provide customers and society with the value of innovation. As experts in electronics manufacturing and pioneers of cutting-edge energy technology, we offer the products of the future to meet customer demands and contribute to the creation of responsible and sustainable societies everywhere we do business. Leveraging our brand, we endeavor to increase awareness and understanding of our beliefs throughout the world. 
-Brand Evolution
 Our symbol mark represents brand values as well as being a centralizing force for the company as a whole. The symbol mark is also used as a vehicle to accumulate value. 
 "F" and "E" are the initials for Electric. The symbol mark also stands for our conviction to continue to build on our technological prowess, the trust we have gained and the positive corporate culture we have cultivated since our inception.
 Through our pursuit of innovation in and thermal energy technology, we develop products that maximize energy efficiency and lead to a responsible and sustainable society.
-Brand Evolution
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Research & Development
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Research & Development
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
 Contributing to the Creation of Sustainable Societies through Our Energy and Environment Businesses
 Since our foundation in 1923, has innovated energy technology to make broad contributions to the world in the fields of industrial and social infrastructure.
@@ -1511,416 +237,86 @@ Now, through unprecedented population growth and the rapid advance of industrial
 Taking to heart our corporate slogan of being "enthusiastic, ambitious, and sensitive," we will utilize the comprehensive strength of teams of diverse, individual employees, with the aim of global business expansion and continuous growth as a company.
 We hope that you will continue to hold to high standards.
 President and Chairman of the Board of Directors,
-Michihiro Kitazawa
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Research & Development
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
  var cmnHeaderGlobalNaviBack = ""; History of History of continues to evolve in step with the times and with society,
-Establishment of "Manufacturing Co., Ltd."
 "Manufacturing Co., Ltd." was established as a capital and technology alliance between Japan "Furukawa Co., Ltd." and German "Siemens AG". The company name derived from these two companies' first sound "Fu" and "Si"and the highest mountain in Japan, Mt. Fuji.
-Company emblem, mark (Used from 1923 to 1978)
 Imported mercury-vapor rectifier first in Japan and launched production in Kawasaki factory. Market share was high and contributed for transportation infrastructure organization.
-Built its first hydraulic turbine, 4,850Francis Turbine
-Introduced technologies from "Voith Hydro Holding Gmb& KG", and delivered the first hydraulic turbine to "Kaminoshiro power plant".
-Devised a design and realize microminiaturization.
 Began volume production of selenium rectifiers
 In response to exploding demand for televisions and radios, began volume production of selenium rectifiers, electronic components that convert alternating current (AC) to direct current (DC). The company soon took an 80%-90% share of the domestic selenium rectifier market.
-Started manufacturing juicers
 Sales of juicers took off from around 1961, playing a role in a nationwide health movement (campaign).
-Full-scale foray into thermal power plant business
 Signed a contract with "Siemens AG" for technology transfer of the steam turbine manufacturing. Subsequently delivered the first super-critical, variable pressure turbine in Japan, which was one of the largest in the country at the time. This move to import European technology marked a change of tack in a domestic power generation market dominated by technology.
 Delivered the first electronic instrumentation system to a water treatment plant in Japan
-propulsion system fitted to Antarctic exploration ship "Fuji"
 Electric's propulsion system played active roll because of its speedy forward and backward proplusion functions. It enables to gain great propelling power from low speed.
-Merged with "Kawasaki Denki Seizo Co., Ltd." and commenced operations at the "Kobe factory" and "Suzuka factory".
 Began production of vending machines
 Used know-how as a vendor of refrigerated milk showcases to move into vending machines. Delivered 230 beverage vending machines to the 1970 "Osaka World Exposition", prompting the wider spread of domestically made vending machines.
 Sales of electrical machinery and equipment, semiconductor devices, drive control equipment, and devices in North America and Latin America.
 Developed centralized monitoring and control systems for power utility companies. First computerized control system in Japan, using the FACOM-mini-computer
-Started manufacturing general-purpose inverters
 First in the industry to develop general-purpose inverters. Led the market in creating smaller, more responsive and functional components, resulting in their adoption in a range of fields due to their energy-saving characteristics.
 Developed and commenced manufacture of propulsion system for ice-breaking ship Shirase
 Installed the state of the art PLCs and mini computer which are rare for ships at the time and solid-state relay sequence and centered and automated monitoring systems. Realized durability for severe environmental conditions such as high temperature and high humidity around the equator, impacts and vibrations from  advancing frozen seas etc.
-1st generation mini "M-Series" launched
 Realized small and noise resistant UPSs by modifying MOSFETs for main circuit switching element. At the same time, utilized voltage dip controlling technology as frontrunner of the industry.
 Released the programmable logic controller "MICREX-Series"
 PLCs plays active roll in factory automation control equipment. standardized networking function to PLCs for the first  in the industry and was well-received.
-Establishment of "GmbH" (present "Europe GmbH" )
 Sales of electrical/electronic machinery and components in Europe and Africa.
 Sales of electrical distribution and control equipment, drive control equipment, and semiconductor devices in Asia, Oceania and Middle East.
-Delivered the first generator (600output) of "Noshiro Power Station"
-Successful launch of Japan's first "rocket"
 The launch vehicle's power control unit was fitted with an aerospace power transistor made by Electric.
-Establishment of "France S.A.S"
 Manufacture and sales of measurement and control devices in Europe, Africa and Middle East.
-Sales of power distribution and control equipment, drive control equipment, rotators, high-voltage inverters, electronic control panels, medium- and large-sized UPS, and measurement equipment in Korea.
 Sales and engineering of substation equipment, control panels, and other equipment in Thailand.
-Establishment of "(Malaysia) Sdn.
 Manufacture of magnetic disk and aluminum substrate for magnetic disk in Malaysia.
 Sales of semiconductor devices, electrical distribution and control equipment, and drive control equipment in Taiwan.
-Won order for main conversion devices used in railways (world's first largecapacity flat IGBT)
-Delivered 100kphosphoric acid fuel cell
 Delivered the first fuel cells to domestic gas company. Since then, fuel cells installation spreads widely into hotels, education facilities, research facilities, hospitals, office buildings and overseas facilities.
-Establishment of "(Shanghai) Co., Ltd." (present "(China) Co., Ltd.")
 Sales of locally manufactured or imported products in China, and export of locally manufactured products in China.
-New mini-"J-Series" launched
 Realized the world smallest and lightest power supply inverter systems. Received the Good Design Award in the year.
 Delivered Japan's first fuel cell cogeneration system (incorporating two 100kfuel cells) powered by digested sewage sludge gas.
 Changed company name owing to shift to pure holding company system "Holdings Co., Ltd."
-As core operating companies, "Systems Co., Ltd." / "Components & Systems Co., Ltd." / "Device Technology Co., Ltd." / "Retail Systems Co., Ltd.".
 Commenced mass production of film substrate "Amorphous solar cells"
 Began mass producing flexible "Amorphous solar cells" based on plastic film substrate.
-Full-scale mass production of world's largest capacity 2.5-inch glass substrate media (160GB/disk), 3.5-inch aluminium substrate media (334GB/disk).
 Manufacture of semiconductor devices in Malaysia.
-Established "Co., Ltd." (joint venture with "Insulators, Ltd.")
-"Components & Systems Co., Ltd." Merged operation with "Schneider Japan Ltd."
 Sales of drive control equipment and semiconductor devices in India.
 The world's first embedded lithium-ion capacitor realized environmental load reduction in a significantly smaller package.
 Developed a new three-level converter circuit and a new three-level power module, realizing highly efficient power conversion
 It reduces the power loss of power conversion equipment including power supplies and invertors?and a New 3-Level Power Module.
 It applied power conditioners for renewable energy sources such as photovoltaic power and wind power, and inverter.
-140geothermal power plant, the largest single-unit capacity in the world, started operation (New Zealand "Nga Awa Purua Power Station")
 The has been developing its geothermal power generation business since the 1970s in Southeast Asia, New Zealand, the United States, Iceland, and other countries around the world, and has succeeded in installing numerous geothermal power systems.
 High-speed vehicle battery charger went on sale
 Charging and communication control which is core of the CHAdestandard, is developed by condensing know hows of distribution and control technologies and energy management system's information control technologies.
 Delivered micro-grid system to outlying islands, and took part in installation and verification testing
 Delivered micro-grid systems to outlying islands. The systems stabilize system by controlling fuel cells' random discharge, generated from photovoltaic generations and wind power generations.
-Development of next-generation Simodule power semiconductor
 We realize the volume of conventional about 1/4 and there are few electricity losses and develops the Simodule which can plan high efficiency of the power control.
-Changed company name : "Co., Ltd."
-Merger of "Holdings Co., Ltd." with "Systems Co., Ltd."
 Establishment of "Meter Co., Ltd." (joint venture with "General Electric")
-Merger of "Co., Ltd." with "Device Technology Co., Ltd"
-Establishment of "Indonesia"
 Sales of inverters, servos, UPS, tools, and other component products in Indonesia.
-High-Voltage Inverter with Water-Cooling System "4800VM5" went on sale
 The 4800VM5 employs a water-cooling system to reduce the heat generated by conversion circuits. Compared to conventional air-cooling systems, the method achieves greatly improved cooling efficiency and allows the capacity of high-voltage inverters to be increased while their size is reduced.
 Launched dedicated inverters for air-conditioning and water treatment systems, "FRENIC-HVAC" and "FRENIC-AQUA".
 Feature a slim design that allows the units to be mounted against a wall  and produced as specialized equipment loaded with the standard functions required to independently operate fans and pumps in air-conditioning equipment and water supply and drainage facilities.
 SiC-was fitted with power conditioner systems and UPS.
 Launched power conditioners for mega solar power generation systems.
 commercialized the world's first three-level module in which a new RB-and an existing are integrated in one package. Achieving world highest efficiency of 98.5% (1,000 product).
-<Brand Promise>
 Through our pursuit of innovation in and thermal energy technology, we develop products that maximize energy efficiency and lead to a responsible and sustainable society.
-Using from 2012.
-Merger of "Co., Ltd." with "Retail Systems Co., Ltd."
 Sales of electrical distribution and control equipment and drive control equipment in Vietnam.
 Powerless container; D-Box enables constant temperature control and traceability, providing customers with low-cost operations and marketing strategy options.
 Completed new Companywide research and development building at "Tokyo Factory"
 Launched large-capacity equipped with Sipower semiconductors for the North American market
 Launched 145 kgas- insulated switchgears compatible with the standards of the International Electrotechnical CommissionSales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-Electric's Philosophy
-Vision and Fiscal 2018 Target
-Environmental Management
-Stop Global Warming
-Recycling Resources
-Managing Chemical Substances
-Shareholders and Investors
 Four Categories and 10 Principles of the GC
-Electric's Philosophy
-Vision and Fiscal 2018 Targets
-Environmental Management
-Basic Polices on Environmental Protection
-Environmental Management Organizational Framework
-Environmental Accounting
-Environmental Management Targets and Achievements
-Stop Global Warming
 Action Plan to Reduce Emissions
 Reducing Greenhouse Gas Emissions During Production
 Reducing Society's Emissions through Products
-Energy Conservation Initiatives in Logistics
-Scope 3 Emissions
-Initiatives for Utilizing Renewable Energies
-Recycling Resources
-Reducing Waste
-Efficient Use of Water Resources
 Initiatives for Reducing Environmental Impact of Products
-Managing Chemical Substances
-Managing Chemical Substances
-Activities and Performances for Promoting Diversity
-Promoting Work-Life Balance
 Human Resource Development and Fair Evaluation
-Employee Health and Safety Management
-Communicating with Employees
-Enhancing Customer Satisfaction
-Product Quality Assurance
-Promoting Activities with Suppliers
-Shareholders and Investors
-Initiatives by Staff Members
-Policy concerning Local Community Contribution Activities
-Protecting the Natural Environment
-Promoting Youth Development
-Communicating with Local Communities
-Supporting Disaster Recovery and Reconstruction Efforts
 Four Categories and 10 Principles of the GC
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-Michihiro Kitazawa
 President and Chairman of the Board of Directors
-Kenzo Sugai
-Toshihito Tamba
-Michio Abe
-Masatsugu Tomotaka
-Junichi Matsumoto
-Michihiro Kitazawa
 President and Chairman of the Board of Directors
-General Management
-Kenzo Sugai
 Executive Vice President and Elected Corporate Director
-Michio Abe
-Senior Managing Executive Officer
-Corporate General Manager, Production & Procurement Group
-Masatsugu Tomotaka　　
-Senior Managing Executive Officer
-Corporate General Manager, Power Electronics Systems Business Group
-Managing  Executive Officer
-Takeshi Kadoshima
 General Manager, Human Resources and General Affairs Office 
-Masahiro Fujiwara
-Corporate General Manager, Power and New Energy Business Group
-Deputy Corporate General Manager, Power Electronics Systems Business Group
-Yasuhiro Takahashi
-Masahiro Morimoto
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Research & Development
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
 Presentation of Consolidated Financial Results for 1FY2018  
 Announcement of the Payment of Interim Dividend from Retained Earnings 
@@ -1928,37 +324,27 @@ Announcement of Consolidated Financial Results for 1FY2018
 Difference between Forecast and Actual Business Results for 1FY2018 
 FE’s First Shipment of Exhaust Gas Cleaning Systems for Ships  
 Release of Multi-for Solar Generation Facilities with Storage Batteries  to Achieve Low-Cost Solar Power Systems  
-Awarded Geothermal Power Station Contract in Kenya  
-Issue of Report 2018 (fiscal year ended March 31, 2018)  
 Presentation of Consolidated Financial Results for 1FY2018  
 Announcement of Consolidated Financial Results for 1FY2018  
 Establishment of Joint Engineering Company to Expand Systems Business in China  
-Release of Disclosure Policy  
 Announcement of Business Strategy Meeting  
-Payment of Dividends from Retained Earnings 
 Notice Regarding Change in Share Trading Unit, Reverse Stock Split, and Partial Amendment of Articles of Incorporation 
 The 142nd Ordinary General Meeting of Shareholders  
 Presentation of Consolidated Financial Results for FY2017 / Management Plan for FY2018  
-Co., Ltd held the “Asia Forum 2018” in Bangkok  
-Announcement of Revised Dividend Forecast  
 Announcement of Consolidated Financial Results for FY2017  
-Release of Industry-smallest “Large Capacity System using Lithium Ion Battery”  
 Presentation of Consolidated Financial Results for 3FY2017  
 Announcement of Consolidated Financial Results for 3FY2017  
-Oct 27, 2017
 Presentation of Consolidated Financial Results for 1FY2017  
 Announcement of the Payment of Interim Dividend from Retained Earnings 
 Announcement of Consolidated Financial Results for 1FY2017  
 Difference between Forecast and Actual Business Results for 1FY2017 
 Acquires Indonesian Vending Machine Manufacturing and Sales Company with an Eye to Expanding Business in Southeast Asia  
-Issue of Report 2017 (fiscal year ended March 31, 2017)  
 Release of Outdoor Self-Standing Type Power Conditioning Sub-System: Realizing Lower Costs, Reduced Size and Weight  
 Presentation of Consolidated Financial Results for 1FY2017  
 Announcement of Consolidated Financial Results for 1FY2017  
  Announcement of Revised Earnings Forecast for First Half of Fiscal Year Ending March 31, 2018 
 Announcement of Business Strategy Meeting  
 The 141st Ordinary General Meeting of Shareholders  
-Payment of Dividends from Retained Earnings 
 Release of High Voltage Contactor with the Highest Current Overload Capacity in the Industry  
 Presentation of Consolidated Financial Results for FY2016 / Management Plan for FY2017  
 Presentation of Consolidated Financial Results for 1FY2018  
@@ -1966,434 +352,63 @@ Announcement of the Payment of Interim Dividend from Retained Earnings
 Announcement of Consolidated Financial Results for 1FY2018  
 Difference between Forecast and Actual Business Results for 1FY2018 
 FE’s First Shipment of Exhaust Gas Cleaning Systems for Ships  
-Awarded Geothermal Power Station Contract in Kenya  
-Issue of Report 2018 (fiscal year ended March 31, 2018)  
 Presentation of Consolidated Financial Results for 1FY2018  
 Announcement of Consolidated Financial Results for 1FY2018  
 Establishment of Joint Engineering Company to Expand Systems Business in China  
-Release of Disclosure Policy  
 Announcement of Business Strategy Meeting  
-Payment of Dividends from Retained Earnings 
 Notice Regarding Change in Share Trading Unit, Reverse Stock Split, and Partial Amendment of Articles of Incorporation 
 The 142nd Ordinary General Meeting of Shareholders  
 Presentation of Consolidated Financial Results for FY2017 / Management Plan for FY2018  
-Announcement of Revised Dividend Forecast  
 Announcement of Consolidated Financial Results for FY2017  
 Presentation of Consolidated Financial Results for 3FY2017  
 Announcement of Consolidated Financial Results for 3FY2017  
-Oct 27, 2017
 Presentation of Consolidated Financial Results for 1FY2017  
 Announcement of the Payment of Interim Dividend from Retained Earnings 
 Announcement of Consolidated Financial Results for 1FY2017  
 Difference between Forecast and Actual Business Results for 1FY2017 
 Acquires Indonesian Vending Machine Manufacturing and Sales Company with an Eye to Expanding Business in Southeast Asia  
-Issue of Report 2017 (fiscal year ended March 31, 2017)  
 Presentation of Consolidated Financial Results for 1FY2017  
 Announcement of Consolidated Financial Results for 1FY2017  
  Announcement of Revised Earnings Forecast for First Half of Fiscal Year Ending March 31, 2018 
 Announcement of Business Strategy Meeting  
 The 141st Ordinary General Meeting of Shareholders  
-Payment of Dividends from Retained Earnings 
 Release of High Voltage Contactor with the Highest Current Overload Capacity in the Industry  
 Presentation of Consolidated Financial Results for FY2016 / Management Plan for FY2017  
-Announcement of Revised Dividend Forecast  
 Announcement of Consolidated Financial Results for FY2016  
 Difference between Forecast and Actual Business Results for Fiscal 2016 
 Co., Ltd. Has Been Awarded by Aluminium Bahrain  for the World’s Largest Rectifiers  
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-Corporate Philosophy
-Corporate Philosophy
-Management Policies
 The Code of Conduct outlines principles to guide and unify the conduct of the and its employees, by articulating the values we share in the pursuit of our corporate principles.
 Respect and value our customers.
-Respect and value the global environment.
 Respect and value our shareholders and investors.
 Respect and value interaction with society.
 Respect, value and conform with all applicable laws and regulations.
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Research & Development
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
 We contribute to the realisation of a safe, serene, sustainable society.
 The advanced technology of holds the key to a lot more efficeincy.
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Research & Development
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
 An introduction to Electric's Procurement policy
 An introduction to Group's Green Procurement
-Purchasing Procedures
 flowchart of our purchasing procedures
 We are not able to respond for the inquiries that have no concern with this page.
-Corporate Data
-Corporate Philosophy
-Purchasing Procedures
-by the Numbers
-Research & Development
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
 Top Message to shareholders and investors
-List of Directors, Auditors and Executive Officers
-Business Segments
 Information on Electric’s 5 business segments: Power and Social Infrastructure, Industrial Infrastructure, Power Electronics, Electronic Devices and Food and Beverage Distribution
 Information on corporate governance framework, internal control system, compliance and risk management
 Information on main risks which have negative effect on the operating results and financial position of Disclosure Policy
 Information on basic policy on disclosure with shareholders and investors
-Business Segments
-Internal Control System
-Fiscal Year 2017
-Fiscal Year 2015
-Fiscal Year 2014
-Fiscal Year 2013
-Fiscal Year 2012
-Fiscal Year 2010
-Fiscal Year 2009
-Fiscal Year 2017
-Fiscal Year 2015
-Fiscal Year 2014
-Fiscal Year 2013
-Fiscal Year 2012
-Fiscal Year 2010
-Fiscal Year 2009
-Report 2016 Financials
-Report 2015 Financials
-Report 2014 Financials
-Report 2013 Financials
-Report 2012 Financials
-Report 2011 Financials
-Annual Report 2008(Operational Review)
-Annual Report 2008(Financial Review)
-Operating Results
-Business Segments Information
-Net Sales by Region
 R&Expenditures / Plant and Equipment Investment / Depreciation and Lease Expense
-Income Statement / Statement of Comprehensive Income
-Balance Sheets
-Quarterly Financial Results
 The 141st Ordinary General Meeting of Shareholders
 The 140th Ordinary General Meeting of Shareholders
 The 139th Ordinary General Meeting of Shareholders
@@ -2404,303 +419,59 @@ The 135th Ordinary General Meeting of Shareholders
 The 134th Ordinary General Meeting of Shareholders
 The 133rd Ordinary General Meeting of Shareholders
 The 132nd Ordinary General Meeting of Shareholders
-Dividend Policy
-Corporate Bonds and Ratings 
-Articles of Incorporation / Share Handling Rules
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-Gate City Ohsaki, East Tower, 11-2, Osaki 1-chome, Shinagawa-ku, Tokyo 141-0032, JAPAN
-Components & Systems Co., Ltd.
 Development, manufacture, and sales of electrical distribution & control equipment
-Mitsui Sumitomo Bank Ningyo-cho Bldg., 5-7, Nihonbashi Odemma-cho, Chuo-ku, Tokyo 103-0011, JAPAN
-Furukawa Engineering & Construction Co., Ltd.
 Plant construction, air conditioning, electrical work, civil engineering work, photovoltaic system construction, power transmission construction, and planning and performance of telecommunication 
-Solid Square West Tower, 580 Horikawa-cho, Saiwai-ku, Kawasaki-shi, Kanagawa 212-0013, JAPAN
 Sales, repair services, and maintenance services for power distributors, control equipment, drive systems, and motor products
-Mitsui Sumitomo Bank Ningyo-cho Bldg., 5-7, Nihonbashi Odemma-cho, Chuo-ku, Tokyo 103-0011, JAPAN
-Finance and Accounting Support Co., Ltd.
 Handling of accounts receivable and accounts payable functions for finance departments of and its group companies; loan provision and other financial services for Group companies
-Gate City Ohsaki, East Tower, 11-2, Osaki 1-chome, Shinagawa-ku, Tokyo 141-0032, JAPAN
 Sales, installation, and repair of electrical machinery, control systems, and electronic
 Marketing, installation and repair of electrical machinery, control systems and electronic components
-Office and Life Service, Co., Ltd.
-Printing, copying, document management, advertising, design, travel, insurance, real estate, salary computation outsourcing, and manpower dispatching
-Gate City Ohsaki, East Tower, 11-2, Osaki 1-chome, Shinagawa-ku, Tokyo 141-0032, JAPAN
-Chichibu Co., Ltd.
-Manufacture and sales of control equipment
 Manufacture and marketing of power distributors and control equipment
 Processing of plastics and sheet molding
-Total solutions for information systems, data control, and electronic information equipment
-Shinshu Co., Ltd.
-Manufacture and repair of currency handling equipment
-Power Semiconductor Co., Ltd.
 Manufacture of semiconductor devices
-18-1, Tsukama 4-Chome, Matsumoto-shi, Nagano 390-0821, JAPAN
 Consulting and training related to the development of computer and network-related software, computer and network processing, information services, etc.
-Gate City Ohsaki, East Tower, 11-2, Osaki 1-chome, Shinagawa-ku, Tokyo 141-0032, JAPAN
 Design, manufacture, and sales of automatic equipment, labor-saving equipment, dies and jigs, and semiconductor application devices; design, manufacture, and repair of appliances
 Development, manufacture, and sales of electronic operation board
-238, Kamikashiwano-machi, Hakusan-shi, Ishikawa 924-0035, JAPAN
 Sales of computers and communication equipment, development of information processing systems, and provision of related total solutions
-Ichigo Akihabara North Building 15-12, Sotokanda 6-chome, Chiyoda-ku, Tokyo 101-0021, JAPAN
-Manufacture of vending machines
 After-sales service and maintenance/inspection, repair, remodeling, and sales of drives in general, including inverters and motors
 Design, manufacture, sales, maintenance, and repair of meters (including smart meters and meter-related products) used by power utilities and other customers
-2191, Horigane Karasugawa, Azumino-shi, Nagano, 399-8211, JAPAN
 Servicing, maintenance, and inspection of electrical equipment; maintenance work and construction work contracting
-Fujimachi 1-Banchi Hino City, Tokyo 191-8502, JAPAN
-Tsugaru Semiconductor Co., Ltd
 Manufacture and sales of semiconductor devices
-156 Nabekake, Urushikawa, Goshogawara-shi, Aomori 037-0017, JAPAN
-Sakurabashi Building, 5-4, Hatchobori 4-chome, Chuo-ku, Tokyo 104-0032, JAPAN
+Installation, maintenance, remodeling and repair services for vending machines etc.
 Manufacture and sales of various equipment and equipment for facilities in the water/environment fields; design, construction,and unit contract of various plants
-Kanda Manseibashi Bldg, 1-25, Kanda-sudacho, Chiyoda-ku, Tokyo 101-0041, JAPAN
 Operation and maintenance work of water supply, sewage, and waste processing facilities
-Kanda Manseibashi Bldg, 1-25, Kanda-sudacho, Chiyoda-ku, Tokyo 101-0041, JAPAN
-Plumbing sealing (leakage repair) contracting
-16-1, Miyauchi 4-chome, Nakahara-ku, Kawasaki-shi, Kanagawa 211-0051, JAPAN
 Sales of electrical machinery and equipment, semiconductor devices, drive control equipment, and devices
 Repair and maintenance of steam turbines, generators, and peripheral equipment
-858 Acid Mine Road, Sullivan, 63080 USA
 Manufacture and sales of door opening and closing systems
 Sales of electrical distribution and control equipment, drive control equipment, and semiconductor devices
-Manufacture, sales, and services relating to low-voltage power distribution board(switchgear, control equipment)
 Sales and engineering of substation equipment, control panels, and other equipment
-Manufacturing (Thailand) Co., Ltd.
-Manufacture and sales of inverters (LV/MV), power systems (UPS, PCS, switching power supply systems), substation equipment (GIS) and vending machines
-118/2 Moo 18 Klong Nueng, Klong Luang, Pathumthani 12120 THAILAND
 Manufacture and sales of Power Transformers, Distribution Transformers and Cast Resin Transformers
-Sales of electrical distribution and control equipment and drive control equipment
-Room 401, 4thfloor, Corner Stone Building, 16Phan Chu Trinh, Hoan Kiem, Ha Noi, VIETNAM
-Furukawa E&(Vietnam) Co., Ltd.  *
 Engineering and construction of mechanics and electrical works
 Provide the Solution for Electrical and Process Control System
-Sales of inverters, servos, UPS, tools, and other component products
-Wisma 46 – Kota BNI, 12th Floor Suite # 12.05-07
 Sales of drive control equipment and semiconductor devices
-409 410, Meadows, Sahar Plaza, Andheri Kurla Road, Nagar, Andheri (E) Mumbai 400 059, INDIA
 Manufacture of semiconductor devices
-107 Enterprise Drive, Special Export Processing Zone II, Carmelray, Industrial Park, Canlubang, Calamba, Laguna, PHILIPPINES
 Manufacture of magnetic disk and aluminum substrate for magnetic disk
-Lot No.4 and 5, Industrial Zone Phase 1, Kulim Hi-Tech Industrial Park, 09000 Kulim, Kedah Darul Aman, MALAYSIA
 Engineering and construction of mechanics and electrical works
-Lot 5.03, Level 5, Menara Maxisegar, Jalan Pandan Indah 4/2, Pandan Indah, 55100 Kuala Lumpur, MALAYSIA
 Sales of semiconductor devices, electrical distribution and control equipment, and drive control equipment
-Sales of power distribution and control equipment, drive control equipment, rotators, high-voltage inverters, electronic control panels, medium- and large-sized UPS, and measurement equipment
-Co.,Ltd. (Middle East Branch Office)
 Promotion of electrical products for the electrical utilities and the industrial plants
-71, Bldg 892, Road 3618, Block 436, Seef, Manama, BAHRAIN
-Providing research, feasibility studies, Liaison services
-Providing research, feasibility studies, Liaison services
-6 Floor, Phnom Penh Tower,#445 Monivong Blvd (St. 93/232), Sangkat Boeung Pralit, Khan 7 Makara, Phnom Penh, CAMBODIA
 Design and installation contracting for facilities construction
-2922/218 Charn Issara Tower II, 14th Floor, New Petchburi Road, Bangkapi, Huay Khwang, Bangkok 10310,THAILAND
 Sales of electrical/electronic machinery and components
 Manufacture and sales of measurement and control devices
-46, rue Georges Besse, du Brezet, 63039 Clermont-Ferrand, 2, FRANCE
 Sales and engineering of fuel cells and peripheral equipment
-Alter Holzhafen 15, D-23966 Wismar, Germany
 Sales of locally manufactured or imported products in China, and export of locally manufactured products
-26F, Global Harbor Tower B, 1188 North KaiXuan Road, PuTuo District, Shanghai 200062, P.R.CHINA
-Shanghai Power Technology (Wuxi) Co., Ltd.
 Research and development for, design and manufacture of , and provision of consulting and services for drive products, equipment for industrial automation control systems, control facilities for wind power generation and photovoltaic power generation, uninterruptible power systems, and power electronics products
-Lot No.28 2#Area 1,Xi Mei Road New District Wuxi Jiangsu, PEOPLE’CHINA
 Manufacture and sales of low/high-voltage inverters, temperature controllers, gas analyzers, and UPS
-Lot No.28, Xi Mei Road, New District, Wuxi, Jiangsu 214028, PEOPLE’CHINA
-(Changshu) Co., Ltd.
 Manufacture and sales of electromagnetic contactors and thermal relays
-NO.18, Dongshan Road, Changshu City, Jiangsu Province 215500, PEOPLE’CHINA
 Manufacture and sales of industrial heating devices
 Manufacture and sales of photoconductors, semiconductor devices and currency handling equipment
-High-technology Industrial Zone, Feng Tang Rd., Fu Yong, Bao An, Shenzhen, GuangDong 518103, PEOPLE’CHINA
-Manufacture of low-voltage circuit breakers
-No.3, The Third Street of Northeast, Dalian Economic & Technical Development Zone, Dalian 116600, PEOPLE’CHINA
-Motor (Dalian) Co., Ltd.
-Manufacture of industrial motors
-No. 3-2 Northeast 3rd, Dalian Economic & Technical Development Zone, Dalian 116600, PEOPLE’CHINA
 Development, manufacture, sales, servicing, overhauling, and installation of vending machines, and related consulting
-Development of vending machine-related control software and development of management software
-Sales of electrical distribution and control equipments
-Room 2015, 20/F., The Metropolis Tower, 10 Metropolis Drive, Hunghom, Kowloon, KONG
 Sales of semiconductor devices and photoconductors
-Sales of electrical/electronic components
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Research & Development
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
  will actively invest in the strengthening of its power electronics systems business and the expansion of its power semiconductors businesses as it seeks to complete the current medium-term management plan and prepare for future growth.
 To Our Shareholders and Investors
@@ -2712,37 +483,7 @@ Looking to the future, will advance a concerted effort to enhance its manufactur
 In addition to these efforts, fiscal 2018 will also see use actively investing in the strengthening of our power electronics systems business and the expansion of our power semiconductors businesses as we seek to complete the current medium-term management plan. At the same time, we will begin formulating a new, five-year medium-term management plan set to end with fiscal 2023, when will celebrate the 100th anniversary of its founding. 
 stands committed contributing to the realization of a responsible and sustainable society through its business in order to address the energy and environmental issues that threaten the earth.
 President and Chairman of the Board of Directors
-Business Segments
-Internal Control System
-Fiscal Year 2017
-Fiscal Year 2015
-Fiscal Year 2014
-Fiscal Year 2013
-Fiscal Year 2012
-Fiscal Year 2010
-Fiscal Year 2009
-Fiscal Year 2017
-Fiscal Year 2015
-Fiscal Year 2014
-Fiscal Year 2013
-Fiscal Year 2012
-Fiscal Year 2010
-Fiscal Year 2009
-Report 2016 Financials
-Report 2015 Financials
-Report 2014 Financials
-Report 2013 Financials
-Report 2012 Financials
-Report 2011 Financials
-Annual Report 2008(Operational Review)
-Annual Report 2008(Financial Review)
-Operating Results
-Business Segments Information
-Net Sales by Region
 R&Expenditures / Plant and Equipment Investment / Depreciation and Lease Expense
-Income Statement / Statement of Comprehensive Income
-Balance Sheets
-Quarterly Financial Results
 The 141st Ordinary General Meeting of Shareholders
 The 140th Ordinary General Meeting of Shareholders
 The 139th Ordinary General Meeting of Shareholders
@@ -2753,438 +494,68 @@ The 135th Ordinary General Meeting of Shareholders
 The 134th Ordinary General Meeting of Shareholders
 The 133rd Ordinary General Meeting of Shareholders
 The 132nd Ordinary General Meeting of Shareholders
-Dividend Policy
-Corporate Bonds and Ratings 
-Articles of Incorporation / Share Handling Rules
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-Energy and Environment Businesses
 With energy and environment technology as its core technology, contributes to the creation of responsible and sustainable societies through its four business segments: Power Electronics Systems, Power Infrastructure, Electronic Devices, and Food and Beverage Distribution.
-Power Electronics Systems
 supports electricity infrastructure with proven technologies to ensure that energy can be supplied in a stable, reliable, and optimal manner.
-■ Energy management
 ■ Power supply and facility
-■ ED&components
-Energy management systems
 Uninterruptible power systems
-Introduction video of Energy Solution
 combines its power electronics products with measuring instruments and the Internet of Things (IoT) and facilitates the advance of plant automation and visualization to increase productivity and save energy.
-■ Factory automation
-■ Process automation
-■ Social solutions
-Inverters  Servo systems
-Gas analyzers
-Industrial drive systems
-Passenger door systems
-Introduction video of Industry Solutions
-Power and New Energy
 Electric’s sophisticated plant engineering capabilities meet the growing demand for electricity by providing an array of highly efficient power plant equipment that supplies environmentally friendly clean energy.
-■ Power plants
-■ New energy
-Steam turbines
-Solar power generation systems
-Geothermal power generation
-Fuel cells
-Introduction video of Power and New Energy
 Across the industrial and automotive fields, contributes to high levels of efficiency and energy savings by supplying power semiconductors, which are key devices in power electronics.
-■ Semiconductors
-IGBTs for automotive applications
-Power MOSFETs
-Introduction video of Electronic Devices
-Food and Beverage Distribution
 In the food distribution field, helps to ensure the safety and security of food by combining core heating and cooling technologies with mechatronic technologies and the Ioto provide ideal products and solutions.
-Can/bottle vending machines with
 Freezers and refrigerated showcases
 Vending machines for food and other 
-Corporate Data
-Corporate Philosophy
-by the Numbers
-Research & Development
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-About  > Research & Development
-Research & Development
-Message from the CTO
-R&Policy and Organization
-Message from the CTO
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Efficient conversion of the earth’s thermal energy into electricity.
 Playing a fundamental role in satisfying the global demand for power with eco-friendly technology.
 Geothermal power generation does not use fossil fuels, thus emitting almost no CO2, NOx or SOx. The power from it has attracted attention as a renewable clean source of energy that offers a stable supply of power unaffected by climate or the time of day. With over a half century of experience, a proven track record and an abundance of expertise accumulated over the years, constructed a geothermal power plant with the world’s largest single unit capacity and has developed this complete solution using the world’s most advanced technology. has accounted for approximately 40%* of the global market share since 2005. As a global leader in the geothermal power generation, strives to develop innovative energy technologies to realize a sustainable society by effectively utilizing the earth’s resources.
 *From delivery results for 2005 to 2015
-For Geothermal Power Plants
 Inverters with high energy-saving performance to optimize your use of electricity.
 Helping to make our daily activities more efficient and environmentally-friendly.
 Inverters are facing an increasing demand to provide advanced energy savings in all types of facilities such as factory production lines and office building air conditioning systems, which occupy approximately 50% of a building's power consumption.  is applying our advanced technology and know-how to meet these current demands.  For example, the FRENIC-Series is an innovative lineup of inverters designed for air conditioning applications and optimal control of ener-gy-saving operations. Furthermore, we have utilized our new SiliCarbide-based power semiconductors to develop a rich portfolio of products, including our general-purpose inverters which achieve a 20% reduction in power loss (compared with our previous products).  In order to support both commercial and consumer needs, is working to innovate energy technology and develop a superior class of energy-saving products.
 "FRENIC-HVAC" inverters for the global market
-No Power Interruptions or Energy Loss
 Our unique circuit technology minimizes the power consumption of the system.
 These power supplies are supporting social and industrial infrastructures around the world.
 The technological advancement of social and industrial infrastructure, such as data centers and factory production lines, has created the need for a continuous, uninterruptible supply of power.  Various types of equipment are used to continuously monitor electricity, and it is the responsibility of an uninterruptible ing a reliable supply of energy 24 hours a day all year long while also minimizing their own consumption of power.  In light of this, worked to quickly develop a practical circuit (new 3-level circuit) for implementing a smooth power exchange as an module.  UPSs that mount this circuit achieve a reduction in power consumption of 40% compared with that of our previous products, as well as a maximum unit efficiency of 97%.  It also helps to reduce the power consumption of auxiliary equipment such as air conditioners, and contributes greatly to energy savings throughout the year.  is determined to continue innovating energy technology to support everyday needs both at business and at home.
-"7000HX-T4" for the global market
 unlight can be converted to power with increasing conversion efficiency.
 Advanced power conditioning systems supports our social infrastructure.
 power conditioning sub-system (PCS) is a critical component in a photovoltaic power system, converting power generated from photovoltaic panels into AC, and then sending the to high-voltage transmission networks.  Electric's latest PCS, the "1000," is capable of single-unit power conversion of 1 MW, frequency adjustment and stabilization, and it is ideal for large-scale mega solar power generation facilities.  By utilizing an advanced neutral-point clamping (NPC) with our patented reverse blocking IGBTs (RB-IGBTs), the unit has significantly reduced conversion power loss and has achieved the world's highest level of conversion efficiency at 98.5%.  Furthermore, it can also greatly reduce power consumption because it is an outdoor installation type that does not require an air conditioner.  will continue to innovate energy technology to support social infrastructure.
-Advanced 3-level module
 small, lightweight molded transformer and advanced degradation diagnostic technology to support a stable power supply.
 transformer is a piece of equipment that takes the power sent from a power station and reduces it to a voltage appropriate for use in buildings and homes.  Electric's molded transformer "MOLTRA" achieves a small size and light weight by making use of aluminum (a metal with a mass of half that of copper) in the winding conductors, while also adopting a sheet winding with a high space factor.  The unit can be safely installed even in the upper level floors of buildings and addition, has also developed degradation diagnostic technology capable of performing non-destructive measurement of thermal degradation in very important resin based insulation material.  The technology works by suggesting appropriate replacement periods for the insulation in order to prevent sudden function stoppages caused by age-related degradation.  is committed to mastering the most advanced technologies so that it can make the most efficient use of power, while protecting the daily activities of individuals around the world.
-Molded transformer "MOLTRA"* "MOLTRA" is a registered trademark of Electric.
 Temperature management can be implemented for a variety of products by adopting the air-conditioning and refrigeration technology cultivated in Japan.  This technology improves quality of life and provides convenience, while supporting the everyday activities of people.
 Strong consumer demand has prompted purchases of products even outside of the business hours of stores.  has developed "Twistar" as a new type of vending machine capable of meeting this demand.  Four different types of shelves can be used and replaced depending on the size and shape of products.  Opera can switch between room temperature, cold, and cool temperature zones, while the unit supports the sale of up to 42 different types of products* including beverages, food and other goods.  single "Twistar" unit can be used to provide a rich lineup of products, thereby conserving space and energy. Getting what you want, when you want it.
 is committed to innovating energy technology to provide people with products that support a prosperous lifestyle.
 "Twistar" food-and-goods vending machine for the global marketSales Network
-Global Sales Network
-Americas Sales Network
-Europe / Africa Sales Network
-Asia / Middle East Sales Network
-Japan Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products&Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
 Want a little more performance in your work and workplace?
 The advanced technology of holds the key to a lot more efficiency.
 We support your business with technologies based on our extensive know-how, expertise and the achievements we are proud to have gained over the years.
 Here is a lineup of our recommended solutions.
-Portable Ultrasonic Flowmeter
-"Visualization" of various flow rates
-Clean energy produced from hydrogen and air
-Large-Capacity 
 power supply 24 hours a day, 365 days a year
-Power Conditioner (PCS) 
-for photovoltaic generation
-World's highest conversion efficiency level (98.5%)
 Dedicated to fan and pump for HVAC
-High-tech vending machine offers variety of goods
-Power Semiconductor
 Realizes energy saving of a wide array of products
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; Sales Network
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-R&Policy and Organization
-Products & Solutions
-Drives & Inverters
-Drives (MV)
-Semiconductors & Devices
-Photoconductors
-Large-Capacity Rectifier
-Sensors & Measurements
-Factory Automation
-Process Control System
-Monitoring and Control System
-Multi-purpose Analog monitoring System
-Distributions & Controls
-Energy Control Equipment
-Transmission & Distribution
-Oil-immersed Transformer
-Cast Resin Transformer
-Switchgear and Control Center
-High-speed VCB
-Pure Water Vaporization Cooling SiliRectifier
-Thermal Power Generation
-Geothermal Power Generation
-Nuclear Power
-Social Infrastructure
-Tunnel Ventilation System
-Marine Environment Protection
-Electrical Equipment for Railcars
-Food and Beverage Distribution
-After Sales Service
-Drives (MV)
-Monitoring and Control Systems
-For Sustainable Society
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
+Devices in the panel
 Together with Shareholders and Investors
-About  > Research & Development
-Research & Development
-Message from the CTO
-R&Policy and Organization
-Message from the CTO
-About President's Message
-Corporate Data
-by the Numbers
-History of Corporate Philosophy
-Research & Development
-Products & Solutions
-Drives & Inverters
-Semiconductors & Devices
-Sensors & Measurements
-Factory Automation
-Distributions & Controls
-Transmission & Distribution
-Social Infrastructure
-Food and Beverage Distribution
-For Sustainable Society 
-Together with Customers
-Together with Suppliers
-Together with Employees
-Together with Local Communities
 Together with Shareholders and Investors
- var cmnHeaderGlobalNaviBack = ""; News Release
 FE’s First Shipment of Exhaust Gas Cleaning Systems for Ships
   Co., Ltd. (headquartered in Tokyo, Japan; led by President Michihiro Kitazawa) is pleased to announce that today marked the first shipment of Exhaust Gas Cleaning Systems (EGCS) for ships from its Chiba Factory.
    In the aim of reducing emissions of sulfur oxide (SOx), a substance responsible for air pollution, the International Maritime Organization (IMO) has set an upper limit of 0.5% on the sulfur content of ship fuel oil in most sea areas※1 to be achieved by 2020 (current limit: 3.5%). This regulation will apply to all ships, existing and newly constructed ones. Once this regulation is strengthened, shipowners will have to address this by means such as switching to fuels with lower sulfur content or using SOx scrubbers. has developed that is outfitted with a SOx scrubber that mixes exhaust gas with seawater and reduces the sulfur content of the gas. Today, the first shipment of this SOx scrubber left our Chiba Factory.
 ※1  Excluding the seas of North America and the Caribbean, the North Sea ,the Baltic Sea, and others. Regulated at 0.1% from 2015.
-SOx scrubber (Chiba Factory)
    Our combines a SOx scrubber with a gas analyzer, which measures the concentration of substances in exhaust gas in real time, as well as inverters and controllers that control a feed water pump that takes in sea water. It boasts a SOx removal efficiency of over 98%, and can also be used in the sea areas regulated with a 0.1% sulfur limit.
 ・ Achieved the world’s smallest SOx scrubber thanks to our proprietary technologies
    SOx scrubbers made by are the first in the world to use cyclone technology in their internal structure. This technology can efficiently bring the seawater (or alkaline chemicals) and exhaust gas into contact by generating a vortex in the exhaust gas and spraying seawater from the pipes arranged spirally (as shown in the lower right figure). This is how we achieved the world’s smallest※2 SOx scrubber. It can be easily applied to existing ships with limited installation space, and the loss of loading space by mounting the system can also be reduced.
     We hold patents for the pipe structure (branch pipe spiral structure) and spray nozzle distribution.
    FE’s SOx scrubbers are available in both open loop and hybrid types. The open loop type is a system with a low investment burden, requiring few accessories, that uses seawater once and discharges it outside of the ship. The hybrid type combines open loop and closed loop technology (a method that uses circulating seawater with alkaline chemicals mixed in) so that ships can switch over in compliance with the regulations of the sea area in which they are operating. This makes it possible for the ship to operate anywhere, including sea areas where drainage is prohibited.※3
 ※3  German rivers and ports, the three-mile Belgian coast and bays, and waters of the states of California, Connecticut, and Hawaii
-・Keeps operation costs down
   With this system installed, it is possible to continue to use current fuels (heavy fuel oil) instead of switching to low-sulfur fuels, thereby contributing to operation cost reduction for shipowners. We calculate that this system will yield a return on investment within about three years.※4
 ※4 Calculated based on fuel consumption amounts for a 95,000 deadweight tonnage equivalent bulker using fuel prices as of September 2018.
-4． SOx scrubber specifications
 Each size is available in open loop and hybrid types.
 ※Information conveyed in this release (product features, prices, inquiry information, etc.) is accurate as of the date of this announcement and is subject to change without prior notice.

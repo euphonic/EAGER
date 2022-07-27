@@ -9,9 +9,7 @@ Smart City solutions certainly align with green initiatives saving cities time a
 San Mateo County is one of the top three digital counties in the United States (in the category of 500,000 to 999,999) , according to the 2018 Digital Counties Survey. "This year's winners use tech to improve government, even when the odds are stacked against them. In...
 is pleased to announce a partnership with Labs, San Mateo County’s Smart Region Innovation Lab, to deploy cutting edge Internet of Things (IoT) technology within two of the county’s innovation zones. Labs will use Fybr’s end-to-end, integrated IoT...
 Today, many drivers rely on real-time traffic information and vehicle navigation systems to provide journey times and the best routes to their destinations. However, real-time parking availability – especially on-street availability – is almost never a part of current...
-End-to-End Platform
 comprehensive, modern framework that spans from edge devices to cloud servers – Enabling rapid development for a variety of industrial Iouses.
-Designed for Ultra-Low Power Use
 Designed to implement secure and reliable Ioapplications with minimal power consumption.
 Long Range Without The Latency
 Optimized to deliver the longest range possible with virtually no latency.
@@ -22,13 +20,8 @@ Join our mailing list to receive the latest news and updates from our team.
 SUBSCRIBE!is a leading end-to-end Iosolutions provider, collecting and delivering data to advanced analytic tools to solve business and community-based issues, such as transportation, power, and water management, as well as safety and quality of life issues for customers worldwide. Fybr’s “ready to deploy” technology makes urban life easier for residents and visitors while making cities, universities and corporate campuses safer, more efficient, and sustainable.
 Founded in 1998, and owning several M2parking sensing patents, we have been sensing activity in urban environments for almost two decades. With installations of every scale, we have encountered the numerous challenges urban environments create. Our latest generation of hardware and software solves many of those challenges to make sensing virtually anything – anywhere – a reality.
 Mr. Glatz specializes in corporate and business development, operations, business strategy, accounting, finance and taxation. He has been responsible for all aspects of operations, administration and development with several global companies.
-Vice President – Sales
 Mr. Miskell first served his community in the military and law enforcement before beginning a distinguished career as a regional marketing manager with Prudential Financial Services. He brought his unique blend of skills and experience to our team in 2008.
-Chief Financial Officer
 Mr. Justicz is the longest-serving member of our management team, overseeing all company accounting practices and leading financial strategy, planning and forecasting activities. He began his career as an analyst at Morgan Stanley before holding a variety of financial and senior management positions in public and private enterprises.
-Principal Platform Engineer
 With extensive experience working on both consumer and military applications, Paul has over 25 years of experience designing and developing real-time embedded software, and the hardware systems on which they reside. His background integrating firmware, hardware and their control systems, combined with his extensive experience developing wireless communication protocols and hardware, provides a unique and valuable skill set to the team. Additionally, Paul holds multiple patents.
-Chief Engineering Officer
 Bret has extensive experience working the entire “design to production” lifecycle. He has worked with numerous companies to improve the product development lifecycle for both consumer and industrial products. His expertise covers hardware and firmware design as well as the supply chain and manufacturing process design to ensure a successful product launch. Many of his products are still on the market and in use after as many as 15 years from the original design effort.
-Vice President Software Engineering
 Linnell brings over 16 years experience as an information technology consultant and programmer. He has developed and supported applications for small medical practices, non-profit organizations and general businesses.

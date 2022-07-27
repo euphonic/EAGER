@@ -1,63 +1,19 @@
-Market Outlook
-Enhanced external quantum efficiency from 850nm - 950nm wavelength in thin layer silicon with high data rate of 25Gb/s or more
-Enhanced and speed for Ge on Si Photodetectors from 1300nm -1600nm
-Monolithic Integration
-& Cost Reduction 
 Enable high density 1and 2photodiode monolithic integration with / Biapplication specific integrated circuits
 Monolithic integration of photodetectors with integrated circuits allow high performance and reduced packaging cost
-Data Center Interconnect 
-W&Key Applications
 Surface Illuminated Microstructure Hole Photodiodes
-Si Photodiode 
-Ge on Si Photodiode
-Scanning Electron Microscope Images
 Optical Field Distribution in Microstructure Hole using Simulation
-Microstructure Hole / APD Results
 Over a cup of cappuccino at a cafe in Palo Alto, was conceived and in a few months grew to over 100 years of aggregated knowledge and experience in photonic devices, optical systems , innovation, IP,manufacturing, and start-ups. All team members come from Fortune 500 companies and / or start ups.
-Bob Wang - & Co-Founder 
-Founder & Chairman of:
-R2 (sold to Hologic), 
-U-Systems (sold to GE),
-EndoSee (sold to Cooper)
-Shih-Yuan Wang - & Co-Founder
-BS, PhBerkeley
 Co-Inventor of Multimode VCSELS 
 for Datacenter interconnect
-Saif Islam - Professor UCD
-PhUCLA 
-JDSU, Labs
-Aly Elrefaie - Chief Scientist
-Ain Shams University
-& PhEngineering
-Bellcore, Labs, Boeing,  
-Optical communication systems
 Toshishige Yamada - Principal Scentist
 Physics for advanced materials and BS, University of Tokyo
-Ph.Arizona State University 
-Labs, Japan
-Semiconductor transport theory
-Ekaterina (Katya) Ponizovskaya Devine
-Principal Scientist, Theory
-& PhMoscow Institue of Physics and Technology 
-Lihan Wang -Vice President Strategy
-& Business Development 
-University of Michigan, Ann Arbor
-MSc University of Leeds
-Market Outlook
 W&Total Addressable Market Size for Data Center Interconnect = $3.7 Billion
-Short Reach (Si, 850nm) = 40% ($1.48B)
-Passive Optical Network (Ge on Si, 1550nm) = 13% ($0.48B)
 Total Optical Component Forecast 40-200g
 Other Significant Sectors for W&Applications                                                                         Source: Ovum
 Li(Advanced Driver Assist Systems) Current Market Size = $18.6B 
-Plastic Optical Fiber (POF) Automotive & Aeronautics
-Active Optical Cable (Consumer Electronics) 
 Enhancement of light detection efficiency with microstructure holes in high speed photodetectors with reverse bias
 Monolithic integration of microstructure holes photodetector with electronics for silicon & germanium on silicon structures.
 Monolithic integration of microstructure holes avalanche with electronics for silicon & germanium on silicon structures.
-Patent No: 9,530,905 B2
-Several other patents pending
-European Union: Pending
 Photon-Trapping Microstructures Enable High-Speed Efficiency Silicon Photodiodes ; Nature Photonics 2017
 High Speed Surface Illuminated Si Photodiode Using Microstructured Holes for Absorption Enhancements at 900-1000nm Wavelength; Photonics 2017
 New Paradigm in High-Speed and High-Efficiency Silicon Photodiodes for Communication Part I: Enhancing Photon-Material Interactions via Low-Dimensional Structures ; 2017
@@ -69,5 +25,4 @@ Fast Silicon Photodiodes ; Nature Photonics
 Silicon Nanostructures Bend Light to Make Faster Photodiodes ; Spectrum
 Tiny Black Holes Enable a New Type of Photodetector for High Speed Data ; Phys.org
 " Black Holes" in Silicon Enable High-Speed Photodetector ; Photonicsonline.com
-Slides / Presentations
-Market Outlook
+...Coming Soon...

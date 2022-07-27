@@ -1,6 +1,5 @@
 The new world is dawning.
 Billions of sensors; the Internet of Things. Data Centers in remote regions to store, process and deliver data to the Cloud. But the new world needs new technology. With ReRAM, customers can not only deliver the “big” data, but will also enjoy the energy efficiency, security, blazing performance and low latency to make this new world possible.
-radical departure from traditional memory.
 Because of its simple structure, Recan scale to smaller than 10nm, stack in 3D, and be directly integrated with logic in the same foundry. With Reyou get 1/20th the energy; 1000x endurance; 100x read performance; 1000x write performance and terabytes of storage on-chip.
 The possibilities are endless for a new way of thinking about storage and computing.
 Let us help you rethink your approach to system design.
@@ -11,7 +10,6 @@ License from us and integrate Reinto your next design. Get the ideal combination
 ReCores for System-on-Chip
 The new world is dawning.
 Billions of sensors; the Internet of Things. Data Centers in remote regions to store, process and deliver data to the Cloud. But the new world needs new technology. With ReRAM, customers can not only deliver the “big” data, but will also enjoy the energy efficiency, security, blazing performance and low latency to make this new world possible.
-radical departure from traditional memory.
 Because of its simple structure, Recan scale to smaller than 10nm, stack in 3D, and be directly integrated with logic in the same foundry. With Reyou get 1/20th the energy; 1000x endurance; 100x read performance; 1000x write performance and terabytes of storage on-chip.
 The possibilities are endless for a new way of thinking about storage and computing.
 Let us help you rethink your approach to system design.
@@ -20,41 +18,20 @@ We’ve only scratched the surface of what will be possible.
 It’s in production starting at 40nm.
 License from us and integrate Reinto your next design. Get the ideal combination of energy consumption, performance, capacity and feature set for your specific application.
 ReCores for System-on-Chip
-Why is Flash Technology Running Out of Steam?
-New Approach to Enterprise Storage
 Storage Innovation for the IoT
 New Wave of Wearable Device Innovation中文
-Artificial Intelligence
-Automotive/Industrial/Medical
-Board of Directors
-Technology Advisory Board
-Board of Directors
-Technology Advisory Board
-team member will respond within 24 hours.
-Gah. Something went wrong.
-We're sorry about this. Can you please try submitting your message one more time? If it still doesn't work, please tell us by 
 SitemapWorking at Inc. is a dynamic start-up company focused on delivering solutions that will dramatically enhance the global memory storage industry. Backed by top tier investors, we have assembled an expert team of leading financial, marketing, legal and engineering professionals. We are committed to our vision of rethinking the compute/storage paradigm and ushering in a new era of artificial intelligence, IoT, machine learning and neural networks that are redefining the intersection of our physical and digital worlds, enabled by our Retechnology.
 The following positions are currently available:
 In this position, you will be responsible for developing the next generation nonvolatile memory technology in a fast paced working environment. You will also actively interact with process and design engineers for the technology improvement.
-Responsibilities include:
 Development and optimization of operation algorithms.
-Physical device modeling and simulation.
-Failure analysis.
 Generation of electrical design rules and assist process engineers in developing the technology design rules.
-Education Requirements/Preference
 3+ years of direct device engineering experience preferred.
 Strong in-depth understanding of solid-state physics and/or material science.
 Experience in devices is highly preferred.
 Experience in handling large set of data and statistical analysis is a plus.
 Excellent written and verbal communication skills.
-Must be hard working, self-motivated and team player.
 In this position, you will be responsible for developing semiconductor process modules and integration for the next generation nonvolatile memory technology in a fast paced working environment. You will also actively interact with device engineers for the device improvement.
-Responsible for two or more process modules.
-Disciplined design of experiments.
-Solving key process issues/challenges.
-Meeting tight project schedules.
 or Ph.in Physics, Electrical Engineering, Chemical Engineering, Material Science or related field.
-Must have 3+ years of hands-on experience with various semiconductor fabrication and characterization processes (e.g. PVD, RIE, CVD, Litho, SEM).
 Must be a hard working, self-motivated and strong team player in a fast moving environment.
 Experience in nonvolatile memory technology is a plus.
 Strong ability to handle multiple tasks.
@@ -63,23 +40,15 @@ May require to work during alternative business hours and weekends.
 As a Sr. Product & Test Engineer at Crossbar, Inc., your responsibilities include, but are not limited to the following:
 Test and characterize product to verify devices meet design requirements.
 Define sort and characterize test flows for RRAMs.
-Perform Nextext Magnum 2 test program development.
 Develop and execute test plans for 3memory devices.
 Develop memory repair algorithms for high density memories.
 Use tools & scripts to parse and analyze results.
-Review design validation tests.
-Ensure all tests are performed to guarantee a product’s specification and fault coverage.
-Education Requirements
 Master’s degree in Electrical and Computer Engineering and 3 years of semiconductor test experience (any job title), or
 Bachelor’s degree in Electrical and Computer Engineering and 5 years of progressive, post-baccalaureate semiconductor test experience.
 As a Technical Marketing at Crossbar, Inc., your responsibilities include, but are not limited to the following:
 PR: Internal and external communications
 Generate customer presentations, white papers, articles, application notes and internal reports.
-Drive Marketing Communication and team activities.
-Production of website collateral: infographics, block diagrams, video scripts.
 Analyze market segments and trends (data centers, mobile, industrial / automotive / medical, consumer electronics, IoT, artificial intelligence).
-Analyze memory market and competitive positioning vs other memory technologies (Flash, DRAM, ReRAM, MRAM, PCM).
-Education Requirements/Preference
 This position requires a BSEE/or related engineering major with minimum of 3 years of marketing experience in Semiconductor industry or licensing.
 Technical Marketing experience across several market segments: data centers, mobile, industrial / automotive / medical, consumer electronics, IoT, artificial intelligence.
 Understanding of the Semiconductor industry, system architectures and memory market is highly desirable.
@@ -94,11 +63,8 @@ Coordinating strategy definition and execution with stakeholders in pre-silicon 
 Developing tools and methods to streamline development and integration to deliver highest quality in shortest time possible.
 Must have or in Computer Engineering or Electrical Engineering.
 3 years experience working with (Verilog coding, verification, debug) and connecting high level technical specs with implementation.
-5 years experience working on development, verification and integration using Verilog/SystemVerilog/UVM.
 Able to create a full chip-level environment (with all associated drivers, monitors, scoreboards, …).
 Experience with scripting in Perl/tcl/shell to automate flows.
-Effective communication, working with ambiguity, flexibility, self-motivation, and leadership.
-Validation Skillset
 Knowledgeable in industry and development flows and methodologies.
 Proficient in all aspects of pre-silicon validation (functional, DFT, power, coverage, gate level).
 Experience developing models for hardware components in C/C++, Systemor equivalent languages.
@@ -109,20 +75,9 @@ Remakes tightly integrated compute/storage subsystems possible, freeing designer
 With ReRAM, designers can create entirely new subsystems from “persistent computing” where integrated data pods never shut down to “smart memory” that learns from every interaction, and autonomously retrieves, filters, computes data without the intervention of the CPU.
 Reis now ready at 40nm and is moving to 2x nm, enabling even higher density and more tightly integrated devices. licenses its technology to Soand memory companies as off-the-shelf or custom cores. is also actively growing its ecosystem of hardware and software partners to help rethink how new ReRAM-centric architectures can usher in the next wave of world transformation.
 Leader in patented filament-based non-volatile Retechnology
-cores licensed for 40nm ready
-2x nm and below process node cores under development
-Licensed embedded memory IPs forSoC, MCU, from Kbytes, Mbytes to Gbytes
-Licensed storage memory IPs for standalone memory chips from Mbytes, Gbytes to Terabytes.
-290 patents are filed, with 145 patents already issued.
 Collaborative engagements in process to develop custom, Recentric architectures
-Proven scalability below 10nm process node
 100x lower read latency, 20x better energy efficiency and 1000x faster write performance than Flash
-No erase needed, bit/byte level overwrite capability
-Manufactured on standard production lines
-Capacities of 1TB/chip and more possibleLeadership Team Boasts Rich Heritage of Memory Innovation
 Based in Santa Clara, California, Crossbar, Inc. is led by George Minassian. The management and R&teams include some of the world’s renowned technologists, with decades of experience in developing, manufacturing and marketing non-volatile memory technologies and solutions.
-George Minassian, Ph.D.
-Chief Executive Officer and Co-Founder
 Dr. George Minassian has been a co-founder and of since 2010. seasoned veteran of the semiconductor memory industry, Dr. Minassian brings 25 years of experience in systems, logic design, new business development, and product development.
 Dr. George Minassian has been a co-founder and of since 2010. seasoned veteran of the semiconductor memory industry, Dr. Minassian brings 25 years of experience in systems, logic design, new business development, and product development. Over his extensive career, Dr. Minassian has a proven track record of developing commercially successful, leading-edge products.
 From 2002 to 2010, Dr. Minassian held a variety of positions at Spansion, a leading innovator of Flash memory solutions, most recently as vice president of System and Software Engineering where he led the $1.2 billion Flash Memory business targeting the cellular wireless market segment. While at Spansion, he developed and established new industry standards in emerging technologies such as and achieved a successful track record for large-scale product development and management. From 1999-2002, Dr. Minassian was director of Wireless Engineering at Advanced Micro Devices, a microprocessor leader, where he developed the industry’s first process and complete 802.11b/a chipset and reference designs. Dr. Minassian holds a Ph.in Electrical Engineering and Computer Science from the University of Texas at Austin.
@@ -145,31 +100,21 @@ Hagop Nazarian is vice president of engineering and co-founder of Crossbar. He h
 Prior to joining Crossbar, Mr. Nazarian was vice president of Design Engineering at Spansion, where his local and global design teams successfully designed 65nm and 45nm MirrorBit products. As the director of Flash Design at Micron Technology, he formed the first design team that developed 2Gbit - 16Gbit and products on 90nm, 70nm and 50nm technology nodes. He also served as director of design at Information Storage Devices where his local and global design teams successfully designed mixed-mode analog products and phone Voiceproducts. As a design manager at Cypress Semiconductor, his design team architected and designed Cypress’s first CPLDs Flash based product line and 7.5nm Hagop also worked at Xicor as a senior designer and R&device engineer developing non-volatile memory cell technologies, and products.
 Mr. Nazarian has 95 issued patents and 12 patents pending. His patents are related to PLD, CPLDs, NAND, NOR, MRAM, Retechnologies, and mixed mode programmable analog circuits and product architectures. He has 3 publications in journals and conference proceedings.
 He received his Master’s degree in Electrical Engineering from Santa Clara University in California.
-Vice President of Strategic Marketing & Business Development
 Sylvain Dubois joined the management team in 2013 as Vice President of Strategic Marketing and Business Development. With over 17 years of semiconductor experience in business development and strategic product marketing, he brings a proven ability to analyze market trends, identify new, profitable business opportunities...
 Prior to joining Crossbar, Mr. Dubois led strategic product positioning and market engagement for developing new products at Spansion. Responsible for identifying new growth opportunities and expanding the product portfolio, Mr. Dubois was instrumental in defining the Spansion Flash memory product roadmap.
 From 2002-2006, Mr. Dubois was a System-on-Chip architect of application processors at Texas Instruments. Mr. Dubois was in charge of the architecture and technology roadmap of and Flash memory controllers, and developed strategic relationships with major and Flash memory suppliers.
-Sylvain Dubois holds a Master of Science in Microelectronics from (Paris), University of Southampton (UK) and Universidad Pontifica Comillas (Spain).中文
-Artificial Intelligence
-Automotive/Industrial/Medical
-Board of Directors
-Technology Advisory Board
-Board of Directors
-Technology Advisory Board
 Since we founded we have worked diligently to prepare detailed technical, market and application information to help the industry learn more about us. Check out the information below and explore how Reis changing the game.
-Studies, Reports,
 SitemapResistive random-access memory (ReRAM) is based on a simple three-layer structure of top electrode, switching medium and bottom electrode ( 1 ). The resistance switching mechanism is based on the formation of a filament in the switching material when a voltage is applied between the two electrodes. There are different approaches to implementing ReRAM, based on different switching materials and memory cell organization. Those variables drive significant performance differences depending upon the switching materials being used.
 1. The resistance switching mechanism of Crossbar’s technology is based on the formation of a filament in the silicon based switching material when a voltage is applied between the two electrodes.
 Retechnology uses a silicon-based switching material as the host for a metallic filament formation. When a voltage is applied between the two electrodes, a nanofilament is formed. Because the resistance switching mechanism is based on an electric field, the Recell is very stable, capable of withstanding temperature swings from -40°to 125°C, 1M+ write cycles, and a retention of 10 years at 85°C.
 Crossbar’s technology will deliver 1,000x faster write performance;
 20x lower power consumption; and 1,000x the endurance at half the die size.
-2. Crossbar’s simple and scalable memory cell structure enables a new class of 3Rewhich can be incorporated into the back end of line of any standard manufacturing fab.
 Retechnology can be stacked in 3D, delivering multiple terabytes of storage on a single chip. Its simplicity, stackability and compatibility enable logic and memory to be integrated onto a single chip at the latest technology node ( 2 ).
 Crossbar’s patented built-in selector allows various memory array configurations in which a single transistor can drive one or thousands of memory cells. This enables cells to be organized in super dense 3cross-point arrays, stackable with the capability to scale below 10nm, paving the way for terabytes on a single die.
 The approach is also compatible. Designers can put logic, controllers and microprocessors next to memory in the same die, simplifying packaging and increasing performance. ReRAM’s simple structure and compatibility enable any foundry – or logic – to enter the Rebusiness by licensing Retechnology for Systems-on-Chip (SoC) or standalone memory devices.
+Read the “ReTechnology” white paper to learn more:
 We're ready to send you documentations
 Tell us a bit about your project so we can help you ReThink your design with ReRAM.
-Gah. Something went wrong.
 We're sorry about this. Can you please try submitting your message one more time? If it still doesn't work, please tell us by email .Chief Executive Officer and Co-Founder
 Dr. George Minassian has been a co-founder and of since 2010. seasoned veteran of the semiconductor memory industry, Dr. Minassian brings 25 years of experience in systems, logic design, new business development, and product development. Over his extensive career, Dr. Minassian has a proven track record of developing commercially successful, leading-edge products.
 Dr. George Minassian has been a co-founder and of since 2010. seasoned veteran of the semiconductor memory industry, Dr. Minassian brings 25 years of experience in systems, logic design, new business development, and product development. Over his extensive career, Dr. Minassian has a proven track record of developing commercially successful, leading-edge products.
@@ -201,11 +146,8 @@ Prof. Lu specializes in the research and development of silicon-based, compatibl
 He won the Career Award in 2010 and the Wilson Award in 2003. He has published 100 journal papers that have been cited over 10,000 times by peer researchers. Dr. Lu has given plenary or invited talks at a host of international conferences such as IEDM, Nano, and MRS.
 Prof. Lu is an active member of the Emerging Research Device working group of and co-editor-in-chief of Nanoscale, a flagship journal of the Royal Society of Chemistry. He has also served as a reviewer and panelist for NSF, DOE, ARO, and over 30 other scientific journals.
 Prof. Lu has a Ph.in Physics from Rice University in Texas, and a Bachelor of Science in Physics from Tsinghua University in China.
-Prof. Mervyn Rose
 Prof. Mervyn Rose is Professor of Physical Electronics and is Head of Division of Electronic Engineering and Physics at the University of Dundee in the He has been on the Academic staff since 1992 and, prior to that, was on the research staff in the Amorphous Materials Research Group.
 Director of the Amorphous Materials Research Group
 Director of DisplayMasters, an Inter-University Masters Programme aimed at training a new generation of Display Technologists for future high technology applications
-Member of the College
 Panel member of the DTI/Information and Storage Device Committee
-consultant on Display Technology
 Fellow of the Institute of Physics (since 2004)

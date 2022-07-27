@@ -1,24 +1,17 @@
 Grown from liquid, crafted by light + oxygen. With our revolutionary Digital Light Synthesis™ technology, Carbon and adidas are shaping the future of how footwear is being made with adidas 4d.
+Introducing the Carbon SpeedCell™
 The SpeedCell™ is a system of connected manufacturing unit operations that enables repeatable production of end-use parts at any scale. The Series printers and the automated Smart Part Washer are the first in a series of modular offerings that allow a wide range of industries to design, engineer, make and deliver end-use parts with one common manufacturing workflow.
-Factory of the Future
 Whether you are iterating on advanced product designs or producing parts at scale, you can configure a SpeedCell™ system that is right for your business. Printing and part washing are the first in a growing suite of automated, data-rich SpeedCell™ unit operations.
 With a build volume measuring 7.4" x 4.6" x 12.8" (189mm x 118mm x326mm), manufacturing features, and Carbon's groundbreaking Digital Light Synthesis™ technology, M2 is the perfect printer for your SpeedCell™ system.
 The M2 features twice the build volume as the M1, allowing for larger parts, higher throughput, and lower part cost, all with the same high resolution pixels (75 µm) and isotropic prints as Carbon’s pioneering M1 printer.
-Manufacturing Ready & Extensible
 M2 features high reliability hardware, the Carbon Connector expansion port for smart accessories, and compatibility with workflow automation.
-Next-Gen Software & Predictive Service
 Carbon’s modern software brings our hardware and materials together into a powerful, easy-to-use system and enables our industry-leading predictive service.
-Smart Part Washer
 Part washing is the newest unit operation in the Carbon SpeedCell™ system.
-Maximize Part Quality and Yield
 With optimized wash protocols, every part is consistently cleaned with minimal manual labor, resulting in lower per part cost.
-Manufacturing at Scale
 The Smart Part Washer delivers simple, repeatable part washing, enabling manufacturing at scale and environmental stewardship.
-More than a machine
 With a Carbon subscription, your hardware is paired with industry-leading predictive service, our full suite of materials, and continually updated next-generation software.
 Featuring the widest range of properties in additive manufacturing, our materials uniquely combine high resolution, exceptional surface quality, and mechanical properties tuned for production. From consumer product elastomers to high-temperature automotive materials, our offering is growing at an unprecedented rate.
 We built our business around a subscription pricing model to ensure that our success is tied to the success of our customers. The subscription future-proofs our customers from the obsolescence of traditional capital equipment purchases. With a Carbon subscription, your device is paired with our industry-leading service, compatibility with all of our materials, and continual software updates. It also makes it possible to leverage current products without losing the ability to upgrade as new products are released.
-Bringing 3Manufacturing to Life
 Carbon is working with today’s largest brands and leading innovators to help make their most advanced thinking a practical reality. Here are some of those stories:
 This field is for validation purposes and should be left unchanged.Who We Are
 Carbon works at the intersection of hardware, software, and molecular science. Our vision is a future fabricated with light, where traceable, final-quality parts are produced at scale with technology. — Continuous Liquid Interface Production — makes this vision possible by combining engineering­-grade materials with exceptional resolution and surface finish.
@@ -32,38 +25,18 @@ The talk that introduced us to the world.
 The science behind CLIP, on the cover of Science.
 recipient of the 2013 National Medal of Technology and Innovation.
 The $100 million Series funding led by Google Ventures.
-Our leadership team
 With senior leaders from the scientific community and Silicon Valley, we're bringing together the best in hardware and software engineering, molecular science and service.
-Chief Financial Officer
 Elisa de Martel is the Chief Financial Officer, responsible for Carbon’s overall financial activities and global finance organization, including accounting and controllership, financial planning and analysis (FP&A), reporting, tax, treasury and investor relations. Prior to joining Carbon, Elisa was with Apple Inc. for 11 years, where she served in a variety of financial roles and most recently, was the Director of Manufacturing Finance. Elisa earned a Master’s degree in Political Economy from the University of Essex, and a Master’s degree in Business Administration from the Business School.
-Chief Marketing Officer
-VP, Corporate Development and Administration
 Josh joined Carbon as the company’s General Counsel. He remains a managing director at Mohr Davidow Ventures and served as Chairman of the from 2013-2014. Prior to his time at Mohr Davidow and Carbon, Josh was instrumental in building Venture Law Group and the Palo Alto office of Brobeck, Phleger & Harrison to become two of the leading Silicon Valley law firms. Josh graduated magna cum laude from and later the School of Law where he was on the Law Review.
-VP, Operations
 Luke has more than 15 years of experience leading finance operations for industrial and enterprise technology companies. Most recently, he was Senior Director, North America Finance & Analytics for eBay. Previously, Luke was of Finance for Corning International, where he led finance operations in Asia, Europe, and South America and spent three years as the company’s in China. Luke received his from Duke University’s Fuqua School of Business.
-Director of Business Development, Medical Technologies
 Elle is focused on applying technology to medical applications with the goal of improving human health through 3printing. She was most recently a Senior Manager in Corporate Development at medical device company Thoratec. Previously, Elle worked in Business Development at Liquidia Technologies, a nanotechnology company founded by members of the Carbon team. Prior to receiving her from Harvard Business School, Elle received her in Public Policy from Duke University.
-of Materials
-Jason Rolland, PhD
 As of Materials, Jason is tasked with creating the broadest possible range of materials for growing 3objects with Carbon’s technology. Previously, he was Senior Director of Research at Diagnostics for All, and cofounded Liquidia Technologies. Jason holds a in chemistry from Virginia Tech, a Phin chemistry from Chapel Hill, and has over 25 current and pending patents.
-of Business Development
 Phil was a part of the founding team at Carbon in 2013 and currently serves as Head of Business Development. In his role, he manages partnerships and key customer accounts. Previously, Phil co-founded and was the of Business Development at Buystand, an ecommerce company. Phil received his in business and econometrics from Ursinus College.
-of Manufacturing
 Jeff has more than 20 years of experience in product development, manufacturing and engineering management. He was most recently with Tesla, where he managed the launch of the Roadster, Model S, and Dual Motor platforms. As of Manufacturing, Jeff is working to develop the systems and processes to commercialize our technology. Jeff holds a in Mechanical Engineering from Santa Clara University and received his in Industrial Engineering/Engineering Management from Stanford.
-of Field and Product Operations
 Heather has spent 15 years in client services with Velocity11 and Agilent. Heather is working to create a service organization that leverages data, insights and customer experiences to foster the highest level of customer interaction. Heather received her in English and history from the College of William and Mary, and her in medieval studies from the University of York.
 Paul joins Carbon after spending over 10 years at Dassault Systemes, where he was responsible for all customer and partner relationships as Managing Director for North America.  As of Sales, Paul is working to accelerate the adoption of our technology and maintain a central focus on customer success.  His experience managing some of Dassault Systemes' key relationships will be critical for driving company growth across a variety of industries.  Paul earned his in both Economics and History from the University of Michigan.
-Head of Hardware
-Dave Scheinman
 As Head of Hardware Engineering, Dave is responsible for designing products that celebrate Carbon’s innovative technology. He joined Carbon with nearly a decade of mechanical engineering and product development experience. He was most recently with Ekso Bionics. He received a in Mechanical Engineering from the University of California, Davis and an in Mechanical Engineering from MIT.
 Abhishek joined Carbon after spending 11 years with Google where he worked as a Principal Software Engineer. He made major contributions to networking layers, indexing and serving for web-search, gmail and local-search and was the technical lead for Bigtable database system for over 6 years. Prior to Google, Abhishek was an engineer and development manager of infrastructure software at Infospace. Abhishek received his Bachelors in Computer Science and Engineering from the National Institute of Technology, Warangal, India.
-Head of Recruiting
 Kelly is committed to driving innovation at Carbon through recruitment efforts focused on attracting top talent across a range of industries. She previously led the Recruiting team at Practice Fusion, a leader in electronic health records, during a period of heavy growth. Prior to that, Kelly consulted for clients including Zynga and Exponential Interactive, and spent five years managing Global Talent Acquisition for Ask.com.
-Vice President, Legal Counsel
-Vice President of People & Culture
-Libby Wolfensperger
 Libby Wolfensperger is Vice President of People and Culture, responsible for managing Carbon’s efforts to attract and retain the best and brightest talent, and to preserve and enhance Carbon’s unique culture that is core to the company. Previously, Libby was with International Entertainment, Inc., where she created and managed a strategic organization that partnered with the business to help accelerate and support growth and change. She earned her Bachelor of Arts degree in Economics from University of California, Santa Cruz, lived in Japan for seven years, and has served as a board member for several nonprofits.
-Ellen Kullman
-Eric Liedtke
-Alan Mulally
 This field is for validation purposes and should be left unchanged.

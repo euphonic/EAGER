@@ -1,4 +1,3 @@
-Webcast: 2019 Cloud and Security Trends
 Join us live 1/31 as we explore what's next and to learn how you can stay at the forefront of the latest tech advancements.
 The Virtual Cloud Network: Built for Innovation
 Compare legacy networks with the benefits of the software-based Virtual Cloud Network.
@@ -6,28 +5,13 @@ vSphere Platinum – The Heart of a Secure SDDC
 Discover the newest edition of vSphere and learn how it delivers built-in security for complete data center protection.
 Deep Dives on Cloud, Networking, Security and More
 Check out the list of upcoming webcasts and register to learn more about what interests you most.
-Experience the flash-optimized storage that powers hyperconverged infrastructure in just 30 minutes.
-Live Demo: Getting Started with vand HCI
 Join us 2/5 for an instructor-led demo, then test drive von your own and get answers to your questions in real time.
-Save 15% on vSphere Courses
 Start your journey to VCP-certification with a discounted bundle of vSphere On-Demand courses.
-Buy Now and Save 
-Why You Should Move to Digital Workspace
  Make your business nimble with consumer devices and application experiences that shape how businesses drive digital transformation.
-Scaling out Rapidly with Cloud on AWS
 Cloud on helps manage its global solutions and infrastructure at a much faster rate. 
-Improving Credit Card Services
 Krungthai leverages and Workspace to offer digital banking and faster customer service.
 Automating for Competitive Edge
 Markit deployed and vRealize to create a frictionless environment.
-View All Customer Stories 
-Please choose your country/region from the list below.
-United States
- (Русский)
-Middle East & Africa
-Middle East & Africa
- (العربية)
- (العربية)
 We Are We believe that software has the power to unlock new possibilities for people and our planet. Our software forms a digital foundation that powers the apps, services, and experiences transforming the world.
 streamlines the journey for organizations to become digital businesses that deliver better experiences to their customers and empower employees to do their best work. Our software spans compute, cloud, networking and security, and digital workspace. 
 We give customers the ability to run, manage, connect, and protect all of their apps on any cloud–so they can reduce costs, gain efficiencies, and innovate faster.
@@ -36,84 +20,36 @@ We support end-to-end management and security for all of the applications that y
 Our Business is Innovation 
 Since our founding two decades ago, our employees and ecosystem of 75,000 partners have been behind the technology innovations transforming entire industries—from banking, healthcare, and government to retail, telecommunications, manufacturing, and transportation. 
 Every day, we work to solve our customers’ toughest challenges through disruptive technologies like edge computing, artificial intelligence, blockchain, machine learning, Kubernetes and more–to define the digital foundation that will accelerate the next wave of innovation. 
-Read about our latest innovations from VMworld
-Innovation at  
+10 Top Enterprise Technologies from the Past 5 Years
 The past five years brought monumental, industry-changing innovation to enterprise technologies. 
 to Drive Adoption of “As-A-Service” Model for On-Premises Data Centers with New Solutions for Outposts
 New offerings will enable customers to build and deploy in customer data centers in an “as a service” model with rich, enterprise-class capabilities. 
-The Connection Between Employee Empowerment, Resistance and Retention
 CIOs making a commitment to putting employees first are adopting the digital workspace. What conversations ensure that digital transformation initiatives are successful?
-Achieving Carbon Neutrality
 reaches major milestone on our journey to net-positive global impact.
+Tweet about Visit the Newsroom
 Our commitment to solving the hardest technology problems is why companies trust VMware. It's also how we've earned the loyalty of more than 500,000 customers globally.
 We help Mercy deliver life-saving cloud and mobility services to hospitals everywhere.
 We help Node Africa bring the cloud to farmers across Kenya to increase productivity, access financial resources, and improve their quality of life.
 We help Armor protect over $200 billion in transactions a year.
-View All Customer Stories 
-Our Global Impact
 We believe in technology as a force for good. We understand that our products, operations, and people collectively have an impact on the world, and we strive to be net-positive through all that we do.
 As individuals and as a team we share core values around execution, passion, integrity, customers, and community.
 We recognize that technology has an impact on our planet, and we see sustainability as the next frontier of innovation.
 Citizen Philanthropy is about the power of our collective actions. We foster a culture of service, combining our time, talent, and resources to create networks of giving.
-Diversity and Inclusion
 We are building a culture of ingenuity and inclusivity. Our team of multinational, multicultural employees uses our diverse and dynamic backgrounds to deliver exceptional outcomes.
-Working at 
 Work Here. Transform Everywhere.
 We're all empowered here to achieve success on our terms. To explore. To invent. To find better ways of doing things. At VMware, jobs become opportunities and careers.
-ComputerWorld Best Place to Work in 2018
 Fortune 100 Best Company to Work For in 2018
-Pat Gelsinger
-Chief Executive Officer
-Chief Financial Officer
-Chief Operating Officer, 
-Chief Operating Officer,
-Products and Cloud Services
-Rajiv Ramaswami
-Chief Operating Officer,
-Products and Cloud Services
-Executive Vice President & Chief Technology Officer
-Executive Vice President, 
-Shekar Ayyar
-Executive Vice President,
 Strategy and Corporate Development and General Manager, Telco Group
-Chief Customer Officer
-Senior Vice President and General Manager, Europe, Middle East and Africa (EMEA)
 Senior Vice President and Chief Communications Officer
-Duncan Hewett
-Chief Information Officer, VMware;
-General Manager, Edge/IoT, Dell Technologies
-Senior Vice President and Chief Marketing Officer
-Amy Fliegelman Olli
 Senior Vice President and General Counsel
 Senior Vice President and General Manager, Americas
 Corporate Senior Vice President and Chief People Officer 
-Pat Gelsinger
-Chief Executive Officer
-Chief Financial Officer
-Chief Operating Officer, 
-Chief Operating Officer,
-Products and Cloud Services
-Rajiv Ramaswami
-Chief Operating Officer,
-Products and Cloud Services
-Executive Vice President & Chief Technology Officer
-Executive Vice President, 
-Shekar Ayyar
-Executive Vice President,
 Strategy and Corporate Development and General Manager, Telco Group
-Chief Customer Officer
-Senior Vice President and General Manager, Europe, Middle East and Africa (EMEA)
 Senior Vice President and Chief Communications Officer
-Duncan Hewett
-Chief Information Officer, VMware;
-General Manager, Edge/IoT, Dell Technologies
-Senior Vice President and Chief Marketing Officer
-Amy Fliegelman Olli
 Senior Vice President and General Counsel
 Senior Vice President and General Manager, Americas
 Corporate Senior Vice President and Chief People Officer 
-events, local seminars, live webcasts and webinars.
-Access  financial, stock and governance resources.
+Follow in the news. Read our latest announcements and media resources.
 Discover more than 75,000 partners or join the partner ecosystem.
 Learn about VMware’s commitment to Supplier Diversity and how to register your certified diverse company with us.
 Find out the locations of our offices around the world.
@@ -122,10 +58,7 @@ Visit one of our global centers where we host customers and partners from around
 Innovation at Explore VMware’s culture of innovation where curiosity meets execution.
 Be part of an elite group of people who are influencing our future. Go behind the scenes at to share your thoughts and experiences.
 Learn more about all of the companies in the Technologies portfolio.
-HelpCloud Operation Services
-Example: john.smith@abcompany.com.vmw
 We Can’t Wait to Work with You
-How to Get Started
 Work with Our Partners
 Connect with top partners who can help you on your digital transformation journey.
 Access the program that is right for you by joining our award-winning Partner Network.
@@ -138,37 +71,22 @@ Independent Research Firm Names a Leader in Unified Endpoint Management
 Workspace is recognized with the highest possible score in identity and access management, application, data and network security criteria.
 Forbes recognizes VMware's efforts to reduce environmental impact and support our employees.
 VMware's two versions are the future of SDN
-Helps Make-a-Wish Foundation Save Millions on IT
 VMware's newest Amazon partnership proves that the $65 billion company can thrive in the cloud wars after all, says Wall Street
 The 15-Year Odyssey Behind VMware's Ascent to Corporate Greatness
 Pulse Iocould be the future of edge computing
-Pat Gelsinger Sees "Very Robust Tech Decade" Ahead
 Building a Low-Carbon Economy
 announces key milestones and progress in our journey to drive global impact.
 Breaking: Intent to Acquire CloudHealth Technologies to Provide Multi-Cloud Operations at Global Scale
 announced its intent to acquire CloudHealth Technologies, continuing momentum and accelerating organic growth via M&A.
-VMworld 2018 U.S.: We’re Rethinking the Limits of Innovation
-Dive into VMworld 2018 product innovations and news supporting VMware's vision for cloud, networking, digital workspace and emerging tech.
-B-Roll
 Downloadable videos of our campus and employees in action.
-News releases, blogs and other relevant materials
-Executive Bios
 At VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our software forms a digital foundation that powers the apps, services and experiences that are transforming the world.
 teams with industry-leading hardware and software companies to optimize selected technology and solutions for software. OEMs integrate their hardware and software with technology, then sell and support joint solutions.
-What is the Program?
 partnerships are a critical component of VMware's total routes-to-market strategy. teams with industry-leading hardware and software companies to optimize selected technology and solutions with software. Being a Partner gives you and your sales organizations access to exclusive sales, marketing and support resources.
 Our core program is the Global Partner Alliances program. As a Global Alliance Partner, you'll integrate your hardware and software with our technology, support your products running on our virtual machines and co-sell and/or resell our products. You agree to develop L1 and L2 support skills on the products you re-sell. You also agree to the contract terms, and to minimum revenue attainment targets.
 Through the Embedded program, independent software vendors and independent hardware vendors can tightly integrate products into their own solutions and sell the combined solution worldwide for out-of-the-box offerings and reduced deployment complexity.
-Technology Alliance Partners 
 Created exclusively for software, hardware and storage vendors, the Technology Alliance Partner (TAP) program gives partners the resources to develop and deliver joint solutions to shared customers.
 Solution Provider partners can earn revenue credit and training access while also enjoying incentives and rewards offered directly by our partners through the Reseller Program. Premier-level Solution Provider partners can also count their OEM’d offering revenue towards their Premier+ rebate attainment.
-Technology Alliance Partners
-Technology Alliance Partners
-Technology Alliance Partners
-Technology Alliance Partners
-Technology Alliance Partners
 					Ability to "enter" opportunities in tde opportunity registration system
-Technology Alliance Partners
 Get news and insights from the Partner Network team.
 voted first in 2015 Annual Report Card
 Solution providers recognize as a best-in-class channel provider of desktop and server virtualization.
@@ -176,54 +94,23 @@ Join the conversation with the Partner Network.
  System Integrators and System Outsourcers (SISO)
 System Integrators and System Outsourcers
 partners with Global System Integrator and System Outsourcer (SISO) Partners to drive growth and innovation in the enterprise, combining VMware's next-generation technology platforms with partner global presence, deep vertical market experience and business transformation expertise.
-Explore Joint Solutions
 technology combined with your global presence, C-Suite access, vertical market expertise, and business transformation experience provides a unique and valuable joint value proposition for customers.
 The Cross-Cloud Architecture enables SISOs to give customers the strongest, most flexible multi-cloud strategy.
 The Workspace platform enables SISOs to give customers a digital workspace that reduces time to market for mobile apps.
 VMware’s security architecture enables SISOs to give customers network virtualization micro-segmentation to align granular security controls to apps.
- Events, Local Seminars & Watch Live Webcasts & Webinars
 Learn about virtualization trends best practices and the latest technology by attending one or more of the industry or partner events listed below. Connect with your peers in virtualization. Attend local seminars and watch live and on-demand webcasts and webinars.
-On Demand
-   United States of America
-Middle East & Africa
-Partner Sponsored Event
-University Recruiting
-User Groups (VMUG)
-Big Data
-Info & Data Management
-Unified Communications and Collaboration
-Apple and VMware: Deploying Mac in the Enterprise
-Virtual Guided Labs: Getting Started with v6.7
-2019 Technology Outlook: Cloud and Security
 Zero to in 60 mins - Site Recovery for Cloud on Technical Walkthrough
 Enhance Security for Virtualized Desktops and Apps with and Horizon
-View On Demand 
-View On Demand 
+Securing Office 365 with Workspace Conditional Access
 Making the Hybrid Cloud Real: Architecting the Software-Defined Data Center with Hyper Converged Infrastructure
-View On Demand 
-Cloud Automation Services: Introduction and Demo
-View On Demand 
 Optimization, Security Planning, and Troubleshooting the Network using vRealize Network Insight
-View On Demand 
 Deploying Data Center on a Cisco Infrastructure
-View On Demand 
- Contact Information, Contact Us, Technical Support
-Hardware & Software Alliances
-Resellers, Distributors & Consultants
-Volume Purchasing Program
 Technical support for products is available 
- depending on your 
 . Self-service, web-based support resources such as the 
- are also available.
-If you become aware of a security vulnerability in a product, 
-. For more information, please read about our 
-security response policy
 is committed to delivering a best in class professional services experience to our global customers. To achieve this, we partner with Master Services Competent Partners. Our new Master Services Competencies give your organization access to trusted and certified partners with the resources, knowledge, skills, and tools to successfully deliver services.
 Learn how is Partnering with Master Services Partners
-Delivering Digital Transformation
  — Be a better business partner.
  — Continuously innovate. Deliver next-generation capabilities; help the business work faster, keep data secure, and improve the customer experience. Master Services Partners have established practices to deliver the solution.
-Why choose Master Services Partners:
 Deliver Proven and Validated Professional Services Deployments
 Provide the Broadest Capabilities Across Advanced Solutions
 Accelerate Customer Time-to-Value with Exclusive Access to Delivery-Oriented Intellectual Property
@@ -231,98 +118,45 @@ Get in touch with a Master Services
 Get To Know Our Partners
 Principal Architect at Rolta AdvizeX
 One of our key philosophies is customers for life... ensuring our customers can be successful with solutions we sell and implement with them.
-Jenson Isham
 Chief Technology Officer at GCSIT
 As a regional partner focused on customer success... we measure that success when customers have achieved their desired business outcomes.
-Meet Our Top Master Services Partners
-AdvizeTechnologies LLC
-World Wide Technology, Inc.
-Presidio Networked Solutions
-Xtravirt Limited
-Comprehensive Computing Innovations (CCI) SAL
 Soluciones Informaticas Integrales
-Sovereign Systems
-General Datatech
-Filippetti
-Bilgi Teknolojiler
-Computer Design Integration
-Professional Services and Education Insights
-Customer FAQ
-Frequent Customer Questions FAQ
-Knowledge Base Articles
-Important information before upgrading to vSphere 6.7
+End of General Support for vSphere 5.5
 Best practices for upgrading to vCenter Server 6.7
 Update sequence for vSphere 6.7 and its compatible products
 End of Availability of vSphere with Operations Management Enterprise Plus Edition
 Devices deprecated and unsupported in ESXi 6.7
-FAQ: Discontinuation of third party vSwitch program
-Technical Support Welcome Guide
-vSphere Documentation and Release Notes
-View Support Contract History
-New! Skyline Proactive Support Technology
-vSphere Platinum Solution Brief
-Virtualizing Business Critical Applications
-vSphere Evaluation Center
-vSphere Hypervisor (ESXi)
-vSphere ESXi Hypervisor Overview
-Blogs & Communities
-vSphere Upgrade & Install Community
-VROOM! Performance Blog
-How to Buy Support
-Enterprise Infrastructure Lifecycle Policy
-HelpCloud Operation Services
+vSphere: What's New Fundamentals [V6.0 to V6.5] (free e-learning course)
 Research and the Academic Program bring industry researchers, university faculty and students together to explore new directions for the industry. Together, we develop extraordinary ideas and build tomorrow’s transformative technologies today.
 Innovative Research with a Global Footprint
 At Research, we develop ideas that push the boundaries of technology. We fuel innovations that influence our company, our customers, and our world.
-Shaping the World of Tomorrow
 Disruptive thinking needs to be nurtured. collaborates with the world’s leading faculty to develop and incubate innovative research approaches, and to accelerate the transformation of ideas into world-class technology solutions.
-Explore Your Future with Us
-Build Your Skills
 Academy allows university faculty, technical instructors and secondary education teachers to deliver authorized courses. Students can jump-start their career and knowledge by taking courses from authorized Academies. Courses are offered through:
-global network of colleges and universities
-Online certification opportunities
-Enrich your technical knowledge and stay ahead of the curve by taking advantage of free resources and opportunities – developer tools, open source projects, apps, and more.Cloud Operation Services
 The Story of VMinclusion
 Discover how we're harnessing the power of human difference to drive great business outcomes for our employees, customers, and shareholders.
-Hear from one of our Leadership Council members on why diversity and inclusion matters to VMware.
-Hear from our global employees on why diversity and inclusion matters to VMware.
 - Pat Gelsinger, and VMinclusion Co-Sponsor
 We encourage everyone at to bring their authentic selves to work. No matter the role, level within the organization, or location in the world, our people are empowered to lead at VMware. In order to model authentic leadership, leaders and employees across the company share their own stories.
 “Ingenuity is the heart of VMware’s culture. The power of human difference is what fuels ingenuity.”
 - Betsy Sutter, Chief People Officer and VMinclusion Co-Sponsor
 Unleash the Power of Human Difference
 Power of Difference communities (PODs) are employee-driven groups that enhance VMware’s inclusive culture and harness the power of human difference. We have PODs for site specific locations as well as PODs designed to strengthen networks for women and underrepresented groups. PODs are open to anyone in the company and designed to help participants grow as leaders, engage with different communities, and drive business impact.
-Demographic communities at include: Black@VMware, Chinese@VMware, Latinos@VMware, PRIDE@VMware, Veterans@and Women@VMware.
-Local Site PODs include: VMinclusion@ANZ, VMinclusion@Bulgaria, VMinclusion@China, VMinclusion@Cork, VMinclusion@CostaRica, VMinclusion@France, VMinclusion@Germany, VMinclusion@India, VMinclusion@Japan, VMinclusion@METNA, VMinclusion@SEAK, and VMinclusion@UK.
 The Power of Difference communities at launched its Power of Difference communities (PODs) one year ago as part of its commitment to activating and driving diversity and inclusion across the company.
 Watch this video to learn more about our Latinos@and our commitment to inclusion at VMware.
 fosters inclusion by strengthening the community of women in technology. 
 Watch this video on our Women@Power of Difference community and learn more about how we are empowering women to lead and change the world.
 values diversity of opinion and cultivates new leaders, in part, through its Black@Power of Difference community (POD).
 PRIDE@supports its employees, in part, through its PRIDE@Power of Difference community (POD). Discover the energy engine of our VMinclusion efforts and see how we’re harnessing our employees power of difference.
-VMinclusion PODs
 incorporates different ways of thinking and provides opportunities for employees to shine in the sites in which we operate. Learn more about how we’re developing diversity and inclusion ambassadors to help make and the communities we serve a better place for everyone. Watch this video on our Local Power of Difference communities and join us! 
-Disrupting Unconscious Bias
 With leading researchers from Stanford University, we deliver research-based education on what Unconscious Bias is and how to block that bias in the workplace. 92% of participants leave with a commitment to action to block bias in the workplace.
 The Voice & Influence program, designed by Stanford Women’s Leadership Innovation Lab, offers leadership development through a gendered lens. Women participating globally report growth in their perceptions of themselves as leaders and develop stronger networks for career advancement. Men also participate as allies.
-Dare To Be Yourself 
-Rich Lang – Senior Vice President, HR
 Hear how his decision to share who he is as a member of the community at work is fostering opportunities for all people to thrive at VMware.
 Recognizing the power from her own leadership journey, Helle is taking an active role to foster an inclusive workplace for all people at VMware.
-Anthony Alvarez, Senior Director
 Watch Anthony’s story and discover how championing leaders from all backgrounds will enable our entire community to thrive.
-Lily Chang, VP
 Discover how a defining moment in Lily’s life sparked her drive to lead in life and inspiring people across the globe to grow as leaders.
 Hear how Brandon’s commitment as a leader to promote a culture where all people can thrive is empowering people to closely partner and achieve customers’ business goals.
-Renuka Rajagopal, Senior Director
 Through her work with VMwomen and now VMinclusion, Renuka is fostering a workplace community where all people are empowered to speak up and be their authentic selves each day.
 At VMware, when we care about something, we believe in driving for measurable improvements. By measuring our progress, we see how far we have come and how far we still have to go. Thank you for joining us on our journey.
-Equal Pay for Equal Work
 At VMware, harnessing the power of human difference means equal pay for equal work. We continually analyze compensation globally, accounting for multiple factors that influence pay such as tenure, geographic location and performance. Our most recent data analysis, done by a third party, shows that at VMware, women earn 99% of their male counterparts' salary globally and racial and ethnic minority employees earn 100% of their white counterparts in the We are proud of these results and are strongly committed to pay equity and equal opportunity across gender and racial lines.
-Overall Representation of Women and in Leadership (Global)
-Representation of Women by Region
-Representation of Women by Tech and Non-Tech (Global)
-Representation of Other Diverse Communities
 Representation data is of February 2018. In 2017, transitioned to a new fiscal calendar, and as a result, 2017 was only one month long. Therefore, 2017 is not reported. Pay Equity analysis was conducted in June 2017. Representation calculations remove blanks and declines. To create additional transparency we share our 2017 EEO-1 report here . We believe the metrics we have shared above are a more meaningful representation of our diversity focus.
 is deeply committed to working across the industry to building communities for women in tech and growing the next generations of women leaders.
 founded the Women Transforming Technology (WT2) conference in 2016, to bring together industry leaders and community organizations committed to gender diversity at all levels across the tech industry.
@@ -331,105 +165,67 @@ As part of our Founding level partnership, we launched new networks in Bangalore
 is engaging with all of our community to help accelerate change and be a force for good across the technology industry. As such, we are making bold commitments and investing in programs to expand the community of female and diverse talent in technology.
 We are proud of what we have achieved and continue to strive for a diverse and inclusive best place to work environment. And we have been recognized for our achievements.
 We celebrate human differenceCloud Operation Services
-Scaling out Rapidly with Cloud
 Cloud on helps manage its global solutions and infrastructure at a much faster rate.
 Krungthai leverages to offer digital banking and customer service.
 Markit deployed and vRealize to create a frictionless environment.
 Cloud on Does the Heavy Lifting for Customers
 leverages for technology with vRealize Business Suite to help the company stay ahead of the curve and integrate the technologies they’re choosing.
 “We were integrating a lot of solutions or our own with With cloud, we're going to allow to do a lot of the heavy lifting for us. We're going to be able to transition those workloads to cloud to ensure that now it doesn't matter if we're in a private cloud or a public cloud, is going to be that constant layer that's going to allow us to scale out rapidly. We no longer have to worry about the nuances of what API's are in use because is going to worry about that for us now.”
-- Ryan Fay, CIO, Specialty Benefits
 Delighting Customer and Employees with Future-Ready Infrastructure
 Krungthai Card Public Company is staying ahead of changing customer expectations by offering digital banking services and faster customer service, both made possible by Software-Defined Data Center and Workspace Working with Tangerine, has enabled the credit-card issuer to serve their customers quicker and more securely while reducing operational costs.
 “Ultimately, we want to use technology to benefit our customers and our employees. We want to improve customer experience, data security and ease of work. And has helped us to achieve all that.”
-- Woottichai Jar ernpol, Senior Executive Vice President, Information Technology, Krungthai Card Public Company
 Global Information Powerhouse Automates for a Competitive Edge
 Following its merger, Markit, a provider of information, analytics and solutions to 85% of the Fortune Global 500, needed to combine the operations of its two component companies and introduce a more automated infrastructure. As part of this alignment, it wanted the ability to better handle the billions of gigabits of data it processes every day and support its thousands of developers working to bring innovative products to market quickly; both key elements of maintaining a competitive edge.
 “Markit was a big shop and, as had already started the private cloud journey, we were able to leapfrog ourselves over that process. That meant we could quickly roll out virtual machines and software-defined data centre (SDDC) technologies into Markit and IHS, building one unified private cloud for the company,”
-- Ben Tanner, Director, Head of Cloud Enablement, Markit
-Region 11
 Region 11 provides schools a more secure and reliable technology platform to promote learning and teaching with Data Center.
-Region 11
 Applying Lessons Learned to Defend Against Attacks
 Region 11 is one of 20 education service centers in Texas. It provides professional development, technical assistance, and management of educational programs to 77 public school districts and 66 charter campuses, serving 70,000 educators and more than 578,000 students across 10 counties.
 To better secure its infrastructure after a 2016 attack and help meet compliance requirements for safeguarding data, Region 11 upgraded its data center and network infrastructure with Data Center to virtualize the network and extend security capabilities into the cloud.
 “just stood out head and shoulders above the rest. The price point for value, the ability to extend to the cloud, the ease of use. Since we’ve been attacked the same way as years before, and it didn’t take us down. Quite honestly, nobody even knew we were attacked.”
-- Rory Peacock, Deputy Executive Director, Region 11
-Trend Micro
 Trend Micro uses Cloud on to quickly migrate workloads to its public cloud with on-demand expansion and no need to retrain staff.
-Trend Micro
-Fast and Efficient Transition to Public Cloud
 Cybersecurity leader Trend Micro uses Cloud on to easily and quickly migrate workloads to its public cloud — with on-demand expansion and no effect on application uptime or resources required to retrain personnel. The company can now deliver services in weeks that used to take months.
 “Within Trend Micro, Cloud on allowed us to extend out to the public cloud in a very fast and efficient way. No resources were required to retrain our personnel, very little in terms of investments in additional tools. And the ability to deliver services: where we used to roll out services and it would take us months, now we can deliver those services in weeks.”
-- Manish Patel, Senior Director of Strategic Alliances, Trend Micro
-Mohave Community College
 small team, supporting four campuses and around 8500 students, partnered with and Dell to rebuild their entire domain.
-Mohave Community College
 Community College Transforms IT, Empowers Students to Succeed
 Mojave Community College has four campuses supporting 8500 students in the fourth largest county in the After their domain crashed, Mohave’s small team partnered with and Dell for disaster recovery, networking and virtual desktops. The college implemented Data Center with the guidance of VMware’s rapid deployment team to optimize their network – decreasing unplanned outages from three a week to zero. Disaster recovery times plunged from 72 hours to less than one hour. Horizon lets students access college apps and data from anywhere at any time, great for students who work or have families.
 “absolutely saved us. We went from 72 hours to about 48 minutes for our disaster recovery, and for us that's huge.  Going from two to three outages a week to none over a two-year period. It's really helped the college stabilize what we give to the students, because at the end of the day, our mission is the student.”
-- Mark VanPelt, CIO, Mohave Community College
 Myanmar’s fastest growing bank deployed vSphere® and NSX® Data Center to transform banking in the country.
 Myanmar’s Fastest Growing Bank Continues to Transform Banking
 From day one, Bank has pioneered new technologies to leapfrog competitors. While incumbents were encumbered by legacy systems, Bank deployed vSphere® and NSX® Data Center to transform banking in Myanmar. Customers now get financial products previously unavailable to them, while enjoying better service and security – making Bank the fastest growing bank in the country.
 “If we had 400 to 500 physical servers now, our costs would be very high. By going with vSphere virtualization from the beginning, we have saved at least a couple of million dollars.”
-- Minn Wint Oo, Deputy Managing Director, Chief Technology Officer
-Johnson Construction Company
 Top construction firm turned to SD-by VeloCloud for quick deployments and secure connectivity.
-Johnson Construction Company
-Deploy and Manage Remote Sites in 7 Days or Less
 Johnson Construction Company specializes in a variety of complex and schedule-driven projects. The company supports its many projects from its central offices, but requires on-site construction management for each of its project sites located across the United States. However, its legacy network infrastructure got in the way of delivering network connectivity to the remote sites efficiently and with enough bandwidth. Johnson decided to use SD-by VeloCloud to better support its business requirements and remote office deployment needs. With an aggregate of the SD-Saadelivery, an increase in the number of low-cost circuits, and a new hosted Vophone system, Johnson is now able to save $75,000 annually.
 “With VeloCloud SD-we were able to utilize a plug-and-play model that significantly simplifies the deployment of our remote project sites.”
-- DUGHMAN, DIRECTOR, JOHNSON
 For a more flexible, secure and mobile working environment for employees, Berlin’s waste management company chose solutions.
-Berlin: Due to mobile working, a clean capital city can be realized
 The Berliner Stadtreinigungsbetriebe contributes to turning Berlin into a Smart City. Every day, the company is tasked with not only keeping roads, bridges and paths clean, but also disposing of the waste of the approximately 3.7 million inhabitants. It’s a logistical and organisational masterpiece – but it must have appropriate infrastructure created behind the scenes, for example within the department. In order to achieve a more flexible and mobile working environment for office workplaces and the street cleaning teams, Berliner Stadtreinigungsbetriebe decided to implement Workspace ONE, powered by AirWatch technology; Horizon; vSAN, and App Volumes.
 “We placed our trust with regard to desktop virtualization in v6.5, because it runs trouble-free, is cost-effective and has a high performance at the same time. That’s why we want to find out, if we could virtualize our servers based on this solution as well.”
-- Ronald Scheer, Organisational and Information Technology, client-server operation, Berliner Stadtreinigung
 Leading construction company reduces branch CapEx and OpEx costs while improving reliability and performance for remote branch users.
 Devcon, the largest general contractor in Silicon Valley, maintains a significant regional presence with offices throughout the western United States. Before deploying SD-WAN, many of Devcon's offices lacked access to high-bandwidth and reliable connectivity. The company’s previous solution provided very little visibility into network and application performance.
 Devcon chose SD-by VeloCloud to replace its aging branch infrastructure. They get a cloud-delivered that provides virtualized services to remote sites with enterprise-grade performance, visibility and control. With SD-WAN, the company achieved its core goals while preserving its existing network design and equipment.
 “Devcon reduced its bandwidth costs by 75% per month. Also, VeloCloud’s integrated Wi-Fi access point at the edge is great. With integrated Wi-Fi, we could deploy a wireless network that lets all remote users connect their mobile devices to the That feature alone allowed us to reduce our hardware footprint in each location.”
-- TAN, IT, CONSTRUCTION
 By using SD-WAN, a worldwide organization changed from an active-passive to active-active network and introduced packet-by-packet prioritization.
 SD-Used to Expand Global Footprint and Support a Remote Workforce
 After implementing SD-by VeloCloud, Inc. gained a flexible and scalable network infrastructure to support its existing and long-term goals.
 “VeloCloud SD-is enabling us to expand our business, hire the best and brightest, and support all of our employees and customers so that user satisfaction becomes a key differentiator for us.”
-- Rosa Lear, Sr. Marketing Manager of SD-by VeloCloud Content and Social Media
-Deliver Business Agility and Rapid Branch Deployment with SD-WAN
 With SD-at the forefront of its applications, The Bay Club operations team is able to expedite the portion of acquisitions. With prompt service delivery, members see the improvement in the quality of the new Bay Club experience, which ultimately makes it easier for the sales and marketing team to attract new customers.
 “When it comes to our goals of reducing cost of ownership, accelerating acquisitions, and delivering a high-quality member experience, VeloCloud enabled us to achieve them all. Bring on the growth—we’re ready to handle it.”
-- Mark Street, Director, The Bay Club
 Future-proofing the Network with SD-WAN
 Global transportation, storage and distribution company Stolt-Nielsen has a highly dispersed organization with over 2,200 people, distributed in over 40 branch offices in more than 30 countries. The company must deliver a high-quality experience to every user in every branch company-wide. Stolt-Nielsen needed to make fundamental changes to its infrastructure to support current and future demands.  Within a three-month period, working with network services company Videns Services, Stolt-Nielsen was able to migrate over 40 locations from a traditional to SD-by VeloCloud solution, a process that previously would have taken about a year. For new branches where all network prerequisites were in place, migration to the SD-platform took only a few hours.
 “With the new network and dynamic routing, we now provide local breakout to the internet. In the future we also may consume application and content much closer to the user. This can easily be achieved with SD-WAN.”
-- Daan Muizer, Global Service Delivery Manager, Stolt-NielsenCloud Operation Services
 My is a self-service, integrated, account-based interface that will simplify your online product license and support management experience. All partners and customers may use this site.
 What are some of the things can do in My VMware?
 View and manage product license keys and support at the customer account level
-Easily create folders to organize your license keys
-Get help and file support requests
-View and manage all evaluations
 Gain visibility into your purchases and support contract status
 Speed installations with intuitive organization of product downloads and trials
-Manage all user rights and permissions for license key management and support
-Request renewal quotes for your support contracts
-Track all tasks performed by users within your account
 In many cases, your customers may designate you, authorized partners, with these permissions.
 For additional partner resources & partner training for My VMware, please visit Partner Central .
 My Every Partner should watch this brief presentation on My to understand the basics, including the importance of Entitlement Account (EA), Super User (SU) and Procurement Contact (PC).
-Register for vmLIVEs
-Frequently Asked Questions for Partners
-No, your My profile is different than the Partner Central profile. Your Partner Central account has a log in email address with a .vmw extension (similar to your@emailaddress.com.vmw), whereas your My log in email address does not (similar to your@emailaddress.com). To register for an account with Partner Central, please use the  User Self Registration Form .
 Depending on your Partner type, this Customer-centric tool may affect what is required of Purchase Orders for manual and transactions. Specifically, an number will be required for orders for existing Customers. In addition, you can expect changes to the display of license and support information and the structure of how such information is managed within the Entitlement Account. When managing your Customer’s account, certain permissions may be required and must be assigned by your Customer to act on their behalf. 
-Please review the  Customer FAQs  for more information. 
 Not at this time. Although My consolidates many existing portals, it does not currently integrate with or replace Partner Central. My is a separate portal with a separate log-in. 
-Super Users Roles
 No. The Super User designation typically remains with the Customer, with permission levels granted to you by your Customer. If you would like to be the Super User, please obtain permission directly from your Customer, confirming their desire to transfer all rights and capabilities to your organization as the Super User designation may carry specific legal responsibilities. 
 Please contact as this may be an error during the conversion process. Please contact the  Partner Support Center . 
 Support codes for Partners are provided based on program tier and are not tied directly to licenses. As a result, support codes will still be located in Partner Central and are not visible in My VMware.
 My does not change the current process to view or obtain support on licenses. Certain Partners are responsible for their Customers’ Level 1 and Level 2 support as “authorized support providers”. Therefore, support is not associated to those licenses in the portal and will not be visible. 
-Not For Resale
 Depending on your Partner type, most licenses do not come with support and this remains unchanged. As before, you may use your support codes for this purpose. Locate your Support Code in Partner Central and redeem online on the Partner Support Center . 
 Renewal of your licenses remains the same; they are renewed annually via the renewal of your Partner program agreement. If you have more program-related questions, please contact the Partner Support Center .
 utilizes a separate process to issue Partner-specific evaluations and this process is not currently linked to the My portal.  
@@ -437,17 +233,11 @@ However, Customer Evaluation licenses downloaded directly from www.vmware.com wi
 Yes, Customers may be assigned, or may request more than one During the conversion process to My VMware, Customers may automatically be assigned more than one number in their account. Please contact if you wish to merge or aggregate your numbers, or if needed, to request additional numbers to be added.
 There is no account level higher than an account. Customers with multiple accounts will also have multiple Super Users, each with the ability to manage only the entitlements tied to that specific number.
 For new Customers, the initial number is created during the processing of their first order. All subsequent orders will roll up to this unless requested otherwise. 
-What happens if place an order without the Entitlement Account (EA) number?  
-What happens if place an order without the Entitlement Account (EA) number?
 For existing Customers, it’s important to look up and include your Customers’ number to make sure they are able to access their licenses through VMware. If no is provided for an existing Customer, this may cause delays during the ordering process or a new number may be created in error which will cause additional delays and impact Customer satisfaction. To avoid such delays, ensure that all orders for existing Customer include their number. 
-New Customer are assigned their number during the order process.
 has a process detailed for merge, aggregate, or deletion. Please contact your representative or the Partner Support Center for more information. 
-To locate your Customers number, please use the “Look-Up Tool” provided online in Partner Central. If your Customer has more than one number, please contact your Customer to determine which number they prefer to use. 
 If the is for a brand new Customer, will create the number during the ordering process. For all existing Customer orders, an should be provided. If no is provided for an existing Customer, this may cause delays during the ordering process or a new number may be created in error which will cause additional delays and impact Customer satisfaction. 
 Locating the number is a shared responsibility of the Partner Channel. The “Look-Up Tool” (coming soon) will also be provided for use in Distributor Central. If more than one is available to choose, please contact your Reseller Partner for more information. 
-License Types
 My allows users to determine their own organizational structure for licenses. Utilizing the folder management capability of My VMware, you may identify and group your products by order number, by name, by license type, or by any designation you choose. Once your order appears in the portal, you may make those changes at your discretion. 
- Yes. My does not change this process; Customers still have the decision power to retain their current Partner(s) or choose another during the renewal process.
  The renewal process has not changed for IULs. Please visit Renewals Center to complete your renewals.
 The process for Partner Activation Code (PAC) license redemption for Customers remains unchanged with one exception. During the redemption steps, the Customer is asked to select the appropriate number from a drop down menu. It is possible to have multiple numbers, both personal and corporate, but only one number can be chosen per license. If no number is chosen, we assume the Customer wants a new account created. If no number is available to select, this is likely a new Customer and an will be created automatically by VMware. However, if the Customer has an existing number but does not see it listed, then please contact Customer service for assistance. 
 If you are a Partner who purchased from an versus a distributor, you or the Customer must renew those licenses with the directly. 
@@ -459,9 +249,7 @@ Pro Bono Service Learning to Drive Nonprofit Digital Transformation
  Expanding on collaborative research with the Taproot Foundation, the Foundation published a new resource on how pro bono Service Learning can support nonprofits so they can thrive.
 named 2018 Best Workplaces for Giving Back by Great Place to Work and Fortune
 Thanks to people, this recognition is again possible. people are passionate about cultivating a culture of service and building a thriving community where everyone can be active, engaged citizens for the causes that matter most to them.
-Digitally Transforming a Rural School District
 global team of people embarked on the first Good Gigs Trek to work with a Utah school district to bridge the digital divide.
-Imagine What is Possible When We’re Giving Back Together
 At the end of each year, people take time to reflect upon the many things they are grateful for, and pay this forward by directing support to their nonprofits of choice. By Giving Back Together, we show what is possible when we choose to act together.
 Customer-Centric Approach to Transforming Technology Pro Bono
 The Foundation released its inaugural research paper to address how tech pro bono can bridge the growing digital divide for nonprofits.
@@ -475,7 +263,6 @@ The choice to learn and grow through service.
 Citizen Philanthropy is about the power of collective impact.
 The impact of combining our time, talent, and resources to create networks of giving.
 The impact of knowing that our individual actions matter because
-Big things have small beginnings.
 We know that each of us has what it takes to make change happen.
 To be the active stewards of what matters in our community.
 Strengthening communities with 40 paid hours each year for employees to contribute their skills and talents.
@@ -485,76 +272,36 @@ Celebrating employee service with employee-led donations at Day 1, Year 12, and 
 Matching employees’ charitable donations from $31.41 to $3,141.59 annually.
 The Foundation is a corporate social responsibility group at VMware. Charitable donations may come from a donor-advised fund with Vanguard Charitable.US
 "Customers rely on to transform the way they build, deliver and consume Information Technology."
-Pat Gelsinger, CEO
-Pat Gelsinger
-Chief Executive Officer
-Chief Operating Officer, Customer Operations
-Rajiv Ramaswami
 Chief Operating Officer, Products and Cloud Services
 Executive Vice President, Worldwide Sales and Services
-Chief Customer Officer
 Senior Vice President and Chief Communications Officer
-Chief Information Officer, VMware; General Manager, Edge/IoT, Dell Technologies
-Amy Fliegelman Olli
 Senior Vice President and General Counsel
 Corporate Senior Vice President and Chief People Officer 
-Chief Financial Officer
 Chief Operating Officer, Products and Cloud Services
-Executive Vice President & Chief Technology Officer
-Shekar Ayyar
 Executive Vice President, Strategy and Corporate Development and General Manager, Telco Group
-Senior Vice President and General Manager, Europe, Middle East and Africa (EMEA) 
-Duncan Hewett
-Senior Vice President and General Manager
-Senior Vice President and Chief Marketing Officer
 Senior Vice President and General Manager, Americas
-Diane Greene (1998 – 2008)
 Dr. Mendel Rosenblum, Chief Scientist (1998 – 2008)
-Scott Devine, Principal Engineer (1998 – present)
 Dr. Edward Wang, Principal Engineer (1998 - 2009)
-Edouard Bugnion (1998 – 2004)
-Andrew Lambeth
-Pratap Subrahmanyam
-HelpCloud Operation Services
-20 Years of Innovation
 Watch how became an industry pioneer. Today, we remain focused on Innovating in Everything We Do, and committed to solving the most difficult technology problems for our customers.
 VMware’s Office of the (OCTO) charter is to look over the horizon – exploring, inspiring, and innovating to impact the future. is driving innovation programs and research, while connecting technologists from academia, to our field, to our customer and partner communities. In addition, we are focused on how relates to the Open Source community and our Sustainability initiatives to positively impact and shape the future.
-Inventing the Future Together
 Extraordinary ideas that will transform tomorrow are born today. Research and its Academic Program are home to industry researchers, university faculty, and students from around the world who are collaborating to develop ideas that will influence the future of technology.
-Inspiring Innovation Everywhere
 Inspired by the drive, passion and intellectual curiosity our teams have for technology, we are committed to providing diverse innovation programs that inspire members of the community to explore the possibilities. team members are encouraged and empowered to constantly challenge the status quo, ask "what if" and explore new technologies.
 Collaboration Is Core to Our Values
 Collaboration and a keen interest in technical excellence are core to VMware’s values. actively engages with the open-source community through contributions to exiting projects, as well as developing, releasing and leading new open-source projects and initiatives.
+We Are a Force for Good
 Our mission is to leave ahead a better future—to put back more into the environment, society and the global economy than we take—and to inspire our employees, customers and partners to do the same. To us, the seemingly impossible is possible. And we work to provide it every day.
-Technology Predictions for 2019
 Now that I’m almost two years into my role as for — with a remit that covers all of IT, not just networking — I’ve dusted off the crystal ball for 2019.
-Hackers Innovate Everywhere at VMware’s Global Borathons!
 Last fall, we saw over 400 hackers participate in a Borathon across our major global sites. From Bulgaria, India, China, Palo Alto, and a global Open Source Borathon, where all the teams hacked remotely across the world.
 is pleased to announce the 2018 recipient of the early career Systems Research Award:  Tiark Rompf, Assistant Professor of Computer Science at Purdue University.  Tiark is recognized for radically new approaches to performance- and safety-critical systems, in particular through rethinking the role and relationship between high-level and low-level languages. US
-Please select your region:
 Acquisitions Expand and Enhance Our Product Lines
 has an ongoing commitment to help our customers and partners transform their businesses. Through strategic acquisitions, we can expand and enhance our product lines to offer full suites of products that deliver a more dynamic, scalable, integrated and efficient architecture. With less time and money spent integrating, running, and supporting underlying infrastructures, customers can focus on efforts that yield greater business and competitive value. Our continued innovation lets us deliver what our customers want while creating value for our shareholders.
-Apteligent
-Cetas Software
-CloudCoreo
-CloudHealth
-GemStone Systems
-Heptio
-PacketMotion
-Search the Knowledge Base
-Join Communities
-HelpCloud Operation Services
-VMware’s Commitment to Sustainability
 Read Pat Gelsinger's message to employees on our commitment to sustainability.
-Shrinking Emissions Through Virtualization
 The collective impact of customers using VMware’s server virtualization products is estimated to have avoided 340 million CO2e over the last 13 years*. Having pioneered the development of server virtualization technologies, we’ve significantly increased the operational efficiency of resources and reduced the number of servers needed. In fact, every server virtualized is estimated to avoid the output of 4 tons of CO2 per year.
 Three ‘New’ Reasons Is a Great Place to Work
 This year, was recognized in three different ways for its excellence in Sustainability practices and employee flexibility. These recognitions exemplify the value holds for its employees and…
 Steps Up at Global Climate Action Summit
 was one of 21 companies that signed the Step Up Declaration on September 13 and pledged to accelerating climate solutions.
-Let's Reboot the Earth
 We’re partnering with Restore the Earth Foundation to plant one million acres of trees, because we believe in putting back more than we take. Watch and learn about the value of natural capital and why ecosystem restoration matters to all of us.
-Joins One Million Acre Restoration Project
 announced its partnership with Restore the Earth Foundation on a bold new landscape-scale restoration project to restore one million acres of degraded land in the lower part of the Mississippi River Basin
 We are committed to developing transformative solutions that enable a net positive future and ensure sustainable growth. 2020 is our roadmap for sustainability. It is structured around three pillars – Product, Planet, People – that organize the sustainability issues that we’ve determined are most relevant and material to our business. Our aspirations to be a force for good are reflected in each pillar and include a series of goals with a target date of 2020 to achieve.
 We aspire to make the most innovative software in the world and for the world. Our virtualization technologies have enabled our customers to operate more sustainably than ever before. Our goal is to build on this legacy of positive impact and to push the limits of what is possible.
@@ -564,141 +311,97 @@ The Technology Alliance Partner (TAP) Program enables partners to develop and de
 What is the Technology Alliance Partner (TAP) Program?
 The Technology Alliance Partner (TAP) program enables companies to partner with the global leader in virtualization, with more than 500,000 customers worldwide. Get the tools and resources to build and deliver your solutions on the platform. Test, integrate, and package Application Software, Infrastructure, and Hardware products with products and services across the Software Defined Data Center, End User Computing, and Hybrid Cloud areas – on premise or in the Cloud.
 Within the program, benefits and requirements are aligned to four solution areas – Data Center, Public Cloud, Digital Workspace, and Networking and Security – which directly correspond to the ways in which you build and market solutions with VMware. By achieving badges within those solution areas you can progress within the program, unlocking new benefits and opportunities for engagement.
-Program Tiers & Solution Areas
 Partners have the opportunity to engage with in four solution areas – Data Center, Public Cloud, Digital Workspace, and Networking and Security.
 Data Center: partners in this solution area integrate with in order to enable organizations to modernize data centers and deliver infrastructure and application services with speed, agility, and cost optimization.
-Related products include integrations with NSX, vCenter Server, vRealize Suite, vSphere, and vSAN, and vCloud partners.
 Public Cloud: partners in this solution area solutions that help customers deliver a hybrid cloud infrastructure.
 Partners who wish to validate their products on Cloud on would fit in the public cloud solution area.
 Digital Workspace: partners in this solution area work with on end user computing solutions that provide customers with secure apps and data in a perimeter-free world.
-Related products include integrations with App Volumes, Fusion, Horizon, Mirage, vRealize Suite, Workspace (with AirWatch), and Workstation.
 Networking and Security: partners in this solution area help transform networking and security with joint solutions that maximize visibility, context, and control to secure the interactions between users, applications, and data.
 How to Apply for Program Membership
 Each partner has to first join the Partner Network at the free Enrolled tier. Technology Alliance Partner (TAP) is just one of the programs that a partner can choose to apply for after joining at the Enrolled tier level.
-The Enrolled tier allows you to:
+Learn more about the different partner programs.
 Take time to decide which program is right for your business model and start acquiring the needed sales and technical solution skills with free online training to accelerate time to first transaction.
 Choose to apply for and other programs as the program supports cross-enrollment.Cloud Operation Services
-Accelerate Your Digital Transformation 
 Visit one of our centers to realize new possibilities with VMware. We’ll design a customized briefing agenda that focuses squarely on your business and technology needs. You’ll be paired with experts who know your business challenges and are ready to solve them.
 Discuss how to align your business goals with solutions.
 Get an agenda tailored to your business, industry and market.
-Meet with leaders and experts focused on solving your business-technology challenges.
 Receive recommendations, best practices, and new strategies for innovation.
-"I'm excited about leveraging the technology suite of tools. feel extremely confident that the various tools presented today will be a great fit." — Rick Ransom, Accenture
 Explore the Discovery Center and Briefing Centers
 Our global centers offer the ideal environment for in-person conversations with experts and thought leaders. Each briefing center is equipped for multimedia presentations, workshop-style meetings, and product demos.
-Palo Alto, California, USA
 Visit our Discovery Center for rich conversations with skilled executives, engineers, and experts.
-Sydney, NSW, Australia
 Receive live End-User Computing (EUC) updates and demos in our Sydney center, or connect to Palo Alto via videoconference.
-Nagar, Bangalore, India
 Meet executives to explore strategy, product features and roadmaps, and the best solutions to meet your needs.
-Staines-upon-Thames, United Kingdom
-Staines-upon-Thames, United Kingdom
-Reston, Virginia, USA
 Our East Coast center serves as a hub for commercial, government, education, state, and local customer meetings and training events.
-Minato-ku, Tokyo, Japan
 Join substantive meetings in Japanese with executives to discuss strategy and explore product roadmaps.
 Meet executives and product specialists for substantial discussions in Chinese exploring strategy, product features, and roadmaps.
-Plan Your Visit
 To schedule a briefing center visit, or to learn more, please reach out to us. We will have a representative contact you to find out how a briefing can make a difference for your business.US
- on on Overview
+IT: Learn How We Use Technology
 In partnership with R&D, deploys VMware’s products in our environments and provides feedback on value and quality. Learn from our subject matter experts about our deployment journeys, best practices, and thought leadership.
-Cloud on Case Study
 shares which production workloads it has moved to Cloud on AWS.
 Learn about on subject matter experts share their wealth of knowledge and best practices with customers and partners.
 At VMware, we use our own products and technology to solve our most critical challenges—the same ones faced daily by every organization. We share our experience and insights in our blogs.
-How uses vSAN
-Learn how leverages vas part of a Hyperconverged Infrastructure Strategy.
-Uses Cloud Health
 shares how it uses Cloud Health to analyze and manage its multi-cloud operations.
 Learn how combined a smaller vendor footprint and security solutions to improve its agility and security.
 Workspace Transforms Vulnerable Sign-on Process into Highly Secure Solution
 on Delivers Value to Customers
-ZDNet Japan: Innovating in the Mobile Era
 Migrates Production Workloads to Cloud on AWS
 How Migrated the VMworld Portal to Cloud on AWS
 Adding Burst Capacity for the VMworld Hands-on Lab using Cloud on AWS
-Low-Cost Agility: VMware's Internal, Private Cloud
 Transforming to Thrive in the Digital Era
 How Implemented Network Virtualization with NSX
-Using vRealize Network Insight to Manage VMware's Private Cloud
 and Integrated OpenStack
 IT’s journey with on vSphere 6
 Network Virtualization with NSX
-How Deployed vSphere 6.5 with Zero Downtime
 chooses XtremX2 for the Highest Performance and Data Efficiency running HANA
-SiliconAngle Interview: Bask Iyer at VMworld 2017 US
-SiliconAngle Interview: Bask Iyer at VMworld 2017 Europe
-How Is Securing Applications Using & Micro-Segmentation
 How to Upgrade to vSphere 6.5 with Zero Downtime - Registration Required
 Shifting from Cost Center to Innovation Center - Registration may be required.
 VMworld Hybrid Cloud Hands-on-Lab Delivery - Registration may be required.
- Contact Information, World Headquarters
 compute, cloud, mobility, networking and security software forms a dynamic, consistent digital foundation to deliver the apps that power business innovation. is headquartered in Palo Alto, California, and has offices around the world.
-United States
-HelpCloud Operation Services
 Authorized Training Centers (VATCs) are training partners carefully selected by to deliver authorized technical training to our customers and channel partners.
 What is the Authorized Training Center Partner Program? 
 Authorized Training Centers gain increased value and visibility are authorized educators for products, solutions and services. The Partner Network enables VATCs to increase their value and visibility by providing marketing tools that include co-branding opportunities, logo usage, placement on the myLearn website, software licenses for demos, and access to authorized training materials.
 The Authorized Training Center Program is by invitation only. Review of qualification criteria is conducted via a business qualification process initiated by VMware.
-Program Levels & Requirements
 Get news and insights from the Partner Network team.
 Solution providers recognize as a best-in-class channel provider of desktop and server virtualization.Cloud Operation Services
 Expertise is the key to unlocking bigger deal sizes, better close rates and higher profits. offers a range of partner training programs to build your solution skills and enable you to become a trusted advisor to customers.
-Instructor-led, virtual event, and 24/7 self-paced options.
-Sales Professional (VSP)  
 Solution Competencies make it easier to distinguish yourself and deliver comprehensive virtualization and cloud computing solutions to your customers. Partner Solution Competencies focus on developing selling skills, architecture proficiency and deployment expertise to help drive your success.
 Opportunity to differentiate your company's expertise
-Quantifiable returns on training investments
 Increased eligibility for Partner Network benefits
-Business Continuity (BC)  
+Partners who achieve this competency have shown up to 2x more in annual bookings and 3-6x larger unit sales of Site Recovery Manager.
 The Cloud Provider Competency enables Service Provider partners to successfully identify cloud computing opportunities to sell and deliver vCloud services. The competency provides you with the foundational training required to deliver VMware-based services, giving you the opportunity to participate and gain influence in the cloud discussion with your customers.
 The Desktop as a Service Solution Competency enables partners to help customers deliver virtual workspaces to their end users - including full Windows Client desktops, shared desktops and applications - as a monthly subscription service. enables a risk-free, incremental evolution of the next-generation workspace. It provides a complete virtual workspace from the cloud, delivering desktops and applications as an easily managed, integrated cloud service. Enterprises can rapidly provision desktops and applications to users on any device, anywhere.
 Partners who achieve this competency have shown up to 5x more in annual bookings and 22% more margin.
 The Hyperconverged Infrastructure (HCI) Competency enables you to sell vand strengthen your position as strategic advisor to customers by helping reduce the total cost of ownership for storage, automating storage management and managing storage performance. This competency is designed to help you create incremental storage opportunities with vin a growing Hyperconverged Infrastructure market.
 Be recognized for Cloud Iaasales and implementation expertise in heterogeneous and hybrid environments. This competency is ideal for advisory partners who help customers architect strategies, process and policies to automate provisioning and streamline application and service delivery. Empower with control, agility and efficiency while delivering personalized services quickly.
 Ideal partners expand practice beyond server virtualization and have sales demand for management for heterogeneous and hybrid cloud environments. Help customers:
-Mobility Management (MBL) 
 The Mobility Management Solution Competency enables and rewards partners in the massive and growing enterprise mobility management (EMM) space. By combining AirWatch, the Gartner Magic Quadrant leader in EMM, with VMware’s world-class partner programs you have the opportunity to be a leader in the rapidly growing multi-billion dollar market. Partnering with VMware, you can deliver a comprehensive desktop-to-device technology platform that manages mobile devices, applications and content.
 The Network Virtualization Competency enables and rewards partners for their demonstrated expertise in networking and security using This competency helps you identify networking and security opportunities within your existing customers, drive pipeline, identify new customer opportunities and increase revenue while working with to grow the software-defined network market.
 The Server Virtualization Competency enables and rewards partners for their demonstrated ability in virtualizing server environments and providing insight into capacity and performance using virtualization solutions. This competency gives you the expert knowledge and tools required to accelerate your customers’ shift to as a Service. 
 Partners who achieve this competency have shown up to 3.5x more in annual bookings and 20% more margin.
-Software-Defined Wide Area Network (SD-WAN) 
 The Software-Defined Wide Area Networking (SD-WAN) Solution Competency rewards partners for demonstrated expertise in NSX® SD-by VeloCloudthe latest addition to VMware's portfolio and an industry leader in the growing SD-market. This solution competency is ideal for partners who want to be a strategic advisor to customers who are looking to simplify their complex network, improve application performance and cut costs.
 The Cloud™on Competency provides partners with the sales and technical training required to be successful selling and deploying hybrid cloud solutions based on Cloud on Achieving this competency enables Solution Providers, Managed Service Providers and Global System Integrator and System Outsourcer (SISO) to grow their business leveraging an integrated cloud solution that delivers an on-demand service enabling customers to run applications across a Cloud Infrastructure environment with access to a broad range of services. Powered by Cloud Foundation, this service provides an operationally consistent and familiar way to run, manage and secure applications in a hybrid cloud environment.
 Master Services Competencies are designed to validate your company’s capacity to deliver services related to specific technologies. These designate a high level of service capability as validated by your customers.
 Your organization attains a Master Services Competency by having the required number of individuals complete a set of advanced, solution-specific certifications and submission of customer references.
-Cloud Management and Automation (CMA) 
 Cloud Management and Automation Master Services Competency designates partner organizational expertise in delivery of Cloud Management and Automation solutions and services. Achieving this competency validates partners’ deep understanding and execution of cloud management design principles and methodologies.
 Network Virtualization Master Services Competency designates partner organizational expertise in delivery of NSX® environments and services. offers a completely new operational model for networking that forms the foundation of the Software-Defined Data Center (SDDC) and enables creation of entire networks in software, embedding these networks in the hypervisor layer and abstracted from the underlying physical hardware. Achieving this competency validates partners capabilities in the deployment and optimization of environments.
 master schedule for upcoming partner training activities such as boot camps, webinars and approved national and regional events. It's easy to find out what, when, and where Partner enablement events are taking place to move you further along the educational journey.
-Time zone & locationCloud Operation Services
-Join Our Award-Winning Partner Program
 Our award-winning Partner Network (VPN) is a framework for collaborating with our partners to deliver customer-centric solutions. Offering a wide range of benefits, training, certifications and rewards, the aims to ensure our mutual success and meet the needs of a variety of partner types. Start learning about our partner programs and join today to begin your journey with VMware.
 What Partner Program Aligns to Your Business? VMware’s Partner programs empower, distinguish and reward partners while helping customers reach their business goals.  Learn more about the different partner programs available and determine which one is best for your business.
-Technology Alliance Partner (TAP) Program
 Enabling partners to develop and deliver proven solutions by providing tools and resources to test, integrate and package joint products
 Helping Partners best serve customers’ needs through the unique value products and solutions offer - from the desktop to the datacenter to the cloud.
 Enabling partners to invest in infrastructure on a monthly subscription basis, driving the success of public and hybrid clouds.
-Corporate Resellers
 Corporate Resellers operate in the and Canada. These very large partners provide online sales access and carry immediately available product inventory.   Corporate Resellers hold multiple Solution Competencies and offer their customers the full solution portfolio.
 Authorized Distributors offer a broad range of value-added services for partners and serve as an extension of VMware, helping to ensure partners have the tools and support needed to be successful.
-Education Resell Partners
 Education Resell Partners extend the reach of Education Services by reselling training and certification offerings. Through their global presence, these partners provide multiple training options for customers.
-Global Partner Innovation Awards
 Each year, recognizes outstanding performance in our partner ecosystem with Global Partner Innovation Awards.
 Honorees from around the world received awards at the Partner Leadership Summit 2017 in 21 different categories for outstanding performance and notable achievements in 2016.Cloud Operation Services
 Why Is the Best Choice for Digital Businesses
 Accelerate your digital transformation through a software-defined approach to business and The trusted platform provider of choice for more than 500,000 customers globally, is the pioneer in virtualization and an innovator in cloud and business mobility. proven leader, we allow you to run, manage, connect and secure applications across clouds and devices in a common operating environment, so you get both freedom and control.
-Digital Transformation in Today’s Businesses
 See how you can create exceptional experiences by mobilizing everything, responding faster to opportunities with cloud-based data and apps and taking a defense-in-depth approach to cybersecurity using our solutions.
-Preferred Choice of Enterprises
 is the infrastructure platform choice of 100 percent of the Fortune 500 and has saved customers tens of billions of dollars.
 Lowest Total Cost of Ownership
 Check our and calculators for comparisons with alternatives like Microsoft, public clouds and traditional IT.
 Access more than 75,000 solution partners worldwide and enjoy open interfaces, more solutions and broad software support.
-Recognized by Analysts
 Gartner, Forrester and consistently recognize as a market leader.
 Enable enhanced performance, security and scalability that extends from your data center to the major public cloud services with our fully integrated Software-Defined Data Center (SDDC).Cloud Operation Services
 The Cloud Provider Program enables partners to invest in infrastructure on a monthly subscription basis, driving the success of public and hybrid clouds.
@@ -713,7 +416,6 @@ Program Levels and Requirements
 Professional Level The Professional level recognizes service providers that invest in training and are actively using products.
 Enterprise Level The Enterprise level is intended for organizations who offer Hybrid Cloud Powered services based on products.
 Premier Level The Premier level is reserved for partners who are strategically and technically aligned to and commit their business resources to delivering Hybrid Cloud Powered services.
-Purchase minimum Rental Agreement
 Professional Level 360 point plan or higher Level-1 plan or higher
 Enterprise Level 10,800 point plan or higher (3600 point plan for developing countries) Level-3 plan or higher
 Premier Level 100,000 point plan or higher Level-5 plan or higher
@@ -723,12 +425,10 @@ Premier Level The Premier level offers premium benefits such as early access to 
 The Cloud Provider Program increases opportunities for partner success with the Managed Services Provider model.
 vCloud Director 9.5 is now available to Cloud Provider Partners.Cloud Operation Services
 collaborates with industry-leading hardware and software companies to tightly integrate select technologies, remove complexity, and help our customers dramatically accelerate time to value. Modernizing your infrastructure has never been simpler!
-The Global Partner Alliance Advantage
 VMware’s industry-leading cloud technologies help customers fully and securely leverage private clouds, hybrid clouds, and native public clouds for increased agility, accelerated innovation, and optimized costs.
 Empower your digital transformation with professional services that can modernize your infrastructure and processes. Or engage
 managed services to outsource specific resources or your entire data center.
 powered hyperconverged infrastructure enables you to evolve without risk, reduce TCO, and scale to tomorrow. Align business and application demands with dynamic, agile, and automated solutions.
-Our PartnersCloud Operation Services
 Solution Providers resell technology combined with their expertise and services to design, plan and deploy industry leading virtualization and cloud computing solutions.
 What Is the Solution Provider Program? 
 The Solution Provider Program gives partners access to benefits, rewards and resources that
@@ -739,52 +439,38 @@ Learn about our new VMcloud on program and benefits.
 is proud to have its partner program, the Partner Network, recognized with a 5-star rating in CRN’s 2017 Partner Program Guide.Cloud Operation Services
 Take Advantage of our Partner Ecosystem
 Partners are the cornerstone to our success, and can be yours too. From consulting to building, delivery and integration, the Partner Network connects you with top partners to navigate you on a successful digital transformation journey. 
-Partners & Customers Working Together: Showcase of Success
 Partners deliver the broadest services and solutions for our joint customers. Check out the latest stories that showcase how customers are successfully leveraging solutions supported by our Partners.
 Industry-leading hardware and software companies partner with to optimize select technology and solutions.
 partners with industry-leading hardware and software companies to develop joint solution offerings.
 drives growth and innovation in the enterprise with SI/Partners.
 Research, evaluate and rate 2,500+ solutions from technology partners, systems integrators and developers.
-Partnering to Deliver Digital Transformation
 Master Services Partners have the knowledge, skills, and tools to deliver digital transformation.
 Finding the right partner starts with the Partner Locator. Search for Partners by competencies and technology that match the expertise you need for success.Cloud Operation Services
 Academy enables university faculty, technical instructors, and secondary education teachers to deliver authorized courses in a variety of settings. Students can jump-start their career and knowledge with coursework through a global network of colleges and universities, and through online certification opportunities, hands-on labs, and other learning resources. 
 is committed to Education and supporting our academic community through our Academy program. By listening to our community, we ensure that together we develop an academic program that aligns to your students’ educational needs. 
 The special academic voucher for the vSphere: Foundations exam (2VO-602 PSE) is listed on the Pearson-Vue site, under Available Exams, under, Academy Students- Exams section.
-Institutions: Why Academy
 The Academy is an educational program focused on building the skills of secondary and post-secondary students.  Academy provides resources for educators who deliver authorized courses.
 Career or technical schools offering accredited degrees or certificates through in-person or distance education programs
-Can be offered through continuing education and workforce development.
-Secondary education (ages 14-17)
-Instructors: Deliver Next-Generation Skills
 Full or part-time instructors at an eligible institution who are in an active teaching capacity.
 There are no formal qualifications required to teach a Academy course, however we provide 70 percent discount certification exam vouchers and strongly encourage instructors to get certified.
-Students: Stand Out From Your Peers
 Students who are actively enrolled at an eligible academic institution, not a professional training center.
 Accredited, degree-granting higher education institutions worldwide that offer two, three or four year programs (or equivalent).
-Can be offered through continuing education and workforce development.
 Benefit Easy-to-use branded online  that provides access to all teaching, learning, and certification resources
 Benefit Access to curriculum provided by commercial training program
 Benefit Free hands-on labs, with additional labs that can be purchased from our partner, NDG
 Benefit Printed student manuals and e-books from Gilmore Global and Kivuto
 certifications serve as a starting point for those who are interested in beginning a career as a professional.
-Effective October 12, 2018 we reinstated Optimize and Scale (O&S) for Academies, into the Academy curriculum.
 To help students on their learning journey we recommend these courses:
 * Introduction to Virtualization, Solutions 1
-* Solutions for Digital Businesses, Solutions 2
 Introduction to Virtualization, Solutions 1
 This Introduction to Virtualization course is designed to help academic institutions teach basic virtualization computing concepts to learners. This course may be delivered as instructor-led training or independent study. Available to anyone.
 Entry-level online micro-course introducing: virtual machine, hypervisor and benefits of virtualization.
 Includes videos and virtual labs using Workstation to teach concepts.
 Available now at http://www.ndg.tech/Advanced entry-level course designed for MIS, and students.
 Traces the emergence of virtualization, the modern virtual data center and digital workspaces.
-Software-Defined Using - Solutions 3
-Academic version of vSphere: Install, Configure, Manage, plus 20 hours of optional introduction to vand NSX.
 Alignment to vSphere Foundations Exam.
-Interactive labs.
 For students who are ready to take their understanding of vSphere to a deeper level and learn how to use advanced features and controls.
 Teaches advanced skills for configuring and maintaining a highly available and scalable virtual infrastructure
-Mix of lecture and hands-on labs
 Learn how to configure and optimize the vSphere features that build a foundation for a scalable infrastructure
 Proctored voucher will be available.
 These new courses do not need to be taken in sequence and there are no pre-requisites.
@@ -801,34 +487,25 @@ provides sales resources partners need to sell effectively and close deals.
 Get the tools you need to generate ongoing renewals revenue.
 Check out Incentives and Promotions to see how to maximize profits 
 Through testing and review, Ready designates the highest level of endorsement for products and solutions created by established partners.Cloud Operation Services
-named #75 on Forbes’ World’s Top Employers 2018 list
 named one of America’s Most Trustworthy Public Companies by Analytics
-Pat Gelsinger Named CRN’s Most Influential Executive of 2018
 Pat Gelsinger Named on List of Most Admired Leaders in 2018 by World Awards
 VMware’s Bill Rowan Inducted into 2018 Wash100 for Leadership in Security Innovation in Cloud Migration
 VMware’s Lynn Martin Recognized as One of Top 50 Women in Tech 2018 by FedScoop
 Wins Category Leader Award for Enterprise Mobility Management and Mobile Device Management
-recognized on list of Fortune’s 100 Best Workplaces for Millennials 2018
 VMware’s Chief Communications Officer, Claire Dixon, named one of 50 most powerful women in technology by California Diversity Council
-VMware’s Lily Chang and Yanbing Li named to Business Insider’s list of the 39 most powerful female engineers of 2018
 Named One of the 50 Best Places to Work for New Dads by Fatherly
-Named to Workforce 100 2018
 Costa Rica and Central America Named to Great Places to Work 2018
-Three Employees Recognized on 2018 Channel Chiefs
 Named to Best Workplaces for Commuters List
 Named to FlexJobs’ Top 100 Companies to Watch for Remote Jobs
 VMware’s Dave Ryan Recognized by FedScoop 50 for Industry Leadership Within the Federal Sector
 VMware’s Bill Rowan Named to Federal 100 2017 for Work in Hybrid Cloud
 Named to Best Workplaces for Parents List by Fortune
-VMware’s Jim Falvey, Senior Director of Sales, Recognized by StateScoop 50
 VMware’s Lynn Martin, Vice President of Public Sector Sales, Recognized by FedScoop 50 Women
 VMware’s Mike Wilkerson Recognized by FedScoop 50 for Industry Leadership Within the Federal Sector
 VMware’s Lynn Martin Recognized as One of Top 50 Women in Tech 2016 by FedScoop
 VMware’s Bill Rowan Inducted into 2016 Wash100 for Cloud and Virtualization Vision
 VMware’s Tim Merrigan Recognized by StateScoop 50 for Industry Leadership
 Computerworld named #26 on its 100 Best Places to Work in list
-Channel Chiefs Award went to Ross Brown, Colleen Kapase,Frank Rauch, and Geoff Waters
-Women of the Channel, 10 women recognized
 Fortune named #40 on its 2016 100 Best Companies To Work For
 Healthcare Informatics Leading Edge Award recognized as the winner in the Clinican Workflow Optimization category
 Management Premier 100 Technology Leader's recognized VMware's Avon Singh Puri
@@ -844,7 +521,6 @@ was awarded the Sirius Decisions, 2015 Return on Integration (ROI) Award for its
 vRealize Operations 6 has been named 2015 "Best of Interop” in the Performance Management/Monitoring category
 San Francisco Business Times/Silicon Valley Business Journal Best Places to Work in the Bay Area listed as number 10 for largest companies (1,000+ Bay Area employees)
 Fortune named #65 on its 2015 100 Best Companies To Work For
-Computer Reseller News’ adds VMware’s Frank Rauch, Dave O’Callaghan, Toni Adams, and Todd Surdey to its list of 2015 Channel Chiefs
 Dave O'Callaghan and Frank Rauch make Computer Reseller News’ Top 50 Most Influential Channel Chiefs List 2015
 AirWatch by for AirWatch Enterprise Mobility Management named a 2015 Magazine Awards Finalist in the Best Cloud Computing Security Solution category
 Best Practices Awards Winner - First Details – awarded Best Practices 2015 Award
@@ -858,8 +534,6 @@ Virtualization Review gave vCenter Site Recovery Manager its 2015 Reader's Choic
 Virtualization Review gave Virsto its 2015 Reader's Choice Award in Best Storage Virtualization Product category
 Virtualization Review gave its 2015 Reader's Choice Award in the Best Network Virtualization Product category
 Best of Microsoft's TechEd North America Awards 2014 named vBest of TechEd in the virtualization category
-Dave O'Callaghan and Frank Rauch make Computer Reseller News’ Top 50 Most Influential Channel Chiefs List
-CRN's 2014 Women in the Channel named VMware's Colleen Kapase and Donna Wittmann on the Power 100 list and recognized Laurie Clough, Laura Davis, Mai Doan, Chandra DuFrene, Laurie Evans, Sandra Haan, Allyce Mardesich, Rima Olinger, Michelle Van Winkle, and Lisa Wight.
 Computerworld named #26 on its 2014 list of the 100 Best Places to Work in in the large company category
 LinkedIn named the 19th Most InDemand Employer in North America 2014
 The Bay Area News Group named #10 on its 2014 list of Top Workplaces
@@ -873,24 +547,17 @@ Virtualization Review gave vCenter Site Recovery Manager its 2014 Reader's Choic
 Virtualization Review gave vSphere Distributed Switch its 2014 Reader's Choice Award in the Network Virtualization category
 Virtualization Review gave vSphere its 2014 Reader's Choice Award in the Server Virtualization category
 VMware’s Lynn Martin Recognized by FedScoop for Industry Leadership
-named VMware's Carolyn Cox, Colleen Kapase, Aileen Black, Laurie Clough, Laurie Evans, Sandra Haan, Rima Olinger and Sonal Patel to its 2013 list of Women in the Channel
-Computer Reseller News names VMware's Carolyn Cox, Colleen Kapase, Aileen Black, Laurie Clough, Laurie Evans, Sandra Haan, Rima Olinger and Sonal Patel to its 2013 list of Women of the Channel
 takes the Server and Desktop Virtualization category at the Computer Reseller News Champions Awards
-Computer Reseller News names VMware’s Toni Adams, Scott Aronson, Frank Rauch and Doug Smith to its list of Channel Chiefs
 Computer Reseller News includes in its 2013 Five-Star Partner Program Guide
 Forbes ranks No. 3 on its 2013 list of the World's Most Innovative Companies
 vSphere 5.1 and Workstation 9 wins Technology of the Year 
-Workstation 9.0 wins Best Programming Utility
 Silicon Valley/San Jose Business Journal names Marianna Tessel to its 100 Women of Influence list
 The Silicon Valley Business Journal named Marianna Tessel 100 Women of Influence
 wins Desktop & Server Virtualization award in Computer Reseller News’ Annual Report Card survey
 wins Best Virtualization Vendor at the ChannelPro-Readers’ Choice Awards
-Computer Reseller News names VMware’s Scott Aronson, Doug Smith and Brandon Sweeney to its list of Channel Chiefs
 has named the overall winner and Company of the Year in the Desktop & Server Virtualization category in this year’s Annual Report Card survey
 ChannelPro-Readers’ Choice Awards named a winner in the category of Best Virtualization Vendor, as well as a runner-up in the categories of Vendor Partner Program: Best Sales Support, Vendor Partner Program: Best Technical Support, and Vendor Partner Program: Best Training Programs
-Computer Reseller News named a Channel Chief
 makes Deloitte’s Top 500 Fastest Growing Technology Companies in North America list
-wins SearchNetworking.com’s Network Innovation Award
 dominates 2012 Virtualization Review Readers Choice Awards winning nine of fourteen categories
 vRealize Configuration Manager takes the Monitoring, Management & Performance category at the VirtualizationAdmin.com Readers' Choice Awards
 was recognized by the Employer Support of the Guard and Reserve, an agency of the Department of Defense, for supporting people who are national guard and reserve service members
@@ -903,21 +570,16 @@ Virtualization Review gave vCenter Operations its 2012 Reader's Choice Award in 
 Virtualization Review gave vCenter its 2012 Reader's Choice Award in the Business Continuity category
 Virtualization Review gave vCenter Suite its 2012 Reader's Choice Award in the Virtualization Management category
 Virtualization Review gave vSphere its 2012 Reader's Choice Award in the Server Virtualization category
-wins a Visual Studio Magazine’s Readers’ Choice Award
 VirtualizationAdmin.com. gave vCenter Converter its Readers' Choice Awards as the best solution in the P2or V2conversion category
 named Colleen Kapase, Carolyn Cox, and Maureen Lonergan Top 100 Women in the Channel for 2011
 named Paul Murphy and Dan Brodeur "100 People You Don't Know But Should"
 names Paul Maritz one of the Most Influential Executives Of 2011
 names one of the Best Companies To Partner With
-Computer Reseller News named a Channel Chief
 Deloitte's 2011 Technology Fast 500 awarded Top 500 Fastest Growing Companies in North America
 Everything Channel has named the overall winner and Company of the Year in the Server Virtualization Software category in this year’s Annual Report Card survey
 InformationWeek Analytics named vCenter™ Operations 2011 "Best of Interop" in both the Cloud Computing & Virtualization category and Grand Prize
-InformationWeek ranked in the InformationWeek 500 list
 Redmond Magazine gave ThinApp its Readers Choice Award for being the Best Application-Virtualization Product
 Redmond Magazine gave Workstation its Readers Choice Award for being the Best Virtual Product
-San Diego Times 100 named a winner both the Tools & Frameworks and Cloud category
-Software Development Times 100 named a winner both the Tools & Frameworks and Cloud category
 Technology Services Industry Association (TSIA) named winner of the Spring 2011 Award for Excellence in Knowledge Management Practices
 The 2011 Computerworld Honors Program awarded Paul Maritz the recipient of the Annual Morgan Stanley Leadership Award for Global Commerce
 vSphere named Best Virtualization Platform and InfoWorld Technology of the Year 2011
@@ -928,15 +590,12 @@ Windows Pro has selected vCenter Protect Essentials Plus as a Windows Pro Magazi
 Windows Pro named Editors Best Gold and Community Choice Silver Patch-Management Product
 eWeek Labs named  View 4.5  one of the  Top Products of 2010
 2009 Partner Solution Award recognized vCenter Server as the Offering of the Year for Platforms
-Australian Reseller News awarded the "Software Vendor of the Year”
-Business Computing World gave Workstation 7 the “100% Satisfaction Guarantee” Award
 named Colleen Kapase, Julie Criscenti Heck, and Maureen Lonergan Top 100 Women in the Channel for 2010
 names  Paul Maritz the Most Influential Executive Of 2010
 Channel Insider gave Paul Maritz the Challenger Bull's Eye Award for of the Year
 Channel Insider gave View 4 the Champion Bull's Eye Award for Product of the Year
 Cloud Computing World Forum named as the winner of the Cloud Computing World Series Awards in the Best Virtualization Product or Service Category
 Computer Reseller News named vSphere 4 the 2009 Virtualization Product of the Year
-Computer Reseller News named a Channel Chief
 Everything Channel has named the overall winner and Company of the Year in the Server Virtualization Software category in this year’s Annual Report Card survey
 InfoWorld gave vSphere 4.0 the Technology of the Year award
 InformationWeek ranked in the top 250 of the InformationWeek 500 list
@@ -946,12 +605,8 @@ TechTarget’s SearchServerVirtualization.com named vShield the winner of the Be
 named a Five-Star Winner in this year’s Partner Program Guide
 VirtualizationAdmin.com. gave its Readers' Choice Awards as the best solution in the Hypervisor category
 BladeSystems Insight awarded the Best Blade Based Solution Award in the “Best Virtualization Solution” category
-Business Solutions named a Best Channel Vendor
-named Aileen Black, Colleen Kapase, Julie Criscenti Heck, and Maureen Lonergan Top 100 Women in the Channel for 2009
 Computer Reseller News honors for capturing the Server/Application Virtualization category in the Channel Champions survey
-Computer Reseller News named a Channel Chief
 Everything Channel has named the overall winner and Company of the Year in the Server Virtualization Software category in this year’s Annual Report Card survey
-Everything Channel named a 2009 Contender
 Everything Channel recognized in its 2009 Five-Star Partner Program Guide
 Everything Channel's XChange game the Federal Program of the Year award
 Gazeta Bankowa  awarded View 3 with its "Recommended by Gazeta Bankowa" award
@@ -976,7 +631,6 @@ SearchServerVirtualization.com gave ESXi 3.5 the Gold Product of the Year award 
 Software Magazine’s Software 500 named as one of the world’s largest software and service providers
 SpringSource named one of the "Top 20 Companies to Watch in 2009" by Linux Magazine
 SpringSource wins the developer.com "Product of the Year 2009" award.
-Storage Magazine gave Site Recovery Manager the Gold award in the Backup and Disaster Recovery Software and Services category
 Storage Magazine gave Storage VMotion the Gold in the Storage Management Tools categor
 The Wall Street Journal gave vSphere the Technology Innovation Award in the software category
 Virtualization Review gave Workstation its 2009 Reader's Choice Award for Best Virtual PC
@@ -988,20 +642,14 @@ News Weekly awarded Fusion the Editor's Choice Award 2008
 DOSERV.com China named the Best Virtualization Solution Provider
 InfoWorldgave Workstation the Technology of the Year award in the Best Desktop Virtualization category
 eWeek named President and Diane Greene and Chief Scientist Mendel Rosenblum two of the 25 Most Influential People in IT
-Burlington Economic Development Corporation gave Canada the “2007 Business Expansion Award”
 BusinessWeek named one of the Top 100 Companies of 2008
 CIOZone.com named the Fastest Growing Software Company
-XChange gave the Best Business Technology Solution award
-XChange gave the Best Software award
-XChange gave the Best World Premier Presentation award
-XChange gave the Best of Show award
 CTOCIO.com.cn China honored for its Outstanding Contribution to the Development of Virtualization Technology
 China ComputerWorld Next Generation Data Center Forum awarded customer National Bureau of Statistics the ‘Best Datacenter Practice’ Award
 China ComputerWorld Next Generation Data Center Forum awarded the ‘Outstanding Green Datacenter Solution Provider’ Award
 China Infoworld Next Generation Data Center Forum awarded the Best Green Datacenter Solution Vendor
 Communications Week awarded Fusion with their Editor's Choice Award
 Computer Reseller News named Infrastructure the Product of the Year
-Computer Reseller News named a Channel Chief
 Corporate Board Member magazine named President and Diane Greene one of 50 Women in Technology
 Data.honors 3 as ‘Best Virtualization Product’
 Datamation readers named Server the Top Virtualization Product
@@ -1011,11 +659,8 @@ Dr. Dobb's Journal gave Workstation the Product Excellence award in the Utilitie
 E-zone gave the Best of Corporate Virtualization Software e-brand award
 InfoExame Brazil research appointed named as the most reliable brand for/company in the virtualization market
 InfoWorld named Customer OhioHealth to the InfoWorld 100 for their Virtualization projects
-Intelligent Enterprise gave its Editors' Choice award
-Macworld gave Fusion2 the Editors’ Choice award
-Network World Asia’s Readers’ Choice Award awarded for Server Virtualization Suite
+Mediacorp Canada Inc. named Canada one of Hamilton-Niagara Top 10 Employers
 Nikkei Market Research ranked #1 in the Company Momentum category
-Pro awarded its Real World Business Award
 Revue Czech Republic gave its Tip of Edition award to Workstation 
 Space Czech Republic gave its Winner of Test award to Workstation
 World named Fusion one of the 100 Best Products of 2008
@@ -1023,8 +668,6 @@ Redmond Magazine gave its Editors’ Choice award for being the Most Reliable
 Redmond Magazine gave Fusion its Editors’ Choice award for the Biggest “Wow” in an Product
 Redmond Magazine gave Workstation its Editors’ Choice award for being the Best Virtual Product
 Redmond Magazine gave Workstation its Editors’ Choice award for being the Easiest to Use and Manage
-Redmond Magazine gave its Editors’ Choice award for having the Best Breakout Technology
-Redmond Magazine gave its Editors’ Choice award for having the Best Virtual Server Product
 SDForum honors President and Diane Greene for being a Leading Industry Visionary
 San Francisco Business Times named the of 2007
 SearchServerVirtualization.com named Storage VMotion Best of VMworld  in Storage Software for Virtualization category
@@ -1052,13 +695,8 @@ ByteandSwitch.com named a Winner
 CCIDChina’s readers named the Best and First Choice Virtualization Solution Provider
 XChange gave the Best Business Technology Solution XCellence award
 XChange gave the Innovative Technology XCellence award
-XChange gave the Overall Best of Show XCellence award
-XChange gave the Best of Show XCellence award
-named of Worldwide Field Operations the 3rd Most Innovative Exec
 CTOCIO.com.cn China’s Urban Enterprise Information Products and Solutions Roadshow named the Most Reliable Virtualization Solution
 Communications Weekly China named Infrastructure one of the Top 10 Information Solutions in the Telecommunication industry
-Computer Reseller News named a Channel Chiefs
-Computerworld China gave Infrastructure its New Technology Application award
 Dr. Dobb's Journal gave Lab Manager the Product Excellence award in the Utilities category
 Fortune named President and Diane Greene a Top Innovator
 Fortune named President and Diane Greene the 22nd Most Powerful Woman of 2007
@@ -1081,32 +719,25 @@ Network World Asia gave Infrastructure the Reader’s Choice Product Excellence 
 Network World has chosen SpringSource Hyperic as one of the "Top Open Source Company to Watch"
 Network World named Infrastructure the #1 Product for Building the New Data Center
 Magazine gave Workstation the Editors' Choice award
-Professionell Magazine named Infrastructure the Best Enterprise Software Product of the Year at Ce2007
 World named Player one of the 100 Best Products of 2007
-WorldGermany named Infrastructure the Best Software Product at Ce2007
 Programmer’s Paradise gave Infrastructure its Riding the Crest award for being its the overall Best-Selling Product
 Programmer’s Paradise gave Workstation its Riding the Crest award for being its the Best-Selling Linux Tool
-Redmond Magazine gave Server the Readers’ Choice award in the Best Virtual Server category
 Redmond Magazine gave Workstation the Readers’ Choice award in the Best Virtual category
 Times named to Times 100 in the Tools and Environments category
 San Jose Magazine named one of the Best Places to Work in Silicon Valley
 SearchDataCenter.com gave Infrastructure the bronze award for Systems Management Tools in its 2006 Products of the Year awards
-SearchServerVirtualization.com named 3i VMworld "Best of Show"
 SearchWinComputing.com named Infrastructure the Disaster Recovery Product of the Year
 ServerWatch gave the Product Excellence award in the Virtualization Ecosystem category
 Techworld named Infrastructure the Virtualization Product of the Year
 The Inquirer named President and Diane Greene a Top Exec
 The Wall Street Journal named President and Diane Greene one of 50 Women to Watch
-VARBusiness gave Infrastructure its Tech Innovator award in the Best Software category
 VARBusiness gave the 5-Star award for Excellence for its Partner Program
 VARBusiness named one of the 60 Top Channel Execs
 Visual Studio Magazine gave Workstation the Readers’ Choice award in the Best Development Tools category
 Ziff Davis named President and Diane Greene the Most Influential Person in IT
 e-Manufacture - China gave its Editor's Choice Award in the Management System category
 ByteandSwitch.com named President and Diane Greene one of Storage Networking’s Heaviest Hitters
-Computer Reseller News named a Channel Chiefs
 Computerworld gave Distributed Resource Scheduler (DRS) its Horizon award for being Cutting-edge
-Computerworld gave Player an Honorable Mention
 Computing readers named the Business Software Supplier of the Year
 Dr. Dobb's Journal gave Technology Network (VMTN) Subscription the Product Excellence award in the Testing Tools category
 gave the Product of the Year award in the Continuity category
@@ -1116,23 +747,17 @@ InfoWorld gave Workstation the Technology of the Year award in the Best Desktop 
 InformationWeek named President and Diane Greene an Innovator and Influencer
 Linux Journal editors gave Workstation an Honorable Mention
 Lotus Advisor gave Workstation the Editors' Choice award in the Development category
-MikroDatorn Sweden gave Workstation its Best in Test award
 Network Computing gave Server the Well-Connected award
 Network World gave the Enterprise All-Star Award to Subaru of Indiana for its Server Virtualization project
 Network World named President and Diane Greene one of the 50 Most Powerful People in Networking
-Professional named Player Best Software Innovation
-Redmond Magazine gave Server the Readers’ Choice award in the Best Virtual Server category
 Redmond Magazine gave Workstation the Readers’ Choice award in the Best Virtual category
 Times named to Times 100 in the Tools and Environments category
 ServerWatch named the Most Innovation Virtualization and Clustering Tool
-Software Development Magazine gave Technology Network (VMTN) Subscription the Jolt Productivity award
 Tucows gave Workstation the Must Have Application award
 VARBusiness gave the 5-Star Rating for its Partner Program
 Visual Studio Magazine named Best-in-Class for Security and Copy Protection
 Waters Magazine named the Best Server Virtualization Provider
-Windows Pro readers chose Capacity Planner as the Best Capacity Planning and Trend Analysis Software product
 Windows Pro readers chose as the Best Virtualization Software product
-ZDNet gave Infrastructure its Editors’ Choice award
 ZDNet named Software as one of the Best Products of the Last 10 Years
 enamed VMware's x86 Virtualization Technology One of the 25 Most Influential Products of the Last 25 Years
 InfoWorld honored Covenant Health for its Server/Storage Virtualization project
@@ -1143,38 +768,28 @@ Morgan Stanley presented with the Innovation award
 Network World gave Covenant Health the All-Star award for its Server Virtualization and Consolidation project
 Network World honored Fresh Direct for its Enterprise Data Center design
 Network World named President and Diane Greene a Power Exec
-Network World named a Power Winner
 Magazine gave Workstation the Editors’ Choice award
 Professionell Magazine named Most Innovative Product of the Year at Ce2005
 Programmer’s Paradise gave Workstation its Riding the Crest award for being its Best-Selling Operating System and Utility Product
 Programmer’s Paradise  gave VirtualCenter its Riding the Crest award for being its the Best-Selling New Product
 Redmond Magazine awarded Workstation with the Most Valuable Product award
 Redmond Magazine gave Workstation the Editors' Choice award in the Desktop Virtualization category
-Software Development Magazine gave Technology Network (VMTN) the Readers' Choice award in the Most Innovative Tool category
 eLabs gave Workstation the Analyst's Choice award
 epresented with the eExcellence award in the System and Application Management category
 Magazine gave Workstation the five star Editors' Choice award
-Broadband World gave Workstation the Gold award
 named VirtualCenter the Most Promising Technology of the Year
 Computer Reseller News gave the Specialist Vendor Partner of the Year award
-Computer Reseller News named one of 15 Leading Innovators
 Delphi Informant gave Workstation the Readers' Choice award in the Utility Tool category
 named the Enterprise Product of the Year
 InfoWorld honored Welch Foods for its Server Virtualization and Consolidation project
-Microsoft Tech Ed Europe gave the Best of Show award in the Software Components and Middleware category
 Magazine named Workstation the Best Utility
 Plus gave Server the Editor's Choice award
-Personal Computer World gave Server the award
 Programmer’s Paradise gave Workstation its Riding the Crest award for being its overall Best-Selling Product
 Redmond Magazine gave the 'Products We Love!' award
 Windows Pro awarded Workstation the Readers' Choice award in the Best Testing/Debugging Software category
 Windows Pro awarded Workstation the Readers' Choice award in the Best Windows Development Tool category
-Windows Pro named the Best Overall Product
 Windows Pro named VirtualCenter the Best New Product
-ZDNet gave Workstation the Editors’ Choice award
 AlwaysOn named a Top 100 Private Company for its Innovation
-gave the Enterprise Product of the Year
-Computer Reseller News named one of 25 Leading Innovators
 Computerworld named Circuit City one of the Premier 100 Leaders for its Server Consolidation project
 Delphi Informant gave Workstation the Readers' Choice award in the Utility Tool category
 Visual Studio Magazine gave Workstation the Editor's Choice award
@@ -1187,15 +802,12 @@ Computerworld named one of the Top 100 Emerging Companies to Watch
 InfoWorld named an Analyst Pick of the Year
 Linux Magazine gave Workstation the Editors' Choice award
 Magazine gave the Technical Excellence award in the System Software category
-Magazine gave Workstation the Technical Excellence award
 Computerworld named one of the Top 100 Emerging Companies to Watch
 InfoWorld named an Analyst Pick of the Year
 Linux Magazine gave Workstation the Editors' Choice award
 Magazine gave the Technical Excellence award in the System Software category
-Magazine gave Workstation the Technical Excellence award
 software powers the world’s complex digital infrastructure. The company’s compute, cloud, mobility, networking and security offerings provide a dynamic and efficient digital foundation to more than 500,000 customers globally, aided by an ecosystem of 75,000 partners.
 Over 75,000 including distributors, resellers, x86 system vendors and systems integrators.
-Cloud Providers Service Provider Partners:
 has over 4,000 Cloud Providers Service Provider partners in more than 100 countries including over 300 validated Hybrid Cloud Powered Service Providers.Cloud Operation Services
 The Center provides guidelines for Independent Software Vendors (ISVs) to test, validate, and deliver applications running on on-premise and in the cloud. Partners looking to run their applications in a cloud environment can leverage the Cloud on testing and validation process. Partners looking to run their applications on-premise with vSphere can leverage the Partner Application Software Integration Program.
 Cloud on Testing and Validation
@@ -1209,7 +821,6 @@ Be an active member of the program.
 Purchase the service – the cluster cannot be funded via MDF.
 Complete the testing application prior to purchasing their dedicated development instance, unless they already went through the no charge Cloud on testing process.
 To get started, email vmcisv@vmware.com to request an online form for each application/infrastructure component you wish to test.
-Partner Application Software Integration Program
 technologies provide ISVs a flexible and cost-lowering platform for developing, testing, selling, and delivering their applications. Support costs also may be reduced and the customer support experience improved by using capabilities.
 The Partner Application Software Integration Program enables partners to run certification tests in a pre-configured and ready-to-use certification test bed. For more information about how you can certify your on-premise software, visit the Partner Application Software Integration Program .
 list of approved support statements can be found on our Supported Business Applications page .Cloud Operation Services
@@ -1217,25 +828,20 @@ See the value of the Ready Program.
 Ready designates VMware’s highest level of endorsement for products and solutions created by our established partners. Technology Alliance Partner members can develop their products and solutions to meet standards and submit them for testing and review. Products and solutions that meet Ready requirements will display the Ready logo.
 The Ready logo helps customers quickly identify partner products and solutions that are optimized for VMware. Ready products and solutions interoperate seamlessly with a virtual infrastructure and have met specific integration and interoperability standards. The Ready logo indicates the unique features and capabilities of VMware-integrated products and solutions and a solid commitment of long-term feature support. Lower integration costs provide the opportunity to eliminate legacy products that don’t deliver a complete solution. virtualized infrastructure lets customers save both money and manpower.
 In order to obtain a Ready certification, partners must participate in the appropriate certification and/or subscription program. The following section lists the Ready categories and corresponding certifications that qualify for the logo. Please note that some of these programs fall within a larger subscription program, such as Integration, Foundation, Integration or Foundation. For more information, view the Partner Programs and Services page.
-Platform and Compute
 Validate servers, devices, device drivers, and related products.
 Certifications eligible for use of the Ready for Platform & Compute logo include:
 Integrate with Storage APIs and certify that your product runs with vSphere.
 Certifications eligible for use of the Ready for Storage logo include:
 Integrate with the portfolio products delivering networking, security, compliance, automation, and visibility to help customers realize the full efficiency and agility of virtual cloud networking across software-defined data center, brand, cloud, and telco environments.
 Visit {code} for additional program information.  
-Management and Orchestration
 Develop management applications for VMware's Management platform.
 Certifications eligible for use of the Ready for Management and Orchestration logo include:
-Validate Horizon Thin Client solutions and Horizon deployment solutions.
 Certifications eligible for use of the Ready for End-User Computing logo include:
 Support partner application and test to ensure reliable operation under fully loaded conditions. These products do not integrate or interoperate with products.
 Visit {code} for additional program information.  
 Validated Design Certified Partner Architecture
 Certifies that the partner Software Defined Data Center (SDDC) architecture meets the Validated Designs for and its associated use cases design guidelines.
 Visit {code} for additional program information.  
-Network Functions Virtualization
-Ready for vSAN
 Ready for vprogram enables partners to certify their products/solutions with vSAN.
 Visit {code} for additional program information. 
 To get started and express interest in enrolling in the Ready Program, complete the online Partner Onboarding Form .Cloud Operation Services
@@ -1247,141 +853,76 @@ Deliver virtualization and end-user computing products with your solutions and s
 Enable new business models using solutions for hybrid cloud or managed services deployments
 Decrease solution costs and time-to-revenue by leveraging the Compatibility Guide with hundreds of hardware devices
 Eliminate downtime with ready-to-deploy features for availability
-Receive technical guidance on solutions
 Engage in regular roadmap reviews
 Access free licenses for solution development
-Obtain operations resources to help manage your relationship
 Embed and sublicense products as part of the solution
 Provide periodic product updates and upgrades to end users
-Ensure that Certified Professionals are on staff
-Meet minimum royalty thresholdsUS
- vRealize Operations Support Center
-vRealize Operations Support Center
-Knowledge Base Articles
-Removal of vRealize Configuration Manager from vRealize Operations Advanced/Enterprise
 Management pack compatibility with vRealize Operations 5.x and 6.0
 Performing a data import from vRealize Operations 5.x to 6.0.x fails with the error: invalid parameters
 The data import in the vRealize Operations 6.x fails with the error: source.task.InventoryMigrationTask - Found error in Inventory migration: java.lang.NullPointerException
 The Horizon solution is not available when trying to add a license key to vRealize Operations 6.x
-vRealize Operations User Guide
 vRealize Operations Installation and Configuration Guide for Linux and Windows
-vRealize Operations vApp Deployment and Configuration Guide
-View Support Contract History
-Migration to vRealize Operations Manager
-vRealize Operations Manager Overview
-vRealize Operations Manager - Troubleshooting Workflow
-vRealize Operations Manager - Video Tutorial
-vRealize Operations Manager - Debugging Poor Virtual Machine Performance Caused by Storage I/O
-vRealize Operations Manager: Debugging Poor Virtual Machine Performance
-vRealize Operations Manager: Assessing Capacity Risk and Optimizing Virtual Infrastructure
-vRealize Operations Manager: Debugging Poor Virtual Machine Performance Caused by Memory
 vCenter Operations Capacity Planning & Management: Dashboard Overview
 vCenter Operations Capacity Planning & Management: What-if Scenarios
 vCenter Operations Capacity Planning & Management: Heat Maps & Event Management
-vCenter Operations Capacity Planning & Management: Drilldown & Alerts
-vRealize Infrastructure Navigator Overview
-vRealize Operations Datasheet
-Plan & Design
 Product Compatibility and Interoperability Matrixes
-Download vRealize Operations Free Trial
 How to Buy Support / How to Upgrade
-How to buy support
-Enterprise Application Lifecycle Policy
-Technical Support Welcome Guide
-vRealize Operations Community
-HelpCloud Operation Services
 partners with industry-leading hardware and software companies to develop joint solution offerings to better meet the needs of our common customers. Global Strategic Alliance Partners work closely with to integrate their hardware and software with technology.
-Our PartnersCloud Operation Services
 What is virtualization management?
 To support business growth, consistent management and automation of the virtual data center is a critical first step. Automating manual tasks frees time for teams to deliver more strategic value to the business. Moreover, you need a solution that learns and adapts to your unique environment, and not something with a one-size-fits-all approach.
 Higher Efficiency and Empowerment with vSphere with Operations Management
 Higher Efficiency and Empowerment with vSphere with Operations Management
 Higher Efficiency with vSphere with Operations Management
 What Virtualization Management Does
-Consistent Management
 Provides a unified view of your virtualized environment, integrated with vSphere and extensible to the entire Software Defined Data Center.
-Automation with Control
 Free up more time for strategic projects by safely automating a variety of management tasks, including workload placement and rebalancing to enable infrastructure and application performance, optimizing resources, and enforcing vSphere security hardening guidelines.
-Intelligent Operations with Predictive Analytics
 Self-learning predictive analytics that respond to your particular environment and give you meaningful insights and guided remediation. You can leverage all types of data from your virtualized environment, including real-time log analytics, to eliminate blind spots.
-Millenium Pharmacy Systems (PharMerica Corporation)
 “It was almost jaw dropping in terms of the memory and resources we would get back by using vSphere with Operations Management.”
-— Leon Ravenna, of Infrastructure & Operations, Information Security Officer
 Customers - Cornerstone Home Lending
 “For the first time ever we’re able to capacity plan, to look ahead and forecast what we’re going to need for the next one, three, or five years. This allows us to act proactively and give the business a clear model of projected costs along with a timeline. Ability to forecast capacity usage has changed the way Cornerstone calculates budgets. It gives us the ability to invest in the proper way.”
-— Ricky Caldwell , Director of Server Operations, Cornerstone Home Lending, Inc.
-Customers  - Specialty Benefits
 “The first time looking at that single pane of glass was very surprising for us to see all of our different infrastructure – at the data center, at headquarters, everywhere. Being able to see where we stood was a game changer.”
-— Ryan Fay, Chief Information Officer, Specialty Benefits.
-Learn & EvaluateCloud Operation Services
 Names Market Leader in Cloud System Management
 continues to take the lead as Cloud System Management market grows by 18%.
 Rent-A-Center is Transforming for the Future
 “[vRealize] has been a tremendous Savings in Every Dimension.” – Michael Conroy, Sr. Architect, RAC
-Zebra Technologies - Cloud Management Platform Customer
 Zebra Technologies Automating and Managing Mulitple Clouds
 “With technologies, our department is becoming more automated and more efficient, is making our department look much better.” – Andrew Hanas, Director IT, Zebra
-Bharti Airtel - Cloud Management Platform Customer
 Bharti Airtel Automating and Executing at Scale
 “We are no longer taking requests for resources…we have given the power to developers to provision resources on their own.” – Sachin Verma, of Infra and Ops Bharti Airtel
 Dell - Cloud Management Platform Customer
 Dell Managing an Enterprise Hybrid Cloud
-“This management layer allows us to make better, smarter decisions.” – Paul Divittorio, Sr. Director, Cloud Infrastructure, Dell EMC
 What Our Cloud Management Platform Delivers
 Provisioning and maintenance of resources are automated through the creation of blueprints (models) that include all the components of requested services along with their relationships, including a mix of and container based services.
-Cost Management
-Multi-Cloud Management
 Day one and day two operations across private, public and hybrid clouds using and other vendors’ (AWS, Microsoft Azure, etc.) technology.
-Operations Management
 unified view of health and utilization, automated performance management, accelerated capacity and planning decisions and proactive discovery of issues before they impact end-users.
-Extensibility
 The Marketplace provides additional integrations with 3rd parties and custom applications and tools.
 cloud infrastructure coupled with cloud management provide a common approach for building and running an enterprise grade hybrid cloud. Hybrid clouds based on provide high levels of agility, efficiency and control across both traditional and cloud native, container-based applications. VMware-based clouds also give organizations the ability to provide choice to their application development teams by supporting multiple models for requesting services and giving developers the freedom to use the tools of their choice.
 Choose from these easy, no-cost ways to evaluate the features and functionality of products. For a test drive in minutes with no installation required, select Hosted Evaluation below.
 Test-drive this product right from your browser-with Hands-on Labs. Register and your self-paced lab is up and running in minutes.*
-Go to Lab 
-Conduct a free trial by installing this product in your own working environment, with documentation and helpful guides.
-*Access Hands-on Labs on the latest version of Firefox, Chrome, Safari or Internet Explorer 10 & above. Requires 13" or larger screen
-vSphere with Operations Management
-vSphere with Operations Management
 Software Manager makes it easy to find, select, and download the content needed to install or upgrade a product or suite with the push of a button.
 Customers who have purchased vSphere with Operations Management 6.7 can download their relevant installation package from the product download tab below.
 Deploy vSphere with Operations Management 6.7 on the ESXi Hypervisor Architecture
 vSphere with Operations Management 6.7 is available exclusively on the vSphere ESXi hypervisor architecture. ESXi is the latest hypervisor architecture and users can upgrade to ESXi from as part of an upgrade to vSphere with Operations Management 6.7.
-For more information visit 
-Get Your vSphere License Key
 Once you have purchased vSphere with Operations Management 6.7, you will receive a licensing confirmation email with your license keys or you can retrieve your license keys from the 
 Please note that compatible versions of NSX, Integrated OpenStack, Horizon, and vSphere Integrated Containers are not yet available with the initial release of vSphere 6.7. Customers with these products are advised to upgrade to vSphere 6.7 when compatible versions become available.
-vRealize Operations Documentation
-Custom ISOs
-vRealize Operations Manager 7.0
-ESXi 6.7 qlnativefc 3.1.9.0-1 FC-FCoDriver for QLogic and OEM-branded Fibre Channel and Converged Network Adapters
-ESXi 6.7 brcmfcoe-12.0.1113.0 FCoDriver for Emulex and Branded CNAs
-ESXi 6.7 qlnativefc 3.1.8.0-1 FC-FCoDriver for QLogic and OEM-branded Fibre Channel and Converged Network Adapters
+ESXi 6.7 lpnic 11.4.385.0 Driver for Emulex and Branded Adapters
+ESXi 6.7 elxnet 11.4.1273.0 Driver for Emulex and Branded Adapters
+ESXi 6.7 lpfc 12.0.257.5 Driver for Emulex and Branded Adapters
+ESXi 6.7 lpfc 11.4.341.0 Driver for Emulex and Branded Adapters
+ESXi 6.7 elxnet 12.0.1115.0 Driver for Emulex and Branded Adapters
+ESXi 6.7 elxnet 12.0.1108.0 Driver for Emulex and Branded Adapters
+ESXi 6.7 nhpsa 2.0.30-1Driver for Smart Array and Smart controllers
 for vSphere Standalone Edge - Client 6.4.4
 for vSphere Standalone Edge - Client 6.4.3
 for vSphere Standalone Edge - Client 6.3.0
-for vSphere Standalone Edge - Client 6.2.4
-vTools, Plug-ins and Appliances
-vSphere Management Information Base
-Custom ISOs
-Custom ISOs
-Lenovo Custom Image for ESXi 6.7 Install CD
-Remote Console Open Source
+Open Virtualization Format Tool 4.3.0 Update 1
+Open Virtualization Format Tool 4.3.0
 Remote Console 10.0.4 Open Source Information
 for vSphere Open Source and Licenses
-vSphere Replication Open Source and Licenses
+for vSphere 6.4.3 Open Source
 ESXi Open Source and Licenses
 Automation Tools and SDKs Open Source and Licenses
-vSphere Virtual Disk Development Kit 6.7 U1 Open Source Information
-vSphere Virtual Disk Development Kit 6.7 EP1 Open Source Information
-vSphere Virtual Disk Development Kit 6.7 Open Source Information
-vCenter Server Open Source and Licenses
-vRealize Operations Open Source
-vRealize Operations Manager 7.0 Open Source
-vRealize Operations Manager 6.7 Open Source
 loadingMy - Get Personalized Support Quickly and Easily | Support
-15% Off vSphere Courses
 Start your journey to VCP-certification with a discounted bundle of vSphere On Demand Courses
 Available globally in English to Production Support and Premier Services customers
 Performance enhanced Support Request filing has arrived. Take advantage of a faster and highly responsive Support Filing process today!
@@ -1389,6 +930,4 @@ Have files to share with support?
 There is a new and improved way to send support logs and other important files to Support. File sharing is now even faster and more responsive.
 The Virtual Cloud Network delivers secure, pervasive connectivity for apps and data, wherever they live.
 Account management for all of your licenses, support, and services.
-Control permissions for all My functions.
 View your support level on products and services.
-Insights into Strategy

@@ -1,2564 +1,585 @@
-Blogging About What's Possible
 Get Empowered: Review Window and the Processing Method | Tip #106, QDa Data
-Neil Lander
 Tip #106: Working with QDa data in Empower Software (Part 6) Welcome back to Get Empowered! In the last Empower tip-of-the-week post for Empower Chromatography Data Software, we learned why it is important to align chromatograms… 
-Second Tier Newborn Screening Tests – Improving the Specificity of One of the Greatest Public Health Achievements
 Newborn screening for inherited disorders has been heralded as one of the 10 greatest public health achievements of the first decade of the 21st century.1 The ability to pre-symptomatically identify newborn babies at risk of… 
-dried blood spot analysis (DBA)
-Method Lifecycle Management Survey Reveals Barriers and Enthusiasm for Change
-    January 23, 2019  
 recently surveyed 100 method developers from innovator and generic pharmaceutical companies to better understand their existing challenges and views on Method Lifecycle Management (MLCM). We’ll share with you the top questions and findings from our survey results.
-methods development
-Neil Lander
-    January 23, 2019  
+Get Empowered: Bonus Tip | Marketplace
 Bonus Tip: Learn how to access and download application specific Empower projects on Marketplace This week put together a special Empower Bonus Tip. We are going to learn about the application specific Empower projects… 
 Get Empowered: Review Window and the Processing Method | Tip #105, QDa Data
-Neil Lander
-    January 23, 2019  
 Why it is important to align chromatograms when collecting data from both a and a QDa mass detector?
-mass detection
 Get Empowered: Review Window and the Processing Method | Tip #104, QDa Data
-Neil Lander
-    January 16, 2019  
 How do extract chromatograms and spectra while in the Mass Analysis window?
-mass detection
 Routine Mass Analysis Enables Greater Productivity in Biopharma Development
 Its great promise for routine monitoring of biologic drugs begs the question: Just when will LC-analysis become a true bedrock analytical tool for scientists and technicians throughout biopharma?
-biologics
-biopharma
-biopharmaceutical
 Data Integrity Matters | Limiting Access to Tools That Could Be used to Manipulate Data (Part 3)
 How do data integration and reintegration affect data integrity? 
-Data Integrity
-chromatography data system (CDS)
-data integrity
-Enhancing Analytical Productivity by Breaking Down Silos – Part 3
 Analytical data can be so much more than a historical point in time documented in a single report. In fact, biopharmaceutical organizations can use LC-data to build a continuum of compliance.
-biologics
-biopharma
-biopharmaceutical
-biotherapeutics
-data integrity
 Get Empowered: Review Window and the Processing Method | Tip #103, QDa Data
-Neil Lander
 There is more to know about the Mass Analysis window in Empower. Let’s take a closer look at the specific spectral information displayed in the Mass Analysis window.
-Subscribe via email
-Subscribe to Specific Categories
-Biomedical Research
-Data Integrity
-Food & Environmental
-Forensic Toxicology
+Subscribe via RSS
 Get Empowered: Review Window and the Processing Method | Tip #106, QDa Data
-Second Tier Newborn Screening Tests – Improving the Specificity of One of the Greatest Public Health Achievements
-Method Lifecycle Management Survey Reveals Barriers and Enthusiasm for Change
+Get Empowered: Bonus Tip | Marketplace
 Get Empowered: Review Window and the Processing Method | Tip #105, QDa Data
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-505548,IND,Biopharm
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-505548,IND,Pharma
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-505548,IND,Research
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-505548,IND,Forensics
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-505548,RESOURCES,Journal Articles
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-United States
- United States
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-505548,IND,Biopharm
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-505548,IND,Pharma
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-505548,IND,Research
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-505548,IND,Forensics
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-505548,RESOURCES,Journal Articles
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
 The First SmartMS-Enabled Biopharma Solution
 The BioAccord System is an integrated system that simplifies high performance LC-biopharmaceutical analysis for every user. An easy-to-use system solution that puts the power to make decisions directly in your hands; a self-calibrating, self-optimizing, self-sufficient tool that equips you with high quality data you can use to tackle the challenges you face every day during biopharmaceutical development. 
-It Starts Here
-BioAccord System
 the First SmartMS-Enabled
-Biopharma Solution
-505548,BioAccord Homepage Highlight Promo,135006546,HmpgHighlight
 Discover the purpose-built LC-solution for biopharma
 Routinely access high resolution mass spectral data with The BioAccord Sy...
-505548,BioAccord on demand launch homepage highlight,135007508,HmpgHighlight
-Did you miss the BioAccord System online launch event?
 Don't worry you can catch up by viewing the on demand version available now
-505548,BioAccord System page highlight promo,135007039,HmpgHighlight
 Introducing the First SmartMS-Enabled Biopharma Solution
-The BioAccord System is easy-to-use, self-calibrating, self-optimizing, ...
-505548,BioAccord System Brochure Highlight promo,135007037,HmpgHighlight
-BioAccord System - Learn more
 Download the BioAccord System brochure and find out how Smartcan benefit your lab.
 Be successful with mAb-based charge variant analyses
 BioResolve mAb Consumables are simple to implement, easy to transfer, and do...
-505548,Experience Design Center home page highligths,134994011,HmpgHighlight
 Innovate through collaboration - helping us better align our products and services with your expectat...
-505548,homepage highlight empower blog,134950283,HmpgHighlight
 Get Empowered! Empower Tip-of-the-Week Blog 
-explore practical tips, key features and techniques for Empower.
+Leasing and Financing Services - Making science more accessible.  Learn more
 From start-ups and academic institutions to CROs, govern...
-505548,QDa Academia Homepage Highlight June 18,134987861,HmpgHighlight
-New Practical Education Package 
 Expand your undergraduate’s experiences with a practical and affordable mass spec course package
 Automating Sample Preparation Workflows for Hybrid LC-MS/Bioanalysis of Protein Therapeutics: Quantification of Etanercept Using Affinity Purification and Digestion
 Application of Difluoroacetic Acid to Improve Optical and Performance in Peptide LC-UV/MS
 Designing a New Particle Technology for Robust Charge Variant Analysis of mAbs 
 Development of Monoclonal Antibody Charge Variant Analysis Methods Using a BioResolve mAb Column
-Development of pGradient Mobile Phase Concentrates for Robust, High Resolution mAb Charge Variant Analysis
-Routine Peptide Mapping Analysis using the BioAccord System
 Enabling Routine and Reproducible Intact Mass Analysis When Data Integrity Matters
-Released N-linked Glycan Analysis Using the BioAccord System
 Non-Targeted Metabolomic Study of Pomegranate Juice to Investigate the Nutritional and Quality Characteristics Using Novel Acquisition and Vion Ion Mobility QTof MS
 LipidQuan: HILIC-based LC-MS/High-Throughput Targeted Free Fatty Acid Screen
 UPLC-MS/Analysis of 45 Amino Acids Using the Kairos Amino Acid Kit for Biomedical Research
 Small Molecule Reaction Monitoring Using Open Access Atmospheric Pressure Gas Chromatography-Mass Spectrometry (APGC-MS)
 For over 60 years, has developed innovative analytical science solutions to support customer discoveries, operations, performance, and regulatory compliance.
-505548,ta instruments,134527400,HmpgCorp
-United States
-505548,contact global redirect,134528201,HmpgLocal
-505548,irequest global redirect,134528203,HmpgLocal
-505548,Quick Link - Request Pricing Instruments / Systems,10145737,HmpgQuickLink
-505548,Quick Link - Request Pricing Columns / Consumables,134635783,HmpgQuickLink
-Request Pricing: Columns / Consumables
-505548,quicklink_academic_resources,134667337,HmpgQuickLink
-505548,Quick Link - Careers,10006188,HmpgQuickLink
-Careers at 505548,Quick Link - Marketing Video Gallery,134945030,HmpgQuickLink
 505548,offers and promotions,134633922,HmpgQuickLink
-Offers and Discounts
-505548,Quick Link - Community Forum,134966978,HmpgQuickLink
-Community Forum
- United States
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-10086411,IND,Biopharm
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-10086411,IND,Pharma
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-10086411,IND,Research
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-10086411,IND,Forensics
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-10086411,PROD,MassSpec
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-10086411,RESOURCES,Journal Articles
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-10086411,ABOUT,Corporate Governance
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
 For over 50 years, has developed innovative analytical science solutions to support customer discoveries, operations, performance, and regulatory compliance. Specifically, the company designs, manufactures, sells, and services high performance liquid chromatography, ultra performance liquid chromatography, and mass spectrometry technology systems and support products primarily in the United States, Europe, Japan, and Asia.
 Our innovations enable significant advancements within the pharmaceutical, life science, biochemical, industrial, food safety, environmental, academic and government industries. is a publicly traded (NYSE:WAT) with more than 6,000 employees and is represented in 85 countries around the world.
 Powering a connected portfolio of separation and analytical science, laboratory informatics, and mass spectrometry. Waters' technology breakthroughs and laboratory solutions provide an enduring platform for customer success.
-Research, Biotechnology
-Specialties: 
-Biotechnology, Scientific Instrumentation, Scientific Software, UPLC, HPLC, Chromatography, Mass Spec, Informatics, Chemistry, Analytical Standards
-Healthy & Safety
- United States
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
 Since 1958, has been in the business of making innovative analytical instruments that assist scientists in reaching their scientific goals, increase productivity, and earn laboratory-based organizations a higher return on their investments in research, development, and quality control.
 Whether at work discovering new pharmaceuticals, inventing new and more effective ways to treat diseases, assuring the safety of the world’s food and drinking water supplies, monitoring and controlling pollution, or conserving the world’s greatest art treasures, scientists worldwide rely on liquid chromatography and mass spectrometry products.
 60+ years in business, is now one of largest companies in the analytical instruments industry, supporting scientists working thousands of laboratories around the world. With a hard-earned reputation for applications expertise, dedication to customer success, and post-sales support, stands out among its peers and, year after year, is one of the best-performing companies in the industry.
 Corporation: Fifty Years of Innovation in Analysis and Purification
- magazine, Summer Issue 2008 
 The History of Jim and Corporation: 1958 to Present
-Jim and His Liquid Chromatography People: Personal Perspective
-60 Years of Innovation: Timeline Infographic
- United States
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-10176245,IND,Biopharm
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-10176245,IND,Pharma
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Centers of Innovation
-Centers of Innovation Program
 Centers of Innovation Program recognizes analytical scientists facilitating breakthroughs in health and life science research, food safety, environmental protection, sports medicine and many other areas.
 These leading scientists, in partnership with Waters, are using liquid chromatography and mass spectrometry to unlock the mysteries of science and take research down new and exciting paths. 
-See Centers of Innovation by: 
-St. John's Research Institute
- United States
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-134614370,IND,Biopharm
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-134614370,IND,Pharma
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-134614370,IND,Research
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-134614370,IND,Forensics
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-134614370,PROD,MassSpec
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-134614370,RESOURCES,Journal Articles
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
 At Waters, we are dedicated to maintaining the highest standards of business integrity. Over the past 50 years we've built a valuable reputation for integrity and continually take steps to reinforce that commitment. We believe that adherence to sound principles of corporate governance is essential to protecting Waters’ reputation, assets, investor confidence, and customer loyalty.
 Beyond providing our employees with the resources and knowledge required to conduct ethical business, we are committed to prompt and full public disclosure. provides financial information through our quarterly earnings call, our Website and our press releases and we strive to achieve the highest standards in transparent accounting and reporting.
 Good corporate governance starts at the top and Waters’ Board of Directors and its various committees are responsible for ensuring our business is conducted and managed in a responsible manner.  This section of our web page provides the detailed charters for the committees as well as critical policies to ensure an ethical and moral work environment is maintained. For your convenience, we have provided these documents in Acrobat format, so you may download them and read them offline or print them.
-Nominating and Corporate Governance Committee Charter 
-Compensation Committee Charter
-Global Code of Business Conduct and Ethics
-Policy on Reporting Complaints
-Categorical Standards of Independence
-Gender Pay Gap Report
- United States
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-1000210,IND,Biopharm
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-1000210,IND,Pharma
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-1000210,IND,Research
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-1000210,IND,Forensics
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-1000210,RESOURCES,Journal Articles
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-To Place a Fax Order
-En Yvelines Cedex, France
-Shanghai Limited
-Block 13, City of Elite, 1000 Jinhai Road, Pu Dong New District, Shanghai 201206, China 
-Columns and Consumables
-Instruments and Systems
- United States
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Instruments & Systems
-Chromatography Systems
-Chromatography Systems by: Pump Type
- United States
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-134614448,IND,Biopharm
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-134614448,IND,Pharma
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-134614448,IND,Research
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-134614448,RESOURCES,Journal Articles
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Health, Safety and Environmental Policy
-Modern Slavery Act 
 Our technology improves the world　
 From the everyday consumer to scientists in the laboratory, we all rely on accurate information to make critical decisions. is the world's leading specialty measurement company focused on improving human health and well being through the application of advanced analytical science technologies.
 Founded by Jim in 1958, serves life, materials and food sciences through a connected portfolio of chromatography, mass spectrometry, and thermal analysis innovations. Learn more about our 
@@ -2568,1396 +589,318 @@ creates business advantages for laboratory-dependent organizations by delivering
 is a world-leading provider of mycotoxin testing solutions. VICAM is dedicated to developing USDA- and AOAC-approved rapid tests for mycotoxins. VICAM’s mycotoxin test kits offer a choice of rapid qualitative screening and quantitative test methods for a wide variety of mycotoxins. Around the world, products are used with confidence by customers who trust our commitment to extending the value of those products with unmatched service and support. We guarantee satisfaction with expert technical assistance and top-of-the-line customer care.
  develops next-generation LC-data analysis software under the Progenesis brand name for extracting fundamental information from omics data sets. Two leading products, Progenesis for small-molecule applications and Progenesis for proteomics applications, deliver highly-accurate quantitative data analysis with simplicity, scalability, statistical processing, and improved visualizations.
  is a premier provider of Proficiency Testing (PT) products and Certified Reference Materials (CRMs) to thousands of laboratories around the world and across multiple industries. Our in-depth knowledge of major international accreditation and regulatory bodies enables us to expertly guide customers through the analytical challenges they face. Whether you are a commercial, research or government laboratory, small business or a multi-national corporation, you can count on ERA’s experience, products and services to simplify compliance and ensure quality.
- United States
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-10106698,IND,Biopharm
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-10106698,IND,Pharma
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-10106698,IND,Research
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
-10106698,IND,Food
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-10106698,IND,Enviro
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-10106698,IND,Forensics
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-10106698,PROD,ASR
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-10106698,PROD,Informatics
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-10106698,PROD,Chroma
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-10106698,PROD,MassSpec
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-10106698,RESOURCES,Journal Articles
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-10106698,EDU/EVNT,Primers
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-10106698,ABOUT,About About About 
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-10106698,ABOUT,Investors
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-10106698,ABOUT,Corporate Governance
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Consultation and Project Management
-Consultation and Project Management
-Dependable Services with Full Accountability
 Whether you are planning an initial implementation, balancing an existing implementation, upgrading, or migrating to the latest version of software, the Professional Services team will help you maximize the return on your investment by providing dependable services with full accountability. Throughout each phase of the lifecycle, a Professional Services project manager will work with you to target your objectives, track your progress and measure the benefits to your business.
-The Big Picture
 The Project Management team can collaborate with your company's Project Management Office and provide the Scope of Work, resource needs, schedule, risk assessments, budgets and other associated deliverables, so the needs of your deployment are aligned with other company initiatives. 
-Project planning 
 – Early involvement in planning activities and defining/refining planning processes for future projects.
-Distribution of work 
 – Your Project/Program manager focuses on company specific activities, while the Project Manager performs project specific tasks.
-Process and workflow 
 – We’ll help you to refine your internal processes, so that your workflows are better understood and documented.
 – To minimize time and cost overruns, Project Manager focuses on and streamlines day-to-day activities.
-Templates for future projects 
 – Formats and reports used during the project are refined and used as templates for future projects, reducing documentation time during planning phases.
-Minimize Deployment Risks
 The Project Management team is a network of certified project managers who are highly experienced in application deployments, database design and software/product development.  The effectiveness of your information management strategy and laboratory processes directly impacts your company’s success.
-Our Enterprise Software Solutions team can:
 Assess the current capabilities of your informatics software technology
 Recommend process changes that allow for a greater return on your technology investment.
-Optimize Laboratory Processes
 Our experienced consultants can help you capture the full return on investment of your Laboratory Informatics product through prioritized improvements to laboratory processes.
 With our Laboratory Process Optimization service, you can:
 Apply proven laboratory methods to fully leverage from Laboratory Informatics products
 Identify and prioritize plans for business improvement based on best practices
 Develop an organizational structure to support your business goals
- United States
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-134843716,IND,Biopharm
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-134843716,IND,Pharma
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
 Extend the value of your academic grant awards and operating budgets
 Take advantage of E&Cooperative Services. E&is the member-owned, not-for-profit sourcing cooperative delivering expertise, solutions, and services to the educational community and related institutions. E&leverages the knowledge and expertise of over 3,000 institutional members to deliver a robust and proven solicitation program that connects members with best-in-class competitively awarded contracts, electronic procurement platforms and expert consulting services to help them optimize their supply chain, reduce costs, and drive operational efficiency.
-Is your institution an E&member? 
-is partnering with E&I, enabling you to take advantage of a standardized contract to streamline your purchasing process. Avoid lengthy Terms & Conditions negotiations. Take advantage of automatic discounts on instruments, consumables and service contracts. And receive advance notification of special academic promotions through the E&monthly Contract Portfolio Update.
 Aggressive discounting for full catalog of chromatography and mass spectrometry equipment, chemicals and consumables
 Discounted rates on Total Assurance Plan – service plans for both Waters’ and Agilent equipment
-Substantial Savings on refurbished and demo equipment
  assures E&program pricing is applied to all institution users. Go to 
-Contract Participation Form
 Meets most public contract requirements, adoption based on Virginia Tech University competitively bid contract
 Contact your procurement professionals and ask them to "opt in" to the contract. We'll take care of the rest. Then you can take advantage of your membership for all your orders.
-Practical Mass Spec Education Package
- United States
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-134782900,IND,Biopharm
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-134782900,IND,Pharma
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Instruments & Systems
-Chromatography Systems
-Chromatography Systems by: Pump Type
-Isocratic Solvent Management
- United States
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Instruments & Systems
-Chromatography Systems
-Chromatography Systems by: Pump Type
- United States
-Consumer Products Testing
-Cosmetics & Personal Care Products
 Extractables and Leachables
-Fuel & Energy
-Research & Development
-Production & Manufacturing
-Agrochemical Application Book
-Synthesis, Purification, Formulation, Met ID, 
 Extractables and Leachables 
 Methods for Rapid and Cost Effective Identification of Contaminants
-Polymer Analysis Application book
-Folding, Structure, Additives, End Groups, Low Molecular Weight Oligomers
-10067099,IND,Biopharm
-Biopharmaceutical
-Biopharmaceutical Applications
-Glycans
-Oligonucleotides
-Peptide & Protein Bioanalysis
-Antibody Drug Conjugates
-Biosimilars
-Key BioAccord System
-Bioseparations Columns
-H-Class Bio
-QDa for Biopharm
-Biopharm LC/with UNIFI
-Process Development & Manufac...
-Health Sciences Research
-Centers of Innovation
-Voice of the Customer
-Webinars
+H/Exchange with (MS)
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Biopharm Solution with Key Applications
-10067099,IND,Pharma
-Pharmaceutical Applications
-Medicinal Chemistry
-Bioanalysis / DMPK
-Peptide & Protein Bioanalysis
-Chemical Manufacturing Contro...
-Tandem (Triple) Quadrupole MS
-High Resolution (HRMS)
-ionKey/MS
-Biopharmaceutical
-Discovery Research
-Impact in Pharma
-Centers of Innovation
-New and Bioanalysis Knowledge Center
-Peptide and Protein Bioanalysis Application Notebook
 Peptides and proteins are not small molecules. Why treat them the same? Learn wh...
-Software & Informatics
-Consumables
-Primers
-Forensic Toxicology
-Health Sciences Research
-On-Demand Webinar Available Now!
 Flow Injection Analysis Tandem Mass Spectrometry (FIA-MS/MS) in the Clinical Laboratory: Lessons from Newborn Screening ...
-Spot the Difference:
 What Causes Variability in Flow-Injection, Dried Blood Spot Analysis, and What You Can Do About It 
-Health Sciences Research
-Health Science Continuum
-Biomarker Discovery
-Proteomics
-Metabolomics & Lipidomics
-Translational Research 
-Biomarker Translation
-Translational Systems
-Key ionKey/MS
-Full Spectrum Imaging
-Forensic Toxicology
-Centers of Innovation
-Primers
-Ion Mobility in Omics
-Peptide & Protein Bioanalysis Boot Camp
 Develop a deeper proficiency in large molecule quantification. Visit the new Peptide & Protein Bioanalysis Boot Camp.
 DESI: Imaging for Biomedical Research
 Pesticide Screening Application Solution with UNIFI
-Veterinary Drugs
 Vitamins in Foods and Beverages
-Food Profiling and Authenticity
 Screening Platform Solution with UNIFI
 Routinely Quantify Contaminants. Reliable Results. Easy Method Development.
-QDa Food Testing 
-Increase detection selectivity and confidence using mass detection
-Polar Pesticides Analysis
 Latest LC-MS/methods for the underivatized analysis of glyphosate and other ionic pesticides
-Food and Safety Application Book
 Pesticides, Vet Drugs, Extractables, Sugars, Spices and Fatty Acids
-Dioxins and Furans
 Pesticide Screening Application Solution with UNIFI
-Pharmaceuticals and Personal Care Products (PCPPs)
 Screening Platform Solution with UNIFI
 Column and Sample Preparation Products for Environmental Testing
-Forensic Toxicology
-Screening Analysis
-Software & Informatics
-Consumables
-Primers
 Responding to the Challenge of New Psychoactive Substances in Forensic Toxicology with Targeted and Non-Targeted Informa...
 On Demand Webinar: Development in Analysis of Drugs and Metabolites in Skeletal Remains
 On Demand Webinar: Peptide Hormones in Sports Drug Testing, Detection of Emerging Protein- /Peptide-based Drugs by Means of LC-MS
-BioAccord System
-M-Class System
-Arc Bio System
-Amino Acid Analysis
-Antibody Drug Conjugates (ADCs)
-Biopharmaceutical
-Omics Research
-Pesticide Screening
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Innovation through collaboration at our Experience Design Center
 Cloud-deployable, compliance-ready, Enterprise CDS
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
-Chemistry Consumables & Columns
-Nano/Micro Scale Columns
-Hydrophilic Interaction HILIC
-SuperCritical Fluid SFC/UPC2
-Size Exclusion SEC/GPC
-Hydrophobic Interaction
-Bioseparations Columns
-Primers
-Introducing BioResolve mAb Consumables for mAb-based charge variant analyses
 Ask the Column Coach: Search by manufacturer, classification and/or compound class to find the column that m...
-Sample Preparation & Other Consumables
-Chemistry Consumables & Columns 
-Sample Preparation Products
-Solid-Phase Extraction
-Pass-Through Sample Preparati...
-Reaction Clean-up
-QuEChSample Preparation
-for Explosives Analysis
-Sample Preparation Kits
-Protein Digestion Kit
-Released N-Glycan Kits
-Amino Acid Kit
-Primers
 The 2017/18 Quality Parts, Chromatography Columns and Supplies Catalog is available!
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Analytical Standards & Reagents
-Analytical Standards & Reagents Overview
-System Performance Standards
-Pharmaceutical & Life Science Standards
-Glycan Standards
-Oligonucleotide Standards
-Food & Beverage Standards
-Chemical & Environmental Analysis Standards
-Biomedical Research Standards and Kits
-Behind the Science
 Talking with analytical scientists who are trying to solve today's toughest problems. We ask, "how'd you do it?" 
-Material Safety Data Sheets
-Empower 3 Chromatography Software
-LiveSample Recognition Software
-MassLynx Mass Spectrometry Software
-NuGenesis Lab Management System
-Symphony Data Pipeline Software
-Progenesis Data Analysis Software
 Empower tip-of-the-week blog and newsletter
 Innovation through collaboration at our Experience Design Center
-Data Integrity Resources
 Cloud-deployable, compliance-ready, Enterprise CDS
-Chromatography
-Systems by: Instrument Type
-Systems by: Technique
-Reversed-Phase Liquid Chromat...
-Normal-Phase Liquid Chromatog...
-Supercritical CO2 Based Techn...
 Advanced Polymer Chromatograp...
-Systems by: Application
-Hydrogen Deuterium Exchange (...
-Multi-Dimensional Separations
-Bioseparations
-Systems by: Pump Type
-Isocratic Solvent Management
-Systems by: Chemistry Format
-Primers
+3.0 mm - 10.0 mm I.D.
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
 Agilent 1100 Series System support is ending
 There are 1100 reasons to update your system to Waters.
-Mass Spectrometry
-BioAccord System
-Vion QTof
-G2-Si HDMS
-G2-Si HDMS
-Single Quadrupole
-Tandem ( Triple ) Quadrupole
-Quadrupole Time of Flight
-Analysis Type
-Direct Sample Analysis
-Ion Sources
 Introducing the first SmartMS-enabled biopharma solution, the BioAccord System
-Introducing our new GC-MS/system, the Xevo TQ-GC
-AutoPurification System
-Modular Systems
-Fraction Manager - Analytical
-MV-10 System
-Bio-Botanical Extraction Syst...
-Analytical to Semi-Prep ...
-Semi-Prep to Prep-Scale ...
-Semi-Prep to Prep-Scale P...
 Supercritical Fluid Chromatog...
 Supercritical Fluid Extractio...
-Bulk Delivery CO2 System  
-Run your small scale chiral purification and analysis in a single, easy-to-use platform. 
-Primers
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-small, easy-to-use and affordable mass detector bringing high-quality, mass sp...
-Centers of Innovation
-Journal Citations Articles
-Seminars & Events
-Offers & Discounts
 is partnering with E&Cooperative Services, a member-owned, not-for-profit sourcing cooperative delivering exper...
-Journal Articles
-(Protein Characteriza...
 (Glycan Characterizat...
-(Biopharmaceuticals)
-(Proteomics)
-Synapt G2
-nanoACQUITY/Xevo
 nanoACQUITY/Synapt
-ACQUITY/Xevo
-ACQUITY/Synapt
-Columns and Consumables
-Centers of Innovation
-All About Centers of Innovation
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-General Chromatography
-Mass Spectrometry
 Can't find a course? View the complete course list
-eLearning On-Demand Courses
 Web Courses - Learn Best Practices in 90 Minute Real-time Training with Q&A
-Seminars & Events
-All Seminars and Events
-Primers
-Primers
-- High Performance Liquid Chromatography
-- Ultra Performance Liquid Chromatography
-- Convergence Chromatography
-- Mass Spectrometry
-- Gel Permeation Chromatography
+- Sample Enrichment and Purification using Solid-Phase...
+Beginners Guide to Preparative SFC
 Beginners Guide to Preparative LC
 Practical Approaches to Peptide Isolation
-Graphical Parts Locator
-Spare Parts and Consumables
-Software Plans
 Innovation through collaboration at our Experience Design Center
-Search KnowledgeBase - find answers to your troubleshooting questions
-Graphical Parts Locator
-Request Certificate of Analysis
-Safety Data Sheets
-Search KnowledgeBase - find answers to your troubleshooting questions
-Columns and Consumables
-Instruments and Systems
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Environmental Health & Safety
-Modern Slavery Act
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-All Other Global Careers
-Application & Interview Process
 Connect with via Twitter, Linkedin, Facebook, YouTube, Community Forum, Blog and more.
-Blogging About What's Possible
 Read and follow the blog for insights on how to use – and how customers use – our technologies, including Empower...
-NuGenesis Lab Management System
 NuGenesis Lab Management System uniquely combines synergistic data, workflow, and sample management capabilities to support the entire product lifecycle from discovery through manufacturing.
 The user-centric platform encompasses NuGenesis SDMS, a compliant-ready data repository, NuGenesis ELN, a flexible analytical electronic laboratory notebook, and NuGenesis Sample Management. NuGenesis seamlessly links data from the lab to the business operations of the enterprise with functionality such as sample submission and results review, stability testing, scientific search, multi-vendor software connection, laboratory inventories, data retention and legal hold, and laboratory execution methods. 
-NuGenesis readily adapts to your organizations existing Informatics environments, facilitating software integration and standardization without the complex, costly, and time consuming deployments often encountered with traditional information management solutions. 
-Backup vs Archive whitepaper
 Marketplace - Access, Share & Innovate
-Check it out!

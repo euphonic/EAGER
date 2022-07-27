@@ -1,4 +1,3 @@
-commercialise.
 At nH2, we are constantly discovering new technologies to bring to market, nurturing them through the discovery pipeline from invention to commercialisation. Here are some of our current highlights:
 Mi3Data is a ground-breaking digital laboratory designed to help our scientists create and test new materials at the atomic level.
 As a computational platform for novel material discovery, Mi3Data will set a new standard in intelligent software for predictive material science.
@@ -9,7 +8,6 @@ displays offer vivid colours and thin screens but anything larger than a phone s
 Central to this new pixel architecture is nVerpix’s CN-VOLET, a vertical organic, light-emitting transistor, that combines the previously separate drive transistor and light emitting elements of an pixel into a single, vertically stacked element achieving stunning brightness with low currents.
 nVerpix’s unique carbon nanotube-based technology brings the possibility of affordable, large-scale, flexible and transparent displays within reach for the first time.
 "We realised that the problem wasn't a materials problem as everyone thought but an architecture problem."
-Andrew Rinzler, nVerpix
 With their innovative light emitting transistor, CN-VOLET, nVerpix are developing an entirely new pixel architecture - one that supports cheaper, more stable, larger, lower energy screens.
 We’re currently working with the Advanced Display Research Center in Seoul to build larger prototype nVerpix screens and begin production scale up.
 Transforming neutron detector design and promoting global security with highly sensitive, rapid, wide-area radiation scanning.
@@ -17,15 +15,12 @@ Wand combines inexpensive nano-materials with existing photovoltaic technologies
 Neutron radiation is hard to shield and therefore a very useful indicator of radioactive material, but it is hard and expensive to detect.
 In Wand we have combined boron-activated nano-materials with thin-film circuitry to create a lightweight  detection system. Wand can be used to coat structures as large as entire tunnels or as small a lapel pin, making real-time scanning of traffic and crowds a very real and, at one sixth of the price of existing detectors, inexpensive possibility.
 The global radiation detector market is predicted to grow to nearly £23 billion by 2020.
-Solid-state neutron detection
 Wand utilises the strong interaction between neutrons and boron to create a highly efficient, slim-line and scalable radiation detection system.
 Our scientific teams are working on a pocket-sized radiation detector and a prototype detector tunnel. They are also working to expand the technology to gamma-ray detection.
-SafeWater
 Transforming the health of millions around the world, with highly efficient, customisable water filters made from advance materials.
 An exciting and life-changing project, SafeWater uses advanced material filters to turn contaminated water into a supply that’s clean and safe to drink.
 Our filters can be tailored to remove a wide range of chemical contaminants such as arsenic, fluoride, and heavy metals, as well as biological impurities like viruses and bacteria. Best of all, the system requires no electricity or chemical additives for water purification, and very little maintenance, keeping costs low. Flow rates and capacities can also be customised to suit a wide range of different applications.
 “Arsenic contamination in water is the largest poisoning in the history of humanity.”
-Locking away dangerous contaminants
 SafeWater uses low cost advanced materials to lock away contaminants turning contaminated water into clean, safe drinking water.
 About 780 million people—a tenth of the world’s population—do not have access to clean drinking water.
 breakthrough infra-red detection and conversion technology, that is making the hidden spectrum of infra-red light visible, and opening up the possibility of affordable, unobtrusive, high-definition night vision for everyone.
@@ -33,7 +28,6 @@ NIRvision is revolutionising night vision technology by utilising light sensitiv
 Combining infra-red sensitive, nano-sized crystals, or Quantum dots, with organic LEDs (OLEDs), our thin-film technology opens up the potential for a huge range of new night vision applications, from head-up night vision displays in cars to affordable, non-intrusive night vision glasses.
 Another research avenue our team is pursuing with this technology is improving the efficiency of solar panel by widening their sensitivity to light energy in the infra-red part of the spectrum.
 10-20 times lighter than standard night vision systems, the NIRvision quantum dot-based system also consumes up to 20 times less power.
-Infra-red light detection using quantum dots
 NIRvision uses a combination of lead sulphide quantum dots, tuned to absorb infra-red light, and OLEDs, to create a thin film, energy efficient, night-vision system.
 Having successfully demonstrated the technology, the next step for the our NIRvision science team is to take their infra-red technology into commercial applications.
 An innovative new scanning technology that’s enabling unparalleled fault detection in the high-value composite materials used in applications such as aircraft wings and wind turbine blades.
@@ -41,7 +35,6 @@ Our radiowave-based, non-destructive scanning technology offers unparalleled fau
 Paramata utilises radio waves and proprietary detection and data visualisation techniques to provide unparalleled resolution and scanning depth. Our prototypes are already more effective at detecting defects in composite materials than any other scanning technology on the market.
 The first generation of Paramata will fit inside a suitcase for easy transportation and use. We are also working towards automating the scanning process with robotics, introducing it as part of a vehicle’s regular maintenance cycle. Paramata's scanning technology could also be applied to materials as a coating or integrated into the materials themselves, providing maintenance teams and flight crews with live monitoring systems.
 Composite materials are crucial in transport, construction, aerospace, and pipeline engineering. The composite market alone is projected to reach $12 billion by 2020.
-Radiowave-based scanning
 Paramata uses radiowaves to produce a non-destructive scanning technology that surpasses all existing technologies for detail and accuracy.
 We’re now building on our current prototypes to create an integrated, suitcase-sized, scanning system that’s easy to transport to wherever it’s needed.
 smart energy management and storage system that maximises the potential of electricity micro-generation by automatically storing and managing energy, switching between different energy sources to provide consumers with a cost efficient, reliable, seamless supply of energy.
@@ -49,7 +42,6 @@ eFlowBox is an intelligent energy management system that automatically monitors 
 Our vision with eFlowBox is to put into people’s hands the power to generate, store and supply cheaper energy, allowing them to switch between different energy supplies depending on availability and cost, and to store any excess power they produce for use at a later time.
 The system could help households dramatically reduce their energy costs, and help ensure reliable sources of electricity for the 1.6 billion people currently living in areas with intermittent grid supply. It could also be scaled up to provide smart energy management for local communities, transferring energy from home to home according to different supply and demand parameters.
 We predict that eFlow could provide cost savings of 50% for moderate energy users.
-Smart energy management
 eFlow is an intelligent energy control system that utilises a unique array of energy sourcing protocols to manage multiple energy supplies according to variables such as energy tarifs, reliability of supply and consumption rates.
 Our scientists are developing the eFlowBox battery system to allow users to vary their capacity according to their needs, and are working on new highly efficient energy storing nanomaterials.
 Turning sand into coastal defence barriers, with a new generation of high-strength, rapid-setting, low-carbon, cement-like construction materials.
@@ -59,39 +51,25 @@ nSolgel can also be fine tuned to suit a range of different construction applica
 sea-barrier built using nSolgel would have carbon savings of over 80% compared to one built with conventional cement.
 The nSolgel team has achieved compressive strengths of approximately 5800 psi, almost double that of the strongest Portland cement mortar, and they're not stopping there.
   (+1) 203 866 3300We are a collaborative team of scientists, analysts and managers driven to discover and develop technology solutions capable of disrupting multi billion dollar markets.
-multi-disciplined, global team
 Our team includes highly qualified and experienced individuals in science and technology, the law, banking, venture capital, communications and marketing. We are spread globally and can therefore rapidly assess and respond to new opportunities coming from the peer-to-peer recommendations within our scientific community.
 Justin is a seasoned ventured capitalist and entrepreneur. Before setting up nH2, he was Managing Director and Partner of Capital Partners in New York, where he was responsible for all venture investments. Justin received his B.Sc., with honours, in International Finance from City University, London, and his from Harvard Business School.
 Tareque has over twenty years of successful strategic business planning.  Before joining nH2, he was President of International Business for Akida Holdings, where he successfully commercialized air-purification technology and took the company from the verge of bankruptcy to profits exceeding $20 Million in less than three years. Tareque received his B.Sc with cum Laude honours in Computer Science from Bethune-Cookman College, Florida.
-Non-Executive & Advisory Teams
-Board of Directors - Chairman
 Bruce Barnet is Chairman of nH2 and was its’ lead investor. He currently is on the boards of Shotzoom, Flying Rhinoceros, and Direct Eats and on the Advisory Board of Capital. Bruce spent 21 years at Warner and was President Inc Asia from 1988-1990.
 Subsequently he was of Cowles Magazines and of Cahners Business Information, the largest publisher of business magazines in the .
 Professor Carty is the Executive Director of the Waterloo Institute for Nanotechnology at the University of Waterloo, Canada; Special Advisor to the President on international science and technology collaboration; and Research Professor in the Department of Chemistry. From 2004 - 2008 he served as Canada's first National Science Advisor to the Prime Minister and to the Government of Canada. He obtained a Phin inorganic chemistry from the University of Nottingham and spent 27 years at the University of Waterloo, with positions that included Dean of Research and Chair of the Department of Chemistry. former President of the Canadian Society for Chemistry, he has 318 publications in peer-reviewed journals, 9025 citations to his work, has five patents to his credit, 14 honorary degrees and 3 honorary professorships from universities around the world.
-Board of Directors
 Joined family firm in 1998 after completing from Clark University, Was instrumental in taking over the loss making consumer electronics/durables business of Daewoo Electronics and led its turnaround. Responsible for sale of Anchor Electricals to Matsushita Electric Industrial Co. Ltd (MEI) in 2007.
-Chief Investment Officer
 Jeff was previously a Senior Analyst with West Face Capital, and is a former Vice President at Morgan Stanley Principal Strategies, handling $6 billion under management. Jeff has a BSc/MSc Honors in Electrical Engineering and Economics from Caltech, and an from the Kellogg School of Management, Northwestern University.
-Titus Weinheimer
-General Counsel
 Titus is responsible for Nanoholdings’ legal affairs including deal structuring, negotiation and the execution of its global investment activities. Previously he was a partner of Strasburger & Price in New York. He received a law degree from the University of Munich (Germany) and a from Northwestern University and is licensed to practice law in Germany and New York.
-Dr John Rodgers
 John has a Ph.in crystallography from the University of London and previously worked at the National Research Council of Canada (NRC) and at Imperial College, London and then at Cambridge University, England, focused on crystallographic structure database dissemination systems and methodologies, crystallographic computing and structural crystallography. Dr Rodgers joined the in 1981 as a Senior Research Officer where he conducted research in intermetallic materials design. He has published and presented widely on scientific information technologies, structural and theoretical crystallography, materials selection methodologies, combinatorial materials science and alloy design.
-Dr Hiran Vedam
 Before joining Nanoholdings, Hiran was Senior Manager, Industry Liaison at the National University of Singapore (NUS) where she was involved in spinning-off companies, licensing technologies to commercial companies and in business development activities to promote collaboration between and industry. Hiran has a Ph.in Chemical Engineering from Purdue University, an from and a B.Tech from Madras.
 Dalli is the founder of Innovation and also developed a strategic communications platform used by Fortune 100 companies. Dalli holds a Honors in pyschology from Rutgers University and an in Educational Pyschology, from Montclair University.
-Mark Edwards
 Previous partner of 26 years with Buchanan, part of Group with extensive experience in financial communications and capital markets advisory.
-Head of Risk
 Former Head of Global Equities and Strategic Risk at Jefferies; B.Sc Physics  University of Calcutta, India   Finance  Simon school of Business, University of Rochester, NY.
-Dr Bhabendra Pradhan
 It is with great sadness that share with you the sudden passing of our Chief Scientific Officer, Bhabendra Pradhan. 
 Bhabendra’s contribution to nH2 over the last 10 years was immense. He was a remarkable scientist and tireless leader who cared deeply about the Company’s vision and the relationships he nurtured with preeminent scientists around the world
 At nH2, we work alongside leading scientists to aid discovery of technologies that will disrupt multi-billion dollar markets.
-Our approach
 Ushering a wave of invention through Mi3Data
 Mi3Data gives us the ability to accelerate the discovery of novel materials using combinatorial optimisation to digitally predict and fabricate new compounds.
-Building unique, strong, global scientific partnerships
 Our success rests on the strength of long-term relationships with our scientists. They form a core part of our team, and benefit financially from the collective success of our organisation. Together, we discover technological solutions capable of addressing key global challenges. We are particularly interested in creating game changing solutions to alleviate the world's dependence on fossil fuels and to ensure universal access to clean water.
 Providing strategic and commercial expertise
 Our management team apply their industry experience and rigorous business discipline to nurture and protect new discoveries. As the major investor in our subsidiaries, we follow a defined capital allocation process with clear investment exposure parameters to manage risk. We have amassed extensive and original intellectual property through primary research conducted in the labs of leading universities, and are focused on protecting it. We currently own 58 patents with another 170 pending.
@@ -99,4 +77,3 @@ Taking a considered and long term view
 In the 12 years since our inception, we have demonstrated a track record of patiently but effectively nurturing maturing product specfici portfolio companies to the point of pre-commercial prototypes. We focus on opportunities to disrupt established and highly profitable industries. Our investment methodology and the unique relationship we have with our scientific network means that we can strategically and rapidly address new opportunities as discoveries are validated.
 Over the last decade we have been building a portfolio of well-established and scientifically proven discoveries that are near to or at pre-commercial prototype stage. We are currently investing in the next generation of material discovery with the potential to make a significant contribution to energy and water sustainability over the coming decades.
 Of the twelve product specific subsidiaries we are currently prioritising, two are generating revenue, and two have developed commercial prototypes.
-Technology Development Stages

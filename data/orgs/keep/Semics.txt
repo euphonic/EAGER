@@ -1,12 +1,6 @@
 Prober.com is a Pacific Northwest company with office locations located in Tigard and Sherwood Oregon, just outside Portland.  We are dedicated to quality service and support for our customers worldwide.  We have an extensive inventory of probers.  In addition we have one of the most complete inventory of parts available in the industry for the probers.
 We also are an approved integrator for Cognex systems and Hot and Cold Chuck systems.  We can integrate the required systems for you on used probers or provide turn-key solutions for your team to install at your site.
 Please contact us with all your prober needs, we have an extensive network of sources for those hard to source parts and systems.  We look forward to helping you and your business.
-13565 Tualatin Sherwood Rd., Suite 500
-2) Intelligent Overdrive Control
-5) Flat Top for Large Test Head
-9) Fast Linear Motor Control for Stage
-10) Z-Down Control at the Time of Power-Down
-13) High-Performance OCR
+8) Fastest & Simplest Auto Card Changer
 Monitoring the contact pressure of probe pins,
-wafer chuck automatically align itself to probe card.
 Auto Cassette Loader may be ordered in 3 different ways:

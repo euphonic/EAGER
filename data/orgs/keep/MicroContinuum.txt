@@ -8,11 +8,8 @@ Nanoantenna Fabrication of nano-scale antennas and terahertz electronics for ene
 Optical Data Storage Roll-to-roll nanoforming and thin-film vacuum coating to produce extreme capacity archival data storage media.
 In-Line R2Processing Growth and harvesting of arrays of custom-shaped particles for chemical, biological and sensor/detection applications.
 Thin-film transistors and circuit components on plastic films for rollable displays, electronics and sensor networks.
-Photovoltaics
 Use of nanopatterned substrates in solar cells for improved efficiency and reduced costs.
-Optical Data Storage
 Growth and harvesting of arrays of custom-shaped particles for chemical, biological and sensor/detection applications.
-Optical Data Storage
 This jQuery slider was created with the free EasyRotator software from DWUser.com.
 News at Dr. Dennis Slafer, presenter at 2016 Stakeholder Meeting on October 18-19, 2016
 Partner, Iowa State University, is the recipient of an grant for “Enhanced Light Extraction from Low Cost White OLEDs (WOLEDs) Fabricated on Novel Patterned Substrates”
