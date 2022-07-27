@@ -48,7 +48,7 @@ toolz==0.9.0
 tqdm==4.23.1
 Twisted==17.9.0
 ujson==1.35
-urllib3==1.22
+urllib3==1.26.5
 w3lib==1.19.0
 wrapt==1.10.11
 zope.interface==4.5.0
