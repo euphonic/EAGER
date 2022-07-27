@@ -18,7 +18,7 @@ lxml==4.2.1
 msgpack-numpy==0.4.1
 msgpack-python==0.5.6
 murmurhash==0.28.0
-numpy==1.14.3
+numpy==1.22.0
 parsel==1.4.0
 pathlib==1.0.1
 plac==0.9.6
